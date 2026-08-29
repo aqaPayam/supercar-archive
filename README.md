@@ -2,6 +2,8 @@
 
 A local, searchable supercar knowledge base that keeps specifications, engineering stories, market history, colors, geographic distribution, sources, and licensed media in one website.
 
+The catalogue supports manufacturer browsing, full-text search, linked model filters, technical and market ranges, evidence-availability filters, sorting, grid/list views, pagination, and shareable filter URLs.
+
 ## Run locally
 
 ```powershell

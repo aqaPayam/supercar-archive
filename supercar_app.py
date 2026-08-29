@@ -9,7 +9,7 @@ from collections import defaultdict
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import parse_qs, quote, urlparse
+from urllib.parse import parse_qs, quote, urlencode, urlparse
 
 
 ROOT = Path(__file__).resolve().parent
@@ -723,6 +723,38 @@ def page(title: str, body: str) -> str:
     .car-card-body {{ padding:16px; }} .car-card h3 {{ margin:5px 0 4px; font-size:21px; }}
     .mini-specs {{ display:flex; flex-wrap:wrap; gap:8px; margin-top:13px; }}
     .mini-specs span {{ background:#eee8de; border-radius:999px; padding:5px 9px; font-size:12px; font-weight:700; }}
+    .manufacturer-strip {{ display:grid; grid-auto-flow:column; grid-auto-columns:minmax(215px,1fr); gap:12px; overflow-x:auto; padding:2px 2px 10px; margin:12px 0 24px; scroll-snap-type:x proximity; }}
+    .manufacturer-card {{ scroll-snap-align:start; min-height:118px; display:flex; flex-direction:column; justify-content:space-between; color:var(--ink); text-decoration:none; background:linear-gradient(145deg,var(--card),#eee8de); }}
+    .manufacturer-card:hover {{ border-color:var(--gold); }}
+    .manufacturer-card h3 {{ font-size:21px; margin:5px 0; }}
+    .manufacturer-meta {{ display:flex; justify-content:space-between; gap:8px; color:var(--muted); font-size:12px; }}
+    .filter-panel {{ padding:16px; margin:20px 0 14px; }}
+    .filter-search {{ display:grid; grid-template-columns:1fr auto; gap:8px; margin-bottom:12px; }}
+    .filter-search input {{ font-size:16px; padding:12px 13px; }}
+    .quick-filters,.advanced-filter-grid {{ display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:10px; }}
+    .filter-field label {{ display:block; margin-bottom:4px; color:var(--muted); font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.04em; }}
+    .filter-panel details {{ box-shadow:none; margin:12px 0 0; background:#f8f4ed; }}
+    .filter-panel details form {{ padding:0; }}
+    .advanced-filter-grid {{ padding:0 14px 14px; grid-template-columns:repeat(4,minmax(0,1fr)); }}
+    .range-pair {{ display:grid; grid-template-columns:1fr 1fr; gap:7px; }}
+    .check-grid {{ display:flex; flex-wrap:wrap; gap:9px; grid-column:1/-1; }}
+    .check-option {{ display:flex; align-items:center; gap:7px; padding:8px 10px; border:1px solid var(--line); border-radius:7px; background:white; font-size:13px; font-weight:700; }}
+    .check-option input {{ width:auto; margin:0; }}
+    .filter-actions {{ display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:10px; margin-top:13px; }}
+    .filter-actions-left {{ display:flex; flex-wrap:wrap; gap:8px; }}
+    .filter-note {{ color:var(--muted); font-size:12px; }}
+    .result-bar {{ display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin:16px 0 8px; }}
+    .result-tools {{ display:flex; align-items:center; gap:8px; }}
+    .view-switch {{ display:flex; border:1px solid var(--line); border-radius:7px; overflow:hidden; background:var(--card); }}
+    .view-switch a {{ padding:7px 10px; text-decoration:none; font-size:12px; font-weight:800; border-right:1px solid var(--line); }}
+    .view-switch a:last-child {{ border-right:0; }} .view-switch a.active {{ color:white; background:var(--accent2); }}
+    .filter-chips {{ display:flex; flex-wrap:wrap; gap:7px; margin:8px 0 14px; }}
+    .filter-chip {{ display:inline-flex; align-items:center; gap:6px; padding:6px 9px; border-radius:999px; background:#e8e1d5; color:var(--ink); text-decoration:none; font-size:12px; font-weight:750; }}
+    .filter-chip b {{ color:var(--accent); font-size:15px; line-height:1; }}
+    .coverage-note {{ margin:10px 0 0; padding:9px 11px; border-left:3px solid var(--gold); background:#f4eee3; color:#65594b; font-size:12px; }}
+    .pagination {{ display:flex; flex-wrap:wrap; justify-content:center; gap:6px; margin:22px 0; }}
+    .pagination a,.pagination span {{ min-width:35px; padding:7px 9px; text-align:center; border:1px solid var(--line); border-radius:7px; background:var(--card); text-decoration:none; font-weight:750; }}
+    .pagination span {{ color:white; background:var(--accent2); }}
     .table-wrap {{ overflow:auto; border:1px solid var(--line); border-radius:10px; background:var(--card); }}
     table {{ width:100%; border-collapse:collapse; white-space:nowrap; }}
     th {{ text-align:left; font-size:12px; text-transform:uppercase; letter-spacing:.06em; color:#5f5549; background:#eee8de; }}
@@ -792,9 +824,11 @@ def page(title: str, body: str) -> str:
     .field.full {{ grid-column:1/-1; }} label {{ display:block; font-weight:700; margin-bottom:5px; font-size:13px; }}
     .form-actions {{ grid-column:1/-1; display:flex; gap:10px; margin-top:5px; }}
     .notice {{ padding:12px 14px; border-radius:8px; background:#fff5dc; border:1px solid #e5c98e; }}
+    @media (max-width:1100px) {{ .quick-filters {{ grid-template-columns:repeat(3,minmax(0,1fr)); }} .advanced-filter-grid {{ grid-template-columns:repeat(3,minmax(0,1fr)); }} }}
     @media (max-width:1000px) {{ .color-grid {{ grid-template-columns:repeat(3,minmax(0,1fr)); }} .family-list {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} }}
     @media (max-width:900px) {{ .catalog-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} }}
-    @media (max-width:800px) {{ .hero,.fact-grid,.form-grid,.stats,.attribute-sections,.market-overview,.distribution-groups {{ grid-template-columns:1fr; }} .catalog-grid,.family-list {{ grid-template-columns:1fr; }} .color-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} .hero-image {{ min-height:260px; }} h1 {{ font-size:29px; }} .attribute-row {{ grid-template-columns:1fr; gap:3px; }} .attribute-value {{ text-align:left; }} .gallery-strip {{ grid-template-columns:repeat(3,minmax(0,1fr)); }} }}
+    @media (max-width:800px) {{ .hero,.fact-grid,.form-grid,.stats,.attribute-sections,.market-overview,.distribution-groups {{ grid-template-columns:1fr; }} .catalog-grid,.family-list {{ grid-template-columns:1fr; }} .quick-filters,.advanced-filter-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} .color-grid {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} .hero-image {{ min-height:260px; }} h1 {{ font-size:29px; }} .attribute-row {{ grid-template-columns:1fr; gap:3px; }} .attribute-value {{ text-align:left; }} .gallery-strip {{ grid-template-columns:repeat(3,minmax(0,1fr)); }} }}
+    @media (max-width:560px) {{ .quick-filters,.advanced-filter-grid,.filter-search {{ grid-template-columns:1fr; }} .filter-search button {{ width:100%; }} .result-bar,.filter-actions {{ align-items:stretch; }} .result-tools {{ justify-content:space-between; width:100%; }} }}
     @media (max-width:480px) {{ .color-grid {{ grid-template-columns:1fr; }} .gallery-strip {{ grid-template-columns:repeat(2,minmax(0,1fr)); }} .wrap {{ width:min(100% - 22px,1280px); }} }}
   </style>
 </head>
@@ -816,6 +850,19 @@ def page(title: str, body: str) -> str:
       if (caption) caption.textContent = thumb.dataset.galleryCaption || '';
       if (count) count.textContent = (thumb.dataset.galleryIndex || '1') + ' of ' + count.dataset.total;
     }});
+    const catalogueFilters = document.getElementById('catalog-filters');
+    if (catalogueFilters) {{
+      const manufacturer = catalogueFilters.querySelector('[name="manufacturer"]');
+      const model = catalogueFilters.querySelector('[name="model_family"]');
+      if (manufacturer && model) manufacturer.addEventListener('change', function() {{ model.value = ''; }});
+      catalogueFilters.addEventListener('submit', function() {{
+        catalogueFilters.querySelectorAll('input,select').forEach(function(control) {{
+          const isEmpty = control.value === '' || (control.type === 'checkbox' && !control.checked);
+          const isDefault = (control.name === 'view' && control.value === 'grid') || (control.name === 'sort' && control.value === 'name');
+          if (isEmpty || isDefault) control.disabled = true;
+        }});
+      }});
+    }}
   </script>
 </body>
 </html>"""
@@ -1007,7 +1054,8 @@ class AppHandler(BaseHTTPRequestHandler):
         path = parsed.path
         parts = [p for p in path.split("/") if p]
         if path == "/":
-            self.show_index(parse_qs(parsed.query).get("q", [""])[0])
+            raw_filters = parse_qs(parsed.query, keep_blank_values=True)
+            self.show_index({key: values[0].strip() for key, values in raw_filters.items()})
         elif path == "/new":
             self.send_html(page("Add car", car_form("/cars")))
         elif len(parts) == 3 and parts[0] == "car" and parts[2] == "edit":
@@ -1049,59 +1097,325 @@ class AppHandler(BaseHTTPRequestHandler):
         else:
             self.send_html(page("Not found", "<h1>Not found</h1>"), 404)
 
-    def show_index(self, query: str) -> None:
-        like = f"%{query}%"
+    def show_index(self, filters: dict[str, str]) -> None:
+        filters = {key: value for key, value in filters.items() if value != ""}
+        query = filters.get("q", "")
+        selected_make = filters.get("manufacturer", "")
+        selected_model = filters.get("model_family", "")
+        view = filters.get("view", "grid") if filters.get("view") in {"grid", "list"} else "grid"
+        sort = filters.get("sort", "name")
+
         with connect() as db:
-            cars = db.execute(
+            catalog_rows = db.execute(
                 """SELECT c.*,
-                          (SELECT location FROM media m WHERE m.car_id = c.id ORDER BY is_primary DESC, id LIMIT 1) AS primary_image,
-                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Maximum power' AND a.unit='kW' ORDER BY id LIMIT 1) AS display_power_kw,
-                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Vehicle weight' AND a.unit='kg' ORDER BY id LIMIT 1) AS display_weight_kg,
-                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='0–100 km/h' ORDER BY id LIMIT 1) AS display_zero_to_100,
-                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Maximum speed' AND a.unit='km/h' ORDER BY id LIMIT 1) AS display_top_speed,
-                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Total announced production' ORDER BY id LIMIT 1) AS display_production
+                          (SELECT location FROM media m WHERE m.car_id=c.id ORDER BY is_primary DESC,id LIMIT 1) AS primary_image,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Maximum power' AND a.unit='kW' ORDER BY a.id LIMIT 1) AS display_power_kw,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Maximum torque' AND a.unit='Nm' ORDER BY a.id LIMIT 1) AS display_torque_nm,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Vehicle weight' AND a.unit='kg' ORDER BY a.id LIMIT 1) AS display_weight_kg,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='0–100 km/h' ORDER BY a.id LIMIT 1) AS display_zero_to_100,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Maximum speed' AND a.unit='km/h' ORDER BY a.id LIMIT 1) AS display_top_speed,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Total announced production' ORDER BY a.id LIMIT 1) AS display_production,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Configuration' ORDER BY a.id LIMIT 1) AS display_configuration,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Aspiration' ORDER BY a.id LIMIT 1) AS display_aspiration,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label='Transmission' ORDER BY a.id LIMIT 1) AS display_transmission,
+                          (SELECT value FROM attributes a WHERE a.car_id=c.id AND a.label IN ('Driven wheels','Drivetrain') ORDER BY CASE a.label WHEN 'Driven wheels' THEN 0 ELSE 1 END,a.id LIMIT 1) AS display_drivetrain,
+                          (SELECT GROUP_CONCAT(a.label || ' ' || a.value,' ') FROM attributes a WHERE a.car_id=c.id) AS search_attributes,
+                          (SELECT GROUP_CONCAT(f.title || ' ' || f.explanation || ' ' || COALESCE(f.why_it_matters,''),' ') FROM facts f WHERE f.car_id=c.id) AS search_facts,
+                          (SELECT GROUP_CONCAT(s.publisher || ' ' || s.title,' ') FROM sources s WHERE s.car_id=c.id) AS search_sources,
+                          (SELECT GROUP_CONCAT(p.venue || ' ' || COALESCE(p.serial_number,'') || ' ' || COALESCE(p.notes,''),' ') FROM price_records p WHERE p.car_id=c.id) AS search_prices,
+                          (SELECT GROUP_CONCAT(r.color_name,'|') FROM color_records r WHERE r.car_id=c.id) AS search_colors,
+                          (SELECT GROUP_CONCAT(g.country,'|') FROM country_distribution g WHERE g.car_id=c.id) AS search_geography,
+                          (SELECT COUNT(*) FROM media m WHERE m.car_id=c.id) AS media_count,
+                          (SELECT COUNT(*) FROM price_records p WHERE p.car_id=c.id) AS price_count,
+                          (SELECT COUNT(*) FROM sources s WHERE s.car_id=c.id) AS source_count,
+                          (SELECT COUNT(*) FROM attributes a WHERE a.car_id=c.id AND a.section='Ownership & dealer notes') AS dealer_note_count,
+                          (SELECT p.amount FROM price_records p WHERE p.car_id=c.id AND p.currency='USD' ORDER BY p.observation_date DESC,p.id DESC LIMIT 1) AS latest_usd_price,
+                          (SELECT p.observation_date FROM price_records p WHERE p.car_id=c.id AND p.currency='USD' ORDER BY p.observation_date DESC,p.id DESC LIMIT 1) AS latest_usd_date
                    FROM cars c
-                   WHERE ? = '' OR manufacturer LIKE ? OR model_family LIKE ? OR generation LIKE ? OR variant LIKE ?
-                   ORDER BY manufacturer, model_family, model_year_from, variant""",
-                (query, like, like, like, like),
+                   ORDER BY c.manufacturer,c.model_family,c.model_year_from,c.variant"""
             ).fetchall()
-            car_count = db.execute("SELECT COUNT(*) FROM cars").fetchone()[0]
+            all_cars = [dict(row) for row in catalog_rows]
             fact_count = db.execute("SELECT COUNT(*) FROM facts").fetchone()[0]
             price_count = db.execute("SELECT COUNT(*) FROM price_records").fetchone()[0]
+            color_options = [row[0] for row in db.execute("SELECT DISTINCT color_name FROM color_records ORDER BY color_name")]
+            geography_options = [row[0] for row in db.execute("SELECT DISTINCT country FROM country_distribution ORDER BY country")]
+
+        def number(value: object | None) -> float | None:
+            try:
+                return float(str(value).replace(",", "")) if value not in (None, "") else None
+            except ValueError:
+                return None
+
+        def exact_values(car: dict[str, object], key: str) -> set[str]:
+            return {part.strip() for part in str(car.get(key) or "").split("|") if part.strip()}
+
+        q_tokens = [token for token in query.casefold().split() if token]
+        numeric_ranges = [
+            ("power_min", "power_max", "display_power_kw"),
+            ("weight_min", "weight_max", "display_weight_kg"),
+            ("speed_min", "speed_max", "display_top_speed"),
+            ("production_min", "production_max", "display_production"),
+            ("price_min", "price_max", "latest_usd_price"),
+        ]
+
+        def matches(car: dict[str, object]) -> bool:
+            haystack = " ".join(str(car.get(key) or "") for key in (
+                "manufacturer", "model_family", "generation", "variant", "engine_code", "body_style",
+                "category", "origin_country", "summary", "search_attributes", "search_facts", "search_sources",
+                "search_prices", "search_colors", "search_geography",
+            )).casefold()
+            if q_tokens and not all(token in haystack for token in q_tokens):
+                return False
+            text_filters = {
+                "manufacturer": "manufacturer", "model_family": "model_family", "generation": "generation",
+                "category": "category", "origin": "origin_country", "body": "body_style",
+                "configuration": "display_configuration", "aspiration": "display_aspiration",
+                "transmission": "display_transmission", "drivetrain": "display_drivetrain",
+            }
+            if any(filters.get(param) and str(car.get(column) or "") != filters[param] for param, column in text_filters.items()):
+                return False
+            if filters.get("color") and filters["color"] not in exact_values(car, "search_colors"):
+                return False
+            if filters.get("geography") and filters["geography"] not in exact_values(car, "search_geography"):
+                return False
+            start = as_int(filters.get("year_from"))
+            end = as_int(filters.get("year_to"))
+            if start and (car.get("model_year_to") is None or int(car["model_year_to"]) < start):
+                return False
+            if end and (car.get("model_year_from") is None or int(car["model_year_from"]) > end):
+                return False
+            if filters.get("road_legal") in {"1", "0"} and int(car.get("road_legal") or 0) != int(filters["road_legal"]):
+                return False
+            for minimum_key, maximum_key, column in numeric_ranges:
+                minimum = as_float(filters.get(minimum_key))
+                maximum = as_float(filters.get(maximum_key))
+                current = number(car.get(column))
+                if minimum is not None and (current is None or current < minimum):
+                    return False
+                if maximum is not None and (current is None or current > maximum):
+                    return False
+            if filters.get("has_gallery") == "1" and int(car.get("media_count") or 0) < 4:
+                return False
+            if filters.get("has_prices") == "1" and int(car.get("price_count") or 0) == 0:
+                return False
+            if filters.get("has_dealer") == "1" and int(car.get("dealer_note_count") or 0) == 0:
+                return False
+            if filters.get("has_sources") == "1" and int(car.get("source_count") or 0) == 0:
+                return False
+            return True
+
+        cars = [car for car in all_cars if matches(car)]
+        sorters = {
+            "name": lambda car: (str(car.get("manufacturer") or ""), str(car.get("model_family") or ""), int(car.get("model_year_from") or 9999), str(car.get("variant") or "")),
+            "newest": lambda car: -(int(car.get("model_year_from") or -1)),
+            "oldest": lambda car: int(car.get("model_year_from") or 9999),
+            "power": lambda car: -(number(car.get("display_power_kw")) or -1),
+            "speed": lambda car: -(number(car.get("display_top_speed")) or -1),
+            "lightest": lambda car: number(car.get("display_weight_kg")) if number(car.get("display_weight_kg")) is not None else float("inf"),
+            "rarest": lambda car: number(car.get("display_production")) if number(car.get("display_production")) is not None else float("inf"),
+            "latest_price": lambda car: -(number(car.get("latest_usd_price")) or -1),
+            "recently_added": lambda car: str(car.get("created_at") or ""),
+        }
+        cars.sort(key=sorters.get(sort, sorters["name"]), reverse=(sort == "recently_added"))
+
+        manufacturers = sorted({str(car["manufacturer"]) for car in all_cars})
+        models = sorted({str(car["model_family"]) for car in all_cars if not selected_make or car["manufacturer"] == selected_make})
+        generations = sorted({str(car["generation"]) for car in all_cars if car.get("generation") and (not selected_make or car["manufacturer"] == selected_make) and (not selected_model or car["model_family"] == selected_model)})
+
+        def distinct(key: str) -> list[str]:
+            return sorted({str(car[key]) for car in all_cars if car.get(key)})
+
+        option_sets = {
+            "manufacturer": manufacturers,
+            "model_family": models,
+            "generation": generations,
+            "category": distinct("category"),
+            "origin": distinct("origin_country"),
+            "body": distinct("body_style"),
+            "configuration": distinct("display_configuration"),
+            "aspiration": distinct("display_aspiration"),
+            "transmission": distinct("display_transmission"),
+            "drivetrain": distinct("display_drivetrain"),
+            "color": color_options,
+            "geography": geography_options,
+        }
+
+        def options(name: str, placeholder: str) -> str:
+            current = filters.get(name, "")
+            rendered = [f'<option value="">{esc(placeholder)}</option>']
+            rendered.extend(
+                f'<option value="{esc(value)}"{" selected" if value == current else ""}>{esc(value)}</option>'
+                for value in option_sets[name]
+            )
+            return "".join(rendered)
+
+        def query_url(changes: dict[str, object | None]) -> str:
+            params = {key: value for key, value in filters.items() if value != "" and key != "page"}
+            for key, value in changes.items():
+                if value in (None, ""):
+                    params.pop(key, None)
+                else:
+                    params[key] = str(value)
+            return "/" + ("?" + urlencode(params) if params else "")
+
+        manufacturer_groups: dict[str, list[dict[str, object]]] = defaultdict(list)
+        for car in all_cars:
+            manufacturer_groups[str(car["manufacturer"])].append(car)
+
+        def manufacturer_year_span(make_cars: list[dict[str, object]]) -> str:
+            starts = [int(car["model_year_from"]) for car in make_cars if car.get("model_year_from")]
+            ends = [int(car.get("model_year_to") or car["model_year_from"]) for car in make_cars if car.get("model_year_from")]
+            return f"{min(starts)}–{max(ends)}" if starts and ends else "Years not recorded"
+
+        manufacturer_cards = "".join(
+            f"""<a class="card manufacturer-card" href="/?{urlencode({'manufacturer': make})}">
+              <div><div class="eyebrow">Manufacturer</div><h3>{esc(make)}</h3></div>
+              <div class="manufacturer-meta"><span>{len({str(car['model_family']) for car in make_cars})} model families · {len(make_cars)} variants</span><span>{esc(manufacturer_year_span(make_cars))}</span></div>
+            </a>"""
+            for make, make_cars in sorted(manufacturer_groups.items())
+        )
+
+        active_labels = {
+            "q": "Search", "manufacturer": "Manufacturer", "model_family": "Model", "generation": "Generation",
+            "year_from": "From year", "year_to": "To year", "category": "Category", "origin": "Origin",
+            "body": "Body", "configuration": "Engine", "aspiration": "Aspiration", "transmission": "Transmission",
+            "drivetrain": "Driven wheels", "color": "Color", "geography": "Geography",
+            "road_legal": "Road legal", "power_min": "Min power", "power_max": "Max power",
+            "weight_min": "Min weight", "weight_max": "Max weight", "speed_min": "Min speed",
+            "speed_max": "Max speed", "production_min": "Min production", "production_max": "Max production",
+            "price_min": "Min latest USD sale", "price_max": "Max latest USD sale", "has_gallery": "Complete gallery",
+            "has_prices": "Price history", "has_dealer": "Dealer checks", "has_sources": "Sources",
+        }
+        chips = "".join(
+            f'<a class="filter-chip" href="{esc(query_url({key: None}))}">{esc(label)}: {esc("Yes" if value == "1" and key.startswith("has_") else "Road legal" if key == "road_legal" and value == "1" else "Not road legal" if key == "road_legal" else value)} <b>×</b></a>'
+            for key, label in active_labels.items() if (value := filters.get(key))
+        )
+
+        advanced_keys = set(active_labels) - {"q", "manufacturer", "model_family", "year_from", "year_to", "category"}
+        advanced_open = " open" if any(filters.get(key) for key in advanced_keys) else ""
+        checked = lambda key: " checked" if filters.get(key) == "1" else ""
+        selected = lambda key, value: " selected" if filters.get(key) == value else ""
+
+        sort_options = [
+            ("name", "Name A–Z"), ("newest", "Newest first"), ("oldest", "Oldest first"),
+            ("power", "Most powerful"), ("speed", "Fastest"), ("lightest", "Lightest"),
+            ("rarest", "Rarest first"), ("latest_price", "Highest latest USD sale"),
+            ("recently_added", "Recently added"),
+        ]
+        sort_html = "".join(f'<option value="{key}"{" selected" if sort == key else ""}>{label}</option>' for key, label in sort_options)
+
+        page_size = 24
+        page_count = max(1, (len(cars) + page_size - 1) // page_size)
+        page_number = min(max(1, as_int(filters.get("page")) or 1), page_count)
+        shown_cars = cars[(page_number - 1) * page_size:page_number * page_size]
+
+        def year_range(car: dict[str, object]) -> str:
+            start, end = car.get("model_year_from"), car.get("model_year_to")
+            return str(start) if start == end or not end else f"{start}–{end}"
+
+        def usd_price(car: dict[str, object]) -> str:
+            amount = number(car.get("latest_usd_price"))
+            if amount is None:
+                return "—"
+            display = f"${amount / 1_000_000:.2f}M" if amount >= 1_000_000 else f"${amount:,.0f}"
+            return f"{display} ({esc(car.get('latest_usd_date'))})" if car.get("latest_usd_date") else display
 
         rows = "".join(
             f"""<tr>
-              <td><a class="car-link" href="/car/{quote(car['id'])}">{esc(car['manufacturer'])} {esc(car['model_family'])}</a><div class="small muted">{esc(car['generation'])}</div></td>
-              <td>{esc(car['variant'])}</td><td>{value_or_dash(car['model_year_from'])}</td><td>{value_or_dash(car['category'])}</td>
+              <td><a class="car-link" href="/car/{quote(str(car['id']))}">{esc(car['manufacturer'])} {esc(car['model_family'])}</a><div class="small muted">{esc(car['generation'])}</div></td>
+              <td>{esc(car['variant'])}</td><td>{esc(year_range(car))}</td><td>{value_or_dash(car['category'])}</td>
               <td>{value_or_dash(car['display_power_kw'],' kW')}</td><td>{value_or_dash(car['display_weight_kg'],' kg')}</td>
-              <td>{value_or_dash(car['display_top_speed'],' km/h')}</td><td>{value_or_dash(car['display_production'])}</td>
-            </tr>""" for car in cars
-        ) or '<tr><td colspan="8" class="muted">No matching cars.</td></tr>'
+              <td>{value_or_dash(car['display_top_speed'],' km/h')}</td><td>{value_or_dash(car['display_production'])}</td><td>{usd_price(car)}</td>
+            </tr>""" for car in shown_cars
+        ) or '<tr><td colspan="9" class="muted">No cars match these filters.</td></tr>'
 
         cards = "".join(
-            f"""<a class="card car-card" href="/car/{quote(car['id'])}">
+            f"""<a class="card car-card" href="/car/{quote(str(car['id']))}">
               {f'<img src="{esc(car["primary_image"])}" alt="{esc(car["manufacturer"])} {esc(car["model_family"])}">' if car['primary_image'] else '<div style="aspect-ratio:16/9;background:#d9d5cc"></div>'}
-              <div class="car-card-body"><div class="eyebrow">{esc(car['category'] or 'Car')}</div>
+              <div class="car-card-body"><div class="eyebrow">{esc(car['category'] or 'Car')} · {esc(year_range(car))}</div>
                 <h3>{esc(car['manufacturer'])} {esc(car['model_family'])}</h3>
                 <div class="muted">{esc(car['generation'])} · {esc(car['variant'])}</div>
-                <div class="mini-specs"><span>{value_or_dash(car['display_power_kw'],' kW')}</span><span>{value_or_dash(car['display_zero_to_100'],' s')}</span><span>{value_or_dash(car['display_top_speed'],' km/h')}</span></div>
-              </div></a>""" for car in cars
+                <div class="mini-specs"><span>{value_or_dash(car['display_power_kw'],' kW')}</span><span>{value_or_dash(car['display_zero_to_100'],' s')}</span><span>{value_or_dash(car['display_top_speed'],' km/h')}</span><span>{value_or_dash(car['display_production'],' built')}</span></div>
+              </div></a>""" for car in shown_cars
+        )
+
+        pagination = ""
+        if page_count > 1:
+            links = []
+            for number_value in range(1, page_count + 1):
+                links.append(f'<span>{number_value}</span>' if number_value == page_number else f'<a href="{esc(query_url({"page": number_value}))}">{number_value}</a>')
+            pagination = f'<nav class="pagination" aria-label="Catalogue pages">{"".join(links)}</nav>'
+
+        title = f"{selected_make} cars" if selected_make else "Explore the collection"
+        result_text = f"{len(cars)} matching variant{'s' if len(cars) != 1 else ''}"
+        if selected_make:
+            result_text += f" from {selected_make}"
+
+        filters_html = f"""
+        <form method="get" class="card filter-panel" id="catalog-filters">
+          <input type="hidden" name="view" value="{esc(view)}">
+          <div class="filter-search"><input name="q" value="{esc(query)}" placeholder="Search cars, engines, internal codes, features, facts, chassis or sources" aria-label="Search the catalogue"><button class="secondary">Search</button></div>
+          <div class="quick-filters">
+            <div class="filter-field"><label for="manufacturer">Manufacturer</label><select id="manufacturer" name="manufacturer">{options('manufacturer','All manufacturers')}</select></div>
+            <div class="filter-field"><label for="model-family">Model family</label><select id="model-family" name="model_family">{options('model_family','All models')}</select></div>
+            <div class="filter-field"><label for="year-from">From year</label><input id="year-from" type="number" name="year_from" value="{esc(filters.get('year_from',''))}" placeholder="1980"></div>
+            <div class="filter-field"><label for="year-to">To year</label><input id="year-to" type="number" name="year_to" value="{esc(filters.get('year_to',''))}" placeholder="2026"></div>
+            <div class="filter-field"><label for="category">Category</label><select id="category" name="category">{options('category','All categories')}</select></div>
+            <div class="filter-field"><label for="sort">Sort results</label><select id="sort" name="sort">{sort_html}</select></div>
+          </div>
+          <details{advanced_open}><summary>Advanced filters</summary>
+            <div class="advanced-filter-grid">
+              <div class="filter-field"><label>Generation</label><select name="generation">{options('generation','All generations')}</select></div>
+              <div class="filter-field"><label>Country of origin</label><select name="origin">{options('origin','All origins')}</select></div>
+              <div class="filter-field"><label>Body style</label><select name="body">{options('body','All body styles')}</select></div>
+              <div class="filter-field"><label>Engine configuration</label><select name="configuration">{options('configuration','All configurations')}</select></div>
+              <div class="filter-field"><label>Aspiration</label><select name="aspiration">{options('aspiration','All aspiration types')}</select></div>
+              <div class="filter-field"><label>Transmission</label><select name="transmission">{options('transmission','All transmissions')}</select></div>
+              <div class="filter-field"><label>Driven wheels</label><select name="drivetrain">{options('drivetrain','All drivetrains')}</select></div>
+              <div class="filter-field"><label>Road legality</label><select name="road_legal"><option value="">Any</option><option value="1"{selected('road_legal','1')}>Road legal</option><option value="0"{selected('road_legal','0')}>Not road legal</option></select></div>
+              <div class="filter-field"><label>Factory color evidence</label><select name="color">{options('color','Any documented color')}</select></div>
+              <div class="filter-field"><label>Documented geography</label><select name="geography">{options('geography','Any documented country')}</select></div>
+              <div class="filter-field"><label>Power (kW)</label><div class="range-pair"><input type="number" name="power_min" value="{esc(filters.get('power_min',''))}" placeholder="Min"><input type="number" name="power_max" value="{esc(filters.get('power_max',''))}" placeholder="Max"></div></div>
+              <div class="filter-field"><label>Weight (kg)</label><div class="range-pair"><input type="number" name="weight_min" value="{esc(filters.get('weight_min',''))}" placeholder="Min"><input type="number" name="weight_max" value="{esc(filters.get('weight_max',''))}" placeholder="Max"></div></div>
+              <div class="filter-field"><label>Top speed (km/h)</label><div class="range-pair"><input type="number" name="speed_min" value="{esc(filters.get('speed_min',''))}" placeholder="Min"><input type="number" name="speed_max" value="{esc(filters.get('speed_max',''))}" placeholder="Max"></div></div>
+              <div class="filter-field"><label>Production count</label><div class="range-pair"><input type="number" name="production_min" value="{esc(filters.get('production_min',''))}" placeholder="Min"><input type="number" name="production_max" value="{esc(filters.get('production_max',''))}" placeholder="Max"></div></div>
+              <div class="filter-field"><label>Latest USD sale</label><div class="range-pair"><input type="number" name="price_min" value="{esc(filters.get('price_min',''))}" placeholder="Min"><input type="number" name="price_max" value="{esc(filters.get('price_max',''))}" placeholder="Max"></div></div>
+              <div class="check-grid">
+                <label class="check-option"><input type="checkbox" name="has_gallery" value="1"{checked('has_gallery')}> Four-image gallery</label>
+                <label class="check-option"><input type="checkbox" name="has_prices" value="1"{checked('has_prices')}> Price history</label>
+                <label class="check-option"><input type="checkbox" name="has_dealer" value="1"{checked('has_dealer')}> Dealer checks</label>
+                <label class="check-option"><input type="checkbox" name="has_sources" value="1"{checked('has_sources')}> Source library</label>
+              </div>
+            </div>
+          </details>
+          <div class="filter-actions"><div class="filter-actions-left"><button>Apply filters</button><a class="button ghost" href="/">Clear all</a></div><span class="filter-note">Numeric filters exclude cars with missing values; missing data is never treated as zero.</span></div>
+        </form>"""
+
+        results_html = f'<div class="catalog-grid">{cards}</div>' if view == "grid" and cards else (
+            '<div class="empty-state"><h3>No matching cars</h3><p>Remove one or more filters, or clear the catalogue and try a broader search.</p></div>' if not cars else
+            f'<div class="table-wrap"><table><thead><tr><th>Car</th><th>Variant</th><th>Years</th><th>Category</th><th>Power</th><th>Weight</th><th>Top speed</th><th>Production</th><th>Latest USD sale</th></tr></thead><tbody>{rows}</tbody></table></div>'
         )
 
         body = f"""
-        <div class="eyebrow">Living automotive knowledge base</div><h1>Explore the collection</h1>
-        <p class="muted">Browse every variant, open its complete technical story, and keep specifications, market evidence, imagery and sources together.</p>
+        <div class="eyebrow">Living automotive knowledge base</div><h1>{esc(title)}</h1>
+        <p class="muted">Search every variant and filter the collection without losing the difference between verified values, partial evidence and missing data.</p>
         <div class="stats">
-          <div class="card stat"><span class="muted">Cars</span><strong>{car_count}</strong></div>
+          <div class="card stat"><span class="muted">Recorded variants</span><strong>{len(all_cars)}</strong></div>
           <div class="card stat"><span class="muted">Engineering facts</span><strong>{fact_count}</strong></div>
           <div class="card stat"><span class="muted">Price records</span><strong>{price_count}</strong></div>
         </div>
-        <div class="toolbar"><form class="search"><input name="q" value="{esc(query)}" placeholder="Search manufacturer, model, generation or variant"><button class="secondary">Search</button></form><a class="button" href="/new">+ Add car</a></div>
-        {f'<div class="catalog-grid">{cards}</div>' if cards else ''}
-        <div class="section-head"><h2>Master list</h2><span class="muted">One row per variant</span></div>
-        <div class="table-wrap"><table><thead><tr><th>Car</th><th>Variant</th><th>Year</th><th>Category</th><th>Power</th><th>Weight</th><th>Top speed</th><th>Production</th></tr></thead><tbody>{rows}</tbody></table></div>
+        <div class="section-head"><div><div class="eyebrow">Start broad</div><h2>Browse by manufacturer</h2></div><span class="muted">Select a marque to see every recorded model</span></div>
+        <div class="manufacturer-strip">{manufacturer_cards}</div>
+        {filters_html}
+        {f'<div class="filter-chips">{chips}</div>' if chips else ''}
+        <div class="result-bar"><div><h2 style="margin:0">Catalogue results</h2><span class="muted">{esc(result_text)} · page {page_number} of {page_count}</span></div>
+          <div class="result-tools"><a class="button ghost" href="/new">+ Add car</a><div class="view-switch" aria-label="Result view"><a class="{'active' if view == 'grid' else ''}" href="{esc(query_url({'view':'grid'}))}">Grid</a><a class="{'active' if view == 'list' else ''}" href="{esc(query_url({'view':'list'}))}">List</a></div></div>
+        </div>
+        <div class="coverage-note">Color and geography filters return documented evidence only. They do not imply a complete factory color breakdown or the present location of every surviving car.</div>
+        {results_html}
+        {pagination}
         """
-        self.send_html(page("All cars", body))
+        self.send_html(page(title, body))
 
     def show_car(self, car_id: str) -> None:
         with connect() as db:
