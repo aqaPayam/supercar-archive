@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
 import os
 import sqlite3
 import uuid
@@ -11,10 +12,13 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, quote, urlencode, urlparse
 
+from export_public import build_payload
+
 
 ROOT = Path(__file__).resolve().parent
 DB_PATH = ROOT / "supercars.db"
 ASSET_DIR = ROOT / "assets"
+WEB_DIR = ROOT / "web"
 
 
 SCHEMA = """
@@ -279,10 +283,11 @@ def migrate_hierarchy(db: sqlite3.Connection) -> None:
                     (family_id, car["generation"], car["model_year_from"], car["model_year_to"]),
                 )
                 generation_id = cursor.lastrowid
-        db.execute(
-            "UPDATE cars SET family_id = ?, generation_id = ? WHERE id = ?",
-            (family_id, generation_id, car["id"]),
-        )
+        if car["family_id"] != family_id or car["generation_id"] != generation_id:
+            db.execute(
+                "UPDATE cars SET family_id = ?, generation_id = ? WHERE id = ?",
+                (family_id, generation_id, car["id"]),
+            )
 
 
 def get_or_create_source(db: sqlite3.Connection, car_id: str, url: str) -> int:
@@ -340,8 +345,9 @@ def localize_lfa_media(db: sqlite3.Connection) -> None:
         ).fetchone()
         if source:
             db.execute(
-                "UPDATE media SET location = ? WHERE car_id = 'LEX-LFA-STD' AND source_id = ?",
-                (location, source[0]),
+                """UPDATE media SET location = ?
+                   WHERE car_id = 'LEX-LFA-STD' AND source_id = ? AND location != ?""",
+                (location, source[0], location),
             )
 
 
@@ -382,8 +388,10 @@ def migrate_technical_specs(db: sqlite3.Connection) -> None:
                        ) VALUES(?,?,?,?,?,?,?,?)""",
                     (car["id"], section, label, str(value), unit, car["primary_source_id"], "Variant", next_sort),
                 )
-        assignments = ", ".join(f"{field} = NULL" for field in TECHNICAL_SPECS)
-        db.execute(f"UPDATE cars SET {assignments} WHERE id = ?", (car["id"],))
+        populated_fields = [field for field in TECHNICAL_SPECS if car[field] is not None]
+        if populated_fields:
+            assignments = ", ".join(f"{field} = NULL" for field in populated_fields)
+            db.execute(f"UPDATE cars SET {assignments} WHERE id = ?", (car["id"],))
 
 
 def sync_technical_attributes(db: sqlite3.Connection, car_id: str, form: dict[str, str]) -> None:
@@ -424,7 +432,9 @@ def initialize_database() -> None:
         db.executescript(SCHEMA)
         migrate_schema(db)
         db.execute(
-            "INSERT OR REPLACE INTO meta(key, value) VALUES('schema_version', '3')"
+            """INSERT INTO meta(key, value) VALUES('schema_version', '3')
+               ON CONFLICT(key) DO UPDATE SET value=excluded.value
+               WHERE meta.value != excluded.value"""
         )
         count = db.execute("SELECT COUNT(*) FROM cars").fetchone()[0]
         if count == 0:
@@ -435,9 +445,9 @@ def initialize_database() -> None:
         migrate_technical_specs(db)
         localize_lfa_media(db)
         deduplicate_media(db)
-        db.execute("UPDATE color_records SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD'")
-        db.execute("UPDATE country_distribution SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD'")
-        db.execute("UPDATE facts SET scope_level = 'Generation' WHERE car_id = 'LEX-LFA-STD'")
+        db.execute("UPDATE color_records SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
+        db.execute("UPDATE country_distribution SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
+        db.execute("UPDATE facts SET scope_level = 'Generation' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Generation'")
         db.execute("PRAGMA optimize")
 
 
@@ -841,7 +851,7 @@ def page(title: str, body: str) -> str:
   </style>
 </head>
 <body>
-  <header><div class="wrap brand"><a href="/">Supercar Archive</a><nav><a href="/">All cars</a><a href="/new">Add car</a></nav></div></header>
+  <header><div class="wrap brand"><a href="/admin">Supercar Archive Admin</a><nav><a href="/">Public viewer</a><a href="/admin">Manage cars</a><a href="/new">Add car</a></nav></div></header>
   <main><div class="wrap">{body}</div></main>
   <script>
     document.addEventListener('click', function(event) {{
@@ -1062,8 +1072,14 @@ class AppHandler(BaseHTTPRequestHandler):
         path = parsed.path
         parts = [p for p in path.split("/") if p]
         if path == "/":
+            self.serve_web_file("index.html")
+        elif path == "/admin":
             raw_filters = parse_qs(parsed.query, keep_blank_values=True)
             self.show_index({key: values[0].strip() for key, values in raw_filters.items()})
+        elif path == "/data.json":
+            self.serve_data()
+        elif path in {"/app.js", "/styles.css"}:
+            self.serve_web_file(path.removeprefix("/"))
         elif path == "/new":
             self.send_html(page("Add car", car_form("/cars")))
         elif len(parts) == 3 and parts[0] == "car" and parts[2] == "edit":
@@ -1960,6 +1976,30 @@ class AppHandler(BaseHTTPRequestHandler):
         payload = target.read_bytes()
         content_type = "image/jpeg" if target.suffix.lower() in {".jpg", ".jpeg"} else "image/png" if target.suffix.lower() == ".png" else "application/octet-stream"
         self.send_response(200); self.send_header("Content-Type", content_type); self.send_header("Content-Length", str(len(payload))); self.end_headers(); self.wfile.write(payload)
+
+    def serve_web_file(self, name: str) -> None:
+        target = (WEB_DIR / name).resolve()
+        if WEB_DIR.resolve() not in target.parents or not target.is_file():
+            self.send_error(404)
+            return
+        payload = target.read_bytes()
+        content_type = "text/html; charset=utf-8" if target.suffix == ".html" else "text/css; charset=utf-8" if target.suffix == ".css" else "text/javascript; charset=utf-8"
+        self.send_response(200)
+        self.send_header("Content-Type", content_type)
+        self.send_header("Cache-Control", "no-cache")
+        self.send_header("Content-Length", str(len(payload)))
+        self.end_headers()
+        self.wfile.write(payload)
+
+    def serve_data(self) -> None:
+        with connect() as db:
+            payload = json.dumps(build_payload(db), ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Cache-Control", "no-store")
+        self.send_header("Content-Length", str(len(payload)))
+        self.end_headers()
+        self.wfile.write(payload)
 
     def log_message(self, fmt: str, *args: object) -> None:
         print(f"[supercars] {self.address_string()} - {fmt % args}")

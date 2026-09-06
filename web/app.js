@@ -69,6 +69,18 @@ const sourceDot = (record, sources, label = "Source") => {
   return source || record.source_url ? `<span class="source-dot" title="${e(source?.title || "Evidence recorded in the Source Library")}">● ${e(label)}</span>` : "";
 };
 
+const recordMeta = (record, car, sources) => {
+  const inherited = record.car_id && record.car_id !== car.id;
+  const parts = [
+    record.scope_level ? `<span class="meta-badge">${e(record.scope_level)}</span>` : "",
+    inherited ? '<span class="meta-badge inherited">Inherited record</span>' : "",
+    sourceDot(record, sources),
+  ].filter(Boolean);
+  return parts.length ? `<span class="record-meta">${parts.join("")}</span>` : "";
+};
+
+const galleryMeta = (media, car, sources) => `<span>${e(media.caption || media.media_type)}</span><span>${e([media.media_type, media.creator, media.license].filter(Boolean).join(" · "))}${recordMeta(media, car, sources)}</span>`;
+
 const optionList = (values, selected, placeholder) => [
   `<option value="">${e(placeholder)}</option>`,
   ...values.map((value) => `<option value="${e(value)}"${value === selected ? " selected" : ""}>${e(value)}</option>`),
@@ -184,8 +196,8 @@ function renderCatalogue() {
     return `<a class="filter-chip" href="${href}">${e(labels[key] || key)}: ${e(shown)} ×</a>`;
   }).join("");
 
-  const mediaCount = cars.reduce((total, car) => total + car.media.length, 0);
-  const sourceCount = cars.reduce((total, car) => total + car.sources.length, 0);
+  const mediaCount = archive.media_count ?? cars.reduce((total, car) => total + car.media.length, 0);
+  const sourceCount = archive.source_count ?? cars.reduce((total, car) => total + car.sources.length, 0);
   app.innerHTML = `
     <section class="catalogue-hero">
       <div class="shell intro">
@@ -243,7 +255,7 @@ function renderCatalogue() {
   form.querySelectorAll("select").forEach((select) => select.addEventListener("change", () => form.requestSubmit()));
 }
 
-function detailGallery(car) {
+function detailGallery(car, sources) {
   if (!car.media.length) return '<div class="empty">No local images are recorded for this car.</div>';
   const first = primaryMedia(car);
   const buttons = car.media.map((media) => {
@@ -251,10 +263,7 @@ function detailGallery(car) {
     return path ? `<button type="button" data-gallery-id="${media.id}"${media.id === first.id ? ' class="active"' : ""}><img src="${path}" alt="${e(media.caption || media.media_type)}" loading="lazy"></button>` : "";
   }).join("");
   return `<div class="gallery">${buttons}</div>
-    <div class="gallery-meta" id="gallery-meta">
-      <span>${e(first.caption || first.media_type)}</span>
-      <span>${e([first.creator, first.license].filter(Boolean).join(" · "))}</span>
-    </div>`;
+    <div class="gallery-meta" id="gallery-meta">${galleryMeta(first, car, sources)}</div>`;
 }
 
 function renderDetail(car) {
@@ -277,7 +286,7 @@ function renderDetail(car) {
   });
   const specifications = [...sections.entries()].map(([section, items]) => `<section class="panel">
     <h3>${e(section)}</h3>
-    <dl>${items.map((item) => `<div class="spec-row"><dt>${e(item.label)}</dt><dd>${e(attributeDisplay(item))}${sourceDot(item, sources)}</dd></div>`).join("")}</dl>
+    <dl>${items.map((item) => `<div class="spec-row"><dt>${e(item.label)}</dt><dd><span>${e(attributeDisplay(item))}</span>${recordMeta(item, car, sources)}</dd></div>`).join("")}</dl>
   </section>`).join("");
 
   const related = cars.filter((item) => item.manufacturer === car.manufacturer && item.model_family === car.model_family);
@@ -289,9 +298,12 @@ function renderDetail(car) {
   const colors = car.color_records.length ? car.color_records.map((color) => `<article class="panel">
     <div class="color-swatch" style="background:${/^#[0-9a-f]{6}$/i.test(color.swatch_hex || "") ? color.swatch_hex : "#d8d4cc"}"></div>
     <span class="pill accent">${e(color.color_type)}</span><h3>${e(color.color_name)}</h3>
+    ${color.color_code ? `<p class="small"><strong>Code:</strong> ${e(color.color_code)}</p>` : ""}
     <p class="small muted">${e(color.availability_scope || "Availability scope unknown")}</p>
     <p class="small"><strong>${color.production_count !== null ? `${formatNumber(color.production_count)} documented` : "Production count unknown"}</strong>${color.production_percentage !== null ? ` · ${e(color.production_percentage)}%` : ""}</p>
-    <span class="confidence">${e(color.confidence)}</span>${sourceDot(color, sources)}
+    ${color.count_scope ? `<p class="small muted">Count scope: ${e(color.count_scope)}</p>` : ""}
+    ${color.notes ? `<p class="small muted">${e(color.notes)}</p>` : ""}
+    <span class="confidence">${e(color.confidence)}</span>${recordMeta(color, car, sources)}
   </article>`).join("") : '<div class="empty">No color evidence is recorded yet.</div>';
 
   const geoGroups = new Map();
@@ -304,19 +316,24 @@ function renderDetail(car) {
     return `<article class="panel"><div class="eyebrow">Documented distribution</div><h3>${e(type)}</h3>${records.map((record) => `<div class="distribution-row">
       <div class="distribution-label"><strong>${e(record.country)}</strong><span>${record.vehicle_count !== null ? formatNumber(record.vehicle_count) : "Unknown"}${record.share_percentage !== null ? ` · ${e(record.share_percentage)}%` : ""}</span></div>
       <div class="distribution-track"><div class="distribution-fill" style="width:${Math.max(3, Math.round((record.vehicle_count || 0) / maximum * 100))}%"></div></div>
-      <div class="small muted">${e(record.confidence)}${record.as_of_date ? ` · as of ${e(record.as_of_date)}` : ""}${sourceDot(record, sources)}</div>
+      <div class="small muted">${e(record.confidence)}${record.region ? ` · ${e(record.region)}` : ""}${record.as_of_date ? ` · as of ${e(record.as_of_date)}` : ""}${record.denominator ? ` · denominator ${formatNumber(record.denominator)}` : ""}</div>
+      ${record.notes ? `<div class="small muted record-note">${e(record.notes)}</div>` : ""}
+      ${recordMeta(record, car, sources)}
     </div>`).join("")}</article>`;
   }).join("") : '<div class="empty">No geographic distribution is recorded yet.</div>';
 
   const facts = car.facts.length ? car.facts.map((fact) => `<article class="panel fact-card">
     <div class="category">${e(fact.category || "Documented story")}</div><h3>${e(fact.title)}</h3><p>${e(fact.explanation)}</p>
     ${fact.why_it_matters ? `<div class="why"><strong>Why it matters</strong><br>${e(fact.why_it_matters)}</div>` : ""}
-    <p class="confidence">${e(fact.confidence || "Evidence recorded")} · ${e(fact.scope_level)} ${sourceDot(fact, sources)}</p>
+    <p class="confidence">${e(fact.confidence || "Evidence recorded")}</p>${recordMeta(fact, car, sources)}
   </article>`).join("") : '<div class="empty">No engineering stories are recorded yet.</div>';
 
   const priceRows = [...car.price_records].reverse();
   const msrp = car.price_records.find((record) => record.price_type === "Announced MSRP" && record.currency === "USD");
   const latestSale = priceRows.find((record) => record.price_type === "Auction sale" && record.currency === "USD");
+  const usdPrices = car.price_records.filter((record) => record.currency === "USD" && Number(record.amount) > 0);
+  const maximumPrice = Math.max(...usdPrices.map((record) => Number(record.amount)), 1);
+  const priceChart = usdPrices.length ? `<div class="panel price-chart"><div class="price-bars">${usdPrices.map((record) => `<div class="price-bar-item" title="${e(record.price_type)}: $${formatNumber(record.amount)}"><strong>$${formatNumber(Number(record.amount) / 1000)}k</strong><div class="price-bar" style="height:${Math.max(4, Math.round(Number(record.amount) / maximumPrice * 140))}px"></div><small>${e(record.observation_date || "—")}</small></div>`).join("")}</div><p class="small muted">Published USD observations for different physical cars. Mileage, condition and specification affect comparability.</p></div>` : "";
   const prices = priceRows.length ? `<div class="table-wrap"><table><thead><tr><th>Date</th><th>Type</th><th>Amount</th><th>Market</th><th>Venue / vehicle</th><th>Evidence</th></tr></thead><tbody>${priceRows.map((record) => `<tr>
     <td>${e(record.observation_date || "—")}</td><td>${e(record.price_type)}</td><td class="money">${e(record.currency)} ${formatNumber(record.amount, 2)}</td><td>${e(record.market || "—")}</td>
     <td>${e([record.venue, record.serial_number, record.mileage].filter(Boolean).join(" · ") || "—")} ${record.notes ? `<div class="small muted">${e(record.notes)}</div>` : ""}</td><td>${sourceDot(record, sources, "View") || "—"}</td>
@@ -337,13 +354,13 @@ function renderDetail(car) {
     </div></section>
     <nav class="anchor-nav" aria-label="Car record sections">${[["gallery","Gallery"],["family","Model family"],["specifications","Specifications"],["colors","Colors"],["geography","Geography"],["stories","Stories"],["market","Market"],["sources","Sources"]].map(([id,label]) => `<a href="#/car/${encodeURIComponent(car.id)}" data-scroll-target="${id}">${label}</a>`).join("")}</nav>
     <div class="shell">
-      <section class="section" id="gallery"><div class="section-head"><div><div class="eyebrow">Visual record</div><h2>Image gallery</h2></div><span class="muted">${car.media.length} licensed assets</span></div>${detailGallery(car)}</section>
+      <section class="section" id="gallery"><div class="section-head"><div><div class="eyebrow">Visual record</div><h2>Image gallery</h2></div><span class="muted">${car.media.length} licensed assets</span></div>${detailGallery(car, sources)}</section>
       <section class="section" id="family"><div class="section-head"><div><div class="eyebrow">Lineage</div><h2>Where this car fits</h2></div><span class="muted">${related.length} recorded variants</span></div><div class="family-flow"><span>${e(car.manufacturer)}</span><span class="arrow">→</span><span>${e(car.model_family)}</span><span class="arrow">→</span><span>${e(car.generation || "Generation unknown")}</span><span class="arrow">→</span><span>${e(car.variant)}</span></div><div class="family-list">${familyCards}</div></section>
       <section class="section" id="specifications"><div class="section-head"><div><div class="eyebrow">Full record</div><h2>Complete specifications</h2></div><span class="muted">${car.attributes.length} sourced details</span></div><div class="spec-sections">${specifications}</div></section>
       <section class="section" id="colors"><div class="section-head"><div><div class="eyebrow">Factory configuration</div><h2>Colors and production evidence</h2></div></div><div class="notice">A listed color does not automatically mean its production count is known. Each card states the evidence available.</div><div class="color-grid" style="margin-top:14px">${colors}</div></section>
       <section class="section" id="geography"><div class="section-head"><div><div class="eyebrow">Delivery footprint</div><h2>Country and region distribution</h2></div></div><div class="distribution-grid">${geography}</div></section>
       <section class="section" id="stories"><div class="section-head"><div><div class="eyebrow">Beyond the numbers</div><h2>Engineering and stories</h2></div><span class="muted">${car.facts.length} documented stories</span></div><div class="fact-grid">${facts}</div></section>
-      <section class="section" id="market"><div class="section-head"><div><div class="eyebrow">Market evidence</div><h2>Price history</h2></div><span class="muted">Individual observations, not a formal price index</span></div><div class="market-numbers"><div class="panel market-number"><span class="muted small">Announced US MSRP</span><strong>${msrp ? `$${formatNumber(msrp.amount)}` : "—"}</strong><span class="small muted">Base price when new</span></div><div class="panel market-number"><span class="muted small">Latest recorded public sale</span><strong>${latestSale ? `$${formatNumber(latestSale.amount)}` : "—"}</strong><span class="small muted">${e(latestSale?.observation_date || "No sale recorded")}</span></div></div>${prices}</section>
+      <section class="section" id="market"><div class="section-head"><div><div class="eyebrow">Market evidence</div><h2>Price history</h2></div><span class="muted">Individual observations, not a formal price index</span></div><div class="market-numbers"><div class="panel market-number"><span class="muted small">Announced US MSRP</span><strong>${msrp ? `$${formatNumber(msrp.amount)}` : "—"}</strong><span class="small muted">Base price when new</span></div><div class="panel market-number"><span class="muted small">Latest recorded public sale</span><strong>${latestSale ? `$${formatNumber(latestSale.amount)}` : "—"}</strong><span class="small muted">${e(latestSale?.observation_date || "No sale recorded")}</span></div></div>${priceChart}${prices}</section>
       <section class="section" id="sources"><div class="section-head"><div><div class="eyebrow">Audit trail</div><h2>Source library</h2></div><span class="muted">${car.sources.length} references</span></div><div class="panel">${sourceLibrary}</div></section>
     </div>`;
 
@@ -362,7 +379,7 @@ function renderDetail(car) {
       hero.alt = cleanText(media.caption || media.media_type);
     }
     document.querySelectorAll("[data-gallery-id]").forEach((item) => item.classList.toggle("active", item === button));
-    document.querySelector("#gallery-meta").innerHTML = `<span>${e(media.caption || media.media_type)}</span><span>${e([media.creator, media.license].filter(Boolean).join(" · "))}</span>`;
+    document.querySelector("#gallery-meta").innerHTML = galleryMeta(media, car, sources);
   }));
 }
 

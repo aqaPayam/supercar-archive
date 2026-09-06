@@ -10,13 +10,15 @@ The catalogue supports manufacturer browsing, full-text search, linked model fil
 python supercar_app.py
 ```
 
-Then open [http://127.0.0.1:8765](http://127.0.0.1:8765).
+Then open [http://127.0.0.1:8765](http://127.0.0.1:8765). This is the canonical viewer: the same HTML, CSS, JavaScript, effective scoped records, charts, and evidence details are deployed online.
+
+Open [http://127.0.0.1:8765/admin](http://127.0.0.1:8765/admin) to add or edit database records. Management remains local so the public archive is read-only.
 
 The application uses Python's standard library and SQLite, so it does not require package installation. The working dataset is stored in `supercars.db`.
 
 ## Public website
 
-The GitHub Pages edition is read-only. It keeps the local application as the private editor while publishing the catalogue, filters, car pages, sourced details, market records, and licensed images as a static website.
+The GitHub Pages edition is read-only. It publishes the exact same canonical viewer used at the local root URL, while the local `/admin` area remains the private editor. A shared data builder applies variant, generation, and model-family scope consistently in both environments.
 
 Build it locally with:
 
