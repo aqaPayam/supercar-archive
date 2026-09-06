@@ -251,26 +251,34 @@ def migrate_schema(db: sqlite3.Connection) -> None:
 def migrate_hierarchy(db: sqlite3.Connection) -> None:
     cars = db.execute("SELECT * FROM cars").fetchall()
     for car in cars:
-        db.execute(
-            """INSERT OR IGNORE INTO model_families(manufacturer,name,origin_country)
-               VALUES(?,?,?)""",
-            (car["manufacturer"], car["model_family"], car["origin_country"]),
-        )
-        family_id = db.execute(
+        family = db.execute(
             "SELECT id FROM model_families WHERE manufacturer = ? AND name = ?",
             (car["manufacturer"], car["model_family"]),
-        ).fetchone()[0]
+        ).fetchone()
+        if family:
+            family_id = family[0]
+        else:
+            cursor = db.execute(
+                """INSERT INTO model_families(manufacturer,name,origin_country)
+                   VALUES(?,?,?)""",
+                (car["manufacturer"], car["model_family"], car["origin_country"]),
+            )
+            family_id = cursor.lastrowid
         generation_id = None
         if car["generation"]:
-            db.execute(
-                """INSERT OR IGNORE INTO generations(family_id,name,year_from,year_to)
-                   VALUES(?,?,?,?)""",
-                (family_id, car["generation"], car["model_year_from"], car["model_year_to"]),
-            )
-            generation_id = db.execute(
+            generation = db.execute(
                 "SELECT id FROM generations WHERE family_id = ? AND name = ?",
                 (family_id, car["generation"]),
-            ).fetchone()[0]
+            ).fetchone()
+            if generation:
+                generation_id = generation[0]
+            else:
+                cursor = db.execute(
+                    """INSERT INTO generations(family_id,name,year_from,year_to)
+                       VALUES(?,?,?,?)""",
+                    (family_id, car["generation"], car["model_year_from"], car["model_year_to"]),
+                )
+                generation_id = cursor.lastrowid
         db.execute(
             "UPDATE cars SET family_id = ?, generation_id = ? WHERE id = ?",
             (family_id, generation_id, car["id"]),
