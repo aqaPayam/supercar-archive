@@ -24,6 +24,8 @@ jobs:
         uses: actions/setup-python@v7
         with:
           python-version: "3.13"
+      - name: Check database startup preservation
+        run: python -m unittest test_startup -v
       - name: Build read-only website
         run: python export_public.py --output dist
       - name: Configure GitHub Pages

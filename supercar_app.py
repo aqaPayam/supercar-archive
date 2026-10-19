@@ -7,6 +7,7 @@ import os
 import sqlite3
 import uuid
 from collections import defaultdict
+from contextlib import closing
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -428,26 +429,30 @@ def sync_technical_attributes(db: sqlite3.Connection, car_id: str, form: dict[st
 
 def initialize_database() -> None:
     ASSET_DIR.mkdir(exist_ok=True)
-    with connect() as db:
+    with closing(connect()) as db, db:
         db.executescript(SCHEMA)
         migrate_schema(db)
+        previous_version = db.execute("SELECT value FROM meta WHERE key = 'schema_version'").fetchone()
+        count = db.execute("SELECT COUNT(*) FROM cars").fetchone()[0]
+        # Content conversions are upgrades, not a viewer-startup normalization pass.
+        # Repeating them clears populated specifications/URLs in imported profiles.
+        if count == 0 or previous_version is None or previous_version[0] != "3":
+            if count == 0:
+                seed_lfa(db)
+            seed_missing_lfa_details(db)
+            migrate_hierarchy(db)
+            migrate_source_references(db)
+            migrate_technical_specs(db)
+            localize_lfa_media(db)
+            deduplicate_media(db)
+            db.execute("UPDATE color_records SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
+            db.execute("UPDATE country_distribution SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
+            db.execute("UPDATE facts SET scope_level = 'Generation' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Generation'")
         db.execute(
             """INSERT INTO meta(key, value) VALUES('schema_version', '3')
                ON CONFLICT(key) DO UPDATE SET value=excluded.value
                WHERE meta.value != excluded.value"""
         )
-        count = db.execute("SELECT COUNT(*) FROM cars").fetchone()[0]
-        if count == 0:
-            seed_lfa(db)
-        seed_missing_lfa_details(db)
-        migrate_hierarchy(db)
-        migrate_source_references(db)
-        migrate_technical_specs(db)
-        localize_lfa_media(db)
-        deduplicate_media(db)
-        db.execute("UPDATE color_records SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
-        db.execute("UPDATE country_distribution SET scope_level = 'Model family' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Model family'")
-        db.execute("UPDATE facts SET scope_level = 'Generation' WHERE car_id = 'LEX-LFA-STD' AND scope_level != 'Generation'")
         db.execute("PRAGMA optimize")
 
 
