@@ -1,0 +1,5093 @@
+{
+  "batch": "supercars50-2026-10-27",
+  "reviewed_on": "2026-10-27",
+  "cars": [
+    {
+      "id": "FER-360-SPIDER",
+      "manufacturer": "Ferrari",
+      "model_family": "360",
+      "generation": "360 Spider manufacturer historical reference",
+      "variant": "360 Spider",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door soft-top spider",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The 360 Spider places a longitudinal V8 behind the seats in an open body.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 360 Spider — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-BI/history/garage/2000/360-spider",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari 360 Spider Toulouse.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_360_Spider_Toulouse.jpg",
+          "notes": "Handelsgeselschaft; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear longitudinal 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3586.20",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "294",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": ">290",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door soft-top spider",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 360 Spider places a longitudinal V8 behind the seats in an open body.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_360_spider.jpg",
+          "caption": "Ferrari 360 Spider — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Handelsgeselschaft",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4426ef5fc26411a97388fc56211d08a0fc9a0c5bf2977237b5702d7f9a762f75"
+        }
+      ]
+    },
+    {
+      "id": "FER-355-F1-GTS",
+      "manufacturer": "Ferrari",
+      "model_family": "F355",
+      "generation": "355 F1 GTS manufacturer historical reference",
+      "variant": "355 F1 GTS",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The GTS combines the F355 V8 with a removable roof panel and the F1 transmission.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 355 F1 GTS — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-EN/history/garage/1997/355-f1-gts/1000",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari 355 F1 GTS 1998 at Legendy 2019 in Prague.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_355_F1_GTS_1998_at_Legendy_2019_in_Prague.jpg",
+          "notes": "Jiří Sedláček; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear longitudinal 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3495.50",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "279",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "295",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door targa",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The GTS combines the F355 V8 with a removable roof panel and the F1 transmission.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_355_f1_gts.jpg",
+          "caption": "Ferrari 355 F1 GTS — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Jiří Sedláček",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e34a68586f4ce122cec11d8d3d76a57a98281aeede6140ce267c770ad8a17edc"
+        }
+      ]
+    },
+    {
+      "id": "FER-348-TS",
+      "manufacturer": "Ferrari",
+      "model_family": "348",
+      "generation": "348 TS manufacturer historical reference",
+      "variant": "348 TS",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The 348 TS is the removable-roof member of the original 300 hp 348 pair.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 348 TS — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-ZM/history/garage/1989/348-ts",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari 348 ts, pre-facelift model.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_348_ts,_pre-facelift_model.jpg",
+          "notes": "Desty; Public domain. License: . Original attribution:  Desty"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear longitudinal 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3404.70",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "221",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": ">275",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door targa",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 348 TS is the removable-roof member of the original 300 hp 348 pair.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_348_ts.jpg",
+          "caption": "Ferrari 348 TS — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Desty",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "fd309826fbb428c09f432563b01dc1c1fdd11095af7a0bca0b6958094527506a"
+        }
+      ]
+    },
+    {
+      "id": "FER-348-SPIDER",
+      "manufacturer": "Ferrari",
+      "model_family": "348",
+      "generation": "348 Spider manufacturer historical reference",
+      "variant": "348 Spider",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door soft-top spider",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The later 348 Spider uses an open body and a higher-output V8 than the original TS.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 348 Spider — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-IL/history/garage/1993/348-spider",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "1994 Ferrari 348 Spider, front left, 06-21-2026.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Ferrari_348_Spider,_front_left,_06-21-2026.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear longitudinal 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3404.70",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "235",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": ">280",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door soft-top spider",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The later 348 Spider uses an open body and a higher-output V8 than the original TS.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_348_spider.jpg",
+          "caption": "Ferrari 348 Spider — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2223a12cdbd4f34b67459ecc428de95f51ac8d379d42853fda397025723cecdd"
+        }
+      ]
+    },
+    {
+      "id": "FER-328-GTS",
+      "manufacturer": "Ferrari",
+      "model_family": "328",
+      "generation": "328 GTS manufacturer historical reference",
+      "variant": "328 GTS",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The 328 GTS retains a transverse mid-mounted V8 beneath a body with a removable roof panel.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 328 GTS — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-GQ/history/garage/1985/328-gts",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "1987 Ferrari 328 GTS Paul Pietsch Classic 2025 DSC 9010.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_328_GTS_Paul_Pietsch_Classic_2025_DSC_9010.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear transverse 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3185.76",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "199",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "263",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door targa",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 328 GTS retains a transverse mid-mounted V8 beneath a body with a removable roof panel.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_328_gts.jpg",
+          "caption": "Ferrari 328 GTS — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5b9488576aae84ee829d4f29e03d19b6ea46662542e6f91165e1118fab00c568"
+        }
+      ]
+    },
+    {
+      "id": "FER-308-GTS-QV",
+      "manufacturer": "Ferrari",
+      "model_family": "308",
+      "generation": "308 GTS Quattrovalvole manufacturer historical reference",
+      "variant": "308 GTS Quattrovalvole",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Quattrovalvole GTS combines the four-valve V8 evolution with a removable roof.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 308 GTS Quattrovalvole — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-OM/history/garage/1982/308-gts-quattrovalvole",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "1983 Ferrari 308 GTS Quattrovalvole (8971014515).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1983_Ferrari_308_GTS_Quattrovalvole_(8971014515).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original attribution:  1983 Ferrari 308 GTS Quattrovalvole"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear transverse 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2926.90",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "176",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "255",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door targa",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Quattrovalvole GTS combines the four-valve V8 evolution with a removable roof.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_308_gts_qv.jpg",
+          "caption": "Ferrari 308 GTS Quattrovalvole — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "905a4e74c65ef260a9820908bf4158aea846671fd54da56617c5264c94cbd8a8"
+        }
+      ]
+    },
+    {
+      "id": "FER-308-GTB-QV",
+      "manufacturer": "Ferrari",
+      "model_family": "308",
+      "generation": "308 GTB Quattrovalvole manufacturer historical reference",
+      "variant": "308 GTB Quattrovalvole",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The GTB Quattrovalvole is the fixed-roof four-valve evolution of the 308, distinct from the earlier Vetroresina.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 308 GTB Quattrovalvole — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-HU/history/garage/1982/308-gtb-quattrovalvole",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari 308 GTB Quattrovalvole, 1984.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_308_GTB_Quattrovalvole,_1984.jpg",
+          "notes": "Cjp24; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear transverse 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2926.90",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "176",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "255",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door coupe",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The GTB Quattrovalvole is the fixed-roof four-valve evolution of the 308, distinct from the earlier Vetroresina.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_308_gtb_qv.jpg",
+          "caption": "Ferrari 308 GTB Quattrovalvole — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Cjp24",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "01fcc3146b82c87ccc84ea15361becc642669c56bcd487aca7fdb0b6132145b0"
+        }
+      ]
+    },
+    {
+      "id": "FER-DINO-246GTS",
+      "manufacturer": "Ferrari",
+      "model_family": "Dino 246",
+      "generation": "Dino 246 GTS manufacturer historical reference",
+      "variant": "Dino 246 GTS",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Dino 246 GTS adds a removable roof to Ferrari’s compact transverse V6 sports-car layout.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari Dino 246 GTS — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-MG/history/garage/1972/dino-246-gts",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "1973 Ferrari Dino 246 GTS SP23.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1973_Ferrari_Dino_246_GTS_SP23.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine layout",
+          "value": "Rear transverse 65-degree V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2419.20",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "143",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "235",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door targa",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Dino 246 GTS adds a removable roof to Ferrari’s compact transverse V6 sports-car layout.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_dino_246gts.jpg",
+          "caption": "Ferrari Dino 246 GTS — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3b982934a41a5310c1b4967d2b428a94702910f11f4a41b4c7ce558f028e1f6b"
+        }
+      ]
+    },
+    {
+      "id": "FER-LAF-APERTA",
+      "manufacturer": "Ferrari",
+      "model_family": "LaFerrari",
+      "generation": "F150 open-top derivative",
+      "variant": "LaFerrari Aperta",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door open-top",
+      "road_legal": 1,
+      "specification_market": "Ferrari 2016 annual report. Output notation follows the report; no conversion between hp and CV is inferred.",
+      "summary": "The Aperta carries the LaFerrari hybrid drivetrain into an open-top body; Ferrari reported initial shipments in the third quarter of 2016.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari LaFerrari Aperta — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/2016_12_31_-_ferrari_nv_20f_0.pdf",
+          "notes": "Ferrari 2016 annual report. Output notation follows the report; no conversion between hp and CV is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari LaFerrari Aperta (31698).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_Aperta_(31698).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "V12 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion-engine output",
+          "value": "800",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric-motor output",
+          "value": "163",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer combined output",
+          "value": "963",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof configuration",
+          "value": "Open top",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Aperta carries the LaFerrari hybrid drivetrain into an open-top body; Ferrari reported initial shipments in the third quarter of 2016.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_laf_aperta.jpg",
+          "caption": "Ferrari LaFerrari Aperta — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "df8324df9d3970e44cb89faa3634a15a5f523e98137fc8799fd67a55d89d4ca7"
+        }
+      ]
+    },
+    {
+      "id": "FER-812-COMP-A",
+      "manufacturer": "Ferrari",
+      "model_family": "812",
+      "generation": "812 Competizione open-top derivative",
+      "variant": "812 Competizione A",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door targa",
+      "road_legal": 1,
+      "specification_market": "2021 unveiling: shared engine details only. The coupe-only acceleration and dry-weight figures in the release are deliberately excluded from this A record.",
+      "summary": "The Competizione A is the open-top companion to the Competizione. Both use the revised high-revving V12.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 812 Competizione A — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/cs_812_competizione_812_competizione_a_gbr_def.pdf",
+          "notes": "2021 unveiling: shared engine details only. The coupe-only acceleration and dry-weight figures in the release are deliberately excluded from this A record. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2023 Ferrari 812 Competizione Aperta 4.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_Ferrari_812_Competizione_Aperta_4.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "830",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rev limit",
+          "value": "9500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Connecting rods",
+          "value": "Titanium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Inlet system",
+          "value": "Variable geometry",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "610.5",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Competizione A is the open-top companion to the Competizione. Both use the revised high-revving V12.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_812_comp_a.jpg",
+          "caption": "Ferrari 812 Competizione A — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b7ff6fb95976a265dce381a3650ef54528fcb8ea173bcfe2ba4c779331bba1d8"
+        }
+      ]
+    },
+    {
+      "id": "FER-SF90-XX-STRADALE",
+      "manufacturer": "Ferrari",
+      "model_family": "SF90",
+      "generation": "SF90 XX Stradale 2023 announced road series",
+      "variant": "SF90 XX Stradale",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "29 June 2023 unveiling. Allocations are announced totals. Shared powertrain values apply to both bodies; coupe-only downforce is not assigned to the Spider.",
+      "summary": "SF90 XX Stradale brings the XX development approach to a road-legal hybrid with a fixed rear wing.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari SF90 XX Stradale — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/content/dam/ferrari-fcom/old/pdf/CS_SF90XXStradale_SF90XXSpider_ita_update.pdf",
+          "notes": "29 June 2023 unveiling. Allocations are announced totals. Shared powertrain values apply to both bodies; coupe-only downforce is not assigned to the Spider. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2024 Ferrari SF90 XX Stradale in Bianco Artico, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2024_Ferrari_SF90_XX_Stradale_in_Bianco_Artico,_front_left.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "Plug-in hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1030",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Rear aerodynamic device",
+          "value": "Fixed rear wing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "799",
+          "unit": "cars",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door coupe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "757.6",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "SF90 XX Stradale brings the XX development approach to a road-legal hybrid with a fixed rear wing.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_sf90_xx_stradale.jpg",
+          "caption": "Ferrari SF90 XX Stradale — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7c61dd923732298c6599f8a8696ea54c532d6f449398e718658be317609b4b48"
+        }
+      ]
+    },
+    {
+      "id": "FER-SF90-XX-SPIDER",
+      "manufacturer": "Ferrari",
+      "model_family": "SF90",
+      "generation": "SF90 XX Spider 2023 announced road series",
+      "variant": "SF90 XX Spider",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door retractable-hardtop spider",
+      "road_legal": 1,
+      "specification_market": "29 June 2023 unveiling. Allocations are announced totals. Shared powertrain values apply to both bodies; coupe-only downforce is not assigned to the Spider.",
+      "summary": "SF90 XX Spider brings the XX development approach to a road-legal hybrid with a fixed rear wing.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari SF90 XX Spider — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/content/dam/ferrari-fcom/old/pdf/CS_SF90XXStradale_SF90XXSpider_ita_update.pdf",
+          "notes": "29 June 2023 unveiling. Allocations are announced totals. Shared powertrain values apply to both bodies; coupe-only downforce is not assigned to the Spider. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2024 Ferrari SF90 XX Spider.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2024_Ferrari_SF90_XX_Spider.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "Plug-in hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1030",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Rear aerodynamic device",
+          "value": "Fixed rear wing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "599",
+          "unit": "cars",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Two-door retractable-hardtop spider",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "757.6",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "SF90 XX Spider brings the XX development approach to a road-legal hybrid with a fixed rear wing.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_sf90_xx_spider.jpg",
+          "caption": "Ferrari SF90 XX Spider — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4372d6c6d9a366aafbf495daf3a1582b8c49549b3d73256631141cdaecaccc96"
+        }
+      ]
+    },
+    {
+      "id": "FER-F80-ROAD",
+      "manufacturer": "Ferrari",
+      "model_family": "F80",
+      "generation": "F80 announced road series",
+      "variant": "F80",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "2024 model, described in Ferrari’s 2025 awards release. Manufacturer power figures; no independently measured acceleration is claimed.",
+      "summary": "The F80 combines a three-litre V6 with an electric front axle and rear motor-generator, plus electric turbo assistance.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari F80 — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/CS_Ferrari_Red_Dot_Awards_2025_eng.pdf",
+          "notes": "2024 model, described in Ferrari’s 2025 awards release. Manufacturer power figures; no independently measured acceleration is claimed. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2025 Ferrari F80.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2025_Ferrari_F80.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "V6 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion-engine output",
+          "value": "900",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric contribution",
+          "value": "300",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1200",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electrical architecture",
+          "value": "800",
+          "unit": "V",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "882.6",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The F80 combines a three-litre V6 with an electric front axle and rear motor-generator, plus electric turbo assistance.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_f80_road.jpg",
+          "caption": "Ferrari F80 — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "40dd32ecda3bebc0067514e8734042ea9f54496c1249e23bcc63cf857e9749eb"
+        }
+      ]
+    },
+    {
+      "id": "FER-FXX-TRACK",
+      "manufacturer": "Ferrari",
+      "model_family": "FXX",
+      "generation": "FXX original customer track programme",
+      "variant": "FXX",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The FXX is a customer-development track car, with an 800 CV V12.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari FXX — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/XXPROGRAMME_F1CLIENTI_Brochure_Ferrari.pdf",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari Enzo FXX (Ank Kumar, Infosys Limited) 01.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_FXX_(Ank_Kumar,_Infosys_Limited)_01.jpg",
+          "notes": "Ank kumar; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6262",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "800",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "690",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "5750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "588.4",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The FXX is a customer-development track car, with an 800 CV V12.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_fxx_track.jpg",
+          "caption": "Ferrari FXX — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Ank kumar",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0581f61314427eb4863b5d6e925dff1a2fa94bf06ff5b4b1cbd0bd3b3b4f387d"
+        }
+      ]
+    },
+    {
+      "id": "FER-FXX-K-TRACK",
+      "manufacturer": "Ferrari",
+      "model_family": "FXX K",
+      "generation": "FXX K original hybrid track programme",
+      "variant": "FXX K",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "XX Programme brochure. Engine output is distinct from total hybrid output. This is the original K, not the Evo.",
+      "summary": "The FXX K adds hybrid assistance to Ferrari’s customer track-development programme.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari FXX K — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/XXPROGRAMME_F1CLIENTI_Brochure_Ferrari.pdf",
+          "notes": "XX Programme brochure. Engine output is distinct from total hybrid output. This is the original K, not the Evo. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2015 Ferrari FXX-K in Shanghai.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Ferrari_FXX-K_in_Shanghai.jpg",
+          "notes": "emperornie; CC BY-SA 2.0 it. License: https://creativecommons.org/licenses/by-sa/2.0/it/deed.en. Original attribution:  wikimedia commons"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6262",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion-engine output",
+          "value": "860",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric output",
+          "value": "140",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1050",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Downforce at 200 km/h",
+          "value": "540",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "772.3",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The FXX K adds hybrid assistance to Ferrari’s customer track-development programme.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_fxx_k_track.jpg",
+          "caption": "Ferrari FXX K — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "emperornie",
+          "license": "CC BY-SA 2.0 it",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8bd0a32636eec1eaeb04c2d457bf0fe256aadc330331a790e811e4495cb89d99"
+        }
+      ]
+    },
+    {
+      "id": "FER-FXX-K-EVO",
+      "manufacturer": "Ferrari",
+      "model_family": "FXX K",
+      "generation": "FXX K aerodynamic evolution",
+      "variant": "FXX K Evo",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Evo develops the FXX K’s aerodynamic package while retaining the 1050 CV hybrid system.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari FXX K Evo — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/en-UG/history/garage/2017/fxx-k-evo",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari FXX-K EVO 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_FXX-K_EVO_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6262",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1050",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion-engine torque",
+          "value": "750",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Usage",
+          "label": "Factory programme",
+          "value": "XX Programme track use",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "772.3",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Evo develops the FXX K’s aerodynamic package while retaining the 1050 CV hybrid system.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_fxx_k_evo.jpg",
+          "caption": "Ferrari FXX K Evo — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "21303072d4bf7827a12f33853d3dea2ea5f736b8d5ed57b5e6b4cc4530729c96"
+        }
+      ]
+    },
+    {
+      "id": "FER-599XX-TRACK",
+      "manufacturer": "Ferrari",
+      "model_family": "599",
+      "generation": "599XX original customer track programme",
+      "variant": "599XX",
+      "model_year_from": 2010,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Ferrari collection article, original 599XX. Reference year follows Ferrari’s 2010 historical archive; not a claim of a full production interval.",
+      "summary": "The 599XX uses rear extraction fans in its Actiflow aerodynamic system and a fast-shifting transmission.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 599XX — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.ferrari.com/zh-CN/magazine/articles/ferrari-collection-by-one-passionate-enthusiast",
+          "notes": "Ferrari collection article, original 599XX. Reference year follows Ferrari’s 2010 historical archive; not a claim of a full production interval. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Paris - RM Auctions - 5 février 2014 - Ferrari 599XX - 2010 - 007.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Auctions_-_5_f%C3%A9vrier_2014_-_Ferrari_599XX_-_2010_-_007.jpg",
+          "notes": "Thesupermat; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "700",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Quoted shift time",
+          "value": "60",
+          "unit": "ms",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "System",
+          "value": "Actiflow",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Rear extraction fans",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Usage",
+          "label": "Factory programme",
+          "value": "XX Programme track use",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "514.8",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 599XX uses rear extraction fans in its Actiflow aerodynamic system and a fast-shifting transmission.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_599xx_track.jpg",
+          "caption": "Ferrari 599XX — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Thesupermat",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8fb6515711dcc23473810e56d143329b1c0f20d5360dc5bbdffea87db2d1dc88"
+        }
+      ]
+    },
+    {
+      "id": "FER-599XX-EVO",
+      "manufacturer": "Ferrari",
+      "model_family": "599",
+      "generation": "599XX Evolution track package",
+      "variant": "599XX Evo",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Evolution package raises the 599XX’s output to 750 CV and revises its aerodynamics.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 599XX Evo — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/XXPROGRAMME_F1CLIENTI_Brochure_Ferrari.pdf",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari 599XX Evo (21125892872).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_599XX_Evo_(21125892872).jpg",
+          "notes": "Alexandre Prévot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Original attribution:  Ferrari 599XX Evo"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5999",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "750",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "9000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "700",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Downforce at 200 km/h",
+          "value": "440",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "551.6",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Evolution package raises the 599XX’s output to 750 CV and revises its aerodynamics.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_599xx_evo.jpg",
+          "caption": "Ferrari 599XX Evo — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Alexandre Prévot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "97f9444ed6b9347cf9daaad9bf5c63147efbb38b068ff6b6a645774ba39696be"
+        }
+      ]
+    },
+    {
+      "id": "LAM-AVE-LP700-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Aventador",
+      "generation": "Aventador LP700-4 removable hardtop",
+      "variant": "LP 700-4 Roadster",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door removable-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The first Aventador Roadster uses a two-piece carbon-fibre roof which can be removed and stored in the front compartment.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LP 700-4 Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://preowned.lamborghini.com/en_us/models/aventador-roadster",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Lamborghini",
+          "title": "Aventador LP 700-4 Roadster — 12 November 2012 press release",
+          "source_type": "Manufacturer press release (archived copy)",
+          "url": "https://assets.newatlas.com/archive/automobili_lamborghini_presents_the_new_lamborghini_aventador_lp_700-4_roadster_en.pdf",
+          "notes": "Original manufacturer release, preserved by New Atlas."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Aventador Roadster (LP700-4) Greater Toronto Area, Canada.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_Roadster_(LP700-4)_Greater_Toronto_Area,_Canada.jpg",
+          "notes": "OWS Photography; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Body",
+          "label": "Roof construction",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Removable roof panels",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof operation",
+          "value": "Manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof stowage",
+          "value": "Front luggage compartment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Open-top Roadster",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Identity",
+          "label": "Unveiling year",
+          "value": "2012",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V12",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6.5",
+          "unit": "litres",
+          "source": 1
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "350",
+          "unit": "km/h",
+          "source": 1
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.0",
+          "unit": "s",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Seven-speed ISR",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The first Aventador Roadster uses a two-piece carbon-fibre roof which can be removed and stored in the front compartment.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_ave_lp700_road.jpg",
+          "caption": "Lamborghini LP 700-4 Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "OWS Photography",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "034e0a9dcc4ddb242167df876842c4053228e96463e14a2384274e871ca8bb20"
+        }
+      ]
+    },
+    {
+      "id": "LAM-AVE-SV-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Aventador",
+      "generation": "Aventador Superveloce removable hardtop",
+      "variant": "LP 750-4 Superveloce Roadster",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door removable-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Detailed engine specification is 750 CV / 552 kW; the inconsistent 770 CV promotional header on this page is not used.",
+      "summary": "The Superveloce Roadster pairs the SV V12 specification with two removable carbon-fibre roof sections.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LP 750-4 Superveloce Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://preowned.lamborghini.com/en_gb/models/aventador-superveloce-roadster",
+          "notes": "Detailed engine specification is 750 CV / 552 kW; the inconsistent 770 CV promotional header on this page is not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2017 Lamborghini Aventador SV Roadster white.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017_Lamborghini_Aventador_SV_Roadster_white.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "552",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "500",
+          "unit": "cars",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Carbon-fibre monocoque",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Superveloce Roadster pairs the SV V12 specification with two removable carbon-fibre roof sections.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_ave_sv_road.jpg",
+          "caption": "Lamborghini LP 750-4 Superveloce Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e0e23b8668cd31596f9f13abef91191efd3cac558659c3b04b967ed04306e041"
+        }
+      ]
+    },
+    {
+      "id": "LAM-REVENTON-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Reventón",
+      "generation": "Reventón open-top derivative",
+      "variant": "Reventón Roadster",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Reventón Roadster applies the model’s aircraft-inspired design to an open-top V12 supercar.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Reventón Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/node/1064",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2010 Lamborghini Reventon Roadster Low.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2010_Lamborghini_Reventon_Roadster_Low.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "670",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "330",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body configuration",
+          "value": "Open-top Roadster",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "492.8",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Reventón Roadster applies the model’s aircraft-inspired design to an open-top V12 supercar.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_reventon_road.jpg",
+          "caption": "Lamborghini Reventón Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9460ea288d0d44a220487172eb6cf37efde94a1fd21ffa3e46e8bb881783fa53"
+        }
+      ]
+    },
+    {
+      "id": "LAM-CENT-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Centenario",
+      "generation": "Centenario open-top derivative",
+      "variant": "Centenario Roadster",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Centenario Roadster combines carbon construction and rear-wheel steering with the 770 CV V12.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Centenario Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/history/few-off/centenario-roadster",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Centenario Roadster Retro Classics 2020 IMG 0077.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Centenario_Roadster_Retro_Classics_2020_IMG_0077.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "566",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "2.9",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": ">350",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Carbon-fibre monocoque and body",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Centenario Roadster combines carbon construction and rear-wheel steering with the 770 CV V12.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_cent_road.jpg",
+          "caption": "Lamborghini Centenario Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "270902cb94b5e1de7f70835fdc017039feca735f56fed19bd7b307cd2eb3ae18"
+        }
+      ]
+    },
+    {
+      "id": "LAM-SIAN-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Sián",
+      "generation": "Sián open-top hybrid derivative",
+      "variant": "Sián Roadster",
+      "model_year_from": 2020,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Sián Roadster uses a supercapacitor for its low-voltage electric assistance, leaving the cockpit open to the V12.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Sián Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/models/few-off/sian-roadster",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2021 Lamborghini Sian Roadster TM26.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Sian_Roadster_TM26.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Maximum power",
+          "value": "602",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion-engine output",
+          "value": "785",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric-motor output",
+          "value": "34",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Energy storage",
+          "value": "48 V supercapacitor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "19",
+          "unit": "cars",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Sián Roadster uses a supercapacitor for its low-voltage electric assistance, leaving the cockpit open to the V12.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_sian_road.jpg",
+          "caption": "Lamborghini Sián Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b04c0e5d4278d93ba56531abf63fd4217ebc7754cad5109855409a85ea4720da"
+        }
+      ]
+    },
+    {
+      "id": "LAM-TEMERARIO-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Temerario",
+      "generation": "Temerario original V8 hybrid",
+      "variant": "Temerario",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Model unveiled in 2024; technical figures follow the manufacturer page reviewed in October 2026. The current 343 km/h figure is not represented as a 2024 test result.",
+      "summary": "The Temerario combines a twin-turbo V8 with three electric motors, succeeding Lamborghini’s naturally aspirated V10 layout.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Temerario — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/models/temerario",
+          "notes": "Model unveiled in 2024; technical figures follow the manufacturer page reviewed in October 2026. The current 343 km/h figure is not represented as a 2024 test result."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Temerario 2025.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Temerario_2025.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3995.2",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Maximum power",
+          "value": "677",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric motors",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "2.7",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "343",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Temerario combines a twin-turbo V8 with three electric motors, succeeding Lamborghini’s naturally aspirated V10 layout.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_temerario_road.jpg",
+          "caption": "Lamborghini Temerario — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bb34d785d10f37de3200f0ac57a59b5044c29577e65b438988b37f92090fa580"
+        }
+      ]
+    },
+    {
+      "id": "LAM-GAL-LP560-SPY",
+      "manufacturer": "Lamborghini",
+      "model_family": "Gallardo",
+      "generation": "Gallardo facelift open-top",
+      "variant": "LP 560-4 Spyder",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door soft-top spyder",
+      "road_legal": 1,
+      "specification_market": "Lamborghini technical press publication hosted by an official dealer. Launch specification, not later special editions.",
+      "summary": "The LP 560-4 Spyder brings the revised direct-injection V10 and all-wheel drive to the Gallardo’s open body.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LP 560-4 Spyder — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://pictures.dealer.com/lamborghinilasvegas/8a3d4d8040463872006cffbb9450da2b.pdf",
+          "notes": "Lamborghini technical press publication hosted by an official dealer. Launch specification, not later special editions. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Gallardo LP560-4 Spyder (8562694841).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_LP560-4_Spyder_(8562694841).jpg",
+          "notes": "Axion23; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original attribution:  Lamborghini Gallardo LP560-4 Spyder"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "560",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "324",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "411.9",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The LP 560-4 Spyder brings the revised direct-injection V10 and all-wheel drive to the Gallardo’s open body.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_gal_lp560_spy.jpg",
+          "caption": "Lamborghini LP 560-4 Spyder — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Axion23",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c9f1ba7787e85f20bb6711b96631422b2ac85310889726088a836dee5d8a5dd2"
+        }
+      ]
+    },
+    {
+      "id": "LAM-GAL-PERF-SPY",
+      "manufacturer": "Lamborghini",
+      "model_family": "Gallardo",
+      "generation": "Gallardo facelift lightweight open-top",
+      "variant": "LP 570-4 Spyder Performante",
+      "model_year_from": 2010,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door soft-top spyder",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Spyder Performante applies the lightweight Gallardo approach to a compact open-top body.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LP 570-4 Spyder Performante — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/history/gallardo-lp-570-4-spyder-performante",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Lamborghini",
+          "title": "Gallardo LP 570-4 Spyder Performante — 18 November 2010 release",
+          "source_type": "Manufacturer press release (dealer-hosted copy)",
+          "url": "https://pictures.dealer.com/lamborghinilasvegas/2caa62aa40463872007bd46ae0fda30a.pdf",
+          "notes": "Original manufacturer technical release hosted by official dealer."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Gallardo LP570-4 Spyder Performante (6370389053).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_LP570-4_Spyder_Performante_(6370389053).jpg",
+          "notes": "Ben; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Original attribution:  Lamborghini Gallardo LP570-4 Spyder Performante"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.39",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1.9",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1.18",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Soft top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction approach",
+          "value": "Weight-reduced Spyder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "419",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5.2",
+          "unit": "litres",
+          "source": 1
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "324",
+          "unit": "km/h",
+          "source": 1
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.9",
+          "unit": "s",
+          "source": 1
+        },
+        {
+          "section": "Weight",
+          "label": "Dry weight",
+          "value": "1485",
+          "unit": "kg",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Spyder Performante applies the lightweight Gallardo approach to a compact open-top body.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_gal_perf_spy.jpg",
+          "caption": "Lamborghini LP 570-4 Spyder Performante — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Ben",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "07d164ce5c8a938d987ecd1e85aaa7d72c5feac13cc88b503cfffb6e2868f1aa"
+        }
+      ]
+    },
+    {
+      "id": "LAM-GAL-ST-2009",
+      "manufacturer": "Lamborghini",
+      "model_family": "Gallardo",
+      "generation": "Gallardo Super Trofeo original race specification",
+      "variant": "Super Trofeo — original 2009 race car",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The original Gallardo Super Trofeo retains all-wheel drive for Lamborghini’s one-make racing series.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Super Trofeo — original 2009 race car — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/motorsport/motorsport-models/heritage",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Super Trofeo 22 2010 amk.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Super_Trofeo_22_2010_amk.JPG",
+          "notes": "AngMoKio; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "560",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Competition",
+          "label": "Championship",
+          "value": "Lamborghini Super Trofeo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Competition",
+          "label": "Debut venue",
+          "value": "Adria",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Competition",
+          "label": "Debut date",
+          "value": "15–16 May 2009",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "411.9",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The original Gallardo Super Trofeo retains all-wheel drive for Lamborghini’s one-make racing series.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_gal_st_2009.jpg",
+          "caption": "Lamborghini Super Trofeo — original 2009 race car — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "AngMoKio",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e513a131ec346cf89db7f6e06a0c6eae8645591f5fe495ba453088a1f791ba01"
+        }
+      ]
+    },
+    {
+      "id": "LAM-HUR-ST-620",
+      "manufacturer": "Lamborghini",
+      "model_family": "Huracán",
+      "generation": "Huracán Super Trofeo original race specification",
+      "variant": "LP 620-2 Super Trofeo — original race car",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The first Huracán Super Trofeo switches the series to rear-wheel drive and a lighter carbon-and-aluminium chassis.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LP 620-2 Super Trofeo — original race car — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/motorsport/motorsport-models/heritage",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from CV using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Huracan Super Trofeo (15383668411).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_Super_Trofeo_(15383668411).jpg",
+          "notes": "Axion23; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original attribution:  Lamborghini Huracan Super Trofeo Photographer attribution site: https://www.freebosh.com (Axion23)."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "620",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Dry weight",
+          "value": "1270",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Front/rear distribution",
+          "value": "42:58",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Carbon fibre and aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Competition",
+          "label": "Race debut season",
+          "value": "2015",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "456.0",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The first Huracán Super Trofeo switches the series to rear-wheel drive and a lighter carbon-and-aluminium chassis.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_hur_st_620.jpg",
+          "caption": "Lamborghini LP 620-2 Super Trofeo — original race car — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Axion23",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "cda2a7700fab190e3539f887414f08b3eddcbee776ff6b3e9362cd382a0885e2"
+        }
+      ]
+    },
+    {
+      "id": "LAM-HUR-STERRATO",
+      "manufacturer": "Lamborghini",
+      "model_family": "Huracán",
+      "generation": "Huracán raised off-road derivative",
+      "variant": "Sterrato",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Sterrato adapts the Huracán platform for loose surfaces with a raised chassis and dedicated driving calibration.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Sterrato — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/history/huracan-sterrato",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2023 Lamborghini Huracan Sterrato Yellow.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_Lamborghini_Huracan_Sterrato_Yellow.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5204",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "449",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "560",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "260",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Seven-speed dual clutch",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Sterrato adapts the Huracán platform for loose surfaces with a raised chassis and dedicated driving calibration.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_hur_sterrato.jpg",
+          "caption": "Lamborghini Sterrato — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9cc610ec43c59abf90d5659f1193bcca5a5eeae7a559ac5e6bc2a66962322c61"
+        }
+      ]
+    },
+    {
+      "id": "LAM-COUNTACH-LPI",
+      "manufacturer": "Lamborghini",
+      "model_family": "Countach",
+      "generation": "2021 Countach LPI hybrid revival",
+      "variant": "LPI 800-4",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The revived Countach name sits on a V12 hybrid using supercapacitor assistance, distinct from the original Countach series.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini LPI 800-4 — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.lamborghini.com/en-en/node/975",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Lamborghini Countach LPI 800-4.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LPI_800-4.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Maximum power",
+          "value": "599",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "355",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "112",
+          "unit": "cars",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Electric-motor output",
+          "value": "34",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Energy storage",
+          "value": "Supercapacitor",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The revived Countach name sits on a V12 hybrid using supercapacitor assistance, distinct from the original Countach series.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_lam_countach_lpi.jpg",
+          "caption": "Lamborghini LPI 800-4 — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d80092f124a7de6d45bccc962bcd0af1bf1781064996eabdf7af3d90c4f3a5a8"
+        }
+      ]
+    },
+    {
+      "id": "MCL-540C-COUPE",
+      "manufacturer": "McLaren",
+      "model_family": "540C",
+      "generation": "Sports Series 540C coupe",
+      "variant": "540C Coupé",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "McLaren Sports Series owner handbook, Middle East and Africa edition, 540C-specific engine table. Year is the model introduction reference.",
+      "summary": "The 540C is the lower-output Sports Series coupe; the handbook specifies acceleration with P Zero tyres.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren 540C Coupé — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://mclaren-web.s3.eu-west-2.amazonaws.com/files/Owner%20Manual%20-%20Sports%20Series%20-%20Middle%20East%20and%20Africa%20-%20English.pdf",
+          "notes": "McLaren Sports Series owner handbook, Middle East and Africa edition, 540C-specific engine table. Year is the model introduction reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "McLaren 540C (M838TE) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:McLaren_540C_(M838TE)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3799",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "397",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "540",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h with P Zero tyres",
+          "value": "3.5",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 540C is the lower-output Sports Series coupe; the handbook specifies acceleration with P Zero tyres.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_540c_coupe.jpg",
+          "caption": "McLaren 540C Coupé — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6f9fb65b744eadfb0d6e6a1994fdfb02d5a5e7c91c11ce5cbdb81a7f9e9a4cd8"
+        }
+      ]
+    },
+    {
+      "id": "MCL-570GT-COUPE",
+      "manufacturer": "McLaren",
+      "model_family": "570GT",
+      "generation": "Sports Series glass-hatch GT",
+      "variant": "570GT",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Full specification table used; animated headline counters on the legacy page are not reliable values.",
+      "summary": "The 570GT prioritises touring comfort and adds a glass hatch and rear luggage space to the Sports Series layout.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren 570GT — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cars.mclaren.com/us_en/legacy/570gt",
+          "notes": "Full specification table used; animated headline counters on the legacy page are not reliable values. Normalized kW is calculated from PS using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2017 McLaren 570GT - 02.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017_McLaren_570GT_-_02.jpg",
+          "notes": "Oleg Yunakov; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "3.8-litre twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "570",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "600",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "328",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Lightest dry weight",
+          "value": "1350",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "419.2",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 570GT prioritises touring comfort and adds a glass hatch and rear luggage space to the Sports Series layout.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_570gt_coupe.jpg",
+          "caption": "McLaren 570GT — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "34f332cfe95128051e5dae4c90752b65917da46cae729d36cd1f949dc893e5a8"
+        }
+      ]
+    },
+    {
+      "id": "MCL-GT-COUPE",
+      "manufacturer": "McLaren",
+      "model_family": "GT",
+      "generation": "Original M840TE grand tourer",
+      "variant": "GT",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Technical specification published by an official McLaren retailer; original 620 PS GT, not the later 635 PS GTS.",
+      "summary": "The GT uses a touring-focused V8 calibration and carbon tub, with space for luggage behind the cabin.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren GT — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.mclarenofgreenwich.com/GT/",
+          "notes": "Technical specification published by an official McLaren retailer; original 620 PS GT, not the later 635 PS GTS."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "McLaren GT, Klassikstadt, Frankfurt am Main (P1032520).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:McLaren_GT,_Klassikstadt,_Frankfurt_am_Main_(P1032520).jpg",
+          "notes": "Matti Blume; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0/deed.en. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "4.0-litre twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Code",
+          "value": "M840TE",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "456",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "630",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "326",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Carbon-fibre MonoCell II",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The GT uses a touring-focused V8 calibration and carbon tub, with space for luggage behind the cabin.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_gt_coupe.jpg",
+          "caption": "McLaren GT — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b8a6049346c35bb650c880efa8eb4510068d166344cb2a564d92f57f7cd630a4"
+        }
+      ]
+    },
+    {
+      "id": "MCL-GTS-COUPE",
+      "manufacturer": "McLaren",
+      "model_family": "GT",
+      "generation": "GTS revised grand tourer",
+      "variant": "GTS",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Full specification table used, not partially animated headline counters. DIN kerb weight is not dry weight.",
+      "summary": "The GTS revises the GT formula with more power and a lighter carbon rear upper structure.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren GTS — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cars.mclaren.com/gl_en/gts",
+          "notes": "Full specification table used, not partially animated headline counters. DIN kerb weight is not dry weight. Normalized kW is calculated from PS using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "McLaren GTS, Frankfurt am Main (P1032580).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:McLaren_GTS,_Frankfurt_am_Main_(P1032580).jpg",
+          "notes": "Matti Blume; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0/deed.en. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "4.0-litre twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "635",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "630",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.2",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "326",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "DIN kerb weight",
+          "value": "1520",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "467.0",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The GTS revises the GT formula with more power and a lighter carbon rear upper structure.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_gts_coupe.jpg",
+          "caption": "McLaren GTS — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "72dce33f80792e25f03402a9df163e280b886b821f93eb53ea2cc46e2cbe0582"
+        }
+      ]
+    },
+    {
+      "id": "MCL-W1-ROAD",
+      "manufacturer": "McLaren",
+      "model_family": "W1",
+      "generation": "W1 hybrid road series",
+      "variant": "W1",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The W1 combines ground-effect aerodynamics, an active rear long-tail element and a rear-driven hybrid powertrain.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren W1 — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cars.mclaren.com/gb-en/w1",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Normalized kW is calculated from PS using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2024 McLaren W1 SP25.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2024_McLaren_W1_SP25.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "4.0-litre twin-turbo V8 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1275",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Combined torque",
+          "value": "1340",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Eight-speed dual clutch with electric reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "2.7",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "350",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "937.8",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The W1 combines ground-effect aerodynamics, an active rear long-tail element and a rear-driven hybrid powertrain.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_w1_road.jpg",
+          "caption": "McLaren W1 — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0f56af7126faa02a729676af2758a20fe536f98a37b62d39a01f94b35bd90352"
+        }
+      ]
+    },
+    {
+      "id": "MCL-P1-GTR-TRACK",
+      "manufacturer": "McLaren",
+      "model_family": "P1",
+      "generation": "P1 GTR original factory track specification",
+      "variant": "P1 GTR",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Factory track configuration. The manufacturer describes 1000 PS alongside the V8; treated as total hybrid output, not combustion-only output.",
+      "summary": "The P1 GTR was developed for an owners’ track programme, with a DRS wing and dedicated exhaust. Later third-party road conversions are outside this record.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren P1 GTR — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cars.mclaren.com/gl_en/ultimate-models/mclaren-p1-gtr",
+          "notes": "Factory track configuration. The manufacturer describes 1000 PS alongside the V8; treated as total hybrid output, not combustion-only output. Normalized kW is calculated from PS using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "McLaren P1 GTR at Grand Basel 2018 04.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:McLaren_P1_GTR_at_Grand_Basel_2018_04.jpg",
+          "notes": "Ank Kumar; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Mid-mounted V8 hybrid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer power notation",
+          "value": "1000",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Rear wing",
+          "value": "Drag Reduction System",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Outlet configuration",
+          "value": "Straight-cut twin pipes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Usage",
+          "label": "Factory specification",
+          "value": "Track car",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Programme",
+          "label": "Original eligibility",
+          "value": "P1 owners",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "735.5",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The P1 GTR was developed for an owners’ track programme, with a DRS wing and dedicated exhaust. Later third-party road conversions are outside this record.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_p1_gtr_track.jpg",
+          "caption": "McLaren P1 GTR — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Ank Kumar",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "82085a4072264f4fad84ed6cd32049a146a3a1e7cd5dab83eed0743c908b6b92"
+        }
+      ]
+    },
+    {
+      "id": "MCL-SENNA-GTR",
+      "manufacturer": "McLaren",
+      "model_family": "Senna",
+      "generation": "Senna GTR factory track specification",
+      "variant": "Senna GTR",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Manufacturer Bruno Senna feature. Original GTR; excludes GTR LM bespoke cars and later road conversions.",
+      "summary": "The Senna GTR uses GT3-derived suspension and revised carbon bodywork to generate road-Senna downforce at lower speeds.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren Senna GTR — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://website-uat.mclaren.com/gl_en/ultimate-models/mclaren-senna-gtr/a-momentous-experience",
+          "notes": "Manufacturer Bruno Senna feature. Original GTR; excludes GTR LM bespoke cars and later road conversions. Normalized kW is calculated from PS using 0.73549875 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "McLaren Senna GTR.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "825",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension basis",
+          "value": "McLaren GT3 racing programme",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "GTR changes",
+          "value": "Larger front splitter and rear diffuser",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "606.8",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Senna GTR uses GT3-derived suspension and revised carbon bodywork to generate road-Senna downforce at lower speeds.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_senna_gtr.jpg",
+          "caption": "McLaren Senna GTR — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6ed8b87380b8a95f3dd9dc6210439e503ee6afb1e942e22da6047efc7ad5fa88"
+        }
+      ]
+    },
+    {
+      "id": "MCL-SOLUS-GT",
+      "manufacturer": "McLaren",
+      "model_family": "Solus GT",
+      "generation": "Solus GT single-seat track series",
+      "variant": "Solus GT",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Narrative technical description used; partially animated numeric headline counters are excluded.",
+      "summary": "The Solus GT turns a virtual racing concept into a single-seat track car accessed through a sliding canopy.",
+      "sources": [
+        {
+          "publisher": "McLaren",
+          "title": "McLaren Solus GT — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cars.mclaren.com/us_en/mclaren-solus-gt",
+          "notes": "Narrative technical description used; partially animated numeric headline counters are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2023 McLaren Solus GT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_McLaren_Solus_GT.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output lower bound",
+          "value": ">840",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine speed capability",
+          "value": ">10000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Manufacturer weight claim",
+          "value": "<1000",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "25",
+          "unit": "cars",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Solus GT turns a virtual racing concept into a single-seat track car accessed through a sliding canopy.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_mcl_solus_gt.jpg",
+          "caption": "McLaren Solus GT — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7f5199d535b3f07a020e7e044d99f7d5facaf637310f71d22c58e76777859b28"
+        }
+      ]
+    },
+    {
+      "id": "PAG-IMOLA-ROADSTER",
+      "manufacturer": "Pagani",
+      "model_family": "Huayra",
+      "generation": "Imola open-top evolution",
+      "variant": "Imola Roadster",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The Imola Roadster applies Pagani’s track-derived aerodynamics to an open road car.",
+      "sources": [
+        {
+          "publisher": "Pagani",
+          "title": "Pagani Imola Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.pagani.com/press/pagani-imola-roadster/",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range. Technical table gives 850 CV / 625 kW."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2024 Pagani Huayra Imola Roadster.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2024_Pagani_Huayra_Imola_Roadster.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-turbo V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5980",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "625",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1100",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Dry weight",
+          "value": "1260",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "8",
+          "unit": "cars",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Imola Roadster applies Pagani’s track-derived aerodynamics to an open road car.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_pag_imola_roadster.jpg",
+          "caption": "Pagani Imola Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2e863c69c961ad4100085136e0397748b829e912f088c26b07574d2865259bf7"
+        }
+      ]
+    },
+    {
+      "id": "KOE-GEMERA-HV8",
+      "manufacturer": "Koenigsegg",
+      "model_family": "Gemera",
+      "generation": "2023 client specification HV8",
+      "variant": "Gemera HV8",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer 2023 HV8 client specification. Announced ratings, not an independently measured output. Photographs identify body design only; the installed engine is not visually certified.",
+      "summary": "The client-specification Gemera combines a hot-V V8 and Dark Matter motor with four seats; this record excludes the earlier three-cylinder concept.",
+      "sources": [
+        {
+          "publisher": "Koenigsegg",
+          "title": "Koenigsegg Gemera HV8 — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.koenigsegg.com/index.php/technical-specifications-gemera-2023",
+          "notes": "Manufacturer 2023 HV8 client specification. Announced ratings, not an independently measured output. Photographs identify body design only; the installed engine is not visually certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Koenigsegg Gemera Auto Zuerich 2023 1X7A1120.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera_Auto_Zuerich_2023_1X7A1120.jpg",
+          "notes": "Alexander-93; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "5.0-litre twin-turbo hot-V V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Manufacturer combined output",
+          "value": "2300",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Combined torque",
+          "value": "2750",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Battery capacity",
+          "value": "14",
+          "unit": "kWh",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Battery voltage",
+          "value": "850",
+          "unit": "V",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Nine-speed Light Speed Tourbillon Transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The client-specification Gemera combines a hot-V V8 and Dark Matter motor with four seats; this record excludes the earlier three-cylinder concept.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_koe_gemera_hv8.jpg",
+          "caption": "Koenigsegg Gemera HV8 — representative exterior photograph; photographed year, market and equipment may differ from the technical reference. Body design reference only; the installed HV8 powertrain is not verified from this image.",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0f9ecff6312edf2186e82bedaf71fb316f075c2cf6ce678420e3dc739cbb074d"
+        }
+      ]
+    },
+    {
+      "id": "KOE-CCGT-TRACK",
+      "manufacturer": "Koenigsegg",
+      "model_family": "CCGT",
+      "generation": "Original GT1 prototype",
+      "variant": "CCGT — original GT1 prototype",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Factory track car",
+      "body_style": "Two-door coupe",
+      "road_legal": 0,
+      "specification_market": "Original CCGT prototype. Unballasted mass and class minimum are separate; manufacturer downforce claim lacks a reference speed.",
+      "summary": "The CCGT was developed for GT1, but rule changes ended the programme before competition. It is distinct from the much later CCGT1.",
+      "sources": [
+        {
+          "publisher": "Koenigsegg",
+          "title": "Koenigsegg CCGT — original GT1 prototype — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.koenigsegg.com/model/ccgt",
+          "notes": "Original CCGT prototype. Unballasted mass and class minimum are separate; manufacturer downforce claim lacks a reference speed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Koenigsegg CCGT.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCGT.JPG",
+          "notes": "Richard Bjerkøe ( w:User:SYnzYgUs ); CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Original attribution:  Self-photographed"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output notation",
+          "value": "600",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Unballasted weight claim",
+          "value": "<1000",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Competition",
+          "label": "GT1 minimum weight",
+          "value": "1100",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Manufacturer downforce claim",
+          "value": ">600",
+          "unit": "kg (speed unspecified)",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The CCGT was developed for GT1, but rule changes ended the programme before competition. It is distinct from the much later CCGT1.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_koe_ccgt_track.jpg",
+          "caption": "Koenigsegg CCGT — original GT1 prototype — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Richard Bjerkøe ( w:User:SYnzYgUs )",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c400fe390ea558462859ddee26ffaf48805696a83b3bd025322f155e66060c02"
+        }
+      ]
+    },
+    {
+      "id": "KOE-CCXR-TREVITA",
+      "manufacturer": "Koenigsegg",
+      "model_family": "CCXR",
+      "generation": "CCXR Trevita limited series",
+      "variant": "Trevita",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "E85 output; top speed explicitly estimated. Two built, rather than the initially planned three.",
+      "summary": "The Trevita combines a coated white carbon weave with a double carbon rear wing and the CCXR’s E85-capable powertrain.",
+      "sources": [
+        {
+          "publisher": "Koenigsegg",
+          "title": "Koenigsegg Trevita — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.koenigsegg.com/model/ccxr-trevita",
+          "notes": "E85 output; top speed explicitly estimated. Two built, rather than the initially planned three. Normalized kW is calculated from bhp using 0.745699872 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Koenigsegg CCXR Trevita (20031267116) cropped.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Trevita_(20031267116)_cropped.jpg",
+          "notes": "Axion23 (cropped derivative on Commons); CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original attribution:  File:Koenigsegg CCXR SE, CCXR Trevita, and Enzo Ferrari (20031267116).jpg"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation (E85)",
+          "value": "1018",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1060",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Estimated top speed",
+          "value": "400",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.1",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Manufacturer reported build count",
+          "value": "2",
+          "unit": "cars",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "759.1",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Trevita combines a coated white carbon weave with a double carbon rear wing and the CCXR’s E85-capable powertrain.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_koe_ccxr_trevita.jpg",
+          "caption": "Koenigsegg Trevita — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Axion23 (cropped derivative on Commons)",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d04586006fd74c57f1ad9fcf157791b39867a0aae9134c2dd05d074e3783c268"
+        }
+      ]
+    },
+    {
+      "id": "PAG-IMOLA-COUPE",
+      "manufacturer": "Pagani",
+      "model_family": "Huayra",
+      "generation": "Imola closed-roof derivative",
+      "variant": "Imola Coupé",
+      "model_year_from": 2020,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Presentation-version specification. Power notation retained exactly as manufacturer hp without assuming an hp/CV conversion.",
+      "summary": "The Imola couples a heavily revised aerodynamic package with a road-legal AMG V12 installation.",
+      "sources": [
+        {
+          "publisher": "Pagani",
+          "title": "Pagani Imola Coupé — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.pagani.com/press/pagani-imola/",
+          "notes": "Presentation-version specification. Power notation retained exactly as manufacturer hp without assuming an hp/CV conversion."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Pagani Huayra Imola Milano 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_Imola_Milano_1.jpg",
+          "notes": "Saggittarius A; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Mercedes-AMG 60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5980",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output notation",
+          "value": "827",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1100",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Presentation-version dry weight",
+          "value": "1246",
+          "unit": "kg",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Imola couples a heavily revised aerodynamic package with a road-legal AMG V12 installation.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_pag_imola_coupe.jpg",
+          "caption": "Pagani Imola Coupé — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Saggittarius A",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "1a950fa3a777dba49489dce0329f09e07b399d6cbfa43f5a4a6c49a13dd66dd2"
+        }
+      ]
+    },
+    {
+      "id": "PAG-ZON-HP-BARCHETTA",
+      "manufacturer": "Pagani",
+      "model_family": "Zonda",
+      "generation": "Zonda HP Barchetta open-body derivative",
+      "variant": "HP Barchetta",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door barchetta",
+      "road_legal": 1,
+      "specification_market": "Manufacturer technical table. Power and displacement are not supplied on the cited page and remain unfilled.",
+      "summary": "The HP Barchetta was conceived for Horacio Pagani, combining a shortened open body with a manual gearbox.",
+      "sources": [
+        {
+          "publisher": "Pagani",
+          "title": "Pagani HP Barchetta — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.pagani.com/zonda-hp-barchetta/",
+          "notes": "Manufacturer technical table. Power and displacement are not supplied on the cited page and remain unfilled."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Pagani Zonda HP Barchetta.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_HP_Barchetta.jpg",
+          "notes": "Y.Leclercq©; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Mercedes-AMG 60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Longitudinal mid-rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Dry weight",
+          "value": "1250",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Carbo-Titanium and Carbo-Triax HP52 monocoque",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The HP Barchetta was conceived for Horacio Pagani, combining a shortened open body with a manual gearbox.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_pag_zon_hp_barchetta.jpg",
+          "caption": "Pagani HP Barchetta — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Y.Leclercq©",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "388662c86573a14af74decec1ea7132fa7814aae7a5c0f4b0b163b2aeed0eb27"
+        }
+      ]
+    },
+    {
+      "id": "PAG-HUA-R-EVO",
+      "manufacturer": "Pagani",
+      "model_family": "Huayra",
+      "generation": "Huayra R Evo open-top track evolution",
+      "variant": "R Evo Roadster",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Factory track car",
+      "body_style": "Two-door removable-roof track car",
+      "road_legal": 0,
+      "specification_market": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range.",
+      "summary": "The R Evo Roadster develops Pagani’s track-only platform with an uprated HWA-developed V12 and removable roof sections.",
+      "sources": [
+        {
+          "publisher": "Pagani",
+          "title": "Pagani R Evo Roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.pagani.com/press/huayra-r-evo-roadster/",
+          "notes": "Manufacturer reference specification; year identifies the archive or announcement reference, not a claimed production range."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Pagani Huayra R Evo at the 2026 Adelaide Motorsport Festival (DSCF2554).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg",
+          "notes": "Yu Chu Chin; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V12-R Evo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "662",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "770",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque range",
+          "value": "5800–8200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rev limit",
+          "value": "9200",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The R Evo Roadster develops Pagani’s track-only platform with an uprated HWA-developed V12 and removable roof sections.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_pag_hua_r_evo.jpg",
+          "caption": "Pagani R Evo Roadster — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Yu Chu Chin",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8c2da9ca0ab922c3558a9558940daeb57a2d8bb06446bb0b81618634688681f3"
+        }
+      ]
+    },
+    {
+      "id": "HEN-F5-ROADSTER",
+      "manufacturer": "Hennessey",
+      "model_family": "Venom F5",
+      "generation": "Original 1817 bhp removable-roof derivative",
+      "variant": "Roadster — original 1817 bhp",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Supercar",
+      "body_style": "Two-door removable-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Original 1817 bhp Roadster; excludes later Evolution and manual-transmission upgrades.",
+      "summary": "The F5 Roadster uses a removable carbon roof panel and a glass engine cover. The 300 mph ambition is a design target, not a verified top speed.",
+      "sources": [
+        {
+          "publisher": "Hennessey",
+          "title": "Hennessey Roadster — original 1817 bhp — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.hennesseyspecialvehicles.com/venom-f5-roadster/",
+          "notes": "Original 1817 bhp Roadster; excludes later Evolution and manual-transmission upgrades. Normalized kW is calculated from bhp using 0.745699872 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2022 Hennessey Venom F5 Roadster.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2022_Hennessey_Venom_F5_Roadster.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-turbo Fury V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "1817",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1193",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rev limit",
+          "value": "8000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Removable roof panel weight",
+          "value": "8",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "1354.9",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The F5 Roadster uses a removable carbon roof panel and a glass engine cover. The 300 mph ambition is a design target, not a verified top speed.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_hen_f5_roadster.jpg",
+          "caption": "Hennessey Roadster — original 1817 bhp — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a8b8a8d2205a3db836ebd9e5b306ae087e5a2679f02bccef70cdb0da7d02a4e2"
+        }
+      ]
+    },
+    {
+      "id": "FER-ROMA-SPIDER",
+      "manufacturer": "Ferrari",
+      "model_family": "Roma",
+      "generation": "Roma fabric-roof Spider",
+      "variant": "Roma Spider",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Supercar",
+      "body_style": "Two-door soft-top spider",
+      "road_legal": 1,
+      "specification_market": "Ferrari Roma Spider technical release. Power with 98 RON fuel; no coupe weight is copied into this record.",
+      "summary": "The Roma Spider replaces the coupe’s fixed roof with a fabric top that operates in 13.5 seconds at up to 60 km/h.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari Roma Spider — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/CS_Ferrari_Roma_Spider_final_GBR_rev.pdf",
+          "notes": "Ferrari Roma Spider technical release. Power with 98 RON fuel; no coupe weight is copied into this record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Ferrari Roma Spider Auto Zuerich 2023 1X7A1455.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_Spider_Auto_Zuerich_2023_1X7A1455.jpg",
+          "notes": "Alexander-93; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree twin-turbo V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3855",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "456",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "760",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": ">320",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Eight-speed F1 dual clutch",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Roma Spider replaces the coupe’s fixed roof with a fabric top that operates in 13.5 seconds at up to 60 km/h.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_fer_roma_spider.jpg",
+          "caption": "Ferrari Roma Spider — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "011d5e404ff8f01d3c264d1b925ff614a22023ea79147ec32c97275ff04fe2f7"
+        }
+      ]
+    },
+    {
+      "id": "RIM-CONCEPTONE-2017",
+      "manufacturer": "Rimac",
+      "model_family": "Concept_One",
+      "generation": "2017 upgraded electric powertrain",
+      "variant": "Concept_One — 2017 specification",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Croatia",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "March 2017 update, not the lower-output original concept. Manufacturer acceleration claims; no independent test is implied.",
+      "summary": "The 2017 Concept_One update increases power and battery performance while refining control of each wheel.",
+      "sources": [
+        {
+          "publisher": "Rimac",
+          "title": "Rimac Concept_One — 2017 specification — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.rimac-newsroom.com/press-releases/rimac-automobili/rimac-automobili-at-the-2017-geneva-motor-show",
+          "notes": "March 2017 update, not the lower-output original concept. Manufacturer acceleration claims; no independent test is implied."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "2017-03-07 Geneva Motor Show 0932.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017-03-07_Geneva_Motor_Show_0932.JPG",
+          "notes": "Norbert Aepli, Switzerland ( User:Noebu ); CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Original attribution: Norbert Aepli, Switzerland Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "Battery electric",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "900",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "2.5",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–200 km/h",
+          "value": "6.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–300 km/h",
+          "value": "14.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Torque control",
+          "value": "Rimac All Wheel Torque Vectoring",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The 2017 Concept_One update increases power and battery performance while refining control of each wheel.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_rim_conceptone_2017.jpg",
+          "caption": "Rimac Concept_One — 2017 specification — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Norbert Aepli, Switzerland ( User:Noebu )",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b47a464e3edfa0f15e3139bcc5ccdfa9e7c999d9c723312c6458881474a427e0"
+        }
+      ]
+    },
+    {
+      "id": "RIM-NEVERA-R",
+      "manufacturer": "Rimac",
+      "model_family": "Nevera",
+      "generation": "Nevera R uprated battery and chassis",
+      "variant": "Nevera R — launch specification",
+      "model_year_from": 2024,
+      "model_year_to": null,
+      "origin_country": "Croatia",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "16 August 2024 launch figures. These are not the later 2025 record-run timings; 412 km/h requires manufacturer oversight.",
+      "summary": "The Nevera R revises the battery, brakes and torque-vectoring calibration for greater cornering performance.",
+      "sources": [
+        {
+          "publisher": "Rimac",
+          "title": "Rimac Nevera R — launch specification — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://www.rimac-newsroom.com/press-releases/rimac-nevera-r/rimac-introduces-nevera-r-a-new-2107-hp-hypercar",
+          "notes": "16 August 2024 launch figures. These are not the later 2025 record-run timings; 412 km/h requires manufacturer oversight."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0591).jpg",
+          "notes": "Matti Blume; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0/deed.en. Original attribution:  Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Powertrain",
+          "label": "Architecture",
+          "value": "Battery electric",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Manufacturer output notation",
+          "value": "2107",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Launch claim 0–100 km/h",
+          "value": "1.81",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Launch claim 0–200 km/h",
+          "value": "4.38",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Top speed with manufacturer oversight",
+          "value": "412",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Announced allocation",
+          "value": "40",
+          "unit": "cars",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The Nevera R revises the battery, brakes and torque-vectoring calibration for greater cornering performance.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_rim_nevera_r.jpg",
+          "caption": "Rimac Nevera R — launch specification — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "fb88ab1a04d218e0d11c69ccf04e96b19f2f29fcf0ca28a2417dee0540d92ca7"
+        }
+      ]
+    },
+    {
+      "id": "SAL-S7-NA",
+      "manufacturer": "Saleen",
+      "model_family": "S7",
+      "generation": "Original naturally aspirated road series",
+      "variant": "S7 — naturally aspirated",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Supercar",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original naturally aspirated model. The manufacturer page’s headline Twin Turbo specifications are deliberately excluded.",
+      "summary": "The original S7 uses a naturally aspirated seven-litre V8 beneath carbon-fibre bodywork, distinct from the later Twin Turbo.",
+      "sources": [
+        {
+          "publisher": "Saleen",
+          "title": "Saleen S7 — naturally aspirated — manufacturer reference",
+          "source_type": "Manufacturer archive / technical publication",
+          "url": "https://saleen.com/models/s7",
+          "notes": "Original naturally aspirated model. The manufacturer page’s headline Twin Turbo specifications are deliberately excluded. Normalized kW is calculated from hp using 0.745699872 kW per unit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "SAG2004 181 Saleen.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:SAG2004_181_Saleen.jpg",
+          "notes": "Semnoz at French Wikipedia; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Original attribution:  photo by Semnoz"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "7.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "550",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "520",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Material",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Powertrain",
+          "label": "Maximum power",
+          "value": "410.1",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Design and engineering",
+          "explanation": "The original S7 uses a naturally aspirated seven-litre V8 beneath carbon-fibre bodywork, distinct from the later Twin Turbo.",
+          "category": "Engineering",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/sc50_sal_s7_na.jpg",
+          "caption": "Saleen S7 — naturally aspirated — representative exterior photograph; photographed year, market and equipment may differ from the technical reference.",
+          "creator": "Semnoz at French Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "af39582d566a79dce1e4630e8e2f1d4e4aa456bbd6b062b85379baa1ae21abc6"
+        }
+      ]
+    }
+  ]
+}

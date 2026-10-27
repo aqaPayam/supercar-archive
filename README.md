@@ -44,3 +44,9 @@ Image creator, license, and original-source attribution are stored in the databa
 The database includes 50 additional Japan-market road variants with manufacturer
 evidence and licensed representative photography. See [the batch review](docs/jdm50.md)
 for the car list, duplicate audit, evidence limitations and repeatable import checks.
+
+## Supercar research batch
+
+The next 50 additions cover road supercars, open-top derivatives and explicitly
+labeled factory track cars. See [the batch review](docs/supercars50.md) for the
+variant list, manufacturer sources, photo attributions and validation commands.

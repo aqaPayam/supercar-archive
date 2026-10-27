@@ -24,8 +24,8 @@ jobs:
         uses: actions/setup-python@v7
         with:
           python-version: "3.13"
-      - name: Check database preservation and JDM import
-        run: python -m unittest test_startup test_jdm_import -v
+      - name: Check database preservation and additive imports
+        run: python -m unittest test_startup test_jdm_import test_supercars_import -v
       - name: Build read-only website
         run: python export_public.py --output dist
       - name: Configure GitHub Pages
