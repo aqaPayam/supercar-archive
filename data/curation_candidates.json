@@ -1169,7 +1169,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Focus",
+      "generation": "First-generation European Focus RS",
+      "proposed_record": "FOR-FOCUS-RS-MK1-2002",
+      "reason": "The first Focus RS revived Ford’s RS performance lineage in a focused front-drive road hatch, using turbocharged power and a standard limited-slip differential to connect modern compact-car dynamics with the marque’s rally identity.",
+      "evidence": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Focus",
+      "generation": "Second-generation European Focus RS",
+      "proposed_record": "FOR-FOCUS-RS-MK2-2009",
+      "reason": "The second Focus RS made its high-output turbocharged five-cylinder usable through a driven front axle, combining a Quaife differential with dedicated RevoKnuckle geometry in a distinctive performance-hatchback engineering package.",
+      "evidence": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Focus",
+      "generation": "Third-generation original AWD Focus RS",
+      "proposed_record": "FOR-FOCUS-RS-MK3-2017",
+      "reason": "The third Focus RS brought a torque-vectoring all-wheel-drive system to Ford’s global RS road hatch, combining turbocharged four-cylinder power with a manual transmission and a substantially different chassis philosophy from its front-drive predecessors.",
+      "evidence": "https://www.auto-brochures.com/makes/Ford/Focus/Ford_US%20Focus_2017.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Fiesta",
+      "generation": "B299 1.6 EcoBoost ST generation, UK Mk7",
+      "proposed_record": "FOR-FIESTA-ST-B299-2014",
+      "reason": "This Fiesta ST generation earned Top Gear’s 2013 Car of the Year award and enduring recognition as an outstanding small driver’s hatchback, giving its compact turbocharged road-car formula a firmly established place among performance icons.",
+      "evidence": "https://www.topgear.com/car-news/retro/gallery-every-single-top-gear-car-year-winner-last-30-years",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Fiesta",
+      "generation": "B479 original three-cylinder ST generation, UK Mk8",
+      "proposed_record": "FOR-FIESTA-ST-B479-2018",
+      "reason": "The 2018 Fiesta ST won Top Gear’s Car of the Year award and sustained a lasting reputation as a leading small driver’s hatchback, showing that its performance significance extended well beyond its compact-car origins.",
+      "evidence": "https://www.topgear.com/car-news/retro/gallery-every-single-top-gear-car-year-winner-last-30-years",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Cortina",
+      "generation": "Original Lotus Cortina Mk I, Type 28",
+      "proposed_record": "FOR-CORTINA-LOTUS-MK1-1963",
+      "reason": "The original Lotus Cortina turned a modest Ford saloon into a lightweight twin-cam performance icon, creating the road-going foundation of a celebrated international saloon-racing and rallying collaboration.",
+      "evidence": "https://www.lotuscars.com/en-GB/lotus-story/road-cars/cortina",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "Carlton",
+      "generation": "Original Type 104 Lotus Carlton / Omega",
+      "proposed_record": "VAU-CARLTON-LOTUS-1990",
+      "reason": "The Lotus Carlton put exceptional supercar-level performance into a four-door executive saloon through a deeply re-engineered twin-turbo six-cylinder powertrain and Lotus-developed chassis, establishing an enduring performance-saloon landmark.",
+      "evidence": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-lotus-carlton",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Talbot",
+      "model": "Sunbeam",
+      "generation": "Original Series 1 Lotus road hatchback",
+      "proposed_record": "TAL-SUNBEAM-LOTUS-1979",
+      "reason": "The Sunbeam Lotus combined a compact road hatchback with a specially developed Lotus twin-cam engine and became the production basis of Talbot’s world-championship rally programme, giving it significance beyond an ordinary sporting trim.",
+      "evidence": "https://www.lotuscars.com/en-MY/lotus-story/road-cars/sunbeam",
+      "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-10.json"
     }
   ],
-  "catalogue_count_after_batches": 499
+  "catalogue_count_after_batches": 507
 }
