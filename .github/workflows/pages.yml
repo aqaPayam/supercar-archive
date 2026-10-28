@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: "3.13"
       - name: Check database preservation and additive imports
-        run: python -m unittest test_startup test_jdm_import test_supercars_import -v
+        run: python -m unittest test_startup test_jdm_import test_supercars_import test_curated_import -v
       - name: Build read-only website
         run: python export_public.py --output dist
       - name: Configure GitHub Pages

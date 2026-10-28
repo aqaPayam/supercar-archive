@@ -50,3 +50,10 @@ for the car list, duplicate audit, evidence limitations and repeatable import ch
 The next 50 additions cover road supercars, open-top derivatives and explicitly
 labeled factory track cars. See [the batch review](docs/supercars50.md) for the
 variant list, manufacturer sources, photo attributions and validation commands.
+
+## Curated expansion toward 1,000 cars
+
+New additions follow the [performance-icon admission policy](docs/curation1000.md).
+Each car needs a sourced explanation of its significance, alongside its technical
+evidence and licensed photograph. The [first road-icon batch](docs/icons-road-01.md)
+adds four missing homologation and engineering landmarks, reaching 399 records.

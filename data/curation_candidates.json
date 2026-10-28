@@ -1,0 +1,71 @@
+{
+  "reviewed_on": "2026-10-28",
+  "baseline_count": 395,
+  "status": "Research queue; not approved or counted catalogue additions",
+  "candidates": [
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "generation": "E30",
+      "proposed_record": "Original road homologation model; precise market and specification pending",
+      "reason": "The original M3 was developed as a touring-car homologation model, making it a foundational performance-saloon candidate.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e30-portraet.html",
+      "duplicate_review": "Existing M3 entry is E46 CSL; no E30 record in the 395-car baseline.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-01.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "quattro",
+      "generation": "Original road coupe",
+      "proposed_record": "Original production road coupe; precise engine/year pending",
+      "reason": "The original quattro made permanent all-wheel drive central to Audi's high-performance passenger-car identity.",
+      "evidence": "https://www.audiusa.com/en/inside-the-rings/audi-quattro/",
+      "duplicate_review": "Audi baseline contains R8 derivatives; no original quattro record.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-01.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Stratos HF",
+      "generation": "Original",
+      "proposed_record": "Stradale road homologation car; technical reference pending",
+      "reason": "The Stratos programme earned three consecutive world constructors' rally championships from 1974 to 1976.",
+      "evidence": "https://www.media.stellantis.com/em-en/lancia/press/lancia-stratos-one-of-the-most-successful-rally-cars-of-all-time-is-celebrating-today-the-50th-anniversary-of-its-first-international-victory",
+      "duplicate_review": "No Lancia records in the baseline.",
+      "remaining": "Find road-specific technical evidence and licensed Stradale photo; do not substitute Group 4 specifications."
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Delta HF integrale",
+      "generation": "First generation",
+      "proposed_record": "Representative road homologation derivative; 8V/16V/Evoluzione identity pending",
+      "reason": "The Delta competition programme's sustained championship success makes its homologation road cars strong rally-icon candidates.",
+      "evidence": "https://www.media.stellantis.com/de-de/lancia/press/100-jahre-lancia-die-erfolgreichste-marke-der-rallyesport-historie-vor-dem-start-der-rallye-monte-carlo-ruckblick-auf-74-siege-in-der-wm-fulvia-stratos-rally-037-und-delta-integrale-schrieben-sportgeschichte",
+      "duplicate_review": "No Lancia records in the baseline. Do not count each proposed derivative before the variant rule is settled.",
+      "remaining": "Choose precise road derivative, obtain technical evidence and a licensed matching photo."
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Rally 037",
+      "generation": "Original",
+      "proposed_record": "Stradale road homologation model",
+      "reason": "The 037 programme won the 1983 world constructors' rally championship; the related road homologation car fills a significant archive gap.",
+      "evidence": "https://www.media.stellantis.com/de-de/lancia/press/100-jahre-lancia-die-erfolgreichste-marke-der-rallyesport-historie-vor-dem-start-der-rallye-monte-carlo-ruckblick-auf-74-siege-in-der-wm-fulvia-stratos-rally-037-und-delta-integrale-schrieben-sportgeschichte",
+      "duplicate_review": "No Lancia records in the baseline.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-01.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "205 Turbo 16",
+      "generation": "Original",
+      "proposed_record": "Road homologation version",
+      "reason": "The 205 Turbo 16 competition programme earned world manufacturers' and drivers' titles in both 1985 and 1986.",
+      "evidence": "https://www.media.stellantis.com/fr-fr/peugeot/press/la-peugeot-205-fete-ses-40-ans-un-sacre-numero-qui-a-de-l-allure",
+      "duplicate_review": "No Peugeot records in the baseline.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-01.json"
+    }
+  ]
+}
