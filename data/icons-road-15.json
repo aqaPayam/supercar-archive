@@ -1,0 +1,1403 @@
+{
+  "batch": "icons-road-2026-10-29-15",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 11,
+  "cars": [
+    {
+      "id": "FER-166-INTER-TOURING-1949",
+      "manufacturer": "Ferrari",
+      "model_family": "166 Inter",
+      "generation": "Original 166 Inter Touring road coupe",
+      "variant": "Touring Aerlux coupe — 1949 Louwman collection reference",
+      "model_year_from": 1949,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1949 Touring Aerlux road coupe in the Louwman Museum collection; the museum supplies the selected body/engine description and build year. No 166 MM racing output, exact capacity, gearbox or unverified engine power is imported. The selected licensed photo identifies the same museum’s Touring coupe; its filename’s horsepower claim is not technical evidence.",
+      "summary": "The 166 Inter represents the origins of Ferrari’s road-going V12 grand tourers. The Touring coupe combines Gioacchino Colombo’s compact V12 with Superleggera coachbuilding; this early Aerlux example also preserves the distinctive Plexiglas-roof design.",
+      "admission_reason": "The 166 Inter represents the origins of Ferrari’s road-going V12 grand tourers. The Touring coupe combines Gioacchino Colombo’s compact V12 with Superleggera coachbuilding; this early Aerlux example also preserves the distinctive Plexiglas-roof design.",
+      "sources": [
+        {
+          "publisher": "Louwman Museum",
+          "title": "Ferrari 166 Inter Coupé Touring — 1949 Louwman Museum collection record",
+          "source_type": "Museum collection record",
+          "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/ferrari-166-inter-coupe-touring",
+          "notes": "1949 Touring Aerlux road coupe in the Louwman Museum collection; the museum supplies the selected body/engine description and build year. No 166 MM racing output, exact capacity, gearbox or unverified engine power is imported. The selected licensed photo identifies the same museum’s Touring coupe; its filename’s horsepower claim is not technical evidence."
+        },
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari prospectus — company history, printed page 94 / PDF page 106",
+          "source_type": "Manufacturer corporate prospectus / historical account",
+          "url": "https://cdn.ferrari.com/cms/network/media/pdf/16_f-1_prospectus.pdf",
+          "notes": "Official Ferrari prospectus identifies the 166 Inter as the company’s first road-car model, produced in 1948. That family introduction is separate from the selected museum car’s 1949 build year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1949 Ferrari 166 Inter Coupé Touring, 2litre 12cylinder 110hp pic1.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1949_Ferrari_166_Inter_Coup%C3%A9_Touring,_2litre_12cylinder_110hp_pic1.JPG",
+          "notes": "Alf van Beem; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Touring Superleggera lightweight tubular steel body framework",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bodywork",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Plexiglas Aerlux roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Touring of Milan",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine designer",
+          "value": "Gioacchino Colombo",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 166 Inter represents the origins of Ferrari’s road-going V12 grand tourers. The Touring coupe combines Gioacchino Colombo’s compact V12 with Superleggera coachbuilding; this early Aerlux example also preserves the distinctive Plexiglas-roof design.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_166_inter_touring_1949.jpg",
+          "caption": "Ferrari Touring Aerlux coupe — 1949 Louwman collection reference — The 1949 Touring coupe in the Louwman Museum. The filename’s horsepower notation is not used as technical evidence. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Alf van Beem",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "57e7bed07d7247ff518f3c1363091e5ef8bf3fa6eb67c39cb7710a41c38055dc"
+        }
+      ]
+    },
+    {
+      "id": "FER-275-GTB4-ROAD",
+      "manufacturer": "Ferrari",
+      "model_family": "275 GTB",
+      "generation": "275 GTB4 four-cam road berlinetta",
+      "variant": "GTB4 — original four-cam V12 road coupe",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original multilingual GTB4 factory brochure, hosted as a 1967 reference, technical page 5 rendered and visually read. Italian 300 CV and English 300 bhp wording are not treated as a modern net conversion. The 1967 Design Museum exhibit independently establishes a road-car reference in the same period. Two-cam GTB, GTS, NART Spyder and competition specials are excluded. Empty weight and gearing-derived speeds are not imported.",
+      "summary": "The 275 GTB4 is a landmark Ferrari-Pininfarina V12 grand tourer, combining a four-cam dry-sump engine, rear-mounted five-speed gearbox and independent suspension at both ends within the classic front-engine berlinetta form.",
+      "admission_reason": "The 275 GTB4 is a landmark Ferrari-Pininfarina V12 grand tourer, combining a four-cam dry-sump engine, rear-mounted five-speed gearbox and independent suspension at both ends within the classic front-engine berlinetta form.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari 275 GTB4 — original multilingual factory brochure, technical page 5",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.centuryu.com/uploads/1/4/4/6/144698822/1967_275_gtb4.pdf",
+          "notes": "Original multilingual GTB4 factory brochure, hosted as a 1967 reference, technical page 5 rendered and visually read. Italian 300 CV and English 300 bhp wording are not treated as a modern net conversion. The 1967 Design Museum exhibit independently establishes a road-car reference in the same period. Two-cam GTB, GTS, NART Spyder and competition specials are excluded. Empty weight and gearing-derived speeds are not imported."
+        },
+        {
+          "publisher": "Design Museum",
+          "title": "Ferrari: Under the Skin — 1967 275 GTB4 exhibit",
+          "source_type": "Museum exhibition record",
+          "url": "https://designmuseum.org/exhibitions/ferrari-under-the-skin/the-cars",
+          "notes": "Museum exhibition account documents the 1967 275 GTB4 and the long Ferrari-Pininfarina creative partnership."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ferrari 275 GTB 4 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_275_GTB_4_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3285.722",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Four overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry sump with separate tank, scavenge pump and oil cooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Six Weber 40 DCN 9 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Rear-mounted five-speed manual with central floor lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front and rear with transverse members",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel discs with servo assistance",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Original Italian brochure power notation",
+          "value": "300",
+          "unit": "CV; historical rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 275 GTB4 is a landmark Ferrari-Pininfarina V12 grand tourer, combining a four-cam dry-sump engine, rear-mounted five-speed gearbox and independent suspension at both ends within the classic front-engine berlinetta form.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_275_gtb4_road.jpg",
+          "caption": "Ferrari GTB4 — original four-cam V12 road coupe — Original fixed-roof 275 GTB4 road berlinetta; exact build year and market are unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2d464107633c3cd1b4adaa0241ecbcf8aad80c3cacf329e4eda9cbe6fa412527"
+        }
+      ]
+    },
+    {
+      "id": "FER-DINO-308GT4-1974",
+      "manufacturer": "Ferrari",
+      "model_family": "Dino 308 GT4",
+      "generation": "Original Bertone mid-engine V8 2+2",
+      "variant": "Dino 308 GT4 — 1974 Hellenic Motor Museum reference",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1974 Hellenic Motor Museum road-car collection reference, acquired through a British auction. The museum explicitly records build year, V8 position, rounded 2927-cc capacity, 255-bhp notation and design significance. No exact factory build market or modern SAE/net equivalence is inferred. The separate undated US brochure’s 240-SAE-net specification is not mixed in. Photo represents the Bertone 308 GT4 body, not certification of the museum car or original Dino badging.",
+      "summary": "The Dino 308 GT4 is a landmark in Ferrari’s road-car development as its first production mid-mounted V8 and a pioneering mid-engine 2+2. Its Bertone wedge body is distinct from the later two-seat Pininfarina 308 GTB.",
+      "admission_reason": "The Dino 308 GT4 is a landmark in Ferrari’s road-car development as its first production mid-mounted V8 and a pioneering mid-engine 2+2. Its Bertone wedge body is distinct from the later two-seat Pininfarina 308 GTB.",
+      "sources": [
+        {
+          "publisher": "Hellenic Motor Museum",
+          "title": "Ferrari Dino 308 GT4 — 1974 collection car and mid-V8/Bertone milestones",
+          "source_type": "Museum collection record",
+          "url": "https://www.hellenicmotormuseum.gr/en/car/ferrari-dino-308-gt4/",
+          "notes": "1974 Hellenic Motor Museum road-car collection reference, acquired through a British auction. The museum explicitly records build year, V8 position, rounded 2927-cc capacity, 255-bhp notation and design significance. No exact factory build market or modern SAE/net equivalence is inferred. The separate undated US brochure’s 240-SAE-net specification is not mixed in. Photo represents the Bertone 308 GT4 body, not certification of the museum car or original Dino badging."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dino GT4 1X7A6441.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dino_GT4_1X7A6441.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2927",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Bertone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "238",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "255",
+          "unit": "bhp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Dino 308 GT4 is a landmark in Ferrari’s road-car development as its first production mid-mounted V8 and a pioneering mid-engine 2+2. Its Bertone wedge body is distinct from the later two-seat Pininfarina 308 GTB.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_dino_308gt4_1974.jpg",
+          "caption": "Ferrari Dino 308 GT4 — 1974 Hellenic Motor Museum reference — Representative Bertone-bodied 308 GT4. This is not authenticated as the 1974 museum car; original Dino/Ferrari badging is unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "fec77749b4bef8224c2e989972b3552d455f65380eb8cd8c521efffd56be5303"
+        }
+      ]
+    },
+    {
+      "id": "FER-FF-2011",
+      "manufacturer": "Ferrari",
+      "model_family": "FF",
+      "generation": "Original 2011 Ferrari Four 4RM grand tourer",
+      "variant": "FF — original European launch specification",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Ferrari January 21, 2011 launch press release, two-page Automobil-hosted facsimile, both pages rendered and visually inspected. European launch engine and 4RM reference; torque 683 Nm at 6000 rpm. Dry weight is not curb mass, and HELE-dependent consumption is not generalised. Later GTC4Lusso and V8 rear-drive Lusso T are excluded. Representative exterior photo does not authenticate 2011 build or optional equipment.",
+      "summary": "The FF is a landmark Ferrari GT as the marque’s first production four-wheel-drive car. Its patented 4RM system, V12 and dual-clutch transaxle brought a new drivetrain architecture to Ferrari’s four-seat grand-tourer lineage.",
+      "admission_reason": "The FF is a landmark Ferrari GT as the marque’s first production four-wheel-drive car. Its patented 4RM system, V12 and dual-clutch transaxle brought a new drivetrain architecture to Ferrari’s four-seat grand-tourer lineage.",
+      "sources": [
+        {
+          "publisher": "Ferrari",
+          "title": "The FF unveiled — Ferrari Media, January 21, 2011 European launch technical release",
+          "source_type": "Period manufacturer press release, publication-hosted facsimile",
+          "url": "https://okfl-static-files.s3.eu-north-1.amazonaws.com/automobil/public/documents/2011/01/Ferrari_FF_2011.pdf",
+          "notes": "Ferrari January 21, 2011 launch press release, two-page Automobil-hosted facsimile, both pages rendered and visually inspected. European launch engine and 4RM reference; torque 683 Nm at 6000 rpm. Dry weight is not curb mass, and HELE-dependent consumption is not generalised. Later GTC4Lusso and V8 rear-drive Lusso T are excluded. Representative exterior photo does not authenticate 2011 build or optional equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ferrari FF DSC 7000.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_FF_DSC_7000.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6262",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "683",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All — patented Ferrari 4RM",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Dual-clutch F1 transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "SCM3 magnetorheological damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dual-clutch F1 transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pininfarina",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "660",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FF is a landmark Ferrari GT as the marque’s first production four-wheel-drive car. Its patented 4RM system, V12 and dual-clutch transaxle brought a new drivetrain architecture to Ferrari’s four-seat grand-tourer lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_ff_2011.jpg",
+          "caption": "Ferrari FF — original European launch specification — Representative production FF exterior; exact year, market and options unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d3f1b505335c151c27cf3c46dfd874d8392875ea27582ff0e3df16d1c0780955"
+        }
+      ]
+    },
+    {
+      "id": "MAS-5000GT-TOURING-1959",
+      "manufacturer": "Maserati",
+      "model_family": "5000 GT",
+      "generation": "Original AM103 Touring Shah of Persia road series",
+      "variant": "5000 GT — original 1959 engine and four-speed reference",
+      "model_year_from": 1959,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1959 AM103 road reference from Maserati’s November 29, 2019 technical anniversary release. The table explicitly distinguishes original 4937.8 cc / 325 HP / four speeds from 1960 engine revisions and the 1963 five-speed. Those later values are not combined. Generic later four-disc-brake archive claims conflict with the original table and are omitted, along with dry mass. Photo identifies the 1960 Touring-bodied 103.004, representing the early Touring exterior rather than authentication of the first car’s engine.",
+      "summary": "The 5000 GT is a landmark bespoke Maserati road super-GT, developed around a reworked 450S-derived V8 and redesigned chassis for the Shah of Persia. It established an exceptional coachbuilt flagship beyond the six-cylinder 3500 GT.",
+      "admission_reason": "The 5000 GT is a landmark bespoke Maserati road super-GT, developed around a reworked 450S-derived V8 and redesigned chassis for the Shah of Persia. It established an exceptional coachbuilt flagship beyond the six-cylinder 3500 GT.",
+      "sources": [
+        {
+          "publisher": "Maserati / Stellantis",
+          "title": "5000 GT — 60th anniversary, original 1959 versus 1960/1963 technical details",
+          "source_type": "Manufacturer historical technical release",
+          "url": "https://www.media.stellantis.com/uk-en/maserati/press/maserati-celebrates-the-60th-anniversary-of-the-launch-of-the-5000-gt-22-coupe-at-the-turin-motor-show",
+          "notes": "Original 1959 AM103 road reference from Maserati’s November 29, 2019 technical anniversary release. The table explicitly distinguishes original 4937.8 cc / 325 HP / four speeds from 1960 engine revisions and the 1963 five-speed. Those later values are not combined. Generic later four-disc-brake archive claims conflict with the original table and are omitted, along with dry mass. Photo identifies the 1960 Touring-bodied 103.004, representing the early Touring exterior rather than authentication of the first car’s engine."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1960 Maserati 5000 GT Touring (15059506235).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1960_Maserati_5000_GT_Touring_(15059506235).jpg",
+          "notes": "James Bond; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1960 Maserati 5000 GT Touring"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4937.8",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Dual overhead camshafts per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual plus reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Carrozzeria Touring, original Shah of Persia body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "325",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "Dry twin-disc",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 5000 GT is a landmark bespoke Maserati road super-GT, developed around a reworked 450S-derived V8 and redesigned chassis for the Shah of Persia. It established an exceptional coachbuilt flagship beyond the six-cylinder 3500 GT.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_5000gt_touring_1959.jpg",
+          "caption": "Maserati 5000 GT — original 1959 engine and four-speed reference — Identified as the 1960 Touring-bodied 5000 GT 103.004, representing the early Touring body design. This does not authenticate the first 1959 car or its original engine specification. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "James Bond",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a82504bdcb18e69276a98c902e96ef89e4b92722ff7b05d8b892ddb09810f6b9"
+        }
+      ]
+    },
+    {
+      "id": "MAS-MERAK-30-1972",
+      "manufacturer": "Maserati",
+      "model_family": "Merak",
+      "generation": "Original AM122 3.0-litre V6 mid-engine coupe",
+      "variant": "Merak 3.0 — original 1972 road series",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original AM122 1972–1975 2965-cc Merak column of Maserati’s historical archive. Later 220-hp SS, Italian 2000GT, US-market engine tune and Citroën SM road specifications are excluded. The retrospective’s oil-crisis chronology is not repeated as a launch claim. Dry mass and gearbox absent from the selected account remain unfilled. Photo identifies a 1973 Merak coupe.",
+      "summary": "The Merak is a distinctive Giugiaro-designed mid-engine Maserati, combining the C.114-derived V6 with a compact 2+2 layout. It represents the marque’s V6 mid-engine road-car branch alongside the strictly two-seat V8 Bora.",
+      "admission_reason": "The Merak is a distinctive Giugiaro-designed mid-engine Maserati, combining the C.114-derived V6 with a compact 2+2 layout. It represents the marque’s V6 mid-engine road-car branch alongside the strictly two-seat V8 Bora.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Merak — original AM122 V6 coupe, separate from SS and 2000GT",
+          "source_type": "Manufacturer historical technical archive",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/gran-turismo/merak",
+          "notes": "Original AM122 1972–1975 2965-cc Merak column of Maserati’s historical archive. Later 220-hp SS, Italian 2000GT, US-market engine tune and Citroën SM road specifications are excluded. The retrospective’s oil-crisis chronology is not repeated as a launch claim. Dry mass and gearbox absent from the selected account remain unfilled. Photo identifies a 1973 Merak coupe."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1973 Maserati Merak 2+2 Coupe (30570315377).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1973_Maserati_Merak_2%2B2_Coupe_(30570315377).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1973 Maserati Merak 2+2 Coupe"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V6, C.114-derived",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2965",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel platform chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "190",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Merak is a distinctive Giugiaro-designed mid-engine Maserati, combining the C.114-derived V6 with a compact 2+2 layout. It represents the marque’s V6 mid-engine road-car branch alongside the strictly two-seat V8 Bora.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_merak_30_1972.jpg",
+          "caption": "Maserati Merak 3.0 — original 1972 road series — Identified as a 1973 Merak 2+2 coupe, representing the original AM122 body series. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4b14750a7a15d9b3c3756cb66a9e0ec60ad7e29be915e07891419545012d301e"
+        }
+      ]
+    },
+    {
+      "id": "MAS-BITURBO-20-1982",
+      "manufacturer": "Maserati",
+      "model_family": "Biturbo",
+      "generation": "Original AM331 2.0-litre V6 coupe",
+      "variant": "Biturbo 2.0 — original Italian production reference",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Italian 1996-cc Biturbo production column, 1982–1985, following the December 1981 introduction. Two intake and one exhaust valve per cylinder. The S twin-intercooler, injection i/Si, 2.5 export, Spyder, saloons and later derivatives are excluded. Dry mass is omitted. Photo identifies a 1983 early coupe; exact engine and original market are not authenticated.",
+      "summary": "The original Biturbo is an important production-car turbocharging milestone: its compact V6 used two small turbochargers and a three-valve cylinder-head layout. It also began a major new performance-coupe era and long-running model family for Maserati.",
+      "admission_reason": "The original Biturbo is an important production-car turbocharging milestone: its compact V6 used two small turbochargers and a three-valve cylinder-head layout. It also began a major new performance-coupe era and long-running model family for Maserati.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Biturbo — original twin-turbo V6 production model and separate later derivatives",
+          "source_type": "Manufacturer historical technical archive",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/biturbo-and-derivates/biturbo",
+          "notes": "Original Italian 1996-cc Biturbo production column, 1982–1985, following the December 1981 introduction. Two intake and one exhaust valve per cylinder. The S twin-intercooler, injection i/Si, 2.5 export, Spyder, saloons and later derivatives are excluded. Dry mass is omitted. Photo identifies a 1983 early coupe; exact engine and original market are not authenticated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1983 Maserati BiTurbo (9064724495).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1983_Maserati_BiTurbo_(9064724495).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1983 Maserati BiTurbo"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two small turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pierangelo Andreani",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "180",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Biturbo is an important production-car turbocharging milestone: its compact V6 used two small turbochargers and a three-valve cylinder-head layout. It also began a major new performance-coupe era and long-running model family for Maserati.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_biturbo_20_1982.jpg",
+          "caption": "Maserati Biturbo 2.0 — original Italian production reference — Identified as a 1983 early Biturbo coupe. Exact original market and engine displacement are unverified; this is not certification of the Italian 2.0 specification. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3ea76426728f5c67ee6463576ddda430aa0b1be21908869e7b2d6940bbf88d4d"
+        }
+      ]
+    },
+    {
+      "id": "MAS-3200GT-MAN-1998",
+      "manufacturer": "Maserati",
+      "model_family": "3200 GT",
+      "generation": "Original Tipo 338 twin-turbo V8 coupe",
+      "variant": "3200 GT — original six-speed manual",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1998–2002 original manual coupe, manufacturer historical archive. The erroneous 370-km/h speed field, conflicting translated power-peak speeds and unrelated automatic-column production years are omitted. Native English hp is retained without assuming SAE or metric equivalence. The four-speed automatic, Assetto Corsa and later normally aspirated 4200 Coupe/Spyder are not additional entries. No claim that it was the world’s first LED-equipped production car is adopted.",
+      "summary": "The 3200 GT is central to Maserati’s late-1990s revival, combining Giugiaro’s new grand-tourer design and distinctive boomerang LED rear lamps with a substantially developed twin-turbo V8 and six-speed manual transmission.",
+      "admission_reason": "The 3200 GT is central to Maserati’s late-1990s revival, combining Giugiaro’s new grand-tourer design and distinctive boomerang LED rear lamps with a substantially developed twin-turbo V8 and six-speed manual transmission.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "3200 GT — manual twin-turbo V8 coupe and Maserati revival",
+          "source_type": "Manufacturer historical technical archive",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/gran-turismo/3200gt",
+          "notes": "1998–2002 original manual coupe, manufacturer historical archive. The erroneous 370-km/h speed field, conflicting translated power-peak speeds and unrelated automatic-column production years are omitted. Native English hp is retained without assuming SAE or metric equivalence. The four-speed automatic, Assetto Corsa and later normally aspirated 4200 Coupe/Spyder are not additional entries. No claim that it was the world’s first LED-equipped production car is adopted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Maserati 3200 GT - Flickr - Alexandre Prévot (3).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Maserati_3200_GT_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg",
+          "notes": "Alexandre Prévot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Maserati 3200 GT"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3217",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque with front and rear subframes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Italdesign / Giorgetto Giugiaro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "370",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 3200 GT is central to Maserati’s late-1990s revival, combining Giugiaro’s new grand-tourer design and distinctive boomerang LED rear lamps with a substantially developed twin-turbo V8 and six-speed manual transmission.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_3200gt_man_1998.jpg",
+          "caption": "Maserati 3200 GT — original six-speed manual — Representative original 3200 GT coupe; original transmission and exact market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Alexandre Prévot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bd0938f12b7d3e6043eae611e40b6f48134c12dc374be7770cfef0a28e596ad9"
+        }
+      ]
+    },
+    {
+      "id": "MAS-QUATTROPORTE-I-42-1964",
+      "manufacturer": "Maserati",
+      "model_family": "Quattroporte",
+      "generation": "Original AM107 first-series V8 sports saloon",
+      "variant": "Quattroporte I 4.2 — first-series production reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "First-series 1964–1966 4.2-litre AM107 production column, following the October 1963 show debut. The seven 4.7-litre cars and later Series II are excluded. Conflicting saloon top-speed statements are not imported, and no global-first or fastest-car superlative is needed for admission. Dry mass and unverified gearbox remain unfilled. Photo identifies a 1964 first-series museum car.",
+      "summary": "The first Quattroporte is an influential early V8 sports saloon, translating Maserati’s grand-tourer engineering into a four-door car. Its Frua/Vignale body and steel monocoque established a long-lived performance-saloon lineage.",
+      "admission_reason": "The first Quattroporte is an influential early V8 sports saloon, translating Maserati’s grand-tourer engineering into a four-door car. Its Frua/Vignale body and steel monocoque established a long-lived performance-saloon lineage.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Quattroporte I First Series — original 4.2-litre sports saloon",
+          "source_type": "Manufacturer historical technical archive",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/quattroporte/quattroporte-i-first-series",
+          "notes": "First-series 1964–1966 4.2-litre AM107 production column, following the October 1963 show debut. The seven 4.7-litre cars and later Series II are excluded. Conflicting saloon top-speed statements are not imported, and no global-first or fastest-car superlative is needed for admission. Dry mass and unverified gearbox remain unfilled. Photo identifies a 1964 first-series museum car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 Maserati Quattroporte.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_Maserati_Quattroporte.jpg",
+          "notes": "TKOIII; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        },
+        {
+          "publisher": "Maserati",
+          "title": "Quattroporte turns 60 — October 30, 1963 debut",
+          "source_type": "Manufacturer anniversary history",
+          "url": "https://www.maserati.com/global/en/news/maserati-quattroporte-turns-60",
+          "notes": "October 30, 2023 retrospective dates the original Turin Motor Show debut; technical attributes remain linked to the first-series archive."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4136",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque with front subframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4/5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pietro Frua; body built by Vignale",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "260",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Quattroporte is an influential early V8 sports saloon, translating Maserati’s grand-tourer engineering into a four-door car. Its Frua/Vignale body and steel monocoque established a long-lived performance-saloon lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_quattroporte_i_42_1964.jpg",
+          "caption": "Maserati Quattroporte I 4.2 — first-series production reference — Identified as a 1964 first-series Quattroporte at the Enzo Ferrari Museum in Modena; installed engine and trim originality unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "TKOIII",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b8cf01decbe5a44b2cd4a5bb2c891359f75deaaef397b3985a3ef473c622cee2"
+        }
+      ]
+    },
+    {
+      "id": "MAS-QUATTROPORTE-V-DUOSELECT-2003",
+      "manufacturer": "Maserati",
+      "model_family": "Quattroporte",
+      "generation": "M139 original fifth-generation DuoSelect",
+      "variant": "Quattroporte V — original dry-sump DuoSelect",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original M139 DuoSelect generation introduced at Frankfurt 2003, manufacturer archive production range 2003–2008. Native 400-hp notation is not relabelled as North American SAE power. Later front-transmission Automatica, wet-sump engine, 4.7 Sport GT S and sixth-generation twin-turbo figures are excluded. Reference photo identifies a 2005 model at the 2004 San Francisco show; exact installed gearbox is not certified.",
+      "summary": "The fifth-generation Quattroporte is a modern Maserati design landmark, combining Pininfarina’s acclaimed sports-saloon body with a rear transaxle and a dry-sump V8 mounted well back in the chassis. Its engineering and commercial success revived the marque’s flagship lineage.",
+      "admission_reason": "The fifth-generation Quattroporte is a modern Maserati design landmark, combining Pininfarina’s acclaimed sports-saloon body with a rear transaxle and a dry-sump V8 mounted well back in the chassis. Its engineering and commercial success revived the marque’s flagship lineage.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Quattroporte V DuoSelect — original Pininfarina sports saloon and dry-sump transaxle drivetrain",
+          "source_type": "Manufacturer historical technical archive",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/quattroporte/quattroporte-v-duoselect",
+          "notes": "Original M139 DuoSelect generation introduced at Frankfurt 2003, manufacturer archive production range 2003–2008. Native 400-hp notation is not relabelled as North American SAE power. Later front-transmission Automatica, wet-sump engine, 4.7 Sport GT S and sixth-generation twin-turbo figures are excluded. Reference photo identifies a 2005 model at the 2004 San Francisco show; exact installed gearbox is not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2005 black Maserati Quattroporte.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2005_black_Maserati_Quattroporte.JPG",
+          "notes": "BrokenSphere; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4244",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, mounted well back in chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "DuoSelect rear transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque with front and rear subframes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pininfarina",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical power notation",
+          "value": "400",
+          "unit": "hp; rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fifth-generation Quattroporte is a modern Maserati design landmark, combining Pininfarina’s acclaimed sports-saloon body with a rear transaxle and a dry-sump V8 mounted well back in the chassis. Its engineering and commercial success revived the marque’s flagship lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_quattroporte_v_duoselect_2003.jpg",
+          "caption": "Maserati Quattroporte V — original dry-sump DuoSelect — Identified as a 2005 Quattroporte at the 2004 San Francisco International Auto Show. Exact drivetrain and original equipment are not certified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "BrokenSphere",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "98017e40110ebfcf707ac178e4fb3abec9d391b300a44c8fb24bb624df557fe4"
+        }
+      ]
+    },
+    {
+      "id": "MAS-GRANTURISMO-MC-STRADALE-2011",
+      "manufacturer": "Maserati",
+      "model_family": "GranTurismo",
+      "generation": "M145 original two-seat MC Stradale road coupe",
+      "variant": "MC Stradale — original 2011 two-seat road version",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Maserati SpA September 30, 2010 Paris launch release, distributed October 1 via PR Newswire, for February 2011 production sales. Original two-seat 330-kW/510-Nm MC Stradale; this configuration excluded USA, Canada and Korea. Later four-seat 460-PS update, US GranTurismo MC and Trofeo/GT4 racers are excluded. Undefined 1770-kg weight is not treated as curb mass. Photo identifies a 2011 road MC Stradale; original interior and exact market are unverified.",
+      "summary": "The original GranTurismo MC Stradale carries Maserati’s Trofeo and GT4 development into a dedicated production road coupe. Rear-seat removal, carbon-ceramic brakes, carbon-fibre seats and the electro-actuated transaxle make it a substantive driver-focused landmark within the GranTurismo family.",
+      "admission_reason": "The original GranTurismo MC Stradale carries Maserati’s Trofeo and GT4 development into a dedicated production road coupe. Rear-seat removal, carbon-ceramic brakes, carbon-fibre seats and the electro-actuated transaxle make it a substantive driver-focused landmark within the GranTurismo family.",
+      "sources": [
+        {
+          "publisher": "Maserati SpA",
+          "title": "Worldwide Paris Premiere for the GranTurismo MC Stradale — September 30 / October 1, 2010",
+          "source_type": "Manufacturer launch release distributed via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/worldwide-paris-premiere-for-the-granturismo-mc-stradale-104067903.html",
+          "notes": "Maserati SpA September 30, 2010 Paris launch release, distributed October 1 via PR Newswire, for February 2011 production sales. Original two-seat 330-kW/510-Nm MC Stradale; this configuration excluded USA, Canada and Korea. Later four-seat 460-PS update, US GranTurismo MC and Trofeo/GT4 racers are excluded. Undefined 1770-kg weight is not treated as curb mass. Photo identifies a 2011 road MC Stradale; original interior and exact market are unverified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2011 Maserati GranTurismo MC Stradale (6325373082).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2011_Maserati_GranTurismo_MC_Stradale_(6325373082).jpg",
+          "notes": "Riley from Christchurch, New Zealand; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2011 Maserati GranTurismo MC Stradale"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "330",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "510",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "MC Race Shift electro-actuated transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo carbon-ceramic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Custom-developed Pirelli",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Dedicated front splitter, bumper, bonnet, front wings, sills and rear bumper",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.6",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Seats",
+          "value": "Lightweight carbon-fibre shells",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GranTurismo MC Stradale carries Maserati’s Trofeo and GT4 development into a dedicated production road coupe. Rear-seat removal, carbon-ceramic brakes, carbon-fibre seats and the electro-actuated transaxle make it a substantive driver-focused landmark within the GranTurismo family.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_granturismo_mc_stradale_2011.jpg",
+          "caption": "Maserati MC Stradale — original 2011 two-seat road version — Identified as a 2011 road MC Stradale; original two-seat interior and exact market are not certified by the exterior photograph. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Riley from Christchurch, New Zealand",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b1c107ec41a7145fd28f2557417b0978eb1cfad8a0f21a650e664e7d7dad2f86"
+        }
+      ]
+    }
+  ]
+}

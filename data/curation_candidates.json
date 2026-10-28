@@ -1719,7 +1719,128 @@
       "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "166 Inter",
+      "generation": "Original 166 Inter Touring road coupe",
+      "proposed_record": "FER-166-INTER-TOURING-1949",
+      "reason": "The 166 Inter represents the origins of Ferrari’s road-going V12 grand tourers. The Touring coupe combines Gioacchino Colombo’s compact V12 with Superleggera coachbuilding; this early Aerlux example also preserves the distinctive Plexiglas-roof design.",
+      "evidence": "https://www.louwmanmuseum.nl/en/collections/automobiles/ferrari-166-inter-coupe-touring",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "275 GTB",
+      "generation": "275 GTB4 four-cam road berlinetta",
+      "proposed_record": "FER-275-GTB4-ROAD",
+      "reason": "The 275 GTB4 is a landmark Ferrari-Pininfarina V12 grand tourer, combining a four-cam dry-sump engine, rear-mounted five-speed gearbox and independent suspension at both ends within the classic front-engine berlinetta form.",
+      "evidence": "https://www.centuryu.com/uploads/1/4/4/6/144698822/1967_275_gtb4.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "Dino 308 GT4",
+      "generation": "Original Bertone mid-engine V8 2+2",
+      "proposed_record": "FER-DINO-308GT4-1974",
+      "reason": "The Dino 308 GT4 is a landmark in Ferrari’s road-car development as its first production mid-mounted V8 and a pioneering mid-engine 2+2. Its Bertone wedge body is distinct from the later two-seat Pininfarina 308 GTB.",
+      "evidence": "https://www.hellenicmotormuseum.gr/en/car/ferrari-dino-308-gt4/",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "FF",
+      "generation": "Original 2011 Ferrari Four 4RM grand tourer",
+      "proposed_record": "FER-FF-2011",
+      "reason": "The FF is a landmark Ferrari GT as the marque’s first production four-wheel-drive car. Its patented 4RM system, V12 and dual-clutch transaxle brought a new drivetrain architecture to Ferrari’s four-seat grand-tourer lineage.",
+      "evidence": "https://okfl-static-files.s3.eu-north-1.amazonaws.com/automobil/public/documents/2011/01/Ferrari_FF_2011.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "5000 GT",
+      "generation": "Original AM103 Touring Shah of Persia road series",
+      "proposed_record": "MAS-5000GT-TOURING-1959",
+      "reason": "The 5000 GT is a landmark bespoke Maserati road super-GT, developed around a reworked 450S-derived V8 and redesigned chassis for the Shah of Persia. It established an exceptional coachbuilt flagship beyond the six-cylinder 3500 GT.",
+      "evidence": "https://www.media.stellantis.com/uk-en/maserati/press/maserati-celebrates-the-60th-anniversary-of-the-launch-of-the-5000-gt-22-coupe-at-the-turin-motor-show",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Merak",
+      "generation": "Original AM122 3.0-litre V6 mid-engine coupe",
+      "proposed_record": "MAS-MERAK-30-1972",
+      "reason": "The Merak is a distinctive Giugiaro-designed mid-engine Maserati, combining the C.114-derived V6 with a compact 2+2 layout. It represents the marque’s V6 mid-engine road-car branch alongside the strictly two-seat V8 Bora.",
+      "evidence": "https://www.maserati.com/global/en/brand/maserati-classic-cars/gran-turismo/merak",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Biturbo",
+      "generation": "Original AM331 2.0-litre V6 coupe",
+      "proposed_record": "MAS-BITURBO-20-1982",
+      "reason": "The original Biturbo is an important production-car turbocharging milestone: its compact V6 used two small turbochargers and a three-valve cylinder-head layout. It also began a major new performance-coupe era and long-running model family for Maserati.",
+      "evidence": "https://www.maserati.com/global/en/brand/maserati-classic-cars/biturbo-and-derivates/biturbo",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "3200 GT",
+      "generation": "Original Tipo 338 twin-turbo V8 coupe",
+      "proposed_record": "MAS-3200GT-MAN-1998",
+      "reason": "The 3200 GT is central to Maserati’s late-1990s revival, combining Giugiaro’s new grand-tourer design and distinctive boomerang LED rear lamps with a substantially developed twin-turbo V8 and six-speed manual transmission.",
+      "evidence": "https://www.maserati.com/global/en/brand/maserati-classic-cars/gran-turismo/3200gt",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Quattroporte",
+      "generation": "Original AM107 first-series V8 sports saloon",
+      "proposed_record": "MAS-QUATTROPORTE-I-42-1964",
+      "reason": "The first Quattroporte is an influential early V8 sports saloon, translating Maserati’s grand-tourer engineering into a four-door car. Its Frua/Vignale body and steel monocoque established a long-lived performance-saloon lineage.",
+      "evidence": "https://www.maserati.com/global/en/brand/maserati-classic-cars/quattroporte/quattroporte-i-first-series",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Quattroporte",
+      "generation": "M139 original fifth-generation DuoSelect",
+      "proposed_record": "MAS-QUATTROPORTE-V-DUOSELECT-2003",
+      "reason": "The fifth-generation Quattroporte is a modern Maserati design landmark, combining Pininfarina’s acclaimed sports-saloon body with a rear transaxle and a dry-sump V8 mounted well back in the chassis. Its engineering and commercial success revived the marque’s flagship lineage.",
+      "evidence": "https://www.maserati.com/global/en/brand/maserati-classic-cars/quattroporte/quattroporte-v-duoselect",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "GranTurismo",
+      "generation": "M145 original two-seat MC Stradale road coupe",
+      "proposed_record": "MAS-GRANTURISMO-MC-STRADALE-2011",
+      "reason": "The original GranTurismo MC Stradale carries Maserati’s Trofeo and GT4 development into a dedicated production road coupe. Rear-seat removal, carbon-ceramic brakes, carbon-fibre seats and the electro-actuated transaxle make it a substantive driver-focused landmark within the GranTurismo family.",
+      "evidence": "https://www.prnewswire.com/news-releases/worldwide-paris-premiere-for-the-granturismo-mc-stradale-104067903.html",
+      "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-15.json"
     }
   ],
-  "catalogue_count_after_batches": 549
+  "catalogue_count_after_batches": 560
 }
