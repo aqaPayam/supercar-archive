@@ -1,0 +1,1943 @@
+{
+  "batch": "icons-road-2026-10-29-13",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 17,
+  "cars": [
+    {
+      "id": "BMW-M3-E36-32-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M3",
+      "generation": "Second-generation E36 European 3.2",
+      "variant": "E36 3.2 — late-1995 European manual coupe",
+      "model_year_from": 1995,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "European S50B32 coupe after the autumn 1995 update. Earlier 3.0, North American S50/S52, GT special edition, Compact prototype and optional SMG are excluded. Native English-history power remains qualified without conversion. The history’s contradictory five-step phrase is not treated as a second gearbox claim; its explicit new six-speed manual description is used. Photo identifies an Australian 1995–1999 coupe, not an authenticated late-1995 European build.",
+      "summary": "The E36 M3 established the six-cylinder era of BMW’s sporting benchmark, combining high-revving engine development and variable camshaft control with a more usable road coupe. Its 3.2-litre evolution introduced a six-speed manual and developed compound brakes.",
+      "admission_reason": "The E36 M3 established the six-cylinder era of BMW’s sporting benchmark, combining high-revving engine development and variable camshaft control with a more usable road coupe. Its 3.2-litre evolution introduced a six-speed manual and developed compound brakes.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "BMW M3 E36 — European 3.2 road evolution",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e36-portraet.html",
+          "notes": "European S50B32 coupe after the autumn 1995 update. Earlier 3.0, North American S50/S52, GT special edition, Compact prototype and optional SMG are excluded. Native English-history power remains qualified without conversion. The history’s contradictory five-step phrase is not treated as a second gearbox claim; its explicit new six-speed manual description is used. Photo identifies an Australian 1995–1999 coupe, not an authenticated late-1995 European build."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1995-1999 BMW M3 (E36) coupe 02.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1995-1999_BMW_M3_(E36)_coupe_02.jpg",
+          "notes": "OSX; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "S50B32 inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Compound brake system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.5",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "M chassis lowered approximately 30 mm versus regular 3 Series",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "321",
+          "unit": "hp as written in BMW M English history; European 3.2 reference",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E36 M3 established the six-cylinder era of BMW’s sporting benchmark, combining high-revving engine development and variable camshaft control with a more usable road coupe. Its 3.2-litre evolution introduced a six-speed manual and developed compound brakes.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m3_e36_32_road.jpg",
+          "caption": "BMW M3 — Australian 1995–1999 coupe exterior representing the European 3.2 generation. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "OSX",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "84cab956a339ba2f952d74836d67e341c873ebbb8f013e94907029265e959421"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M3-E92-V8-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M3",
+      "generation": "Fourth-generation E92 V8 coupe",
+      "variant": "E92 — original 309 kW European road coupe",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original European 309-kW E92 production coupe, not E90 saloon, E93 convertible, GTS/CRT or later Competition package. The historical article mixes later DCT acceleration and optional Driver Package speeds; neither is applied to this original reference. Gearbox, precise displacement and rev limit are withheld here. Photo is a 2007 launch-presentation road coupe.",
+      "summary": "The E92 M3 marked the M3’s distinctive V8 era, combining a high-revving S65 engine, individual throttles and a standard carbon-fibre coupe roof. It remains a major engineering departure within the M3 lineage.",
+      "admission_reason": "The E92 M3 marked the M3’s distinctive V8 era, combining a high-revving S65 engine, individual throttles and a standard carbon-fibre coupe roof. It remains a major engineering departure within the M3 lineage.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "BMW M3 E92 — original V8 and carbon-roof architecture",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e92-e90-and-e93.html",
+          "notes": "Original European 309-kW E92 production coupe, not E90 saloon, E93 convertible, GTS/CRT or later Competition package. The historical article mixes later DCT acceleration and optional Driver Package speeds; neither is applied to this original reference. Gearbox, precise displacement and rev limit are withheld here. Photo is a 2007 launch-presentation road coupe."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M3 E92 coupe front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M3_E92_coupe_front.jpg",
+          "notes": "Mikolaj Kirschke; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "S65B40 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "309",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double VANOS variable camshaft control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Carbon-fibre coupe roof, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Throttle system",
+          "value": "Individual throttle valves",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E92 M3 marked the M3’s distinctive V8 era, combining a high-revving S65 engine, individual throttles and a standard carbon-fibre coupe roof. It remains a major engineering departure within the M3 lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m3_e92_v8_road.jpg",
+          "caption": "BMW M3 — 2007 road-coupe launch presentation. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Mikolaj Kirschke",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "63d4921b4c11330b6d5e91b93e152dbba7c0bfa221ec8cb0584841d61cfa2def"
+        }
+      ]
+    },
+    {
+      "id": "BMW-1M-E82-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "1 Series M Coupe",
+      "generation": "E82 original 1 Series M production coupe",
+      "variant": "1 Series M Coupe — original 2011 road specification",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2011 E82 1 Series M Coupe, not an M135i/M140i or later M2. Base torque is 450 Nm; 500 Nm requires temporary overboost. Contradictory 0–200 historical claims and undefined mass are omitted. Photo shows a road 1M; installed powertrain and options are not certified.",
+      "summary": "The 1 Series M Coupe became a modern compact performance icon through its compact M chassis, manual transmission and rear-drive layout, connecting BMW’s larger M-car engineering with a smaller, highly engaging road coupe.",
+      "admission_reason": "The 1 Series M Coupe became a modern compact performance icon through its compact M chassis, manual transmission and rear-drive layout, connecting BMW’s larger M-car engineering with a smaller, highly engaging road coupe.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "BMW 1 Series M Coupe — original powertrain and compact M identity",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-1er-m-coupe.html",
+          "notes": "Original 2011 E82 1 Series M Coupe, not an M135i/M140i or later M2. Base torque is 450 Nm; 500 Nm requires temporary overboost. Contradictory 0–200 historical claims and undefined mass are omitted. Photo shows a road 1M; installed powertrain and options are not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW 1M 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_1M_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "250",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "450",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5900",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "M TwinPower Turbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Manual transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "M differential lock",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Temporary overboost torque",
+          "value": "500",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 1 Series M Coupe became a modern compact performance icon through its compact M chassis, manual transmission and rear-drive layout, connecting BMW’s larger M-car engineering with a smaller, highly engaging road coupe.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_1m_e82_road.jpg",
+          "caption": "BMW 1 Series M Coupe — Original E82 1M road-coupe exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2c38c835500c98f9dbbd371b09f5dccd61227fc7a1ba14c711606deb5d9edac2"
+        }
+      ]
+    },
+    {
+      "id": "BMW-Z4-M-E86-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "Z4",
+      "generation": "E86 original Z4 M fixed-roof coupe",
+      "variant": "M Coupe — European S54 road specification",
+      "model_year_from": 2006,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "European production E86 M coupe, not E85 roadster, 3.0si coupe or 430-hp GT3 conversion. Manufacturer’s European-formatted 3.246 cm3 means 3246 cc. Top speed is electronically limited. Undefined vehicle mass, gearbox and race specifications are omitted. Photo identifies a 2006 M coupe.",
+      "summary": "The Z4 M Coupe paired BMW’s celebrated high-revving straight-six with a distinctive compact fixed-roof sports-car body, creating an enduring driver’s GT whose identity extends beyond its short production run.",
+      "admission_reason": "The Z4 M Coupe paired BMW’s celebrated high-revving straight-six with a distinctive compact fixed-roof sports-car body, creating an enduring driver’s GT whose identity extends beyond its short production run.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "BMW Z4 M Coupe E86 — production road engine and body",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-z4-m-coupe-e86.html",
+          "notes": "European production E86 M coupe, not E85 roadster, 3.0si coupe or 430-hp GT3 conversion. Manufacturer’s European-formatted 3.246 cm3 means 3246 cc. Top speed is electronically limited. Undefined vehicle mass, gearbox and race specifications are omitted. Photo identifies a 2006 M coupe."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2006 BMW Z4 M 3.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2006_BMW_Z4_M_3.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3246",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "252",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "365",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, set back in the long front end",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.0",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Z4 M Coupe paired BMW’s celebrated high-revving straight-six with a distinctive compact fixed-roof sports-car body, creating an enduring driver’s GT whose identity extends beyond its short production run.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_z4_m_e86_road.jpg",
+          "caption": "BMW Z4 — 2006 fixed-roof M coupe exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "be63e70e84d4e6b6f94e3662e91fe133206710a4e3165e6259f420686b35e223"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M2-F87-ORIGINAL",
+      "manufacturer": "BMW",
+      "model_family": "M2",
+      "generation": "Original F87 non-Competition M2 coupe",
+      "variant": "M2 — 2016 standard six-speed manual",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2016 F87 M2 manual, not 2018 Competition, CS or G87. Sustained torque is 465 Nm; 500 Nm requires overboost. The source’s 4.3-second acceleration requires optional DCT and Launch Control and is excluded; 270 km/h requires optional Driver Package and is also excluded. Standard electronic limiter is 250 km/h. Photo identifies an original 2016 M2.",
+      "summary": "The original M2 renewed BMW M’s compact rear-drive performance formula, pairing a developed turbo six-cylinder with an aluminium M chassis and a standard manual gearbox. Its strong enthusiast and award recognition established the first M2 generation as a modern performance icon.",
+      "admission_reason": "The original M2 renewed BMW M’s compact rear-drive performance formula, pairing a developed turbo six-cylinder with an aluminium M chassis and a standard manual gearbox. Its strong enthusiast and award recognition established the first M2 generation as a modern performance icon.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "BMW M2 F87 — original 2016 road specification, before Competition",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m2-coupe-f87-and-bmw-m2-competition-f87.html",
+          "notes": "Original 2016 F87 M2 manual, not 2018 Competition, CS or G87. Sustained torque is 465 Nm; 500 Nm requires overboost. The source’s 4.3-second acceleration requires optional DCT and Launch Control and is excluded; 270 km/h requires optional Driver Package and is also excluded. Standard electronic limiter is 250 km/h. Photo identifies an original 2016 M2."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016 BMW M2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_BMW_M2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "272",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "465",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "M TwinPower Turbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lightweight aluminium M sports suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Temporary overboost torque",
+          "value": "500",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original M2 renewed BMW M’s compact rear-drive performance formula, pairing a developed turbo six-cylinder with an aluminium M chassis and a standard manual gearbox. Its strong enthusiast and award recognition established the first M2 generation as a modern performance icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m2_f87_original.jpg",
+          "caption": "BMW M2 — 2016 original M2 exterior, before Competition. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2f28054a656db0bc482cc9ee76c74c41cff05ea9725c0ad6f9750248016375cb"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS2-B4-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "RS 2",
+      "generation": "Original B4 Avant RS2 co-development",
+      "variant": "Avant RS2 — 1994 production road estate",
+      "model_year_from": 1994,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door estate",
+      "road_legal": 1,
+      "specification_market": "Original 1994 Audi Avant RS2, represented once under Audi rather than duplicated under Porsche or Audi-Porsche. Porsche’s co-developer history supplies the road-engine architecture, torque and performance. Exact displacement, gearbox and optional equipment are not inferred. Photo identifies a 1994 RS2 estate.",
+      "summary": "The RS2 helped establish the modern European high-performance estate through Audi and Porsche’s engineering collaboration, combining turbocharged five-cylinder performance, all-wheel drive and practical family-car bodywork in a lasting RS landmark.",
+      "admission_reason": "The RS2 helped establish the modern European high-performance estate through Audi and Porsche’s engineering collaboration, combining turbocharged five-cylinder performance, all-wheel drive and practical family-car bodywork in a lasting RS landmark.",
+      "sources": [
+        {
+          "publisher": "Porsche AG, engineering co-developer",
+          "title": "Audi Avant RS2 — return to its birthplace and road-engine reference",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://newsroom.porsche.com/de/2021/historie/porsche-kooperationsprojekt-audi-avant-rs2-25026.html",
+          "notes": "Original 1994 Audi Avant RS2, represented once under Audi rather than duplicated under Porsche or Audi-Porsche. Porsche’s co-developer history supplies the road-engine architecture, torque and performance. Exact displacement, gearbox and optional equipment are not inferred. Photo identifies a 1994 RS2 estate."
+        },
+        {
+          "publisher": "Audi AG",
+          "title": "50 years of the Audi five-cylinder — 1994 Avant RS2",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.audi.com/en/press-releases/50-years-of-the-audi-five-cylinder-16921",
+          "notes": "Audi directly states 232 kW / 315 PS for the 1994 RS2. Later TT/RS3 engines are not transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1994 Audi RS2 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Audi_RS2_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "410",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "262",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "315",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "232",
+          "unit": "kW",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The RS2 helped establish the modern European high-performance estate through Audi and Porsche’s engineering collaboration, combining turbocharged five-cylinder performance, all-wheel drive and practical family-car bodywork in a lasting RS landmark.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs2_b4_road.jpg",
+          "caption": "Audi RS 2 — 1994 RS2 Avant road exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3515dbfa2254b30ea6d33b0ad2c6feeec464d29fecc578bbfabf3b7e2be23ec3"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS4-B5-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "RS 4",
+      "generation": "Original B5 RS4 Avant",
+      "variant": "Avant — original 2000 road specification",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door estate",
+      "road_legal": 1,
+      "specification_market": "Original production B5 RS4 Avant, June 2000 sales introduction in Audi Tradition’s 2025 anniversary record, PDF page 6. Standard equipment is distinguished from the spring-2001 optional sport package. Extra lowering, bucket seats, uprated anti-roll bar and sport exhaust are not assumed. Gearbox and torque remain unfilled. Photo identifies a 2000 B5 Avant.",
+      "summary": "The B5 RS4 developed Audi’s high-performance estate identity through a Cosworth-modified biturbo V6 and a dedicated wide-body chassis package, becoming the first independently developed quattro GmbH production model and an enduring sporting estate.",
+      "admission_reason": "The B5 RS4 developed Audi’s high-performance estate identity through a Cosworth-modified biturbo V6 and a dedicated wide-body chassis package, becoming the first independently developed quattro GmbH production model and an enduring sporting estate.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "Audi Tradition Anniversary Dates 2025 — original B5 RS4 road specification",
+          "source_type": "Manufacturer historical publication",
+          "url": "https://www.audi-mediacenter.com/en/publications/more/audi-tradition-anniversary-dates-2025-1565/download",
+          "notes": "Original production B5 RS4 Avant, June 2000 sales introduction in Audi Tradition’s 2025 anniversary record, PDF page 6. Standard equipment is distinguished from the spring-2001 optional sport package. Extra lowering, bucket seats, uprated anti-roll bar and sport exhaust are not assumed. Gearbox and torque remain unfilled. Photo identifies a 2000 B5 Avant."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2000 Audi RS4 Avant (B5) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2000_Audi_RS4_Avant_(B5)_front.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/22098179445/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Cosworth-modified V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "280",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lowered suspension compared with S4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter",
+          "value": "18",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The B5 RS4 developed Audi’s high-performance estate identity through a Cosworth-modified biturbo V6 and a dedicated wide-body chassis package, becoming the first independently developed quattro GmbH production model and an enduring sporting estate.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs4_b5_road.jpg",
+          "caption": "Audi RS 4 — 2000 B5 Avant road exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "649312854f813550042ee69a4713e273434aab0ee44778619142b38fbaa3858b"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS6-C5-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "RS 6",
+      "generation": "First-generation C5 RS6 Avant",
+      "variant": "Avant — original 2002 450-PS road specification",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door estate",
+      "road_legal": 1,
+      "specification_market": "Original 2002 C5 Avant, not 480-PS plus or 475-PS manual RS6 Competition race car. The history’s five driving modes wording is not treated as proof of a five-speed gearbox, so no gear count is imported. Undefined vehicle mass and comparative racing claims are excluded. Photo represents a road C5 Avant with accessory wheels, without authenticating standard/plus trim.",
+      "summary": "The first RS6 established Audi’s large performance-estate lineage through a Cosworth-developed twin-turbo V8, all-wheel drive and diagonally linked Dynamic Ride Control suspension, combining exceptional road performance with estate practicality.",
+      "admission_reason": "The first RS6 established Audi’s large performance-estate lineage through a Cosworth-developed twin-turbo V8, all-wheel drive and diagonally linked Dynamic Ride Control suspension, combining exceptional road performance with estate practicality.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "20 years of Audi RS6 — C5 standard road powertrain and DRC",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.audi-mediacenter.com/en/press-releases/20-years-four-generations-audi-rs-6-superior-performance-with-an-everyday-look-14768",
+          "notes": "Original 2002 C5 Avant, not 480-PS plus or 475-PS manual RS6 Competition race car. The history’s five driving modes wording is not treated as proof of a five-speed gearbox, so no gear count is imported. Undefined vehicle mass and comparative racing claims are excluded. Photo represents a road C5 Avant with accessory wheels, without authenticating standard/plus trim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS6 C5 Avant Heck.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS6_C5_Avant_Heck.JPG",
+          "notes": "Thomas doerfer; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "560",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Torque-converter automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dynamic Ride Control with steel springs and diagonally linked hydraulic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "450",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first RS6 established Audi’s large performance-estate lineage through a Cosworth-developed twin-turbo V8, all-wheel drive and diagonally linked Dynamic Ride Control suspension, combining exceptional road performance with estate practicality.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs6_c5_road.jpg",
+          "caption": "Audi RS 6 — C5 Avant exterior with accessory wheels; standard/plus trim unverified. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Thomas doerfer",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "283f5f71124fc6d05124142b892009840b50bdcf471495574fcd538f0f2a173d"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS6-C6-V10-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "RS 6",
+      "generation": "Second-generation C6 V10 RS6 Avant",
+      "variant": "Avant — original 2008 V10 road specification",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door estate",
+      "road_legal": 1,
+      "specification_market": "Original 2008 C6 Avant, not the saloon, later plus Sport/Exclusive or C7 V8. Avant acceleration is 4.6 seconds; the saloon’s 4.5 seconds is not borrowed. Optional higher limiter, ceramic brakes and adjustable DRC control are excluded. Engine-only mass is not vehicle mass. Photo represents the C6 road Avant.",
+      "summary": "The C6 RS6 is a distinctive engineering landmark among performance estates: Audi packaged a dry-sump twin-turbo V10 and a reinforced automatic drivetrain into a practical road wagon, creating the largest engine in the RS6 lineage.",
+      "admission_reason": "The C6 RS6 is a distinctive engineering landmark among performance estates: Audi packaged a dry-sump twin-turbo V10 and a reinforced automatic drivetrain into a practical road wagon, creating the largest engine in the RS6 lineage.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "20 years of Audi RS6 — C6 standard V10 Avant, before plus",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.audi-mediacenter.com/en/press-releases/20-years-four-generations-audi-rs-6-superior-performance-with-an-everyday-look-14768",
+          "notes": "Original 2008 C6 Avant, not the saloon, later plus Sport/Exclusive or C7 V8. Avant acceleration is 4.6 seconds; the saloon’s 4.5 seconds is not borrowed. Optional higher limiter, ceramic brakes and adjustable DRC control are excluded. Engine-only mass is not vehicle mass. Photo represents the C6 road Avant."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS6 Avant (C6) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS6_Avant_(C6)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "650",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry-sump lubrication",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dynamic Ride Control, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.6",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "580",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C6 RS6 is a distinctive engineering landmark among performance estates: Audi packaged a dry-sump twin-turbo V10 and a reinforced automatic drivetrain into a practical road wagon, creating the largest engine in the RS6 lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs6_c6_v10_road.jpg",
+          "caption": "Audi RS 6 — C6 Avant road exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "19ba4fff48e596e8dbba9410b3037ebb17ad57852ca01fd4c0b5898d5f7569d7"
+        }
+      ]
+    },
+    {
+      "id": "AUD-TT-8N-225-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "TT",
+      "generation": "First-generation 8N production coupe",
+      "variant": "225 PS quattro Coupe — 2005 UK manual reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "UK 2005 model-year 225-PS quattro coupe, original Audi UK price/specification guide effective March 2005, PDF pages 3–6. The 180-PS, 240-PS quattro Sport, V6 3.2, Roadster and DSG figures are excluded. Emissions-calculation weight includes a 75-kg driver and is not imported as curb mass. Exact capacity and unverified torque remain unfilled. Photo represents an 8N coupe without authenticating engine or UK trim.",
+      "summary": "The original TT became a lasting automotive design icon by translating a striking Bauhaus-influenced concept into an accessible production sports coupe. Its turbo quattro version combined that distinctive identity with a manual performance drivetrain.",
+      "admission_reason": "The original TT became a lasting automotive design icon by translating a striking Bauhaus-influenced concept into an accessible production sports coupe. Its turbo quattro version combined that distinctive identity with a manual performance drivetrain.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "Audi UK TT Coupe and Roadster — March 2005 model-year specification guide",
+          "source_type": "Period manufacturer specification guide, hosted facsimile",
+          "url": "https://auditt-web.com/dades/documents_tecnics_i_publicacions/TT_-_Feb_05.pdf",
+          "notes": "UK 2005 model-year 225-PS quattro coupe, original Audi UK price/specification guide effective March 2005, PDF pages 3–6. The 180-PS, 240-PS quattro Sport, V6 3.2, Roadster and DSG figures are excluded. Emissions-calculation weight includes a 75-kg driver and is not imported as curb mass. Exact capacity and unverified torque remain unfilled. Photo represents an 8N coupe without authenticating engine or UK trim."
+        },
+        {
+          "publisher": "Audi AG",
+          "title": "A timeless design icon: Audi TT turns 25",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.audi-mediacenter.com/en/press-releases/a-timeless-design-icon-the-audi-tt-turns-25-15317",
+          "notes": "Manufacturer history confirms first-generation design significance and the turbocharged four-cylinder range through 225 PS. Later V6 and quattro Sport output are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi TT coupé (8N) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_TT_coup%C3%A9_(8N)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All wheels, quattro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lowered sports suspension from quattro GmbH",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/40 ZR18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Body-colour rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "225",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter",
+          "value": "18",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Stability control",
+          "value": "ESP, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged four-cylinder",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original TT became a lasting automotive design icon by translating a striking Bauhaus-influenced concept into an accessible production sports coupe. Its turbo quattro version combined that distinctive identity with a manual performance drivetrain.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_tt_8n_225_road.jpg",
+          "caption": "Audi TT — 8N coupe exterior; UK 225-PS equipment and engine unverified. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c48f7c0ec877899394771a68a0f3b50f49296feb026168ea0522bb8ee1303e88"
+        }
+      ]
+    },
+    {
+      "id": "AUD-TTRS-8J-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "TT",
+      "generation": "Second-generation 8J original TT RS coupe",
+      "variant": "RS Coupe — original 2009 250-kW specification",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2009 8J TT RS, not the 2012 265-kW RS plus or later 294-kW 8S. Audi’s five-cylinder history supplies original engine architecture and output. Gearbox, acceleration and roadster-specific figures remain unfilled. Geneva 2009 photo shows the original production RS coupe, not an RS plus.",
+      "summary": "The first TT RS revived Audi’s turbocharged five-cylinder road-car tradition in a compact sports coupe, establishing the modern RS five-cylinder engine lineage and giving the second TT generation a distinctive performance identity.",
+      "admission_reason": "The first TT RS revived Audi’s turbocharged five-cylinder road-car tradition in a compact sports coupe, establishing the modern RS five-cylinder engine lineage and giving the second TT generation a distinctive performance identity.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "50 years of Audi five-cylinder engines — original 2009 TT RS",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.audi.com/en/press-releases/50-years-of-the-audi-five-cylinder-16921",
+          "notes": "Original 2009 8J TT RS, not the 2012 265-kW RS plus or later 294-kW 8S. Audi’s five-cylinder history supplies original engine architecture and output. Gearbox, acceleration and roadster-specific figures remain unfilled. Geneva 2009 photo shows the original production RS coupe, not an RS plus."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi TT-RS.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_TT-RS.jpg",
+          "notes": "Ascaron; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "250",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, transverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Gasoline direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first TT RS revived Audi’s turbocharged five-cylinder road-car tradition in a compact sports coupe, establishing the modern RS five-cylinder engine lineage and giving the second TT generation a distinctive performance identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_ttrs_8j_road.jpg",
+          "caption": "Audi TT — Original TT RS coupe shown at Geneva 2009. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Ascaron",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4e2a05551d6977d18ced8f7b9819b09b567f98bcf373baf622c3d7d1c6473af5"
+        }
+      ]
+    },
+    {
+      "id": "AUD-TTRS-8S-ROAD",
+      "manufacturer": "Audi",
+      "model_family": "TT",
+      "generation": "Third-generation 8S original TT RS coupe",
+      "variant": "RS Coupe — original 2016 294-kW specification",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2016 8S TT RS coupe, using Audi’s current five-cylinder history for the 2016 2480-cc engine evolution and its 294 kW / 480 Nm output. The earlier 8J 340/360-PS versions and later RS3 500-Nm engine are excluded. A retired 2021 engine-history URL returned 404 and is not used. Injection/intercooler details, optional speed limiter, gearbox and unverified acceleration are withheld. Photo identifies a 2018 pre-facelift coupe of the same generation.",
+      "summary": "The third-generation TT RS advanced Audi’s five-cylinder sports-car formula with a substantially redeveloped, lighter engine and reduced internal friction, bringing a major mechanical step to the TT’s established compact sports-coupe identity.",
+      "admission_reason": "The third-generation TT RS advanced Audi’s five-cylinder sports-car formula with a substantially redeveloped, lighter engine and reduced internal friction, bringing a major mechanical step to the TT’s established compact sports-coupe identity.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Audi Tradition",
+          "title": "50 years of Audi five-cylinder engines — 2016 lightweight-engine evolution",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.audi.com/en/press-releases/50-years-of-the-audi-five-cylinder-16921",
+          "notes": "Original 2016 8S TT RS coupe, using Audi’s current five-cylinder history for the 2016 2480-cc engine evolution and its 294 kW / 480 Nm output. The earlier 8J 340/360-PS versions and later RS3 500-Nm engine are excluded. A retired 2021 engine-history URL returned 404 and is not used. Injection/intercooler details, optional speed limiter, gearbox and unverified acceleration are withheld. Photo identifies a 2018 pre-facelift coupe of the same generation."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Audi TT RS Coupe.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Audi_TT_RS_Coupe.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2480",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "294",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "480",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Development focus",
+          "value": "Lightweight construction, reduced internal friction and increased power delivery",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third-generation TT RS advanced Audi’s five-cylinder sports-car formula with a substantially redeveloped, lighter engine and reduced internal friction, bringing a major mechanical step to the TT’s established compact sports-coupe identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_ttrs_8s_road.jpg",
+          "caption": "Audi TT — 2018 pre-facelift TT RS coupe exterior representing the 2016 generation. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "39381779c7ae8f70831fb79934f1a3f9dd0304503b5c7b7aa13da19ee07873bf"
+        }
+      ]
+    },
+    {
+      "id": "POR-968-CLUBSPORT-ROAD",
+      "manufacturer": "Porsche",
+      "model_family": "968",
+      "generation": "Original 968 CS road coupe",
+      "variant": "CS Clubsport — 1993 road specification",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1993 production 968 CS, Porsche 718 T press-kit historical section page 14. Standard 968 comfort equipment, optional packages and Turbo RS racing specifications are excluded. Native 240 PS retained. The comparative 50-kg reduction does not become an unqualified curb-mass figure. Gearbox is withheld in this selected historical transcription. Photo identifies a 1994 Clubsport of the same series.",
+      "summary": "The 968 Clubsport became a benchmark for driver-focused transaxle sports cars through a deliberate reduction in comfort equipment, lightweight seats and a lowered chassis, emphasizing balance and involvement rather than additional engine power.",
+      "admission_reason": "The 968 Clubsport became a benchmark for driver-focused transaxle sports cars through a deliberate reduction in comfort equipment, lightweight seats and a lowered chassis, emphasizing balance and involvement rather than additional engine power.",
+      "sources": [
+        {
+          "publisher": "Porsche AG",
+          "title": "Porsche 718 T press kit — historical 1993 968 CS specification",
+          "source_type": "Manufacturer press-kit historical technical section",
+          "url": "https://pnr-prd2-pub2.newsroom.porsche.com/dam/jcr%3Ac1d8d7be-7490-49b6-9ba0-b8200987274a/PAG_718T_PM_EN.pdf",
+          "notes": "1993 production 968 CS, Porsche 718 T press-kit historical section page 14. Standard 968 comfort equipment, optional packages and Turbo RS racing specifications are excluded. Native 240 PS retained. The comparative 50-kg reduction does not become an unqualified curb-mass figure. Gearbox is withheld in this selected historical transcription. Photo identifies a 1994 Clubsport of the same series."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1994 Porsche 968 Clubsport.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Porsche_968_Clubsport.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "VarioCam intake-camshaft adjustment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Sports chassis lowered 20 mm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "252",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.5",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "240",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter",
+          "value": "17",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 968 Clubsport became a benchmark for driver-focused transaxle sports cars through a deliberate reduction in comfort equipment, lightweight seats and a lowered chassis, emphasizing balance and involvement rather than additional engine power.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_968_clubsport_road.jpg",
+          "caption": "Porsche 968 — 1994 Clubsport exterior representing the 1993 introduction. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "33f949491cdb40e4358cdfc3ed4ea64b7446834733d81d7a14ba785b21485f2c"
+        }
+      ]
+    },
+    {
+      "id": "POR-9146-ROAD",
+      "manufacturer": "Porsche",
+      "model_family": "914",
+      "generation": "Original 914/6 six-cylinder road series",
+      "variant": "914/6 — original two-litre production road car",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat targa",
+      "road_legal": 1,
+      "specification_market": "Original 914/6 production road reference, Porsche Museum May 2019 history pages 2–4. Four-cylinder 914/4, 914/6 GT competition cars, 916 and eight-cylinder prototypes are excluded. The PDF’s 940-kg dry mass is not curb mass and remains unfilled. Gearbox and competition output are not inferred. Photo identifies a 1970 narrow-body six-cylinder road exterior. The translated triple-carburettor wording is not used as a carburettor-count claim.",
+      "summary": "The 914 helped bring Porsche’s mid-engine sports-car philosophy from racing to series production. The six-cylinder road version connected that compact targa platform with a 911-derived engine and a notable competition family, while retaining its own road identity.",
+      "admission_reason": "The 914 helped bring Porsche’s mid-engine sports-car philosophy from racing to series production. The six-cylinder road version connected that compact targa platform with a 911-derived engine and a notable competition family, while retaining its own road identity.",
+      "sources": [
+        {
+          "publisher": "Porsche AG",
+          "title": "Porsche Museum — 50 years of 914, six-cylinder production road specification",
+          "source_type": "Manufacturer museum historical technical release",
+          "url": "https://newsroom.porsche.com/dam/jcr%3Ad1624934-f418-495a-bb8d-200e266ca5ca/PI20190520e_50%20Jahre%20914_The%20Porsche%20Museum%20celebrates%20the%20mid-engined%20sports%20car.pdf",
+          "notes": "Original 914/6 production road reference, Porsche Museum May 2019 history pages 2–4. Four-cylinder 914/4, 914/6 GT competition cars, 916 and eight-cylinder prototypes are excluded. The PDF’s 940-kg dry mass is not curb mass and remains unfilled. Gearbox and competition output are not inferred. Photo identifies a 1970 narrow-body six-cylinder road exterior. The translated triple-carburettor wording is not used as a carburettor-count claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Porsche 914-6.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Porsche_914-6.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat six-cylinder boxer, derived from 911 T",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Carburettor induction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "High-performance capacitor ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Targa",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "110",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 914 helped bring Porsche’s mid-engine sports-car philosophy from racing to series production. The six-cylinder road version connected that compact targa platform with a 911-derived engine and a notable competition family, while retaining its own road identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_9146_road.jpg",
+          "caption": "Porsche 914 — 1970 narrow-body six-cylinder road exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "fc3b07eacb42dab2460bde479fbc2bf03160363171fbcc3d7317b1a45bfb240e"
+        }
+      ]
+    },
+    {
+      "id": "POR-BOXSTER-986-25-ROAD",
+      "manufacturer": "Porsche",
+      "model_family": "Boxster",
+      "generation": "First-generation 986 original 2.5-litre roadster",
+      "variant": "2.5 — original 1996 European launch reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat roadster",
+      "road_legal": 1,
+      "specification_market": "Original 986 2.5 roadster introduced August 1996. Porsche’s anniversary history separates its 150-kW engine from later 2.7, 3.2 S and subsequent 987/981/982 engines. Gearbox, precise capacity and unsupported performance are unfilled. Photo identifies a 1997 museum roadster with non-original-looking headlamp treatment; its engine and trim are not certified.",
+      "summary": "The original Boxster established Porsche’s modern mid-engine roadster lineage, translating the well-received 1993 concept into a production sports car with a water-cooled flat-six and an enduring place in the marque’s road-car history.",
+      "admission_reason": "The original Boxster established Porsche’s modern mid-engine roadster lineage, translating the well-received 1993 concept into a production sports car with a water-cooled flat-six and an enduring place in the marque’s road-car history.",
+      "sources": [
+        {
+          "publisher": "Porsche AG",
+          "title": "25 years of Boxster — original 986 production-engine history",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://newsroom.porsche.com/en/2021/products/porsche-boxster-25-years-premiere-23375.html",
+          "notes": "Original 986 2.5 roadster introduced August 1996. Porsche’s anniversary history separates its 150-kW engine from later 2.7, 3.2 S and subsequent 987/981/982 engines. Gearbox, precise capacity and unsupported performance are unfilled. Photo identifies a 1997 museum roadster with non-original-looking headlamp treatment; its engine and trim are not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1997 Porsche 986 Boxster (3).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1997_Porsche_986_Boxster_(3).jpg",
+          "notes": "Damian B Oh; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "150",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Variable intake timing",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Boxster established Porsche’s modern mid-engine roadster lineage, translating the well-received 1993 concept into a production sports car with a water-cooled flat-six and an enduring place in the marque’s road-car history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_boxster_986_25_road.jpg",
+          "caption": "Porsche Boxster — Museum-labelled 1997 roadster with modified headlamp appearance. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Damian B Oh",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a7252c3d7b9a96c9f298e935157104ef854f76354f279c705211461b52a8b4af"
+        }
+      ]
+    },
+    {
+      "id": "POR-CAYMAN-R-987-ROAD",
+      "manufacturer": "Porsche",
+      "model_family": "Cayman",
+      "generation": "First-generation 987.2 Cayman R",
+      "variant": "R — original 2011 six-speed manual road coupe",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2011 European Cayman R manual, November 17, 2010 Porsche launch release. Optional PDK acceleration, Sport Chrono 4.7 seconds and lithium battery are excluded. A historical USA-hosted global release gives metric 243 kW / 330 hp; no US SAE reinterpretation is imposed. DIN unladen mass is not imported as a generic weight. Photo identifies a 2011 Cayman R.",
+      "summary": "The Cayman R refined Porsche’s first mid-engine Cayman generation through systematic weight reduction, a lowered sports chassis and a manual rear-drive configuration, establishing an influential lightweight driver’s coupe before the GT4 era.",
+      "admission_reason": "The Cayman R refined Porsche’s first mid-engine Cayman generation through systematic weight reduction, a lowered sports chassis and a manual rear-drive configuration, establishing an influential lightweight driver’s coupe before the GT4 era.",
+      "sources": [
+        {
+          "publisher": "Porsche AG",
+          "title": "Cayman R — original November 17, 2010 global launch release",
+          "source_type": "Period manufacturer global launch release",
+          "url": "https://www.porsche.com/usa/aboutporsche/pressreleases/pag/?id=2010-11-17&pool=international-de",
+          "notes": "Original 2011 European Cayman R manual, November 17, 2010 Porsche launch release. Optional PDK acceleration, Sport Chrono 4.7 seconds and lithium battery are excluded. A historical USA-hosted global release gives metric 243 kW / 330 hp; no US SAE reinterpretation is imposed. DIN unladen mass is not imported as a generic weight. Photo identifies a 2011 Cayman R."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2011 Porsche Cayman R (64294).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2011_Porsche_Cayman_R_(64294).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "243",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Sports chassis lowered 20 mm versus Cayman S",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "282",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Fixed rear spoiler",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cayman R refined Porsche’s first mid-engine Cayman generation through systematic weight reduction, a lowered sports chassis and a manual rear-drive configuration, establishing an influential lightweight driver’s coupe before the GT4 era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_cayman_r_987_road.jpg",
+          "caption": "Porsche Cayman — 2011 Cayman R road exterior. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "550235c0d3c255678d88bfdc03d7bf2fbf5ae32bbe57d723e7118df30a4f135a"
+        }
+      ]
+    },
+    {
+      "id": "POR-CAYMAN-GT4-981-ROAD",
+      "manufacturer": "Porsche",
+      "model_family": "Cayman",
+      "generation": "Second-generation 981 Cayman GT4",
+      "variant": "GT4 — original 2015 manual road coupe",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original road-legal 2015 981 GT4. The 385-hp GT4 Clubsport racer uses a different transmission and is excluded, as are later 982 4.0/GT4 RS specifications. Ceramic brakes, optional seats and Clubsport equipment are not assumed. Photo shows a road 981 GT4, not the racing Clubsport.",
+      "summary": "The 981 Cayman GT4 was the first Cayman developed as a Porsche GT road sports car, combining a larger flat-six and manual transmission with GT3-derived chassis hardware and downforce at both axles.",
+      "admission_reason": "The 981 Cayman GT4 was the first Cayman developed as a Porsche GT road sports car, combining a larger flat-six and manual transmission with GT3-derived chassis hardware and downforce at both axles.",
+      "sources": [
+        {
+          "publisher": "Porsche AG",
+          "title": "First Porsche Cayman GT4 — February 4, 2015 road-car launch",
+          "source_type": "Period manufacturer launch technical release",
+          "url": "https://newsroom.porsche.com/en/products/the-new-porsche-cayman-gt4-2015.html",
+          "notes": "Original road-legal 2015 981 GT4. The 385-hp GT4 Clubsport racer uses a different transmission and is excluded, as are later 982 4.0/GT4 RS specifications. Ceramic brakes, optional seats and Clubsport equipment are not assumed. Photo shows a road 981 GT4, not the racing Clubsport."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Porsche 981 Cayman GT4 SCD 24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Porsche_981_Cayman_GT4_SCD_24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "283",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with dynamic gearbox mounts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Chassis lowered 30 mm; extensively GT3-derived components",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "295",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Fixed rear wing and front downforce package",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 981 Cayman GT4 was the first Cayman developed as a Porsche GT road sports car, combining a larger flat-six and manual transmission with GT3-derived chassis hardware and downforce at both axles.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_cayman_gt4_981_road.jpg",
+          "caption": "Porsche Cayman — 981 road GT4 exterior, excluding the Clubsport racer. Photograph does not certify powertrain originality, build market or optional equipment.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f8e29f59f27250970494019dc7bf7c42d13e9f110b5c4aea1cb9773aa6edcebd"
+        }
+      ]
+    }
+  ]
+}

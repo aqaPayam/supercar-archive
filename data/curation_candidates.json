@@ -1378,7 +1378,194 @@
       "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "generation": "Second-generation E36 European 3.2",
+      "proposed_record": "BMW-M3-E36-32-ROAD",
+      "reason": "The E36 M3 established the six-cylinder era of BMW’s sporting benchmark, combining high-revving engine development and variable camshaft control with a more usable road coupe. Its 3.2-litre evolution introduced a six-speed manual and developed compound brakes.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e36-portraet.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "generation": "Fourth-generation E92 V8 coupe",
+      "proposed_record": "BMW-M3-E92-V8-ROAD",
+      "reason": "The E92 M3 marked the M3’s distinctive V8 era, combining a high-revving S65 engine, individual throttles and a standard carbon-fibre coupe roof. It remains a major engineering departure within the M3 lineage.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e92-e90-and-e93.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "1 Series M Coupe",
+      "generation": "E82 original 1 Series M production coupe",
+      "proposed_record": "BMW-1M-E82-ROAD",
+      "reason": "The 1 Series M Coupe became a modern compact performance icon through its compact M chassis, manual transmission and rear-drive layout, connecting BMW’s larger M-car engineering with a smaller, highly engaging road coupe.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-1er-m-coupe.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "generation": "E86 original Z4 M fixed-roof coupe",
+      "proposed_record": "BMW-Z4-M-E86-ROAD",
+      "reason": "The Z4 M Coupe paired BMW’s celebrated high-revving straight-six with a distinctive compact fixed-roof sports-car body, creating an enduring driver’s GT whose identity extends beyond its short production run.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-z4-m-coupe-e86.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M2",
+      "generation": "Original F87 non-Competition M2 coupe",
+      "proposed_record": "BMW-M2-F87-ORIGINAL",
+      "reason": "The original M2 renewed BMW M’s compact rear-drive performance formula, pairing a developed turbo six-cylinder with an aluminium M chassis and a standard manual gearbox. Its strong enthusiast and award recognition established the first M2 generation as a modern performance icon.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m2-coupe-f87-and-bmw-m2-competition-f87.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 2",
+      "generation": "Original B4 Avant RS2 co-development",
+      "proposed_record": "AUD-RS2-B4-ROAD",
+      "reason": "The RS2 helped establish the modern European high-performance estate through Audi and Porsche’s engineering collaboration, combining turbocharged five-cylinder performance, all-wheel drive and practical family-car bodywork in a lasting RS landmark.",
+      "evidence": "https://newsroom.porsche.com/de/2021/historie/porsche-kooperationsprojekt-audi-avant-rs2-25026.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 4",
+      "generation": "Original B5 RS4 Avant",
+      "proposed_record": "AUD-RS4-B5-ROAD",
+      "reason": "The B5 RS4 developed Audi’s high-performance estate identity through a Cosworth-modified biturbo V6 and a dedicated wide-body chassis package, becoming the first independently developed quattro GmbH production model and an enduring sporting estate.",
+      "evidence": "https://www.audi-mediacenter.com/en/publications/more/audi-tradition-anniversary-dates-2025-1565/download",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 6",
+      "generation": "First-generation C5 RS6 Avant",
+      "proposed_record": "AUD-RS6-C5-ROAD",
+      "reason": "The first RS6 established Audi’s large performance-estate lineage through a Cosworth-developed twin-turbo V8, all-wheel drive and diagonally linked Dynamic Ride Control suspension, combining exceptional road performance with estate practicality.",
+      "evidence": "https://www.audi-mediacenter.com/en/press-releases/20-years-four-generations-audi-rs-6-superior-performance-with-an-everyday-look-14768",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 6",
+      "generation": "Second-generation C6 V10 RS6 Avant",
+      "proposed_record": "AUD-RS6-C6-V10-ROAD",
+      "reason": "The C6 RS6 is a distinctive engineering landmark among performance estates: Audi packaged a dry-sump twin-turbo V10 and a reinforced automatic drivetrain into a practical road wagon, creating the largest engine in the RS6 lineage.",
+      "evidence": "https://www.audi-mediacenter.com/en/press-releases/20-years-four-generations-audi-rs-6-superior-performance-with-an-everyday-look-14768",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT",
+      "generation": "First-generation 8N production coupe",
+      "proposed_record": "AUD-TT-8N-225-ROAD",
+      "reason": "The original TT became a lasting automotive design icon by translating a striking Bauhaus-influenced concept into an accessible production sports coupe. Its turbo quattro version combined that distinctive identity with a manual performance drivetrain.",
+      "evidence": "https://www.audi-mediacenter.com/en/press-releases/a-timeless-design-icon-the-audi-tt-turns-25-15317",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT",
+      "generation": "Second-generation 8J original TT RS coupe",
+      "proposed_record": "AUD-TTRS-8J-ROAD",
+      "reason": "The first TT RS revived Audi’s turbocharged five-cylinder road-car tradition in a compact sports coupe, establishing the modern RS five-cylinder engine lineage and giving the second TT generation a distinctive performance identity.",
+      "evidence": "https://www.audi.com/en/press-releases/50-years-of-the-audi-five-cylinder-16921",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT",
+      "generation": "Third-generation 8S original TT RS coupe",
+      "proposed_record": "AUD-TTRS-8S-ROAD",
+      "reason": "The third-generation TT RS advanced Audi’s five-cylinder sports-car formula with a substantially redeveloped, lighter engine and reduced internal friction, bringing a major mechanical step to the TT’s established compact sports-coupe identity.",
+      "evidence": "https://www.audi.com/en/press-releases/50-years-of-the-audi-five-cylinder-16921",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "968",
+      "generation": "Original 968 CS road coupe",
+      "proposed_record": "POR-968-CLUBSPORT-ROAD",
+      "reason": "The 968 Clubsport became a benchmark for driver-focused transaxle sports cars through a deliberate reduction in comfort equipment, lightweight seats and a lowered chassis, emphasizing balance and involvement rather than additional engine power.",
+      "evidence": "https://pnr-prd2-pub2.newsroom.porsche.com/dam/jcr%3Ac1d8d7be-7490-49b6-9ba0-b8200987274a/PAG_718T_PM_EN.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "914",
+      "generation": "Original 914/6 six-cylinder road series",
+      "proposed_record": "POR-9146-ROAD",
+      "reason": "The 914 helped bring Porsche’s mid-engine sports-car philosophy from racing to series production. The six-cylinder road version connected that compact targa platform with a 911-derived engine and a notable competition family, while retaining its own road identity.",
+      "evidence": "https://newsroom.porsche.com/dam/jcr%3Ad1624934-f418-495a-bb8d-200e266ca5ca/PI20190520e_50%20Jahre%20914_The%20Porsche%20Museum%20celebrates%20the%20mid-engined%20sports%20car.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Boxster",
+      "generation": "First-generation 986 original 2.5-litre roadster",
+      "proposed_record": "POR-BOXSTER-986-25-ROAD",
+      "reason": "The original Boxster established Porsche’s modern mid-engine roadster lineage, translating the well-received 1993 concept into a production sports car with a water-cooled flat-six and an enduring place in the marque’s road-car history.",
+      "evidence": "https://newsroom.porsche.com/en/2021/products/porsche-boxster-25-years-premiere-23375.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Cayman",
+      "generation": "First-generation 987.2 Cayman R",
+      "proposed_record": "POR-CAYMAN-R-987-ROAD",
+      "reason": "The Cayman R refined Porsche’s first mid-engine Cayman generation through systematic weight reduction, a lowered sports chassis and a manual rear-drive configuration, establishing an influential lightweight driver’s coupe before the GT4 era.",
+      "evidence": "https://www.porsche.com/usa/aboutporsche/pressreleases/pag/?id=2010-11-17&pool=international-de",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Cayman",
+      "generation": "Second-generation 981 Cayman GT4",
+      "proposed_record": "POR-CAYMAN-GT4-981-ROAD",
+      "reason": "The 981 Cayman GT4 was the first Cayman developed as a Porsche GT road sports car, combining a larger flat-six and manual transmission with GT3-derived chassis hardware and downforce at both axles.",
+      "evidence": "https://newsroom.porsche.com/en/products/the-new-porsche-cayman-gt4-2015.html",
+      "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-13.json"
     }
   ],
-  "catalogue_count_after_batches": 518
+  "catalogue_count_after_batches": 535
 }
