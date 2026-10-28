@@ -55,8 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. The [first road-icon batch](docs/icons-road-01.md)
-adds four missing homologation and engineering landmarks, reaching 399 records.
-The [second road-icon batch](docs/icons-road-02.md) adds eleven more selected
-models, bringing the working catalogue to 410 records. The 1,000-car goal remains
-active, with eligibility review taking priority over the numerical count.
+evidence and licensed photograph. Nine reviewed road-icon batches add 104 cars
+to the 395-record baseline, bringing the working catalogue to 499 records.
+The latest [Japanese sports-car batch](docs/icons-road-09.md) adds 15 missing
+model families or generations, following the [American performance-icon
+batch](docs/icons-road-08.md). Individual batch reviews and evidence boundaries
+are recorded in [the documentation](docs), with repeatable manifests in `data`.
+The 1,000-qualifying-car goal remains active: existing records still need the
+final eligibility audit, and quality takes priority over the numerical count.

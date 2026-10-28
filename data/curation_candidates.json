@@ -1004,7 +1004,172 @@
       "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "MX-5",
+      "generation": "NA original 1.6-litre roadster",
+      "proposed_record": "MAZ-MX5-NA-1990",
+      "reason": "The original MX-5 revived the accessible lightweight two-seat roadster, establishing an enduring driver-focused sports-car lineage rather than relying on exceptional engine power.",
+      "evidence": "https://www.mazdausa.com/discover/mazda-mx-5-miata-fans",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "MX-5",
+      "generation": "NB original 1.8-litre Japanese roadster",
+      "proposed_record": "MAZ-MX5-NB-1998",
+      "reason": "The NB carried the MX-5’s lightweight two-seat formula into a distinct second generation, retaining its compact sporting character while introducing a six-speed option and a more rigid safety structure.",
+      "evidence": "https://www2.mazda.com/en/investors/library/annual/1997/Models/roadster.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "MX-5",
+      "generation": "NC original MZR Japanese roadster",
+      "proposed_record": "MAZ-MX5-NC-2005",
+      "reason": "The third-generation MX-5 rebuilt the established lightweight roadster around a new compact MZR engine and revised chassis, sustaining the model’s driver-focused identity through a major engineering change.",
+      "evidence": "https://newsroom.mazda.com/en/publicity/release/2005/200508/050825.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "MX-5",
+      "generation": "ND original 1.5-litre Japanese roadster",
+      "proposed_record": "MAZ-MX5-ND-2015",
+      "reason": "The fourth-generation MX-5 re-centred the roadster on low mass, compact dimensions and a naturally responsive powertrain, carrying its enduring lightweight sports-car formula into the SKYACTIV era.",
+      "evidence": "https://newsroom.mazda.com/en/publicity/release/2015/201505/150520a.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Cosmo Sport",
+      "generation": "L10A original short-wheelbase series",
+      "proposed_record": "MAZ-COSMO-L10A-1967",
+      "reason": "The Cosmo Sport established Mazda’s production rotary sports-car identity, making a compact twin-rotor engine central to a distinctive two-seat coupe and the marque’s subsequent engineering tradition.",
+      "evidence": "https://www.mazda.com/en/about/history/1920-1979/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Savanna RX-3",
+      "generation": "Original S102A rotary coupe",
+      "proposed_record": "MAZ-SAVANNA-RX3-1972",
+      "reason": "The Savanna RX-3 made compact rotary performance a lasting Mazda identity and became a major Japanese touring-car challenger, connecting an accessible road coupe with the marque’s developing motorsport reputation.",
+      "evidence": "https://www.mazda.com/en/about/history/greatcar/savanna/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Autozam AZ-1",
+      "generation": "Original PG6SA gullwing kei coupe",
+      "proposed_record": "MAZ-AUTOZAM-AZ1-1992",
+      "reason": "The Autozam AZ-1 turned the kei-car limits into a miniature mid-engined sports-car concept, combining gullwing doors and plastic body panels with a turbocharged engine in a distinctive production coupe.",
+      "evidence": "https://www2.mazda.com/en/100th/cars/detail_030_az1.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "GTO",
+      "generation": "Original Z16A twin-turbo production series",
+      "proposed_record": "MIT-GTO-Z16A-1990",
+      "reason": "The original GTO brought Mitsubishi’s flagship performance technologies together in one road coupe: a twin-turbo V6, full-time four-wheel drive, four-wheel steering and active aerodynamic systems.",
+      "evidence": "https://www.mitsubishi-motors.com/en/company/history/car/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Starion",
+      "generation": "Original narrow-body 2.0 turbo series",
+      "proposed_record": "MIT-STARION-1982-ROAD",
+      "reason": "The Starion established Mitsubishi’s distinctive turbocharged sports-coupe identity in the 1980s, with its wedge profile, independent rear suspension and a road family that also competed in endurance racing and rallying.",
+      "evidence": "https://www.mitsubishi-motors.com/en/company/history/car/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "FTO",
+      "generation": "Original 1994 MIVEC V6 coupe",
+      "proposed_record": "MIT-FTO-DE3A-1994",
+      "reason": "The FTO combined a compact MIVEC V6 sports-coupe package with Mitsubishi’s adaptive INVECS-II Sport Mode transmission, an early driver-selectable automatic implementation, and won Japan’s 1994–95 Car of the Year award.",
+      "evidence": "https://www.mitsubishi-motors.com/en/company/history/car/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "S800",
+      "generation": "Original S800 live-axle roadster series",
+      "proposed_record": "HON-S800-1966-ROAD",
+      "reason": "The S800 brought Honda’s small high-revving DOHC sports-car engineering to its first 100-mph production car, helping establish the marque’s international performance identity well before its later sports-car icons.",
+      "evidence": "https://www.honda.co.jp/sportscar/sportscar/S500-600-800/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "CR-X",
+      "generation": "Second-generation EF8 VTEC SiR",
+      "proposed_record": "HON-CRX-EF8-SIR-1989",
+      "reason": "The CR-X SiR brought Honda’s early high-specific-output DOHC VTEC engine to its compact sporting hatchback, achieving the manufacturer’s advertised 100 horsepower per litre without forced induction.",
+      "evidence": "https://global.honda/jp/news/1989/4890921.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Supra",
+      "generation": "A70 original 7M-GTEU Japan launch",
+      "proposed_record": "TOY-SUPRA-A70-1986",
+      "reason": "The A70 established Supra as a model independent of Celica, combining Toyota’s turbocharged six-cylinder flagship sports-car identity with a newly developed four-wheel double-wishbone chassis.",
+      "evidence": "https://pressroom.toyota.com/toyota-supra-icon-half-century-in-making/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Supra",
+      "generation": "A60 / MA61 Celica XX",
+      "proposed_record": "TOY-SUPRA-A60-1981",
+      "reason": "The second-generation Celica Supra / Celica XX established a distinctive retractable-headlamp six-cylinder sports-GT identity, developing the Supra lineage before its separation from the Celica range.",
+      "evidence": "https://pressroom.toyota.com/toyota-supra-icon-half-century-in-making/",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Impreza",
+      "generation": "Second-generation GDB original round-headlamp STi",
+      "proposed_record": "SUB-IMPREZA-GDB-STI-2001",
+      "reason": "The GDB WRX STi carried Subaru’s rally-developed performance-saloon formula into a new generation, combining a turbocharged flat-four and full-time four-wheel drive with a new six-speed transmission and dedicated chassis development.",
+      "evidence": "https://members-origin.subaru.jp/stamp/history/history_2000s_01.html",
+      "duplicate_review": "Absent model/generation checked against the complete 484-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-09.json"
     }
   ],
-  "catalogue_count_after_batches": 484
+  "catalogue_count_after_batches": 499
 }

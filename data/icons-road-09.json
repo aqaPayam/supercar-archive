@@ -1,0 +1,1896 @@
+{
+  "batch": "icons-road-2026-10-29-09",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 15,
+  "cars": [
+    {
+      "id": "MAZ-MX5-NA-1990",
+      "manufacturer": "Mazda",
+      "model_family": "MX-5",
+      "generation": "NA original 1.6-litre roadster",
+      "variant": "Miata — 1990 US five-speed soft-top",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "US 1990 original 1.6-litre five-speed Miata, not later 1.8, automatic, turbo conversion or anniversary edition. Original Mazda brochure printed 7/1989, PDF page 9 / printed 15–16. Optional viscous LSD, power steering, alloy wheels and removable hardtop are not assumed. Representative photograph shows an NA-generation soft-top; market and reference-year engine are not authenticated.",
+      "summary": "The original MX-5 revived the accessible lightweight two-seat roadster, establishing an enduring driver-focused sports-car lineage rather than relying on exceptional engine power.",
+      "admission_reason": "The original MX-5 revived the accessible lightweight two-seat roadster, establishing an enduring driver-focused sports-car lineage rather than relying on exceptional engine power.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor of America",
+          "title": "1990 Mazda Miata — original sales brochure, specifications and option table",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Mazda/MX-5/Mazda_US%20MX-5_1990.pdf",
+          "notes": "US 1990 original 1.6-litre five-speed Miata, not later 1.8, automatic, turbo conversion or anniversary edition. Original Mazda brochure printed 7/1989, PDF page 9 / printed 15–16. Optional viscous LSD, power steering, alloy wheels and removable hardtop are not assumed. Representative photograph shows an NA-generation soft-top; market and reference-year engine are not authenticated."
+        },
+        {
+          "publisher": "Mazda",
+          "title": "The history of the Mazda MX-5 Miata",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mazdausa.com/discover/mazda-mx-5-miata-fans",
+          "notes": "Manufacturer history supports the model’s enduring lightweight two-seat sports-car significance."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989–1997 Mazda MX-5 Miata.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1989%E2%80%931997_Mazda_MX-5_Miata.jpg",
+          "notes": "LouieRBLX; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1597",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.4:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Multi-port electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual with overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Monocoque with Power Plant Frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Fully independent double wishbones with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted four-wheel discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "116",
+          "unit": "hp; SAE net",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Headlamps",
+          "value": "Retractable halogen",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original MX-5 revived the accessible lightweight two-seat roadster, establishing an enduring driver-focused sports-car lineage rather than relying on exceptional engine power.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_mx5_na_1990.jpg",
+          "caption": "Mazda Miata — 1990 US five-speed soft-top — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "LouieRBLX",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5e7a8b4c1cc4809595ce4c243ea0e6ab5cc872a1e79937409a375372473f5515"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-MX5-NB-1998",
+      "manufacturer": "Mazda",
+      "model_family": "MX-5",
+      "generation": "NB original 1.8-litre Japanese roadster",
+      "variant": "Roadster 1.8 — original Japan six-speed manual",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Japan January 1998 original NB 1.8-litre six-speed roadster. Manufacturer chronology gives 145 net PS at 6500 rpm, converted to 106.65 kW. Do not use 1.6, later variable-valve engine, US output, turbo Mazdaspeed or anniversary equipment. Glass rear window and manual-car ABS are not treated as universal standard equipment. This record represents one NB generation, without multiplying trim packages.",
+      "summary": "The NB carried the MX-5’s lightweight two-seat formula into a distinct second generation, retaining its compact sporting character while introducing a six-speed option and a more rigid safety structure.",
+      "admission_reason": "The NB carried the MX-5’s lightweight two-seat formula into a distinct second generation, retaining its compact sporting character while introducing a six-speed option and a more rigid safety structure.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Mazda history, 1998 January — second-generation Roadster specifications",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mazda.com/en/about/history/1990-1999/",
+          "notes": "Japan January 1998 original NB 1.8-litre six-speed roadster. Manufacturer chronology gives 145 net PS at 6500 rpm, converted to 106.65 kW. Do not use 1.6, later variable-valve engine, US output, turbo Mazdaspeed or anniversary equipment. Glass rear window and manual-car ABS are not treated as universal standard equipment. This record represents one NB generation, without multiplying trim packages."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "1998 annual report — the new Roadster",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www2.mazda.com/en/investors/library/annual/1997/Models/roadster.html",
+          "notes": "Contemporary manufacturer account supports the second-generation lightweight sports-car identity and MAGMA development; optional ABS wording is respected."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1998-2000 Mazda Roadster.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1998-2000_Mazda_Roadster.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "106.65",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Mazda Geometric Motion Absorption (MAGMA) body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Headlamps",
+          "value": "Fixed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Frontal airbags",
+          "value": "Driver and passenger airbags standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Luggage capacity",
+          "value": "144",
+          "unit": "litres; VDA",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The NB carried the MX-5’s lightweight two-seat formula into a distinct second generation, retaining its compact sporting character while introducing a six-speed option and a more rigid safety structure.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_mx5_nb_1998.jpg",
+          "caption": "Mazda Roadster 1.8 — original Japan six-speed manual — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e4fd2536711f405f5d168a8231e2ebe4323e49534a5b6f84fa441f1b7f89f9c1"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-MX5-NC-2005",
+      "manufacturer": "Mazda",
+      "model_family": "MX-5",
+      "generation": "NC original MZR Japanese roadster",
+      "variant": "Roadster 2.0 — Japan launch five-speed soft-top",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Japan August 2005 base Roadster with five-speed manual and soft-top. Launch release table’s manual power is 125 kW / 170 PS, not automatic 122 kW / 166 PS or US 167-hp specification. Six-speed RS, 3rd Generation Limited, later retractable hardtop and facelift engine updates are excluded. Cross-column mass and tyre values are omitted.",
+      "summary": "The third-generation MX-5 rebuilt the established lightweight roadster around a new compact MZR engine and revised chassis, sustaining the model’s driver-focused identity through a major engineering change.",
+      "admission_reason": "The third-generation MX-5 rebuilt the established lightweight roadster around a new compact MZR engine and revised chassis, sustaining the model’s driver-focused identity through a major engineering change.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Mazda commences sales of all-new Roadster in Japan — August 25, 2005",
+          "source_type": "Original manufacturer launch release and specification table",
+          "url": "https://newsroom.mazda.com/en/publicity/release/2005/200508/050825.html",
+          "notes": "Japan August 2005 base Roadster with five-speed manual and soft-top. Launch release table’s manual power is 125 kW / 170 PS, not automatic 122 kW / 166 PS or US 167-hp specification. Six-speed RS, 3rd Generation Limited, later retractable hardtop and facelift engine updates are excluded. Cross-column mass and tyre values are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2005 Mazda MX-5.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2005_Mazda_MX-5.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Water-cooled inline four-cylinder MZR",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "125",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "189",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; multi-link rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Vented front discs; solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2330",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Dimensions",
+          "value": "3995 × 1720 × 1245",
+          "unit": "mm; length × width × height",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third-generation MX-5 rebuilt the established lightweight roadster around a new compact MZR engine and revised chassis, sustaining the model’s driver-focused identity through a major engineering change.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_mx5_nc_2005.jpg",
+          "caption": "Mazda Roadster 2.0 — Japan launch five-speed soft-top — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "cee29f57267ff10d315544f16a5c37986056bd5133463954021c0d272fe6dee9"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-MX5-ND-2015",
+      "manufacturer": "Mazda",
+      "model_family": "MX-5",
+      "generation": "ND original 1.5-litre Japanese roadster",
+      "variant": "Roadster S 1.5 — Japan launch six-speed soft-top",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Japan May 2015 base Roadster S, 1.5-litre six-speed manual soft-top. Launch release equipment and base-model price column only. Do not import optional i-stop/i-ELOOP, Bose audio, later KPC, RF roof, NR-A chassis equipment or export 2.0-litre/184-PS power. Photo explicitly shows an early European 2.0 ND; it represents exterior generation/body only, not the Japanese engine.",
+      "summary": "The fourth-generation MX-5 re-centred the roadster on low mass, compact dimensions and a naturally responsive powertrain, carrying its enduring lightweight sports-car formula into the SKYACTIV era.",
+      "admission_reason": "The fourth-generation MX-5 re-centred the roadster on low mass, compact dimensions and a naturally responsive powertrain, carrying its enduring lightweight sports-car formula into the SKYACTIV era.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "All-new Mazda Roadster goes on sale in Japan — May 20, 2015",
+          "source_type": "Original manufacturer launch release",
+          "url": "https://newsroom.mazda.com/en/publicity/release/2015/201505/150520a.html",
+          "notes": "Japan May 2015 base Roadster S, 1.5-litre six-speed manual soft-top. Launch release equipment and base-model price column only. Do not import optional i-stop/i-ELOOP, Bose audio, later KPC, RF roof, NR-A chassis equipment or export 2.0-litre/184-PS power. Photo explicitly shows an early European 2.0 ND; it represents exterior generation/body only, not the Japanese engine."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Mazda MX-5 ND 2.0 SKYACTIV-G 160 i-ELOOP Rubinrot-Metallic Vorderansicht.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg",
+          "notes": "Kickaffe (Mario von Berg); CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "SKYACTIV-G gasoline engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "SKYACTIV-MT six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Manually operated soft-top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Dual-pinion electric power assistance",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fourth-generation MX-5 re-centred the roadster on low mass, compact dimensions and a naturally responsive powertrain, carrying its enduring lightweight sports-car formula into the SKYACTIV era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_mx5_nd_2015.jpg",
+          "caption": "Mazda Roadster S 1.5 — Japan launch six-speed soft-top — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph. This photo shows an early European 2.0-litre ND, representing the body generation rather than the selected Japanese 1.5-litre specification.",
+          "creator": "Kickaffe (Mario von Berg)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "32dc5b134b9e348f9dc040b9a588cf770cef5fd2ba144ac97e2c401820c32da5"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-COSMO-L10A-1967",
+      "manufacturer": "Mazda",
+      "model_family": "Cosmo Sport",
+      "generation": "L10A original short-wheelbase series",
+      "variant": "Cosmo Sport 110S — original 1967 road coupe",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1967 original short-wheelbase L10A Cosmo Sport / export 110S, not the 1968-on L10B 128-PS long-wheelbase version or a prototype. National Museum of Nature and Science collection record supplies original 110-PS engine and dimensions. Undefined 940-kg mass and historical torque convention are omitted; no modern net-kW conversion is made. Photo identifies an L10A with later accessory wheels; factory originality is not certified.",
+      "summary": "The Cosmo Sport established Mazda’s production rotary sports-car identity, making a compact twin-rotor engine central to a distinctive two-seat coupe and the marque’s subsequent engineering tradition.",
+      "admission_reason": "The Cosmo Sport established Mazda’s production rotary sports-car identity, making a compact twin-rotor engine central to a distinctive two-seat coupe and the marque’s subsequent engineering tradition.",
+      "sources": [
+        {
+          "publisher": "National Museum of Nature and Science, Japan",
+          "title": "Cosmo Sport — 1967 collection specifications",
+          "source_type": "Museum collection record",
+          "url": "https://www.kahaku.go.jp/exhibitions/vm/past_parmanent/rikou/transport/cosmosport.html",
+          "notes": "1967 original short-wheelbase L10A Cosmo Sport / export 110S, not the 1968-on L10B 128-PS long-wheelbase version or a prototype. National Museum of Nature and Science collection record supplies original 110-PS engine and dimensions. Undefined 940-kg mass and historical torque convention are omitted; no modern net-kW conversion is made. Photo identifies an L10A with later accessory wheels; factory originality is not certified."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Mazda history, May 1967 — original Cosmo Sport",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mazda.com/en/about/history/1920-1979/",
+          "notes": "Original twin-rotor production sports-car significance and distinction from the following year’s uprated version."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mazda Cosmo 002.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mazda_Cosmo_002.JPG",
+          "notes": "Tennen-Gas; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "10A twin-rotor rotary",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.14",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement per chamber",
+          "value": "491",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "110",
+          "unit": "PS; historical rating basis not restated",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1595",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cosmo Sport established Mazda’s production rotary sports-car identity, making a compact twin-rotor engine central to a distinctive two-seat coupe and the marque’s subsequent engineering tradition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_cosmo_l10a_1967.jpg",
+          "caption": "Mazda Cosmo Sport 110S — original 1967 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph. Later accessory wheels are visible.",
+          "creator": "Tennen-Gas",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a0088eee26542b082f236a2f7f84d970da6b6b4b9a4e6a105817f09207433cf5"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-SAVANNA-RX3-1972",
+      "manufacturer": "Mazda",
+      "model_family": "Savanna RX-3",
+      "generation": "Original S102A rotary coupe",
+      "variant": "RX-3 coupe — 1972 English-language export reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original RX-3 S102A coupe, using the 1972-dated archive’s English-language Mazda brochure A47111T 102-358, PDF page 3. The filename calls this US, but the brochure gives imperial gallons and says equipment varies locally: no exact country is asserted. Coupe dimensions only; sedan height, later 12A/1146-cc and 1975 US engine-test data are excluded. Period SAE output has no modern net-kW conversion. Photo shows a 1973-dated original 10A coupe, not a certified 1972 market/build.",
+      "summary": "The Savanna RX-3 made compact rotary performance a lasting Mazda identity and became a major Japanese touring-car challenger, connecting an accessible road coupe with the marque’s developing motorsport reputation.",
+      "admission_reason": "The Savanna RX-3 made compact rotary performance a lasting Mazda identity and became a major Japanese touring-car challenger, connecting an accessible road coupe with the marque’s developing motorsport reputation.",
+      "sources": [
+        {
+          "publisher": "Toyo Kogyo / Mazda",
+          "title": "Mazda RX-3 — original English-language brochure A47111T 102-358",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Mazda/RX-3/Mazda_US%20RX-3_1972.pdf",
+          "notes": "Original RX-3 S102A coupe, using the 1972-dated archive’s English-language Mazda brochure A47111T 102-358, PDF page 3. The filename calls this US, but the brochure gives imperial gallons and says equipment varies locally: no exact country is asserted. Coupe dimensions only; sedan height, later 12A/1146-cc and 1975 US engine-test data are excluded. Period SAE output has no modern net-kW conversion. Photo shows a 1973-dated original 10A coupe, not a certified 1972 market/build."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Savanna, 1971 onward — manufacturer history",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mazda.com/en/about/history/greatcar/savanna/",
+          "notes": "Road family and touring-car heritage only; 12A competition performance is not copied into this 10A road reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1973 Mazda RX3 Coupe (9475849515).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1973_Mazda_RX3_Coupe_(9475849515).jpg",
+          "notes": "Riley from Christchurch, New Zealand; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1973 Mazda RX3 Coupe"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Two inline rotary rotors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.4:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Stromberg four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; synchronised forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts with coils; rear semi-elliptic leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Semi-monocoque with front and rear subframes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement per rotor",
+          "value": "491",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "110",
+          "unit": "HP; brochure SAE notation, net/gross not restated",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Dimensions",
+          "value": "4065 × 1595 × 1350",
+          "unit": "mm; coupe length × width × height",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2310",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Savanna RX-3 made compact rotary performance a lasting Mazda identity and became a major Japanese touring-car challenger, connecting an accessible road coupe with the marque’s developing motorsport reputation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_savanna_rx3_1972.jpg",
+          "caption": "Mazda RX-3 coupe — 1972 English-language export reference — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Riley from Christchurch, New Zealand",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ccc4f7563268cb1540b1f851df3067dd07d8c1fbf2b1664eb020184462730027"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-AUTOZAM-AZ1-1992",
+      "manufacturer": "Mazda",
+      "model_family": "Autozam AZ-1",
+      "generation": "Original PG6SA gullwing kei coupe",
+      "variant": "AZ-1 — original 1992 turbo road coupe",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan October 1992 original Autozam AZ-1 production road coupe. Mazda’s chronology explicitly states 64 net PS, converted to 47.07 kW. Its rounded 660-cc class is not represented as exact displacement. Body panels are plastic, not a plastic structural monocoque. M2-1015, Mazdaspeed equipment, Suzuki Cara and show prototypes are not additional records.",
+      "summary": "The Autozam AZ-1 turned the kei-car limits into a miniature mid-engined sports-car concept, combining gullwing doors and plastic body panels with a turbocharged engine in a distinctive production coupe.",
+      "admission_reason": "The Autozam AZ-1 turned the kei-car limits into a miniature mid-engined sports-car concept, combining gullwing doors and plastic body panels with a turbocharged engine in a distinctive production coupe.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Mazda history, October 1992 — original AZ-1 specifications",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mazda.com/en/about/history/1990-1999/",
+          "notes": "Japan October 1992 original Autozam AZ-1 production road coupe. Mazda’s chronology explicitly states 64 net PS, converted to 47.07 kW. Its rounded 660-cc class is not represented as exact displacement. Body panels are plastic, not a plastic structural monocoque. M2-1015, Mazdaspeed equipment, Suzuki Cara and show prototypes are not additional records."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Legendary Mazdas — Autozam AZ-1",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www2.mazda.com/en/100th/cars/detail_030_az1.html",
+          "notes": "Explains the midship micro-coupe, gullwing doors and plastic body-panel engineering."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1992 Autozam AZ-1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1992_Autozam_AZ-1.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline three-cylinder DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "0.66",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Midship, behind the occupants",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Plastic outer body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Gullwing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "47.07",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Autozam AZ-1 turned the kei-car limits into a miniature mid-engined sports-car concept, combining gullwing doors and plastic body panels with a turbocharged engine in a distinctive production coupe.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_autozam_az1_1992.jpg",
+          "caption": "Mazda AZ-1 — original 1992 turbo road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "06022250c0f00a3e1e77738e8df67a0475296c1f225b6442abedb26298df041d"
+        }
+      ]
+    },
+    {
+      "id": "MIT-GTO-Z16A-1990",
+      "manufacturer": "Mitsubishi",
+      "model_family": "GTO",
+      "generation": "Original Z16A twin-turbo production series",
+      "variant": "GTO Twin Turbo — original Japan five-speed",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan October 1990 original GTO Twin Turbo / 3000GT family reference, not naturally aspirated GTO, later six-speed, lightweight MR or a Dodge Stealth entry. Manufacturer GTO section describes the original five-speed twin-turbo and active equipment. Exact displacement and net/gross rating basis are not inferred from rounded history fields. Photo shows an early GTO, without certifying engine/options.",
+      "summary": "The original GTO brought Mitsubishi’s flagship performance technologies together in one road coupe: a twin-turbo V6, full-time four-wheel drive, four-wheel steering and active aerodynamic systems.",
+      "admission_reason": "The original GTO brought Mitsubishi’s flagship performance technologies together in one road coupe: a twin-turbo V6, full-time four-wheel drive, four-wheel steering and active aerodynamic systems.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "Mitsubishi car history — GTO, October 1990",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mitsubishi-motors.com/en/company/history/car/",
+          "notes": "Japan October 1990 original GTO Twin Turbo / 3000GT family reference, not naturally aspirated GTO, later six-speed, lightweight MR or a Dodge Stealth entry. Manufacturer GTO section describes the original five-speed twin-turbo and active equipment. Exact displacement and net/gross rating basis are not inferred from rounded history fields. Photo shows an early GTO, without certifying engine/options."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mitsubishi GTO VR4 1990 (14471501841).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mitsubishi_GTO_VR4_1990_(14471501841).jpg",
+          "notes": "order_242 from Chile; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Mitsubishi GTO VR4 1990"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Getrag five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Viscous-coupling centre differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson-strut front; double-wishbone rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Active front venturi cover and variable rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Nominal front/rear torque split",
+          "value": "45:55",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Rear-wheel steering",
+          "value": "Same-direction operation at medium/high speed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Damping",
+          "value": "Electronically controlled suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "280",
+          "unit": "PS; source rating basis not restated",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GTO brought Mitsubishi’s flagship performance technologies together in one road coupe: a twin-turbo V6, full-time four-wheel drive, four-wheel steering and active aerodynamic systems.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_gto_z16a_1990.jpg",
+          "caption": "Mitsubishi GTO Twin Turbo — original Japan five-speed — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "order_242 from Chile",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f013ae5d3c30e6e8ea783f3b648103646d3ffaa67c976ad3321526c61109d904"
+        }
+      ]
+    },
+    {
+      "id": "MIT-STARION-1982-ROAD",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Starion",
+      "generation": "Original narrow-body 2.0 turbo series",
+      "variant": "Starion — original Japan 2.0 turbo road coupe",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan May 1982 original narrow-body 2.0 turbo reference. Manufacturer history’s original dimensions and chassis description only; later 175/200-PS intercooler updates, 2.6-litre, widebody and 4WD rally prototype specifications are excluded. Photo explicitly shows an early US-market narrow-body Turbo and does not certify the Japanese engine. Racing results explain the family’s significance, not road-car competition specification.",
+      "summary": "The Starion established Mitsubishi’s distinctive turbocharged sports-coupe identity in the 1980s, with its wedge profile, independent rear suspension and a road family that also competed in endurance racing and rallying.",
+      "admission_reason": "The Starion established Mitsubishi’s distinctive turbocharged sports-coupe identity in the 1980s, with its wedge profile, independent rear suspension and a road family that also competed in endurance racing and rallying.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "Mitsubishi car history — Starion, May 1982",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mitsubishi-motors.com/en/company/history/car/",
+          "notes": "Japan May 1982 original narrow-body 2.0 turbo reference. Manufacturer history’s original dimensions and chassis description only; later 175/200-PS intercooler updates, 2.6-litre, widebody and 4WD rally prototype specifications are excluded. Photo explicitly shows an early US-market narrow-body Turbo and does not certify the Japanese engine. Racing results explain the family’s significance, not road-car competition specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Early Mitsubishi Starion Turbo.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Early_Mitsubishi_Starion_Turbo.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent strut rear suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.4",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1685",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1320",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Starion established Mitsubishi’s distinctive turbocharged sports-coupe identity in the 1980s, with its wedge profile, independent rear suspension and a road family that also competed in endurance racing and rallying.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_starion_1982_road.jpg",
+          "caption": "Mitsubishi Starion — original Japan 2.0 turbo road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph. This photo shows an early US-market narrow-body Turbo, representing the body series rather than the selected Japanese 2.0-litre engine.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "22052b7f244e1e1a1915facea6597e18a25a74fe25c43948118d619a18436ac8"
+        }
+      ]
+    },
+    {
+      "id": "MIT-FTO-DE3A-1994",
+      "manufacturer": "Mitsubishi",
+      "model_family": "FTO",
+      "generation": "Original 1994 MIVEC V6 coupe",
+      "variant": "FTO 2.0 MIVEC — original INVECS-II automatic reference",
+      "model_year_from": 1994,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan October 1994 original 2.0 MIVEC V6 automatic reference. Manufacturer history’s top V6 MIVEC / INVECS-II description and original coupe dimensions only. No unverified exact displacement, output or automatic ratio count is added. The non-MIVEC GR, 1.8 GS, later GP Version R and later five-speed automatic are excluded. Car of the Year is supporting context; the admission basis is its distinctive powertrain and sports-coupe engineering.",
+      "summary": "The FTO combined a compact MIVEC V6 sports-coupe package with Mitsubishi’s adaptive INVECS-II Sport Mode transmission, an early driver-selectable automatic implementation, and won Japan’s 1994–95 Car of the Year award.",
+      "admission_reason": "The FTO combined a compact MIVEC V6 sports-coupe package with Mitsubishi’s adaptive INVECS-II Sport Mode transmission, an early driver-selectable automatic implementation, and won Japan’s 1994–95 Car of the Year award.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "Mitsubishi car history — FTO, October 1994",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.mitsubishi-motors.com/en/company/history/car/",
+          "notes": "Japan October 1994 original 2.0 MIVEC V6 automatic reference. Manufacturer history’s top V6 MIVEC / INVECS-II description and original coupe dimensions only. No unverified exact displacement, output or automatic ratio count is added. The non-MIVEC GR, 1.8 GS, later GP Version R and later five-speed automatic are excluded. Car of the Year is supporting context; the admission basis is its distinctive powertrain and sports-coupe engineering."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1994 fto gpx mivec.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_fto_gpx_mivec.jpg",
+          "notes": "User:DeLarge; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "MIVEC variable valve timing and lift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "INVECS-II Sport Mode automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Shift control",
+          "value": "Adaptive learning with driver-selectable Sport Mode",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Dimensions",
+          "value": "4320 × 1735 × 1300",
+          "unit": "mm; length × width × height",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FTO combined a compact MIVEC V6 sports-coupe package with Mitsubishi’s adaptive INVECS-II Sport Mode transmission, an early driver-selectable automatic implementation, and won Japan’s 1994–95 Car of the Year award.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_fto_de3a_1994.jpg",
+          "caption": "Mitsubishi FTO 2.0 MIVEC — original INVECS-II automatic reference — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "User:DeLarge",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ea82b632e81a9ceb557c139c0271f0ec965b2a64d985d0e8c282ffb77dfd6916"
+        }
+      ]
+    },
+    {
+      "id": "HON-S800-1966-ROAD",
+      "manufacturer": "Honda",
+      "model_family": "S800",
+      "generation": "Original S800 live-axle roadster series",
+      "variant": "S800 — May 1966-on shaft-drive roadster",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "S800 open roadster in the May 1966-on shaft-drive/live-rear-axle form, not the earliest January chain-drive rear suspension, S600 coupe or later S800M-specific brake equipment. Honda’s model history explicitly dates the shaft-drive change to May 1966; Collection Hall’s technical record specifies the live axle. Undefined museum weight is omitted and historical output is not converted into modern net kW. Representative photo does not authenticate the build date or rear axle.",
+      "summary": "The S800 brought Honda’s small high-revving DOHC sports-car engineering to its first 100-mph production car, helping establish the marque’s international performance identity well before its later sports-car icons.",
+      "admission_reason": "The S800 brought Honda’s small high-revving DOHC sports-car engineering to its first 100-mph production car, helping establish the marque’s international performance identity well before its later sports-car icons.",
+      "sources": [
+        {
+          "publisher": "Honda Collection Hall",
+          "title": "Honda S800 — collection search, technical record",
+          "source_type": "Manufacturer museum technical record",
+          "url": "https://apps.mobilityland.co.jp/hch/search/products/286",
+          "notes": "S800 open roadster in the May 1966-on shaft-drive/live-rear-axle form, not the earliest January chain-drive rear suspension, S600 coupe or later S800M-specific brake equipment. Honda’s model history explicitly dates the shaft-drive change to May 1966; Collection Hall’s technical record specifies the live axle. Undefined museum weight is omitted and historical output is not converted into modern net kW. Representative photo does not authenticate the build date or rear axle."
+        },
+        {
+          "publisher": "Honda",
+          "title": "Sports Drive Web — S500, S600 and S800 model history",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.honda.co.jp/sportscar/sportscar/S500-600-800/",
+          "notes": "January 1966 S800 launch and first 100-mile-per-hour Honda; May 1966 shaft-drive change is distinguished from the original chain-drive model."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda S800 at JAI 2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_S800_at_JAI_2022.jpg",
+          "notes": "Prova MO; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Water-cooled four-stroke inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "791",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; fully synchronised forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone/torsion-bar front; live-axle/coil rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "70",
+          "unit": "PS; historical rating basis not restated",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S800 brought Honda’s small high-revving DOHC sports-car engineering to its first 100-mph production car, helping establish the marque’s international performance identity well before its later sports-car icons.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_s800_1966_road.jpg",
+          "caption": "Honda S800 — May 1966-on shaft-drive roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Prova MO",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e236edf267719a28d21aa578337b6557eac03a86aa86aa28d6a842b4477c7013"
+        }
+      ]
+    },
+    {
+      "id": "HON-CRX-EF8-SIR-1989",
+      "manufacturer": "Honda",
+      "model_family": "CR-X",
+      "generation": "Second-generation EF8 VTEC SiR",
+      "variant": "SiR — September 1989 Japan road specification",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Japan September 1989 second-generation CR-X SiR, not North American Si, European 150-PS 1.6i-VT, first-generation Ballade Sports or later del Sol. Original Honda launch release supports VTEC, nominal displacement, power and SiR equipment. Optional viscous LSD and ALB are not treated as standard. Exact displacement, transmission ratios and unstated rating convention are withheld; no unsupported kW conversion is added.",
+      "summary": "The CR-X SiR brought Honda’s early high-specific-output DOHC VTEC engine to its compact sporting hatchback, achieving the manufacturer’s advertised 100 horsepower per litre without forced induction.",
+      "admission_reason": "The CR-X SiR brought Honda’s early high-specific-output DOHC VTEC engine to its compact sporting hatchback, achieving the manufacturer’s advertised 100 horsepower per litre without forced induction.",
+      "sources": [
+        {
+          "publisher": "Honda Motor",
+          "title": "Honda introduces DOHC VTEC Civic and CR-X — September 21, 1989",
+          "source_type": "Original manufacturer release",
+          "url": "https://global.honda/jp/news/1989/4890921.html",
+          "notes": "Japan September 1989 second-generation CR-X SiR, not North American Si, European 150-PS 1.6i-VT, first-generation Ballade Sports or later del Sol. Original Honda launch release supports VTEC, nominal displacement, power and SiR equipment. Optional viscous LSD and ALB are not treated as standard. Exact displacement, transmission ratios and unstated rating convention are withheld; no unsupported kW conversion is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda CR-X SiR (E-EF8) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_CR-X_SiR_(E-EF8)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC with VTEC variable valve timing and lift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/60 R14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dedicated large-diameter ventilated front discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Dedicated rear spoiler with high-mounted brake light",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "160",
+          "unit": "horsepower; original Japanese release notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The CR-X SiR brought Honda’s early high-specific-output DOHC VTEC engine to its compact sporting hatchback, achieving the manufacturer’s advertised 100 horsepower per litre without forced induction.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_crx_ef8_sir_1989.jpg",
+          "caption": "Honda SiR — September 1989 Japan road specification — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "85d69615f170dcad456061e094618ab0a1ad6b5ef095b287d8ae0b10faf417e2"
+        }
+      ]
+    },
+    {
+      "id": "TOY-SUPRA-A70-1986",
+      "manufacturer": "Toyota",
+      "model_family": "Supra",
+      "generation": "A70 original 7M-GTEU Japan launch",
+      "variant": "3.0 GT Turbo — original Japan launch",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan February 1986 original 3.0 GT Turbo with 7M-GTEU. Original launch release explicitly rates 230 net PS at 5600 rpm, converted to 169.16 kW. No later 1JZ 2.5 twin-turbo, 2.0 1G twin-turbo, Turbo A or US horsepower is substituted. ABS remains optional, not standard. Transmission and exact rear-disc configuration are withheld. Photo shows a later-dated pre-facelift 3.0 Turbo and does not authenticate the 1986 Japan specification.",
+      "summary": "The A70 established Supra as a model independent of Celica, combining Toyota’s turbocharged six-cylinder flagship sports-car identity with a newly developed four-wheel double-wishbone chassis.",
+      "admission_reason": "The A70 established Supra as a model independent of Celica, combining Toyota’s turbocharged six-cylinder flagship sports-car identity with a newly developed four-wheel double-wishbone chassis.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Toyota introduces a new model — the Supra, February 6, 1986",
+          "source_type": "Original manufacturer launch release",
+          "url": "https://global.toyota/en/detail/7776580",
+          "notes": "Japan February 1986 original 3.0 GT Turbo with 7M-GTEU. Original launch release explicitly rates 230 net PS at 5600 rpm, converted to 169.16 kW. No later 1JZ 2.5 twin-turbo, 2.0 1G twin-turbo, Turbo A or US horsepower is substituted. ABS remains optional, not standard. Transmission and exact rear-disc configuration are withheld. Photo shows a later-dated pre-facelift 3.0 Turbo and does not authenticate the 1986 Japan specification."
+        },
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Toyota Supra: an icon a half-century in the making",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://pressroom.toyota.com/toyota-supra-icon-half-century-in-making/",
+          "notes": "Confirms that Supra and Celica separated in 1986 and explains the preceding Celica Supra heritage."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1988 Toyota A70 Supra MkIII 3.0 Turbo (30646890485).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1988_Toyota_A70_Supra_MkIII_3.0_Turbo_(30646890485).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1988 Toyota A70 Supra MkIII 3.0 Turbo"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-cam six-cylinder 7M-GTEU",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2954",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with air-cooled intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "169.16",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel double wishbones",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel discs; ventilated front discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft / valve description",
+          "value": "Twin-Cam 24",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The A70 established Supra as a model independent of Celica, combining Toyota’s turbocharged six-cylinder flagship sports-car identity with a newly developed four-wheel double-wishbone chassis.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_supra_a70_1986.jpg",
+          "caption": "Toyota 3.0 GT Turbo — original Japan launch — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d4ce24df64e0d8ca13dd77eb7a3002ac4ebc0538eedf82f255235395923a8ad9"
+        }
+      ]
+    },
+    {
+      "id": "TOY-SUPRA-A60-1981",
+      "manufacturer": "Toyota",
+      "model_family": "Supra",
+      "generation": "A60 / MA61 Celica XX",
+      "variant": "Celica XX 2800 GT — original Japan launch",
+      "model_year_from": 1981,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan July 1981 original MA61 Celica XX GT 2800, equivalent A60 Celica Supra lineage, not base 2.0, later 1G-GEU 24-valve, turbo or US Performance-package specification. Toyota’s representative GT_2800 column supplies engine and dimensions. The retrospective page labels output net generically despite this early Japanese rating: native 170 PS is retained with caution and not converted to modern net kW. Navicom and digital instruments are not assumed standard.",
+      "summary": "The second-generation Celica Supra / Celica XX established a distinctive retractable-headlamp six-cylinder sports-GT identity, developing the Supra lineage before its separation from the Celica range.",
+      "admission_reason": "The second-generation Celica Supra / Celica XX established a distinctive retractable-headlamp six-cylinder sports-GT identity, developing the Supra lineage before its separation from the Celica range.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "75 years of Toyota — Celica XX, July 2, 1981",
+          "source_type": "Manufacturer vehicle lineage and representative specification table",
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60010216/",
+          "notes": "Japan July 1981 original MA61 Celica XX GT 2800, equivalent A60 Celica Supra lineage, not base 2.0, later 1G-GEU 24-valve, turbo or US Performance-package specification. Toyota’s representative GT_2800 column supplies engine and dimensions. The retrospective page labels output net generically despite this early Japanese rating: native 170 PS is retained with caution and not converted to modern net kW. Navicom and digital instruments are not assumed standard."
+        },
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Toyota Supra: an icon a half-century in the making",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://pressroom.toyota.com/toyota-supra-icon-half-century-in-making/",
+          "notes": "Contemporary sporting reception and the second-generation Celica Supra’s lineage, without importing US engine or trim values."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Toyota-CelicaXX2800GT.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Toyota-CelicaXX2800GT.JPG",
+          "notes": "Ypy31; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "5M-GEU inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2759",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Dimensions",
+          "value": "4660 × 1685 × 1315",
+          "unit": "mm; length × width × height",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2615",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Headlamps",
+          "value": "Retractable",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Historical manufacturer power notation",
+          "value": "170 at 5600 rpm",
+          "unit": "PS; retrospective rating note requires caution",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Celica Supra / Celica XX established a distinctive retractable-headlamp six-cylinder sports-GT identity, developing the Supra lineage before its separation from the Celica range.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_supra_a60_1981.jpg",
+          "caption": "Toyota Celica XX 2800 GT — original Japan launch — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Ypy31",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "21ae46bf3de317d69bce9ba39755f3350bc90cd453f4da11a71207166266741f"
+        }
+      ]
+    },
+    {
+      "id": "SUB-IMPREZA-GDB-STI-2001",
+      "manufacturer": "Subaru",
+      "model_family": "Impreza",
+      "generation": "Second-generation GDB original round-headlamp STi",
+      "variant": "WRX STi — September 2001 Japan saloon",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Japan September 2001 GH-GDB WRX STi saloon, not standard WRX, wagon, Type RA, Prodrive Style, S202, later twin-scroll engine or export 2.5-litre. Subaru’s own historical catalogue supplies this grade’s 206 kW / 280 PS and 373 Nm, six-speed, AWD and chassis. DCCD, HID and rear spoiler are not assumed standard. Representative early GDB photo does not certify optional body equipment or market.",
+      "summary": "The GDB WRX STi carried Subaru’s rally-developed performance-saloon formula into a new generation, combining a turbocharged flat-four and full-time four-wheel drive with a new six-speed transmission and dedicated chassis development.",
+      "admission_reason": "The GDB WRX STi carried Subaru’s rally-developed performance-saloon formula into a new generation, combining a turbocharged flat-four and full-time four-wheel drive with a new six-speed transmission and dedicated chassis development.",
+      "sources": [
+        {
+          "publisher": "Subaru Corporation",
+          "title": "Historical catalogue — Impreza WRX STi, September 2001",
+          "source_type": "Manufacturer-hosted historical specification catalogue",
+          "url": "https://ucar.subaru.jp/php/catalog/grade.php?cat_id=4502486",
+          "notes": "Japan September 2001 GH-GDB WRX STi saloon, not standard WRX, wagon, Type RA, Prodrive Style, S202, later twin-scroll engine or export 2.5-litre. Subaru’s own historical catalogue supplies this grade’s 206 kW / 280 PS and 373 Nm, six-speed, AWD and chassis. DCCD, HID and rear spoiler are not assumed standard. Representative early GDB photo does not certify optional body equipment or market."
+        },
+        {
+          "publisher": "Subaru Corporation",
+          "title": "Subaru history — 2000 second-generation Impreza and STi",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://members-origin.subaru.jp/stamp/history/history_2000s_01.html",
+          "notes": "Manufacturer history explains the October 2000 STi introduction, new six-speed and inverted struts; it does not certify later competition or S-series specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2001 Subaru Impreza STi (42866).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2001_Subaru_Impreza_STi_(42866).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "EJ20 horizontally opposed four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EGI multi-point electronic injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "206",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "373",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent struts front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GDB WRX STi carried Subaru’s rally-developed performance-saloon formula into a new generation, combining a turbocharged flat-four and full-time four-wheel drive with a new six-speed transmission and dedicated chassis development.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_impreza_gdb_sti_2001.jpg",
+          "caption": "Subaru WRX STi — September 2001 Japan saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1cc3c445966ecb45c1540bdcf61f3841ef1fee593bb5658e976f5da5c87ea4d7"
+        }
+      ]
+    }
+  ]
+}
