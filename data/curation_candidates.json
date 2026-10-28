@@ -751,7 +751,106 @@
       "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Aurelia B20",
+      "generation": "Original first-series B20 GT",
+      "proposed_record": "LAN-AURELIA-B20-S1-ROAD",
+      "reason": "The Aurelia B20 helped establish the compact 2+2 grand-tourer formula, bringing Lancia’s pioneering production-V6 lineage into a coupe with an enduring international sporting history.",
+      "evidence": "https://www.media.stellantis.com/be-nl/heritage-hub-italy/press/de-afdeling-stellantis-heritage-schittert-op-het-salon-auto-e-moto-d-epoca-in-padua",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Thema",
+      "generation": "Original Type 834 8.32 saloon",
+      "proposed_record": "LAN-THEMA-832-ROAD",
+      "reason": "The Thema 8.32 put a Ferrari-developed 32-valve V8 into a discreet luxury saloon, creating a distinctive performance flagship with a retractable rear spoiler.",
+      "evidence": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/una-giornata-a-thema-all-heritage-hub",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "Dino",
+      "generation": "Type 135 BC 2400 coupe",
+      "proposed_record": "FIA-DINO-2400-COUPE",
+      "reason": "The Fiat Dino coupe brought Ferrari’s Dino V6 collaboration into a Bertone grand tourer; the original engine programme supplied the production volume needed for Formula 2 homologation.",
+      "evidence": "https://www.media.stellantis.com/uploads/fr/FR/2018/FCA/Communiques/180126_FCA_CP1_RETROMOBILE.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "124 Abarth",
+      "generation": "Type 124 CSA road homologation series",
+      "proposed_record": "FIA-124-ABARTH-ROAD",
+      "reason": "The 124 Abarth Rally was the lightweight road homologation foundation of Fiat’s developed rally programme, whose competition derivatives won the European title in 1975.",
+      "evidence": "https://www.stellantisheritage.com/en-uk/heritage/stories/fiat-124-abarth-rally",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "Spider",
+      "generation": "Original round-tail 1600 Spider",
+      "proposed_record": "ALF-SPIDER-DUETTO-1600",
+      "reason": "The original Pininfarina round-tail Spider became an enduring Italian sports-car and cultural icon, with its appearance in The Graduate taking the Duetto identity to an international audience.",
+      "evidence": "https://www.media.stellantis.com/em-en/alfa-romeo/press/alfa-romeo-s-roads-of-emotion-at-retromobile-2026",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "De Tomaso",
+      "model": "Pantera",
+      "generation": "Original narrow-body Cleveland-V8 series",
+      "proposed_record": "DET-PANTERA-ORIGINAL-ROAD",
+      "reason": "The Pantera made the combination of Italian mid-engined chassis design and Ford V8 power a lasting supercar identity, with distribution through Ford’s Lincoln-Mercury network.",
+      "evidence": "https://www.detomaso-automobili.com/legacy-models/pantera",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "De Tomaso",
+      "model": "Mangusta",
+      "generation": "Original Giugiaro/Ghia production series",
+      "proposed_record": "DET-MANGUSTA-ROAD",
+      "reason": "The Mangusta established De Tomaso’s Giugiaro-designed mid-engined V8 road-car identity, using a backbone chassis and distinctive centrally hinged twin engine covers.",
+      "evidence": "https://www.detomaso-automobili.com/legacy-models/mangusta",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Bizzarrini",
+      "model": "5300 GT",
+      "generation": "Original 5300 GT Strada",
+      "proposed_record": "BIZ-5300GT-STRADA-ROAD",
+      "reason": "The 5300 GT Strada carried Bizzarrini’s competition-led weight-distribution approach into a road grand tourer, setting a Chevrolet V8 far back in an Italian-built chassis.",
+      "evidence": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1968-bizzarrini-5300-gt-strada",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Iso",
+      "model": "Grifo",
+      "generation": "Original first-series Grifo GL",
+      "proposed_record": "ISO-GRIFO-GL-ROAD",
+      "reason": "The Grifo combined Bertone’s low two-seat grand-touring body with GM Corvette 327 power, becoming a defining expression of the Italian-American performance-GT formula.",
+      "evidence": "https://www.isoclub-deutschland.de/wp-content/uploads/2017/02/Werbeprospekt-Iso-Grifo.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-07.json"
     }
   ],
-  "catalogue_count_after_batches": 461
+  "catalogue_count_after_batches": 470
 }
