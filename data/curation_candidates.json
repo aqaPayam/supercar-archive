@@ -179,6 +179,83 @@
       "status": "Pending technical evidence",
       "remaining": "Read the June 1992 Ford brochure and resolve differing published road output descriptions before importing.",
       "located_brochure": "https://autocatalogarchive.com/wp-content/uploads/2020/10/Ford-Escort-RS-Cosworth-1992-UK-.pdf"
+    },
+    {
+      "manufacturer": "Shelby",
+      "model": "GT350",
+      "generation": "Original Mustang-based GT350",
+      "proposed_record": "SHE-GT350-1965-ROAD",
+      "reason": "The original GT350 established the Shelby Mustang performance line by transforming Ford’s fastback into a road car built around production sports-car racing requirements.",
+      "evidence": "https://www.audrainautomuseum.org/1965-shelby-gt350-qr",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Buick",
+      "model": "Regal",
+      "generation": "G-body Grand National Experimental",
+      "proposed_record": "BUI-GNX-1987-ROAD",
+      "reason": "The GNX made turbocharged Buick performance an enduring American icon, combining the Grand National platform with dedicated ASC and McLaren development rather than relying on a conventional muscle-car V8.",
+      "evidence": "https://news.gm.com/home.detail.html/Pages/topic/us/en/2025/feb/0217-buick.html",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "AMC",
+      "model": "AMX",
+      "generation": "Original two-seat AMX",
+      "proposed_record": "AMC-AMX-390-1970",
+      "reason": "The original two-seat AMX combined a shortened Javelin platform with American V8 muscle, creating a distinctive steel-bodied sports-car alternative to the Corvette.",
+      "evidence": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1970-amx-390-4-bbl",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "Firebird",
+      "generation": "Second-generation Trans Am Super Duty",
+      "proposed_record": "PON-TRANSAM-SD455-1974",
+      "reason": "The SD-455 Trans Am sustained serious American performance through the early emissions era, using a purpose-developed heavy-duty V8 when many contemporary muscle-car programmes were retreating.",
+      "evidence": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1974-pontiac-firebird-trans-am-super-duty",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Chevelle",
+      "generation": "Second-generation SS 454",
+      "proposed_record": "CHE-CHEVELLE-LS6-1970",
+      "reason": "The LS6 Chevelle represents the high-compression big-block peak of Chevrolet’s classic muscle cars, combining the 454 engine with a factory-rated 450 horsepower in an intermediate sport coupe.",
+      "evidence": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1970-Chevrolet-Chevelle.pdf",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "First-generation Z/28",
+      "proposed_record": "CHE-CAMARO-Z28-1969",
+      "reason": "The first-generation Z/28 made a small-displacement, high-compression V8 and four-speed transmission central to Camaro performance, establishing one of the defining American pony-car identities.",
+      "evidence": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1969-Chevrolet-Camaro.pdf",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Oldsmobile",
+      "model": "4-4-2",
+      "generation": "Second-generation W-30",
+      "proposed_record": "OLD-442-W30-1970",
+      "reason": "The W-30 embodied Oldsmobile’s developed cold-air muscle-car package, pairing the 455 V8 with an aluminium intake, functional fibreglass hood and dedicated chassis hardware.",
+      "evidence": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/oldsmobile/1970_Oldsmobile_442_Info_Kit.pdf",
+      "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-03.json"
     }
   ],
   "catalogue_count_after_batches": 410
