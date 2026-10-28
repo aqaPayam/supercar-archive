@@ -1,0 +1,1806 @@
+{
+  "batch": "icons-road-2026-10-29-14",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 14,
+  "cars": [
+    {
+      "id": "MER-C36-AMG-W202-1993",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "C-Class",
+      "generation": "W202 original C36 AMG",
+      "variant": "C36 AMG — original four-speed road saloon",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 1993 European C36 AMG, documented by the September 2018 manufacturer retrospective. Torque is 385 Nm at 4000–4750 rpm. The later five-speed transmission and C43 V8 are not imported. The photograph represents a W202 C36; exact year, market and powertrain originality are unverified.",
+      "summary": "The C36 AMG is a landmark in AMG history as the first jointly developed Mercedes-Benz and AMG production model. Its extensively reworked straight-six and chassis established the compact AMG sports-saloon lineage.",
+      "admission_reason": "The C36 AMG is a landmark in AMG history as the first jointly developed Mercedes-Benz and AMG production model. Its extensively reworked straight-six and chassis established the compact AMG sports-saloon lineage.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "C36 AMG — first joint Mercedes-Benz/AMG project, September 6, 2018",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://media.mercedes-benz.com/article/2e8d7324-b8be-4692-a9fb-7b47a43d3217",
+          "notes": "Original 1993 European C36 AMG, documented by the September 2018 manufacturer retrospective. Torque is 385 Nm at 4000–4750 rpm. The later five-speed transmission and C43 V8 are not imported. The photograph represents a W202 C36; exact year, market and powertrain originality are unverified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz AMG C36 (W202) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_AMG_C36_(W202)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M104 inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3606",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "206",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "385",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front brakes from SL 600 R129; rear brakes from E 420 W124",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C36 AMG is a landmark in AMG history as the first jointly developed Mercedes-Benz and AMG production model. Its extensively reworked straight-six and chassis established the compact AMG sports-saloon lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_c36_amg_w202_1993.jpg",
+          "caption": "Mercedes-Benz C36 AMG — original four-speed road saloon — W202 C36 AMG saloon; exact year and market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3a0129e5922a59faba235b23afd99cc414eac48da19f6b2b4c7502919d75b470"
+        }
+      ]
+    },
+    {
+      "id": "MER-C55-AMG-W203-2005",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "C-Class",
+      "generation": "W203 C55 AMG V8 saloon",
+      "variant": "C55 AMG — 2005 US specification",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "2005 Mercedes-Benz USA C-Class Sport brochure, PDF pages 3–4 technical columns and C55 model portrait. US net power 362 hp at 5750 rpm; net torque 376 lb-ft at 4000 rpm. The C230/C320 manual options do not apply to C55. European 367 PS, C32 supercharged V6, estate and later C63 specifications are excluded. Photo shows a representative W203 C55 saloon, without certification of US equipment.",
+      "summary": "The W203 C55 AMG brings the compact AMG saloon formula into a naturally aspirated V8 generation, combining a handcrafted engine, CLK-inspired front styling and dedicated AMG chassis and transmission engineering.",
+      "admission_reason": "The W203 C55 AMG brings the compact AMG saloon formula into a naturally aspirated V8 generation, combining a handcrafted engine, CLK-inspired front styling and dedicated AMG chassis and transmission engineering.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "2005 US C-Class Sport — C55 AMG specifications and model portrait",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Mercedes_Benz/C-Class/Mercedes%20Benz_US%20C-Class_Sport_2005.pdf",
+          "notes": "2005 Mercedes-Benz USA C-Class Sport brochure, PDF pages 3–4 technical columns and C55 model portrait. US net power 362 hp at 5750 rpm; net torque 376 lb-ft at 4000 rpm. The C230/C320 manual options do not apply to C55. European 367 PS, C32 supercharged V6, estate and later C63 specifications are excluded. Photo shows a representative W203 C55 saloon, without certification of US equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz C55 AMG W203 (10656074356).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C55_AMG_W203_(10656074356).jpg",
+          "notes": "nakhon100; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Mercedes-Benz C55 AMG W203"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5439",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG-enhanced five-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Phased twin-spark",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "362",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "376",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W203 C55 AMG brings the compact AMG saloon formula into a naturally aspirated V8 generation, combining a handcrafted engine, CLK-inspired front styling and dedicated AMG chassis and transmission engineering.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_c55_amg_w203_2005.jpg",
+          "caption": "Mercedes-Benz C55 AMG — 2005 US specification — W203 C55 AMG saloon; US-market specification is not certified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2750802266f42470e020f7d999fdb7d956f9bbf4b3ab88594ed4fb8fc4df5947"
+        }
+      ]
+    },
+    {
+      "id": "MER-C63-AMG-W204-2007",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "C-Class",
+      "generation": "W204 original naturally aspirated C63 AMG",
+      "variant": "C63 AMG — original international saloon launch",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original international English C63 AMG launch brochure: PDF page 10 clipboard dated July 30, 2007, saloon column. Although the hosting filename says US 2009, the document uses international 336-kW/457-hp and 600-Nm specifications, not US 451 hp. The saloon is selected once; estate, later facelift, optional packages and racing data are excluded. EU driver-inclusive mass is omitted. Photograph shows the pre-facelift W204 saloon.",
+      "summary": "The W204 C63 AMG is a defining compact V8 performance saloon, combining AMG’s large naturally aspirated engine with a dedicated front axle and three-stage stability control to create a distinctive driver-focused generation.",
+      "admission_reason": "The W204 C63 AMG is a defining compact V8 performance saloon, combining AMG’s large naturally aspirated engine with a dedicated front axle and three-stage stability control to create a distinctive driver-focused generation.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "The new C63 AMG — international English launch brochure; technical clipboard page 10",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Mercedes_Benz/C-Class/Mercedes%20Benz_US%20C-Class_AMG_2009.pdf",
+          "notes": "Original international English C63 AMG launch brochure: PDF page 10 clipboard dated July 30, 2007, saloon column. Although the hosting filename says US 2009, the document uses international 336-kW/457-hp and 600-Nm specifications, not US 451 hp. The saloon is selected once; estate, later facelift, optional packages and racing data are excluded. EU driver-inclusive mass is omitted. Photograph shows the pre-facelift W204 saloon."
+        },
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "40 years of the C-Class — W204 C63 technical development",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.mercedes-benz.com/article/ced8c5a0-ceee-4901-97d2-e5b1ed70fd7f?legal=3",
+          "notes": "Manufacturer C-Class history independently identifies the 2007 C63, 6.2-litre AMG V8, new front axle and three-stage ESP."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz C63 AMG Sedan (W204) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C63_AMG_Sedan_(W204)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6208",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "336",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "600",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG SPEEDSHIFT PLUS 7G-TRONIC automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W204 C63 AMG is a defining compact V8 performance saloon, combining AMG’s large naturally aspirated engine with a dedicated front axle and three-stage stability control to create a distinctive driver-focused generation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_c63_amg_w204_2007.jpg",
+          "caption": "Mercedes-Benz C63 AMG — original international saloon launch — Pre-facelift W204 C63 AMG saloon; exact market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1a9e43e7e8f94178cbef64123ad2ebcba3bffe81dc82885f8db1d857af21f423"
+        }
+      ]
+    },
+    {
+      "id": "MER-E55-AMG-W211-2005",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "E-Class",
+      "generation": "W211 supercharged E55 AMG",
+      "variant": "E55 AMG — 2005 US saloon",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "2005 Mercedes-Benz USA E-Class brochure, PDF pages 3–4 E55 AMG Sport Sedan column. US net power 469 hp at 6100 rpm and net torque 516 lb-ft at 2650–4500 rpm. This is the supercharged W211, not naturally aspirated W210 or later E63. Other E-Class 4MATIC and seven-speed options do not apply to this E55 column. Representative exterior photo does not certify build market.",
+      "summary": "The W211 E55 AMG is a defining supercharged performance saloon, combining a handcrafted intercooled V8 with rear drive and an AMG five-speed automatic. It represents a major engine and performance step in the E-Class AMG lineage.",
+      "admission_reason": "The W211 E55 AMG is a defining supercharged performance saloon, combining a handcrafted intercooled V8 with rear drive and an AMG five-speed automatic. It represents a major engine and performance step in the E-Class AMG lineage.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "2005 US E-Class — supercharged E55 AMG Sport Sedan technical tables",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://ragtop.org/mbbrochures/2005/eclass.pdf",
+          "notes": "2005 Mercedes-Benz USA E-Class brochure, PDF pages 3–4 E55 AMG Sport Sedan column. US net power 469 hp at 6100 rpm and net torque 516 lb-ft at 2650–4500 rpm. This is the supercharged W211, not naturally aspirated W210 or later E63. Other E-Class 4MATIC and seven-speed options do not apply to this E55 column. Representative exterior photo does not certify build market."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes E55 AMG W211 front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes_E55_AMG_W211_front.jpg",
+          "notes": "JanST; CC BY-SA 2.5. License: https://creativecommons.org/licenses/by-sa/2.5. Credit: Self-photographed"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5439",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Helical high-pressure supercharger with liquid-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG-enhanced five-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "469",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "516",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W211 E55 AMG is a defining supercharged performance saloon, combining a handcrafted intercooled V8 with rear drive and an AMG five-speed automatic. It represents a major engine and performance step in the E-Class AMG lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_e55_amg_w211_2005.jpg",
+          "caption": "Mercedes-Benz E55 AMG — 2005 US saloon — W211 E55 AMG saloon; exact year and market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "JanST",
+          "license": "CC BY-SA 2.5",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9b8b80e4e620ef2ba8ec6989fa9f18e0c8a50a2f4448d887b40c827630cbd2d3"
+        }
+      ]
+    },
+    {
+      "id": "MER-E63S-AMG-W212-2014",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "E-Class",
+      "generation": "W212 facelift E63 S AMG 4MATIC",
+      "variant": "E63 AMG S-Model 4MATIC — 2014 US saloon",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "2014 Mercedes-Benz USA E-Class brochure PDF page 28, E63 AMG S-Model 4MATIC column. Power 577 hp at 5500 rpm, torque 590 lb-ft at 2000–4500 rpm. The regular 550-hp E63, wagon, optional carbon-ceramic brakes and later W213 4MATIC+ are excluded. Photo represents the Japanese-market W212 S saloon, not authenticated US equipment.",
+      "summary": "The W212 E63 S represents AMG’s transition to a twin-turbo, all-wheel-drive E-Class performance flagship, pairing its V8 with a multi-clutch transmission and a standard limited-slip differential in a practical road saloon.",
+      "admission_reason": "The W212 E63 S represents AMG’s transition to a twin-turbo, all-wheel-drive E-Class performance flagship, pairing its V8 with a multi-clutch transmission and a standard limited-slip differential in a practical road saloon.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "2014 US E-Class — E63 AMG S-Model 4MATIC specifications and standard equipment",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Mercedes_Benz/E-Class/Mercedes%20Benz_US%20E-Class_2014.pdf",
+          "notes": "2014 Mercedes-Benz USA E-Class brochure PDF page 28, E63 AMG S-Model 4MATIC column. Power 577 hp at 5500 rpm, torque 590 lb-ft at 2000–4500 rpm. The regular 550-hp E63, wagon, optional carbon-ceramic brakes and later W213 4MATIC+ are excluded. Photo represents the Japanese-market W212 S saloon, not authenticated US equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz E63 AMG S (W212) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E63_AMG_S_(W212)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed AMG SPEEDSHIFT MCT",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All — AMG-developed 4MATIC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "AMG Adaptive Sport Suspension; AMG-calibrated rear air suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "AMG limited-slip differential, standard S-Model",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "577",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "590",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W212 E63 S represents AMG’s transition to a twin-turbo, all-wheel-drive E-Class performance flagship, pairing its V8 with a multi-clutch transmission and a standard limited-slip differential in a practical road saloon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_e63s_amg_w212_2014.jpg",
+          "caption": "Mercedes-Benz E63 AMG S-Model 4MATIC — 2014 US saloon — W212 E63 AMG S saloon photographed in Japan; US equipment is not certified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "025407f4c87992a267f285535cc8529cc9c55b451d489fe03de355577a646c91"
+        }
+      ]
+    },
+    {
+      "id": "MER-E63S-AMG-W213-2018",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "E-Class",
+      "generation": "W213 original E63 S 4MATIC+",
+      "variant": "E63 S — 2018 US launch saloon",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Mercedes-Benz USA October 25, 2016 release explicitly names the new 2018 E63 S Sedan, introduced to US customers in 2017. Torque 627 lb-ft at 2500–4500 rpm. Standard Drift Mode and cylinder deactivation belong to this launch reference; Edition 1 cosmetics and optional ceramic brakes are excluded. Photo represents the pre-facelift W213 S, without certification of model year or market.",
+      "summary": "The W213 E63 S is an engineering landmark in the AMG saloon lineage: its fully variable 4MATIC+ drivetrain combines permanent rear-axle drive with a controlled front coupling and a rear-drive Drift Mode, supported by a wet-clutch nine-speed transmission.",
+      "admission_reason": "The W213 E63 S is an engineering landmark in the AMG saloon lineage: its fully variable 4MATIC+ drivetrain combines permanent rear-axle drive with a controlled front coupling and a rear-drive Drift Mode, supported by a wet-clutch nine-speed transmission.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "The new 2018 Mercedes-AMG E63 S Sedan — October 25, 2016 launch specifications",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://media.mbusa.com/news/the-new-mercedes-amg-e63-and-e63-s-sedan",
+          "notes": "Mercedes-Benz USA October 25, 2016 release explicitly names the new 2018 E63 S Sedan, introduced to US customers in 2017. Torque 627 lb-ft at 2500–4500 rpm. Standard Drift Mode and cylinder deactivation belong to this launch reference; Edition 1 cosmetics and optional ceramic brakes are excluded. Photo represents the pre-facelift W213 S, without certification of model year or market."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-AMG E63 S 4MATIC+ (W213).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_E63_S_4MATIC%2B_(W213).jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3982",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5750–6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two twin-scroll turbochargers in the cylinder V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Spray-guided direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG SPEEDSHIFT MCT nine-speed with wet start-off clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All — fully variable AMG Performance 4MATIC+",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Electronically controlled rear limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "603",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "627",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W213 E63 S is an engineering landmark in the AMG saloon lineage: its fully variable 4MATIC+ drivetrain combines permanent rear-axle drive with a controlled front coupling and a rear-drive Drift Mode, supported by a wet-clutch nine-speed transmission.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_e63s_amg_w213_2018.jpg",
+          "caption": "Mercedes-Benz E63 S — 2018 US launch saloon — Pre-facelift W213 E63 S; exact build year and market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "173b6efb3b5be03e3f1c01228f7d5092e2a6df522283d8c671082064eb91b573"
+        }
+      ]
+    },
+    {
+      "id": "MER-SL65-BLACK-R230-2008",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SL",
+      "generation": "R230 SL65 AMG Black Series fixed-roof coupe",
+      "variant": "SL65 AMG Black Series — original international road coupe",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2008-introduced Black Series, represented by the international English brochure hosted in the 2009 collection. PDF pages 3–4, 8 and 12; 1000 Nm is electronically limited, available at 2200–4200 rpm. Brochure driver/luggage-inclusive EU mass is omitted. This is a fixed-roof coupe, not the folding-roof regular SL65 or a race car. Photo identifies a 2009 road Black Series; exact market and originality are unverified.",
+      "summary": "The SL65 AMG Black Series transforms the R230 SL into an exceptional road supercar through a fixed carbon-fibre roof, extensive lightweight body panels, a wider chassis stance and a highly developed twin-turbo V12. Its construction makes it substantially more than an appearance edition.",
+      "admission_reason": "The SL65 AMG Black Series transforms the R230 SL into an exceptional road supercar through a fixed carbon-fibre roof, extensive lightweight body panels, a wider chassis stance and a highly developed twin-turbo V12. Its construction makes it substantially more than an appearance edition.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "SL65 AMG Black Series — international English brochure, body construction and technical data",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://ragtop.org/mbbrochures/2009/amg/sl65amg_blackseries.pdf",
+          "notes": "Original 2008-introduced Black Series, represented by the international English brochure hosted in the 2009 collection. PDF pages 3–4, 8 and 12; 1000 Nm is electronically limited, available at 2200–4200 rpm. Brochure driver/luggage-inclusive EU mass is omitted. This is a fixed-roof coupe, not the folding-roof regular SL65 or a race car. Photo identifies a 2009 road Black Series; exact market and originality are unverified."
+        },
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "Sport, luxury, lifestyle: the Mercedes-Benz SL — R230 Black Series history",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.mbusa.com/news/sport-luxury-lifestyle-the-mercedes-benz-sl",
+          "notes": "Manufacturer SL history dates the fixed-roof R230 SL65 AMG Black Series to 2008."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Mercedes-Benz SL65 AMG Black Series LC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Mercedes-Benz_SL65_AMG_Black_Series_LC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5980",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "493",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1000",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG SPEEDSHIFT PLUS five-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Rigid carbon-fibre coupe roof; folding vario-roof mechanism removed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Extensive carbon fibre, including bonnet, front wings and boot lid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Front 265/35 ZR19; rear 325/30 ZR20",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SL65 AMG Black Series transforms the R230 SL into an exceptional road supercar through a fixed carbon-fibre roof, extensive lightweight body panels, a wider chassis stance and a highly developed twin-turbo V12. Its construction makes it substantially more than an appearance edition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_sl65_black_r230_2008.jpg",
+          "caption": "Mercedes-Benz SL65 AMG Black Series — original international road coupe — Identified as a 2009 SL65 AMG Black Series road coupe at London Concours 2024. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "89e8b9f672f4fd12bb89413c90b1a4018020e08c5ab7f432b0e31e828fb39567"
+        }
+      ]
+    },
+    {
+      "id": "MER-SLK55-AMG-R171-2005",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SLK",
+      "generation": "R171 original SLK55 AMG V8",
+      "variant": "SLK55 AMG — 2005 US roadster",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat roadster",
+      "road_legal": 1,
+      "specification_market": "2005 Mercedes-Benz USA SLK-Class brochure PDF pages 3–4 and SLK55 engine/roof descriptions. Net output 355 hp at 5750 rpm; torque 376 lb-ft at 3500 rpm. Manual transmission is unavailable on this AMG column. C55 362-hp figures, R170 SLK32, Black Series and later R172 engines are excluded. Photograph is a 2004 European event display of the original R171 SLK55, not certification of US equipment.",
+      "summary": "The R171 SLK55 AMG is a distinctive compact performance roadster that combines a handcrafted naturally aspirated V8 with a folding steel hardtop and an AMG seven-speed automatic, giving the SLK lineage an unusually muscular engineering identity.",
+      "admission_reason": "The R171 SLK55 AMG is a distinctive compact performance roadster that combines a handcrafted naturally aspirated V8 with a folding steel hardtop and an AMG seven-speed automatic, giving the SLK lineage an unusually muscular engineering identity.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "2005 US SLK-Class — original SLK55 AMG technical tables and folding-hardtop design",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://ragtop.org/mbbrochures/2005/slkclass.pdf",
+          "notes": "2005 Mercedes-Benz USA SLK-Class brochure PDF pages 3–4 and SLK55 engine/roof descriptions. Net output 355 hp at 5750 rpm; torque 376 lb-ft at 3500 rpm. Manual transmission is unavailable on this AMG column. C55 362-hp figures, R170 SLK32, Black Series and later R172 engines are excluded. Photograph is a 2004 European event display of the original R171 SLK55, not certification of US equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes SLK55 R171.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes_SLK55_R171.jpg",
+          "notes": "AngMo; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5439",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG-enhanced seven-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Electrically folding steel hardtop",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "355",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "376",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R171 SLK55 AMG is a distinctive compact performance roadster that combines a handcrafted naturally aspirated V8 with a folding steel hardtop and an AMG seven-speed automatic, giving the SLK lineage an unusually muscular engineering identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_slk55_amg_r171_2005.jpg",
+          "caption": "Mercedes-Benz SLK55 AMG — 2005 US roadster — Original R171 SLK55 AMG at the 2004 Stars and Cars event; this does not certify US equipment. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "AngMo",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "173e42f1425395b30a6d3e57f8f87054e4057d1a04dcee5035e630dabc4b8c17"
+        }
+      ]
+    },
+    {
+      "id": "AST-DB7-VANTAGE-1999",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB7",
+      "generation": "Original V12 DB7 Vantage",
+      "variant": "Vantage coupe — original six-speed manual",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1999 DB7 Vantage fixed-roof coupe reference from Aston Martin’s past-model archive. Torque 400 lb-ft at 5000 rpm. Optional five-speed automatic/Touchtronic, Volante, later 435-bhp manual GT, GTA and Jubilee cosmetics are excluded. Undefined archive mass is not imported. Photo identifies a 2001 Vantage coupe of the same body series; transmission and exact market are unverified.",
+      "summary": "The DB7 Vantage established a major modern Aston Martin V12 grand-touring lineage. Its extensively developed V12 and revised Ian Callum styling helped the Vantage achieve a production record for the marque, giving it significance beyond a normal engine option.",
+      "admission_reason": "The DB7 Vantage established a major modern Aston Martin V12 grand-touring lineage. Its extensively developed V12 and revised Ian Callum styling helped the Vantage achieve a production record for the marque, giving it significance beyond a normal engine option.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "DB7 Vantage — original V12 road specification",
+          "source_type": "Manufacturer past-model technical archive",
+          "url": "https://www.astonmartin.com/en/models/past-models/db7-vantage",
+          "notes": "Original 1999 DB7 Vantage fixed-roof coupe reference from Aston Martin’s past-model archive. Torque 400 lb-ft at 5000 rpm. Optional five-speed automatic/Touchtronic, Volante, later 435-bhp manual GT, GTA and Jubilee cosmetics are excluded. Undefined archive mass is not imported. Photo identifies a 2001 Vantage coupe of the same body series; transmission and exact market are unverified."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "DB7 V12 Vantage — Cosworth engine development, Ian Callum design and production milestone",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.astonmartin.com/db7-v12-vantage/?lang=eng",
+          "notes": "Manufacturer historic-model account documents the 1999 V12 development and more than 4000 Vantages, a then record for Aston Martin."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2001 Aston Martin DB7 Vantage Coupe.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2001_Aston_Martin_DB7_Vantage_Coupe.jpg",
+          "notes": "Kfp1921 at English Wikipedia; Public domain. License: . Credit: Transferred from en.wikipedia to Commons."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5935",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Coil springs, monotube dampers and anti-roll bars front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "420",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "400",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB7 Vantage established a major modern Aston Martin V12 grand-touring lineage. Its extensively developed V12 and revised Ian Callum styling helped the Vantage achieve a production record for the marque, giving it significance beyond a normal engine option.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_db7_vantage_1999.jpg",
+          "caption": "Aston Martin Vantage coupe — original six-speed manual — Identified as a 2001 DB7 Vantage coupe, representing the original V12 body series; transmission unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Kfp1921 at English Wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3a7166664f210b3eed1a52d7cc76b2068269319c6e445fbf085fe5d08f9a2cec"
+        }
+      ]
+    },
+    {
+      "id": "AST-VANQUISH-V12-2001",
+      "manufacturer": "Aston Martin",
+      "model_family": "Vanquish",
+      "generation": "Original Newport Pagnell V12 Vanquish",
+      "variant": "V12 Vanquish — original ASM/SSM coupe",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original production Vanquish introduced 2001, manufacturer historical technical archive. Torque 400 lb-ft at 5000 rpm. ASM/SSM is an electro-hydraulically controlled manual gearbox, not a conventional driver-clutch manual. Later original-generation Vanquish S 520 bhp, second-generation 2012/2017 models and fictional film gadgets are excluded. Undefined mass is omitted. Photo identifies a 2002 original V12 coupe.",
+      "summary": "The original V12 Vanquish is a landmark Aston Martin GT: its bonded aluminium and carbon-fibre structure advanced the marque’s engineering, while hand-finished superformed panels and its Die Another Day appearance established a lasting cultural identity.",
+      "admission_reason": "The original V12 Vanquish is a landmark Aston Martin GT: its bonded aluminium and carbon-fibre structure advanced the marque’s engineering, while hand-finished superformed panels and its Die Another Day appearance established a lasting cultural identity.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Vanquish and Vanquish S — original 2001 V12 technical specification and bonded-body development",
+          "source_type": "Manufacturer past-model technical archive",
+          "url": "https://www.astonmartin.com/en-us/models/past-models/vanquish-vanquish-s",
+          "notes": "Original production Vanquish introduced 2001, manufacturer historical technical archive. Torque 400 lb-ft at 5000 rpm. ASM/SSM is an electro-hydraulically controlled manual gearbox, not a conventional driver-clutch manual. Later original-generation Vanquish S 520 bhp, second-generation 2012/2017 models and fictional film gadgets are excluded. Undefined mass is omitted. Photo identifies a 2002 original V12 coupe."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2002 Aston Martin V12 Vanquish, AM RAcing Green, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2002_Aston_Martin_V12_Vanquish,_AM_RAcing_Green,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5935",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed automated manual with ASM/SSM electro-hydraulic paddle control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bonded extruded-aluminium and carbon-fibre body tub",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Hand-finished superformed aluminium panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "460",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "400",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original V12 Vanquish is a landmark Aston Martin GT: its bonded aluminium and carbon-fibre structure advanced the marque’s engineering, while hand-finished superformed panels and its Die Another Day appearance established a lasting cultural identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_vanquish_v12_2001.jpg",
+          "caption": "Aston Martin V12 Vanquish — original ASM/SSM coupe — Identified as a 2002 original V12 Vanquish coupe, rather than the later S or second generation. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4b7ecf8403cad9273d2c6907a22712546253b56b09c068ec935d0db8d42d5735"
+        }
+      ]
+    },
+    {
+      "id": "AST-DBS-V12-2007",
+      "manufacturer": "Aston Martin",
+      "model_family": "DBS",
+      "generation": "Original modern 2007 V12 DBS",
+      "variant": "V12 DBS coupe — standard six-speed manual",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "2007 production DBS coupe with standard manual transmission. Manufacturer past-model page supplies hardware; separate historic-model account supplies 510 bhp / 517 PS. Volante, later Touchtronic option, 2018 Superleggera and 770 Ultimate are excluded. Film appearances support cultural relevance, not stunt-car specifications. Photo identifies a 2008 DBS coupe with accessory wheels; original transmission/market are unverified.",
+      "summary": "The 2007 V12 DBS combines Aston Martin’s modern grand-tourer design with standard carbon-ceramic brakes and adaptive suspension, and gained lasting cultural recognition through Casino Royale and Quantum of Solace. It is the original modern DBS generation preceding the later Superleggera.",
+      "admission_reason": "The 2007 V12 DBS combines Aston Martin’s modern grand-tourer design with standard carbon-ceramic brakes and adaptive suspension, and gained lasting cultural recognition through Casino Royale and Quantum of Solace. It is the original modern DBS generation preceding the later Superleggera.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "DBS and DBS Volante — 2007 production coupe technical specification and film history",
+          "source_type": "Manufacturer past-model technical archive",
+          "url": "https://www.astonmartin.com/en-us/models/past-models/dbs-dbs-volante",
+          "notes": "2007 production DBS coupe with standard manual transmission. Manufacturer past-model page supplies hardware; separate historic-model account supplies 510 bhp / 517 PS. Volante, later Touchtronic option, 2018 Superleggera and 770 Ultimate are excluded. Film appearances support cultural relevance, not stunt-car specifications. Photo identifies a 2008 DBS coupe with accessory wheels; original transmission/market are unverified."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "DBS — historic-model account, 510-bhp V12",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.astonmartin.com/dbs2/?lang=eng",
+          "notes": "Manufacturer account of the 2007–2012 DBS, explicitly 510 bhp (517 PS)."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2008 Aston Martin DBS Coupe HCC22.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2008_Aston_Martin_DBS_Coupe_HCC22.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5935",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Quad overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Rear-mid-mounted six-speed manual, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Carbon-ceramic ventilated discs: front 398 mm / six-piston; rear 360 mm / four-piston",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double wishbones with coil springs, anti-roll bars and monotube adaptive dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "510",
+          "unit": "bhp",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 2007 V12 DBS combines Aston Martin’s modern grand-tourer design with standard carbon-ceramic brakes and adaptive suspension, and gained lasting cultural recognition through Casino Royale and Quantum of Solace. It is the original modern DBS generation preceding the later Superleggera.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_dbs_v12_2007.jpg",
+          "caption": "Aston Martin V12 DBS coupe — standard six-speed manual — Identified as a 2008 DBS coupe with accessory wheels; original transmission and exact market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "821d7f8589d7557676c481433862adab3124f3f7ee2f6b72463f832e5ed0dc75"
+        }
+      ]
+    },
+    {
+      "id": "JAG-XKR-X100-1998",
+      "manufacturer": "Jaguar",
+      "model_family": "XK",
+      "generation": "X100 original 4.0-litre supercharged XKR",
+      "variant": "XKR coupe — May 1998 UK/European launch",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Jaguar May 6, 1998 UK/continental-European XKR launch press pack, scanned PDF pages 2–5, 7 and 9, visually inspected. Native DIN 276 kW at 6150 rpm and 525 Nm at 3600 rpm are kept explicitly distinct from the table’s lower EEC 267-kW/505-Nm figures. Later 4.2-litre, XKR-S, convertible and XK180 concept data are excluded. Representative photo is identified as a 1999 4.0 XKR coupe; its caption’s output claim is not a technical source.",
+      "summary": "The original XKR establishes the supercharged branch of Jaguar’s modern V8 grand-tourer lineage. Its intercooled AJ-V8, standard adaptive damping and dedicated chassis calibration developed the successful XK8 into a distinctive performance flagship.",
+      "admission_reason": "The original XKR establishes the supercharged branch of Jaguar’s modern V8 grand-tourer lineage. Its intercooled AJ-V8, standard adaptive damping and dedicated chassis calibration developed the successful XK8 into a distinctive performance flagship.",
+      "sources": [
+        {
+          "publisher": "Jaguar",
+          "title": "Jaguar’s supercharged XKR sports car now on sale — May 6, 1998 launch press pack",
+          "source_type": "Period manufacturer launch press kit, club-hosted facsimile",
+          "url": "https://jaguarclubrussia.com/images/katalog/1990/JaguarXK8X100/docJaguarXK8X100/1998-XKR-Launch-Press-pack-from-May-1998.PDF",
+          "notes": "Original Jaguar May 6, 1998 UK/continental-European XKR launch press pack, scanned PDF pages 2–5, 7 and 9, visually inspected. Native DIN 276 kW at 6150 rpm and 525 Nm at 3600 rpm are kept explicitly distinct from the table’s lower EEC 267-kW/505-Nm figures. Later 4.2-litre, XKR-S, convertible and XK180 concept data are excluded. Representative photo is identified as a 1999 4.0 XKR coupe; its caption’s output claim is not a technical source."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jaguar XKR (40338053811).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jaguar_XKR_(40338053811).jpg",
+          "notes": "Guillaume Vachey from Chalon sur Saone, France; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Jaguar XKR"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree AJ-V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6150",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Quad camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Electronically controlled five-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Eaton M112 supercharger with twin air-to-liquid intercoolers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front unequal-length wishbones and rear double wishbones; standard two-stage adaptive CATS damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power — DIN",
+          "value": "276",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque — DIN",
+          "value": "525",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original XKR establishes the supercharged branch of Jaguar’s modern V8 grand-tourer lineage. Its intercooled AJ-V8, standard adaptive damping and dedicated chassis calibration developed the successful XK8 into a distinctive performance flagship.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xkr_x100_1998.jpg",
+          "caption": "Jaguar XKR coupe — May 1998 UK/European launch — Identified as a 1999 4.0 XKR coupe. The photographer’s horsepower description is not used as technical evidence. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Guillaume Vachey from Chalon sur Saone, France",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bc2f0d0066b4a7ed9a6c4f528d1d077694934febf16a1d5cd560a865cb6bfaf4"
+        }
+      ]
+    },
+    {
+      "id": "JAG-XKR-X150-2012",
+      "manufacturer": "Jaguar",
+      "model_family": "XK",
+      "generation": "X150 aluminium-bodied 5.0-litre XKR",
+      "variant": "XKR coupe — 2012 US 510-hp specification",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "2012 Jaguar USA XK brochure PDF pages 11, 14, 17, 19 and 69; 510-hp XKR coupe column. Torque 461 lb-ft at 2500–5500 rpm. The 385-hp XK, 550-hp XKR-S, convertible and optional Dynamic/Speed or appearance packages are excluded. No undefined weight is imported. Photo shows the facelift X150 XKR at the 2012 Chongqing show; it does not certify US market equipment.",
+      "summary": "The X150 XKR advances Jaguar’s supercharged GT formula through an aluminium monocoque and the quad-cam AJ-V8 Gen III engine. It represents the structurally distinct successor to the steel-bodied X100, with adaptive chassis control and a six-speed automatic.",
+      "admission_reason": "The X150 XKR advances Jaguar’s supercharged GT formula through an aluminium monocoque and the quad-cam AJ-V8 Gen III engine. It represents the structurally distinct successor to the steel-bodied X100, with adaptive chassis control and a six-speed automatic.",
+      "sources": [
+        {
+          "publisher": "Jaguar",
+          "title": "2012 US XK — 510-hp XKR coupe, aluminium structure and technical specifications",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Jaguar/XK/Jaguar_US%20XK_2012.pdf",
+          "notes": "2012 Jaguar USA XK brochure PDF pages 11, 14, 17, 19 and 69; 510-hp XKR coupe column. Torque 461 lb-ft at 2500–5500 rpm. The 385-hp XK, 550-hp XKR-S, convertible and optional Dynamic/Speed or appearance packages are excluded. No undefined weight is imported. Photo shows the facelift X150 XKR at the 2012 Chongqing show; it does not certify US market equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jaguar XKR X150 facelift -- Auto Chongqing -- 2012-06-07.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jaguar_XKR_X150_facelift_--_Auto_Chongqing_--_2012-06-07.jpg",
+          "notes": "Navigator84; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "AJ-V8 Gen III R V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5000",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000–6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Quad camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF 6HP28 six-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "510",
+          "unit": "SAE hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "461",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The X150 XKR advances Jaguar’s supercharged GT formula through an aluminium monocoque and the quad-cam AJ-V8 Gen III engine. It represents the structurally distinct successor to the steel-bodied X100, with adaptive chassis control and a six-speed automatic.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xkr_x150_2012.jpg",
+          "caption": "Jaguar XKR coupe — 2012 US 510-hp specification — Facelift X150 XKR at the 2012 Chongqing Auto Show; US-market equipment is not certified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Navigator84",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5efa93c0635177b7564307faf7c524c82476098936b2ad9e55b68887d6cfd286"
+        }
+      ]
+    },
+    {
+      "id": "JAG-FTYPE-R-2015",
+      "manufacturer": "Jaguar",
+      "model_family": "F-Type",
+      "generation": "Original F-Type R V8 coupe launch",
+      "variant": "R coupe — 2015 US launch specification",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Jaguar US November 20, 2013 announcement explicitly lists 2015 model pricing and spring 2014 introduction. Original R coupe, rear drive, 550 hp; later AWD, SVR and convertible figures are excluded. Optional post-introduction carbon-ceramic brakes are not standard. The 2013 World Car Design award described by the release belongs to the convertible and is not claimed for this R coupe. Photo identifies a 2015 R coupe; exact market and engine originality are unverified.",
+      "summary": "The original F-Type R is a defining modern Jaguar sports coupe, bringing the C-X16 concept’s Ian Callum design into production with a bonded and riveted aluminium structure, supercharged V8, active rear differential and brake-based torque vectoring.",
+      "admission_reason": "The original F-Type R is a defining modern Jaguar sports coupe, bringing the C-X16 concept’s Ian Callum design into production with a bonded and riveted aluminium structure, supercharged V8, active rear differential and brake-based torque vectoring.",
+      "sources": [
+        {
+          "publisher": "Jaguar",
+          "title": "Jaguar F-Type Coupe joins Jaguar lineup — original US MY2015 R launch, November 20, 2013",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://media.jlr.com/jaguar/en-us/news/2013/11/jaguar-f-type-coupe-joins-jaguar-lineup",
+          "notes": "Jaguar US November 20, 2013 announcement explicitly lists 2015 model pricing and spring 2014 introduction. Original R coupe, rear drive, 550 hp; later AWD, SVR and convertible figures are excluded. Optional post-introduction carbon-ceramic brakes are not standard. The 2013 World Car Design award described by the release belongs to the convertible and is not claimed for this R coupe. Photo identifies a 2015 R coupe; exact market and engine originality are unverified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Jaguar F-Type R Auto.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Jaguar_F-Type_R_Auto.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5000",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Roots-type twin-vortex supercharger with two air-to-liquid intercoolers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Spray-guided direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF eight-speed Quickshift automatic with paddle control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bonded and riveted aluminium platform",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Second-generation Electronic Active Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Adaptive Dynamics variable damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Standard Super Performance discs: front 380 mm, rear 376 mm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer US power notation",
+          "value": "550",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original F-Type R is a defining modern Jaguar sports coupe, bringing the C-X16 concept’s Ian Callum design into production with a bonded and riveted aluminium structure, supercharged V8, active rear differential and brake-based torque vectoring.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_ftype_r_2015.jpg",
+          "caption": "Jaguar R coupe — 2015 US launch specification — Identified as a 2015 F-Type R coupe; exact market unverified. Factory engine originality and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ef6d4d33aca44d88d5bc0362653214a000932758dd8c745ed239f2fc9ef9377c"
+        }
+      ]
+    }
+  ]
+}

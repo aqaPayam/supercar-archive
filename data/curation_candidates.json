@@ -1565,7 +1565,161 @@
       "duplicate_review": "Absent model/generation checked against the complete 518-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-13.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "C-Class",
+      "generation": "W202 original C36 AMG",
+      "proposed_record": "MER-C36-AMG-W202-1993",
+      "reason": "The C36 AMG is a landmark in AMG history as the first jointly developed Mercedes-Benz and AMG production model. Its extensively reworked straight-six and chassis established the compact AMG sports-saloon lineage.",
+      "evidence": "https://media.mercedes-benz.com/article/2e8d7324-b8be-4692-a9fb-7b47a43d3217",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "C-Class",
+      "generation": "W203 C55 AMG V8 saloon",
+      "proposed_record": "MER-C55-AMG-W203-2005",
+      "reason": "The W203 C55 AMG brings the compact AMG saloon formula into a naturally aspirated V8 generation, combining a handcrafted engine, CLK-inspired front styling and dedicated AMG chassis and transmission engineering.",
+      "evidence": "https://www.auto-brochures.com/makes/Mercedes_Benz/C-Class/Mercedes%20Benz_US%20C-Class_Sport_2005.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "C-Class",
+      "generation": "W204 original naturally aspirated C63 AMG",
+      "proposed_record": "MER-C63-AMG-W204-2007",
+      "reason": "The W204 C63 AMG is a defining compact V8 performance saloon, combining AMG’s large naturally aspirated engine with a dedicated front axle and three-stage stability control to create a distinctive driver-focused generation.",
+      "evidence": "https://media.mercedes-benz.com/article/ced8c5a0-ceee-4901-97d2-e5b1ed70fd7f?legal=3",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "E-Class",
+      "generation": "W211 supercharged E55 AMG",
+      "proposed_record": "MER-E55-AMG-W211-2005",
+      "reason": "The W211 E55 AMG is a defining supercharged performance saloon, combining a handcrafted intercooled V8 with rear drive and an AMG five-speed automatic. It represents a major engine and performance step in the E-Class AMG lineage.",
+      "evidence": "https://ragtop.org/mbbrochures/2005/eclass.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "E-Class",
+      "generation": "W212 facelift E63 S AMG 4MATIC",
+      "proposed_record": "MER-E63S-AMG-W212-2014",
+      "reason": "The W212 E63 S represents AMG’s transition to a twin-turbo, all-wheel-drive E-Class performance flagship, pairing its V8 with a multi-clutch transmission and a standard limited-slip differential in a practical road saloon.",
+      "evidence": "https://www.auto-brochures.com/makes/Mercedes_Benz/E-Class/Mercedes%20Benz_US%20E-Class_2014.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "E-Class",
+      "generation": "W213 original E63 S 4MATIC+",
+      "proposed_record": "MER-E63S-AMG-W213-2018",
+      "reason": "The W213 E63 S is an engineering landmark in the AMG saloon lineage: its fully variable 4MATIC+ drivetrain combines permanent rear-axle drive with a controlled front coupling and a rear-drive Drift Mode, supported by a wet-clutch nine-speed transmission.",
+      "evidence": "https://media.mbusa.com/news/the-new-mercedes-amg-e63-and-e63-s-sedan",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SL",
+      "generation": "R230 SL65 AMG Black Series fixed-roof coupe",
+      "proposed_record": "MER-SL65-BLACK-R230-2008",
+      "reason": "The SL65 AMG Black Series transforms the R230 SL into an exceptional road supercar through a fixed carbon-fibre roof, extensive lightweight body panels, a wider chassis stance and a highly developed twin-turbo V12. Its construction makes it substantially more than an appearance edition.",
+      "evidence": "https://ragtop.org/mbbrochures/2009/amg/sl65amg_blackseries.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK",
+      "generation": "R171 original SLK55 AMG V8",
+      "proposed_record": "MER-SLK55-AMG-R171-2005",
+      "reason": "The R171 SLK55 AMG is a distinctive compact performance roadster that combines a handcrafted naturally aspirated V8 with a folding steel hardtop and an AMG seven-speed automatic, giving the SLK lineage an unusually muscular engineering identity.",
+      "evidence": "https://ragtop.org/mbbrochures/2005/slkclass.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB7",
+      "generation": "Original V12 DB7 Vantage",
+      "proposed_record": "AST-DB7-VANTAGE-1999",
+      "reason": "The DB7 Vantage established a major modern Aston Martin V12 grand-touring lineage. Its extensively developed V12 and revised Ian Callum styling helped the Vantage achieve a production record for the marque, giving it significance beyond a normal engine option.",
+      "evidence": "https://media.astonmartin.com/db7-v12-vantage/?lang=eng",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "Vanquish",
+      "generation": "Original Newport Pagnell V12 Vanquish",
+      "proposed_record": "AST-VANQUISH-V12-2001",
+      "reason": "The original V12 Vanquish is a landmark Aston Martin GT: its bonded aluminium and carbon-fibre structure advanced the marque’s engineering, while hand-finished superformed panels and its Die Another Day appearance established a lasting cultural identity.",
+      "evidence": "https://www.astonmartin.com/en-us/models/past-models/vanquish-vanquish-s",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DBS",
+      "generation": "Original modern 2007 V12 DBS",
+      "proposed_record": "AST-DBS-V12-2007",
+      "reason": "The 2007 V12 DBS combines Aston Martin’s modern grand-tourer design with standard carbon-ceramic brakes and adaptive suspension, and gained lasting cultural recognition through Casino Royale and Quantum of Solace. It is the original modern DBS generation preceding the later Superleggera.",
+      "evidence": "https://www.astonmartin.com/en-us/models/past-models/dbs-dbs-volante",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XK",
+      "generation": "X100 original 4.0-litre supercharged XKR",
+      "proposed_record": "JAG-XKR-X100-1998",
+      "reason": "The original XKR establishes the supercharged branch of Jaguar’s modern V8 grand-tourer lineage. Its intercooled AJ-V8, standard adaptive damping and dedicated chassis calibration developed the successful XK8 into a distinctive performance flagship.",
+      "evidence": "https://jaguarclubrussia.com/images/katalog/1990/JaguarXK8X100/docJaguarXK8X100/1998-XKR-Launch-Press-pack-from-May-1998.PDF",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XK",
+      "generation": "X150 aluminium-bodied 5.0-litre XKR",
+      "proposed_record": "JAG-XKR-X150-2012",
+      "reason": "The X150 XKR advances Jaguar’s supercharged GT formula through an aluminium monocoque and the quad-cam AJ-V8 Gen III engine. It represents the structurally distinct successor to the steel-bodied X100, with adaptive chassis control and a six-speed automatic.",
+      "evidence": "https://www.auto-brochures.com/makes/Jaguar/XK/Jaguar_US%20XK_2012.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "F-Type",
+      "generation": "Original F-Type R V8 coupe launch",
+      "proposed_record": "JAG-FTYPE-R-2015",
+      "reason": "The original F-Type R is a defining modern Jaguar sports coupe, bringing the C-X16 concept’s Ian Callum design into production with a bonded and riveted aluminium structure, supercharged V8, active rear differential and brake-based torque vectoring.",
+      "evidence": "https://media.jlr.com/jaguar/en-us/news/2013/11/jaguar-f-type-coupe-joins-jaguar-lineup",
+      "duplicate_review": "Absent model/generation checked against the complete 535-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-14.json"
     }
   ],
-  "catalogue_count_after_batches": 535
+  "catalogue_count_after_batches": 549
 }
