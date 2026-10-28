@@ -663,7 +663,95 @@
       "duplicate_review": "Absent model/generation checked against all 431 existing records, including 911 generation aliases and Clio V6; curated replay passed.",
       "remaining": "None for this selected road record; additional same-generation variants remain subject to the counting decision.",
       "status": "Imported and validated in data/icons-road-05.json"
+    },
+    {
+      "manufacturer": "Lamborghini",
+      "model": "350 GT",
+      "generation": "Original Touring production coupe",
+      "proposed_record": "LAM-350GT-ROAD",
+      "reason": "The 350 GT established Lamborghini as a production-car maker, pairing a road-developed Bizzarrini V12 with Touring Superleggera construction and independent suspension.",
+      "evidence": "https://www.lamborghini.com/en-en/history/350-gt",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Lamborghini",
+      "model": "Espada",
+      "generation": "Original Espada, Series II reference",
+      "proposed_record": "LAM-ESPADA-S2-ROAD",
+      "reason": "The Espada made a full four-seat V12 grand tourer central to Lamborghini’s identity, combining Bertone’s distinctive low roof and glass-tail design with serious long-distance sporting purpose.",
+      "evidence": "https://www.lamborghini.com/en-en/history/espada",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Lamborghini",
+      "model": "Urraco",
+      "generation": "Original P250 production series",
+      "proposed_record": "LAM-URRACO-P250-ROAD",
+      "reason": "The Urraco opened Lamborghini’s V8 lineage, using a compact transverse mid-engine layout and a Bertone wedge body to create a distinct 2+2 sports-car concept.",
+      "evidence": "https://www.lamborghini.com/en-en/history/urraco",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "3500 GT",
+      "generation": "Original carburetted Touring coupe",
+      "proposed_record": "MAS-3500GT-ROAD",
+      "reason": "The 3500 GT established Maserati’s series-production grand-touring business, translating its racing straight-six heritage into a Touring Superleggera road coupe.",
+      "evidence": "https://www.maserati.com/gb/en/brand/maserati-classic-cars/gran-turismo/3500gt-3500gti",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Ghibli",
+      "generation": "Original AM115 V8 coupe",
+      "proposed_record": "MAS-GHIBLI-AM115-ROAD",
+      "reason": "The original Ghibli united Giugiaro’s defining low grand-tourer silhouette with dry-sump V8 engineering, becoming a landmark of Maserati’s sporting road-car design.",
+      "evidence": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/ghibli",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Bora",
+      "generation": "Original AM117 4.7 coupe",
+      "proposed_record": "MAS-BORA-47-ROAD",
+      "reason": "The Bora was Maserati’s first mid-engined production road car, combining Giugiaro’s fastback design, V8 performance and Citroën high-pressure hydraulic controls.",
+      "evidence": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/bora",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Khamsin",
+      "generation": "Original AM120 production series",
+      "proposed_record": "MAS-KHAMSIN-ROAD",
+      "reason": "The Khamsin joined Gandini’s Bertone wedge design with Maserati’s front-V8 grand-touring tradition, independent rear suspension and Citroën-derived variable-assistance steering.",
+      "evidence": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/khamsin",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "330 GTC",
+      "generation": "Original 330 GTC road coupe",
+      "proposed_record": "FER-330GTC-ROAD",
+      "reason": "The 330 GTC represents Ferrari and Pininfarina’s classic V12 grand-touring formula, combining a compact two-door coupe with a five-speed manual and a deliberately luxurious cabin.",
+      "evidence": "https://www.audrainautomuseum.org/grand-touring-cars-through-the-decade/1967-ferrari-330-gtc",
+      "duplicate_review": "Absent model/generation checked against the complete 453-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-06.json"
     }
   ],
-  "catalogue_count_after_batches": 410
+  "catalogue_count_after_batches": 461
 }
