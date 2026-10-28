@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-10-28",
+  "reviewed_on": "2026-10-29",
   "baseline_count": 395,
   "status": "Admission tracking: only verified imported catalogue entries count toward the target.",
   "candidates": [
@@ -850,7 +850,161 @@
       "duplicate_review": "Absent model/generation checked against the complete 461-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-07.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang",
+      "generation": "S197 Boss 302 production series",
+      "proposed_record": "FOR-MUSTANG-BOSS302-S197",
+      "reason": "The revived Boss 302 developed the Mustang into a focused naturally aspirated road-and-circuit car, with a dedicated high-revving V8, adjustable dampers and uprated brakes.",
+      "evidence": "https://www.auto-brochures.com/makes/Ford/Mustang/Ford_US%20Mustang_2012.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang",
+      "generation": "S550 original GT350R road series",
+      "proposed_record": "FOR-MUSTANG-GT350R-S550",
+      "reason": "The GT350R paired Ford’s high-revving flat-plane-crank V8 with carbon-fibre wheels and a focused two-seat chassis, creating a distinctive road-going Mustang performance landmark.",
+      "evidence": "https://billswebspace.com/gt350-gt350r-tech-specs.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Viper",
+      "generation": "Original first-generation RT/10",
+      "proposed_record": "DOD-VIPER-GEN1-RT10",
+      "reason": "The original Viper established Dodge’s uncompromising V10 roadster identity, combining a large V10 engine and manual transmission with deliberately minimal comfort equipment.",
+      "evidence": "https://www.americanmusclecarmuseum.com/muscle-car-videos/1992-dodge-viper-rt-10.html",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Corvette",
+      "generation": "First-generation 1957 fuel-injection specification",
+      "proposed_record": "CHE-CORVETTE-C1-FUELIE",
+      "reason": "The 1957 fuel-injected Corvette helped establish the model’s serious performance identity, matching its advertised 283 horsepower to 283 cubic inches through injection and a developed camshaft.",
+      "evidence": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1957-Chevrolet-Corvette.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Corvette",
+      "generation": "Second-generation original split-window coupe",
+      "proposed_record": "CHE-CORVETTE-C2-SPLITWINDOW",
+      "reason": "The first Sting Ray introduced Corvette’s production coupe and independent rear suspension, with the 1963 split rear window becoming one of the model’s defining design signatures.",
+      "evidence": "https://www.gm.com/heritage/collection/chevrolet/1963-chevrolet-corvette",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Corvette",
+      "generation": "Third-generation original LT-1 series",
+      "proposed_record": "CHE-CORVETTE-C3-LT1",
+      "reason": "The original LT-1 made a performance camshaft and mechanical valve lifters central to small-block C3 performance, combining focused engine development with the Stingray’s distinctive styling and independent chassis.",
+      "evidence": "https://vette-vues.com/1971-chevrolet-corvette-stingray-brochure/",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Corvette",
+      "generation": "Fifth-generation original LS6 Z06",
+      "proposed_record": "CHE-CORVETTE-C5-Z06",
+      "reason": "The C5 Z06 revived the Z06 name around a developed LS6 V8, dedicated FE4 suspension and lightweight titanium exhaust hardware, establishing the modern Z06 road-car lineage.",
+      "evidence": "https://www.auto-brochures.com/makes/Chevrolet/Corvette/Chevrolet_US%20Corvette_2001.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "GTO",
+      "generation": "Original Tempest LeMans GTO option series",
+      "proposed_record": "PON-GTO-1964-ROAD",
+      "reason": "The original Tempest LeMans GTO helped establish the American muscle-car formula by putting a large performance V8, dual exhaust and a developed chassis into an intermediate road car.",
+      "evidence": "https://www.gm.com/heritage/collection/pontiac/1964-pontiac-gto",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Buick",
+      "model": "GSX",
+      "generation": "Original GSX Stage 1 production series",
+      "proposed_record": "BUI-GSX-STAGE1-1970",
+      "reason": "The GSX Stage 1 expressed Buick’s peak classic muscle-car engineering through a developed 455 V8, uprated camshaft, limited-slip axle and dedicated chassis package.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2022/11/1970-Buick-GSX-Brochure-1-4C.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Charger",
+      "generation": "Second-generation Daytona road homologation series",
+      "proposed_record": "DOD-CHARGER-DAYTONA-ROAD",
+      "reason": "The Charger Daytona made radical nose-and-wing aerodynamics central to Dodge’s stock-car homologation programme, creating one of the most recognizable American performance road cars.",
+      "evidence": "https://www.americanmusclecarmuseum.com/dodge-vehicles/77-1969-dodge-charger-daytona.html",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "generation": "Original E-body R/T series",
+      "proposed_record": "DOD-CHALLENGER-HEMI-1970",
+      "reason": "The original Hemi Challenger R/T combined Dodge’s new E-body pony car with the dual-four-barrel Street Hemi, representing the high-performance peak of the classic muscle-car era.",
+      "evidence": "https://www.stockmopar.com/brochures/1970-dodge-challenger-dealer-brochure.html",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Plymouth",
+      "model": "Road Runner Superbird",
+      "generation": "Original 1970 aero homologation series",
+      "proposed_record": "PLY-SUPERBIRD-440-ROAD",
+      "reason": "The Superbird carried Plymouth’s NASCAR aerodynamic homologation programme onto the road, adding a long nose and high rear wing to the Road Runner rather than relying only on engine size.",
+      "evidence": "https://www.audrainautomuseum.org/american-muscle/1970-plymouth-superbird",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "Plymouth",
+      "model": "Barracuda",
+      "generation": "Third-generation E-body AAR road series",
+      "proposed_record": "PLY-AAR-CUDA-1970-ROAD",
+      "reason": "The AAR Cuda connected Plymouth’s road car to Dan Gurney’s All American Racers Trans-Am programme, emphasizing small-block performance, handling and a functional lightweight bonnet.",
+      "evidence": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1970-plymouth-aar-cuda",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
+    },
+    {
+      "manufacturer": "AMC",
+      "model": "Javelin",
+      "generation": "Second-generation Javelin AMX",
+      "proposed_record": "AMC-JAVELIN-AMX-401-1971",
+      "reason": "The second-generation Javelin AMX gave AMC a distinctive 401-powered performance road coupe in the year its Javelin competition programme won the Trans-Am manufacturers’ title with Penske and Donohue.",
+      "evidence": "https://gotransam.com/news/Trans-Am-Hall-of-Fame-Roger-Penske/73534",
+      "duplicate_review": "Absent model/generation checked against the complete 470-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-08.json"
     }
   ],
-  "catalogue_count_after_batches": 470
+  "catalogue_count_after_batches": 484
 }
