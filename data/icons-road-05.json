@@ -1,0 +1,2344 @@
+{
+  "batch": "icons-road-2026-10-28-05",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 22,
+  "cars": [
+    {
+      "id": "BMW-M5-E28-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "First-generation E28 M5",
+      "variant": "E28 — original European M88/3",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 210-kW European M88/3 road saloon, not the lower-output US S38 version, M535i or a converted ordinary E28. Output, capacity and performance are taken directly from BMW M; no racing M1 figures are transferred.",
+      "summary": "The original M5 combined M1-derived straight-six engineering with a discreet four-door body, establishing the enduring high-performance M5 saloon lineage.",
+      "admission_reason": "The original M5 combined M1-derived straight-six engineering with a discreet four-door body, establishing the enduring high-performance M5 saloon lineage.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW E28 — original European M88/3 — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m5-e28.html",
+          "notes": "Original 210-kW European M88/3 road saloon, not the lower-output US S38 version, M535i or a converted ordinary E28. Output, capacity and performance are taken directly from BMW M; no racing M1 figures are transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M5 E28 Minervablau.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M5_E28_Minervablau.jpg",
+          "notes": "HLW; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six, M88/3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3453",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "210",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "340",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "245",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.5",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original M5 combined M1-derived straight-six engineering with a discreet four-door body, establishing the enduring high-performance M5 saloon lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_e28_road.jpg",
+          "caption": "BMW E28 — original European M88/3 — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "HLW",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bf51b71bac20e9151926d32226cc768aea455799a9491e32fd42836b40361507"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M5-E39-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "Third-generation E39 M5",
+      "variant": "E39 — original S62 V8 road saloon",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Standard S62 road saloon; electronically limited top speed. BMW’s generation overview supplies the explicit 4,941-cc and 294-kW figures; the individual E39 article supplies the V8 development, torque and performance. No tuned or delimited figures.",
+      "summary": "The E39 M5 introduced the V8 to the M5 line, combining individual electronically operated throttle valves with the performance and practicality of a full-size sports saloon.",
+      "admission_reason": "The E39 M5 introduced the V8 to the M5 line, combining individual electronically operated throttle valves with the performance and practicality of a full-size sports saloon.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW E39 — original S62 V8 road saloon — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-bmw-m5-of-1998.html",
+          "notes": "Standard S62 road saloon; electronically limited top speed. BMW’s generation overview supplies the explicit 4,941-cc and 294-kW figures; the individual E39 article supplies the V8 development, torque and performance. No tuned or delimited figures."
+        },
+        {
+          "publisher": "BMW M",
+          "title": "M5 generations — E39 specification",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-generations-of-the-bmw-m5-an-overview.html",
+          "notes": "E39 section only; no later turbo-generation values."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2002 BMW M5 E39 BS O24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2002_BMW_M5_E39_BS_O24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4941",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "294",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "500",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.3",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E39 M5 introduced the V8 to the M5 line, combining individual electronically operated throttle valves with the performance and practicality of a full-size sports saloon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_e39_road.jpg",
+          "caption": "BMW E39 — original S62 V8 road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "25632857940da57508f448ae0c72e0e1ae03d460b399832db34aed9c4ffbe0a9"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M5-E60-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "Fourth-generation E60 M5",
+      "variant": "E60 — S85 V10 with SMG III",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Production E60 SMG road saloon, not E61 Touring or North American six-speed manual. The engine shares a foundry with contemporary BMW F1 engines, not their design; no F1-derived-engine claim is made.",
+      "summary": "The E60 M5 brought a purpose-built high-revving V10 and seven-speed SMG to a production sports saloon, creating a distinctive engineering peak in the M5 lineage.",
+      "admission_reason": "The E60 M5 brought a purpose-built high-revving V10 and seven-speed SMG to a production sports saloon, creating a distinctive engineering peak in the M5 lineage.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW E60 — S85 V10 with SMG III — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-bmw-m5-of-2005.html",
+          "notes": "Production E60 SMG road saloon, not E61 Touring or North American six-speed manual. The engine shares a foundry with contemporary BMW F1 engines, not their design; no F1-derived-engine claim is made."
+        },
+        {
+          "publisher": "BMW M",
+          "title": "M5 generations — E60 specification",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-generations-of-the-bmw-m5-an-overview.html",
+          "notes": "E60 section only; production-road displacement and torque."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2007 BMW M5 E60.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2007_BMW_M5_E60.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V10, S85",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4999",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "373",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "520",
+          "unit": "Nm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed SMG Drivelogic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Adaptive suspension",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E60 M5 brought a purpose-built high-revving V10 and seven-speed SMG to a production sports saloon, creating a distinctive engineering peak in the M5 lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_e60_road.jpg",
+          "caption": "BMW E60 — S85 V10 with SMG III — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e97232905c5420d6eb599f9facbf3f3cbc0367186c80b2cc8a88227190d5a9fb"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M635CSI-E24-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "6 Series",
+      "generation": "E24 M635CSi",
+      "variant": "M635CSi — non-catalyst 210 kW road coupe",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original European 210-kW M635CSi, not lower-output catalyst/US M6 or a standard 635CSi. Racing 635CSi achievements explain the family context but do not supply road specifications. Exact capacity and undefined mass are withheld.",
+      "summary": "The M635CSi placed the M88 four-valve straight-six in BMW’s luxury coupe, establishing a lasting blend of grand-touring refinement and M performance.",
+      "admission_reason": "The M635CSi placed the M88 four-valve straight-six in BMW’s luxury coupe, establishing a lasting blend of grand-touring refinement and M performance.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW M635CSi — non-catalyst 210 kW road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m635csi-top-model-of-the-e24-series.html",
+          "notes": "Original European 210-kW M635CSi, not lower-output catalyst/US M6 or a standard 635CSi. Racing 635CSi achievements explain the family context but do not supply road specifications. Exact capacity and undefined mass are withheld."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M635CSi in BMW-Museum in Munich, Bayern.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M635CSi_in_BMW-Museum_in_Munich,_Bayern.JPG",
+          "notes": "Jiří Sedláček; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M88 inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "210",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Reinforced five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The M635CSi placed the M88 four-valve straight-six in BMW’s luxury coupe, establishing a lasting blend of grand-touring refinement and M performance.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m635csi_e24_road.jpg",
+          "caption": "BMW M635CSi — non-catalyst 210 kW road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Jiří Sedláček",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "afb3aaf160b5bc43076cb26d0f8d36483a57b9e155c39ed5ad6a2b17d77806d8"
+        }
+      ]
+    },
+    {
+      "id": "BMW-Z3-MCOUPE-S50",
+      "manufacturer": "BMW",
+      "model_family": "Z3",
+      "generation": "E36/8 M Coupe",
+      "variant": "M Coupé — European S50B32",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1998 European S50B32 road coupe, not North American S52, later S54 or an M Roadster. The page’s 3,153-cc quick-facts typo and contradictory 1,270/1,465-kg weights are excluded; the consistent engine narrative is used. BMW Classic’s AI-labelled entry is not relied on.",
+      "summary": "The Z3 M Coupe combined a reinforced fixed-roof chassis and compact shooting-brake form with the high-revving M3 straight-six, becoming a distinctive modern BMW sports-car icon.",
+      "admission_reason": "The Z3 M Coupe combined a reinforced fixed-roof chassis and compact shooting-brake form with the high-revving M3 straight-six, becoming a distinctive modern BMW sports-car icon.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW M Coupé — European S50B32 — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-z3-m-coupe.html",
+          "notes": "1998 European S50B32 road coupe, not North American S52, later S54 or an M Roadster. The page’s 3,153-cc quick-facts typo and contradictory 1,270/1,465-kg weights are excluded; the consistent engine narrative is used. BMW Classic’s AI-labelled entry is not relied on."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1999 BMW Z3 M Coupe 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1999_BMW_Z3_M_Coupe_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six, S50B32",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "236",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "350",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Z3 M Coupe combined a reinforced fixed-roof chassis and compact shooting-brake form with the high-revving M3 straight-six, becoming a distinctive modern BMW sports-car icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_z3_mcoupe_s50.jpg",
+          "caption": "BMW M Coupé — European S50B32 — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "75d7a9b3aedb1e7595c768c74fff459380f1f676b64638acf52a782d7da8406e"
+        }
+      ]
+    },
+    {
+      "id": "BMW-CSL-E9-3153-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "3.0 CSL",
+      "generation": "E9 final 3153-cc road series",
+      "variant": "3.0 CSL — final injection road homologation model",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Final 1973 3,153-cc road version, not earlier carburetted/injection capacities or a racing CSL. Undefined/variant-dependent weight is withheld. The large rear wing was supplied in the boot and was not street-legal in the described German configuration; a mounted display wing in the representative photo is not certified for road use.",
+      "summary": "The E9 CSL made lightweight road homologation central to BMW’s touring-car programme and became a defining early BMW Motorsport model.",
+      "admission_reason": "The E9 CSL made lightweight road homologation central to BMW’s touring-car programme and became a defining early BMW Motorsport model.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW 3.0 CSL — final injection road homologation model — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-3-0-csl.html",
+          "notes": "Final 1973 3,153-cc road version, not earlier carburetted/injection capacities or a racing CSL. Undefined/variant-dependent weight is withheld. The large rear wing was supplied in the boot and was not street-legal in the described German configuration; a mounted display wing in the representative photo is not certified for road use."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1974 BMW 3.0 CSL 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1974_BMW_3.0_CSL_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3153",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "151",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "220",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium doors, bonnet and boot lid",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E9 CSL made lightweight road homologation central to BMW’s touring-car programme and became a defining early BMW Motorsport model.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_csl_e9_3153_road.jpg",
+          "caption": "BMW 3.0 CSL — final injection road homologation model — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph. The mounted rear wing is a display fitment; the manufacturer states it was supplied unmounted and was not street-legal in the described German road configuration.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a42379e6a11648a9dd8b7416f5f08827bfd4e81a10451891bd777b78e6886e9c"
+        }
+      ]
+    },
+    {
+      "id": "MER-300SL-W198-COUPE",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "300 SL",
+      "generation": "W198 I Gullwing production coupe",
+      "variant": "300 SL Gullwing — standard production coupe",
+      "model_year_from": 1954,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Standard 1954–1957 W198 production coupe, not W194 racer, alloy-body special, roadster, SLS or modern replica. The release’s up-to-250-km/h speed depends on configuration and is not imported as a universal maximum.",
+      "summary": "The production 300 SL combined a tubular spaceframe, mechanically necessary gullwing doors and direct petrol injection, creating a landmark road-going sports car.",
+      "admission_reason": "The production 300 SL combined a tubular spaceframe, mechanically necessary gullwing doors and direct petrol injection, creating a landmark road-going sports car.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "Mercedes-Benz 300 SL Gullwing — standard production coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://media.mercedes-benz.com/article/78a721f8-be68-4143-9a1e-a909d6623191",
+          "notes": "Standard 1954–1957 W198 production coupe, not W194 racer, alloy-body special, roadster, SLS or modern replica. The release’s up-to-250-km/h speed depends on configuration and is not imported as a universal maximum."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1955 Black Mercedes-Benz 300SL.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1955_Black_Mercedes-Benz_300SL.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "158",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular spaceframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Roof-hinged gullwing",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The production 300 SL combined a tubular spaceframe, mechanically necessary gullwing doors and direct petrol injection, creating a landmark road-going sports car.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_300sl_w198_coupe.jpg",
+          "caption": "Mercedes-Benz 300 SL Gullwing — standard production coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "51068084d05528760fe15e47e65d303e020321734379564fea991c6f39342054"
+        }
+      ]
+    },
+    {
+      "id": "MER-500E-W124-ROAD",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "500 E",
+      "generation": "W124 original 500 E",
+      "variant": "500 E — original 240 kW V8 saloon",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 1991 240-kW 500 E road saloon, not later E 500 Limited, Brabus conversion or ordinary W124. Porsche was the commissioned developer/assembler and is a primary source here. Limited-specific trim in the retrospective is excluded; speed is electronically limited.",
+      "summary": "The 500 E joined Mercedes-Benz luxury-saloon engineering with Porsche development and assembly expertise, establishing an understated V8 performance icon.",
+      "admission_reason": "The 500 E joined Mercedes-Benz luxury-saloon engineering with Porsche development and assembly expertise, establishing an understated V8 performance icon.",
+      "sources": [
+        {
+          "publisher": "Porsche / commissioned 500 E development team",
+          "title": "Mercedes-Benz 500 E — original 240 kW V8 saloon — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/en/2021/history/porsche-commissioned-project-mercedes-benz-500-e-30th-anniversary-24575.html",
+          "notes": "Original 1991 240-kW 500 E road saloon, not later E 500 Limited, Brabus conversion or ordinary W124. Porsche was the commissioned developer/assembler and is a primary source here. Limited-specific trim in the retrospective is excluded; speed is electronically limited."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1991 Mercedes 500 E (19365774581).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1991_Mercedes_500_E_(19365774581).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1991 Mercedes 500E"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "240",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "480",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 500 E joined Mercedes-Benz luxury-saloon engineering with Porsche development and assembly expertise, establishing an understated V8 performance icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_500e_w124_road.jpg",
+          "caption": "Mercedes-Benz 500 E — original 240 kW V8 saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Kieran White from Manchester, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "17bbd5bf836e9cd749019c2b4be80d8a59ad6ebd15546f0820ad076208ca2267"
+        }
+      ]
+    },
+    {
+      "id": "MER-300SEL-63-W109",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "300 SEL",
+      "generation": "W109 M100-powered 6.3",
+      "variant": "300 SEL 6.3 — standard road saloon",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original W109 6.3 production saloon, not the AMG Red Pig race car, Crayford estate, later 6.9 or a standard six-cylinder 300 SEL. Manufacturer road hardware only; competition output and ambiguous brake-ventilation details are excluded.",
+      "summary": "The 300 SEL 6.3 brought the flagship M100 V8 into a smaller air-suspended luxury saloon, anticipating the modern high-performance executive car.",
+      "admission_reason": "The 300 SEL 6.3 brought the flagship M100 V8 into a smaller air-suspended luxury saloon, anticipating the modern high-performance executive car.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "Mercedes-Benz 300 SEL 6.3 — standard road saloon — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://media.mercedes-benz.com/article/5160aaad-2c96-4dc5-8364-019185f9899e",
+          "notes": "Original W109 6.3 production saloon, not the AMG Red Pig race car, Crayford estate, later 6.9 or a standard six-cylinder 300 SEL. Manufacturer road hardware only; competition output and ambiguous brake-ventilation details are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes 300 SEL 6.3 W109.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes_300_SEL_6.3_W109.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6333",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "184",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Air suspension with automatic level control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 300 SEL 6.3 brought the flagship M100 V8 into a smaller air-suspended luxury saloon, anticipating the modern high-performance executive car.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_300sel_63_w109.jpg",
+          "caption": "Mercedes-Benz 300 SEL 6.3 — standard road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9a6054a4802c946bde46687d54fc7f9c336c33455d4c1f4f336a94bbcbb48e00"
+        }
+      ]
+    },
+    {
+      "id": "POR-356-SPEEDSTER-PREA",
+      "manufacturer": "Porsche",
+      "model_family": "356",
+      "generation": "Pre-A original production Speedster",
+      "variant": "1500 Speedster — original production roadster",
+      "model_year_from": 1954,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Production 1500 Speedster, not the 1952 aluminium America Roadster, museum prototype, later 356 A Carrera or modern replica. The 70-PS America Roadster and 110-PS Carrera figures are not transferred. Core 356 rear-engine layout is separately sourced.",
+      "summary": "The original 356 Speedster established Porsche’s purist open-road formula and gained an enduring cultural and motorsport identity, including its association with James Dean.",
+      "admission_reason": "The original 356 Speedster established Porsche’s purist open-road formula and gained an enduring cultural and motorsport identity, including its association with James Dean.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche 1500 Speedster — original production roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/en/2019/history/porsche-speedster-history-open-top-driving-pleasure-17559.html",
+          "notes": "Production 1500 Speedster, not the 1952 aluminium America Roadster, museum prototype, later 356 A Carrera or modern replica. The 70-PS America Roadster and 110-PS Carrera figures are not transferred. Core 356 rear-engine layout is separately sourced."
+        },
+        {
+          "publisher": "Porsche",
+          "title": "Winning number four — production 356 layout",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://newsroom.porsche.com/en/innovation/engineering/porsche-four-cylinder-flat-engine-history-12270.html",
+          "notes": "Only production 356 boxer/four-cylinder and rear-engine architecture; not the mid-engined prototype or racing 550."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1955 Porsche 356 Pre-A Speedster.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1955_Porsche_356_Pre-A_Speedster.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder boxer",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Rear-mounted",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Sheet steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Low, raked windscreen",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Folding rain top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Reduced equipment",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 356 Speedster established Porsche’s purist open-road formula and gained an enduring cultural and motorsport identity, including its association with James Dean.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_356_speedster_prea.jpg",
+          "caption": "Porsche 1500 Speedster — original production roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9c12f254142552995d8c866b3bf73636fb91498e890492ba6032b43cf379a972"
+        }
+      ]
+    },
+    {
+      "id": "POR-911-RS27-TOURING",
+      "manufacturer": "Porsche",
+      "model_family": "911",
+      "generation": "Original F-series Carrera RS 2.7",
+      "variant": "Carrera RS 2.7 Touring — M472 road specification",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "M472 Touring road car, not M471 Sport or RSR competition. Touring-specific 240 km/h and 6.3-second figures are used, not lighter Sport figures. kW calculated from 210 PS at 0.73549875 kW/PS; undefined inferred mass and race power are excluded.",
+      "summary": "The Carrera RS 2.7 defined the road-going RS idea through homologation, a developed flat-six and distinctive aerodynamic work including its ducktail spoiler.",
+      "admission_reason": "The Carrera RS 2.7 defined the road-going RS idea through homologation, a developed flat-six and distinctive aerodynamic work including its ducktail spoiler.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche Carrera RS 2.7 Touring — M472 road specification — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/en/2022/history/porsche-50-years-911-carrera-rs-2-7-germanys-fastest-sports-car-28486.html",
+          "notes": "M472 Touring road car, not M471 Sport or RSR competition. Touring-specific 240 km/h and 6.3-second figures are used, not lighter Sport figures. kW calculated from 210 PS at 0.73549875 kW/PS; undefined inferred mass and race power are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Porsche 911 Carrera RS, Bj. 1972-73, Front (2016-07-02 02 Sp).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_RS,_Bj._1972-73,_Front_(2016-07-02_02_Sp).JPG",
+          "notes": "Lothar Spurzem; CC BY-SA 2.0 de. License: https://creativecommons.org/licenses/by-sa/2.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Fuel-injected flat six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "154.5",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "255",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "240",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.3",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Ducktail rear spoiler",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Carrera RS 2.7 defined the road-going RS idea through homologation, a developed flat-six and distinctive aerodynamic work including its ducktail spoiler.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_911_rs27_touring.jpg",
+          "caption": "Porsche Carrera RS 2.7 Touring — M472 road specification — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c57160cde7e3000900d871589dfb12b946a6deb03ce1e01d0b2210b493d0af43"
+        }
+      ]
+    },
+    {
+      "id": "POR-911-TURBO30-930",
+      "manufacturer": "Porsche",
+      "model_family": "911",
+      "generation": "G-series original 930 Turbo 3.0",
+      "variant": "Turbo 3.0 — original European road coupe",
+      "model_year_from": 1975,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1975 European production 3.0 road coupe. Museum sheet, rendered and inspected; no prototype 2.7, 1976 US output, later 3.3 intercooler or optional Recaro configuration is assumed. The sheet’s unspecified weight convention is not called kerb weight.",
+      "summary": "The original 930 established the 911 Turbo as a production flagship, bringing controlled turbocharging and everyday luxury into an influential high-performance sports car.",
+      "admission_reason": "The original 930 established the 911 Turbo as a production flagship, bringing controlled turbocharging and everyday luxury into an influential high-performance sports car.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche Turbo 3.0 — original European road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/dam/jcr%3A3c07547c-36bc-4e00-825c-5ac2bbe10805/Datenblatt%20911%20Turbo%203.0%20Coup%C3%A9.pdf.PDF",
+          "notes": "1975 European production 3.0 road coupe. Museum sheet, rendered and inspected; no prototype 2.7, 1976 US output, later 3.3 intercooler or optional Recaro configuration is assumed. The sheet’s unspecified weight convention is not called kerb weight."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1975 Porsche 911 Turbo 930.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1975_Porsche_911_Turbo_930.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "191",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.5",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 930 established the 911 Turbo as a production flagship, bringing controlled turbocharging and everyday luxury into an influential high-performance sports car.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_911_turbo30_930.jpg",
+          "caption": "Porsche Turbo 3.0 — original European road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e6b80978b694f8ff05bd9d95774e9799b101ac68cee30b2856fb11fa02a8ac76"
+        }
+      ]
+    },
+    {
+      "id": "POR-924-CARRERA-GT",
+      "manufacturer": "Porsche",
+      "model_family": "924",
+      "generation": "Type 937 road homologation series",
+      "variant": "Carrera GT — standard road homologation car",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1980 210-PS Carrera GT road special, not GTS, GTR, Turbo Cup or a standard 924 Turbo wearing a body kit. Manufacturer museum’s road table and hardware description used; racing output and weight are excluded.",
+      "summary": "The 924 Carrera GT developed Porsche’s front-engined transaxle platform into a turbocharged road homologation special with a direct motorsport purpose.",
+      "admission_reason": "The 924 Carrera GT developed Porsche’s front-engined transaxle platform into a turbocharged road homologation special with a direct motorsport purpose.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche Carrera GT — standard road homologation car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/en/press-kits/Porsche-Museum/Porsche-924-Carrera-GT.html",
+          "notes": "1980 210-PS Carrera GT road special, not GTS, GTR, Turbo Cup or a standard 924 Turbo wearing a body kit. Manufacturer museum’s road table and hardware description used; racing output and weight are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1980 Porsche 924 Carrera GT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1980_Porsche_924_Carrera_GT.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1984",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "154",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "240",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wing extensions",
+          "value": "Polyurethane",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 924 Carrera GT developed Porsche’s front-engined transaxle platform into a turbocharged road homologation special with a direct motorsport purpose.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_924_carrera_gt.jpg",
+          "caption": "Porsche Carrera GT — standard road homologation car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4d18f7d5a63b87a7dca996785ac048f96aee8b6b832bf0b6f15e015bb7023aca"
+        }
+      ]
+    },
+    {
+      "id": "POR-928-ORIGINAL-V8",
+      "manufacturer": "Porsche",
+      "model_family": "928",
+      "generation": "Original 4.5-litre 928",
+      "variant": "928 — original European 176 kW V8",
+      "model_year_from": 1977,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1977 European 4.5-litre road engine, not market-specific lower output, 928 S, S4, GT or GTS. The engine-history article supplies the first 176-kW/350-Nm specification; later four-valve and higher-compression values are excluded. Representative photo shows the original-body 928 with its bonnet open.",
+      "summary": "The 928 established Porsche’s V8 grand-touring line with a new liquid-cooled light-alloy engine, marking a major engineering departure from the rear-engined 911.",
+      "admission_reason": "The 928 established Porsche’s V8 grand-touring line with a new liquid-cooled light-alloy engine, marking a major engineering departure from the rear-engined 911.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche 928 — original European 176 kW V8 — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/en/company/porsche-eight-cylinder-engines-history-12690.html",
+          "notes": "Original 1977 European 4.5-litre road engine, not market-specific lower output, 928 S, S4, GT or GTS. The engine-history article supplies the first 176-kW/350-Nm specification; later four-valve and higher-compression values are excluded. Representative photo shows the original-body 928 with its bonnet open."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Porsche 928 (26472784495).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Porsche_928_(26472784495).jpg",
+          "notes": "ilikewaffles11; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Porsche 928"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "176",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "350",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "230",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 928 established Porsche’s V8 grand-touring line with a new liquid-cooled light-alloy engine, marking a major engineering departure from the rear-engined 911.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_928_original_v8.jpg",
+          "caption": "Porsche 928 — original European 176 kW V8 — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "ilikewaffles11",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c6dd151611b6d306e3cd7e4c18ef8903b93fd0820acddf2868dda96e1a10ea38"
+        }
+      ]
+    },
+    {
+      "id": "POR-944-TURBO-1989",
+      "manufacturer": "Porsche",
+      "model_family": "944",
+      "generation": "944 Turbo late 250 PS road series",
+      "variant": "Turbo — 1989 standard 250 PS manual coupe",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Museum’s 1989 standard 250-PS road reference, not the earlier 220-PS Turbo, Turbo S limited edition, Cabriolet or Turbo Cup race car. PDF rendered and inspected. Undefined mass basis and the retrospective’s rear-wing detail are withheld; representative photo does not certify installed engine/year.",
+      "summary": "The 944 Turbo developed Porsche’s balanced front-engine/rear-transaxle sports-car concept with turbo power and production hardware informed by its one-make racing programme.",
+      "admission_reason": "The 944 Turbo developed Porsche’s balanced front-engine/rear-transaxle sports-car concept with turbo power and production hardware informed by its one-make racing programme.",
+      "sources": [
+        {
+          "publisher": "Porsche",
+          "title": "Porsche Turbo — 1989 standard 250 PS manual coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://newsroom.porsche.com/dam/jcr%3Afd123585-aa04-48ea-8105-51b66f748c4a/Datenblatt%20Porsche%20944%20Turbo%20Coup%C3%A9.pdf.PDF",
+          "notes": "Museum’s 1989 standard 250-PS road reference, not the earlier 220-PS Turbo, Turbo S limited edition, Cabriolet or Turbo Cup race car. PDF rendered and inspected. Undefined mass basis and the retrospective’s rear-wing detail are withheld; representative photo does not certify installed engine/year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:'86-'91 Porsche 944 Coupe Turbo.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:%2786-%2791_Porsche_944_Coupe_Turbo.JPG",
+          "notes": "Bull-Doser; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2479",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "184",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "260",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.9",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, rear transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs at all four wheels, standard ABS",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 944 Turbo developed Porsche’s balanced front-engine/rear-transaxle sports-car concept with turbo power and production hardware informed by its one-make racing programme.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_944_turbo_1989.jpg",
+          "caption": "Porsche Turbo — 1989 standard 250 PS manual coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Bull-Doser",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "376804a87453258882dee1615f7a49b30c4a0ea7c96838bfec4cf605a20d78d7"
+        }
+      ]
+    },
+    {
+      "id": "ALF-GIULIA-GTA-1600-ROAD",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Giulia Sprint",
+      "generation": "105-series original 1600 GTA",
+      "variant": "1600 GTA — standard road homologation car",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Standard 115-PS 1600 GTA road configuration, not Corsa, GTA SA, GTAm, 1300 Junior or a modern GTA. Manufacturer distinguishes road homologation hardware from the later racing modifications; race power, 90-litre tank and race-only suspension are excluded.",
+      "summary": "The original GTA turned extensive lightweight construction and twin-plug engine development into the road homologation foundation of Alfa Romeo’s touring-car success.",
+      "admission_reason": "The original GTA turned extensive lightweight construction and twin-plug engine development into the road homologation foundation of Alfa Romeo’s touring-car success.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "Alfa Romeo 1600 GTA — standard road homologation car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/50-jahre-alfa-romeo-giulia-sprint-gta-durch-leichtbau-zum-seriensieger",
+          "notes": "Standard 115-PS 1600 GTA road configuration, not Corsa, GTA SA, GTAm, 1300 Junior or a modern GTA. Manufacturer distinguishes road homologation hardware from the later racing modifications; race power, 90-litre tank and race-only suspension are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Alfa GTA.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfa_GTA.JPG",
+          "notes": "Christof46; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Self-photographed"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-cam inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1570",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "85",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Two spark plugs per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Weber 45 twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Peraluman lightweight outer skin and aluminium panels",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GTA turned extensive lightweight construction and twin-plug engine development into the road homologation foundation of Alfa Romeo’s touring-car success.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_giulia_gta_1600_road.jpg",
+          "caption": "Alfa Romeo 1600 GTA — standard road homologation car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Christof46",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "dae6332639395c9d7a8e9dd66b8c627501cd95a5fb91f78c3f0d0e2aa2930c90"
+        }
+      ]
+    },
+    {
+      "id": "ALF-GTV6-25-ROAD",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "GTV6",
+      "generation": "Type 116 original GTV6 2.5",
+      "variant": "2.5 V6 — standard European road coupe",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original European 2.5 GTV6, not four-cylinder Alfetta GT/GTV, South African 3.0 homologation or a race-prepared car. The retrospective’s inconsistent power/dated-output table is excluded; architecture is explicitly taken from its GTV6 subsection.",
+      "summary": "The GTV6 combined Alfa Romeo’s alloy V6 with a rear-transaxle coupe chassis and a successful touring-car competition lineage, making it a defining sporting Alfa of the 1980s.",
+      "admission_reason": "The GTV6 combined Alfa Romeo’s alloy V6 with a rear-transaxle coupe chassis and a successful touring-car competition lineage, making it a defining sporting Alfa of the 1980s.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "Alfa Romeo 2.5 V6 — standard European road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/40-jahre-alfa-romeo-alfetta-gt-ein-donnerkeil-fur-stra-e-und-sport",
+          "notes": "Original European 2.5 GTV6, not four-cylinder Alfetta GT/GTV, South African 3.0 homologation or a race-prepared car. The retrospective’s inconsistent power/dated-output table is excluded; architecture is explicitly taken from its GTV6 subsection."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Alfa Romeo GTV6 5311899.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_GTV6_5311899.jpg",
+          "notes": "Ermell; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6 with light-alloy block and heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2492",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One overhead camshaft per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, rear transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front torsion bars; rear De Dion with Watt linkage",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GTV6 combined Alfa Romeo’s alloy V6 with a rear-transaxle coupe chassis and a successful touring-car competition lineage, making it a defining sporting Alfa of the 1980s.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_gtv6_25_road.jpg",
+          "caption": "Alfa Romeo 2.5 V6 — standard European road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Ermell",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "819931b6401ff170bd8d8aeaafcec4c319f214db872b5a90cf33e339b15811e3"
+        }
+      ]
+    },
+    {
+      "id": "ALF-SZ-ES30-ROAD",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "SZ",
+      "generation": "ES30 production SZ coupe",
+      "variant": "SZ — standard production road coupe",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Production SZ road coupe, not RZ or the different Balocco prototype described on a separate Heritage sales page. Conflicting 155/66-kW and 204/207/210 power statements and undefined weights are withheld. General production architecture is sourced from the anniversary release.",
+      "summary": "The SZ paired unconventional composite-body design with Alfa Romeo’s rear-transaxle mechanical layout, creating one of the marque’s most distinctive road sports cars.",
+      "admission_reason": "The SZ paired unconventional composite-body design with Alfa Romeo’s rear-transaxle mechanical layout, creating one of the marque’s most distinctive road sports cars.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "Alfa Romeo SZ — standard production road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/30-jahre-alfa-romeo-sz-runder-geburtstag-fr-projekt-es30",
+          "notes": "Production SZ road coupe, not RZ or the different Balocco prototype described on a separate Heritage sales page. Conflicting 155/66-kW and 204/207/210 power statements and undefined weights are withheld. General production architecture is sourced from the anniversary release."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:C.1990 Alfa Romeo SZ (14565866795).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:C.1990_Alfa_Romeo_SZ_(14565866795).jpg",
+          "notes": "Charlie from United Kingdom; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: c.1990 Alfa Romeo SZ"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Longitudinal front V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2959",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "245",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, rear transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Rear De Dion with Watt linkage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "245",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SZ paired unconventional composite-body design with Alfa Romeo’s rear-transaxle mechanical layout, creating one of the marque’s most distinctive road sports cars.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_sz_es30_road.jpg",
+          "caption": "Alfa Romeo SZ — standard production road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Charlie from United Kingdom",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "be1ee52377488803084bf0a7f97606a6d051f56940d94e4f3715c8b3405eca22"
+        }
+      ]
+    },
+    {
+      "id": "VW-GOLF-GTI-MK1",
+      "manufacturer": "Volkswagen",
+      "model_family": "Golf GTI",
+      "generation": "First-generation Mk1 Type 17",
+      "variant": "Mk1 GTI — original 1.6 injection specification",
+      "model_year_from": 1976,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 110-PS 1.6 road specification, not later 1.8/Pirelli, Cabriolet, tuned car or a later Golf generation. Exact displacement is withheld because a related manufacturer exhibit document prints an inconsistent cc figure; this profile uses the consistent 1.6-litre description.",
+      "summary": "The first Golf GTI helped define the modern hot hatch by combining fuel-injected performance, a developed chassis and everyday compact-car practicality.",
+      "admission_reason": "The first Golf GTI helped define the modern hot hatch by combining fuel-injected performance, a developed chassis and everyday compact-car practicality.",
+      "sources": [
+        {
+          "publisher": "Volkswagen",
+          "title": "Volkswagen Mk1 GTI — original 1.6 injection specification — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.volkswagen-newsroom.com/en/golf-1-gti-19761983-19498",
+          "notes": "Original 110-PS 1.6 road specification, not later 1.8/Pirelli, Cabriolet, tuned car or a later Golf generation. Exact displacement is withheld because a related manufacturer exhibit document prints an inconsistent cc figure; this profile uses the consistent 1.6-litre description."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Golf GTI, Pau 2015.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_GTI,_Pau_2015.jpg",
+          "notes": "Handelsgeselschaft; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "81",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "175/70 HR 13",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lowered front 10 mm and rear 20 mm; anti-roll bars at both ends",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Tartan sports seats",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Golf GTI helped define the modern hot hatch by combining fuel-injected performance, a developed chassis and everyday compact-car practicality.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_golf_gti_mk1.jpg",
+          "caption": "Volkswagen Mk1 GTI — original 1.6 injection specification — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Handelsgeselschaft",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b3c18b5b3339d2c14c6f3fb9e420ac114c05981e7774f5fa4d86879a59d6f530"
+        }
+      ]
+    },
+    {
+      "id": "REN-CLIO-WILLIAMS-ROAD",
+      "manufacturer": "Renault",
+      "model_family": "Clio",
+      "generation": "Clio I original Williams",
+      "variant": "Williams — original road hatchback",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original road Williams family, not a rally-prepared car or later Clio V6. Production began in 1993; a photo filename’s earlier date is not used as evidence of a production year. Manufacturer horsepower notation is retained without assuming English hp equals PS.",
+      "summary": "The Clio Williams became a benchmark 1990s sporting hatchback through its two-litre front-drive package and enduring rallying connection.",
+      "admission_reason": "The Clio Williams became a benchmark 1990s sporting hatchback through its two-litre front-drive package and enduring rallying connection.",
+      "sources": [
+        {
+          "publisher": "Renault",
+          "title": "Renault Williams — original road hatchback — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://theoriginals.renault.com/en/clio-williams",
+          "notes": "Original road Williams family, not a rally-prepared car or later Clio V6. Production began in 1993; a photo filename’s earlier date is not used as evidence of a production year. Manufacturer horsepower notation is retained without assuming English hp equals PS."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1992 Renault Clio Williams 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1992_Renault_Clio_Williams_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front transverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "215",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "3.71",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "150",
+          "unit": "manufacturer hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Clio Williams became a benchmark 1990s sporting hatchback through its two-litre front-drive package and enduring rallying connection.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_clio_williams_road.jpg",
+          "caption": "Renault Williams — original road hatchback — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c266386ef16546496b11933cf9c98327dc3017e4bab4a4060901355f54ff0d8f"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M5-E34-35-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "Second-generation E34 M5",
+      "variant": "E34 — original S38B36 3.5 road saloon",
+      "model_year_from": 1988,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 3.5 road saloon, not later 3.8, six-speed facelift, Touring, anniversary trim or convertible prototype. Manufacturer explicitly separates the first engine stage from later upgrades; top speed is electronically limited.",
+      "summary": "The E34 M5 developed the straight-six M5 into a more sophisticated sports saloon and represents the final M5 generation before the move to V8 power.",
+      "admission_reason": "The E34 M5 developed the straight-six M5 into a more sophisticated sports saloon and represents the final M5 generation before the move to V8 power.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW E34 — original S38B36 3.5 road saloon — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-bmw-m5-of-1988.html",
+          "notes": "Original 3.5 road saloon, not later 3.8, six-speed facelift, Touring, anniversary trim or convertible prototype. Manufacturer explicitly separates the first engine stage from later upgrades; top speed is electronically limited."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M5 E34 (4891494961).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M5_E34_(4891494961).jpg",
+          "notes": "nakhon100; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: BMW M5 E34"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-valve inline six, S38B36",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3535",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "232",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "360",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.3",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E34 M5 developed the straight-six M5 into a more sophisticated sports saloon and represents the final M5 generation before the move to V8 power.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_e34_35_road.jpg",
+          "caption": "BMW E34 — original S38B36 3.5 road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7a96214438f5e1f9ead4c1d7ace2ef4ca47f19d2d3f2d2ba9da7c3499d9a2488"
+        }
+      ]
+    },
+    {
+      "id": "ALF-MONTREAL-V8-ROAD",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Montreal",
+      "generation": "Original production V8 Montreal",
+      "variant": "Montreal — production 2.6 V8 road coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Production V8 road model; 1970 is the public-debut reference, not a claimed delivery interval. Not the 1967 Giulia-based four-cylinder show cars or a Tipo 33 racer. The anniversary release explicitly distinguishes prototype and production engine layouts.",
+      "summary": "The Montreal combined Gandini’s distinctive Bertone coupe design with a road-developed Tipo 33-derived V8, preserving dry-sump and alloy-engine engineering in a production grand tourer.",
+      "admission_reason": "The Montreal combined Gandini’s distinctive Bertone coupe design with a road-developed Tipo 33-derived V8, preserving dry-sump and alloy-engine engineering in a production grand tourer.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "Alfa Romeo Montreal — production 2.6 V8 road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/50-jahre-alfa-romeo-montreal-einzigartiger-gran-turismo-mit-rennsport-genen",
+          "notes": "Production V8 road model; 1970 is the public-debut reference, not a claimed delivery interval. Not the 1967 Giulia-based four-cylinder show cars or a Tipo 33 racer. The anniversary release explicitly distinguishes prototype and production engine layouts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Alfa Romeo Montreal (2012-07-04 4791 b).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Montreal_(2012-07-04_4791_b).JPG",
+          "notes": "Lothar Spurzem; CC BY-SA 2.0 de. License: https://creativecommons.org/licenses/by-sa/2.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "147",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "SPICA mechanical injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear with limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Marcello Gandini / Bertone",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Montreal combined Gandini’s distinctive Bertone coupe design with a road-developed Tipo 33-derived V8, preserving dry-sump and alloy-engine engineering in a production grand tourer.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_montreal_v8_road.jpg",
+          "caption": "Alfa Romeo Montreal — production 2.6 V8 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "03dcc19ce07171c7b9a298d2961e701d7071bc0d7951a83c812cc21adb5e2a50"
+        }
+      ]
+    }
+  ]
+}
