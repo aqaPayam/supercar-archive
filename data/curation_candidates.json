@@ -1,7 +1,7 @@
 {
   "reviewed_on": "2026-10-28",
   "baseline_count": 395,
-  "status": "Research queue; not approved or counted catalogue additions",
+  "status": "Admission tracking: only verified imported catalogue entries count toward the target.",
   "candidates": [
     {
       "manufacturer": "BMW",
@@ -33,7 +33,8 @@
       "reason": "The Stratos programme earned three consecutive world constructors' rally championships from 1974 to 1976.",
       "evidence": "https://www.media.stellantis.com/em-en/lancia/press/lancia-stratos-one-of-the-most-successful-rally-cars-of-all-time-is-celebrating-today-the-50th-anniversary-of-its-first-international-victory",
       "duplicate_review": "No Lancia records in the baseline.",
-      "remaining": "Find road-specific technical evidence and licensed Stradale photo; do not substitute Group 4 specifications."
+      "remaining": "None for the selected road representative.",
+      "status": "Imported and validated in data/icons-road-02.json"
     },
     {
       "manufacturer": "Lancia",
@@ -43,7 +44,8 @@
       "reason": "The Delta competition programme's sustained championship success makes its homologation road cars strong rally-icon candidates.",
       "evidence": "https://www.media.stellantis.com/de-de/lancia/press/100-jahre-lancia-die-erfolgreichste-marke-der-rallyesport-historie-vor-dem-start-der-rallye-monte-carlo-ruckblick-auf-74-siege-in-der-wm-fulvia-stratos-rally-037-und-delta-integrale-schrieben-sportgeschichte",
       "duplicate_review": "No Lancia records in the baseline. Do not count each proposed derivative before the variant rule is settled.",
-      "remaining": "Choose precise road derivative, obtain technical evidence and a licensed matching photo."
+      "remaining": "None for the selected road representative.",
+      "status": "Imported and validated in data/icons-road-02.json"
     },
     {
       "manufacturer": "Lancia",
@@ -66,6 +68,118 @@
       "duplicate_review": "No Peugeot records in the baseline.",
       "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
       "status": "Imported and validated in data/icons-road-01.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Delta S4",
+      "generation": "Original mid-engined Group B homologation series",
+      "proposed_record": "S4 Stradale",
+      "reason": "The S4 Stradale brought combined supercharger and turbocharger technology to a mid-engined, all-wheel-drive road homologation special.",
+      "evidence": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/fca-protagonista-di-milano-autoclassica-5-1-2",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Fulvia",
+      "generation": "First-series 1.6 HF Fanalone",
+      "proposed_record": "1.6 HF Fanalone — standard road specification",
+      "reason": "The lightweight Fulvia HF road cars established the lineage behind Lancia’s early rally success, with the 1.6 Fanalone becoming a defining homologation special.",
+      "evidence": "https://www.media.stellantis.com/em-en/lancia/press/lancia-brings-its-little-red-elephant-back-to-the-road-and-celebrates-60-years-of-hf-passion",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "131 Abarth",
+      "generation": "Original Group 4 road homologation series",
+      "proposed_record": "Abarth Rally — road homologation car",
+      "reason": "The 131 Abarth road special homologated the programme that earned Fiat three constructors titles, turning the saloon silhouette into a rally icon.",
+      "evidence": "https://www.stellantisheritage.com/en-uk/heritage/stories/fiat-131-abarth-rally-gr-4",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "5 Turbo",
+      "generation": "Original aluminium-roof Turbo",
+      "proposed_record": "5 Turbo — original road car",
+      "reason": "The original 5 Turbo replaced the rear seat with a turbocharged engine, creating a distinctive mid-engined road special with lasting rally and cultural significance.",
+      "evidence": "https://theoriginals.renault.com/en/r5-turbo",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Clio V6",
+      "generation": "Clio II V6 Phase I",
+      "proposed_record": "V6 Phase I — original road car",
+      "reason": "The Clio V6 transferred the mid-engined Renault hot-hatch idea into a V6 road car, replacing the rear seating rather than merely uprating a normal Clio.",
+      "evidence": "https://theoriginals.renault.com/en/clio-v6",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "RS200",
+      "generation": "Original Group B road homologation series",
+      "proposed_record": "RS200 — standard road car",
+      "reason": "The RS200 was a purpose-built mid-engined, all-wheel-drive Group B project whose road homologation cars embody a short but important rally era.",
+      "evidence": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Sierra",
+      "generation": "Original three-door RS Cosworth",
+      "proposed_record": "RS Cosworth — original 204 PS road car",
+      "reason": "The original Sierra RS Cosworth connected a turbocharged road homologation model to Ford’s major touring-car and rally programmes.",
+      "evidence": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-wrc-history-motorsport-heritage",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "2002",
+      "generation": "02 Series turbocharged road saloon",
+      "proposed_record": "2002 turbo",
+      "reason": "The 2002 turbo was a pioneering European turbocharged production performance car, establishing a template for later compact turbo road cars.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-2002-turbo-e20.html",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "190 E",
+      "generation": "W201 original 2.3-16 road series",
+      "proposed_record": "2.3-16 — original 136 kW road specification",
+      "reason": "The 190 E 2.3-16 established Mercedes’ modern four-valve sports-saloon line and underpinned a record-testing and touring-car competition programme.",
+      "evidence": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2023/08/202308-40ans190_ENG.pdf",
+      "duplicate_review": "Absent from the 399-car baseline; exact ID and normalized identity validated before import.",
+      "status": "Imported and validated in data/icons-road-02.json",
+      "remaining": "None for this selected road record."
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Escort RS Cosworth",
+      "generation": "Original 1992 road series",
+      "proposed_record": "Original road homologation version; reference market pending",
+      "reason": "A defining all-wheel-drive Group A homologation car with a substantial international rally legacy.",
+      "evidence": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+      "duplicate_review": "Absent from the 410-car catalogue.",
+      "status": "Pending technical evidence",
+      "remaining": "Read the June 1992 Ford brochure and resolve differing published road output descriptions before importing.",
+      "located_brochure": "https://autocatalogarchive.com/wp-content/uploads/2020/10/Ford-Escort-RS-Cosworth-1992-UK-.pdf"
     }
-  ]
+  ],
+  "catalogue_count_after_batches": 410
 }

@@ -1,0 +1,1172 @@
+{
+  "batch": "icons-road-2026-10-28-02",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 11,
+  "cars": [
+    {
+      "id": "LAN-STRATOS-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Stratos",
+      "generation": "Original HF Stradale",
+      "variant": "HF Stradale",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original road body and architecture. Reference year follows the manufacturer collection vehicle. Group 4 power, variable racing gear ratios and the 1970 Zero concept are excluded; uncertain historical power/speed claims remain unfilled.",
+      "summary": "The Stratos was conceived around rally competition rather than adapted from an everyday car; its road version preserves that purpose-built layout.",
+      "admission_reason": "The Stratos was conceived around rally competition rather than adapted from an everyday car; its road version preserves that purpose-built layout.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia HF Stradale — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/events/chantilly-arts-and-elegance-richard-mille-2024",
+          "notes": "Original road body and architecture. Reference year follows the manufacturer collection vehicle. Group 4 power, variable racing gear ratios and the 1970 Zero concept are excluded; uncertain historical power/speed claims remain unfilled."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1974 Lancia Stratos Stradale at Greenwich 2021, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1974_Lancia_Stratos_Stradale_at_Greenwich_2021,_front_left.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ferrari Dino V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Exterior panels",
+          "value": "Fibreglass",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Designer",
+          "value": "Marcello Gandini / Bertone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Central structure",
+          "value": "Steel safety cell",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Stratos was conceived around rally competition rather than adapted from an everyday car; its road version preserves that purpose-built layout.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_stratos_road.jpg",
+          "caption": "Lancia HF Stradale — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c6be76f62e53926ae1c6ae93487a155992f0f7b043ae03ff7685990685258536"
+        }
+      ]
+    },
+    {
+      "id": "LAN-DELTA-EVO2-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Delta",
+      "generation": "First-generation HF integrale Evoluzione II",
+      "variant": "HF integrale Evoluzione II — standard road car",
+      "model_year_from": 1994,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "1994 manufacturer-collection Evo II road reference. Not an Evo I, rally Group A car or cosmetic Martini edition. The family championship record is not attributed to racing an Evo II road car.",
+      "summary": "The Evoluzione II represents the developed road form of the Delta family whose competition programme earned six consecutive manufacturers titles.",
+      "admission_reason": "The Evoluzione II represents the developed road form of the Delta family whose competition programme earned six consecutive manufacturers titles.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia HF integrale Evoluzione II — standard road car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/fca-protagonista-di-milano-autoclassica-5-1-2",
+          "notes": "1994 manufacturer-collection Evo II road reference. Not an Evo I, rally Group A car or cosmetic Martini edition. The family championship record is not attributed to racing an Evo II road car. kW calculated at 0.73549875 kW per PS/CV."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1993 Lancia Delta HF Integrale Evoluzione II HCC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1993_Lancia_Delta_HF_Integrale_Evoluzione_II_HCC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "215",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "220",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Track",
+          "value": "Widened relative to earlier Delta",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Development",
+          "value": "Uprated braking system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "158.1",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Evoluzione II represents the developed road form of the Delta family whose competition programme earned six consecutive manufacturers titles.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_delta_evo2_road.jpg",
+          "caption": "Lancia HF integrale Evoluzione II — standard road car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "830971cdc481ee72d6df37fc7d2c685dfa308bf130ced69ad987d1e94f64dbbc"
+        }
+      ]
+    },
+    {
+      "id": "LAN-DELTA-S4-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Delta S4",
+      "generation": "Original mid-engined Group B homologation series",
+      "variant": "S4 Stradale",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Standard road specification; competition power near 500 HP excluded. Reference year is the Group B homologation year, not a claim of a production interval. Distinct from the front-engined Delta integrale despite the shared name.",
+      "summary": "The S4 Stradale brought combined supercharger and turbocharger technology to a mid-engined, all-wheel-drive road homologation special.",
+      "admission_reason": "The S4 Stradale brought combined supercharger and turbocharger technology to a mid-engined, all-wheel-drive road homologation special.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia S4 Stradale — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/fca-protagonista-di-milano-autoclassica-5-1-2",
+          "notes": "Standard road specification; competition power near 500 HP excluded. Reference year is the Group B homologation year, not a claim of a production interval. Distinct from the front-engined Delta integrale despite the shared name."
+        },
+        {
+          "publisher": "Lancia Heritage",
+          "title": "Delta S4 and S4 Stradale",
+          "source_type": "Manufacturer history",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/stories/lancia-delta-s4-e-s4-stradale",
+          "notes": "Road version and 1 November 1985 homologation."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1985 Lancia Delta S4 Stradale FOS25.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1985_Lancia_Delta_S4_Stradale_FOS25.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1759",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Two overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger plus turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "250",
+          "unit": "manufacturer HP",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Tubular steel with Kevlar/carbon honeycomb panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Longitudinal mid-rear",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S4 Stradale brought combined supercharger and turbocharger technology to a mid-engined, all-wheel-drive road homologation special.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_delta_s4_road.jpg",
+          "caption": "Lancia S4 Stradale — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "34263af228bc1b7a65f4ce897e74de4803ee3dcb5d655b39f3cea73e4a634d2d"
+        }
+      ]
+    },
+    {
+      "id": "LAN-FULVIA-16HF-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Fulvia",
+      "generation": "First-series 1.6 HF Fanalone",
+      "variant": "1.6 HF Fanalone — standard road specification",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "First-series 1969 1.6 HF road model. Excludes the 130 hp 1016 specification, 165 HP Group 4 car and later steel-panel Lusso. No race-car weight or speed is assigned.",
+      "summary": "The lightweight Fulvia HF road cars established the lineage behind Lancia’s early rally success, with the 1.6 Fanalone becoming a defining homologation special.",
+      "admission_reason": "The lightweight Fulvia HF road cars established the lineage behind Lancia’s early rally success, with the 1.6 Fanalone becoming a defining homologation special.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia 1.6 HF Fanalone — standard road specification — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/em-en/lancia/press/lancia-brings-its-little-red-elephant-back-to-the-road-and-celebrates-60-years-of-hf-passion",
+          "notes": "First-series 1969 1.6 HF road model. Excludes the 130 hp 1016 specification, 165 HP Group 4 car and later steel-panel Lusso. No race-car weight or speed is assigned."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lancia Fulvia HF Fanalone 1970 - 0.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lancia_Fulvia_HF_Fanalone_1970_-_0.jpg",
+          "notes": "ColinMB; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Narrow-angle V4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "115",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Boot lid",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The lightweight Fulvia HF road cars established the lineage behind Lancia’s early rally success, with the 1.6 Fanalone becoming a defining homologation special.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_fulvia_16hf_road.jpg",
+          "caption": "Lancia 1.6 HF Fanalone — standard road specification — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "ColinMB",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2241527e74713b47a964a7d22789e9b5bf3cd5b2aab97d24d5ee0ba5d3e025b8"
+        }
+      ]
+    },
+    {
+      "id": "FIA-131-ABARTH-ROAD",
+      "manufacturer": "Fiat",
+      "model_family": "131 Abarth",
+      "generation": "Original Group 4 road homologation series",
+      "variant": "Abarth Rally — road homologation car",
+      "model_year_from": 1976,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door saloon",
+      "road_legal": 1,
+      "specification_market": "Road version explicitly separated from the article’s competition table. Injection, 225–245 HP, racing weight and the race-only ZF limited-slip differential are excluded.",
+      "summary": "The 131 Abarth road special homologated the programme that earned Fiat three constructors titles, turning the saloon silhouette into a rally icon.",
+      "admission_reason": "The 131 Abarth road special homologated the programme that earned Fiat three constructors titles, turning the saloon silhouette into a rally icon.",
+      "sources": [
+        {
+          "publisher": "Fiat",
+          "title": "Fiat Abarth Rally — road homologation car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/stories/fiat-131-abarth-rally-gr-4",
+          "notes": "Road version explicitly separated from the article’s competition table. Injection, 225–245 HP, racing weight and the race-only ZF limited-slip differential are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1976 Fiat 131 Abarth Rally Stradale in Rosso Aranci, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1976_Fiat_131_Abarth_Rally_Stradale_in_Rosso_Aranci,_front_left.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber twin-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "140",
+          "unit": "manufacturer horsepower",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 131 Abarth road special homologated the programme that earned Fiat three constructors titles, turning the saloon silhouette into a rally icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_131_abarth_road.jpg",
+          "caption": "Fiat Abarth Rally — road homologation car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7b2cf19a9fc92ff1a49bfce94869c83f31457b45e1ba6aeccf7a59fe6303b8a5"
+        }
+      ]
+    },
+    {
+      "id": "REN-5-TURBO-ROAD",
+      "manufacturer": "Renault",
+      "model_family": "5 Turbo",
+      "generation": "Original aluminium-roof Turbo",
+      "variant": "5 Turbo — original road car",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "1980 road launch. The museum page combines road and competition engine ranges, so displacement, speed and production totals are withheld. Original aluminium-roof car, not Turbo 2, Maxi or the modern Turbo 3E.",
+      "summary": "The original 5 Turbo replaced the rear seat with a turbocharged engine, creating a distinctive mid-engined road special with lasting rally and cultural significance.",
+      "admission_reason": "The original 5 Turbo replaced the rear seat with a turbocharged engine, creating a distinctive mid-engined road special with lasting rally and cultural significance.",
+      "sources": [
+        {
+          "publisher": "Renault",
+          "title": "Renault 5 Turbo — original road car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://theoriginals.renault.com/en/r5-turbo",
+          "notes": "1980 road launch. The museum page combines road and competition engine ranges, so displacement, speed and production totals are withheld. Original aluminium-roof car, not Turbo 2, Maxi or the modern Turbo 3E."
+        },
+        {
+          "publisher": "Renault",
+          "title": "Maxi 5 Turbo history — original road-car introduction",
+          "source_type": "Manufacturer museum",
+          "url": "https://theoriginals.renault.com/en/maxi-5-turbo",
+          "notes": "Opening paragraph explicitly identifies the 1980 road car as 160 hp; later Maxi figures are not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1981 Renault 5 Turbo 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1981_Renault_5_Turbo_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Nominal length",
+          "value": "3.66",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Nominal width",
+          "value": "1.75",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "160",
+          "unit": "manufacturer hp",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 5 Turbo replaced the rear seat with a turbocharged engine, creating a distinctive mid-engined road special with lasting rally and cultural significance.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_5_turbo_road.jpg",
+          "caption": "Renault 5 Turbo — original road car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "815f412f712ddfca032f6885be37b86951657ecb14c50742535a93e4c4ec5b8b"
+        }
+      ]
+    },
+    {
+      "id": "REN-CLIO-V6-P1",
+      "manufacturer": "Renault",
+      "model_family": "Clio V6",
+      "generation": "Clio II V6 Phase I",
+      "variant": "V6 Phase I — original road car",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Phase I; museum states sales began in November 2000. Conflicting museum capacity, power-unit and speed descriptions are withheld rather than converted or blended with Phase II figures. France identifies the Renault programme, not the Phase I assembly location.",
+      "summary": "The Clio V6 transferred the mid-engined Renault hot-hatch idea into a V6 road car, replacing the rear seating rather than merely uprating a normal Clio.",
+      "admission_reason": "The Clio V6 transferred the mid-engined Renault hot-hatch idea into a V6 road car, replacing the rear seating rather than merely uprating a normal Clio.",
+      "sources": [
+        {
+          "publisher": "Renault",
+          "title": "Renault V6 Phase I — original road car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://theoriginals.renault.com/en/clio-v6",
+          "notes": "Original Phase I; museum states sales began in November 2000. Conflicting museum capacity, power-unit and speed descriptions are withheld rather than converted or blended with Phase II figures. France identifies the Renault programme, not the Phase I assembly location."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2002 Renault Clio V6.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2002_Renault_Clio_V6.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "24",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engineering",
+          "label": "Phase I development",
+          "value": "TWR",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Clio V6 transferred the mid-engined Renault hot-hatch idea into a V6 road car, replacing the rear seating rather than merely uprating a normal Clio.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_clio_v6_p1.jpg",
+          "caption": "Renault V6 Phase I — original road car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9f4fe2a0bb72cd0c260e83beb5e3d4d05f7c1aedb5e781ef7fe8d4786a1c37bb"
+        }
+      ]
+    },
+    {
+      "id": "FOR-RS200-ROAD",
+      "manufacturer": "Ford",
+      "model_family": "RS200",
+      "generation": "Original Group B road homologation series",
+      "variant": "RS200 — standard road car",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Road architecture only. The article’s over-370 PS competition output is excluded; road output and build totals remain unfilled. Not an Evolution or later rallycross conversion.",
+      "summary": "The RS200 was a purpose-built mid-engined, all-wheel-drive Group B project whose road homologation cars embody a short but important rally era.",
+      "admission_reason": "The RS200 was a purpose-built mid-engined, all-wheel-drive Group B project whose road homologation cars embody a short but important rally era.",
+      "sources": [
+        {
+          "publisher": "Ford",
+          "title": "Ford RS200 — standard road car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+          "notes": "Road architecture only. The article’s over-370 PS competition output is excluded; road output and build totals remain unfilled. Not an Evolution or later rallycross conversion."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Ford RS200 Group B Road Version Rally Car.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Ford_RS200_Group_B_Road_Version_Rally_Car.JPG",
+          "notes": "Stephen Foskett (Wikipedia User: sfoskett ); CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Imperial Palace Auto Collections, Las Vegas, NV"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Developer",
+          "value": "Cosworth",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium honeycomb monocoque",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The RS200 was a purpose-built mid-engined, all-wheel-drive Group B project whose road homologation cars embody a short but important rally era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_rs200_road.jpg",
+          "caption": "Ford RS200 — standard road car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Stephen Foskett (Wikipedia User: sfoskett )",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d352bbf19bd85306485fa5e70b81fdc3c3f420fd84ac5ff515f54b4238ebe410"
+        }
+      ]
+    },
+    {
+      "id": "FOR-SIERRA-COS-ROAD",
+      "manufacturer": "Ford",
+      "model_family": "Sierra",
+      "generation": "Original three-door RS Cosworth",
+      "variant": "RS Cosworth — original 204 PS road car",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original three-door road model; excludes RS500, later Sapphire and four-wheel-drive derivatives. Historical competition dates in the article are not used as road production endpoints.",
+      "summary": "The original Sierra RS Cosworth connected a turbocharged road homologation model to Ford’s major touring-car and rally programmes.",
+      "admission_reason": "The original Sierra RS Cosworth connected a turbocharged road homologation model to Ford’s major touring-car and rally programmes.",
+      "sources": [
+        {
+          "publisher": "Ford",
+          "title": "Ford RS Cosworth — original 204 PS road car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-wrc-history-motorsport-heritage",
+          "notes": "Original three-door road model; excludes RS500, later Sapphire and four-wheel-drive derivatives. Historical competition dates in the article are not used as road production endpoints. kW calculated at 0.73549875 kW per PS/CV."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Ford Sierra RS Cosworth - 2.0 (204PS) petrol manual - 2025-05-05, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Ford_Sierra_RS_Cosworth_-_2.0_(204PS)_petrol_manual_-_2025-05-05,_front_right.jpg",
+          "notes": "DieselFordMondeo; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Developer",
+          "value": "Cosworth",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Underlying engine family",
+          "value": "Ford Pinto",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (metric)",
+          "value": "204",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "150.0",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Sierra RS Cosworth connected a turbocharged road homologation model to Ford’s major touring-car and rally programmes.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_sierra_cos_road.jpg",
+          "caption": "Ford RS Cosworth — original 204 PS road car — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "DieselFordMondeo",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d8fcbd1e4f03b99af67a8d66f7ce120183c72ac7438834db713f0f23be71363b"
+        }
+      ]
+    },
+    {
+      "id": "BMW-2002-TURBO-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "2002",
+      "generation": "02 Series turbocharged road saloon",
+      "variant": "2002 turbo",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door saloon",
+      "road_legal": 1,
+      "specification_market": "Manufacturer 2021 retrospective. Published kW used directly; no conversion from the inconsistent bhp terminology on another archive page.",
+      "summary": "The 2002 turbo was a pioneering European turbocharged production performance car, establishing a template for later compact turbo road cars.",
+      "admission_reason": "The 2002 turbo was a pioneering European turbocharged production performance car, establishing a template for later compact turbo road cars.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW 2002 turbo — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-2002-turbo-e20.html",
+          "notes": "Manufacturer 2021 retrospective. Published kW used directly; no conversion from the inconsistent bhp terminology on another archive page."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW 2002 Turbo- P5190663.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_2002_Turbo-_P5190663.jpg",
+          "notes": "Ermell; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "125",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "240",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1990",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "7.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "211",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Curb weight",
+          "value": "1080",
+          "unit": "kg",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 2002 turbo was a pioneering European turbocharged production performance car, establishing a template for later compact turbo road cars.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_2002_turbo_road.jpg",
+          "caption": "BMW 2002 turbo — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Ermell",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "71b308e994a55aad38e4513cad577b72a0f296f0c2359cf3ac6bf56ccb371d9d"
+        }
+      ]
+    },
+    {
+      "id": "MER-190E-2316-ROAD",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "190 E",
+      "generation": "W201 original 2.3-16 road series",
+      "variant": "2.3-16 — original 136 kW road specification",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original road specification, not a modified Nardò record car. Manufacturer 2023 release hosted by the official Mercedes-Benz club network. Top speed is withheld because this release conflicts with other period descriptions; record-car speeds are excluded.",
+      "summary": "The 190 E 2.3-16 established Mercedes’ modern four-valve sports-saloon line and underpinned a record-testing and touring-car competition programme.",
+      "admission_reason": "The 190 E 2.3-16 established Mercedes’ modern four-valve sports-saloon line and underpinned a record-testing and touring-car competition programme.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "Mercedes-Benz 2.3-16 — original 136 kW road specification — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2023/08/202308-40ans190_ENG.pdf",
+          "notes": "Original road specification, not a modified Nardò record car. Manufacturer 2023 release hosted by the official Mercedes-Benz club network. Top speed is withheld because this release conflicts with other period descriptions; record-car speeds are excluded."
+        },
+        {
+          "publisher": "Mercedes-Benz",
+          "title": "40 years of the 190",
+          "source_type": "Manufacturer retrospective",
+          "url": "https://media.mercedes-benz.at/news-das-baby-ist-mit-40-beliebter-denn-je-mercedes-benz-oesterreich?id=168651&imageid=630488&l=deutsch&menueid=9661",
+          "notes": "1984 road availability and touring-car programme; not permission to apply record-car modifications to the road model."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1985 Mercedes-Benz 190 E 2.3-16 (12099058093).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1985_Mercedes-Benz_190_E_2.3-16_(12099058093).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1985 Mercedes-Benz 190 E 2.3-16"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2299",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "136",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "7.5",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 190 E 2.3-16 established Mercedes’ modern four-valve sports-saloon line and underpinned a record-testing and touring-car competition programme.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_190e_2316_road.jpg",
+          "caption": "Mercedes-Benz 2.3-16 — original 136 kW road specification — representative exterior photograph. The pictured year, market, equipment and installed engine are not certified by this image.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "468d023df4c80d5406ed9001335498a319a2c2e799c497ed24394ecab9df1a48"
+        }
+      ]
+    }
+  ]
+}

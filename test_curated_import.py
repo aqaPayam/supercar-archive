@@ -62,6 +62,26 @@ class CuratedImportTests(unittest.TestCase):
                 import_curated(self.db, self.manifest, True)
         self.assertEqual(before, snapshot(self.db))
 
+    def test_all_curated_batches_preserve_baseline_and_do_not_collide(self):
+        batches = [(path, json.loads(path.read_text(encoding='utf8')))
+                   for path in sorted((ROOT/'data').glob('icons-road-*.json'))]
+        with closing(sqlite3.connect(self.db)) as db, db:
+            db.execute('PRAGMA foreign_keys=ON')
+            for _, data in batches:
+                db.executemany('DELETE FROM cars WHERE id=?', [(c['id'],) for c in data['cars']])
+                db.execute('DELETE FROM meta WHERE key=?', ('import:'+data['batch'],))
+        before = snapshot(self.db)
+        expected = len(before['cars'])
+        for path, data in batches:
+            with self.subTest(batch=data['batch']):
+                self.assertEqual(import_curated(self.db, path, True), data['expected_count'])
+                expected += data['expected_count']
+                self.assertEqual(import_curated(self.db, path, True), 0)
+        after = snapshot(self.db)
+        self.assertEqual(len(after['cars']), expected)
+        for table, rows in before.items():
+            self.assertTrue(rows <= after[table], table)
+
 
 if __name__ == '__main__':
     unittest.main()

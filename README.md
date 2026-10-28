@@ -57,3 +57,6 @@ New additions follow the [performance-icon admission policy](docs/curation1000.m
 Each car needs a sourced explanation of its significance, alongside its technical
 evidence and licensed photograph. The [first road-icon batch](docs/icons-road-01.md)
 adds four missing homologation and engineering landmarks, reaching 399 records.
+The [second road-icon batch](docs/icons-road-02.md) adds eleven more selected
+models, bringing the working catalogue to 410 records. The 1,000-car goal remains
+active, with eligibility review taking priority over the numerical count.
