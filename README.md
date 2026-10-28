@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Eleven reviewed road-icon batches add 116 cars
-to the 395-record baseline, bringing the working catalogue to 511 records.
-The latest [French performance-icon batch](docs/icons-road-11.md)
-adds four missing model families, following the
-[Ford RS/ST and Lotus collaboration batch](docs/icons-road-10.md). Individual reviews and
+evidence and licensed photograph. Twelve reviewed road-icon batches add 123 cars
+to the 395-record baseline, bringing the working catalogue to 518 records.
+The latest [Renault and original Alpine batch](docs/icons-road-12.md)
+adds seven missing model families or generations, following the
+[French performance-icon batch](docs/icons-road-11.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the

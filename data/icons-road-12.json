@@ -1,0 +1,812 @@
+{
+  "batch": "icons-road-2026-10-29-12",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "REN-8-GORDINI-1300-ROAD",
+      "manufacturer": "Renault",
+      "model_family": "8 Gordini",
+      "generation": "Original R8 Gordini 1300 road saloon",
+      "variant": "Gordini 1300 — 1255-cc road specification",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 1300 road evolution introduced in 1966, identified by Renault’s museum as 1255 cc and five speeds. Earlier 1108-cc/four-speed specifications and racing modifications are excluded. Museum 110 hp remains in its native undefined convention; no SAE/DIN assumption or net conversion. Photo identifies a 1968 1300-series road saloon; wheels and engine originality are not authenticated.",
+      "summary": "The R8 Gordini helped bring serious sporting performance to an accessible saloon. Its rally successes and the driver-development legacy of the Gordini Cup give the model an enduring place in French motorsport culture.",
+      "admission_reason": "The R8 Gordini helped bring serious sporting performance to an accessible saloon. Its rally successes and the driver-development legacy of the Gordini Cup give the model an enduring place in French motorsport culture.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "The Originals Museum — Renault 8 Gordini, 1300 evolution and sporting history",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://theoriginals.renault.com/en/r8-gordini",
+          "notes": "Original 1300 road evolution introduced in 1966, identified by Renault’s museum as 1255 cc and five speeds. Earlier 1108-cc/four-speed specifications and racing modifications are excluded. Museum 110 hp remains in its native undefined convention; no SAE/DIN assumption or net conversion. Photo identifies a 1968 1300-series road saloon; wheels and engine originality are not authenticated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1968 Renault 8 Gordini sedan (6107965676).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1968_Renault_8_Gordini_sedan_(6107965676).jpg",
+          "notes": "sv1ambo; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1968 Renault 8 Gordini sedan"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1255",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Rear, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "175",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.0",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "110",
+          "unit": "hp; rating basis unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R8 Gordini helped bring serious sporting performance to an accessible saloon. Its rally successes and the driver-development legacy of the Gordini Cup give the model an enduring place in French motorsport culture.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_8_gordini_1300_road.jpg",
+          "caption": "Renault 8 Gordini — 1968 1300-series road-saloon exterior. Photograph does not certify engine originality or optional equipment.",
+          "creator": "sv1ambo",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "46ee419260785374d0ebb604d8e2aaee8d07f185e3933bc5a568a5333611acd4"
+        }
+      ]
+    },
+    {
+      "id": "REN-SUPERCINQ-GT-TURBO-P1",
+      "manufacturer": "Renault",
+      "model_family": "Supercinq",
+      "generation": "Original front-drive Supercinq GT Turbo Phase 1",
+      "variant": "GT Turbo — original Phase 1 road hatch",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 1985 Phase 1 front-drive Supercinq GT Turbo, not the mid-engine original 5 Turbo already in the archive. Renault’s history explicitly separates 115-hp/197-km/h Phase 1 from 120-hp/204-km/h Phase 2. Native undefined hp retained. Alain Oreille edition and rally engine output are excluded. Photograph is a 1986 Phase 1 exterior with accessory cosmetic details, not proof of factory options.",
+      "summary": "The Supercinq GT Turbo became a defining turbocharged hot hatch and the road basis of a notable Group N rally programme, whose 1989 Ivory Coast victory demonstrated its competition significance beyond ordinary sporting trim.",
+      "admission_reason": "The Supercinq GT Turbo became a defining turbocharged hot hatch and the road basis of a notable Group N rally programme, whose 1989 Ivory Coast victory demonstrated its competition significance beyond ordinary sporting trim.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "The Originals Museum — Supercinq GT Turbo, Phase 1 and rally heritage",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://theoriginals.renault.com/en/supercinq-gt-turbo",
+          "notes": "Original 1985 Phase 1 front-drive Supercinq GT Turbo, not the mid-engine original 5 Turbo already in the archive. Renault’s history explicitly separates 115-hp/197-km/h Phase 1 from 120-hp/204-km/h Phase 2. Native undefined hp retained. Alain Oreille edition and rally engine output are excluded. Photograph is a 1986 Phase 1 exterior with accessory cosmetic details, not proof of factory options."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Renault 5 GT Turbo (14833388178).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Renault_5_GT_Turbo_(14833388178).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1986 Renault 5 GT Turbo"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder Cleon-fonte, cast-iron block",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1397",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett T2 turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "197",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "3.59",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "115",
+          "unit": "hp; Phase 1, rating basis unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Supercinq GT Turbo became a defining turbocharged hot hatch and the road basis of a notable Group N rally programme, whose 1989 Ivory Coast victory demonstrated its competition significance beyond ordinary sporting trim.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_supercinq_gt_turbo_p1.jpg",
+          "caption": "Renault Supercinq — 1986 Phase 1 exterior with accessory cosmetic details. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ac7aae720496f5990cadb3935fc4a8c6d9d65358e17610dacf97e52cebd26442"
+        }
+      ]
+    },
+    {
+      "id": "REN-SPORT-SPIDER-ROAD",
+      "manufacturer": "Renault",
+      "model_family": "Sport Spider",
+      "generation": "Original production road Spider",
+      "variant": "Spider — 1996 road series, optional windscreen reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-seat roadster",
+      "road_legal": 1,
+      "specification_market": "Original production road Spider, not the 180-hp Trophy competition car. Museum technical data supplies the 1998-cc engine, rear mid position, rear drive and aluminium chassis. Native museum 150 hp is not converted; a separate Renault retrospective quotes 147 PS, so no common net-kW rating is imposed. Undefined weights and inconsistent speeds are omitted. Photograph shows the optional windscreen road body; photo title does not establish its build year.",
+      "summary": "The Renault Sport Spider established the Renault Sport road-car identity through a stripped two-seat mid-engine sports car, using an aluminium chassis and an uncompromising focus on driver involvement rather than conventional hatchback origins.",
+      "admission_reason": "The Renault Sport Spider established the Renault Sport road-car identity through a stripped two-seat mid-engine sports car, using an aluminium chassis and an uncompromising focus on driver involvement rather than conventional hatchback origins.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "The Originals Museum — Renault Sport Spider, production road architecture",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://theoriginals.renault.com/en/spider",
+          "notes": "Original production road Spider, not the 180-hp Trophy competition car. Museum technical data supplies the 1998-cc engine, rear mid position, rear drive and aluminium chassis. Native museum 150 hp is not converted; a separate Renault retrospective quotes 147 PS, so no common net-kW rating is imposed. Undefined weights and inconsistent speeds are omitted. Photograph shows the optional windscreen road body; photo title does not establish its build year."
+        },
+        {
+          "publisher": "Renault Deutschland",
+          "title": "Licht und Luft aus Leidenschaft — Spider road-car design",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://presse.renault.de/licht-und-luft-aus-leidenschaft/?lang=deu",
+          "notes": "Manufacturer retrospectively confirms that the road Spider could have an optional windscreen. Its differing 147-PS output and mass/speed are not combined with the museum’s reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Renault Sport Spider (Sp 2014-06-15).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Renault_Sport_Spider_(Sp_2014-06-15).JPG",
+          "notes": "Lothar Spurzem; CC BY-SA 2.0 de. License: https://creativecommons.org/licenses/by-sa/2.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Rear mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "150",
+          "unit": "hp; road version, rating basis unspecified",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Optional factory windscreen selected for this reference",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Renault Sport Spider established the Renault Sport road-car identity through a stripped two-seat mid-engine sports car, using an aluminium chassis and an uncompromising focus on driver involvement rather than conventional hatchback origins.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_sport_spider_road.jpg",
+          "caption": "Renault Sport Spider — Road Spider with optional windscreen; exact build year unverified. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f81a6b687ce5c4d5c67ea72326e562866d4c7c3c2349899ae0f8560074f22c40"
+        }
+      ]
+    },
+    {
+      "id": "REN-MEGANE-II-R26R-ROAD",
+      "manufacturer": "Renault",
+      "model_family": "Megane",
+      "generation": "Second-generation Megane Renault Sport R26.R",
+      "variant": "R26.R — original 2008 road hatch",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original second-generation production R26.R announced in 2008; Renault’s German release is dated April 2009 but retains the October 2008 introduction statement. Explicit 169 kW / 230 PS, 310 Nm, six-speed and front drive are used. Optional titanium exhaust, roll cage and Toyo R888 are not standardised. Unqualified vehicle mass is omitted. A separate July 2008 manufacturer release corroborates the launch and historical significance. Photograph identifies a 2009 example, not proof of installed options.",
+      "summary": "The R26.R established a focused Renault Sport road-hatch formula through extensive weight reduction, a limited-slip front axle and track-developed suspension, setting a contemporary Nurburgring benchmark for its category.",
+      "admission_reason": "The R26.R established a focused Renault Sport road-hatch formula through extensive weight reduction, a limited-slip front axle and track-developed suspension, setting a contemporary Nurburgring benchmark for its category.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "Renault Deutschland — Megane R26.R production powertrain and chassis",
+          "source_type": "Manufacturer launch technical release, archived republication",
+          "url": "https://presse.renault.de/neues-topmodell-von-renault-sport/?lang=deu",
+          "notes": "Original second-generation production R26.R announced in 2008; Renault’s German release is dated April 2009 but retains the October 2008 introduction statement. Explicit 169 kW / 230 PS, 310 Nm, six-speed and front drive are used. Optional titanium exhaust, roll cage and Toyo R888 are not standardised. Unqualified vehicle mass is omitted. A separate July 2008 manufacturer release corroborates the launch and historical significance. Photograph identifies a 2009 example, not proof of installed options."
+        },
+        {
+          "publisher": "Renault Sport / Alpine media archive",
+          "title": "Megane R26.R — original July 22, 2008 announcement",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.alpinecars.com/megane-r26r-the-new-flagship-of-the-renault-sport-technologies-range/?lang=eng",
+          "notes": "Confirms October 2008 introduction, 123-kg reduction from R26 and June 2008 category lap benchmark. No race-car specification is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Renault Mégane R26R (3966720936).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Renault_M%C3%A9gane_R26R_(3966720936).jpg",
+          "notes": "Spanish Coches; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2009 Renault Mégane R26R"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged four-cylinder 16-valve petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "169",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "310",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Standard limited-slip front differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R26.R established a focused Renault Sport road-hatch formula through extensive weight reduction, a limited-slip front axle and track-developed suspension, setting a contemporary Nurburgring benchmark for its category.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_megane_ii_r26r_road.jpg",
+          "caption": "Renault Megane — 2009 original-generation R26.R exterior. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Spanish Coches",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5e4c3a298188c061775b55b52b8f8d65a1e9091acae671a305e1dc93d640546d"
+        }
+      ]
+    },
+    {
+      "id": "REN-MEGANE-III-275-TROPHYR",
+      "manufacturer": "Renault",
+      "model_family": "Megane",
+      "generation": "Third-generation Megane Renault Sport Trophy-R",
+      "variant": "275 Trophy-R — 2014 French road specification",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Third-generation 2014 production 275 Trophy-R, not ordinary Trophy, second-generation R26.R or fourth-generation 300 Trophy-R. Standard equipment and optional Record Kit are distinguished: lithium battery, accessory brakes and six-point harnesses are not assumed. The source’s late rear-wheel-drive wording contradicts its explicit front-wheel-drive record description and is rejected. Undefined power convention and weight remain unconverted/unfilled. Photograph shows a 2015 Australian-market Trophy-R of this same generation.",
+      "summary": "The third-generation Megane 275 Trophy-R advanced the front-drive performance-hatch benchmark with a two-seat lightweight road configuration, standard specialist dampers and tyres, and a category Nurburgring record rather than cosmetic exclusivity alone.",
+      "admission_reason": "The third-generation Megane 275 Trophy-R advanced the front-drive performance-hatch benchmark with a two-seat lightweight road configuration, standard specialist dampers and tyres, and a category Nurburgring record rather than cosmetic exclusivity alone.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "Renault Sport / Alpine archive — 275 Trophy-R French launch equipment",
+          "source_type": "Period manufacturer launch equipment release",
+          "url": "https://media.alpinecars.com/new-megane-rs-275-trophy-r-french-prices/?lang=eng",
+          "notes": "Third-generation 2014 production 275 Trophy-R, not ordinary Trophy, second-generation R26.R or fourth-generation 300 Trophy-R. Standard equipment and optional Record Kit are distinguished: lithium battery, accessory brakes and six-point harnesses are not assumed. The source’s late rear-wheel-drive wording contradicts its explicit front-wheel-drive record description and is rejected. Undefined power convention and weight remain unconverted/unfilled. Photograph shows a 2015 Australian-market Trophy-R of this same generation."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Renault Sport Mégane (D95 Phase 2) 275 Trophy-R coupe (24799498863).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Renault_Sport_M%C3%A9gane_(D95_Phase_2)_275_Trophy-R_coupe_(24799498863).jpg",
+          "notes": "TuRbO_J from Adelaide, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2015 Renault Megane RS275 Trophy R"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Standard limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Cup chassis with Ohlins Road and Track dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin Pilot Sport Cup 2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "System",
+          "value": "Akrapovic titanium exhaust",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "275",
+          "unit": "bhp as written in English release; conversion withheld",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third-generation Megane 275 Trophy-R advanced the front-drive performance-hatch benchmark with a two-seat lightweight road configuration, standard specialist dampers and tyres, and a category Nurburgring record rather than cosmetic exclusivity alone.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_megane_iii_275_trophyr.jpg",
+          "caption": "Renault Megane — 2015 Australian-market 275 Trophy-R exterior representing the 2014 launch generation. Photograph does not certify engine originality or optional equipment.",
+          "creator": "TuRbO_J from Adelaide, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f509dfd98b55233b90db1b084ec778abfdc29922f6f4f6f611e92be7404ea920"
+        }
+      ]
+    },
+    {
+      "id": "REN-CLIO-III-RS200-CUP-2012",
+      "manufacturer": "Renault",
+      "model_family": "Clio",
+      "generation": "Third-generation Clio Renaultsport 200 Phase 2",
+      "variant": "Renaultsport 200 Cup — 2012 UK road hatch",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "UK 2012 Clio Renaultsport 200 Cup road specification, original factory brochure PDF page 11, printed pages 20–21. Explicit ISO kW and torque used. The road Cup trim is not the dedicated Clio Cup race car. Sport-chassis settings, full-equipment 200, Raider, optional Recaros, earlier 197 and later turbocharged EDC figures are excluded. Photo identifies a 2012 Australian 200 Cup of the same body generation; market-specific trim is not authenticated.",
+      "summary": "The Clio III Renaultsport 200 represents a celebrated naturally aspirated hot-hatch generation, combining a high-revving two-litre engine with an independent steering-axis front suspension and a focused Cup road chassis.",
+      "admission_reason": "The Clio III Renaultsport 200 represents a celebrated naturally aspirated hot-hatch generation, combining a high-revving two-litre engine with an independent steering-axis front suspension and a focused Cup road chassis.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "Renaultsport UK — 2012 range brochure, Clio 200 Cup table",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2022/12/2012-Renault-Sport-UK.pdf",
+          "notes": "UK 2012 Clio Renaultsport 200 Cup road specification, original factory brochure PDF page 11, printed pages 20–21. Explicit ISO kW and torque used. The road Cup trim is not the dedicated Clio Cup race car. Sport-chassis settings, full-equipment 200, Raider, optional Recaros, earlier 197 and later turbocharged EDC figures are excluded. Photo identifies a 2012 Australian 200 Cup of the same body generation; market-specific trim is not authenticated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2012 Renault Sport Clio (X85 MY12) 200 Cup 3-door hatchback (28144451713).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2012_Renault_Sport_Clio_(X85_MY12)_200_Cup_3-door_hatchback_(28144451713).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2012 Renault Clio Sport 200 Cup"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder petrol, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "147.5",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "215",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Perfohub independent steering-axis front; torsion-beam rear with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Rear diffuser with twin exhaust outlets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "6",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Clio III Renaultsport 200 represents a celebrated naturally aspirated hot-hatch generation, combining a high-revving two-litre engine with an independent steering-axis front suspension and a focused Cup road chassis.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_clio_iii_rs200_cup_2012.jpg",
+          "caption": "Renault Clio — 2012 Australian-market Clio 200 Cup exterior representing the UK road specification’s body generation. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "852d9b3ca08af21aae23294fa3753f6b6a3ddc928325a944bb805308cc18cdbd"
+        }
+      ]
+    },
+    {
+      "id": "ALP-A110-CLASSIC-1600S",
+      "manufacturer": "Alpine",
+      "model_family": "A110",
+      "generation": "Original rear-engine Berlinette 1600 S road series",
+      "variant": "1600 S — original 1565-cc road Berlinette",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1565-cc 1600 S road car, Renault Classic history pages 14–15 and version table page 34. The table dates the version to 1969, while the narrative labels its arrival under the 1970 catalogue; the reference uses 1970 without claiming a separate year variant. Its native 122 CH DIN is retained, not replaced with common 125-PS or competition 155/165-plus figures. Group 4 1596/1796-cc and later 1605-cc SC/SI are excluded. No racing gearbox or mass is inferred. Photo identifies a 1971 1600 S exterior with auxiliary lamps; engine, modifications and factory configuration are unverified.",
+      "summary": "The original A110 Berlinette is central to Alpine’s rally identity: the family won the inaugural 1973 World Rally Championship for manufacturers, while its road cars embodied the same compact, lightweight sports-car philosophy.",
+      "admission_reason": "The original A110 Berlinette is central to Alpine’s rally identity: the family won the inaugural 1973 World Rally Championship for manufacturers, while its road cars embodied the same compact, lightweight sports-car philosophy.",
+      "sources": [
+        {
+          "publisher": "Renault / Groupe Renault",
+          "title": "Renault Classic — Les Cahiers Passion, Alpine Renault A110",
+          "source_type": "Manufacturer historical monograph, hosted facsimile",
+          "url": "https://lesvoitures.fr/wp-content/uploads/2023/08/Alpine-A110-Renault-Classic-A110.pdf",
+          "notes": "Original 1565-cc 1600 S road car, Renault Classic history pages 14–15 and version table page 34. The table dates the version to 1969, while the narrative labels its arrival under the 1970 catalogue; the reference uses 1970 without claiming a separate year variant. Its native 122 CH DIN is retained, not replaced with common 125-PS or competition 155/165-plus figures. Group 4 1596/1796-cc and later 1605-cc SC/SI are excluded. No racing gearbox or mass is inferred. Photo identifies a 1971 1600 S exterior with auxiliary lamps; engine, modifications and factory configuration are unverified."
+        },
+        {
+          "publisher": "Alpine / Groupe Renault",
+          "title": "Celebrating 60 years of Alpine — original A110 structure",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://media.alpinecars.com/celebrating-60-years-of-alpine/?lang=eng",
+          "notes": "Original A110 architecture: backbone chassis and lightweight glassfibre body. The page’s erroneous production-date span is not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Renault Alpine A110 1600S 02.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Renault_Alpine_A110_1600S_02.jpg",
+          "notes": "Ltosnar; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Renault 16 TS-derived petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1565",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dual-circuit braking",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water radiator mounted at front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Renault Classic power notation",
+          "value": "122",
+          "unit": "CH DIN; manufacturer historical table",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Backbone chassis",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Glassfibre",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original A110 Berlinette is central to Alpine’s rally identity: the family won the inaugural 1973 World Rally Championship for manufacturers, while its road cars embodied the same compact, lightweight sports-car philosophy.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alp_a110_classic_1600s.jpg",
+          "caption": "Alpine A110 — 1971 original 1600 S exterior with auxiliary lamps; exact road/modified configuration unverified. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Ltosnar",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "0184a6b63dd0c045bbab15ad0de59fcddd892c1c598f8337380a5ebb6993bc75"
+        }
+      ]
+    }
+  ]
+}

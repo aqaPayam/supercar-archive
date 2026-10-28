@@ -1301,7 +1301,84 @@
       "duplicate_review": "Absent model/generation checked against the complete 507-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-11.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "8 Gordini",
+      "generation": "Original R8 Gordini 1300 road saloon",
+      "proposed_record": "REN-8-GORDINI-1300-ROAD",
+      "reason": "The R8 Gordini helped bring serious sporting performance to an accessible saloon. Its rally successes and the driver-development legacy of the Gordini Cup give the model an enduring place in French motorsport culture.",
+      "evidence": "https://theoriginals.renault.com/en/r8-gordini",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Supercinq",
+      "generation": "Original front-drive Supercinq GT Turbo Phase 1",
+      "proposed_record": "REN-SUPERCINQ-GT-TURBO-P1",
+      "reason": "The Supercinq GT Turbo became a defining turbocharged hot hatch and the road basis of a notable Group N rally programme, whose 1989 Ivory Coast victory demonstrated its competition significance beyond ordinary sporting trim.",
+      "evidence": "https://theoriginals.renault.com/en/supercinq-gt-turbo",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Sport Spider",
+      "generation": "Original production road Spider",
+      "proposed_record": "REN-SPORT-SPIDER-ROAD",
+      "reason": "The Renault Sport Spider established the Renault Sport road-car identity through a stripped two-seat mid-engine sports car, using an aluminium chassis and an uncompromising focus on driver involvement rather than conventional hatchback origins.",
+      "evidence": "https://theoriginals.renault.com/en/spider",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Megane",
+      "generation": "Second-generation Megane Renault Sport R26.R",
+      "proposed_record": "REN-MEGANE-II-R26R-ROAD",
+      "reason": "The R26.R established a focused Renault Sport road-hatch formula through extensive weight reduction, a limited-slip front axle and track-developed suspension, setting a contemporary Nurburgring benchmark for its category.",
+      "evidence": "https://media.alpinecars.com/megane-r26r-the-new-flagship-of-the-renault-sport-technologies-range/?lang=eng",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Megane",
+      "generation": "Third-generation Megane Renault Sport Trophy-R",
+      "proposed_record": "REN-MEGANE-III-275-TROPHYR",
+      "reason": "The third-generation Megane 275 Trophy-R advanced the front-drive performance-hatch benchmark with a two-seat lightweight road configuration, standard specialist dampers and tyres, and a category Nurburgring record rather than cosmetic exclusivity alone.",
+      "evidence": "https://media.alpinecars.com/new-megane-rs-275-trophy-r-french-prices/?lang=eng",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Clio",
+      "generation": "Third-generation Clio Renaultsport 200 Phase 2",
+      "proposed_record": "REN-CLIO-III-RS200-CUP-2012",
+      "reason": "The Clio III Renaultsport 200 represents a celebrated naturally aspirated hot-hatch generation, combining a high-revving two-litre engine with an independent steering-axis front suspension and a focused Cup road chassis.",
+      "evidence": "https://xr793.com/wp-content/uploads/2022/12/2012-Renault-Sport-UK.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
+    },
+    {
+      "manufacturer": "Alpine",
+      "model": "A110",
+      "generation": "Original rear-engine Berlinette 1600 S road series",
+      "proposed_record": "ALP-A110-CLASSIC-1600S",
+      "reason": "The original A110 Berlinette is central to Alpine’s rally identity: the family won the inaugural 1973 World Rally Championship for manufacturers, while its road cars embodied the same compact, lightweight sports-car philosophy.",
+      "evidence": "https://lesvoitures.fr/wp-content/uploads/2023/08/Alpine-A110-Renault-Classic-A110.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 511-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-12.json"
     }
   ],
-  "catalogue_count_after_batches": 511
+  "catalogue_count_after_batches": 518
 }
