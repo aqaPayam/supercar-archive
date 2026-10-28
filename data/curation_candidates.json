@@ -1257,7 +1257,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 499-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-10.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "106",
+      "generation": "Original Series 1 1.3 Rallye",
+      "proposed_record": "PEU-106-RALLYE-S1-1993",
+      "reason": "The 106 Rallye is a defining lightweight Peugeot sporting hatch: its stripped equipment and high-revving 1.3-litre road engine connect accessible driver involvement with the 106 family’s substantial grassroots rally and circuit heritage.",
+      "evidence": "https://www.media.stellantis.com/it-it/peugeot/press/ben-ritrovata-106-rallye",
+      "duplicate_review": "Absent model/generation checked against the complete 507-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-11.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "generation": "Original production RCZ R",
+      "proposed_record": "PEU-RCZ-R-2014",
+      "reason": "The RCZ R represents Peugeot Sport’s engineering-led road coupe: its highly developed small turbo engine, Torsen differential, dedicated suspension and four-piston brakes made a complete performance flagship rather than a styling edition.",
+      "evidence": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-rcz-r-top-sportler-fur-strasse-und-rennstrecke",
+      "duplicate_review": "Absent model/generation checked against the complete 507-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-11.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "SM",
+      "generation": "Original 2.7-litre SM road series",
+      "proposed_record": "CIT-SM-27-1970",
+      "reason": "The SM is a landmark French grand tourer combining Maserati six-cylinder power with hydropneumatic suspension, high-pressure disc brakes and advanced assisted steering, extending Citroën’s distinctive chassis engineering into a fast front-drive coupe.",
+      "evidence": "https://www.media.stellantis.com/de-de/citroen/press/citroen-sm-vor-40-jahren-endete-die-produktion-der-stil-ikone",
+      "duplicate_review": "Absent model/generation checked against the complete 507-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-11.json"
+    },
+    {
+      "manufacturer": "Alpine",
+      "model": "A110",
+      "generation": "Modern aluminium mid-engine A110",
+      "proposed_record": "ALP-A110-MODERN-2017",
+      "reason": "The modern A110 revived Alpine as a road-sports-car maker through an aluminium mid-engine coupe, pairing compact dimensions and double-wishbone suspension with a deliberate emphasis on agility and low mass.",
+      "evidence": "https://www.renaultownersclub.com/wp-content/uploads/vehicles/Alpine%20A110%20-%202017%20Launch.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 507-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-11.json"
     }
   ],
-  "catalogue_count_after_batches": 507
+  "catalogue_count_after_batches": 511
 }
