@@ -256,6 +256,171 @@
       "duplicate_review": "No matching model generation or alias in the 410-car inventory; import collision checks passed.",
       "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
       "status": "Imported and validated in data/icons-road-03.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "E-type",
+      "generation": "Series 1 original 3.8-litre",
+      "proposed_record": "JAG-ETYPE-S1-38-ROAD",
+      "reason": "The E-type translated Jaguar’s aerodynamic racing lineage into a production grand-touring sports car and became an enduring symbol of 1960s performance and design.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1961-jaguar-e-type-series-1-3-8-litre-77-rw/",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XK120",
+      "generation": "Original XK120 steel-bodied roadster",
+      "proposed_record": "JAG-XK120-OTS-ROAD",
+      "reason": "The XK120 introduced Jaguar’s twin-cam XK engine to a successful production sports car, establishing a performance identity that would shape the marque for decades.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1953-jaguar-xk120-open-two-seater-oof-748/",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB5",
+      "generation": "Original Newport Pagnell DB5",
+      "proposed_record": "AST-DB5-STD-ROAD",
+      "reason": "The DB5 combined Aston Martin’s developed straight-six grand-tourer engineering with an exceptional cultural legacy through its association with James Bond.",
+      "evidence": "https://www.astonmartin.com/en/models/past-models/db5-db5-convertible",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB4",
+      "generation": "Original Touring Superleggera DB4",
+      "proposed_record": "AST-DB4-STD-ROAD",
+      "reason": "The DB4 established a new Aston Martin grand-touring architecture, pairing Tadek Marek’s new straight-six with Touring’s aluminium Superleggera coachwork.",
+      "evidence": "https://www.astonmartin.com/en/models/past-models/db4-db4-convertible",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "V8 Vantage",
+      "generation": "Original Newport Pagnell carburetted V8 Vantage",
+      "proposed_record": "AST-V8-VANTAGE-CLASSIC",
+      "reason": "The original V8 Vantage established Aston Martin’s muscular supercar-era flagship through extensive engine breathing changes and functional aerodynamic development.",
+      "evidence": "https://www.astonmartin.com/en/models/past-models/v8-vantage",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Elan",
+      "generation": "Original Type 26 Series 1",
+      "proposed_record": "LOT-ELAN-S1-ROAD",
+      "reason": "The original Elan made a steel backbone chassis, composite body and independent suspension into a defining lightweight sports-car formula.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elan",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Europa",
+      "generation": "Original Type 74 twin-cam Europa",
+      "proposed_record": "LOT-EUROPA-SPECIAL-ROAD",
+      "reason": "The Europa brought Lotus’s lightweight backbone principles to a mid-engined production road car; the Special developed that layout with the Big Valve twin-cam and a five-speed transmission.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/europa",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Seven",
+      "generation": "Original Series 1 Type 7",
+      "proposed_record": "LOT-SEVEN-S1-ROAD",
+      "reason": "The original Seven established an enduring minimal roadster formula whose lightweight, direct driving experience continued through Caterham and influenced generations of sports cars.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/seven",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Elise",
+      "generation": "First-generation Type 111",
+      "proposed_record": "LOT-ELISE-S1-STD",
+      "reason": "The first Elise pioneered bonded extruded-aluminium chassis construction for low-volume sports cars, renewing the lightweight Lotus roadster concept for a new era.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elise",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Exige",
+      "generation": "First-generation Type 111 Exige",
+      "proposed_record": "LOT-EXIGE-S1-STD",
+      "reason": "The original Exige translated the Sport Elise racing programme into a distinct road coupe, combining a high-revving four-cylinder engine with track-derived bodywork and aerodynamics.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/exige",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Esprit",
+      "generation": "Original Giugiaro Type 79 Series 1",
+      "proposed_record": "LOT-ESPRIT-S1-ROAD",
+      "reason": "The original Esprit combined Giugiaro’s influential wedge design with a Lotus-built mid-engined powertrain, gaining an enduring place in sports-car design and popular culture.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/esprit",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Austin-Healey",
+      "model": "3000",
+      "generation": "BJ8 Mark III Phase II",
+      "proposed_record": "AUS-HEALEY-3000-MK3",
+      "reason": "The 3000 represents the developed Big Healey tradition: a six-cylinder British sports car whose road appeal and competition history made it a defining model of the marque.",
+      "evidence": "https://www.atamanmuseum.com/austin-healey/1964-austin-healey-3000-mk-iii/",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "TR6",
+      "generation": "Original Karmann-bodied TR6",
+      "proposed_record": "TRI-TR6-PI-1974",
+      "reason": "The TR6 preserved the traditional six-cylinder British roadster formula with UK petrol injection and distinctive Karmann styling, while outselling the earlier TR models.",
+      "evidence": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800452",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Elite",
+      "generation": "Original Type 14 fibreglass monocoque",
+      "proposed_record": "LOT-ELITE-T14-ROAD",
+      "reason": "The Type 14 Elite pioneered a load-bearing fibreglass monocoque in a production sports car, making lightweight construction itself a central part of its performance significance.",
+      "evidence": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elite-type-14",
+      "duplicate_review": "No matching original model/generation in the 417-car inventory; modern Lotus and Vantage family entries explicitly reviewed; collision replay passed.",
+      "remaining": "None for this selected road record; further variants remain subject to the counting decision.",
+      "status": "Imported and validated in data/icons-road-04.json"
+    },
+    {
+      "manufacturer": "Shelby / AC",
+      "model": "Cobra",
+      "generation": "Original 1960s production series",
+      "proposed_record": "Original production road car; exact engine/reference pending",
+      "reason": "The Anglo-American Cobra is a foundational high-performance roadster with major motorsport and cultural significance.",
+      "evidence": "https://www.shelbyamericancollection.org/cobras-coupes/1967-427-cobra-csx3269",
+      "duplicate_review": "No Cobra model in the 417-car inventory; not an approved manifest record.",
+      "remaining": "Resolve standard road specification and a licensed original road-car photo. The reviewed museum car has replacement engines; initial photos include competition cars. Modern CSX6000 continuation specifications must not be substituted.",
+      "status": "Research only; not imported or counted"
     }
   ],
   "catalogue_count_after_batches": 410
