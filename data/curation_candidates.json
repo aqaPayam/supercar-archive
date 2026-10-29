@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-10-29",
+  "reviewed_on": "2026-9-29",
   "baseline_count": 395,
   "status": "Admission tracking: only verified imported catalogue entries count toward the target.",
   "candidates": [
@@ -2170,7 +2170,117 @@
       "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Morris",
+      "model": "Mini",
+      "generation": "Classic Mark I original 1071-cc Cooper S",
+      "proposed_record": "MOR-MINI-COOPERS-1071-1964",
+      "reason": "The original Mini Cooper S is a landmark of the small performance car, linking Issigonis’s compact front-drive layout with John Cooper’s engine and brake development. The 1071-cc road model represents the beginning of the Cooper S lineage that became internationally associated with rally success.",
+      "evidence": "https://www.press.bmwgroup.com/canada/article/detail/T0300209EN/1959-%E2%80%93-2019-sixty-years-of-mini?language=en",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "MINI",
+      "model": "Cooper S",
+      "generation": "First modern supercharged R53 hatchback generation",
+      "proposed_record": "MIN-COOPERS-R53-UK2002",
+      "reason": "The first modern Cooper S re-established MINI’s performance identity with a supercharged and intercooled engine, six-speed manual and dedicated chassis tuning. It is the original R53 performance hatch, a substantial engineering reinterpretation of the classic Cooper S rather than a cosmetic revival or a later tuning package.",
+      "evidence": "https://www.press.bmwgroup.com/united-kingdom/article/detail/T0016013EN_GB/mini-cooper-s?language=en_GB",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "205",
+      "generation": "Original front-engine front-drive GTI hatchback series",
+      "proposed_record": "PEU-205-GTI19-FR1987",
+      "reason": "The 205 GTI helped define Peugeot’s enduring performance-hatch identity through compact proportions, responsive road manners and everyday versatility. The 1.9-litre road GTI is a major missing hot-hatch reference, mechanically distinct from the mid-engined four-wheel-drive 205 Turbo 16 already in the archive.",
+      "evidence": "https://www.media.stellantis.com/me-en/peugeot/press/the-new-peugeot-e-208-gti-more-pleasure-more-gti-than-ever",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "240",
+      "generation": "Original B21ET rear-drive turbocharged 240 road series",
+      "proposed_record": "VOL-244-TURBO-SE1981",
+      "reason": "The original 240 Turbo was Volvo’s breakthrough into turbocharged road performance and the production foundation for the later flying-brick touring-car reputation. This entry records the early B21ET road saloon, preserving the distinction between its road drivetrain and the much more extensively developed competition cars.",
+      "evidence": "https://www.volvocars.com/intl/media/press-releases/0A01C88A529A95D1/",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "850",
+      "generation": "Original transverse-five T-5R performance series",
+      "proposed_record": "VOL-850-T5R-UK1995",
+      "reason": "The 850 T-5R established a distinctive Volvo performance-estate identity through its turbocharged five-cylinder engine and dedicated chassis, wheel and tyre package. It captured international attention alongside the 850’s touring-car era while remaining a practical road estate, rather than adopting the race car’s engine or transmission.",
+      "evidence": "https://www.volvocars.com/us/media/press-releases/0D54F53277E5FE2B/",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "S60",
+      "generation": "First-generation P2 S60 R performance saloon",
+      "proposed_record": "VOL-S60R-P2-UK2003",
+      "reason": "The original S60 R is a Volvo performance-engineering landmark, bringing the Four-C active chassis together with Haldex all-wheel drive, a turbocharged five-cylinder engine, Brembo brakes and a six-speed manual. This integrated road-car package makes it a distinct performance reference beyond ordinary S60 trim and styling.",
+      "evidence": "https://www.volvoclub.org.uk/current/S60R_Fullprod_spec_July2003.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "99",
+      "generation": "Original 99 Turbo production Combi Coupe series",
+      "proposed_record": "SAA-99-TURBO-INT1978",
+      "reason": "The 99 Turbo is foundational to Saab’s turbocharged road-car identity, following its Frankfurt premiere in 1977. Its compact four-cylinder turbo engine, manual drivetrain and practical front-drive Combi Coupe body established the distinctive Saab performance formula that subsequently evolved into the 900 Turbo.",
+      "evidence": "https://saabcarmuseum.se/en/saabs-historia/",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "900",
+      "generation": "Classic first-generation original flat-front Turbo 16S series",
+      "proposed_record": "SAA-900-T16S-INT1985",
+      "reason": "The classic 900 Turbo 16S is a defining Saab performance icon, developing the marque’s turbo formula with a sixteen-valve twin-cam engine, intercooling and APC knock-controlled boost. Its practical three-door body and dedicated Aero identity made it a distinctive road-performance flagship rather than an ordinary 900 with cosmetic accessories.",
+      "evidence": "https://saabcarmuseum.se/en/saabs-historia/",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "GT",
+      "generation": "Original first-generation GT production coupe",
+      "proposed_record": "OPE-GT1900-ORIGINAL-1968",
+      "reason": "The original Opel GT is a landmark European sports-car design, taking the Experimental GT’s distinctive sculpted form into series production. The rear-driven GT 1900 combined accessible mechanicals with a dedicated low sports-coupe body, helping establish a lasting Opel performance identity on both sides of the Atlantic.",
+      "evidence": "https://www.media.stellantis.com/em-en/opel/press/50-years-opel-gt-nur-fliegen-ist-schoner",
+      "duplicate_review": "Absent model/generation checked against the complete 590-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-19.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Calibra",
+      "generation": "Original Turbo 4x4 road series",
+      "proposed_record": "OPE-CALIBRA-TURBO-1992",
+      "reason": "Original Calibra turbo road flagship combines Opel’s first turbo-petrol production engine, six-speed manual and viscous-coupled all-wheel drive; distinct from the later ITC competition car.",
+      "evidence": "https://www.media.stellantis.com/it-it/opel/press/quando-opel-calibra-mise-il-turbo",
+      "duplicate_review": "No Opel Calibra or Vauxhall/Holden rebadge is in the 590-record pre-batch inventory. A rebadge would not be an extra car.",
+      "remaining": "Factory technical account verified, plus February 1992 Opel Post March-availability announcement located. Need a clearly identified licensed Turbo road-body photo; dashboard, generic-engine exterior, convertible and competition photos rejected. No import until the image is resolved.",
+      "status": "Research only; not imported in batch 19"
     }
   ],
-  "catalogue_count_after_batches": 590
+  "catalogue_count_after_batches": 599
 }
