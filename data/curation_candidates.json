@@ -2939,7 +2939,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang",
+      "generation": "Fox-body third-generation Mustang, selected SVT Cobra",
+      "proposed_record": "FOR-MUSTANG-COBRA-FOX1993",
+      "reason": "The 1993 SVT Cobra represents the Fox-body Mustang’s performance legacy and Ford’s early Special Vehicle Team programme. GT-40 cylinder heads, improved induction and valvetrain, a strengthened five-speed driveline and a chassis developed with Jackie Stewart made it a coordinated engineering development of the V8 Mustang.",
+      "evidence": "https://ponynsnake.com/wp-content/uploads/2023/07/access-1993_ford_mustang_cobra_brochure_ar_96_212010_30087.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang",
+      "generation": "SN95 fourth-generation Mustang, selected supercharged SVT Cobra",
+      "proposed_record": "FOR-MUSTANG-COBRA-SN952003",
+      "reason": "The 2003 SVT Cobra marked a major step in factory Mustang performance, pairing a supercharged, water-to-air-intercooled four-valve V8 with a standard six-speed gearbox. This substantially reworked SN95 Cobra carried a new engine, driveline and functional body details into a performance programme that retained everyday road equipment.",
+      "evidence": "https://terminator-cobra.com/03_Cobra_OrderingGuide.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Viper",
+      "generation": "Second-generation SR II Viper, selected GTS coupe",
+      "proposed_record": "DOD-VIPER-GTS-GEN2-US1997",
+      "reason": "The second-generation Viper GTS turned the V10 Viper into a distinctive closed coupe, combining a more powerful engine with lower weight and revised suspension. Contemporary testing placed its performance among the leading production sports cars of its period, while its twin-striped form recalled the Cobra Daytona Coupe.",
+      "evidence": "https://www.roadandtrack.com/car-culture/a38108655/1996-dodge-viper-gts-review/",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Shelby",
+      "model": "Cobra",
+      "generation": "Original AC/Shelby small-block Cobra roadster family",
+      "proposed_record": "SHE-COBRA-289-ROAD",
+      "reason": "The Cobra combined Carroll Shelby’s American V8 performance programme with the light British AC sports-car chassis. Its success in sports-car competition and unmistakable open-roadster form made the original small-block Cobra an enduring Anglo-American performance landmark, establishing a named production model beyond its Ace origins.",
+      "evidence": "https://www.haynesmuseum.org/the-museum/collection-highlights/1964-ac-cobra-289/",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Austin-Healey",
+      "model": "Sprite",
+      "generation": "Original AN5 Frogeye/Bugeye Sprite roadster family",
+      "proposed_record": "AUS-SPRITE-AN5-MK1-1960",
+      "reason": "The original Frogeye Sprite made lightweight British sports-car design accessible through compact proportions, familiar BMC mechanicals and a semi-monocoque roadster body. Its fixed raised headlights gave it one of the period’s most recognisable identities, while the simple open two-seater established the lasting Sprite small-sports-car formula.",
+      "evidence": "https://www.atamanmuseum.com/austin-healey/1960-austin-healey-sprite-mk-i/",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "Spitfire",
+      "generation": "Original Spitfire 4 Mk I roadster family",
+      "proposed_record": "TRI-SPITFIRE4-BASE1963",
+      "reason": "The original Spitfire brought Triumph into the accessible small-roadster class with independent rear suspension and a distinct sports-car body. Developed in response to the Frogeye Sprite and MG Midget, it became a successful British sports-car line whose original four-cylinder open model deserves its own place alongside the later six-cylinder GT6.",
+      "evidence": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=24",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "156",
+      "generation": "Original type932 156 GTA road-performance family",
+      "proposed_record": "ALF-156-GTA-SW-MT2002",
+      "reason": "The 156 GTA revived Alfa Romeo’s historic GTA name through a substantial performance development of its acclaimed 156. A 3.2-litre twenty-four-valve V6 was matched to revised suspension, quicker steering and Brembo front brakes, creating a distinctive Italian sporting road car offered even in practical Sportwagon form.",
+      "evidence": "https://www.media.stellantis.com/em-en/alfa-romeo/press/new-alfa-156-and-alfa-156-gta",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "GTO",
+      "generation": "Second-generation A-body GTO, selected 1969 Judge",
+      "proposed_record": "PON-GTO-JUDGE-1969",
+      "reason": "The Judge gave the second-generation GTO a memorable muscle-car identity through functional Ram Air induction, a large rear airfoil and vivid presentation. Its 400-cubic-inch V8 and available Hurst-shifted close-ratio four-speed exemplified Pontiac’s combination of straight-line performance and theatrical design during the classic muscle-car era.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2023/03/1969-Pontiac-Performance-Brochure-1-28C.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-34.json"
     }
   ],
-  "catalogue_count_after_batches": 657
+  "catalogue_count_after_batches": 665
 }

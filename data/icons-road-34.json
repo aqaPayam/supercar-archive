@@ -1,0 +1,1014 @@
+{
+  "batch": "icons-road-2026-10-29-34",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "FOR-MUSTANG-COBRA-FOX1993",
+      "manufacturer": "Ford",
+      "model_family": "Mustang",
+      "generation": "Fox-body third-generation Mustang, selected SVT Cobra",
+      "variant": "SVT Cobra — April 1993 USA brochure",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback coupe",
+      "road_legal": 1,
+      "specification_market": "Original Ford SVT four-page USA brochure, footer Printed in USA 4/93. All pages rendered; PDF2 development and PDF4 specification individually read. Selected standard 1993 Cobra hatchback, not the stripped Cobra R, a GT conversion, earlier Cobra-branded Mustang or later SN95. Native SAE-net power and torque preserved; brochure’s 5.0-litre/302-cu-in naming is not converted into an invented exact cc. No Cobra R five-lug wheels or larger brakes are substituted.",
+      "summary": "The 1993 SVT Cobra represents the Fox-body Mustang’s performance legacy and Ford’s early Special Vehicle Team programme. GT-40 cylinder heads, improved induction and valvetrain, a strengthened five-speed driveline and a chassis developed with Jackie Stewart made it a coordinated engineering development of the V8 Mustang.",
+      "admission_reason": "The 1993 SVT Cobra represents the Fox-body Mustang’s performance legacy and Ford’s early Special Vehicle Team programme. GT-40 cylinder heads, improved induction and valvetrain, a strengthened five-speed driveline and a chassis developed with Jackie Stewart made it a coordinated engineering development of the V8 Mustang.",
+      "sources": [
+        {
+          "publisher": "Ford Special Vehicle Team / Pony N Snake hosted facsimile",
+          "title": "1993 Ford Mustang Cobra — original SVT sales brochure, April 1993",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://ponynsnake.com/wp-content/uploads/2023/07/access-1993_ford_mustang_cobra_brochure_ar_96_212010_30087.pdf",
+          "notes": "Original Ford SVT four-page USA brochure, footer Printed in USA 4/93. All pages rendered; PDF2 development and PDF4 specification individually read. Selected standard 1993 Cobra hatchback, not the stripped Cobra R, a GT conversion, earlier Cobra-branded Mustang or later SN95. Native SAE-net power and torque preserved; brochure’s 5.0-litre/302-cu-in naming is not converted into an invented exact cc. No Cobra R five-lug wheels or larger brakes are substituted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1993 Ford Mustang SVT Cobra, red, Golden Super Cruise 2026-09-05.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1993_Ford_Mustang_SVT_Cobra,_red,_Golden_Super_Cruise_2026-09-05.jpg",
+          "notes": "Xnatedawgx; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8 with high-lift camshaft, roller lifters and roller rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential electronic fuel injection; tuned-length intake manifold",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Heavy-duty Borg-Warner T-5 five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential; 3.08:1 final drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent modified MacPherson front struts; four-link rigid rear axle; coil springs and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Vacuum-assisted vented discs: 10.84-inch front, 10.07-inch rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Goodyear P245/45ZR17 BSW",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, SAE net at 4600 rpm",
+          "value": "235",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, SAE net at 4000 rpm",
+          "value": "280",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 1993 SVT Cobra represents the Fox-body Mustang’s performance legacy and Ford’s early Special Vehicle Team programme. GT-40 cylinder heads, improved induction and valvetrain, a strengthened five-speed driveline and a chassis developed with Jackie Stewart made it a coordinated engineering development of the V8 Mustang.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_mustang_cobra_fox1993.jpg",
+          "caption": "Red 1993 Ford Mustang SVT Cobra at Golden Super Cruise, September 2026, showing Fox hatchback body, Cobra-style front trim and turbine wheels. Represents the intended standard road variant; badges, restoration and current wheel/tyre fitment do not certify original engine tune or brake internals. A white, heavily modified example was rejected.",
+          "creator": "Xnatedawgx",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a1c2a8e0be6aa66091779da3d252d01a78dfa226367f8dec1e99b4288a15664e"
+        }
+      ]
+    },
+    {
+      "id": "FOR-MUSTANG-COBRA-SN952003",
+      "manufacturer": "Ford",
+      "model_family": "Mustang",
+      "generation": "SN95 fourth-generation Mustang, selected supercharged SVT Cobra",
+      "variant": "SVT Cobra convertible — 2003 USA ordering guide",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door open sports convertible",
+      "road_legal": 1,
+      "specification_market": "Original Ford Division seven-page 2003 SVT Cobra ordering guide. All pages rendered; PDF1/2/7 individually read. March 1, 2002 overview specifies 390 hp and 390 lb-ft; earlier February 1 equipment/powertrain pages retain TBD rating cells. No compression, rating standard or rpm is invented from those blanks. Selected convertible; coupe road-test weights/acceleration and Cobra R equipment are not copied. Guide documents six-speed manual, 3.55 Traction-Lok, intercooler and ABS discs. One SN95 family admission only.",
+      "summary": "The 2003 SVT Cobra marked a major step in factory Mustang performance, pairing a supercharged, water-to-air-intercooled four-valve V8 with a standard six-speed gearbox. This substantially reworked SN95 Cobra carried a new engine, driveline and functional body details into a performance programme that retained everyday road equipment.",
+      "admission_reason": "The 2003 SVT Cobra marked a major step in factory Mustang performance, pairing a supercharged, water-to-air-intercooled four-valve V8 with a standard six-speed gearbox. This substantially reworked SN95 Cobra carried a new engine, driveline and functional body details into a performance programme that retained everyday road equipment.",
+      "sources": [
+        {
+          "publisher": "Ford Division / Terminator-Cobra hosted facsimile",
+          "title": "2003 SVT Mustang Cobra — Ford Division ordering guide, March/February 2002 revisions",
+          "source_type": "Period manufacturer ordering guide",
+          "url": "https://terminator-cobra.com/03_Cobra_OrderingGuide.pdf",
+          "notes": "Original Ford Division seven-page 2003 SVT Cobra ordering guide. All pages rendered; PDF1/2/7 individually read. March 1, 2002 overview specifies 390 hp and 390 lb-ft; earlier February 1 equipment/powertrain pages retain TBD rating cells. No compression, rating standard or rpm is invented from those blanks. Selected convertible; coupe road-test weights/acceleration and Cobra R equipment are not copied. Guide documents six-speed manual, 3.55 Traction-Lok, intercooler and ABS discs. One SN95 family admission only."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2003 Ford Mustang Cobra \"Terminator\" Torch Red Convertible.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2003_Ford_Mustang_Cobra_%22Terminator%22_Torch_Red_Convertible.jpg",
+          "notes": "TJKula at English Wikipedia; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: own work by the original uploader"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Supercharged 4.6-litre DOHC V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger with water-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Traction-Lok limited-slip axle; 3.55:1 ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted four-wheel discs with ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Power-retractable cloth convertible roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Wheel specification",
+          "value": "17 × 9-inch cast aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native March overview claim",
+          "value": "390",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native March overview claim",
+          "value": "390",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 2003 SVT Cobra marked a major step in factory Mustang performance, pairing a supercharged, water-to-air-intercooled four-valve V8 with a standard six-speed gearbox. This substantially reworked SN95 Cobra carried a new engine, driveline and functional body details into a performance programme that retained everyday road equipment.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_mustang_cobra_sn952003.jpg",
+          "caption": "2003 Ford Mustang Cobra convertible identified as Torch Red, with the supercharged-era bonnet, Cobra front bumper and open roof. Illustrates the selected SN95 road-convertible family; exterior appearance does not authenticate installed supercharger calibration, gearbox or mechanical originality.",
+          "creator": "TJKula at English Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bbc05247a5a07a0d9699f456bd2ef993bebd714613ae1aac5a89ee09f5d02da8"
+        }
+      ]
+    },
+    {
+      "id": "DOD-VIPER-GTS-GEN2-US1997",
+      "manufacturer": "Dodge",
+      "model_family": "Viper",
+      "generation": "Second-generation SR II Viper, selected GTS coupe",
+      "variant": "GTS coupe — 1997 USA full-line brochure",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Chrysler/Dodge 1997 full-line USA brochure, 26 scanned spreads. All pages rendered; Viper printed 4–5/PDF4 read individually. Selected GTS coupe: second-generation V10, 450 hp at 5200 rpm, 490 lb-ft at 3700 rpm, 9.6:1 compression, pushrod/two-valve heads and revised aluminium suspension. No rating standard, exact cc, gearbox or acceleration is invented from an unprinted field. First-generation RT/10, GTS-R, ACR, 1993 concept and later 8.3/8.4-litre data are excluded.",
+      "summary": "The second-generation Viper GTS turned the V10 Viper into a distinctive closed coupe, combining a more powerful engine with lower weight and revised suspension. Contemporary testing placed its performance among the leading production sports cars of its period, while its twin-striped form recalled the Cobra Daytona Coupe.",
+      "admission_reason": "The second-generation Viper GTS turned the V10 Viper into a distinctive closed coupe, combining a more powerful engine with lower weight and revised suspension. Contemporary testing placed its performance among the leading production sports cars of its period, while its twin-striped form recalled the Cobra Daytona Coupe.",
+      "sources": [
+        {
+          "publisher": "Chrysler Corporation / Auto-Brochures hosted facsimile",
+          "title": "The New Dodge 1997 — Viper GTS coupe, printed pages 4–5",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Dodge/Dodge_US%20Full%20Line_1997.pdf",
+          "notes": "Original Chrysler/Dodge 1997 full-line USA brochure, 26 scanned spreads. All pages rendered; Viper printed 4–5/PDF4 read individually. Selected GTS coupe: second-generation V10, 450 hp at 5200 rpm, 490 lb-ft at 3700 rpm, 9.6:1 compression, pushrod/two-valve heads and revised aluminium suspension. No rating standard, exact cc, gearbox or acceleration is invented from an unprinted field. First-generation RT/10, GTS-R, ACR, 1993 concept and later 8.3/8.4-litre data are excluded."
+        },
+        {
+          "publisher": "Road & Track / Andrew Bornhop",
+          "title": "Viper GTS — October 1996 first-hand road test, republished 2021",
+          "source_type": "Contemporary first-hand road assessment; archival republication",
+          "url": "https://www.roadandtrack.com/car-culture/a38108655/1996-dodge-viper-gts-review/",
+          "notes": "Contemporary first-hand assessment supports the coupe’s engineering advance and Cobra Daytona styling connection. Test acceleration/braking and imperfect digitised unit text are not substituted for the selected 1997 factory table."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dodge Viper GTS (1996) (54559363693).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dodge_Viper_GTS_(1996)_(54559363693).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Dodge Viper GTS (1996)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "8.0-litre V10; cast-aluminium block with cast-iron liners and aluminium heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.6:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Pushrod-operated rocker arms and hydraulic roller lifters",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint fuel injection; aluminium ram-tuned dual-plenum intake",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent unequal-length aluminium control arms front and rear; rear toe link; coil-over shocks and tubular stabiliser bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure claim at 5200 rpm",
+          "value": "450",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native brochure claim at 3700 rpm",
+          "value": "490",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Viper GTS turned the V10 Viper into a distinctive closed coupe, combining a more powerful engine with lower weight and revised suspension. Contemporary testing placed its performance among the leading production sports cars of its period, while its twin-striped form recalled the Cobra Daytona Coupe.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_viper_gts_gen2_us1997.jpg",
+          "caption": "Dodge Viper GTS identified as 1996, displayed in blue with white stripes and the original closed-coupe roof shape. Represents the second-generation GTS road family used by the 1997 reference. Current wheels, finish and year identification do not establish a precise 1997 build or engine tune; this is not a GTS-R or ACR claimed as standard.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "bec1bcba4a3191bceba910a2a766f009ebf0d7607028f1bc243590e629bf1a9d"
+        }
+      ]
+    },
+    {
+      "id": "SHE-COBRA-289-ROAD",
+      "manufacturer": "Shelby",
+      "model_family": "Cobra",
+      "generation": "Original AC/Shelby small-block Cobra roadster family",
+      "variant": "289 roadster — AC chassis instruction book reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original AC Cobra Chassis Instruction Book reprint hosted by ChuckCobra, 65 scanned pages. First 24 pages rendered; AC/Shelby foreword PDF2, useful information PDF3 and brake instructions PDF23 individually read. Supplies untuned road chassis equipment only. Museum source separately establishes the 4727-cc Ford V8 family; its 1964 heading/1965 build label and 280-bhp claim do not authenticate a reference year or original tune. FIA 115’s 12:1/four-Weber competition engine is deliberately excluded, as are 427/428, later coil-spring 289 Sports, replicas and current continuation specifications.",
+      "summary": "The Cobra combined Carroll Shelby’s American V8 performance programme with the light British AC sports-car chassis. Its success in sports-car competition and unmistakable open-roadster form made the original small-block Cobra an enduring Anglo-American performance landmark, establishing a named production model beyond its Ace origins.",
+      "admission_reason": "The Cobra combined Carroll Shelby’s American V8 performance programme with the light British AC sports-car chassis. Its success in sports-car competition and unmistakable open-roadster form made the original small-block Cobra an enduring Anglo-American performance landmark, establishing a named production model beyond its Ace origins.",
+      "sources": [
+        {
+          "publisher": "AC Cars / Shelby American / ChuckCobra hosted reprint",
+          "title": "AC Cobra — original chassis instruction book, small-block roadster",
+          "source_type": "Period manufacturer road-owner handbook, hosted reprint",
+          "url": "https://www.chuckcobra.com/cobra-manuals/images-cobra-manuals-pages/289_Owners_Manual.pdf",
+          "notes": "Original AC Cobra Chassis Instruction Book reprint hosted by ChuckCobra, 65 scanned pages. First 24 pages rendered; AC/Shelby foreword PDF2, useful information PDF3 and brake instructions PDF23 individually read. Supplies untuned road chassis equipment only. Museum source separately establishes the 4727-cc Ford V8 family; its 1964 heading/1965 build label and 280-bhp claim do not authenticate a reference year or original tune. FIA 115’s 12:1/four-Weber competition engine is deliberately excluded, as are 427/428, later coil-spring 289 Sports, replicas and current continuation specifications."
+        },
+        {
+          "publisher": "Haynes Motor Museum",
+          "title": "AC Cobra 289 — collection history and engine identification",
+          "source_type": "Custodian museum collection account",
+          "url": "https://www.haynesmuseum.org/the-museum/collection-highlights/1964-ac-cobra-289/",
+          "notes": "Custodian identifies the original AC/Ford V8 collaboration, racing importance and its 4727-cc V8 road car. The page’s conflicting year labels and present-car output/performance claims are not imported."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "Shelby Cobra — 289 production development history",
+          "source_type": "Sanctioning-body historical account; chronology only",
+          "url": "https://historicdb.fia.com/car/shelby-cobra",
+          "notes": "History documents the 1963 289 development from the 260 and recognition of the production family. Used for chronology only. The separately inspected original competition form’s 12:1/four-Weber tune is not a road technical reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 AC Cobra 289 (35053331592).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_AC_Cobra_289_(35053331592).jpg",
+          "notes": "Hugh Llewelyn from Keynsham, UK; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: 1965 AC Cobra 289"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled engine with radiator and header tank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Salisbury Powr-Lok limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "6.40 × 15 front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling disc brakes front and rear; front 11 11/16-inch, rear 10 3/4-inch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Wheelbase, native handbook notation",
+          "value": "7 ft 6 in",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford V8",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4727",
+          "unit": "cc",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cobra combined Carroll Shelby’s American V8 performance programme with the light British AC sports-car chassis. Its success in sports-car competition and unmistakable open-roadster form made the original small-block Cobra an enduring Anglo-American performance landmark, establishing a named production model beyond its Ace origins.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_she_cobra_289_road.jpg",
+          "caption": "AC Cobra 289 FYW 96C at Haynes Motor Museum in 2017, identified by the photographer as 1965. Its narrow small-block roadster body and wire wheels illustrate the original AC/Shelby family. Museum custody supports provenance beyond an unidentified replica; exact build year, current tune and correspondence with every handbook revision are not independently certified.",
+          "creator": "Hugh Llewelyn from Keynsham, UK",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "33a5650b6cbf895ce61d8f8f3191cb7394c54c445a085ea202f7097abc4613a0"
+        }
+      ]
+    },
+    {
+      "id": "AUS-SPRITE-AN5-MK1-1960",
+      "manufacturer": "Austin-Healey",
+      "model_family": "Sprite",
+      "generation": "Original AN5 Frogeye/Bugeye Sprite roadster family",
+      "variant": "Mk I — 1960 Ural Ataman Museum road reference",
+      "model_year_from": 1960,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Ural Ataman Museum’s own restored 1960 AN5 collection account and table provide this road reference. Native 57.82 cu in and 42.5 bhp at 5200 rpm retained without invented conversion or rating standard. No all-gears synchromesh claim is inferred from the generic synchro wording. Source’s broad production totals, launch-country claim, absolute firsts and unqualified competition victories are not imported. Later square-body Spridgets, 1098/1275 engines and aftermarket noses are excluded.",
+      "summary": "The original Frogeye Sprite made lightweight British sports-car design accessible through compact proportions, familiar BMC mechanicals and a semi-monocoque roadster body. Its fixed raised headlights gave it one of the period’s most recognisable identities, while the simple open two-seater established the lasting Sprite small-sports-car formula.",
+      "admission_reason": "The original Frogeye Sprite made lightweight British sports-car design accessible through compact proportions, familiar BMC mechanicals and a semi-monocoque roadster body. Its fixed raised headlights gave it one of the period’s most recognisable identities, while the simple open two-seater established the lasting Sprite small-sports-car formula.",
+      "sources": [
+        {
+          "publisher": "Ural Ataman Classic Car Museum",
+          "title": "1960 Austin-Healey Sprite Mk I AN5 — restored collection road reference",
+          "source_type": "Custodian museum collection account and technical table",
+          "url": "https://www.atamanmuseum.com/austin-healey/1960-austin-healey-sprite-mk-i/",
+          "notes": "Ural Ataman Museum’s own restored 1960 AN5 collection account and table provide this road reference. Native 57.82 cu in and 42.5 bhp at 5200 rpm retained without invented conversion or rating standard. No all-gears synchromesh claim is inferred from the generic synchro wording. Source’s broad production totals, launch-country claim, absolute firsts and unqualified competition victories are not imported. Later square-body Spridgets, 1098/1275 engines and aftermarket noses are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1959 Austin Healey Sprite AN5 Mk I (12081042244).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1959_Austin_Healey_Sprite_AN5_Mk_I_(12081042244).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1959 Austin Healey Sprite AN5 Mk I"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "BMC A-series OHV inline four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU H1 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with floor shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic drum brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front lower wishbones, coils and lever-arm dampers; rear quarter-elliptic leaves and lever-arm dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement, native museum notation",
+          "value": "57.82",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native museum claim at 5200 rpm",
+          "value": "42.5",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Frogeye Sprite made lightweight British sports-car design accessible through compact proportions, familiar BMC mechanicals and a semi-monocoque roadster body. Its fixed raised headlights gave it one of the period’s most recognisable identities, while the simple open two-seater established the lasting Sprite small-sports-car formula.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aus_sprite_an5_mk1_1960.jpg",
+          "caption": "Austin-Healey Sprite AN5 Mk I identified as 1959, with raised Frogeye headlights and original-style open-roadster form. Represents the 1958–61 family used by the 1960 museum reference. Current engine capacity, carburettors and mechanical originality cannot be inferred from the exterior; the adjacent larger Healey is not this entry.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2f880b0c3ea3b794b58bbf9ffb7184c95ee7404a4ceb12fb8e41b27476f6df13"
+        }
+      ]
+    },
+    {
+      "id": "TRI-SPITFIRE4-BASE1963",
+      "manufacturer": "Triumph",
+      "model_family": "Spitfire",
+      "generation": "Original Spitfire 4 Mk I roadster family",
+      "variant": "Spitfire 4 — January 1963 base, four-speed without overdrive",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original Standard-Triumph/RAC application 1018, FIA 94 GT. Complete 11-page file rendered; base cover/engine/gearbox/chassis PDF1/3/5/6 read individually. Cover is stamped 29 January 1963, not the index’s 30 January date. 1962 manufacture and FC1/FC1HE are declared. Selected 1147-cc base, 4.11 axle, no OD or optional servo; alternate 4.55, later OD/carbs/ratios, Mk II/III/1500 and racing equipment are excluded. No unprinted power or test performance is invented.",
+      "summary": "The original Spitfire brought Triumph into the accessible small-roadster class with independent rear suspension and a distinct sports-car body. Developed in response to the Frogeye Sprite and MG Midget, it became a successful British sports-car line whose original four-cylinder open model deserves its own place alongside the later six-cylinder GT6.",
+      "admission_reason": "The original Spitfire brought Triumph into the accessible small-roadster class with independent rear suspension and a distinct sports-car body. Developed in response to the Frogeye Sprite and MG Midget, it became a successful British sports-car line whose original four-cylinder open model deserves its own place alongside the later six-cylinder GT6.",
+      "sources": [
+        {
+          "publisher": "Standard-Triumph / RAC / FIA Historic Database",
+          "title": "Triumph Spitfire 4 — original RAC/Standard-Triumph 1018 base application, FIA 94 GT",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601035201/homologation_form_number_94_group_gt.pdf",
+          "notes": "Original Standard-Triumph/RAC application 1018, FIA 94 GT. Complete 11-page file rendered; base cover/engine/gearbox/chassis PDF1/3/5/6 read individually. Cover is stamped 29 January 1963, not the index’s 30 January date. 1962 manufacture and FC1/FC1HE are declared. Selected 1147-cc base, 4.11 axle, no OD or optional servo; alternate 4.55, later OD/carbs/ratios, Mk II/III/1500 and racing equipment are excluded. No unprinted power or test performance is invented."
+        },
+        {
+          "publisher": "Triumph Sports Six Club",
+          "title": "Spitfire 4/Mark II — original roadster development",
+          "source_type": "Marque model-register historical account",
+          "url": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=24",
+          "notes": "Model-register overview supports the 1962 small-roadster response to Sprite/Midget and independent-rear-suspension development. Combined Mk I/II performance and later OD/Mk II engine improvements do not override the original base."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Triumph Spitfire Mk I Roadster (39938701913).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Triumph_Spitfire_Mk_I_Roadster_(39938701913).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1963 Triumph Spitfire Mk I Roadster"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder four-stroke inline engine; cast-iron block and head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1147",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven camshaft in block; pushrod valve operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin horizontal SU HS2 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual, one reverse; no overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Non-limited-slip hypoid-bevel differential; selected base 4.11:1 ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front coil springs; independent rear transverse spring; telescopic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic front discs, 232 mm; rear drums, 178 mm; selected without optional servo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Spitfire brought Triumph into the accessible small-roadster class with independent rear suspension and a distinct sports-car body. Developed in response to the Frogeye Sprite and MG Midget, it became a successful British sports-car line whose original four-cylinder open model deserves its own place alongside the later six-cylinder GT6.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_spitfire4_base1963.jpg",
+          "caption": "Triumph Spitfire Mk I roadster identified as 1963, with the original low-bumper body. Current alloy wheels, restoration and trim do not certify the 1147-cc engine, base axle or absence of later overdrive. The selected original road specification does not describe all later Spitfires.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "890f6572c58c11e6dcf3ab36dea716cfde7f3c72f0b93f31fad8cda5762440fe"
+        }
+      ]
+    },
+    {
+      "id": "ALF-156-GTA-SW-MT2002",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "156",
+      "generation": "Original type932 156 GTA road-performance family",
+      "variant": "Sportwagon GTA — 2002 European manual reference",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Five-door performance estate",
+      "road_legal": 1,
+      "specification_market": "Factory 29 January 2002 launch dossier, GTA sections and separate saloon/Sportwagon manual/Selespeed table read. Selected Sportwagon GTA manual: 3179 cc, 184 kW at 6200 rpm and 300 Nm at 4800 rpm; original 305-mm front brakes, not later 330-mm changes. Native kW retained; the English page’s 250 bhp parenthesis is not silently relabelled as PS or converted. Standard JTS/JTD, race 156, Selespeed and later differential conversions are excluded. GTA revival does not imply the original 1960s aluminium-lightweight construction.",
+      "summary": "The 156 GTA revived Alfa Romeo’s historic GTA name through a substantial performance development of its acclaimed 156. A 3.2-litre twenty-four-valve V6 was matched to revised suspension, quicker steering and Brembo front brakes, creating a distinctive Italian sporting road car offered even in practical Sportwagon form.",
+      "admission_reason": "The 156 GTA revived Alfa Romeo’s historic GTA name through a substantial performance development of its acclaimed 156. A 3.2-litre twenty-four-valve V6 was matched to revised suspension, quicker steering and Brembo front brakes, creating a distinctive Italian sporting road car offered even in practical Sportwagon form.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "New Alfa 156 and Alfa 156GTA — original launch dossier, 29 January 2002",
+          "source_type": "Period manufacturer launch dossier and technical tables",
+          "url": "https://www.media.stellantis.com/em-en/alfa-romeo/press/new-alfa-156-and-alfa-156-gta",
+          "notes": "Factory 29 January 2002 launch dossier, GTA sections and separate saloon/Sportwagon manual/Selespeed table read. Selected Sportwagon GTA manual: 3179 cc, 184 kW at 6200 rpm and 300 Nm at 4800 rpm; original 305-mm front brakes, not later 330-mm changes. Native kW retained; the English page’s 250 bhp parenthesis is not silently relabelled as PS or converted. Standard JTS/JTD, race 156, Selespeed and later differential conversions are excluded. GTA revival does not imply the original 1960s aluminium-lightweight construction."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2003 Alfa Romeo 156 GTA SP24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2003_Alfa_Romeo_156_GTA_SP24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "3.2-litre V6 with 24 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3179",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "184",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "300",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual; selected without Selespeed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs, 305 × 28 mm, with twin-plunger Brembo calipers; rear discs 276 × 10 mm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Reinforced high double-wishbone front layout; revised MacPherson-strut rear; dedicated springs, dampers and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/45 tyres on 17-inch wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 156 GTA revived Alfa Romeo’s historic GTA name through a substantial performance development of its acclaimed 156. A 3.2-litre twenty-four-valve V6 was matched to revised suspension, quicker steering and Brembo front brakes, creating a distinctive Italian sporting road car offered even in practical Sportwagon form.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_156_gta_sw_mt2002.jpg",
+          "caption": "Alfa Romeo 156 GTA Sportwagon identified as 2003 at Salon Prive 2024, showing GTA front bodywork, estate roof and characteristic wheels. Represents the selected original Sportwagon family; the picture does not certify manual versus Selespeed, original 305-mm brakes or absence of later differential modifications.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "62c8e7feb9b0f0e4f7e369987c6078056d22e134ac0c1f360581bd38d4168631"
+        }
+      ]
+    },
+    {
+      "id": "PON-GTO-JUDGE-1969",
+      "manufacturer": "Pontiac",
+      "model_family": "GTO",
+      "generation": "Second-generation A-body GTO, selected 1969 Judge",
+      "variant": "The Judge 400 Ram Air — period four-speed/disc-brake reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door muscle hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Original Pontiac 1969 Performance/Break Away Squad brochure, 11 scanned panels/spreads. All rendered; The Judge PDF5 and enlarged technical panel visually read. Factory-republished Steve Kelly/Hot Rod showroom-car assessment specifies 366-hp 400 Ram Air, optional close-ratio 4-speed/Hurst, front discs/rear drums and 3.90 limited-slip. These selected options are not described as every Judge’s standard equipment; three-speed/automatic alternatives are excluded. Native period output is not converted to modern net. No Ram Air IV/455, drag-prepared car or claimed test acceleration is imported.",
+      "summary": "The Judge gave the second-generation GTO a memorable muscle-car identity through functional Ram Air induction, a large rear airfoil and vivid presentation. Its 400-cubic-inch V8 and available Hurst-shifted close-ratio four-speed exemplified Pontiac’s combination of straight-line performance and theatrical design during the classic muscle-car era.",
+      "admission_reason": "The Judge gave the second-generation GTO a memorable muscle-car identity through functional Ram Air induction, a large rear airfoil and vivid presentation. Its 400-cubic-inch V8 and available Hurst-shifted close-ratio four-speed exemplified Pontiac’s combination of straight-line performance and theatrical design during the classic muscle-car era.",
+      "sources": [
+        {
+          "publisher": "Pontiac Motor Division / Steve Kelly / Over-Drive hosted facsimile",
+          "title": "Pontiac 1969 Performance — The Judge showroom-car assessment and selected technical table",
+          "source_type": "Period manufacturer brochure with identified first-hand road assessment",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2023/03/1969-Pontiac-Performance-Brochure-1-28C.pdf",
+          "notes": "Original Pontiac 1969 Performance/Break Away Squad brochure, 11 scanned panels/spreads. All rendered; The Judge PDF5 and enlarged technical panel visually read. Factory-republished Steve Kelly/Hot Rod showroom-car assessment specifies 366-hp 400 Ram Air, optional close-ratio 4-speed/Hurst, front discs/rear drums and 3.90 limited-slip. These selected options are not described as every Judge’s standard equipment; three-speed/automatic alternatives are excluded. Native period output is not converted to modern net. No Ram Air IV/455, drag-prepared car or claimed test acceleration is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:'69 Pontiac GTO The Judge (Centropolis Laval '10).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:%2769_Pontiac_GTO_The_Judge_(Centropolis_Laval_%2710).JPG",
+          "notes": "Bull-Doser; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "400-cubic-inch V8 with Ram Air induction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.75:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "One four-barrel Quadrajet carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio four-speed manual with Hurst shifter, selected option",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Selected front discs, 11.1-inch; rear drums, 9.5-inch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Heavy-duty front and rear coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential; selected test-reference ratio 3.90:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "60-inch rear-deck airfoil",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement, native brochure notation",
+          "value": "400",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native period claim at 5100 rpm",
+          "value": "366",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native period claim at 3600 rpm",
+          "value": "445",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Judge gave the second-generation GTO a memorable muscle-car identity through functional Ram Air induction, a large rear airfoil and vivid presentation. Its 400-cubic-inch V8 and available Hurst-shifted close-ratio four-speed exemplified Pontiac’s combination of straight-line performance and theatrical design during the classic muscle-car era.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pon_gto_judge_1969.jpg",
+          "caption": "Pontiac GTO identified as a 1969 Judge at Centropolis Laval, Quebec. Judge identification, Ram Air bonnet and second-generation body illustrate the road family. Badges and restoration do not replace factory build documentation or certify the selected four-speed, front discs, 3.90 axle or original 400 engine.",
+          "creator": "Bull-Doser",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f8e053d38cf09e4f9d815df3eb4b774374ee7915f1ff76f0e738c3ce8d36bfb4"
+        }
+      ]
+    }
+  ]
+}

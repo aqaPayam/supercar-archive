@@ -1,18 +1,35 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 657 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 665 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 33 reviewed road-icon manifests contain 262 distinct identifiers. Subtracting
+The 34 reviewed road-icon manifests contain 270 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 657 count must not be presented as 657 proven qualifying icons.
+The raw 665 count must not be presented as 665 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
 check cannot establish semantic uniqueness: aliases, body styles, optional
 packages and differently described versions still require per-car review.
 Same-generation variant counting remains a pending user boundary.
+
+## Identity spot-check: 2022 V12 Vantage
+
+Reviewed 2026-10-29 against the stored profiles and both original manufacturer
+announcements. `AST-V12V-2022` is the coupe; `AST-V12V-ROAD-2022` is the Roadster.
+They are different body derivatives of the same contemporary V12 Vantage
+programme, not two aliases for the same body/reference and not independently
+established vehicle generations merely because their stored generation labels
+differ. The [coupe announcement](https://www.astonmartin.com/en/our-world/news/2022/3/16/introducing-the-new-v12-vantage-a-spectacular-finale-for-an-iconic-bloodline)
+identifies a 333-car allocation; the [Roadster announcement](https://www.astonmartin.com/en-us/our-world/news/2022/8/20/introducing-the-new-v12-vantage-roadster-the-ultimate-expression-of-style-sound-and-speed)
+identifies 249 open cars and explicitly describes shared suspension hardware
+with a different damper tune. These are announced allocations, not survivor counts.
+
+Both existing records remain preserved. Whether they contribute one or two
+qualifying identities depends on the pending body/variant-counting decision.
+This two-record identity check is not approval of the remaining baseline or a
+fresh audit of every technical field, image, price or colour record.
 
 ## Existing non-road flags
 
