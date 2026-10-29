@@ -1,0 +1,326 @@
+{
+  "batch": "icons-road-2026-10-29-52",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "FIA-8V-RAPI-ROAD1952",
+      "manufacturer": "Fiat",
+      "model_family": "8V",
+      "generation": "Original 1952–1954 8V sporting-road family",
+      "variant": "Rapi factory berlinetta — initial two-carburettor 105 CV reference",
+      "model_year_from": 1952,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Rapi closed sporting berlinetta",
+      "road_legal": 1,
+      "specification_market": "First-party Stellantis Heritage history and 1952 technical reference. Select the initial two-carburettor 105 CV version, not the later 115 CV development or three-carburettor 127 CV tune. The narrative assigns 190 km/h to the second series introduced in 1954; that speed is therefore omitted here despite the combined table heading. The collection’s unique fibreglass shell is not made universal. One 8V family includes the various coachworks; Siata 208 is not treated as a Fiat body variant.",
+      "summary": "The 8V marked Fiat’s return to purpose-built sporting GTs with its distinctive V8, independent suspension at both ends and aerodynamic Rapi body. Its documented privateer competition success, including a two-litre class victory at Monza in 1954, supports a lasting performance identity beyond rarity.",
+      "admission_reason": "The 8V marked Fiat’s return to purpose-built sporting GTs with its distinctive V8, independent suspension at both ends and aerodynamic Rapi body. Its documented privateer competition success, including a two-litre class victory at Monza in 1954, supports a lasting performance identity beyond rarity.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage HUB Italy",
+          "title": "Fiat 8V — official historical and technical reference",
+          "source_type": "Manufacturer historical account / specifications",
+          "url": "https://www.heritagehubitaly.com/it-it/heritage/storie/fiat-8v",
+          "notes": "First-party Stellantis Heritage history and 1952 technical reference. Select the initial two-carburettor 105 CV version, not the later 115 CV development or three-carburettor 127 CV tune. The narrative assigns 190 km/h to the second series introduced in 1954; that speed is therefore omitted here despite the combined table heading. The collection’s unique fibreglass shell is not made universal. One 8V family includes the various coachworks; Siata 208 is not treated as a Fiat body variant."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Fiat 8V - Pebble Beach 2006 (230987368).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Fiat_8V_-_Pebble_Beach_2006_(230987368).jpg",
+          "notes": "Simon Davison from Los Gatos, United States; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: IMG_3973. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent suspension on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Fabio Luigi Rapi / Carrozzerie Speciali Fiat",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Initial-series quoted power at 5200 rpm",
+          "value": "105",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 8V marked Fiat’s return to purpose-built sporting GTs with its distinctive V8, independent suspension at both ends and aerodynamic Rapi body. Its documented privateer competition success, including a two-litre class victory at Monza in 1954, supports a lasting performance identity beyond rarity.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_8v_rapi_road1952.jpg",
+          "caption": "First-style Rapi-bodied Fiat 8V, identified by the photographer as a 1953 car at Pebble Beach in 2006. This representative original-family berlinetta does not establish the initial 105 CV tune, a particular competition history, the unique factory fibreglass body or present mechanical originality.",
+          "creator": "Simon Davison from Los Gatos, United States",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "eb218a8dfef155320dfaa98311e2fa28f1e0e6e83607c54ec2a56ef5468ae498"
+        }
+      ]
+    },
+    {
+      "id": "AUT-A112-ABARTH-58HP1972",
+      "manufacturer": "Autobianchi",
+      "model_family": "A112 Abarth",
+      "generation": "Original A112 Abarth road family, all seven series",
+      "variant": "58 HP — 1972 Heritage collection reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Compact sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Selected 58 HP collection entry dated 1972 in the manufacturer’s 12 April 2024 retrospective; introduction was in September 1971. Later 1050-cc/70 HP engines and gearbox developments are excluded. The downloaded 1983 manual is not evidence for this early specification. One family is counted, including Lancia-badged export aliases. The representative later-series photograph does not establish the selected engine or year.",
+      "summary": "The A112 Abarth brought Carlo Abarth’s sporting approach to an accessible small road car. Its place in the Fiat Group’s driver-development trophy makes this an enduring compact performance family rather than an ordinary A112.",
+      "admission_reason": "The A112 Abarth brought Carlo Abarth’s sporting approach to an accessible small road car. Its place in the Fiat Group’s driver-development trophy makes this an enduring compact performance family rather than an ordinary A112.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage HUB Italy",
+          "title": "A112 Abarth 58 HP (1972) — Abarth 75th-anniversary collection account",
+          "source_type": "Manufacturer collection history / specifications",
+          "url": "https://www.media.stellantis.com/em-en/heritage-hub-italy/press/heritage-pays-tribute-to-the-history-of-abarth-with-two-special-projects",
+          "notes": "Selected 58 HP collection entry dated 1972 in the manufacturer’s 12 April 2024 retrospective; introduction was in September 1971. Later 1050-cc/70 HP engines and gearbox developments are excluded. The downloaded 1983 manual is not evidence for this early specification. One family is counted, including Lancia-badged export aliases. The representative later-series photograph does not establish the selected engine or year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1980 Autobianchi A112 Abarth front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1980_Autobianchi_A112_Abarth_front.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/14319176384/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "982",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Vertical twin-choke Weber 32 DMTR carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "150",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory quoted output",
+          "value": "58",
+          "unit": "DIN HP",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The A112 Abarth brought Carlo Abarth’s sporting approach to an accessible small road car. Its place in the Fiat Group’s driver-development trophy makes this an enduring compact performance family rather than an ordinary A112.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aut_a112_abarth_58hp1972.jpg",
+          "caption": "Later-series Autobianchi A112 Abarth identified by its photographer as a 1980 car in Montalcino. The visibly different bumpers, grille and bonnet are not presented as the 1972 58 HP collection reference; no 982-cc engine, gearbox specification or untouched condition is inferred from this photograph. One Abarth road family is illustrated.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e3b19958b1830026fd0f3511dc8d237c1d5b36a2504728bce9cd9e10f958d68b"
+        }
+      ]
+    },
+    {
+      "id": "NSU-TTS-ROAD1967",
+      "manufacturer": "NSU",
+      "model_family": "TT / TTS",
+      "generation": "Original Prinz 1000-derived TT/TTS sporting-road family",
+      "variant": "TTS — standard 70 PS road programme",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Audi Tradition’s 27 October 2023 history separates standard TTS road cars from track-only Speed Set equipment. Preserve its rounded one-litre displacement rather than infer an exact capacity. No ordinary Prinz output, TT tune, Jägermeister racing engine, race speed or competition carburettors are transferred. One TT/TTS family is counted; 1967 is programme context, not the pictured museum car’s certified year.",
+      "summary": "The TT/TTS family made the lightweight rear-engined NSU an enduring club-motorsport icon. Its long hill-climbing success and factory sporting chassis distinguish it from the ordinary Prinz, while the selected standard TTS remains a road car.",
+      "admission_reason": "The TT/TTS family made the lightweight rear-engined NSU an enduring club-motorsport icon. Its long hill-climbing success and factory sporting chassis distinguish it from the ordinary Prinz, while the selected standard TTS remains a road car.",
+      "sources": [
+        {
+          "publisher": "Audi Tradition / AUDI AG",
+          "title": "A sporty evolution: from the NSU Prinz to Bergmeister",
+          "source_type": "Manufacturer historical account / specifications",
+          "url": "https://www.audi.com/en/press-releases/a-sporty-evolution-from-the-nsu-prinz-to-bergmeister-15676",
+          "notes": "Audi Tradition’s 27 October 2023 history separates standard TTS road cars from track-only Speed Set equipment. Preserve its rounded one-litre displacement rather than infer an exact capacity. No ordinary Prinz output, TT tune, Jägermeister racing engine, race speed or competition carburettors are transferred. One TT/TTS family is counted; 1967 is programme context, not the pictured museum car’s certified year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:NSU TTS in Museum Autovision.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:NSU_TTS_in_Museum_Autovision.JPG",
+          "notes": "Alf van Beem; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Air-cooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Factory sports shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Standard TTS output",
+          "value": "70",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Factory TTS camber setting",
+          "value": "Slightly negative to neutral",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The TT/TTS family made the lightweight rear-engined NSU an enduring club-motorsport icon. Its long hill-climbing success and factory sporting chassis distinguish it from the ordinary Prinz, while the selected standard TTS remains a road car.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nsu_tts_road1967.jpg",
+          "caption": "Museum-labelled NSU TTS at Museum Autovision, photographed by Alf van Beem. This original-family saloon illustrates the TT/TTS road programme; the photograph does not certify its build year, displacement, standard road tune or absence of subsequent modifications. No Speed Set or Jägermeister racer specification is inferred.",
+          "creator": "Alf van Beem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b7817d096e20470992125ef71a8d07c5f67e9a6015b7607dd31e1f57899c4cc9"
+        }
+      ]
+    }
+  ]
+}

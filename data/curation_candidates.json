@@ -4226,7 +4226,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 770-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-51.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "8V",
+      "generation": "Original 1952–1954 8V sporting-road family",
+      "proposed_record": "FIA-8V-RAPI-ROAD1952",
+      "reason": "The 8V marked Fiat’s return to purpose-built sporting GTs with its distinctive V8, independent suspension at both ends and aerodynamic Rapi body. Its documented privateer competition success, including a two-litre class victory at Monza in 1954, supports a lasting performance identity beyond rarity.",
+      "evidence": "https://www.heritagehubitaly.com/it-it/heritage/storie/fiat-8v",
+      "duplicate_review": "Absent model/generation checked against the complete 774-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-52.json"
+    },
+    {
+      "manufacturer": "Autobianchi",
+      "model": "A112 Abarth",
+      "generation": "Original A112 Abarth road family, all seven series",
+      "proposed_record": "AUT-A112-ABARTH-58HP1972",
+      "reason": "The A112 Abarth brought Carlo Abarth’s sporting approach to an accessible small road car. Its place in the Fiat Group’s driver-development trophy makes this an enduring compact performance family rather than an ordinary A112.",
+      "evidence": "https://www.media.stellantis.com/em-en/heritage-hub-italy/press/heritage-pays-tribute-to-the-history-of-abarth-with-two-special-projects",
+      "duplicate_review": "Absent model/generation checked against the complete 774-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-52.json"
+    },
+    {
+      "manufacturer": "NSU",
+      "model": "TT / TTS",
+      "generation": "Original Prinz 1000-derived TT/TTS sporting-road family",
+      "proposed_record": "NSU-TTS-ROAD1967",
+      "reason": "The TT/TTS family made the lightweight rear-engined NSU an enduring club-motorsport icon. Its long hill-climbing success and factory sporting chassis distinguish it from the ordinary Prinz, while the selected standard TTS remains a road car.",
+      "evidence": "https://www.audi.com/en/press-releases/a-sporty-evolution-from-the-nsu-prinz-to-bergmeister-15676",
+      "duplicate_review": "Absent model/generation checked against the complete 774-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-52.json"
     }
   ],
-  "catalogue_count_after_batches": 774
+  "catalogue_count_after_batches": 777
 }
