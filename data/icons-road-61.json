@@ -1,0 +1,354 @@
+{
+  "batch": "icons-road-2026-10-29-61",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "MER-450SLC-50-C107-1977",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SLC",
+      "generation": "C107 production-road sporting-coupe family",
+      "variant": "450 SLC 5.0 — September 1977 introduction reference",
+      "model_year_from": 1977,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-seat sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Factory 6 October 2021 SLC retrospective: original September 1977 450 SLC 5.0; C107 body/chassis and pre-1980 transmission. Later 500 SLC, 1980 four-speed automatic and AMG/rally competition outputs are excluded. No precise displacement, torque, mass, acceleration, production total or universal rally-first claim is inferred. One absent C107 family is counted.",
+      "summary": "The 450 SLC 5.0 gives the C107 a substantive performance and rally-heritage admission case. Its aluminium components and aerodynamic treatment belong to the sporting evolution behind Mercedes’ successful long-distance rally programme, represented here by the production road coupe.",
+      "admission_reason": "The 450 SLC 5.0 gives the C107 a substantive performance and rally-heritage admission case. Its aluminium components and aerodynamic treatment belong to the sporting evolution behind Mercedes’ successful long-distance rally programme, represented here by the production road coupe.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Österreich / Mercedes-Benz Classic",
+          "title": "Mercedes-Benz SLC in 1971 — factory 50-year retrospective, 6 October 2021",
+          "source_type": "Manufacturer historical press release",
+          "url": "https://media.mercedes-benz.at/news-das-elegante-coup-mit-dem-anspruch-der-s-klasse-mercedes-benz-slc-im-jahr-1971?id=141417&l=deutsch&menueid=9661",
+          "notes": "Factory 6 October 2021 SLC retrospective: original September 1977 450 SLC 5.0; C107 body/chassis and pre-1980 transmission. Later 500 SLC, 1980 four-speed automatic and AMG/rally competition outputs are excluded. No precise displacement, torque, mass, acceleration, production total or universal rally-first claim is inferred. One absent C107 family is counted."
+        },
+        {
+          "publisher": "Fédération Internationale de l’Automobile",
+          "title": "450 SLC 5.0 (C107) — Group 4 homologation model record, number 661",
+          "source_type": "Motorsport governing-body historical model record",
+          "url": "https://historicdb.fia.com/model/450-slc-50-c-107",
+          "notes": "Confirms a C107 450 SLC 5.0 Group 4 homologation identity. Gallery photographs were viewed, not the full technical form. Race extensions are not road equipment. Displayed homologation dates are not used as road introduction dates."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1978 Mercedes-Benz 450 SLC 5.0 (12114595296).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1978_Mercedes-Benz_450_SLC_5.0_(12114595296).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1978 Mercedes-Benz 450 SLC 5.0. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "177",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bonnet, bootlid and bumper reinforcement",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front spoiler; black plastic rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed torque-converter automatic, before the 1980 range change",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Wheelbase",
+          "value": "2820",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 450 SLC 5.0 gives the C107 a substantive performance and rally-heritage admission case. Its aluminium components and aerodynamic treatment belong to the sporting evolution behind Mercedes’ successful long-distance rally programme, represented here by the production road coupe.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_450slc_50_c107_1977.jpg",
+          "caption": "1978 Mercedes-Benz 450 SLC 5.0 photographed by Niels de Wit from Lunteren, The Netherlands. This representative C107 road coupe is not a rally car and does not certify a September 1977 build date, exact engine displacement, original tune or unchanged equipment.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "834df60ff6d20a5d91c7104bc6ba158d9f3ec278c2b3a938d2da15d7892e5d2b"
+        }
+      ]
+    },
+    {
+      "id": "REL-SCIMITAR-GTE-SE5-AUTO1970",
+      "manufacturer": "Reliant",
+      "model_family": "Scimitar GTE",
+      "generation": "Original SE5 / SE5A production-road sports-shooting-brake family",
+      "variant": "SE5 Ford V6 with optional Borg-Warner 35 — June 1970 UK test reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door sports shooting brake",
+      "road_legal": 1,
+      "specification_market": "Bill Boddy’s June 1970 first-hand UK test; July 2014 is the archive publication date. Retain the tested optional automatic, not an assumed standard gearbox. Steering stickiness/kickback, tailgate faults and restricted space temper the positive assessment. No OCR-corrupted tyre or steering-wheel dimension, later SE5A power, precise displacement or measured performance is imported.",
+      "summary": "The Scimitar GTE established a distinctive British sports-shooting-brake identity. Contemporary driving found sporting road behaviour and useful load space in its Ogle-styled four-seat body, making the original GTE a significant sporting design rather than an ordinary estate.",
+      "admission_reason": "The Scimitar GTE established a distinctive British sports-shooting-brake identity. Contemporary driving found sporting road behaviour and useful load space in its Ogle-styled four-seat body, making the original GTE a significant sporting design rather than an ordinary estate.",
+      "sources": [
+        {
+          "publisher": "Motor Sport / Bill Boddy",
+          "title": "The Reliant Scimitar GTE — Bill Boddy, June 1970 UK road test",
+          "source_type": "Contemporary first-hand road test, archive republication",
+          "url": "https://www.motorsportmagazine.com/archive/article/june-1970/60/the-reliant-scimitar-gte/",
+          "notes": "Bill Boddy’s June 1970 first-hand UK test; July 2014 is the archive publication date. Retain the tested optional automatic, not an assumed standard gearbox. Steering stickiness/kickback, tailgate faults and restricted space temper the positive assessment. No OCR-corrupted tyre or steering-wheel dimension, later SE5A power, precise displacement or measured performance is imported."
+        },
+        {
+          "publisher": "British Motor Museum / BMIHT",
+          "title": "Scimitar GTE SE5A, 1971 — collection history",
+          "source_type": "Museum collection history",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800328",
+          "notes": "Collection history corroborates the 1968 GTE sports-touring-estate concept and steel chassis/glass-fibre body. The museum car is a revised SE5A: its 138-bhp table and dimensions are not transferred to the June 1970 automatic test car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Reliant Scimitar GTE SE5 (1971) - 15115549639.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Reliant_Scimitar_GTE_SE5_(1971)_-_15115549639.jpg",
+          "notes": "SG2012; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/57664366@N08/15115549639/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Optional Borg-Warner 35 automatic, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Glass-fibre body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Braced chassis designed by John Crosthwaite",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Coil-sprung rear axle located by dual trailing arms and Watts linkage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling servo-assisted front discs / rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Scimitar GTE established a distinctive British sports-shooting-brake identity. Contemporary driving found sporting road behaviour and useful load space in its Ogle-styled four-seat body, making the original GTE a significant sporting design rather than an ordinary estate.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_rel_scimitar_gte_se5_auto1970.jpg",
+          "caption": "Reliant Scimitar GTE SE5, identified by photographer SG2012 as a 1971 car, at Hoghton Tower Classic Car Show. This representative early GTE illustrates the sports-shooting-brake body; it does not certify the June 1970 test car, optional automatic gearbox, original wheels or unchanged mechanical condition.",
+          "creator": "SG2012",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ecc051ad7aa03077506ba0ff9255967e1e37e4a1b905fd5e3ff83addb2e532fd"
+        }
+      ]
+    },
+    {
+      "id": "ISO-RIVOLTA-GT300-MUSEUM1966",
+      "manufacturer": "Iso",
+      "model_family": "Rivolta GT",
+      "generation": "Original IR300 / IR340 production-road grand-tourer family",
+      "variant": "Rivolta GT 300 — Hellenic Motor Museum 1966 reference",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-seat grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "The museum’s own 1966 collection-car record supplies 5359 cc, 300 bhp and 5000 rpm. Its power-rating standard is unspecified: no SAE/DIN equivalence or kW conversion is inferred. The manufacturer heritage separately supplies the original family’s chassis/body layout. Gearbox, torque, mass, speed and production total are not imported. One original GT family, not each output grade, is counted.",
+      "summary": "The original Rivolta GT established Iso’s performance grand-tourer lineage, combining Chevrolet V8 power with a dedicated platform chassis and Bertone four-seat body. That Italian-American engineering formula and foundational role in the marque’s sports-car history justify one original GT-family entry.",
+      "admission_reason": "The original Rivolta GT established Iso’s performance grand-tourer lineage, combining Chevrolet V8 power with a dedicated platform chassis and Bertone four-seat body. That Italian-American engineering formula and foundational role in the marque’s sports-car history justify one original GT-family entry.",
+      "sources": [
+        {
+          "publisher": "Hellenic Motor Museum",
+          "title": "ISO Rivolta GT — Hellenic Motor Museum 1966 collection record",
+          "source_type": "Museum collection record",
+          "url": "https://www.hellenicmotormuseum.gr/en/car/iso-rivolta-gt/",
+          "notes": "The museum’s own 1966 collection-car record supplies 5359 cc, 300 bhp and 5000 rpm. Its power-rating standard is unspecified: no SAE/DIN equivalence or kW conversion is inferred. The manufacturer heritage separately supplies the original family’s chassis/body layout. Gearbox, torque, mass, speed and production total are not imported. One original GT family, not each output grade, is counted."
+        },
+        {
+          "publisher": "Iso Rivolta",
+          "title": "GT / IR300 — manufacturer heritage",
+          "source_type": "Manufacturer legacy model history",
+          "url": "https://www.isorivoltaofficial.com/isorivolta-gt.html",
+          "notes": "Heritage dates debut to 1962 and describes the platform chassis, Bertone four-seat body and alternative power/transmission choices. These family-level features are distinguished from the selected museum car’s specifications. No unique gearbox or numerical output is assigned from the general heritage page."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Iso Rivolta 300 IMG 8075.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Iso_Rivolta_300_IMG_8075.jpg",
+          "notes": "Alexander-93; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chevrolet V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5359",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-reported output; rating standard unspecified",
+          "value": "300",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Platform chassis",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Bertone body design",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Rivolta GT established Iso’s performance grand-tourer lineage, combining Chevrolet V8 power with a dedicated platform chassis and Bertone four-seat body. That Italian-American engineering formula and foundational role in the marque’s sports-car history justify one original GT-family entry.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_iso_rivolta_gt300_museum1966.jpg",
+          "caption": "Iso Rivolta 300 photographed in Stuttgart by Alexander-93. This representative original-family coupe is distinct from the Hellenic Motor Museum car used for technical reference. It does not certify a 1966 build, museum-car identity, output rating, gearbox or standard wheels.",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9239e9062363b8ef4815598cefeb1ae35c260fcb83e4c06121889d49fd10573b"
+        }
+      ]
+    }
+  ]
+}

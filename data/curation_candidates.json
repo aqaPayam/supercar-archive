@@ -4655,7 +4655,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 810-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-60.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLC",
+      "generation": "C107 production-road sporting-coupe family",
+      "proposed_record": "MER-450SLC-50-C107-1977",
+      "reason": "The 450 SLC 5.0 gives the C107 a substantive performance and rally-heritage admission case. Its aluminium components and aerodynamic treatment belong to the sporting evolution behind Mercedes’ successful long-distance rally programme, represented here by the production road coupe.",
+      "evidence": "https://media.mercedes-benz.at/news-das-elegante-coup-mit-dem-anspruch-der-s-klasse-mercedes-benz-slc-im-jahr-1971?id=141417&l=deutsch&menueid=9661",
+      "duplicate_review": "Absent model/generation checked against the complete 813-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-61.json"
+    },
+    {
+      "manufacturer": "Reliant",
+      "model": "Scimitar GTE",
+      "generation": "Original SE5 / SE5A production-road sports-shooting-brake family",
+      "proposed_record": "REL-SCIMITAR-GTE-SE5-AUTO1970",
+      "reason": "The Scimitar GTE established a distinctive British sports-shooting-brake identity. Contemporary driving found sporting road behaviour and useful load space in its Ogle-styled four-seat body, making the original GTE a significant sporting design rather than an ordinary estate.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/june-1970/60/the-reliant-scimitar-gte/",
+      "duplicate_review": "Absent model/generation checked against the complete 813-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-61.json"
+    },
+    {
+      "manufacturer": "Iso",
+      "model": "Rivolta GT",
+      "generation": "Original IR300 / IR340 production-road grand-tourer family",
+      "proposed_record": "ISO-RIVOLTA-GT300-MUSEUM1966",
+      "reason": "The original Rivolta GT established Iso’s performance grand-tourer lineage, combining Chevrolet V8 power with a dedicated platform chassis and Bertone four-seat body. That Italian-American engineering formula and foundational role in the marque’s sports-car history justify one original GT-family entry.",
+      "evidence": "https://www.isorivoltaofficial.com/isorivolta-gt.html",
+      "duplicate_review": "Absent model/generation checked against the complete 813-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-61.json"
     }
   ],
-  "catalogue_count_after_batches": 813
+  "catalogue_count_after_batches": 816
 }
