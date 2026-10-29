@@ -1950,7 +1950,117 @@
       "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "generation": "Fifth-generation F80 original turbocharged saloon",
+      "proposed_record": "BMW-M3-F80-MAN-2014",
+      "reason": "The F80 marks the M3’s transition to turbocharging, returning to an inline-six while introducing a substantially new lightweight saloon generation. It also marks the split in which the four-door retained the M3 name and the coupe became M4.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-f80-and-bmw-m4-f82.html",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M4",
+      "generation": "F82 water-injected GTS production road coupe",
+      "proposed_record": "BMW-M4-GTS-F82-2016",
+      "reason": "The M4 GTS is a substantive road-car engineering showcase, using water injection to increase the turbocharged inline-six’s output. Its adjustable aerodynamic components, lightweight body parts, dedicated suspension and production OLED rear lighting make it a technological landmark beyond a cosmetic special edition.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0236962EN/the-new-bmw-m4-gts",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M5",
+      "generation": "Fifth-generation F10 original twin-turbo V8 saloon",
+      "proposed_record": "BMW-M5-F10-2011",
+      "reason": "The F10 is a pivotal M5 generation, replacing the high-revving V10 formula with a twin-turbo V8 and introducing the electronically controlled Active M Differential. It represents the performance-saloon line’s move into high-torque turbocharging while retaining rear-wheel drive.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-bmw-m5-of-2011.html",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M5",
+      "generation": "Sixth-generation F90 original M xDrive saloon",
+      "proposed_record": "BMW-M5-F90-ORIGINAL-2018",
+      "reason": "The F90 introduced M xDrive to the M5, a major change in the lineage of BMW’s high-performance saloon. Its variable all-wheel-drive system, selectable rear-drive mode and eight-speed transmission created a new drivetrain architecture rather than an incremental engine-tune variant.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0273540EN/the-new-bmw-m5",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "6 Series",
+      "generation": "E63 original V10 M6 coupe",
+      "proposed_record": "BMW-M6-E63-UK2005",
+      "reason": "The E63 M6 brought BMW’s high-revving road V10 to a dedicated 2+2 grand-touring coupe, pairing it with a seven-speed sequential manual gearbox and a carbon-fibre roof. It is a distinctive landmark in the road-V10 era and a separate GT body/chassis generation from the original M635CSi.",
+      "evidence": "https://www.press.bmwgroup.com/united-kingdom/article/detail/T0013672EN_GB/presskit:-the-new-bmw-m6?language=en_GB",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "R8",
+      "generation": "Original Type 42 V8 FSI mid-engine coupe",
+      "proposed_record": "AUD-R8-T42-V8-2007",
+      "reason": "The original R8 established Audi’s production mid-engine supercar identity. Its V8 FSI engine, permanent quattro drive and aluminium Space Frame combined the marque’s road-car technologies in a new flagship sports-car architecture, distinct from the later Type 4S V10 generation.",
+      "evidence": "https://bib.kuleuven.be/files/ebib/jaarverslagen/Audi_2006.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 4",
+      "generation": "B7 original high-revving V8 RS4 generation",
+      "proposed_record": "AUD-RS4-B7-SALOON-2006",
+      "reason": "The B7 RS4 is a defining high-revving V8 sports saloon, replacing its turbocharged predecessor with a naturally aspirated direct-injection engine. A six-speed manual, rear-biased asymmetric quattro system and hydraulic Dynamic Ride Control distinguish its engineering character within Audi’s RS lineage.",
+      "evidence": "https://www.ausmotive.com/downloads/Audi/RS4-Avant-press-kit-June2012.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf R",
+      "generation": "Mk4 original VR6-powered R32 road hatch",
+      "proposed_record": "VW-GOLF-R32-MK4-2002",
+      "reason": "The original Golf R32 established Volkswagen’s R performance lineage, pairing a six-cylinder engine with 4MOTION all-wheel drive in a compact hatchback. It is the foundational R model and a distinct fourth-generation Golf reference, with the family also becoming an early showcase for DSG.",
+      "evidence": "https://www.volkswagen-newsroom.com/en/the-volkswagen-r-models-15258/volkswagen-r-the-history-15267",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "generation": "Fifth-generation Type 1K original turbo GTI",
+      "proposed_record": "VW-GOLF-GTI-MK5-MAN",
+      "reason": "The fifth-generation GTI is a landmark revival of the Golf hot-hatch formula. Its turbocharged direct-injection engine and new chassis generation restored a sharper sporting identity, while the generation introduced the TFSI–DSG pairing to GTI; this record selects the standard manual car.",
+      "evidence": "https://www.volkswagen-newsroom.com/en/golf-5-gti-20042008-19511",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "generation": "Seventh-generation Type AU two-seat Clubsport S",
+      "proposed_record": "VW-GOLF-GTI-MK7-CSS-2016",
+      "reason": "The Golf GTI Clubsport S is a significant front-drive road-car development, combining a dedicated two-seat lightweight layout, extensively revised chassis and a specific Nordschleife setting. Its 2016 factory lap programme demonstrated this engineering beyond a power increase or commemorative trim package.",
+      "evidence": "https://uploads.vw-mms.de/system/production/files/vwn/008/278/file/5abaf8cf0bbc572480fd3b5ae1e9dc41d9347547/Golf_GTI_Clubsport_S_Nuerburgring_EN.pdf?1530372399=",
+      "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-17.json"
     }
   ],
-  "catalogue_count_after_batches": 570
+  "catalogue_count_after_batches": 580
 }

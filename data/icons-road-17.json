@@ -1,0 +1,1362 @@
+{
+  "batch": "icons-road-2026-10-29-17",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 10,
+  "cars": [
+    {
+      "id": "BMW-M3-F80-MAN-2014",
+      "manufacturer": "BMW",
+      "model_family": "M3",
+      "generation": "Fifth-generation F80 original turbocharged saloon",
+      "variant": "F80 — original 2014 European six-speed manual",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "BMW technical sheet issued May 2014, valid from March 2014 for ACEA markets, both pages visually read. Selected standard M3 saloon/manual column: 4.3 seconds; bracketed M DCT data and adjacent M4 body values are excluded. Competition/CS output and optional carbon-ceramic brakes are not imported.",
+      "summary": "The F80 marks the M3’s transition to turbocharging, returning to an inline-six while introducing a substantially new lightweight saloon generation. It also marks the split in which the four-door retained the M3 name and the coupe became M4.",
+      "admission_reason": "The F80 marks the M3’s transition to turbocharging, returning to an inline-six while introducing a substantially new lightweight saloon generation. It also marks the split in which the four-door retained the M3 name and the coupe became M4.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "BMW M3 Sedan / M4 Coupe specifications — valid March 2014, M3 manual column",
+          "source_type": "Manufacturer technical release",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0179962EN/265695",
+          "notes": "BMW technical sheet issued May 2014, valid from March 2014 for ACEA markets, both pages visually read. Selected standard M3 saloon/manual column: 4.3 seconds; bracketed M DCT data and adjacent M4 body values are excluded. Competition/CS output and optional carbon-ceramic brakes are not imported."
+        },
+        {
+          "publisher": "BMW",
+          "title": "BMW M3 F80 and M4 F82 — first turbocharged generation and naming split",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-f80-and-bmw-m4-f82.html",
+          "notes": "Manufacturer history supports the turbocharging transition and separate M3 saloon/M4 coupe identities; higher-output derivatives in its combined range are not selected."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Blue BMW F30 M3 at the 2014 Toronto Auto Show.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Blue_BMW_F30_M3_at_the_2014_Toronto_Auto_Show.jpg",
+          "notes": "Tianyu10; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2979",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "317",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "550",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500–7300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two mono-scroll turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "High Precision Direct Petrol Injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Active M Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.3",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated perforated discs; four-piston front and twin-piston rear fixed calipers",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The F80 marks the M3’s transition to turbocharging, returning to an inline-six while introducing a substantially new lightweight saloon generation. It also marks the split in which the four-door retained the M3 name and the coupe became M4.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m3_f80_man_2014.jpg",
+          "caption": "BMW M3 — F80 M3 at the 2014 Toronto Auto Show; filename says F30, but the pictured car is the M3 body. North American display and visible optional brakes do not define the European manual reference.",
+          "creator": "Tianyu10",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7b1d175ef02402480f8d15a5806806c81bcdf13a218ca70b810e321d750252a0"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M4-GTS-F82-2016",
+      "manufacturer": "BMW",
+      "model_family": "M4",
+      "generation": "F82 water-injected GTS production road coupe",
+      "variant": "M4 GTS — 2016 international road specification",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "BMW international production-road release, April 2016 snapshot. The 368-kW figure is not relabelled as US 493-SAE-hp data. Selected international carbon bucket seats differ from North American seats. Optional Clubsport cage/harness package and DTM/MotoGP safety-car equipment are not standard road-car claims. No separate standard F82 M4 is added.",
+      "summary": "The M4 GTS is a substantive road-car engineering showcase, using water injection to increase the turbocharged inline-six’s output. Its adjustable aerodynamic components, lightweight body parts, dedicated suspension and production OLED rear lighting make it a technological landmark beyond a cosmetic special edition.",
+      "admission_reason": "The M4 GTS is a substantive road-car engineering showcase, using water injection to increase the turbocharged inline-six’s output. Its adjustable aerodynamic components, lightweight body parts, dedicated suspension and production OLED rear lighting make it a technological landmark beyond a cosmetic special edition.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW M4 GTS — international road-production press release",
+          "source_type": "Manufacturer technical release",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0236962EN/the-new-bmw-m4-gts",
+          "notes": "BMW international production-road release, April 2016 snapshot. The 368-kW figure is not relabelled as US 493-SAE-hp data. Selected international carbon bucket seats differ from North American seats. Optional Clubsport cage/harness package and DTM/MotoGP safety-car equipment are not standard road-car claims. No separate standard F82 M4 is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M4 GTS Zurich 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M4_GTS_Zurich_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "368",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "600",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged with water-injection system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed M Double Clutch Transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Carbon-fibre-reinforced plastic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Adjustable CFRP front splitter and rear wing; carbon-fibre rear diffuser",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Three-way adjustable M coilover suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "M carbon-ceramic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin Pilot Sport Cup 2; 265/35 R19 front, 285/30 R20 rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lighting",
+          "label": "Rear lights",
+          "value": "Production OLED units",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The M4 GTS is a substantive road-car engineering showcase, using water injection to increase the turbocharged inline-six’s output. Its adjustable aerodynamic components, lightweight body parts, dedicated suspension and production OLED rear lighting make it a technological landmark beyond a cosmetic special edition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m4_gts_f82_2016.jpg",
+          "caption": "BMW M4 — Production-style M4 GTS exterior; exact market, seat type and optional Clubsport equipment are not authenticated.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "68bb45f8e5f33aa5e0a228408de16c9fb874dfe723b7c8c2af268db3393d8a2b"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M5-F10-2011",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "Fifth-generation F10 original twin-turbo V8 saloon",
+      "variant": "F10 — original 2011 international M DCT reference",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "BMW June 15, 2011 global launch release. Original 412-kW, rear-drive, seven-speed M DCT saloon; later Competition/anniversary engines and North American six-speed manual are excluded. Optional M Driver’s Package top-speed increase is not standard. No unqualified vehicle mass is imported.",
+      "summary": "The F10 is a pivotal M5 generation, replacing the high-revving V10 formula with a twin-turbo V8 and introducing the electronically controlled Active M Differential. It represents the performance-saloon line’s move into high-torque turbocharging while retaining rear-wheel drive.",
+      "admission_reason": "The F10 is a pivotal M5 generation, replacing the high-revving V10 formula with a twin-turbo V8 and introducing the electronically controlled Active M Differential. It represents the performance-saloon line’s move into high-torque turbocharging while retaining rear-wheel drive.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW M5 — original F10 launch, June 15, 2011",
+          "source_type": "Manufacturer technical release",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0113556EN/the-new-bmw-m5",
+          "notes": "BMW June 15, 2011 global launch release. Original 412-kW, rear-drive, seven-speed M DCT saloon; later Competition/anniversary engines and North American six-speed manual are excluded. Optional M Driver’s Package top-speed increase is not standard. No unqualified vehicle mass is imported."
+        },
+        {
+          "publisher": "BMW",
+          "title": "The BMW M5 F10 from 2011 — turbocharged M5 transition",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/the-bmw-m5-of-2011.html",
+          "notes": "Manufacturer historical account independently documents the fifth-generation turbocharged engine transition; later special-edition outputs are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M5 F10 (7311204410).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M5_F10_(7311204410).jpg",
+          "notes": "nakhon100; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: BMW M5 F10"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4395",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "412",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "680",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000–7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin-scroll twin turbochargers with cross-bank exhaust manifold",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "High Precision Injection direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed M Double Clutch Transmission with Drivelogic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Electronically controlled multi-plate Active M Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "M-specific axle kinematics with Dynamic Damper Control",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The F10 is a pivotal M5 generation, replacing the high-revving V10 formula with a twin-turbo V8 and introducing the electronically controlled Active M Differential. It represents the performance-saloon line’s move into high-torque turbocharging while retaining rear-wheel drive.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_f10_2011.jpg",
+          "caption": "BMW M5 — Original F10 M5 body; photograph does not certify engine tune, transmission, year or optional equipment.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2d287f6e192b46902340c5123e4858dc900eae57df3bbbda9cbca51f49ece3bf"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M5-F90-ORIGINAL-2018",
+      "manufacturer": "BMW",
+      "model_family": "M5",
+      "generation": "Sixth-generation F90 original M xDrive saloon",
+      "variant": "F90 — original 2018 delivery specification",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "BMW August 21, 2017 international launch account explicitly schedules first deliveries for spring 2018. Standard 441-kW saloon, not the separately trimmed First Edition or later Competition/CS. The 2WD mode requires DSC off; it is not the default drive state. Optional M Driver’s Package speed is not standard.",
+      "summary": "The F90 introduced M xDrive to the M5, a major change in the lineage of BMW’s high-performance saloon. Its variable all-wheel-drive system, selectable rear-drive mode and eight-speed transmission created a new drivetrain architecture rather than an incremental engine-tune variant.",
+      "admission_reason": "The F90 introduced M xDrive to the M5, a major change in the lineage of BMW’s high-performance saloon. Its variable all-wheel-drive system, selectable rear-drive mode and eight-speed transmission created a new drivetrain architecture rather than an incremental engine-tune variant.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW M5 — first M xDrive, 2017 release for spring-2018 deliveries",
+          "source_type": "Manufacturer technical release",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0273540EN/the-new-bmw-m5",
+          "notes": "BMW August 21, 2017 international launch account explicitly schedules first deliveries for spring 2018. Standard 441-kW saloon, not the separately trimmed First Edition or later Competition/CS. The 2WD mode requires DSC off; it is not the default drive state. Optional M Driver’s Package speed is not standard."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 BMW M5 Automatic 4.4.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_BMW_M5_Automatic_4.4.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "441",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "750",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600–6700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed M Steptronic with Drivelogic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Variable M xDrive all-wheel drive; selectable 2WD with DSC off",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Fully variable Active M Differential, 0–100 percent locking",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.4",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "M-specific Variable Damper Control",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The F90 introduced M xDrive to the M5, a major change in the lineage of BMW’s high-performance saloon. Its variable all-wheel-drive system, selectable rear-drive mode and eight-speed transmission created a new drivetrain architecture rather than an incremental engine-tune variant.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m5_f90_original_2018.jpg",
+          "caption": "BMW M5 — 2018 F90 M5; representative of the original body, without certifying its original market, tune or installed options.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6a72506d43626ff796664bcd149b2f9e1e1b8089dca71417c7a8a71a4a234058"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M6-E63-UK2005",
+      "manufacturer": "BMW",
+      "model_family": "6 Series",
+      "generation": "E63 original V10 M6 coupe",
+      "variant": "M6 Coupe — November 2005 UK SMG specification",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "BMW UK launch kit dated November 3, 2005; engine key-facts and transmission/body sections. UK 507-hp notation is retained without claiming US SAE equivalence. The road engine shares configuration and development methods with F1, not the actual F1 racing engine. Unrestricted marketing speed claims, optional equipment and later manual/convertible references are excluded.",
+      "summary": "The E63 M6 brought BMW’s high-revving road V10 to a dedicated 2+2 grand-touring coupe, pairing it with a seven-speed sequential manual gearbox and a carbon-fibre roof. It is a distinctive landmark in the road-V10 era and a separate GT body/chassis generation from the original M635CSi.",
+      "admission_reason": "The E63 M6 brought BMW’s high-revving road V10 to a dedicated 2+2 grand-touring coupe, pairing it with a seven-speed sequential manual gearbox and a carbon-fibre roof. It is a distinctive landmark in the road-V10 era and a separate GT body/chassis generation from the original M635CSi.",
+      "sources": [
+        {
+          "publisher": "BMW Group UK",
+          "title": "Presskit: The new BMW M6 — November 2005 UK launch and key facts",
+          "source_type": "Manufacturer technical release",
+          "url": "https://www.press.bmwgroup.com/united-kingdom/article/detail/T0013672EN_GB/presskit:-the-new-bmw-m6?language=en_GB",
+          "notes": "BMW UK launch kit dated November 3, 2005; engine key-facts and transmission/body sections. UK 507-hp notation is retained without claiming US SAE equivalence. The road engine shares configuration and development methods with F1, not the actual F1 racing engine. Unrestricted marketing speed claims, optional equipment and later manual/convertible references are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW E63 M6 Coupé.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_E63_M6_Coup%C3%A9.JPG",
+          "notes": "Hatsukari715; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4999",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "520",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed Sequential M Gearbox with Drivelogic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "M Variable",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Bonded carbon-fibre roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer UK power notation",
+          "value": "507",
+          "unit": "hp; UK release notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E63 M6 brought BMW’s high-revving road V10 to a dedicated 2+2 grand-touring coupe, pairing it with a seven-speed sequential manual gearbox and a carbon-fibre roof. It is a distinctive landmark in the road-V10 era and a separate GT body/chassis generation from the original M635CSi.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m6_e63_uk2005.jpg",
+          "caption": "BMW 6 Series — E63 M6 coupe photographed in Japan; exact build year, UK specification and gearbox are not authenticated.",
+          "creator": "Hatsukari715",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5416ac3284c9f5eebe6884ecd03269920b401a01db06e11ca6f475cab61139f8"
+        }
+      ]
+    },
+    {
+      "id": "AUD-R8-T42-V8-2007",
+      "manufacturer": "Audi",
+      "model_family": "R8",
+      "generation": "Original Type 42 V8 FSI mid-engine coupe",
+      "variant": "R8 4.2 FSI — original 2007 market-introduction reference",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Audi AG 2006 Annual Report, KU Leuven-hosted facsimile. Printed pages 41, 63 and 134 / PDF 43, 65 and 136 document first R8 production, first-half-2007 market introduction and original 309-kW/430-Nm engine. Transmission is unspecified here; no manual/R tronic identity or later S tronic is inferred. Later V8 power updates, V10, Spyder and option-dependent damping/lighting are excluded.",
+      "summary": "The original R8 established Audi’s production mid-engine supercar identity. Its V8 FSI engine, permanent quattro drive and aluminium Space Frame combined the marque’s road-car technologies in a new flagship sports-car architecture, distinct from the later Type 4S V10 generation.",
+      "admission_reason": "The original R8 established Audi’s production mid-engine supercar identity. Its V8 FSI engine, permanent quattro drive and aluminium Space Frame combined the marque’s road-car technologies in a new flagship sports-car architecture, distinct from the later Type 4S V10 generation.",
+      "sources": [
+        {
+          "publisher": "Audi AG",
+          "title": "Audi 2006 Annual Report — original R8, printed pages 41, 63 and 134",
+          "source_type": "Manufacturer annual report, university-hosted facsimile",
+          "url": "https://bib.kuleuven.be/files/ebib/jaarverslagen/Audi_2006.pdf",
+          "notes": "Audi AG 2006 Annual Report, KU Leuven-hosted facsimile. Printed pages 41, 63 and 134 / PDF 43, 65 and 136 document first R8 production, first-half-2007 market introduction and original 309-kW/430-Nm engine. Transmission is unspecified here; no manual/R tronic identity or later S tronic is inferred. Later V8 power updates, V10, Spyder and option-dependent damping/lighting are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2007 Audi R8 4.2 Quattro.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2007_Audi_R8_4.2_Quattro.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "309",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "430",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "FSI petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Audi Space Frame aluminium structure",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.6",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original R8 established Audi’s production mid-engine supercar identity. Its V8 FSI engine, permanent quattro drive and aluminium Space Frame combined the marque’s road-car technologies in a new flagship sports-car architecture, distinct from the later Type 4S V10 generation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_r8_t42_v8_2007.jpg",
+          "caption": "Audi R8 — 2007 Type 42 V8 R8 coupe; the photo does not authenticate manual versus R tronic or optional damping and lighting.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "21e531407a44f5bc8ba4dc3e1f15e7e37396959eb495117446a2ee2e9bd6e012"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS4-B7-SALOON-2006",
+      "manufacturer": "Audi",
+      "model_family": "RS 4",
+      "generation": "B7 original high-revving V8 RS4 generation",
+      "variant": "RS4 Sedan — original 2005/2006 European road series",
+      "model_year_from": 2006,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Audi AG June 2012 RS4 Avant press kit, historical B7 section page 19/20, visually read. The body-specific 4.8-second figure is explicitly for the B7 Sedan. Introductory 2005/2006 series is distinct from the document’s 2012 B8 launch subject and adjacent B5 history. Cabriolet/Avant acceleration, optional post-2007 speed increase and later S tronic are excluded.",
+      "summary": "The B7 RS4 is a defining high-revving V8 sports saloon, replacing its turbocharged predecessor with a naturally aspirated direct-injection engine. A six-speed manual, rear-biased asymmetric quattro system and hydraulic Dynamic Ride Control distinguish its engineering character within Audi’s RS lineage.",
+      "admission_reason": "The B7 RS4 is a defining high-revving V8 sports saloon, replacing its turbocharged predecessor with a naturally aspirated direct-injection engine. A six-speed manual, rear-biased asymmetric quattro system and hydraulic Dynamic Ride Control distinguish its engineering character within Audi’s RS lineage.",
+      "sources": [
+        {
+          "publisher": "Audi AG",
+          "title": "Audi RS4 Avant 2012 press kit — B7 historical technical account, page 19/20",
+          "source_type": "Manufacturer historical technical account, publication-hosted facsimile",
+          "url": "https://www.ausmotive.com/downloads/Audi/RS4-Avant-press-kit-June2012.pdf",
+          "notes": "Audi AG June 2012 RS4 Avant press kit, historical B7 section page 19/20, visually read. The body-specific 4.8-second figure is explicitly for the B7 Sedan. Introductory 2005/2006 series is distinct from the document’s 2012 B8 launch subject and adjacent B5 history. Cabriolet/Avant acceleration, optional post-2007 speed increase and later S tronic are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS4 B7.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS4_B7.jpg",
+          "notes": "Samoborac; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "309",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "430",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "FSI direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro all-wheel drive; normal 40:60 front/rear torque split",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-link front and trapezoidal-link rear; hydraulic Dynamic Ride Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Perforated internally ventilated discs with underbody NACA cooling ducts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "255/40 R18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.8",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The B7 RS4 is a defining high-revving V8 sports saloon, replacing its turbocharged predecessor with a naturally aspirated direct-injection engine. A six-speed manual, rear-biased asymmetric quattro system and hydraulic Dynamic Ride Control distinguish its engineering character within Audi’s RS lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs4_b7_saloon_2006.jpg",
+          "caption": "Audi RS 4 — B7 RS4 four-door saloon; installed tune, restoration and optional equipment are not authenticated.",
+          "creator": "Samoborac",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3bd01eb360e08578a5869e7d5e58fd2c86d7e763d5cdcf900ee9be444fe3e446"
+        }
+      ]
+    },
+    {
+      "id": "VW-GOLF-R32-MK4-2002",
+      "manufacturer": "Volkswagen",
+      "model_family": "Golf R",
+      "generation": "Mk4 original VR6-powered R32 road hatch",
+      "variant": "Golf IV R32 — original European six-speed manual",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Volkswagen R October 27, 2022 historical account, original Golf IV R32 section. Selected European 177-kW manual: 6.6 seconds; optional DSG acceleration is different and is not combined. No North American power/market year, Mk5 R32 or later four-cylinder Golf R specifications are imported.",
+      "summary": "The original Golf R32 established Volkswagen’s R performance lineage, pairing a six-cylinder engine with 4MOTION all-wheel drive in a compact hatchback. It is the foundational R model and a distinct fourth-generation Golf reference, with the family also becoming an early showcase for DSG.",
+      "admission_reason": "The original Golf R32 established Volkswagen’s R performance lineage, pairing a six-cylinder engine with 4MOTION all-wheel drive in a compact hatchback. It is the foundational R model and a distinct fourth-generation Golf reference, with the family also becoming an early showcase for DSG.",
+      "sources": [
+        {
+          "publisher": "Volkswagen",
+          "title": "Volkswagen R: The history — original Golf IV R32, October 2022",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.volkswagen-newsroom.com/en/the-volkswagen-r-models-15258/volkswagen-r-the-history-15267",
+          "notes": "Volkswagen R October 27, 2022 historical account, original Golf IV R32 section. Selected European 177-kW manual: 6.6 seconds; optional DSG acceleration is different and is not combined. No North American power/market year, Mk5 R32 or later four-cylinder Golf R specifications are imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Golf IV R32 Classic-Days 2022 DSC 0035.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_IV_R32_Classic-Days_2022_DSC_0035.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "177",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "320",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "4MOTION all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.6",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "247",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Golf R32 established Volkswagen’s R performance lineage, pairing a six-cylinder engine with 4MOTION all-wheel drive in a compact hatchback. It is the foundational R model and a distinct fourth-generation Golf reference, with the family also becoming an early showcase for DSG.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_golf_r32_mk4_2002.jpg",
+          "caption": "Volkswagen Golf R — Original Golf IV R32 three-door body; engine originality, transmission and market are not authenticated.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "59f96885ba42a9f32a503c263433fde72137905d5436c75c0990bdb0f147a36e"
+        }
+      ]
+    },
+    {
+      "id": "VW-GOLF-GTI-MK5-MAN",
+      "manufacturer": "Volkswagen",
+      "model_family": "Golf GTI",
+      "generation": "Fifth-generation Type 1K original turbo GTI",
+      "variant": "Golf V GTI — original European six-speed manual",
+      "model_year_from": 2004,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Volkswagen Classic original 2004–2008 Type 1K GTI account, autumn-2004 introduction. Standard 147-kW manual and 7.2-second acceleration; optional DSG, Edition 30 and Pirelli 169-kW data are excluded. Representative 2005 exterior does not certify the installed transmission or original market.",
+      "summary": "The fifth-generation GTI is a landmark revival of the Golf hot-hatch formula. Its turbocharged direct-injection engine and new chassis generation restored a sharper sporting identity, while the generation introduced the TFSI–DSG pairing to GTI; this record selects the standard manual car.",
+      "admission_reason": "The fifth-generation GTI is a landmark revival of the Golf hot-hatch formula. Its turbocharged direct-injection engine and new chassis generation restored a sharper sporting identity, while the generation introduced the TFSI–DSG pairing to GTI; this record selects the standard manual car.",
+      "sources": [
+        {
+          "publisher": "Volkswagen",
+          "title": "Golf V GTI (2004–2008) — Volkswagen Classic original-generation profile",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.volkswagen-newsroom.com/en/golf-5-gti-20042008-19511",
+          "notes": "Volkswagen Classic original 2004–2008 Type 1K GTI account, autumn-2004 introduction. Standard 147-kW manual and 7.2-second acceleration; optional DSG, Edition 30 and Pirelli 169-kW data are excluded. Representative 2005 exterior does not certify the installed transmission or original market."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2005 Volkswagen Golf GTi 2.0 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2005_Volkswagen_Golf_GTi_2.0_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "147",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "280",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "TFSI petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Sports suspension, 15 mm lower",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Electronic differential lock",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "7.2",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fifth-generation GTI is a landmark revival of the Golf hot-hatch formula. Its turbocharged direct-injection engine and new chassis generation restored a sharper sporting identity, while the generation introduced the TFSI–DSG pairing to GTI; this record selects the standard manual car.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_golf_gti_mk5_man.jpg",
+          "caption": "Volkswagen Golf GTI — 2005 Golf V GTI three-door; photo does not certify the selected manual gearbox or original market.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d2c8df4d2c165f914734e0a44314307e2bfa1dd4cb517343ce8812915500a0a9"
+        }
+      ]
+    },
+    {
+      "id": "VW-GOLF-GTI-MK7-CSS-2016",
+      "manufacturer": "Volkswagen",
+      "model_family": "Golf GTI",
+      "generation": "Seventh-generation Type AU two-seat Clubsport S",
+      "variant": "Clubsport S — original 2016 German production road reference",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Volkswagen June 2016 international driving-presentation pack, German-market scope, pages 3 and 7–11 visually checked. Standard production road Clubsport S, not ordinary Clubsport overboost figures or the TCR racer. 228 kW is sustained output. Forecast performance/economy, inconsistent mass notation and optional air conditioning are not generalised.",
+      "summary": "The Golf GTI Clubsport S is a significant front-drive road-car development, combining a dedicated two-seat lightweight layout, extensively revised chassis and a specific Nordschleife setting. Its 2016 factory lap programme demonstrated this engineering beyond a power increase or commemorative trim package.",
+      "admission_reason": "The Golf GTI Clubsport S is a significant front-drive road-car development, combining a dedicated two-seat lightweight layout, extensively revised chassis and a specific Nordschleife setting. Its 2016 factory lap programme demonstrated this engineering beyond a power increase or commemorative trim package.",
+      "sources": [
+        {
+          "publisher": "Volkswagen",
+          "title": "Golf GTI Clubsport S — original June 2016 German-market driving-presentation pack",
+          "source_type": "Period manufacturer launch press kit",
+          "url": "https://uploads.vw-mms.de/system/production/files/vwn/008/278/file/5abaf8cf0bbc572480fd3b5ae1e9dc41d9347547/Golf_GTI_Clubsport_S_Nuerburgring_EN.pdf?1530372399=",
+          "notes": "Volkswagen June 2016 international driving-presentation pack, German-market scope, pages 3 and 7–11 visually checked. Standard production road Clubsport S, not ordinary Clubsport overboost figures or the TCR racer. 228 kW is sustained output. Forecast performance/economy, inconsistent mass notation and optional air conditioning are not generalised."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Golf GTI Clubsport S (31016554663).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_GTI_Clubsport_S_(31016554663).jpg",
+          "notes": "Adam Court; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Volkswagen Golf GTI Clubsport S"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1984",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "228",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "380",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800–6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Manual transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Reconfigured axles with standard configurable DCC; dedicated Nordschleife setting",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin Sport Cup 2 on 19-inch Pretoria wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Dedicated front bumper, two-part roof-edge spoiler and rear diffuser",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine series",
+          "value": "Third-generation EA888 TSI",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Golf GTI Clubsport S is a significant front-drive road-car development, combining a dedicated two-seat lightweight layout, extensively revised chassis and a specific Nordschleife setting. Its 2016 factory lap programme demonstrated this engineering beyond a power increase or commemorative trim package.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_golf_gti_mk7_css_2016.jpg",
+          "caption": "Volkswagen Golf GTI — Golf VII GTI Clubsport S at Goodwood, December 2016, with visible Clubsport S side marking; right-hand drive does not establish German-market equipment or original engine tune.",
+          "creator": "Adam Court",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f8c060a75b08a0507d72cc9ebae454781c48dcd19ec1bde09b6b5e83ed9650a6"
+        }
+      ]
+    }
+  ]
+}
