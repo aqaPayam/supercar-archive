@@ -4468,7 +4468,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "generation": "Second-generation E89 production-road roadster family",
+      "proposed_record": "BMW-Z4-E89-35I-MAN2009",
+      "reason": "The E89 made BMW’s established straight-six roadster a folding-hardtop sports car, succeeding both the earlier roadster and fixed-roof coupe. Its twin-turbo six-cylinder flagship marks a distinct engineering chapter in the Z4 lineage and represents the generation as a whole.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0011927EN/the-new-bmw-z4",
+      "duplicate_review": "Absent model/generation checked against the complete 796-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-57.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "generation": "Third-generation G29 production-road roadster family",
+      "proposed_record": "BMW-Z4-G29-M40I-EU2019",
+      "reason": "The G29 M40i restored a fabric roof and a more agile chassis to BMW’s straight-six roadster tradition. Contemporary production-car driving praised its engine, steering and composure. Its substantive chassis redesign and six-cylinder sporting character justify one new Z4 generation, rather than extra counts for later packages.",
+      "evidence": "https://www.caranddriver.com/reviews/a24783644/2019-bmw-z4-m40i-roadster-sports-car-performance/",
+      "duplicate_review": "Absent model/generation checked against the complete 796-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-57.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK",
+      "generation": "First-generation R170 production-road roadster family",
+      "proposed_record": "MER-SLK32-AMG-R170-2003",
+      "reason": "The SLK 32 AMG put a supercharged six-cylinder flagship into the original compact Vario-roof SLK programme. It combines the R170’s influential folding-hardtop concept with substantial AMG performance, representing an important early compact AMG roadster rather than an ordinary SLK equipment grade.",
+      "evidence": "https://nsk.mercedes-benz-clubs.com/wp-content/uploads/sites/7/2014/12/2016-04-18-PI_SLK_20_Years_eng.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 796-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-57.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK",
+      "generation": "Third-generation R172 production-road roadster family",
+      "proposed_record": "MER-SLK55-AMG-R172-NL2011",
+      "reason": "The third-generation SLK 55 AMG kept a naturally aspirated V8 in a compact sporting roadster while adding cylinder deactivation and direct injection. This unusual combination preserves a distinctive AMG engineering chapter beyond the archived R171; the subsequent SLC rename does not create another generation.",
+      "evidence": "https://media.mercedes-benz.nl/sportief-topmodel-van-de-slk-reeks-slk-55-amg-in-topvorm-op-alle-disciplines/",
+      "duplicate_review": "Absent model/generation checked against the complete 796-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-57.json"
     }
   ],
-  "catalogue_count_after_batches": 796
+  "catalogue_count_after_batches": 800
 }
