@@ -2697,7 +2697,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 632-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-29.json"
+    },
+    {
+      "manufacturer": "Austin-Healey",
+      "model": "100",
+      "generation": "Original four-cylinder BN1 100 roadster family",
+      "proposed_record": "AUS-HEALEY-100-BN1",
+      "reason": "The original Austin-Healey 100 established the Big Healey sports-car line, combining a Healey-designed two-seat body with Austin four-cylinder power. Its success in North America and the family’s competition and record-breaking development made it a defining British sports-car export of the 1950s.",
+      "evidence": "https://nationalmotormuseum.org.uk/collections/vehicles/austin-healey-100m/",
+      "duplicate_review": "Absent model/generation checked against the complete 636-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-30.json"
+    },
+    {
+      "manufacturer": "MG",
+      "model": "MGA",
+      "generation": "Original MGA Twin Cam high-performance road family",
+      "proposed_record": "MG-MGA-TWINCAM-ROAD",
+      "reason": "The MGA Twin Cam brought a dedicated double-overhead-cam engine and four-wheel disc brakes to MG’s post-war sports-car programme. Developed to recover serious sporting performance beyond the pushrod B-series, it is an important engineering chapter within the enduring MGA roadster family.",
+      "evidence": "https://www.mgcc.co.uk/mga-twin-cam-group/development-history/",
+      "duplicate_review": "Absent model/generation checked against the complete 636-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-30.json"
+    },
+    {
+      "manufacturer": "Daimler",
+      "model": "SP250",
+      "generation": "Original Edward Turner V8 fibreglass sports roadster family",
+      "proposed_record": "DAI-SP250-BASE1960",
+      "reason": "The SP250 marked a radical sporting departure for Daimler, combining Edward Turner’s compact V8 with a fibreglass roadster body and four-wheel disc brakes. Its engine design and unusual break from the marque’s formal saloons make it a distinctive British performance-car landmark.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1959-daimler-sp250-prototype-chassis-100002-registration-xhp-438/",
+      "duplicate_review": "Absent model/generation checked against the complete 636-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-30.json"
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "P1800",
+      "generation": "Original Jensen-assembled B18-powered Volvo sports coupe",
+      "proposed_record": "VOL-P1800-US1961",
+      "reason": "The P1800 gave Volvo a distinctive international sports-car identity through Pelle Petterson’s Italian-influenced coupe design and its association with Simon Templar in The Saint. The original Jensen-assembled, B18-powered car established a durable grand-touring icon that developed through the later 1800S and 1800E.",
+      "evidence": "https://www.volvocars.com/uk/media/models/p1800/1961/",
+      "duplicate_review": "Absent model/generation checked against the complete 636-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-30.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "Giulietta Sprint Speciale",
+      "generation": "Original Bertone 1290-cc Sprint Speciale road coupe family",
+      "proposed_record": "ALF-GIULIETTA-SS-1290",
+      "reason": "The Giulietta Sprint Speciale translated Franco Scaglione’s aerodynamic design work for Bertone into an exceptional road coupe. A streamlined body, alloy twin-cam four and five-speed gearbox made it a distinctive small-capacity high-performance GT, positioned for long-distance road driving rather than the lighter Zagato competition role.",
+      "evidence": "https://www.media.stellantis.com/de-de/alfa-romeo/press/60-jahre-alfa-romeo-giulietta-ein-modell-revolutioniert-eine-marke",
+      "duplicate_review": "Absent model/generation checked against the complete 636-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-30.json"
+    },
+    {
+      "manufacturer": "Facel Vega",
+      "model": "Facel II",
+      "generation": "Original HK2 production road GT",
+      "proposed_record": null,
+      "reason": "French grand-touring flagship with distinctive coachwork and Chrysler V8 engineering; significance plausible, admission still pending.",
+      "evidence": "https://www.amicale-facel-vega.fr/production-facel-vega/facel-ii/",
+      "duplicate_review": "Research hold only; no database record added.",
+      "remaining": "Read original production technical evidence distinguishing 6.3-litre homologation data from 6.7-litre manual/automatic road specifications, then review an appropriate licensed photograph.",
+      "status": "Research hold; not counted"
     }
   ],
-  "catalogue_count_after_batches": 636
+  "catalogue_count_after_batches": 641
 }
