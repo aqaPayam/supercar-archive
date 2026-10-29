@@ -1,0 +1,598 @@
+{
+  "batch": "icons-road-2026-10-29-55",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "VW-LUPO-GTI-6SPEED2001",
+      "manufacturer": "Volkswagen",
+      "model_family": "Lupo",
+      "generation": "Original Lupo GTI sporting-road family",
+      "variant": "GTI — 2001 six-speed factory-history reference",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Factory model history selects the 2001 six-speed development, not the original five-speed 2000 introduction. No 3L diesel engine, economy-model body changes, unqualified mass figure, unverified chassis code or aftermarket suspension is transferred. One Lupo GTI family is counted.",
+      "summary": "The Lupo GTI is an enduring pocket-hot-hatch icon, combining aluminium body panels and a dedicated sporting chassis with compact, engaging road performance. Its documented enthusiast following and return to the original GTI’s lightweight ethos distinguish it from the ordinary city-car range.",
+      "admission_reason": "The Lupo GTI is an enduring pocket-hot-hatch icon, combining aluminium body panels and a dedicated sporting chassis with compact, engaging road performance. Its documented enthusiast following and return to the original GTI’s lightweight ethos distinguish it from the ordinary city-car range.",
+      "sources": [
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Lupo 1998–2005 — factory GTI history and 2001 transmission update",
+          "source_type": "Manufacturer historical account / specifications",
+          "url": "https://www.volkswagen-newsroom.com/en/lupo-19982005-19704",
+          "notes": "Factory model history selects the 2001 six-speed development, not the original five-speed 2000 introduction. No 3L diesel engine, economy-model body changes, unqualified mass figure, unverified chassis code or aftermarket suspension is transferred. One Lupo GTI family is counted."
+        },
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Engine versions Lupo profile — 1.6 16V GTI",
+          "source_type": "Manufacturer technical archive",
+          "url": "https://www.volkswagen-newsroom.com/en/engine-versions-lupo-profile-19706",
+          "notes": "Selected GTI row: 1598 cc, 92 kW at 6500 rpm and 152 Nm at 3000 rpm. Ordinary, FSI and diesel rows are excluded."
+        },
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Vehicle data Lupo profile — GTI road family",
+          "source_type": "Manufacturer technical archive",
+          "url": "https://www.volkswagen-newsroom.com/en/vehicle-data-lupo-profile-19705",
+          "notes": "Four-cylinder water-cooled petrol layout applies to GTI; the separately identified three-cylinder diesels are excluded. No universal type-code assertion is made."
+        },
+        {
+          "publisher": "evo staff",
+          "title": "VW Lupo GTI: review, specifications and buying guide — 16 April 2018",
+          "source_type": "Motoring editorial retrospective",
+          "url": "https://www.evo.co.uk/volkswagen/21118/vw-lupo-gti-review-specs-and-buying-guide",
+          "notes": "Editorial retrospective documents the GTI’s cult following, original-Golf comparison and six-speed development. Its mass classification, surviving-car counts, prices and technical conversions are not imported."
+        },
+        {
+          "publisher": "Car Enthusiast / Shane O’Donoghue",
+          "title": "2004 VW Lupo GTI — first-hand road test, 1 September 2004",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.carenthusiast.com/reviews/article/532/-/2004-Volkswagen-Lupo%2BGTi/.html",
+          "notes": "Actual road report describes an engaging engine and chassis while noting understeer, braking movement and electronic limitations. It supplies driving-character context, not a universal weight or test time. The public page was read directly after the web reader encountered a character-decoding error."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:VW Lupo GTI (44390530000).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:VW_Lupo_GTI_(44390530000).jpg",
+          "notes": "Guillaume Vachey from Chalon sur Saone, France; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: VW Lupo GTI. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium front wings, doors and bonnet",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed gearbox, standard from 2001",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Factory lowered GTI suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory wheel and tyre fitment",
+          "value": "15-inch alloy wheels; 205-mm tyre section width",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1598",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "92",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "152",
+          "unit": "Nm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Total valve count",
+          "value": "16",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, transverse",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Lupo GTI is an enduring pocket-hot-hatch icon, combining aluminium body panels and a dedicated sporting chassis with compact, engaging road performance. Its documented enthusiast following and return to the original GTI’s lightweight ethos distinguish it from the ordinary city-car range.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 3
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_lupo_gti_6speed2001.jpg",
+          "caption": "Volkswagen Lupo GTI photographed by Guillaume Vachey. This representative original-family three-door illustrates the factory sporting body style; it does not establish a 2001 build date, six-speed gearbox or unchanged mechanical condition. A heavily lowered example with aftermarket wheels was not selected as the lead image.",
+          "creator": "Guillaume Vachey from Chalon sur Saone, France",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 5,
+          "sha256": "6a26f0cc98eba4437b695781b491752d2b146e79d7bac08fe0a0ca6c9678c074"
+        }
+      ]
+    },
+    {
+      "id": "VW-POLO-GTG40-ROAD1987",
+      "manufacturer": "Volkswagen",
+      "model_family": "Polo",
+      "generation": "Second-generation Type 86C G40 sporting-road family",
+      "variant": "Coupé GT G40 — initial 1987 factory road programme",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door coupé-style sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Manufacturer history dates the initial GT G40 road introduction to May 1987. The later catalyst-equipped G40 has a different tune; it does not create a second family count. Cup engines, modified record cars, ordinary GT suspension data and the speedometer’s 240-km/h scale are not stock performance specifications.",
+      "summary": "The GT G40 introduced Volkswagen’s distinctive G-Lader supercharger to its small production road car, establishing an enduring forced-induction Polo performance identity. This substantial engineering change makes it an important pocket-performance model, rather than an ordinary Polo trim or a race-only record car.",
+      "admission_reason": "The GT G40 introduced Volkswagen’s distinctive G-Lader supercharger to its small production road car, establishing an enduring forced-induction Polo performance identity. This substantial engineering change makes it an important pocket-performance model, rather than an ordinary Polo trim or a race-only record car.",
+      "sources": [
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Polo II 1981–1994 — factory GT G40 history",
+          "source_type": "Manufacturer historical account / specifications",
+          "url": "https://www.volkswagen-newsroom.com/en/polo-2-19811994-19143",
+          "notes": "Manufacturer history dates the initial GT G40 road introduction to May 1987. The later catalyst-equipped G40 has a different tune; it does not create a second family count. Cup engines, modified record cars, ordinary GT suspension data and the speedometer’s 240-km/h scale are not stock performance specifications."
+        },
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Engine versions Polo II profile — initial 1.3 GT G40",
+          "source_type": "Manufacturer technical archive",
+          "url": "https://www.volkswagen-newsroom.com/en/motor-versions-polo-2-profile-19146",
+          "notes": "Use the initial GT G40 row: 1272 cc, 85 kW at 6000 rpm, 148 Nm at 3600 rpm. The table’s later 83-kW/150-Nm row is excluded; no rounding into that later tune is made."
+        },
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Vehicle data Polo II profile — Type 86C road programme",
+          "source_type": "Manufacturer technical archive",
+          "url": "https://www.volkswagen-newsroom.com/en/vehicle-data-polo-2-profile-19144",
+          "notes": "Factory four-cylinder water-cooled front-transverse layout and front-wheel drive. Varying coupé-height ranges are not assigned to a specific G40; no unlisted transmission is guessed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Polo 2 G40 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Polo_2_G40_Front.jpg",
+          "notes": "Hagen Wieland; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "G-Lader supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1272",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "85",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "148",
+          "unit": "Nm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, transverse",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GT G40 introduced Volkswagen’s distinctive G-Lader supercharger to its small production road car, establishing an enduring forced-induction Polo performance identity. This substantial engineering change makes it an important pocket-performance model, rather than an ordinary Polo trim or a race-only record car.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_polo_gtg40_road1987.jpg",
+          "caption": "Polo II GT G40 identified as a 1988 car by photographer Hagen Wieland, who explicitly notes a non-original windscreen. This representative early road-family image does not certify the 1987 engine tune, untouched suspension or original glazing; it is not an Eco-Polo diesel prototype or Cup race car.",
+          "creator": "Hagen Wieland",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "e57624688dec4e12df4097bf801a5566ee2bd5389df25731449a53b1b5390077"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS3-8V-ORIGINAL2015",
+      "manufacturer": "Audi",
+      "model_family": "RS 3",
+      "generation": "Second-generation 8V RS 3 sporting-road family",
+      "variant": "Original 270-kW Sportback — summer 2015 factory reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Audi’s own model-year 2015 technical-history description explicitly identifies the second generation and summer introduction. Retain the rounded 2.5-litre class; exact capacity, transmission and unrelated adjacent-model data are not inferred. No 2017 facelift output, newer aluminium engine or sedan is added as another record. The manufacturer photo is used as factual context only; the archive’s image is separately Creative Commons licensed.",
+      "summary": "The second RS 3 brought Audi’s award-winning turbocharged five-cylinder into a new compact Sportback generation. Its distinctive engine architecture and continuation of the marque’s five-cylinder performance tradition make it an important modern Audi Sport road model, beyond a power upgrade or cosmetic package.",
+      "admission_reason": "The second RS 3 brought Audi’s award-winning turbocharged five-cylinder into a new compact Sportback generation. Its distinctive engine architecture and continuation of the marque’s five-cylinder performance tradition make it an important modern Audi Sport road model, beyond a power upgrade or cosmetic package.",
+      "sources": [
+        {
+          "publisher": "AUDI AG",
+          "title": "Audi RS 3 Sportback, model year 2015 — factory model and engine history",
+          "source_type": "Manufacturer archival model description / specifications",
+          "url": "https://www.audi.com/en/photos/detail/audi-rs-3-sportback-model-year-2015-37233",
+          "notes": "Audi’s own model-year 2015 technical-history description explicitly identifies the second generation and summer introduction. Retain the rounded 2.5-litre class; exact capacity, transmission and unrelated adjacent-model data are not inferred. No 2017 facelift output, newer aluminium engine or sedan is added as another record. The manufacturer photo is used as factual context only; the archive’s image is separately Creative Commons licensed."
+        },
+        {
+          "publisher": "AUDI AG",
+          "title": "2.5 TFSI — RS 3 Sportback technical portal, status March 2015",
+          "source_type": "Manufacturer technical archive",
+          "url": "https://www.audi-technology-portal.de/en/drivetrain/engine-efficiency-technologies/2.5-tfsi-en?c=image%3A1122",
+          "notes": "The selected RS 3 paragraph independently identifies its award-winning engine, 270 kW and 465 Nm. The optional increased speed and adjacent RS Q3 specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Audi RS3.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Audi_RS3.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "270",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "465",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "1625–5550",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge-air equipment",
+          "value": "Intercooler",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second RS 3 brought Audi’s award-winning turbocharged five-cylinder into a new compact Sportback generation. Its distinctive engine architecture and continuation of the marque’s five-cylinder performance tradition make it an important modern Audi Sport road model, beyond a power upgrade or cosmetic package.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs3_8v_original2015.jpg",
+          "caption": "2015 Audi RS 3 photographed by Calreyn88, with the original 8V five-door Sportback body. This representative family photograph does not certify measured output, untouched mechanical condition or a later engine conversion, and is not used as evidence for the 2017 sedan or facelift tune.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e5000c29fe3ec7b559e6439a4ef47d87b6f1ef49842c147848a1a399395c6549"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS3-8Y-SPORTBACK2021",
+      "manufacturer": "Audi",
+      "model_family": "RS 3",
+      "generation": "Third-generation 8Y RS 3 Sportback sporting-road family",
+      "variant": "Original 294-kW Sportback — 2021 European road introduction",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Factory 2021 Sportback introduction reference. Count one 8Y road family, not another sedan, facelift or special grade. The first-Audi torque-splitter statement is tied to this programme. Optional adaptive dampers, semi-slick tyres, ceramic brakes, increased speed limits and drift-mode use on closed roads are not universal road equipment.",
+      "summary": "The third RS 3 Sportback pairs Audi’s distinctive five-cylinder engine with the brand’s first RS torque splitter. Independently controlled rear clutches mark a substantial handling-development landmark within this established performance-hatch lineage, rather than another trim or an extra sedan-body count.",
+      "admission_reason": "The third RS 3 Sportback pairs Audi’s distinctive five-cylinder engine with the brand’s first RS torque splitter. Independently controlled rear clutches mark a substantial handling-development landmark within this established performance-hatch lineage, rather than another trim or an extra sedan-body count.",
+      "sources": [
+        {
+          "publisher": "AUDI AG",
+          "title": "Audi RS 3 Sportback and Sedan — 2021 programme and torque-splitter introduction",
+          "source_type": "Manufacturer launch account / specifications",
+          "url": "https://www.audi.com/en/high-performance-redefined-audi-rs-3-sportback-and-rs-3-sedan-2021-14310/audi-rs-3-sportback-and-rs-3-sedan-the-epitome-of-sporty-driving-14312",
+          "notes": "Factory 2021 Sportback introduction reference. Count one 8Y road family, not another sedan, facelift or special grade. The first-Audi torque-splitter statement is tied to this programme. Optional adaptive dampers, semi-slick tyres, ceramic brakes, increased speed limits and drift-mode use on closed roads are not universal road equipment."
+        },
+        {
+          "publisher": "AUDI AG",
+          "title": "The engine: legendary five-cylinder — original 2021 RS 3 technical appendix",
+          "source_type": "Manufacturer technical appendix",
+          "url": "https://www.audi.com/en/high-performance-redefined-audi-rs-3-sportback-and-rs-3-sedan-2021-14310/the-engine-legendary-five-cylinder-14313",
+          "notes": "Read the selected 2480-cc table and seven-speed dual-clutch/quattro description. Standard speed is 250 km/h; 280 and 290 are optional. Power plateau is retained without inventing one peak rpm."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS 3 Sportback (8Y) – f 25042024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS_3_Sportback_(8Y)_%E2%80%93_f_25042024.jpg",
+          "notes": "© M 93; CC BY-SA 3.0 de. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "294",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "500",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "RS torque splitter with an electronically controlled multi-disc clutch on each rear drive shaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "2250–5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard wheel diameter",
+          "value": "19",
+          "unit": "inches",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2480",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed S tronic dual-clutch",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Quattro permanent all-wheel drive with torque splitter",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Petrol direct injection",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power plateau",
+          "value": "5600–7000",
+          "unit": "rpm",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third RS 3 Sportback pairs Audi’s distinctive five-cylinder engine with the brand’s first RS torque splitter. Independently controlled rear clutches mark a substantial handling-development landmark within this established performance-hatch lineage, rather than another trim or an extra sedan-body count.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs3_8y_sportback2021.jpg",
+          "caption": "Audi RS 3 Sportback 8Y photographed in April 2024 by M 93. This representative five-door road car illustrates the selected generation; the image does not establish a 2021 build date, original equipment, optional ceramic brakes or a record-test tyre specification.",
+          "creator": "© M 93",
+          "license": "CC BY-SA 3.0 de",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "dd6b39b00e0c6262fde270e0532fcb49b58306f1593eba1bffd9855355871985"
+        }
+      ]
+    }
+  ]
+}

@@ -4336,7 +4336,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 780-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-54.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Lupo",
+      "generation": "Original Lupo GTI sporting-road family",
+      "proposed_record": "VW-LUPO-GTI-6SPEED2001",
+      "reason": "The Lupo GTI is an enduring pocket-hot-hatch icon, combining aluminium body panels and a dedicated sporting chassis with compact, engaging road performance. Its documented enthusiast following and return to the original GTI’s lightweight ethos distinguish it from the ordinary city-car range.",
+      "evidence": "https://www.evo.co.uk/volkswagen/21118/vw-lupo-gti-review-specs-and-buying-guide",
+      "duplicate_review": "Absent model/generation checked against the complete 784-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-55.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Polo",
+      "generation": "Second-generation Type 86C G40 sporting-road family",
+      "proposed_record": "VW-POLO-GTG40-ROAD1987",
+      "reason": "The GT G40 introduced Volkswagen’s distinctive G-Lader supercharger to its small production road car, establishing an enduring forced-induction Polo performance identity. This substantial engineering change makes it an important pocket-performance model, rather than an ordinary Polo trim or a race-only record car.",
+      "evidence": "https://www.volkswagen-newsroom.com/en/polo-2-19811994-19143",
+      "duplicate_review": "Absent model/generation checked against the complete 784-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-55.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 3",
+      "generation": "Second-generation 8V RS 3 sporting-road family",
+      "proposed_record": "AUD-RS3-8V-ORIGINAL2015",
+      "reason": "The second RS 3 brought Audi’s award-winning turbocharged five-cylinder into a new compact Sportback generation. Its distinctive engine architecture and continuation of the marque’s five-cylinder performance tradition make it an important modern Audi Sport road model, beyond a power upgrade or cosmetic package.",
+      "evidence": "https://www.audi.com/en/photos/detail/audi-rs-3-sportback-model-year-2015-37233",
+      "duplicate_review": "Absent model/generation checked against the complete 784-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-55.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 3",
+      "generation": "Third-generation 8Y RS 3 Sportback sporting-road family",
+      "proposed_record": "AUD-RS3-8Y-SPORTBACK2021",
+      "reason": "The third RS 3 Sportback pairs Audi’s distinctive five-cylinder engine with the brand’s first RS torque splitter. Independently controlled rear clutches mark a substantial handling-development landmark within this established performance-hatch lineage, rather than another trim or an extra sedan-body count.",
+      "evidence": "https://www.audi.com/en/high-performance-redefined-audi-rs-3-sportback-and-rs-3-sedan-2021-14310/audi-rs-3-sportback-and-rs-3-sedan-the-epitome-of-sporty-driving-14312",
+      "duplicate_review": "Absent model/generation checked against the complete 784-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-55.json"
     }
   ],
-  "catalogue_count_after_batches": 784
+  "catalogue_count_after_batches": 788
 }
