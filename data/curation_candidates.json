@@ -169,18 +169,6 @@
       "remaining": "None for this selected road record."
     },
     {
-      "manufacturer": "Ford",
-      "model": "Escort RS Cosworth",
-      "generation": "Original 1992 road series",
-      "proposed_record": "Original road homologation version; reference market pending",
-      "reason": "A defining all-wheel-drive Group A homologation car with a substantial international rally legacy.",
-      "evidence": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
-      "duplicate_review": "Absent from the 410-car catalogue.",
-      "status": "Pending technical evidence",
-      "remaining": "Read the June 1992 Ford brochure and resolve differing published road output descriptions before importing.",
-      "located_brochure": "https://autocatalogarchive.com/wp-content/uploads/2020/10/Ford-Escort-RS-Cosworth-1992-UK-.pdf"
-    },
-    {
       "manufacturer": "Shelby",
       "model": "GT350",
       "generation": "Original Mustang-based GT350",
@@ -2533,7 +2521,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 617-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-25.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Escort",
+      "generation": "Original RS Cosworth road homologation family",
+      "proposed_record": "FOR-ESCORT-COS-FR1992",
+      "reason": "The Escort RS Cosworth combined a compact Escort-shaped body with extensively developed Sierra-derived turbocharged four-wheel-drive engineering and distinctive front and rear aerodynamic equipment. Created as the basis of Ford’s Group A rally programme while also developed for normal road use, it is a defining road homologation icon of the 1990s.",
+      "evidence": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+      "duplicate_review": "Absent model/generation checked against the complete 621-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-26.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Capri",
+      "generation": "Original Mk I RS2600 fuel-injected road coupe",
+      "proposed_record": "FOR-CAPRI-RS2600-ROAD",
+      "reason": "The Capri RS2600 brought the first Capri’s motorsport development into a usable four-seat road coupe. Its fuel-injected V6 and purpose-tuned suspension made the RS concept a coherent engine-and-chassis package, establishing an important European performance-coupe reference rather than a cosmetic sporting edition.",
+      "evidence": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+      "duplicate_review": "Absent model/generation checked against the complete 621-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-26.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Escort",
+      "generation": "Mk I original RS1600 BDA road family",
+      "proposed_record": "FOR-ESCORT-RS1600-ROAD1970",
+      "reason": "The Mk I RS1600 established the Cosworth BDA-powered branch of Ford’s Escort performance lineage. Its compact rear-drive road-car basis enabled a remarkably successful rally programme, including the RS1600’s 1973 World Championship breakthrough, making the original sixteen-valve Escort a central performance and rally-history icon.",
+      "evidence": "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-wrc-history-motorsport-heritage",
+      "duplicate_review": "Absent model/generation checked against the complete 621-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-26.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Escort",
+      "generation": "Mk II original RS1800 BDA road family",
+      "proposed_record": "FOR-ESCORT-RS1800-ROAD1975",
+      "reason": "The Mk II RS1800 continued the BDA Escort formula in a distinct second-generation road saloon. Ford’s original sales literature explicitly developed it as a road version of its rally-winning Escort, combining an aluminium sixteen-valve engine with a heavy-duty body and four-speed gearbox; the related competition programme became a World Championship benchmark.",
+      "evidence": "https://myclassicuk.com/wp-content/uploads/2020/12/FP-326-Outer-2048x1448.jpg",
+      "duplicate_review": "Absent model/generation checked against the complete 621-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-26.json"
     }
   ],
-  "catalogue_count_after_batches": 621
+  "catalogue_count_after_batches": 625
 }

@@ -1,0 +1,584 @@
+{
+  "batch": "icons-road-2026-10-29-26",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "FOR-ESCORT-COS-FR1992",
+      "manufacturer": "Ford",
+      "model_family": "Escort",
+      "generation": "Original RS Cosworth road homologation family",
+      "variant": "RS Cosworth — August 1992 France road reference",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door wide-body sports hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Ford France August 1992 brochure, nine scanned PDF pages. PDF pages 2, 6 and 7 (printed 2–3, 12–14) visually reviewed for common Motorsport/Luxe road hardware. Motorsport is a road trim, not a competition conversion. Luxe convenience equipment is separate. Native 227 ch DIN at 6250 rpm and 290 Nm at 3500 rpm retained; no UK hp conversion or later small-turbo figures. Exact cc and gearbox not specified on the reviewed pages are omitted. No current fastest/world-first/downforce-number claim.",
+      "summary": "The Escort RS Cosworth combined a compact Escort-shaped body with extensively developed Sierra-derived turbocharged four-wheel-drive engineering and distinctive front and rear aerodynamic equipment. Created as the basis of Ford’s Group A rally programme while also developed for normal road use, it is a defining road homologation icon of the 1990s.",
+      "admission_reason": "The Escort RS Cosworth combined a compact Escort-shaped body with extensively developed Sierra-derived turbocharged four-wheel-drive engineering and distinctive front and rear aerodynamic equipment. Created as the basis of Ford’s Group A rally programme while also developed for normal road use, it is a defining road homologation icon of the 1990s.",
+      "sources": [
+        {
+          "publisher": "Ford France / BCVN hosted facsimile",
+          "title": "Escort RS Cosworth — original Ford France brochure, August 1992, scanned facsimile",
+          "source_type": "Period manufacturer road sales brochure",
+          "url": "https://www.brochure-catalogue-voiture-neuve.fr/brochures/ford/escort/ford-escort-1992/5-2-FRA-08-1992-RS-COSWORTH",
+          "notes": "Original Ford France August 1992 brochure, nine scanned PDF pages. PDF pages 2, 6 and 7 (printed 2–3, 12–14) visually reviewed for common Motorsport/Luxe road hardware. Motorsport is a road trim, not a competition conversion. Luxe convenience equipment is separate. Native 227 ch DIN at 6250 rpm and 290 Nm at 3500 rpm retained; no UK hp conversion or later small-turbo figures. Exact cc and gearbox not specified on the reviewed pages are omitted. No current fastest/world-first/downforce-number claim."
+        },
+        {
+          "publisher": "Ford",
+          "title": "50 Jahre Dampf unter der Haube — Ford RS history, July 31, 2018",
+          "source_type": "Manufacturer historical release, reproduced",
+          "url": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+          "notes": "Full retrospective explicitly credited to Ford, reproduced by FordFan. Escort RS Cosworth section separates road development/homologation basis from competition success. Obsolete media.ford.com HTML now redirects to the current homepage and is not the evidence destination."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1994 Ford Escort RS Cosworth 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Ford_Escort_RS_Cosworth_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Cosworth 2.0-litre DOHC 16-valve",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett AiResearch T3/04B turbocharger; two-stage air/air and air/water charge cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber Marelli electronic management with multi-point injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "290",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.0",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent four-wheel drive; nominal 34% front / 66% rear torque split",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Viscous-coupled centre and rear limited-slip control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson strut front; independent semi-trailing-arm rear; coil springs and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Electronic ABS; 278-mm ventilated front discs; 273-mm solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/45 ZR 16 on 8 x 16-inch alloy wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, France brochure notation",
+          "value": "227",
+          "unit": "ch DIN",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Escort RS Cosworth combined a compact Escort-shaped body with extensively developed Sierra-derived turbocharged four-wheel-drive engineering and distinctive front and rear aerodynamic equipment. Created as the basis of Ford’s Group A rally programme while also developed for normal road use, it is a defining road homologation icon of the 1990s.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_escort_cos_fr1992.jpg",
+          "caption": "1994 Ford Escort RS Cosworth road body with original-style large rear wing, photographed in the UK. Visible aftermarket wheels, trim and later registration do not authenticate the selected August 1992 France 227-ch engine, turbo or Motorsport/Luxe equipment. Represents the original wide-body family, not a rally conversion.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8f2c229d7424bf6a60f3963046e7fe70b45528090559c3bf1cdb88e01879521c"
+        }
+      ]
+    },
+    {
+      "id": "FOR-CAPRI-RS2600-ROAD",
+      "manufacturer": "Ford",
+      "model_family": "Capri",
+      "generation": "Original Mk I RS2600 fuel-injected road coupe",
+      "variant": "RS2600 — period German road-handbook reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat sports coupe",
+      "road_legal": 1,
+      "specification_market": "Original Ford Capri RS German handbook scan, technical-data leaf. Effective displacement 2637 cc is separate from tax displacement 2615 cc. Native 150 PS at 5800 rpm and 22.8 mkp at 3500 rpm retained without conversion. Handbook scan has no securely established edition date: 1970 is the model family introduction, not authentication of this exact handbook revision. Compression, curb weight, performance and brake revisions are omitted. Accessory/competition parts shown on adjacent leaves are not standard-road equipment.",
+      "summary": "The Capri RS2600 brought the first Capri’s motorsport development into a usable four-seat road coupe. Its fuel-injected V6 and purpose-tuned suspension made the RS concept a coherent engine-and-chassis package, establishing an important European performance-coupe reference rather than a cosmetic sporting edition.",
+      "admission_reason": "The Capri RS2600 brought the first Capri’s motorsport development into a usable four-seat road coupe. Its fuel-injected V6 and purpose-tuned suspension made the RS concept a coherent engine-and-chassis package, establishing an important European performance-coupe reference rather than a cosmetic sporting edition.",
+      "sources": [
+        {
+          "publisher": "Ford / Capri Switzerland hosted scan",
+          "title": "Ford Capri RS — original German handbook, technical-data leaf",
+          "source_type": "Period manufacturer road handbook facsimile",
+          "url": "https://www.ford-capri.ch/start-d/foto-galerie/foto-I/rs-2600-bordbuch-c.html",
+          "notes": "Original Ford Capri RS German handbook scan, technical-data leaf. Effective displacement 2637 cc is separate from tax displacement 2615 cc. Native 150 PS at 5800 rpm and 22.8 mkp at 3500 rpm retained without conversion. Handbook scan has no securely established edition date: 1970 is the model family introduction, not authentication of this exact handbook revision. Compression, curb weight, performance and brake revisions are omitted. Accessory/competition parts shown on adjacent leaves are not standard-road equipment."
+        },
+        {
+          "publisher": "Ford / Capri Switzerland",
+          "title": "Capri RS handbook — gearbox ratios",
+          "source_type": "Period manufacturer road handbook facsimile",
+          "url": "https://www.ford-capri.ch/start-d/foto-galerie/foto-I/rs-2600-bordbuch-e.html",
+          "notes": "Original scan lists first through fourth and reverse ratios. Four-speed type only imported; gearing/rear-axle alternatives and accessories are not additional car variants."
+        },
+        {
+          "publisher": "Ford",
+          "title": "50 Jahre Dampf unter der Haube — Capri I RS2600 road development",
+          "source_type": "Manufacturer historical release, reproduced",
+          "url": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+          "notes": "July 31, 2018 manufacturer retrospective, explicitly credited to Ford. Capri section separates the successful lightweight competition development from the four-seat injection-V6 road car. Historical performance estimates and optional equipment are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nationale oldtimerdag Zandvoort 2010, 1973 FORD CAPRI RS 2600, 14-YB-03 PHOTO2.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nationale_oldtimerdag_Zandvoort_2010,_1973_FORD_CAPRI_RS_2600,_14-YB-03_PHOTO2.JPG",
+          "notes": "Alf van Beem; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2637",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Kugelfischer petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, handbook notation",
+          "value": "150",
+          "unit": "PS DIN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, handbook notation",
+          "value": "22.8",
+          "unit": "mkp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Chassis",
+          "label": "Road suspension development",
+          "value": "Bilstein monotube dampers; revised front crossmember for negative camber; single-leaf rear springs",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Capri RS2600 brought the first Capri’s motorsport development into a usable four-seat road coupe. Its fuel-injected V6 and purpose-tuned suspension made the RS concept a coherent engine-and-chassis package, establishing an important European performance-coupe reference rather than a cosmetic sporting edition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_capri_rs2600_road.jpg",
+          "caption": "Ford Capri RS2600 identified as a 1973 car, photographed at Zandvoort’s 2010 oldtimer festival. Represents the later Mk I road body. Facelift lamps, quarter bumpers, wheels and restoration do not authenticate an early 1970 build or a specific undated German handbook revision, engine tune or optional equipment.",
+          "creator": "Alf van Beem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "c1a371bc2d5b191e8461dd56c2c15c9add1e7afa1955449e91beb980cb900112"
+        }
+      ]
+    },
+    {
+      "id": "FOR-ESCORT-RS1600-ROAD1970",
+      "manufacturer": "Ford",
+      "model_family": "Escort",
+      "generation": "Mk I original RS1600 BDA road family",
+      "variant": "RS1600 — original October 1970 base recognition reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original Ford/RAC base form 1605, list 1970/10, printed recognition valid October 1, 1970. PDF pages 1 and 8–11 visually reviewed. Base standard-car engine/drivetrain and manufacturer catalogue declarations only; later competition options, Group 2 evolutions, 2.0-litre engines, RS1800 amendments and 2011 updates excluded. Native 122 BHP at 6500 rpm and 112 lb-ft at 4000 rpm are expressly the form’s notation, not relabelled DIN/SAE, converted kW or silently reconciled with later 115-PS/120-hp summaries. No standard LSD claim.",
+      "summary": "The Mk I RS1600 established the Cosworth BDA-powered branch of Ford’s Escort performance lineage. Its compact rear-drive road-car basis enabled a remarkably successful rally programme, including the RS1600’s 1973 World Championship breakthrough, making the original sixteen-valve Escort a central performance and rally-history icon.",
+      "admission_reason": "The Mk I RS1600 established the Cosworth BDA-powered branch of Ford’s Escort performance lineage. Its compact rear-drive road-car basis enabled a remarkably successful rally programme, including the RS1600’s 1973 World Championship breakthrough, making the original sixteen-valve Escort a central performance and rally-history icon.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company / RAC, preserved by FIA",
+          "title": "Ford Escort RS1600 — original Ford/RAC recognition form 1605, list 1970/10",
+          "source_type": "Original manufacturer base recognition form",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1589596202/homologation_form_1605_group_2.pdf",
+          "notes": "Original Ford/RAC base form 1605, list 1970/10, printed recognition valid October 1, 1970. PDF pages 1 and 8–11 visually reviewed. Base standard-car engine/drivetrain and manufacturer catalogue declarations only; later competition options, Group 2 evolutions, 2.0-litre engines, RS1800 amendments and 2011 updates excluded. Native 122 BHP at 6500 rpm and 112 lb-ft at 4000 rpm are expressly the form’s notation, not relabelled DIN/SAE, converted kW or silently reconciled with later 115-PS/120-hp summaries. No standard LSD claim."
+        },
+        {
+          "publisher": "Ford",
+          "title": "Stage Presence: Nine Cars That Define Ford’s Rally History",
+          "source_type": "Manufacturer motorsport historical account",
+          "url": "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-wrc-history-motorsport-heritage",
+          "notes": "October 1, 2026 factory retrospective, Mk I section: road performance family and RS1600 competition success. Rally results explain lineage significance; they do not turn the selected road engine into a winning competition tune. World Cup Mexico-winning Kent-engined cars are not asserted to be RS1600s."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1971 Ford Escort RS1600 white.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1971_Ford_Escort_RS1600_white.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1601",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts driven by toothed belt",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two side-draught Weber 40 DCOE carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; four synchronised forward ratios",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water and fan",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Oil in sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder-head material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer catalogue output recorded in original recognition form",
+          "value": "122",
+          "unit": "BHP",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque recorded in original recognition form",
+          "value": "112",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mk I RS1600 established the Cosworth BDA-powered branch of Ford’s Escort performance lineage. Its compact rear-drive road-car basis enabled a remarkably successful rally programme, including the RS1600’s 1973 World Championship breakthrough, making the original sixteen-valve Escort a central performance and rally-history icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_escort_rs1600_road1970.jpg",
+          "caption": "1971 Ford Escort RS1600 with road-style interior and original-shaped Mk I body. Supplementary driving lamps and restoration details are not universal factory equipment. This exterior does not authenticate its block material, carburettors or the exact October 1970 base recognition-form engine rating. Not the widened competition bodies rejected during review.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "791081268cd96d359eca671b240480c3d0cf300f342bbe30925ffde65398c16c"
+        }
+      ]
+    },
+    {
+      "id": "FOR-ESCORT-RS1800-ROAD1975",
+      "manufacturer": "Ford",
+      "model_family": "Escort",
+      "generation": "Mk II original RS1800 BDA road family",
+      "variant": "RS1800 — October 1975 UK standard road reference",
+      "model_year_from": 1975,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Ford Rallye Sport Marketing FP326, October 1975, outer foldout: only the centre RS1800 column is used. Left-column RS2000 1993-cc OHC, 110-PS power, suspension geometry, brake sizes and carburettor details do not apply to RS1800. The leaflet explicitly describes road development and distinguishes RS1800 from RS1800 Custom. Exact displacement, engine torque, top speed and later competition gearbox/tunes are omitted. Not a dedicated rally-car record.",
+      "summary": "The Mk II RS1800 continued the BDA Escort formula in a distinct second-generation road saloon. Ford’s original sales literature explicitly developed it as a road version of its rally-winning Escort, combining an aluminium sixteen-valve engine with a heavy-duty body and four-speed gearbox; the related competition programme became a World Championship benchmark.",
+      "admission_reason": "The Mk II RS1800 continued the BDA Escort formula in a distinct second-generation road saloon. Ford’s original sales literature explicitly developed it as a road version of its rally-winning Escort, combining an aluminium sixteen-valve engine with a heavy-duty body and four-speed gearbox; the related competition programme became a World Championship benchmark.",
+      "sources": [
+        {
+          "publisher": "Ford Rallye Sport Marketing / My Classic UK hosted scan",
+          "title": "The Ford Escort RS2000 — FP326 October 1975, RS1800 road-car column",
+          "source_type": "Period manufacturer road sales brochure facsimile",
+          "url": "https://myclassicuk.com/wp-content/uploads/2020/12/FP-326-Outer-2048x1448.jpg",
+          "notes": "Ford Rallye Sport Marketing FP326, October 1975, outer foldout: only the centre RS1800 column is used. Left-column RS2000 1993-cc OHC, 110-PS power, suspension geometry, brake sizes and carburettor details do not apply to RS1800. The leaflet explicitly describes road development and distinguishes RS1800 from RS1800 Custom. Exact displacement, engine torque, top speed and later competition gearbox/tunes are omitted. Not a dedicated rally-car record."
+        },
+        {
+          "publisher": "Ford",
+          "title": "Stage Presence: Nine Cars That Define Ford’s Rally History — Mk II",
+          "source_type": "Manufacturer motorsport historical account",
+          "url": "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-wrc-history-motorsport-heritage",
+          "notes": "October 1, 2026 factory retrospective, Mk II section connects Rallye Sport road-car development and RS1800 competition lineage. 1979/1981 championship achievements belong to the competition programme, not the stock 115-PS road engine."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ford Escort RS1800 (1975).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ford_Escort_RS1800_(1975).jpg",
+          "notes": "Andrea Boano; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: https://www.flickr.com/photos/65344061@N06/54931808563/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Aluminium BDA four-cylinder, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Heavy-duty four-speed manual; all forward gears synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Heavy-duty road body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Revised heavy-duty road suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front air dam and rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Standard twin bucket seats; separate Custom version has reclining seats and headrests",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native road brochure notation",
+          "value": "115",
+          "unit": "PS DIN",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mk II RS1800 continued the BDA Escort formula in a distinct second-generation road saloon. Ford’s original sales literature explicitly developed it as a road version of its rally-winning Escort, combining an aluminium sixteen-valve engine with a heavy-duty body and four-speed gearbox; the related competition programme became a World Championship benchmark.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_escort_rs1800_road1975.jpg",
+          "caption": "1975 Ford Escort RS1800 displayed at an indoor classic-car show, showing the original road saloon rear body, stripes and spoiler. Wheels, current trim and restoration do not authenticate standard versus Custom equipment or installed engine tune. No rally-car flares, cage or competition preparation is claimed as standard.",
+          "creator": "Andrea Boano",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e63e13d38d9ef1858ce84d7d6f2a11c28cc5714aa1709f0a417aef036b1d7760"
+        }
+      ]
+    }
+  ]
+}
