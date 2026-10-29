@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 806 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 810 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 58 reviewed road-icon manifests contain 411 distinct identifiers. Subtracting
+The 59 reviewed road-icon manifests contain 415 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 806 count must not be presented as 806 proven qualifying icons.
+The raw 810 count must not be presented as 810 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -293,3 +293,36 @@ creators and exact CC BY-SA versions are confirmed, and each was visually read:
 Existing captions retain market/modified-equipment limits; the compartment image
 does not certify factory engine equipment. Assets, counts and all other evidence
 remain unchanged. This bounded review is not completion of the baseline audit.
+
+
+## Baseline road-car review: E46 M3 CSL
+
+Reviewed 2026-10-29. The complete M3/E46 inventory contains one E46 road
+reference, `BMW-M3-CSL-E46`; the other M3 entries represent other generations.
+BMW M's [2019 retrospective](https://www.bmw-m.com/de/topics/magazine-article-pool/der-bmw-m3-csl.html)
+supports the production-road lightweight programme, engine code, original SMG II,
+carbon roof/airbox, thin glass/exhaust, intake opening, engine revisions, two
+colours and manufacturer production total. The total is not a survivor count;
+photos do not certify mechanical originality or factory colour percentages.
+
+The [March 2003 factory kit](https://www.press.bmwgroup.com/usa/article/attachment/T0022168EN_US/41493/AG030228_M3_CSL_Press_Kit_GB_finalversion.pdf)
+was read through the public web reader, including specification page 19 and
+footnote page 20. It matches the stored engine/peak-speed, fuel, acceleration,
+brake, tyre and seating fields. Its prose establishes six-gear SMG automation
+and eleven Drivelogic choices despite the table's manual-gearbox shorthand.
+All fifteen linked attribute mappings and seven fact mappings resolve correctly.
+The qualified EU/DIN weight conflict remains explicit; no derived kerb mass or
+standard 280-km/h claim is introduced. Three research-coverage fields stay unknown.
+A direct download returned the modern newsroom homepage rather than the PDF;
+that response was rejected as evidence. No fresh PDF-render inspection is claimed.
+
+All three stored JPEGs were visually inspected and are byte-identical to current
+Commons renditions, with creator and exact licence version confirmed:
+[front view](https://commons.wikimedia.org/wiki/File:2003_BMW_M3_CSL_Silver_HCC23_E46.jpg)
+by MrWalkr (CC BY-SA 4.0),
+[rear view](https://commons.wikimedia.org/wiki/File:Black_BMW_M3_CSL_E46_rr.jpg)
+by Darren (CC BY 2.0) and
+[additional view](https://commons.wikimedia.org/wiki/File:BMW_M3_CSL_(E46).jpg)
+by Jake Thomas (CC BY-SA 4.0). Existing captions retain condition/equipment limits.
+No database row, image or count changes. This bounded profile check does not
+complete the wider baseline audit.

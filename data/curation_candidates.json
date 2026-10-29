@@ -4578,7 +4578,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SL",
+      "generation": "W113 Pagoda production-road sports-car generation",
+      "proposed_record": "MER-230SL-W113-1963",
+      "reason": "The W113 Pagoda is a lasting Mercedes sports-car design icon that combined its distinctive removable roof with a reinforced passenger cell and crumple zones. The original 230 SL represents this substantive safety and touring-sports-car landmark, rather than adding later engines or roof options as separate cars.",
+      "evidence": "https://media.mercedes-benz.fr/premiere-de-la-mercedes-benz-230-sl-pagode/",
+      "duplicate_review": "Absent model/generation checked against the complete 806-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-59.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLS",
+      "generation": "First-generation C219 production-road four-door coupe family",
+      "proposed_record": "MER-CLS55-AMG-C219-US2006",
+      "reason": "The first CLS generation is a landmark in Mercedes’ four-door coupe design. Its handbuilt supercharged V8 AMG combines that distinctive body concept with substantial performance engineering, making the CLS 55 an important supercharged-AMG sporting-saloon reference rather than an ordinary CLS equipment grade.",
+      "evidence": "https://xr793.com/wp-content/uploads/2019/01/2006-Mercedes-Benz-CLS-Class.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 806-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-59.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Cobalt",
+      "generation": "Original Cobalt production-road sport-compact family",
+      "proposed_record": "CHE-COBALT-SS-TURBO-US2009",
+      "reason": "Contemporary testing singled out the turbo Cobalt SS for unusually accomplished chassis control and front-drive Lightning Lap performance. Its dedicated suspension and Brembo brakes make it a significant American sport-compact reference, represented once by the four-door turbo model.",
+      "evidence": "https://www.caranddriver.com/reviews/a15144400/2009-chevrolet-cobalt-ss-sedan-short-take-road-test/",
+      "duplicate_review": "Absent model/generation checked against the complete 806-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-59.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Falcon",
+      "generation": "FG production-road Falcon performance-saloon generation",
+      "proposed_record": "FOR-FALCON-FG-FPVF6-MAN2009",
+      "reason": "The FG FPV F6 exemplifies Australia’s distinctive high-output turbo six-cylinder performance-saloon tradition. Its broad torque delivery, manual gearbox and dedicated chassis/brakes earned enthusiastic contemporary driving assessments, giving this locally engineered Falcon generation a substantive sporting identity beyond a cosmetic edition.",
+      "evidence": "https://autotalk.co.nz/fpv-f6-review/",
+      "duplicate_review": "Absent model/generation checked against the complete 806-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-59.json"
     }
   ],
-  "catalogue_count_after_batches": 806
+  "catalogue_count_after_batches": 810
 }

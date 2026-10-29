@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Fifty-eight reviewed road-icon batches add 411 cars
-to the 395-record baseline, bringing the working catalogue to 806 records.
-The latest [Cadillac V-Series and focused hot-hatch batch](docs/icons-road-58.md)
-adds six absent road families/generations, following the
-[Z4 and AMG roadster-generation batch](docs/icons-road-57.md). Individual reviews and
+evidence and licensed photograph. Fifty-nine reviewed road-icon batches add 415 cars
+to the 395-record baseline, bringing the working catalogue to 810 records.
+The latest [Pagoda, CLS 55, Cobalt SS and FPV F6 batch](docs/icons-road-59.md)
+adds four absent road families/generations, following the
+[Cadillac V-Series and focused hot-hatch batch](docs/icons-road-58.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
