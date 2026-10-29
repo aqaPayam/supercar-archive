@@ -1840,7 +1840,117 @@
       "duplicate_review": "Absent model/generation checked against the complete 549-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-15.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "Griffith",
+      "generation": "Second-generation Griffith; Rover V8 road series",
+      "proposed_record": "TVR-GRIFFITH500-1999",
+      "reason": "The revived Griffith is a defining Peter Wheeler-era TVR sports car. The 500 combines the compact front-engine, rear-drive roadster with a five-litre V8, race-developed chassis and stowable roof, representing the marque’s return to the classic British big-engine sports-car formula.",
+      "evidence": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/press-1999.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "Chimaera",
+      "generation": "Original V8 grand-touring roadster; 1996 body revision",
+      "proposed_record": "TVR-CHIMAERA40-1999",
+      "reason": "The Chimaera is a defining TVR grand-touring sports car and the company’s best-selling model in its contemporary account. It paired a Tuscan-racer-derived chassis and V8 character with a larger boot and more accommodating touring manners than the Griffith.",
+      "evidence": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/press-1999.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "Tuscan",
+      "generation": "Original Speed Six removable-roof road series",
+      "proposed_record": "TVR-TUSCAN-S-2003",
+      "reason": "The road-going Tuscan established a distinctive TVR form around the company’s own Speed Six engine, with a removable roof and rear window. The original Tuscan S is the selected reference for this separate road-car family, combining its dry-sump inline-six with larger brakes and a close-ratio gearbox.",
+      "evidence": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/2003_-_tamora_-_tuscan_-_tuscan_s_-_cerbera_-_t400r_-_t440r.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "Morgan",
+      "model": "Plus 8",
+      "generation": "Original Rover 3.5-litre four-speed roadster",
+      "proposed_record": "MOR-PLUS8-EARLY35",
+      "reason": "The original Plus 8 established Morgan’s enduring V8 sports-car lineage, bringing Rover V8 performance to its traditional open two-seater form. This early 3.5-litre reference preserves the original mechanical character, including sliding-pillar front suspension and a four-speed gearbox.",
+      "evidence": "https://morgan-motor.com/models/past-models/plus-8/",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "Morgan",
+      "model": "Aero 8",
+      "generation": "Original aluminium-chassis 4.4-litre roadster",
+      "proposed_record": "MOR-AERO8-ORIGINAL44",
+      "reason": "The Aero 8 is a major Morgan engineering landmark: the company’s first all-aluminium coachbuilt model, with an aluminium chassis and hand-formed bodywork. Its BMW V8 introduced a new powertrain partnership while taking Morgan’s sports-car design into a substantially new architecture.",
+      "evidence": "https://morgan-motor.com/models/past-models/aero/",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "MG",
+      "model": "TC",
+      "generation": "Original T-series TC Midget",
+      "proposed_record": "MG-TC-STANDARD-1948",
+      "reason": "The TC is a foundational postwar British sports-car icon, carrying MG’s T-series formula into a new export era. Its popularity with American buyers helped establish the postwar enthusiasm for small British roadsters; the selected record describes the standard car rather than a modified special.",
+      "evidence": "https://www.lanemotormuseum.org/collection/cars/item/mg-tc-1948/",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "MG",
+      "model": "MGB",
+      "generation": "Original Mk I three-bearing 1.8-litre roadster",
+      "proposed_record": "MG-MGB-ROADSTER-1963",
+      "reason": "The MGB is an enduring British sports-car icon, with a roadster lineage spanning 1962–1980. The original open car combined all-steel monocoque construction, an enlarged pushrod four-cylinder engine and accessible two-seat sports-car packaging in a form that became central to MG’s identity.",
+      "evidence": "https://www.britishmotormuseum.co.uk/news/celebrate-the-mgbs-60th-birthday-at-the-british-motor-museum",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "TR2",
+      "generation": "Original TR2 production roadster",
+      "proposed_record": "TRI-TR2-ROAD-1954",
+      "reason": "The TR2 established Triumph’s long-running TR sports-car line. Developed to compete with MG and Jaguar, it helped re-establish Triumph as a sports-car maker and found particular success in North America; this record follows the museum’s preserved 1954 production road car.",
+      "evidence": "https://nationalmotormuseum.org.uk/collections/vehicles/triumph-tr2/",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "TR4",
+      "generation": "Original CT-series rigid-rear-axle TR4",
+      "proposed_record": "TRI-TR4-2138-1964",
+      "reason": "The TR4 modernised Triumph’s established sports-car formula with full-height doors, wind-up windows and rack-and-pinion steering while retaining a rugged four-cylinder drivetrain. It is a distinct step in the TR roadster lineage, represented here by the original rigid-rear-axle model.",
+      "evidence": "https://tr4a.weebly.com/uploads/2/1/9/8/21980360/triumph_1964_range_brochure.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
+    },
+    {
+      "manufacturer": "Ariel",
+      "model": "Atom",
+      "generation": "Fourth-generation turbocharged Atom",
+      "proposed_record": "ARI-ATOM4-2019",
+      "reason": "The Atom 4 is a major redesign of Ariel’s exposed-frame sports car, retaining just three components from its predecessor. Its new tubular chassis, revised suspension and Honda turbo engine mark a substantive engineering generation in the lightweight road-and-track Atom lineage.",
+      "evidence": "https://www.drivingevent.com/static/files/39/ariel-atom-4---press-release-2021.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 560-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-16.json"
     }
   ],
-  "catalogue_count_after_batches": 560
+  "catalogue_count_after_batches": 570
 }
