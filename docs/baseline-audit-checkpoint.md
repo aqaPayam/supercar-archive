@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 823 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 826 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 63 reviewed road-icon manifests contain 428 distinct identifiers. Subtracting
+The 64 reviewed road-icon manifests contain 431 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 823 count must not be presented as 823 proven qualifying icons.
+The raw 826 count must not be presented as 826 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -372,3 +372,32 @@ Both car rows and their direct source, attribute, fact and media rows match the
 pre-batch snapshot. No database row, photograph or count was changed by this
 review. Its scope is these identities and listed evidence; it does not complete
 the wider baseline audit or recertify every pricing/remaining field.
+
+## Selected evidence review: first-generation Ford GT
+
+Reviewed 2026-10-29. `FOR-GT-2005` represents the supercharged-V8 road GT;
+the later V6 road GT, modern track-only Mk IV and historic GT40 are distinct
+programmes. No extra year, livery or option is admitted.
+
+The [Ford brochure](https://www.auto-brochures.com/makes/Ford/GT/Ford_US%20GT_2006.pdf)
+was downloaded and its specification and feature pages rendered and visually
+read. Its table explicitly labels 2005 despite the 2006 filename; the Heritage
+livery is separately new for 2006. Thirteen linked technical fields and five
+brochure facts agree, including paired port injectors, Ricardo manual transaxle,
+space-frame/body construction and standard versus optional wheels. Native US
+power/torque convert to the stored rounded filters. Unknown mass, acceleration
+and coverage fields stay unknown. The separate top-speed release returned HTTP
+429 in this review and is not freshly certified here; auction/current-price
+coverage is also outside this bounded check.
+
+All three stored JPEGs were visually inspected and match current Commons
+renditions byte for byte: MrWalkr's
+[red front view](https://commons.wikimedia.org/wiki/File:2005_Ford_GT_GT101.jpg),
+[blue front view](https://commons.wikimedia.org/wiki/File:2005_Ford_GT_LC25.jpg) and
+[additional blue view](https://commons.wikimedia.org/wiki/File:2005_Ford_GT_SP22.jpg)
+retain CC BY-SA 4.0 and its exact licence URL. Source notes retain representative
+image limits; photographs do not prove tune or original equipment.
+
+The car, source, attribute, fact and media rows match the pre-review snapshot;
+all stored source mappings resolve. No database row, image or count changes.
+This selected-field/media check leaves the wider baseline audit open.

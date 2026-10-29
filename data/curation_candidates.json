@@ -4765,7 +4765,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 820-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-63.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "208 GTi",
+      "generation": "First-generation 208 production-road performance family",
+      "proposed_record": "PEU-208-GTI30TH-GERMANY2015",
+      "reason": "Peugeot Sport made this 208 GTi a focused driver’s car through a Torsen differential, substantial front brakes and revised chassis geometry. First-hand circuit driving found materially better traction, braking and steering. This is the archive’s single first-generation 208 performance reference, selected for its mechanical development rather than anniversary paint or numbering.",
+      "evidence": "https://www.topgear.com/car-reviews/peugeot/208-hatchback-special-editions-2012/16-thp-gti-30th-3dr/first-drive",
+      "duplicate_review": "Absent model/generation checked against the complete 823-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-64.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "generation": "Type 53B second-generation production-road sporting coupe family",
+      "proposed_record": "VW-SCIROCCO-II-GTX16V-1985",
+      "reason": "The second Scirocco’s GTX 16V brought the established Volkswagen sporting coupe into the four-valve era. Its 139 PS engine was accompanied by reinforced driveline and suspension parts and rear disc brakes, making it a substantive performance development of the Karmann-built coupe. One road reference represents this distinct Scirocco generation. Editorial driving assessment values its lively engine and entertaining, predictable chassis, while noting heavy steering and an ageing front end.",
+      "evidence": "https://www.automobile-sportive.com/guide/volkswagen/scirocco2gtx16v.php",
+      "duplicate_review": "Absent model/generation checked against the complete 823-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-64.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Fiesta",
+      "generation": "Original naturally aspirated Fiesta ST road family, Fiesta 2002 programme",
+      "proposed_record": "FOR-FIESTA-ST150-B256-2005",
+      "reason": "The original Fiesta ST was the first production model developed by Ford’s new TeamRS, bringing the fast-Fiesta lineage into the ST era. Its larger naturally aspirated Duratec, revised chassis, short-shift manual and rear disc brakes gave it a clear engineering identity. Contemporary driving praised its precise, agile handling and usable comfort.",
+      "evidence": "https://www.fordfan.de/modellinfos/2005/01/31/ford-fiesta-st",
+      "duplicate_review": "Absent model/generation checked against the complete 823-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-64.json"
     }
   ],
-  "catalogue_count_after_batches": 823
+  "catalogue_count_after_batches": 826
 }
