@@ -1,0 +1,389 @@
+{
+  "batch": "icons-road-2026-10-30-68",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "CHR-VALIANT-CHARGER-VH-E49-1972",
+      "manufacturer": "Chrysler",
+      "model_family": "Valiant Charger",
+      "generation": "Original VH-derived Valiant Charger production-road performance coupe family",
+      "variant": "VH R/T E49 — November 1972 Australian four-speed road-test reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "November 1972 Wheels E49 road test, republished 15 February 2026. Native published bhp, lb-ft and cubic inches are retained; no net/gross standard or metric conversion is invented. This is the six-cylinder E49 with four-speed manual, not the accompanying 340-cubic-inch E55 V8 automatic. Conflicting maximum-speed/rpm shorthand, later technical retellings, factory superlatives and acceleration conversions are excluded. E37/E38/E49, later styling series and V8 derivatives do not add extra original-family counts.",
+      "summary": "The E49 Charger demonstrated that a developed six-cylinder engine could contend at the top of Australia’s muscle-car field. Its four-speed gearbox and revised axle gearing made its performance more accessible than the earlier three-speed E38. Contemporary Wheels driving praised its open-road balance and rapid response, while recording brake fade. That distinctive six-cylinder performance identity merits one original Charger family entry.",
+      "admission_reason": "The E49 Charger demonstrated that a developed six-cylinder engine could contend at the top of Australia’s muscle-car field. Its four-speed gearbox and revised axle gearing made its performance more accessible than the earlier three-speed E38. Contemporary Wheels driving praised its open-road balance and rapid response, while recording brake fade. That distinctive six-cylinder performance identity merits one original Charger family entry.",
+      "sources": [
+        {
+          "publisher": "Wheels staff / WhichCar",
+          "title": "E49 versus E55 Charger — original November 1972 Wheels test, republished 15 February 2026",
+          "source_type": "Contemporary first-hand comparison road test",
+          "url": "https://www.whichcar.com.au/features/classic-wheels/wheels-archive-fastest-accelerating-car-made-australia",
+          "notes": "November 1972 Wheels E49 road test, republished 15 February 2026. Native published bhp, lb-ft and cubic inches are retained; no net/gross standard or metric conversion is invented. This is the six-cylinder E49 with four-speed manual, not the accompanying 340-cubic-inch E55 V8 automatic. Conflicting maximum-speed/rpm shorthand, later technical retellings, factory superlatives and acceleration conversions are excluded. E37/E38/E49, later styling series and V8 derivatives do not add extra original-family counts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Chrysler Valiant VH Charger E49.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Chrysler_Valiant_VH_Charger_E49.jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1972 Chrysler Valiant VH Charger E49. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Borg-Warner four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "265",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published road-test maximum power",
+          "value": "302",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published road-test maximum torque",
+          "value": "320",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio",
+          "value": "3.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Steering ratio",
+          "value": "16:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E49 Charger demonstrated that a developed six-cylinder engine could contend at the top of Australia’s muscle-car field. Its four-speed gearbox and revised axle gearing made its performance more accessible than the earlier three-speed E38. Contemporary Wheels driving praised its open-road balance and rapid response, while recording brake fade. That distinctive six-cylinder performance identity merits one original Charger family entry.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_chr_valiant_charger_vh_e49_1972.jpg",
+          "caption": "1972 Chrysler Valiant VH Charger E49 photographed by Sicnag. Representative road coupe with visible nonstandard wheels; the image does not certify factory originality, the test car’s identity or unchanged engine tune.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ee53f43edd7e11b67c2a3a559b7030c88d79ea2f12b4c0d7326c6134c1e5823e"
+        }
+      ]
+    },
+    {
+      "id": "HOL-TORANA-LC-GTRXU1-1970",
+      "manufacturer": "Holden",
+      "model_family": "Torana GTR XU-1",
+      "generation": "Original LC/LJ compact six-cylinder XU-1 production-road performance family",
+      "variant": "LC GTR XU-1 — original 1970 factory brochure reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting sedan",
+      "road_legal": 1,
+      "specification_market": "Original LC brochure with 1970 GMH copyright imprint; both scanned pages rendered and visually read. Its 3048 cc and native gross power/torque are retained exactly, not replaced by a 3100 badge or later 202/3.3-litre LJ figures. The optional 3.08 axle is not standard; no unprinted gearbox detail, modified museum-car hardware, overall production total or race tune is inferred. LC and LJ are grouped into one original compact XU-1 programme; the existing LX A9X is a distinct later platform.",
+      "summary": "Holden’s compact six-cylinder XU-1 offered a focused alternative to Australia’s large performance cars. The original LC package combined a reworked head and camshaft, triple carburettors, limited-slip differential, revised suspension and aerodynamic aids. Its broader LC/LJ programme became central to Australian touring-car history. This coordinated engineering and sporting heritage justify one original XU-1 family entry, separate from the later LX A9X.",
+      "admission_reason": "Holden’s compact six-cylinder XU-1 offered a focused alternative to Australia’s large performance cars. The original LC package combined a reworked head and camshaft, triple carburettors, limited-slip differential, revised suspension and aerodynamic aids. Its broader LC/LJ programme became central to Australian touring-car history. This coordinated engineering and sporting heritage justify one original XU-1 family entry, separate from the later LX A9X.",
+      "sources": [
+        {
+          "publisher": "General Motors-Holden’s; facsimile hosted by GTR Torana XU-1 Car Club WA",
+          "title": "GTR XU-1: The ultimate Torana — GMH 1970 brochure, pages 1–2",
+          "source_type": "Original manufacturer brochure, independently hosted facsimile",
+          "url": "https://gtrtoranaxu1carclubofwainc.com.au/downloads/Torana%20LC%20GTR%20XU-1%20Brochure.pdf",
+          "notes": "Original LC brochure with 1970 GMH copyright imprint; both scanned pages rendered and visually read. Its 3048 cc and native gross power/torque are retained exactly, not replaced by a 3100 badge or later 202/3.3-litre LJ figures. The optional 3.08 axle is not standard; no unprinted gearbox detail, modified museum-car hardware, overall production total or race tune is inferred. LC and LJ are grouped into one original compact XU-1 programme; the existing LX A9X is a distinct later platform."
+        },
+        {
+          "publisher": "Supercars / James Pavey",
+          "title": "Saturday Sleuthing: Brock’s Bathurst-Winning Toranas — 22 September 2016",
+          "source_type": "Championship organiser’s historical account",
+          "url": "https://www.supercars.com/news/saturday-sleuthing-brocks-bathurst-winning-toranas",
+          "notes": "Championship organiser documents Peter Brock’s solo 1972 Bathurst victory in Torana GTR XU-1 number 28C. This later competition achievement explains the broader programme’s significance, not the 1970 LC road car’s engine, equipment or identity. L34/A9X achievements are separate."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Holden Torana (LC) GTR XU-1 2-door sedan (19915785853).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Holden_Torana_(LC)_GTR_XU-1_2-door_sedan_(19915785853).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Holden Torana LC GTR XU1. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder Holden 186 S-derived",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3048",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Three manually choked 1.5-inch side-draught Strombergs; tuned-length ram inlet manifold",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential; standard 3.36:1 rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Revised front and rear springs and shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "10-inch front discs; high-output booster",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front air dam and rear boot-lip spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "160",
+          "unit": "hp gross",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "190",
+          "unit": "lb-ft gross",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Holden’s compact six-cylinder XU-1 offered a focused alternative to Australia’s large performance cars. The original LC package combined a reworked head and camshaft, triple carburettors, limited-slip differential, revised suspension and aerodynamic aids. Its broader LC/LJ programme became central to Australian touring-car history. This coordinated engineering and sporting heritage justify one original XU-1 family entry, separate from the later LX A9X.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        },
+        {
+          "title": "XU-1 programme competition heritage",
+          "explanation": "The XU-1 programme’s later Bathurst success helped define its place in Australian performance history: Supercars records Peter Brock’s solo victory in the wet 1972 race in number 28C. That competition car is not the selected 1970 LC brochure specification.",
+          "category": "Motorsport heritage",
+          "confidence": "Organiser documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hol_torana_lc_gtrxu1_1970.jpg",
+          "caption": "1970 Holden Torana LC GTR XU-1 photographed by Jeremy at Newport, NSW in July 2015. Representative road body; the image does not certify the brochure car, its 160 gross hp rating, original equipment or unchanged condition.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5a945c978f1b16fe883dd3b076cccabbfca2e991fadd8ba1c5b53f4abaaf4f1f"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FALCON-XB-GT-HARDTOP-AU1974",
+      "manufacturer": "Ford",
+      "model_family": "Falcon GT",
+      "generation": "XA/XB/XC Australian Falcon production-road performance body generation",
+      "variant": "XB GT Hardtop automatic — January 1974 Australian road-test reference",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "January 1974 Wheels road test, republished 26 August 2016. The selected Hardtop has automatic transmission and power steering; the accompanying manual sedan has a different imported engine and steering specification. The public excerpt supports the listed engine reference, braking and chassis fields but not a precise power figure or automatic gear count. 4V/2V engine terminology is not a valve-count claim. XA/XB/XC, sedan/hardtop, Cobra and appearance editions do not become separate counts here. No film-car modifications, race hardware or optional sunroof is treated as standard.",
+      "summary": "The XB GT advanced the Australian Falcon GT tradition with four-wheel disc brakes and substantial chassis refinement. Period long-distance driving strongly praised its braking, while criticising the automatic Hardtop’s light steering, body rattles and restricted visibility. Together with the XB GT programme’s documented touring-car championship heritage, this gives the distinct 1970s body generation a clear performance-history case beyond the earlier XY.",
+      "admission_reason": "The XB GT advanced the Australian Falcon GT tradition with four-wheel disc brakes and substantial chassis refinement. Period long-distance driving strongly praised its braking, while criticising the automatic Hardtop’s light steering, body rattles and restricted visibility. Together with the XB GT programme’s documented touring-car championship heritage, this gives the distinct 1970s body generation a clear performance-history case beyond the earlier XY.",
+      "sources": [
+        {
+          "publisher": "Wheels staff / WhichCar",
+          "title": "1974 XB Ford Falcon GT review — original January 1974 Wheels test, republished 26 August 2016",
+          "source_type": "Contemporary first-hand comparative road test",
+          "url": "https://www.whichcar.com.au/features/ford-falcon/1974-xb-ford-falcon-gt-review",
+          "notes": "January 1974 Wheels road test, republished 26 August 2016. The selected Hardtop has automatic transmission and power steering; the accompanying manual sedan has a different imported engine and steering specification. The public excerpt supports the listed engine reference, braking and chassis fields but not a precise power figure or automatic gear count. 4V/2V engine terminology is not a valve-count claim. XA/XB/XC, sedan/hardtop, Cobra and appearance editions do not become separate counts here. No film-car modifications, race hardware or optional sunroof is treated as standard."
+        },
+        {
+          "publisher": "Supercars / James Pavey",
+          "title": "Gallery: The Falcon title winners — 31 December 2018",
+          "source_type": "Championship organiser’s historical results gallery",
+          "url": "https://www.supercars.com/news/gallery-the-falcon-title-winners",
+          "notes": "Championship organiser lists Allan Moffat’s Falcon XB GT as the 1976 title winner. This supports programme heritage only. Its competition engine, suspension and transmission do not specify the automatic road Hardtop. The separately listed 1977 XC is not imported as another record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ford Falcon XB GT (15118452714).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ford_Falcon_XB_GT_(15118452714).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Ford Falcon XB GT. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Automatic, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Revised front suspension bushes; rear semi-elliptic leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "High-backed front bucket seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Reference engine",
+          "value": "Australian-built 351 4V with smaller-port 2V cylinder heads, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Variable-ratio power steering on the tested Hardtop",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Column",
+          "value": "Friction-disc collapsible steering column",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The XB GT advanced the Australian Falcon GT tradition with four-wheel disc brakes and substantial chassis refinement. Period long-distance driving strongly praised its braking, while criticising the automatic Hardtop’s light steering, body rattles and restricted visibility. Together with the XB GT programme’s documented touring-car championship heritage, this gives the distinct 1970s body generation a clear performance-history case beyond the earlier XY.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        },
+        {
+          "title": "XB GT championship heritage",
+          "explanation": "Supercars identifies Allan Moffat’s Falcon XB GT as the 1976 Australian Touring Car Championship winner. This is heritage of the programme; the competition car’s mechanical specification is distinct from the selected road Hardtop.",
+          "category": "Motorsport heritage",
+          "confidence": "Organiser documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_falcon_xb_gt_hardtop_au1974.jpg",
+          "caption": "Ford Falcon XB GT Hardtop photographed by Jeremy. Representative road coupe with visible alloy wheels; the image does not certify the automatic test car, original engine/gearbox or unchanged condition.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3ff4a6077199f3434be7d065ecc6280a56826040ed77a2860595ae09d151eedb"
+        }
+      ]
+    }
+  ]
+}

@@ -4919,7 +4919,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 834-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-67.json"
+    },
+    {
+      "manufacturer": "Chrysler",
+      "model": "Valiant Charger",
+      "generation": "Original VH-derived Valiant Charger production-road performance coupe family",
+      "proposed_record": "CHR-VALIANT-CHARGER-VH-E49-1972",
+      "reason": "The E49 Charger demonstrated that a developed six-cylinder engine could contend at the top of Australia’s muscle-car field. Its four-speed gearbox and revised axle gearing made its performance more accessible than the earlier three-speed E38. Contemporary Wheels driving praised its open-road balance and rapid response, while recording brake fade. That distinctive six-cylinder performance identity merits one original Charger family entry.",
+      "evidence": "https://www.whichcar.com.au/features/classic-wheels/wheels-archive-fastest-accelerating-car-made-australia",
+      "duplicate_review": "Absent model/generation checked against the complete 837-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-68.json"
+    },
+    {
+      "manufacturer": "Holden",
+      "model": "Torana GTR XU-1",
+      "generation": "Original LC/LJ compact six-cylinder XU-1 production-road performance family",
+      "proposed_record": "HOL-TORANA-LC-GTRXU1-1970",
+      "reason": "Holden’s compact six-cylinder XU-1 offered a focused alternative to Australia’s large performance cars. The original LC package combined a reworked head and camshaft, triple carburettors, limited-slip differential, revised suspension and aerodynamic aids. Its broader LC/LJ programme became central to Australian touring-car history. This coordinated engineering and sporting heritage justify one original XU-1 family entry, separate from the later LX A9X.",
+      "evidence": "https://gtrtoranaxu1carclubofwainc.com.au/downloads/Torana%20LC%20GTR%20XU-1%20Brochure.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 837-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-68.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Falcon GT",
+      "generation": "XA/XB/XC Australian Falcon production-road performance body generation",
+      "proposed_record": "FOR-FALCON-XB-GT-HARDTOP-AU1974",
+      "reason": "The XB GT advanced the Australian Falcon GT tradition with four-wheel disc brakes and substantial chassis refinement. Period long-distance driving strongly praised its braking, while criticising the automatic Hardtop’s light steering, body rattles and restricted visibility. Together with the XB GT programme’s documented touring-car championship heritage, this gives the distinct 1970s body generation a clear performance-history case beyond the earlier XY.",
+      "evidence": "https://www.whichcar.com.au/features/ford-falcon/1974-xb-ford-falcon-gt-review",
+      "duplicate_review": "Absent model/generation checked against the complete 837-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-68.json"
     }
   ],
-  "catalogue_count_after_batches": 837
+  "catalogue_count_after_batches": 840
 }

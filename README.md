@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Sixty-seven reviewed road-icon batches add 442 cars
-to the 395-record baseline, bringing the working catalogue to 837 records.
-The latest [EP71 Starlet Turbo, Pulsar VZ-R N1 and Storia X4 batch](docs/icons-road-67.md)
-adds three absent Japanese road performance generations, following the
-[206 RC, Golf III VR6, Fiesta XR2 and BF 323 GTX batch](docs/icons-road-66.md). Individual reviews and
+evidence and licensed photograph. Sixty-eight reviewed road-icon batches add 445 cars
+to the 395-record baseline, bringing the working catalogue to 840 records.
+The latest [Charger E49, Torana XU-1 and XB Falcon GT batch](docs/icons-road-68.md)
+adds three absent Australian road performance programmes, following the
+[EP71 Starlet Turbo, Pulsar VZ-R N1 and Storia X4 batch](docs/icons-road-67.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
