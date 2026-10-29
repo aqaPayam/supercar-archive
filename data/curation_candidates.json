@@ -2653,7 +2653,51 @@
       "duplicate_review": "No Venturi or 400-family entry in the 629-car pre-batch inventory; no car imported.",
       "remaining": "Readable original manufacturer road technical document; distinguish standard factory road car from Trophy/GTR and conversions. Catalogue listings and secondary articles are discovery aids, not technical evidence.",
       "status": "Research hold in batch 28; excluded from the 632-car count"
+    },
+    {
+      "manufacturer": "Jensen",
+      "model": "FF",
+      "generation": "Original FF four-wheel-drive grand touring road family",
+      "proposed_record": "JEN-FF-MKI-ROAD",
+      "reason": "The Jensen FF brought Ferguson four-wheel drive and Dunlop Maxaret anti-skid braking together in a V8 grand tourer at an early stage of road-car adoption. Its mechanically controlled traction and braking systems make it an engineering landmark in the development of high-performance all-weather road cars.",
+      "evidence": "https://www.jensenmuseum.org/ferguson-four-wheel-drive-system/",
+      "duplicate_review": "Absent model/generation checked against the complete 632-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-29.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "Mark II",
+      "generation": "Original compact Mark 2 / Mk II sporting saloon family",
+      "proposed_record": "JAG-MK2-38-US-MTOD",
+      "reason": "The Jaguar Mark II 3.8 established a lasting sporting-saloon identity by combining XK six-cylinder performance with four-door accommodation. Its international touring-car and rally record, together with its enduring association with fast police and getaway cars, makes it a defining performance icon beyond Jaguar’s two-seat sports cars.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1967-jaguar-mark-ii-3-8-litre-saloon/",
+      "duplicate_review": "Absent model/generation checked against the complete 632-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-29.json"
+    },
+    {
+      "manufacturer": "AC",
+      "model": "Ace",
+      "generation": "Original Bristol-engined Ace open road sports family",
+      "proposed_record": "AC-ACE-BRISTOL-ROAD1963",
+      "reason": "The Ace Bristol combined John Tojeiro’s lightweight tubular sports-car architecture and aluminium body with Bristol six-cylinder power, establishing an influential British road-and-competition sports-car family. Its independent suspension and the Ace lineage’s role in the development of the Cobra give it lasting significance beyond rarity alone.",
+      "evidence": "https://www.acownersclub.co.uk/ac-models/ac-aces/",
+      "duplicate_review": "Absent model/generation checked against the complete 632-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-29.json"
+    },
+    {
+      "manufacturer": "Sunbeam",
+      "model": "Tiger",
+      "generation": "Original 260-cu-in Tiger / Alpine 260 road sports family",
+      "proposed_record": "SUN-TIGER-I-260-ROAD",
+      "reason": "The Sunbeam Tiger is an enduring Anglo-American performance icon, developed from the Alpine roadster with Ford V8 power and Carroll Shelby’s engineering involvement. Its compact production-roadster form and works motorsport programme give it a distinct place in the history of British sports cars with American muscle.",
+      "evidence": "https://shelby-american-collection.squarespace.com/cobras-coupes/1964-rootes-works-rally-sunbeam-tiger",
+      "duplicate_review": "Absent model/generation checked against the complete 632-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-29.json"
     }
   ],
-  "catalogue_count_after_batches": 632
+  "catalogue_count_after_batches": 636
 }
