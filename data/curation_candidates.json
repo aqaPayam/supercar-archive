@@ -4083,7 +4083,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "9000",
+      "generation": "Original 9000 production-road performance-liftback family",
+      "proposed_record": "SAA-9000-AERO-MAN-GBBROCHURE",
+      "reason": "The 9000 Aero is a defining Saab turbo performance flagship, combining substantial low-speed torque with Trionic control and long-distance practicality. It adds the marque’s distinct large sporting-liftback family beyond the classic 900, rather than another Aero badge or model year.",
+      "evidence": "https://saabsportugal.com/brochures/9000/SAAB%209000%20AERO%201993.zip",
+      "duplicate_review": "Absent model/generation checked against the complete 761-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-49.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "9-3",
+      "generation": "Original-generation 9-3 production-road performance-car family",
+      "proposed_record": "SAA-93-OG-VIGGEN-1999",
+      "reason": "The original 9-3 Viggen is an enduring Swedish turbo performance icon, pairing Saab’s Trionic-managed 2.3-litre engine with a focused chassis and manual front-drive layout. It represents the absent original 9-3 road family, distinct from the classic 900 and later Aero programmes.",
+      "evidence": "https://saabsportugal.com/brochures/9-3/SAAB%209-3%20Viggen%201999%20Eng.zip",
+      "duplicate_review": "Absent model/generation checked against the complete 761-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-49.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Puma",
+      "generation": "Original production-road Puma coupe family",
+      "proposed_record": "FOR-PUMA-RACING-1999",
+      "reason": "The Racing Puma is a lasting compact fast-Ford icon whose wide-track chassis, Alcon brakes and Tickford conversion gave the small coupe a distinctive driving identity. Its significance lies in the road car’s handling and enthusiast following, rather than a race result, rarity or power figure alone.",
+      "evidence": "https://www.topgear.com/car-news/top-gear-heroes/top-gears-bargain-heroes-ford-racing-puma",
+      "duplicate_review": "Absent model/generation checked against the complete 761-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-49.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB2",
+      "generation": "Original DB2 production-road sporting coupe family",
+      "proposed_record": "AST-DB2-ROAD1952",
+      "reason": "The DB2 established the postwar David Brown Aston Martin sporting lineage, bringing Lagonda-derived twin-cam six-cylinder engineering to an influential road GT. The documented customer coupe adds a foundational performance-car family before the DB4 and DB5, rather than an experimental car or a coachwork variation.",
+      "evidence": "https://rmsothebys.com/auctions/mo19/lots/r0060-1952-aston-martin-db2/",
+      "duplicate_review": "Absent model/generation checked against the complete 761-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-49.json"
     }
   ],
-  "catalogue_count_after_batches": 761
+  "catalogue_count_after_batches": 765
 }
