@@ -5095,7 +5095,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 851-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-75.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Torino / Fairlane",
+      "generation": "Original 1968–1969 Torino/Fairlane production-road family",
+      "proposed_record": "FOR-TORINO-TALLADEGA-428-1969",
+      "reason": "The Talladega is a road-production icon of the NASCAR aero-war era. Its reshaped nose, grille and bumper were developed for aerodynamic performance rather than cosmetic differentiation. The factory road version paired that body programme with a 428 Cobra Jet and automatic transmission. One original Torino/Fairlane family entry captures this engineering and motorsport connection without assigning race-engine hardware to the street car.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2023/02/1969-Ford-Torino-Talladega-Brochure-1-4.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 853-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-76.json"
+    },
+    {
+      "manufacturer": "AMC",
+      "model": "Rambler American",
+      "generation": "Final-generation 1964–1969 Rambler American production-road family",
+      "proposed_record": "AMC-RAMBLER-HURST-SC390-1969",
+      "reason": "The Hurst SC/Rambler turned AMC’s compact Rogue hardtop into a purpose-built road muscle car. A 390 V8, close-ratio four-speed, Twin-Grip axle, front discs and upgraded chassis equipment made the package substantially more than paint and stripes. Its established Hurst collaboration and drag-oriented road-car concept earn one original Rambler American family entry; colour schemes and dealer racing modifications do not add counts.",
+      "evidence": "https://americanmusclecarfacts.com/media/rambler-american-sc-rambler/1969-promo-sheet-sc-rambler-side-specs.jpg",
+      "duplicate_review": "Absent model/generation checked against the complete 853-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-76.json"
     }
   ],
-  "catalogue_count_after_batches": 853
+  "catalogue_count_after_batches": 855
 }

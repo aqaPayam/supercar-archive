@@ -1,0 +1,320 @@
+{
+  "batch": "icons-road-2026-10-30-76",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "FOR-TORINO-TALLADEGA-428-1969",
+      "manufacturer": "Ford",
+      "model_family": "Torino / Fairlane",
+      "generation": "Original 1968–1969 Torino/Fairlane production-road family",
+      "variant": "Talladega 428 Cobra Jet automatic — 1969 factory brochure reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door SportsRoof hardtop",
+      "road_legal": 1,
+      "specification_market": "1969 US Ford Talladega road brochure, all four scanned pages visually read. Retains native road-engine figures without inventing a modern net/gross standard. No 427/429 race engine, measured speed, race weight, production quota or road-car victory is inferred. The brochure lists optional Ram-Air, but its actual production availability is not established here and is excluded. Other first-family Torinos, paint, options and renamed variants add no counts.",
+      "summary": "The Talladega is a road-production icon of the NASCAR aero-war era. Its reshaped nose, grille and bumper were developed for aerodynamic performance rather than cosmetic differentiation. The factory road version paired that body programme with a 428 Cobra Jet and automatic transmission. One original Torino/Fairlane family entry captures this engineering and motorsport connection without assigning race-engine hardware to the street car.",
+      "admission_reason": "The Talladega is a road-production icon of the NASCAR aero-war era. Its reshaped nose, grille and bumper were developed for aerodynamic performance rather than cosmetic differentiation. The factory road version paired that body programme with a 428 Cobra Jet and automatic transmission. One original Torino/Fairlane family entry captures this engineering and motorsport connection without assigning race-engine hardware to the street car.",
+      "sources": [
+        {
+          "publisher": "Ford Division / Ford Motor Company; facsimile hosted by Over-Drive Magazine",
+          "title": "1969 Talladega: Performance by Ford — factory road brochure",
+          "source_type": "Original manufacturer brochure, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2023/02/1969-Ford-Torino-Talladega-Brochure-1-4.pdf",
+          "notes": "1969 US Ford Talladega road brochure, all four scanned pages visually read. Retains native road-engine figures without inventing a modern net/gross standard. No 427/429 race engine, measured speed, race weight, production quota or road-car victory is inferred. The brochure lists optional Ram-Air, but its actual production availability is not established here and is excluded. Other first-family Torinos, paint, options and renamed variants add no counts."
+        },
+        {
+          "publisher": "Talladega and Spoiler Registry / Richard Fleener",
+          "title": "1969 Ford Talladega, an Introduction — 18 June 2019",
+          "source_type": "Primary marque registry historical account",
+          "url": "https://talladegaspoilerregistry.com/2019/06/18/1969-ford-talladega-an-introduction/",
+          "notes": "Actual registry account read. Distinguishes 428 road cars from 427/429 competition use and explains aero-war context. Exact counts, prototype exceptions, inch claims and championship/race results are not imported as road specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Ford Talladega.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Ford_Talladega.jpg",
+          "notes": "Michel Curi; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/119886413@N05/16598736506/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "428 Cobra Jet, 90-degree overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Pushrods and hydraulic tappets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Holley four-barrel carburettor, published 735 CFM",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Ford Cruise-O-Matic Type III, three forward speeds",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Non-locking rear axle, 3.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel platform chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted floating-caliper front discs, 11.3 inches; rear drums, 10 x 2.5 inches",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Ultra-heavy-duty front coils and rear leaf springs; heavy-duty dampers, stabilizer bar and staggered rear shock arrangement",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Special front fenders, hood, grille and close-fitting wraparound front bumper",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "428",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published brake horsepower",
+          "value": "335",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "440",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "116",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Talladega is a road-production icon of the NASCAR aero-war era. Its reshaped nose, grille and bumper were developed for aerodynamic performance rather than cosmetic differentiation. The factory road version paired that body programme with a 428 Cobra Jet and automatic transmission. One original Torino/Fairlane family entry captures this engineering and motorsport connection without assigning race-engine hardware to the street car.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_torino_talladega_428_1969.jpg",
+          "caption": "1969 Ford Talladega photographed by Michel Curi at Zephyrhills, Florida. Representative original aero-nose road body; it does not certify its 428 engine internals, exact factory equipment or identity as a race-winning Talladega.",
+          "creator": "Michel Curi",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9e700d4d8d896773c6fed8ab13e29dce1ff205ae40d8ea00f355288dc4e04ede"
+        }
+      ]
+    },
+    {
+      "id": "AMC-RAMBLER-HURST-SC390-1969",
+      "manufacturer": "AMC",
+      "model_family": "Rambler American",
+      "generation": "Final-generation 1964–1969 Rambler American production-road family",
+      "variant": "Hurst SC/Rambler 390 four-speed — 1969 factory promotion-sheet reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1969 AMC/Hurst promotion sheet, both sides downloaded and visually read. Native 315 hp carries no invented modern net/gross standard. Advertised quarter-mile claims, tuned 12-second speculation, shipping/curb-weight ambiguity, tyre specifics and prices are not imported. The AMC family album’s early 500-car plan is not final production. A/B paint, Rogue equipment and Group 19 race upgrades do not create extra records or change this stock road reference.",
+      "summary": "The Hurst SC/Rambler turned AMC’s compact Rogue hardtop into a purpose-built road muscle car. A 390 V8, close-ratio four-speed, Twin-Grip axle, front discs and upgraded chassis equipment made the package substantially more than paint and stripes. Its established Hurst collaboration and drag-oriented road-car concept earn one original Rambler American family entry; colour schemes and dealer racing modifications do not add counts.",
+      "admission_reason": "The Hurst SC/Rambler turned AMC’s compact Rogue hardtop into a purpose-built road muscle car. A 390 V8, close-ratio four-speed, Twin-Grip axle, front discs and upgraded chassis equipment made the package substantially more than paint and stripes. Its established Hurst collaboration and drag-oriented road-car concept earn one original Rambler American family entry; colour schemes and dealer racing modifications do not add counts.",
+      "sources": [
+        {
+          "publisher": "American Motors / Hurst; facsimile hosted by American Muscle Car Facts",
+          "title": "1969 SC/Rambler specifications — AMC/Hurst promotion sheet, specification side",
+          "source_type": "Original manufacturer promotion sheet, hosted facsimile",
+          "url": "https://americanmusclecarfacts.com/media/rambler-american-sc-rambler/1969-promo-sheet-sc-rambler-side-specs.jpg",
+          "notes": "Original 1969 AMC/Hurst promotion sheet, both sides downloaded and visually read. Native 315 hp carries no invented modern net/gross standard. Advertised quarter-mile claims, tuned 12-second speculation, shipping/curb-weight ambiguity, tyre specifics and prices are not imported. The AMC family album’s early 500-car plan is not final production. A/B paint, Rogue equipment and Group 19 race upgrades do not create extra records or change this stock road reference."
+        },
+        {
+          "publisher": "American Motors / Hurst; facsimile hosted by American Muscle Car Facts",
+          "title": "SC/Rambler by Hurst — promotion-sheet hood and introduction side",
+          "source_type": "Original manufacturer promotion sheet, hosted facsimile",
+          "url": "https://americanmusclecarfacts.com/media/rambler-american-sc-rambler/1969-promo-sheet-sc-rambler-hood.jpg",
+          "notes": "Downloaded and visually read; establishes AMC/Hurst partnership, Rogue hardtop basis and functional vacuum-controlled scoop. Advertising/tuned elapsed times and weight claims are excluded."
+        },
+        {
+          "publisher": "American Motors Corporation, Public Relations Department; facsimile hosted by XR793",
+          "title": "American Motors Family Album — 1969 SC/Rambler Hurst, final illustrated page",
+          "source_type": "Original manufacturer historical album, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2018/01/1969-AMC-Family-Album.pdf",
+          "notes": "Actual final model-photo page and introductory pages visually read. Confirms Hurst-modified 390 V8 Rogue identity, but its early 500-unit statement is not a verified final count. Other album pages, special projects and competition Javelins are not this road specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 AMC-Hurst SC Rambler, front left, 07-20-2024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_AMC-Hurst_SC_Rambler,_front_left,_07-20-2024.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "390 cubic-inch AMX V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed all-synchromesh close-ratio manual; Hurst T-handle shift linkage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Twin-Grip differential, 3.54:1 axle ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Heavy-duty springs and dampers; larger-diameter front sway bar; rear axle torque links",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cold-air intake",
+          "value": "Functional cold-air hood scoop with vacuum-controlled inlet valve",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "390",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "315",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch diameter",
+          "value": "10.5",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Manual, published 20:1 ratio",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Hurst SC/Rambler turned AMC’s compact Rogue hardtop into a purpose-built road muscle car. A 390 V8, close-ratio four-speed, Twin-Grip axle, front discs and upgraded chassis equipment made the package substantially more than paint and stripes. Its established Hurst collaboration and drag-oriented road-car concept earn one original Rambler American family entry; colour schemes and dealer racing modifications do not add counts.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amc_rambler_hurst_sc390_1969.jpg",
+          "caption": "1969 AMC-Hurst SC/Rambler photographed by MercurySable99 at the Hovis cruise-in in Mercer, Pennsylvania, in July 2024. Representative A-scheme road hardtop with non-original-looking wheels; paint, exterior and scoop do not certify factory engine tune, wheel specification or originality.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "390f9fff0bb1bd5bcf03b83eab087f57f46a78a194b6305575d9dcdf52f8d506"
+        }
+      ]
+    }
+  ]
+}
