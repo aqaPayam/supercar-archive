@@ -55,13 +55,15 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Sixty-four reviewed road-icon batches add 431 cars
-to the 395-record baseline, bringing the working catalogue to 826 records.
-The latest [Peugeot Sport, Scirocco 16V and original Fiesta ST batch](docs/icons-road-64.md)
-adds three absent road performance families, following the
-[modern Swift Sport generation batch](docs/icons-road-63.md). Individual reviews and
+evidence and licensed photograph. Sixty-five reviewed road-icon batches add 435 cars
+to the 395-record baseline, bringing the working catalogue to 830 records.
+The latest [ASA, OSCA, Ritmo Abarth and Satria GTi batch](docs/icons-road-65.md)
+adds four absent road performance families, following the
+[Peugeot Sport, Scirocco 16V and original Fiesta ST batch](docs/icons-road-64.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
+The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
+corrects four existing image credits and source links while preserving the photos.
 The 1,000-qualifying-car goal remains active: existing records still need the
 final eligibility audit, and quality takes priority over the numerical count.
 The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the

@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 826 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 830 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 64 reviewed road-icon manifests contain 431 distinct identifiers. Subtracting
+The 65 reviewed road-icon manifests contain 435 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 826 count must not be presented as 826 proven qualifying icons.
+The raw 830 count must not be presented as 830 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -401,3 +401,27 @@ image limits; photographs do not prove tune or original equipment.
 The car, source, attribute, fact and media rows match the pre-review snapshot;
 all stored source mappings resolve. No database row, image or count changes.
 This selected-field/media check leaves the wider baseline audit open.
+
+## Carrera GT selected evidence and media-source repair
+
+Reviewed 2026-10-30. `POR-CGT-980` remains one production-road programme.
+Porsche's [2020 feature and technical table](https://newsroom.porsche.com/en/2020/history/porsche-klassik-20-years-carrera-gt-22823.html)
+and [2025 retrospective](https://newsroom.porsche.com/en/2025/history/porsche-25-years-world-premiere-carrera-gt-40609.html)
+were actually read, alongside the stored Australian versions. Selected V10,
+manual/clutch, structure, aerodynamic and dimension/production fields agree.
+The 2000 study and cancelled LMP programme are distinct from the 2003–2006 road
+car; prototype output is not production output. No new car or numeric filter is
+introduced. This check does not certify every field, repeated attribute, owner
+recommendation, recall detail, auction or colour/country estimate.
+
+Visual comparison found that all four local images were linked to different
+Commons photographs with incorrect credits/licences. The documented
+[media-source correction](baseline-carrera-gt-media-repair-01.md) restores the
+correct existing source links and credits, qualifies the captions and retains
+all local image bytes, car/fact/technical rows and counts. Three photographs
+match the correct current rendition byte for byte; the fourth has identical
+decoded pixels with different JPEG metadata. The exact before/after rows and
+hashes are in `data/baseline-carrera-gt-media-repair-01.json`.
+
+The earlier count-based media screen did not establish semantic source identity.
+This finding is one reason the full baseline media and evidence audit stays open.

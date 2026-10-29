@@ -4798,7 +4798,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 823-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-64.json"
+    },
+    {
+      "manufacturer": "ASA",
+      "model": "1000 GT",
+      "generation": "Original production-road 1000 GT coupe family",
+      "proposed_record": "ASA-1000GT-COUPE-1964",
+      "reason": "The ASA 1000 GT translated a Ferrari-developed small-engine project into an independent marque’s production sporting coupe. Its compact tubular chassis and high-revving four-cylinder gave it an unusually sophisticated small-GT identity. First-hand road driving values its precise steering, communicative chassis and strong brakes, making its engineering more important than its modest straight-line acceleration.",
+      "evidence": "https://www.classicandsportscar.com/features/asa-1000gt-maranello-miniature",
+      "duplicate_review": "Absent model/generation checked against the complete 826-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-65.json"
+    },
+    {
+      "manufacturer": "OSCA",
+      "model": "1600 GT",
+      "generation": "Original Maserati-brothers-engineered 1600 GT road berlinetta family",
+      "proposed_record": "OSC-1600GT-ZAGATO-0097-1963",
+      "reason": "The Maserati brothers applied their specialist competition engineering to a dual-purpose road berlinetta with a twin-cam engine, independent suspension and disc brakes. Zagato’s double-bubble coupe gave the 1600 GT a distinctive coachbuilt identity. This road-registered example represents that historically important engineering and design programme, rather than qualifying merely because few survive.",
+      "evidence": "https://rmsothebys.com/auctions/lf12/lots/r151-1963-osca-1600-gt-by-zagato/",
+      "duplicate_review": "Absent model/generation checked against the complete 826-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-65.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "Ritmo / Strada Abarth",
+      "generation": "Original Type 138 Ritmo performance-road family, including Strada name",
+      "proposed_record": "FIA-RITMO-STRADA-130TC-UK1984",
+      "reason": "The Ritmo/Strada 130 TC was Fiat’s forceful two-litre twin-cam answer to the established hot-hatch leaders. A period road test found strong in-gear response and tenacious, engaging country-road handling, backed by a ZF gearbox and revised suspension. Its Abarth performance identity merits one family entry despite its heavy shift and demanding behaviour in traffic.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/october-1984/34/the-fiat-strada-abarth-130tc/",
+      "duplicate_review": "Absent model/generation checked against the complete 826-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-65.json"
+    },
+    {
+      "manufacturer": "Proton",
+      "model": "Satria GTi",
+      "generation": "Original Colt-derived Satria production-road GTi family",
+      "proposed_record": "PRO-SATRIA-GTI-AU2001",
+      "reason": "Lotus’s chassis development turned the original Satria GTi into a recognised Malaysian performance car with a distinct driver-focused identity. Contemporary Australian driving found lively steering and an involving chassis, supported by a responsive manual gearbox and disc brakes. Its harsh ride and limited refinement remain part of the assessment; neither a body kit nor rarity alone justifies admission.",
+      "evidence": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-02-07/34086.html",
+      "duplicate_review": "Absent model/generation checked against the complete 826-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-65.json"
     }
   ],
-  "catalogue_count_after_batches": 826
+  "catalogue_count_after_batches": 830
 }

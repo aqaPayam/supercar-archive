@@ -1,0 +1,577 @@
+{
+  "batch": "icons-road-2026-10-29-65",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "ASA-1000GT-COUPE-1964",
+      "manufacturer": "ASA",
+      "model_family": "1000 GT",
+      "generation": "Original production-road 1000 GT coupe family",
+      "variant": "Production coupe — 1964 programme and 1965 base homologation reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Production coupe, with manufacture beginning in 1964 on the base form. Only the base chassis/body and brake entries on printed pages 1–3 are used. Optional equipment and competition changes are excluded. The form’s 1034.5 cc entry conflicts with its 69-by-69 mm dimensions and the conventional 1032 cc description; no displacement, power, mass or carburettor specification is silently reconciled from it.",
+      "summary": "The ASA 1000 GT translated a Ferrari-developed small-engine project into an independent marque’s production sporting coupe. Its compact tubular chassis and high-revving four-cylinder gave it an unusually sophisticated small-GT identity. First-hand road driving values its precise steering, communicative chassis and strong brakes, making its engineering more important than its modest straight-line acceleration.",
+      "admission_reason": "The ASA 1000 GT translated a Ferrari-developed small-engine project into an independent marque’s production sporting coupe. Its compact tubular chassis and high-revving four-cylinder gave it an unusually sophisticated small-GT identity. First-hand road driving values its precise steering, communicative chassis and strong brakes, making its engineering more important than its modest straight-line acceleration.",
+      "sources": [
+        {
+          "publisher": "ASA / Automobile Club d’Italia / FIA",
+          "title": "ASA 1000 GT — original base homologation form 200, printed pages 1–3",
+          "source_type": "Original manufacturer homologation form, FIA historical copy",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601080801/homologation_form_number_200_group_gt.pdf",
+          "notes": "Production coupe, with manufacture beginning in 1964 on the base form. Only the base chassis/body and brake entries on printed pages 1–3 are used. Optional equipment and competition changes are excluded. The form’s 1034.5 cc entry conflicts with its 69-by-69 mm dimensions and the conventional 1032 cc description; no displacement, power, mass or carburettor specification is silently reconciled from it."
+        },
+        {
+          "publisher": "Classic & Sports Car / Graeme Hurst",
+          "title": "ASA 1000GT: Maranello in miniature — original January 2008 road feature, republished 2 January 2025",
+          "source_type": "First-hand road feature and technical factfile",
+          "url": "https://www.classicandsportscar.com/features/asa-1000gt-maranello-miniature",
+          "notes": "Actual driving and factfile concern the production road coupe. Earlier 850/985 cc prototypes, their output and acceleration, disputed production totals and a 0–60-to-0–100 substitution are excluded. This is a 2008 feature republished online, not a new 2025 test."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 ASA 1000 GT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_ASA_1000_GT.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/46036762635/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular chassis separate from the body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Two side doors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wheels; rear rigid axle with reaction links; coil springs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes; 233 mm front and 227 mm rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2200",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "All-alloy inline four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1032",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; overdrive on third and fourth",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The ASA 1000 GT translated a Ferrari-developed small-engine project into an independent marque’s production sporting coupe. Its compact tubular chassis and high-revving four-cylinder gave it an unusually sophisticated small-GT identity. First-hand road driving values its precise steering, communicative chassis and strong brakes, making its engineering more important than its modest straight-line acceleration.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_asa_1000gt_coupe_1964.jpg",
+          "caption": "1964 ASA 1000 GT photographed by Rutger van der Maar in Montecatini Terme. This representative production coupe does not certify the exact homologation specification, build date, carburettors or unchanged engine tune.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "191adf1e137d3335bd107d10682a777180106bd8c2c9ec493c7a50e4db89a25f"
+        }
+      ]
+    },
+    {
+      "id": "OSC-1600GT-ZAGATO-0097-1963",
+      "manufacturer": "OSCA",
+      "model_family": "1600 GT",
+      "generation": "Original Maserati-brothers-engineered 1600 GT road berlinetta family",
+      "variant": "Zagato coupe — 1963 chassis 0097, London 2012 catalogue reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Specifications are those published for chassis and engine 0097 in the 2012 inspected-car catalogue, not universal factory figures for every GT/GTS. The documented 1963 origin and later road registration distinguish this road reference from dedicated competition cars. No conversion of the catalogue’s bhp rating, 144 bhp competition tune, contested production total, torque or mass is imported.",
+      "summary": "The Maserati brothers applied their specialist competition engineering to a dual-purpose road berlinetta with a twin-cam engine, independent suspension and disc brakes. Zagato’s double-bubble coupe gave the 1600 GT a distinctive coachbuilt identity. This road-registered example represents that historically important engineering and design programme, rather than qualifying merely because few survive.",
+      "admission_reason": "The Maserati brothers applied their specialist competition engineering to a dual-purpose road berlinetta with a twin-cam engine, independent suspension and disc brakes. Zagato’s double-bubble coupe gave the 1600 GT a distinctive coachbuilt identity. This road-registered example represents that historically important engineering and design programme, rather than qualifying merely because few survive.",
+      "sources": [
+        {
+          "publisher": "RM Sotheby’s",
+          "title": "1963 OSCA 1600 GT by Zagato, chassis 0097 — London 2012 catalogue",
+          "source_type": "Primary inspected-vehicle auction catalogue",
+          "url": "https://rmsothebys.com/auctions/lf12/lots/r151-1963-osca-1600-gt-by-zagato/",
+          "notes": "Specifications are those published for chassis and engine 0097 in the 2012 inspected-car catalogue, not universal factory figures for every GT/GTS. The documented 1963 origin and later road registration distinguish this road reference from dedicated competition cars. No conversion of the catalogue’s bhp rating, 144 bhp competition tune, contested production total, torque or mass is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 OSCA 1600 GT By Zagato.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_OSCA_1600_GT_By_Zagato.jpg",
+          "notes": "Pelicanactor; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1568",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Dual overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Dual Weber carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel independent suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2250",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published output for this catalogue reference",
+          "value": "105",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Maserati brothers applied their specialist competition engineering to a dual-purpose road berlinetta with a twin-cam engine, independent suspension and disc brakes. Zagato’s double-bubble coupe gave the 1600 GT a distinctive coachbuilt identity. This road-registered example represents that historically important engineering and design programme, rather than qualifying merely because few survive.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_osc_1600gt_zagato_0097_1963.jpg",
+          "caption": "1963 OSCA 1600 GT by Zagato photographed by Pelicanactor. The representative coupe does not certify chassis 0097 identity, the selected catalogue’s 105 bhp rating or unchanged mechanical condition.",
+          "creator": "Pelicanactor",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "17999870c8413b4dbf10fcaf941084a4511b9c4ba5147ac8d5b248bf1598c795"
+        }
+      ]
+    },
+    {
+      "id": "FIA-RITMO-STRADA-130TC-UK1984",
+      "manufacturer": "Fiat",
+      "model_family": "Ritmo / Strada Abarth",
+      "generation": "Original Type 138 Ritmo performance-road family, including Strada name",
+      "variant": "Strada Abarth 130 TC — October 1984 UK road-test reference",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "October 1984 UK road-test car, called Strada; the Ritmo name and 105/125/130 TC evolution belong to one programme. Native UK article bhp/torque shorthand and noisy OCR tyre notation are not converted into factory power or tyre fields. Road-test equipment is not a claim of every market’s standard fitment; no racing extension, Recaro standard-fit claim or ordinary later Strada pickup is transferred.",
+      "summary": "The Ritmo/Strada 130 TC was Fiat’s forceful two-litre twin-cam answer to the established hot-hatch leaders. A period road test found strong in-gear response and tenacious, engaging country-road handling, backed by a ZF gearbox and revised suspension. Its Abarth performance identity merits one family entry despite its heavy shift and demanding behaviour in traffic.",
+      "admission_reason": "The Ritmo/Strada 130 TC was Fiat’s forceful two-litre twin-cam answer to the established hot-hatch leaders. A period road test found strong in-gear response and tenacious, engaging country-road handling, backed by a ZF gearbox and revised suspension. Its Abarth performance identity merits one family entry despite its heavy shift and demanding behaviour in traffic.",
+      "sources": [
+        {
+          "publisher": "Motor Sport / G.C.",
+          "title": "The Fiat Strada Abarth 130TC — October 1984, archived online 7 July 2014",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.motorsportmagazine.com/archive/article/october-1984/34/the-fiat-strada-abarth-130tc/",
+          "notes": "October 1984 UK road-test car, called Strada; the Ritmo name and 105/125/130 TC evolution belong to one programme. Native UK article bhp/torque shorthand and noisy OCR tyre notation are not converted into factory power or tyre fields. Road-test equipment is not a claim of every market’s standard fitment; no racing extension, Recaro standard-fit claim or ordinary later Strada pickup is transferred."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "Fiat Ritmo Abarth 130 TC (138A9/A), homologation 5189",
+          "source_type": "Original homologation identity index",
+          "url": "https://historicdb.fia.com/car/fiat-ritmo-abarth-130-tc-138a9a-0",
+          "notes": "Index identifies Italy, four cylinders, 1995 cc and front-wheel drive. Only these base identity fields corroborate the road car. Competition extensions and homologation-end dates are not production road specifications or production dates."
+        },
+        {
+          "publisher": "Le Moniteur Automobile / Marcel Pirotte",
+          "title": "Fiat Ritmo Abarth 130 TC — 22 March 1984 test revisited 25 March 2020",
+          "source_type": "Publisher’s republication of its contemporary road test",
+          "url": "https://www.moniteurautomobile.be/actu-auto/nostalgie/fiat-ritmo-abarth-130-tc.html",
+          "notes": "Publisher reproduces its own issue 791 road-test assessment: lively, stable and effective but harsh, with low-speed steering and shift criticism. No personal Carlo Abarth involvement in the 1983 development, conflicting torque conversion or optional bucket-seat standard-fit claim is repeated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Fiat Ritmo 130 TC branded as Fiat Strada 130 TC for UK market 1995cc registered August 1986.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Fiat_Ritmo_130_TC_branded_as_Fiat_Strada_130_TC_for_UK_market_1995cc_registered_August_1986.jpg",
+          "notes": "Charles01; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-choke side-draught carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Digiplex electronic ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts with stiffer progressive coils and reduced ride height",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs; rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1995",
+          "unit": "cc",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Ritmo/Strada 130 TC was Fiat’s forceful two-litre twin-cam answer to the established hot-hatch leaders. A period road test found strong in-gear response and tenacious, engaging country-road handling, backed by a ZF gearbox and revised suspension. Its Abarth performance identity merits one family entry despite its heavy shift and demanding behaviour in traffic.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_ritmo_strada_130tc_uk1984.jpg",
+          "caption": "Fiat Strada 130 TC, registered in August 1986, photographed by Charles01. This representative later UK road car belongs to the Ritmo/Strada family; it does not establish the 1984 test car’s build, wheels, equipment or unchanged engine tune.",
+          "creator": "Charles01",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "f9ea33a61fa181556f891a068bf04a2ea4e296e51bbf4689432705386a33f486"
+        }
+      ]
+    },
+    {
+      "id": "PRO-SATRIA-GTI-AU2001",
+      "manufacturer": "Proton",
+      "model_family": "Satria GTi",
+      "generation": "Original Colt-derived Satria production-road GTi family",
+      "variant": "GTi three-door — February 2001 Australian road-test reference",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Malaysia",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "February 2001 Australian GTi test reference. Its 103 kW and 164 Nm stay in the published native units. No UK 133 bhp, Malaysian output, R3 tune, later Neo/Gen.2 specification, disputed acceleration claim, production total or country ownership estimate is transferred. The original Colt-derived GTi is one programme; rebadges, LE and R3 editions are not additional counts.",
+      "summary": "Lotus’s chassis development turned the original Satria GTi into a recognised Malaysian performance car with a distinct driver-focused identity. Contemporary Australian driving found lively steering and an involving chassis, supported by a responsive manual gearbox and disc brakes. Its harsh ride and limited refinement remain part of the assessment; neither a body kit nor rarity alone justifies admission.",
+      "admission_reason": "Lotus’s chassis development turned the original Satria GTi into a recognised Malaysian performance car with a distinct driver-focused identity. Contemporary Australian driving found lively steering and an involving chassis, supported by a responsive manual gearbox and disc brakes. Its harsh ride and limited refinement remain part of the assessment; neither a body kit nor rarity alone justifies admission.",
+      "sources": [
+        {
+          "publisher": "GoAuto / P Tibbles",
+          "title": "Satria GTi Australian Super Test — Engine, 7 February 2001",
+          "source_type": "Contemporary road-test technical report",
+          "url": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-02-07/37594.html",
+          "notes": "February 2001 Australian GTi test reference. Its 103 kW and 164 Nm stay in the published native units. No UK 133 bhp, Malaysian output, R3 tune, later Neo/Gen.2 specification, disputed acceleration claim, production total or country ownership estimate is transferred. The original Colt-derived GTi is one programme; rebadges, LE and R3 editions are not additional counts."
+        },
+        {
+          "publisher": "GoAuto / P Tibbles",
+          "title": "Satria GTi Super Test — Transmission, 7 February 2001",
+          "source_type": "Contemporary road-test technical report",
+          "url": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-02-07/35826.html",
+          "notes": "Australian tested range offers only a five-speed manual with close ratios and short shift. No other-market gearbox is inferred."
+        },
+        {
+          "publisher": "GoAuto / P Tibbles",
+          "title": "Satria GTi Super Test — Suspension, 7 February 2001",
+          "source_type": "Contemporary road-test technical report",
+          "url": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-02-07/34883.html",
+          "notes": "Lotus-tuned MacPherson front struts and multi-link rear suspension, with handling prioritised over comfort. Distinguish the GTi from the ordinary Colt-derived Satria."
+        },
+        {
+          "publisher": "GoAuto / Gautam Sharma",
+          "title": "Satria GTi Super Test — Our Opinion, 7 February 2001",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-02-07/34086.html",
+          "notes": "First-hand Australian driving praises responsive chassis, steering and manual, but criticises harsh ride and stereo controls. Tyres are identified by size as tested; no global tyre-brand or equipment claim is made. The test engine differs from later Neo/Gen.2 and R3 references."
+        },
+        {
+          "publisher": "GoAuto / P Tibbles",
+          "title": "Satria GTi three-door — Overview, 2 April 2001",
+          "source_type": "Contemporary road-test overview",
+          "url": "https://www.goauto.com.au/car-reviews/proton/satria/gti-3-dr-hatch/2001-04-02/4390.html",
+          "notes": "Identifies the Malaysian-built three-door GTi and Australian range from October 1999. Publication/range dates do not establish a worldwide launch date or total."
+        },
+        {
+          "publisher": "Petrolblog / Gavin Braithwaite-Smith",
+          "title": "Bangerwatch: Proton Satria GTi — 10 January 2013",
+          "source_type": "First-person ownership / driving retrospective",
+          "url": "https://petrolblog.com/articles/bangerwatch-proton-satria-gti",
+          "notes": "First-person account of a 2004 UK company GTi supports communicative handling and the longer-lived enthusiast identity. Employment on the Proton account is disclosed by the writer. UK output, prices, registration estimates and claimed colour exclusivity are not Australian technical evidence."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2000 Proton Satria (C90) GTi hatchback (26305609823).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2000_Proton_Satria_(C90)_GTi_hatchback_(26305609823).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Proton Satria C99 GTi. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Mitsubishi-design four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1834",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts; 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "103",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "164",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual; close ratios and short shift",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lotus-tuned MacPherson front struts; multi-link rear",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes",
+          "unit": "",
+          "source": 3
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/45 R16, as tested",
+          "unit": "",
+          "source": 3
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Lotus’s chassis development turned the original Satria GTi into a recognised Malaysian performance car with a distinct driver-focused identity. Contemporary Australian driving found lively steering and an involving chassis, supported by a responsive manual gearbox and disc brakes. Its harsh ride and limited refinement remain part of the assessment; neither a body kit nor rarity alone justifies admission.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 3
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pro_satria_gti_au2001.jpg",
+          "caption": "2000 Proton Satria GTi photographed in Australia by Jeremy. This representative three-door road body is distinct from the February 2001 test reference and does not certify original power, tyre brand, market equipment or unchanged condition.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 6,
+          "sha256": "8d7ced8844c38775f450ae40048df2bcf4ae0ebb7a6c0c4c29dcfda61b6f5edf"
+        }
+      ]
+    }
+  ]
+}
