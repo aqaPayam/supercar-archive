@@ -1,0 +1,445 @@
+{
+  "batch": "icons-road-2026-10-29-20",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "TOY-GT86-UK2012",
+      "manufacturer": "Toyota",
+      "model_family": "GT86",
+      "generation": "Original first-generation ZN6 boxer-engine sports coupe",
+      "variant": "GT86 — original 2012 UK six-speed manual",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original March 6, 2012 Toyota Europe launch-engineering account; migrated URL contains 2019 but page dates and media identify 2012. UK July 2012 availability/equipment cross-checked separately. No Subaru BRZ/Scion FR-S rebadge, facelift, TRD, drift/race preparation or second-generation 2.4-litre GR86 is counted or combined.",
+      "summary": "The original GT86 revived the accessible, driver-focused Toyota rear-drive sports coupe through an engineering collaboration with Subaru. Its low-mounted naturally aspirated boxer engine, Toyota D-4S dual injection, carefully developed manual gearbox and Torsen differential make it a modern analogue-sports-car landmark rather than another ordinary coupe trim.",
+      "admission_reason": "The original GT86 revived the accessible, driver-focused Toyota rear-drive sports coupe through an engineering collaboration with Subaru. Its low-mounted naturally aspirated boxer engine, Toyota D-4S dual injection, carefully developed manual gearbox and Torsen differential make it a modern analogue-sports-car landmark rather than another ordinary coupe trim.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Europe",
+          "title": "GT86 launch press kit — March 6, 2012 powertrain engineering",
+          "source_type": "Period manufacturer launch engineering account",
+          "url": "https://newsroom.toyota.eu/2019-gt86-press-kit-naturally-aspirated-sports-engine-developing-100-din-hp-per-litre/",
+          "notes": "Original March 6, 2012 Toyota Europe launch-engineering account; migrated URL contains 2019 but page dates and media identify 2012. UK July 2012 availability/equipment cross-checked separately. No Subaru BRZ/Scion FR-S rebadge, facelift, TRD, drift/race preparation or second-generation 2.4-litre GR86 is counted or combined."
+        },
+        {
+          "publisher": "Toyota GB",
+          "title": "Toyota GT86: Designed and Priced to Delight — March 30, 2012",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://media.toyota.co.uk/toyota-gt86-designed-and-priced-to-delight/",
+          "notes": "Confirms original UK manual/automatic choices, July 1 deliveries, standard limited-slip differential and road equipment; automatic-only controls and optional upholstery/navigation are excluded."
+        },
+        {
+          "publisher": "Toyota GB",
+          "title": "Toyota GT 86: Passion from just £24,995 — February 2012",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://media.toyota.co.uk/toyota-gt-86-passion-from-just-24995/",
+          "notes": "Original UK engine output is explicitly 197 bhp / 147 kW. Only this native output entry supplements the detailed European engine account; early anticipated sales timing is superseded by the March announcement."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Toyota GT86 – Frontansicht, 17. September 2012, Düsseldorf.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Toyota_GT86_%E2%80%93_Frontansicht,_17._September_2012,_D%C3%BCsseldorf.jpg",
+          "notes": "M 93; CC BY-SA 3.0 de. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed four-cylinder boxer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "12.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4S direct and port injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with short-throw shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited slip; 4.1 final drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "147",
+          "unit": "kW",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GT86 revived the accessible, driver-focused Toyota rear-drive sports coupe through an engineering collaboration with Subaru. Its low-mounted naturally aspirated boxer engine, Toyota D-4S dual injection, carefully developed manual gearbox and Torsen differential make it a modern analogue-sports-car landmark rather than another ordinary coupe trim.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_gt86_uk2012.jpg",
+          "caption": "Original Toyota GT86 road coupe photographed in Düsseldorf in September 2012. Represents the first-generation body; left-hand-drive market equipment, manual versus automatic, installed tune and factory originality are not authenticated by this exterior photograph.",
+          "creator": "M 93",
+          "license": "CC BY-SA 3.0 de",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "27ef32626efadc425bf67d72fc60ee3a0f78b74982a1a69cacc819b4fd23f732"
+        }
+      ]
+    },
+    {
+      "id": "TOY-GRYARIS-UK2020",
+      "manufacturer": "Toyota",
+      "model_family": "GR Yaris",
+      "generation": "Original G16E-GTS GR-Four three-door road series",
+      "variant": "GR Yaris — original November 2020 UK base specification",
+      "model_year_from": 2020,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original November 2020 UK full launch release. PDF pages 1–2, 7, 17 and 24–25 rendered/read. Torque is 360 Nm in the narrative; the technical table’s 3600-Nm typo is rejected. Base road car: optional Circuit Pack Torsen differentials/forged wheels/tuning, Japan RS, later 2024 engine/automatic and competition-car data are excluded.",
+      "summary": "The original GR Yaris is a modern rally-bred road-car landmark, developed with Tommi Mäkinen Racing around a bespoke three-door body and a combined GA-B/GA-C platform. Its compact turbocharged three-cylinder engine, carbon-composite roof and GR-Four drivetrain revived the engineering spirit of road homologation specials beyond an ordinary Yaris performance trim.",
+      "admission_reason": "The original GR Yaris is a modern rally-bred road-car landmark, developed with Tommi Mäkinen Racing around a bespoke three-door body and a combined GA-B/GA-C platform. Its compact turbocharged three-cylinder engine, carbon-composite roof and GR-Four drivetrain revived the engineering spirit of road homologation specials beyond an ordinary Yaris performance trim.",
+      "sources": [
+        {
+          "publisher": "Toyota GB / Toyota Gazoo Racing",
+          "title": "Toyota GR Yaris — original November 2020 UK full launch release",
+          "source_type": "Period manufacturer launch press kit",
+          "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2021/03/1605890847201029MGRYarisFullRelease.pdf",
+          "notes": "Original November 2020 UK full launch release. PDF pages 1–2, 7, 17 and 24–25 rendered/read. Torque is 360 Nm in the narrative; the technical table’s 3600-Nm typo is rejected. Base road car: optional Circuit Pack Torsen differentials/forged wheels/tuning, Japan RS, later 2024 engine/automatic and competition-car data are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Toyota GR Yaris RZ (2020) IMG 9308.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Toyota_GR_Yaris_RZ_(2020)_IMG_9308.jpg",
+          "notes": "Alexander-93; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "G16E-GTS inline three-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1618",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "192",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "360",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC 12-valve with Dual VVT-i",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4ST direct and indirect injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Single-scroll ball-bearing turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "GR-Four AWD with electronically controlled multi-plate clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson front with reinforced lower arm; trailing double-wishbone rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Forged carbon-fibre composite",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GR Yaris is a modern rally-bred road-car landmark, developed with Tommi Mäkinen Racing around a bespoke three-door body and a combined GA-B/GA-C platform. Its compact turbocharged three-cylinder engine, carbon-composite roof and GR-Four drivetrain revived the engineering spirit of road homologation specials beyond an ordinary Yaris performance trim.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_gryaris_uk2020.jpg",
+          "caption": "Original Toyota GR Yaris three-door body identified by the photographer as a 2020 RZ, photographed in Germany. Represents the original road generation. RZ naming, visible wheels/brakes, installed drivetrain and optional packages do not certify the selected UK base specification; this is not a photograph of a competition car.",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0c195f7f669edecba338dcbea0227fff53e07e7ff7a2c169887ddb7f9dc6c65f"
+        }
+      ]
+    },
+    {
+      "id": "HON-CIVIC-TYPER-FK8-FR2017",
+      "manufacturer": "Honda",
+      "model_family": "Civic",
+      "generation": "Tenth-generation Civic FK8 original Type R road series",
+      "variant": "Type R — original 2017 French six-speed road specification",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 2017 Honda Motor Europe French road launch account and technical section. Native European 235 kW / 320 ch and 400 Nm are separate from US 306-hp notation. New FK8 chassis sections are used, not historical FK2 paragraphs. No current lap-record superlative, disputed seat-count line, GT-only equipment, facelift, Limited Edition or FL5 data.",
+      "summary": "The FK8 Civic Type R is a major front-drive performance-car development, combining a turbo VTEC engine and manual transmission with a revised dual-axis front suspension, new multi-link rear layout, adaptive damping and functional aerodynamics. It represents a distinct Type R chassis generation, with a complete road-and-track engineering package beyond an engine tune or visual edition.",
+      "admission_reason": "The FK8 Civic Type R is a major front-drive performance-car development, combining a turbo VTEC engine and manual transmission with a revised dual-axis front suspension, new multi-link rear layout, adaptive damping and functional aerodynamics. It represents a distinct Type R chassis generation, with a complete road-and-track engineering package beyond an engine tune or visual edition.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Europe",
+          "title": "Honda Civic Type R 2017 — original French launch engineering and specification account",
+          "source_type": "Period manufacturer launch engineering account",
+          "url": "https://hondanews.eu/fr/fr/cars/media/pressreleases/110386/honda-civic-type-r-2017",
+          "notes": "Original 2017 Honda Motor Europe French road launch account and technical section. Native European 235 kW / 320 ch and 400 Nm are separate from US 306-hp notation. New FK8 chassis sections are used, not historical FK2 paragraphs. No current lap-record superlative, disputed seat-count line, GT-only equipment, facelift, Limited Edition or FL5 data."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2017 Honda Civic Type R GT i-VTEC Turbo 2.0 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017_Honda_Civic_Type_R_GT_i-VTEC_Turbo_2.0_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "VTEC Turbo four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "235",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with rev matching",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Helical limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dual-axis front struts; multi-link rear; adaptive damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo four-piston front calipers with 350-mm ventilated discs; 305-mm rear discs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FK8 Civic Type R is a major front-drive performance-car development, combining a turbo VTEC engine and manual transmission with a revised dual-axis front suspension, new multi-link rear layout, adaptive damping and functional aerodynamics. It represents a distinct Type R chassis generation, with a complete road-and-track engineering package beyond an engine tune or visual edition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_civic_typer_fk8_fr2017.jpg",
+          "caption": "2017 Honda Civic Type R GT photographed at Listers Honda Solihull. Represents the original FK8 road body. UK GT equipment, original build, modifications and exact French-market specification are not independently authenticated by the exterior photo. Later facelift-body images were not selected.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7b1f9448c5ce1817a835aeba18ad206af610bb7cfda09be0b892667115fe5212"
+        }
+      ]
+    }
+  ]
+}

@@ -2280,7 +2280,40 @@
       "duplicate_review": "No Opel Calibra or Vauxhall/Holden rebadge is in the 590-record pre-batch inventory. A rebadge would not be an extra car.",
       "remaining": "Factory technical account verified, plus February 1992 Opel Post March-availability announcement located. Need a clearly identified licensed Turbo road-body photo; dashboard, generic-engine exterior, convertible and competition photos rejected. No import until the image is resolved.",
       "status": "Research only; not imported in batch 19"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "GT86",
+      "generation": "Original first-generation ZN6 boxer-engine sports coupe",
+      "proposed_record": "TOY-GT86-UK2012",
+      "reason": "The original GT86 revived the accessible, driver-focused Toyota rear-drive sports coupe through an engineering collaboration with Subaru. Its low-mounted naturally aspirated boxer engine, Toyota D-4S dual injection, carefully developed manual gearbox and Torsen differential make it a modern analogue-sports-car landmark rather than another ordinary coupe trim.",
+      "evidence": "https://newsroom.toyota.eu/2019-gt86-press-kit-naturally-aspirated-sports-engine-developing-100-din-hp-per-litre/",
+      "duplicate_review": "Absent model/generation checked against the complete 599-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-20.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "GR Yaris",
+      "generation": "Original G16E-GTS GR-Four three-door road series",
+      "proposed_record": "TOY-GRYARIS-UK2020",
+      "reason": "The original GR Yaris is a modern rally-bred road-car landmark, developed with Tommi Mäkinen Racing around a bespoke three-door body and a combined GA-B/GA-C platform. Its compact turbocharged three-cylinder engine, carbon-composite roof and GR-Four drivetrain revived the engineering spirit of road homologation specials beyond an ordinary Yaris performance trim.",
+      "evidence": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2021/03/1605890847201029MGRYarisFullRelease.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 599-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-20.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "generation": "Tenth-generation Civic FK8 original Type R road series",
+      "proposed_record": "HON-CIVIC-TYPER-FK8-FR2017",
+      "reason": "The FK8 Civic Type R is a major front-drive performance-car development, combining a turbo VTEC engine and manual transmission with a revised dual-axis front suspension, new multi-link rear layout, adaptive damping and functional aerodynamics. It represents a distinct Type R chassis generation, with a complete road-and-track engineering package beyond an engine tune or visual edition.",
+      "evidence": "https://hondanews.eu/fr/fr/cars/media/pressreleases/110386/honda-civic-type-r-2017",
+      "duplicate_review": "Absent model/generation checked against the complete 599-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-20.json"
     }
   ],
-  "catalogue_count_after_batches": 599
+  "catalogue_count_after_batches": 602
 }
