@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Sixty-two reviewed road-icon batches add 425 cars
-to the 395-record baseline, bringing the working catalogue to 820 records.
-The latest [E12 M535i, R129 SL, Saab 96 and Corsa OPC batch](docs/icons-road-62.md)
-adds four absent road families/generations, following the
-[C107 SLC, Scimitar GTE and Rivolta GT batch](docs/icons-road-61.md). Individual reviews and
+evidence and licensed photograph. Sixty-three reviewed road-icon batches add 428 cars
+to the 395-record baseline, bringing the working catalogue to 823 records.
+The latest [modern Swift Sport generation batch](docs/icons-road-63.md)
+adds three absent road generations, following the
+[E12 M535i, R129 SL, Saab 96 and Corsa OPC batch](docs/icons-road-62.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the

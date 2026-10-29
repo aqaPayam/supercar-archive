@@ -4732,7 +4732,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 816-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-62.json"
+    },
+    {
+      "manufacturer": "Suzuki",
+      "model": "Swift Sport",
+      "generation": "ZC31S modern global Swift Sport production-road generation",
+      "proposed_record": "SUZ-SWIFTSPORT-ZC31S-JP-HERITAGE",
+      "reason": "The ZC31S established the modern Swift Sport as an engaging junior hot hatch. Contemporary driving praised its eager naturally aspirated engine, responsive chassis and accessible B-road enjoyment, giving this generation a lasting sporting identity beyond the ordinary Swift range.",
+      "evidence": "https://www.carenthusiast.com/reviews/article/1650/-/2007-Suzuki-Swift/Road%2Btest%2B-%2BMk1%2BSport.html",
+      "duplicate_review": "Absent model/generation checked against the complete 820-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-63.json"
+    },
+    {
+      "manufacturer": "Suzuki",
+      "model": "Swift Sport",
+      "generation": "ZC32S second modern global Swift Sport production-road generation",
+      "proposed_record": "SUZ-SWIFTSPORT-ZC32S-JP2011-6MT",
+      "reason": "The ZC32S carried the lightweight, naturally aspirated hot-hatch recipe into a new Swift generation with a six-speed manual and revised chassis. Contemporary driving valued its agility and high-rev engagement as a modern expression of the classic small hot hatch, rather than judging it only by headline power.",
+      "evidence": "https://www.topgear.com/car-reviews/suzuki/swift-hatchback-2010/16-sport-3dr/first-drive-0",
+      "duplicate_review": "Absent model/generation checked against the complete 820-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-63.json"
+    },
+    {
+      "manufacturer": "Suzuki",
+      "model": "Swift Sport",
+      "generation": "ZC33S third modern global Swift Sport production-road generation",
+      "proposed_record": "SUZ-SWIFTSPORT-ZC33S-JP2017-6MT",
+      "reason": "The ZC33S continued Swift Sport’s established entry-level performance lineage with a lighter body and a responsive turbocharged engine. First-hand driving found an accessible, enjoyable quick car, while acknowledging reduced adjustability; this is a substantive new-generation hot hatch, not a cosmetic edition of its predecessor.",
+      "evidence": "https://www.goodwood.com/grr/road/news/2018/10/first-drive-suzuki-swift-sport/",
+      "duplicate_review": "Absent model/generation checked against the complete 820-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-63.json"
     }
   ],
-  "catalogue_count_after_batches": 820
+  "catalogue_count_after_batches": 823
 }
