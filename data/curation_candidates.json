@@ -4127,7 +4127,62 @@
       "duplicate_review": "Absent model/generation checked against the complete 761-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-49.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "T350",
+      "generation": "Original T350 production-road sporting coupe family",
+      "proposed_record": "TVR-T350C-ROAD2002",
+      "reason": "The T350 is a defining compact Speed Six TVR, combining dry-sump straight-six engineering with a light, aerodynamically focused road coupe. Its distinct model programme adds a recognised British specialist performance icon beyond the existing Tuscan, Cerbera and Sagaris.",
+      "evidence": "https://www.tvr.co.uk/models/tvr/t350",
+      "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-50.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "A6",
+      "generation": "A6G/54 twin-cam two-litre production-road GT family",
+      "proposed_record": "MAS-A6G54-ALLEMANO-ROAD1954",
+      "reason": "The A6G/54 marks a formative Maserati road-GT milestone, adapting twin-cam competition-derived six-cylinder engineering for everyday grand touring. The Allemano coupe represents this foundational road family, with sporting significance beyond bespoke coachwork or low production alone.",
+      "evidence": "https://xr793.com/wp-content/uploads/2022/01/2002-Maserati-Coupe-History.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-50.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Mistral",
+      "generation": "Original Mistral production-road six-cylinder GT family",
+      "proposed_record": "MAS-MISTRAL3700-ROAD1969",
+      "reason": "The Mistral closed the classic Maserati straight-six GT lineage with Lucas injection, twin ignition and Pietro Frua’s distinctive fastback design. It adds an influential long-distance sporting coupe family, separate from the existing 3500 GT and later V8 Ghibli.",
+      "evidence": "https://xr793.com/wp-content/uploads/2022/01/2002-Maserati-Coupe-History.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-50.json"
+    },
+    {
+      "manufacturer": "Ariel",
+      "model": "Nomad",
+      "generation": "Original Honda K24 Nomad production-road/on-off-road sports-car family",
+      "proposed_record": "ARI-NOMAD1-K24-ROAD2015",
+      "reason": "The original Nomad translated Ariel’s lightweight exposed-frame sports-car engineering into a distinctive high-performance road and off-road machine. Its long-travel wishbones, integrated safety structure and Honda power give it a landmark identity beyond ordinary SUVs or competition-only buggies.",
+      "evidence": "https://www.arielmotor.co.uk/ariel-vehicles/nomad/",
+      "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-50.json"
+    },
+    {
+      "manufacturer": "Caterham",
+      "model": "Seven",
+      "generation": "Traditional Series 3 Caterham Seven production-road chassis family",
+      "proposed_record": "CAT-SEVEN-S3-R500-DURATEC2008",
+      "reason": "The Duratec Superlight R500 is a defining traditional Caterham Seven performance icon, using extreme lightweight engineering to deliver a celebrated road-driving experience. It represents the narrow Series 3 road family, distinct from the re-engineered independent-suspension CSR already archived.",
+      "evidence": "https://seriouswheels.com/2008-caterham-seven-superlight-r500.htm",
+      "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-50.json"
     }
   ],
-  "catalogue_count_after_batches": 765
+  "catalogue_count_after_batches": 770
 }
