@@ -3346,7 +3346,84 @@
       "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "Giulia Quadrifoglio",
+      "generation": "Modern Type 952 Giulia Quadrifoglio production-road sports-saloon family",
+      "proposed_record": "ALF-GIULIA-952-QV-DE2016-MT",
+      "reason": "The modern Giulia Quadrifoglio revived Alfa’s rear-drive sports-saloon formula with a dedicated twin-turbo V6, active front aerodynamics and a dual-clutch torque-vectoring differential. Its coordinated lightweight and chassis engineering marks a distinct modern performance family.",
+      "evidence": "https://www.media.stellantis.com/de-de/alfa-romeo/press/die-neue-alfa-romeo-giulia-1",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "75",
+      "generation": "Original Type 162B 75 Turbo Evoluzione production-road homologation family",
+      "proposed_record": "ALF-75-TURBO-EVOLUZIONE1987",
+      "reason": "The 75 Turbo Evoluzione embodies Alfa’s road-homologation era, combining a dedicated reduced-capacity turbo engine and aerodynamic package with the marque’s rear-transaxle and de Dion chassis layout. It represents the sporting 75 family rather than an ordinary saloon.",
+      "evidence": "https://www.stellantisheritage.com/it-it/heritage/storie/alfa-romeo-75",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "HSV",
+      "model": "GTS",
+      "generation": "Original GEN-F VF-based GTS supercharged production-road sports-saloon family",
+      "proposed_record": "HSV-GTS-GENF-2013-MT",
+      "reason": "The GEN-F GTS is a defining Australian performance saloon, integrating the supercharged LSA V8 with magnetic damping, brake-based torque vectoring and a substantial brake/cooling package. It represents HSV’s modern engineering flagship rather than a cosmetic Commodore edition.",
+      "evidence": "https://www.hsv.com.au/live/story/hsv-launches-430-kilowatt-gts/d6e1a74f-8559-4c92-852d-c9476be9ad24/",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "HSV",
+      "model": "Commodore SS Group A SV",
+      "generation": "Original VL-based SS Group A production-road homologation saloon family",
+      "proposed_record": "HSV-VL-SS-GROUPA-SV1988",
+      "reason": "The VL SS Group A launched the HSV marque and translated touring-car homologation requirements into a distinctive road saloon. Its reinforced injected V8, dedicated driveline and extensive aerodynamic body package make it a foundational Australian performance icon.",
+      "evidence": "https://www.hsv.com.au/live/story/20-years-of-the-greatest-hits-from-hsv/c6ac60bd-6350-4d4a-bc16-c95e261d96a2/",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "Holden",
+      "model": "Torana",
+      "generation": "LX Torana A9X production-road homologation performance family",
+      "proposed_record": "HOL-TORANA-LX-A9X-SEDAN1977",
+      "reason": "The Torana A9X is a defining Australian road-homologation performance car, coupling the L31 V8 with a heavy-duty driveline and four-wheel braking package. Its road chassis development, recalled by the responsible Holden engineer, distinguishes it from an ordinary Torana and from the separately tuned racing cars.",
+      "evidence": "https://www.tradeuniquecars.com.au/holden-torana-a9x-review",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Falcon",
+      "generation": "XY GT-HO Phase III production-road homologation sports-saloon family",
+      "proposed_record": "FOR-FALCON-XY-GTHOIII-1971",
+      "reason": "The Falcon GT-HO Phase III is a defining Australian homologation-era performance saloon. The original 1971 road test documents the refinements that made it a usable fast road car as well as part of Ford’s Bathurst programme, and the test became an enduring part of Australian motoring culture.",
+      "evidence": "https://www.whichcar.com.au/features/ford-falcon/1971-ford-falcon-gt-ho-phase-3-review",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "155 Q4",
+      "generation": "Original narrow-body Type 167 155 Q4 production-road performance-saloon family",
+      "proposed_record": "ALF-155-Q4-JP185DIN",
+      "reason": "The 155 Q4 is the distinctive turbocharged all-wheel-drive flagship of Alfa’s wedge-shaped sporting-saloon range. Its intercooled sixteen-valve engine, Ferguson centre coupling and Torsen rear differential form a coordinated road-performance package, separate from the ordinary front-drive 155s and the competition cars.",
+      "evidence": "https://carmanualsclub.com/files/2be201657aa9dc47eb4536a7daae61db16f678239f8a83e871167287acf2601a.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-39.json"
     }
   ],
-  "catalogue_count_after_batches": 694
+  "catalogue_count_after_batches": 701
 }

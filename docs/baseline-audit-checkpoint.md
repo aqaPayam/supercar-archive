@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 694 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 701 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 38 reviewed road-icon manifests contain 299 distinct identifiers. Subtracting
+The 39 reviewed road-icon manifests contain 306 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 694 count must not be presented as 694 proven qualifying icons.
+The raw 701 count must not be presented as 701 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -50,6 +50,24 @@ Both existing records are preserved. Their qualifying count remains pending
 the significant-variant boundary. A gearbox choice or distinct generation text
 alone does not justify an additional identity. This source-backed identity
 check does not certify every technical field or photograph in either profile.
+
+## Identity spot-check: S13 Silvia Q’s and K’s
+
+Reviewed 2026-10-29 against the stored source references and both Nissan
+heritage profiles. `NIS-SIL-S13-QS-JP` and `NIS-SIL-S13-KS-JP` represent two
+engine grades within the same fifth-generation S13 programme. Nissan's
+[1988 Q’s reference](https://www.nissan-global.com/EN/HERITAGE_COLLECTION/silvia_qs.html)
+identifies the naturally aspirated CA18DE, while the
+[1989 K’s reference](https://www.nissan-global.com/EN/HERITAGE_COLLECTION/silvia_ks.html)
+identifies the turbocharged CA18DET. Both pages explain the common 1988 S13
+introduction and distinguish the later SR20 engine change.
+
+The different heritage-reference years do not create separate generations.
+The engine/induction difference is substantive, so these are not identical
+technical references either. Both records remain preserved; whether they
+contribute one or two qualifying identities awaits the significant-variant
+boundary. This checks identity and source context, not every specification,
+photograph or provenance claim in either stored profile.
 
 ## Preserved personal-history exception
 
