@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Thirty-two reviewed road-icon batches add 256 cars
-to the 395-record baseline, bringing the working catalogue to 651 records.
-The latest [Japanese performance landmarks batch](docs/icons-road-32.md)
-adds six absent model/generation families, following the
-[Sports-car and sporting-saloon landmarks batch](docs/icons-road-31.md). Individual reviews and
+evidence and licensed photograph. Thirty-three reviewed road-icon batches add 262 cars
+to the 395-record baseline, bringing the working catalogue to 657 records.
+The latest [British and European performance landmarks batch](docs/icons-road-33.md)
+adds six absent road-car families, following the
+[Japanese performance landmarks batch](docs/icons-road-32.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the

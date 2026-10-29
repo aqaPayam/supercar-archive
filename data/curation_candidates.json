@@ -2873,7 +2873,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "GT6",
+      "generation": "Original six-cylinder fastback sports coupe family",
+      "proposed_record": "TRI-GT6-MKI-IT1967",
+      "reason": "The GT6 turned the Spitfire GT idea into a compact six-cylinder fastback, using the Triumph 2000 engine to recover performance lost to the closed body’s extra weight. Its distinctive bonnet bulge and direct rivalry with the MGB GT make it a defining British small GT of the 1960s.",
+      "evidence": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=19",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "Sonett",
+      "generation": "Original Sonett II body family, selected V4 production coupe",
+      "proposed_record": "SAA-SONETT-V4-US1968",
+      "reason": "The Sonett V4 gave Saab a distinctly unconventional sports car, combining front-wheel drive, a freewheel transmission and a fibreglass body over a steel chassis. Its compact V4-powered aerodynamic coupe body and standard roll bars express an individual approach to the small sports-car formula.",
+      "evidence": "https://www.auto-brochures.com/makes/Saab/Sonett/Saab_US%20Sonett_1968.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Matra",
+      "model": "Djet",
+      "generation": "René Bonnet / Matra original mid-engine Djet road family",
+      "proposed_record": "MAT-DJET5-1108",
+      "reason": "The Djet was an early production mid-engine sports-car pioneer, originating with René Bonnet before Matra took over its manufacture. The Djet 5 continued this compact Renault-powered berlinetta and helped establish Matra Sports as a road-car maker. Its importance lies in its pioneering layout rather than outright engine power.",
+      "evidence": "https://www.lanemotormuseum.org/collection/cars/item/matra-djet-5-1965/",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Montecarlo",
+      "generation": "Original Beta Montecarlo / Montecarlo mid-engine road family",
+      "proposed_record": "LAN-MONTECARLO-S2-ROAD",
+      "reason": "The Montecarlo combined Pininfarina’s purpose-designed two-seat body with a transverse mid-mounted Lampredi twin-cam engine. Its architecture and styling formed a foundation for Lancia’s Group 5 Montecarlo and Rally 037 competition projects, giving the road coupe an enduring place in Lancia’s sporting history.",
+      "evidence": "https://www.stellantisheritage.com/fr-fr/heritage/histoires/lancia-beta-montecarlo",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "Firenza",
+      "generation": "HC-derived Firenza HP Droopsnoot performance coupe",
+      "proposed_record": "VAU-FIRENZA-HP-ROAD",
+      "reason": "The Firenza HP Droopsnoot paired distinctive aerodynamic front bodywork with a specially developed slant-four engine and Vauxhall’s first five-speed gearbox. It became a road-going flagship for the marque’s 1970s performance ambitions and Dealer Team Vauxhall era, earning its place beyond the ordinary Firenza and Magnum range.",
+      "evidence": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-firenza-hp-droopsnoot",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Kadett",
+      "generation": "Kadett C GT/E rear-drive sporting coupe family",
+      "proposed_record": "OPE-KADETT-C-GTE-19",
+      "reason": "The Kadett C GT/E revived Opel’s Rallye-Kadett tradition with Bosch fuel injection and a distinctive yellow-and-black road coupe. Its development into the works rally cars driven by Walter Röhrl and Rauno Aaltonen makes this rear-drive GT/E an important European sporting icon, rather than an admission of the ordinary Kadett range.",
+      "evidence": "https://www.media.stellantis.com/de-de/opel/press/50-jahre-opel-kadett-c-der-erfolgstyp-fuer-sport-und-alltag",
+      "duplicate_review": "Absent model/generation checked against the complete 651-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-33.json"
     }
   ],
-  "catalogue_count_after_batches": 651
+  "catalogue_count_after_batches": 657
 }
