@@ -4512,7 +4512,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 796-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-57.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "ATS-V",
+      "generation": "Original ATS-V production-road compact-performance family",
+      "proposed_record": "CAD-ATSV-MAN-US2016",
+      "reason": "The ATS-V introduced twin-turbocharging to Cadillac’s V-Series in a compact, track-capable road programme. Its manual transmission with rev matching, standard electronic limited-slip differential and carbon-fibre vented hood establish a substantive American sporting-saloon landmark beyond an ordinary ATS trim.",
+      "evidence": "https://static.nhtsa.gov/odi/tsbs/2015/MC-10138142-9999.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "CT4-V",
+      "generation": "Original CT4-V Blackwing production-road compact-performance family",
+      "proposed_record": "CAD-CT4V-BLACKWING-MAN2022",
+      "reason": "The CT4-V Blackwing combines a retained six-speed manual with a twin-turbo V6 and highly developed adaptive chassis. Its 2022 Car and Driver 10Best recognition, based on driving feedback and handling, supports its place among exceptional performance saloons rather than routine luxury-car variants.",
+      "evidence": "https://www.caranddriver.com/features/a38260546/10best-2022-cadillac-ct4-v-blackwing/",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Megane",
+      "generation": "Fourth-generation Megane Renault Sport production-road hatchback family",
+      "proposed_record": "REN-MEGANE-IV-TROPHYR-CH2019",
+      "reason": "The fourth-generation Megane Trophy-R carries Renault Sport’s focused hot-hatch tradition into a five-door, two-seat road car. Its rear-seat deletion, lighter rear axle, manual gearbox and Torsen differential make this a substantive lightweight performance programme, distinct from the archived second- and third-generation cars.",
+      "evidence": "https://cdn.group.renault.com/ren/ch/renault-new-cars/brochures/Renault_Megane_RS_Trophy-R_BR_i.pdf.asset.pdf/1569940484584.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "CTS-V",
+      "generation": "Third-generation CTS-V production-road performance-saloon family",
+      "proposed_record": "CAD-CTSV-III-US2016",
+      "reason": "The third CTS-V combined a supercharged V8 with substantial chassis development and a factory-claimed 200-mph maximum speed. Its magnetic damping, carbon-fibre hood and eight-speed transmission represent a significant new generation of Cadillac’s established performance-saloon flagship, beyond the archived earlier CTS-V cars.",
+      "evidence": "https://media.gm.com/content/dam/Media/microsites/product/cts-v/2016_FF_Cadillac%20CTS-V.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "MINI",
+      "model": "Hatch",
+      "generation": "Second modern MINI R56 production-road hatchback generation",
+      "proposed_record": "MIN-JCWGP-R56-REF2012",
+      "reason": "The R56 John Cooper Works GP turns the second modern MINI generation into a focused two-seat road hatch with adjustable coilovers and substantial racing-derived brakes. Its dedicated chassis and aerodynamic development make it an exceptional hot-hatch reference, beyond a cosmetic package of the archived R53 Cooper S.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0131227EN/the-mini-john-cooper-works-gp",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
+    },
+    {
+      "manufacturer": "MINI",
+      "model": "Hatch",
+      "generation": "Third modern MINI F56 production-road hatchback generation",
+      "proposed_record": "MIN-JCWGP-F56-EU2020",
+      "reason": "The F56 John Cooper Works GP takes the third modern MINI generation to a markedly more powerful two-seat road specification. Its mechanical front differential lock, dedicated chassis and extensive engine/cooling development make it an exceptional performance hatch, with substantive engineering beyond cosmetic GP styling.",
+      "evidence": "https://www.press.bmwgroup.com/deutschland/article/detail/T0302703DE/der-neue-mini-john-cooper-works-gp",
+      "duplicate_review": "Absent model/generation checked against the complete 800-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-58.json"
     }
   ],
-  "catalogue_count_after_batches": 800
+  "catalogue_count_after_batches": 806
 }

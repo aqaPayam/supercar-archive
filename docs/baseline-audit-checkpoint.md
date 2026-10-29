@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 800 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 806 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 57 reviewed road-icon manifests contain 405 distinct identifiers. Subtracting
+The 58 reviewed road-icon manifests contain 411 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 800 count must not be presented as 800 proven qualifying icons.
+The raw 806 count must not be presented as 806 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -256,3 +256,40 @@ review of the baseline, resolution of the variant/racing boundaries and checks
 of technical provenance, road/competition separation and representative image
 licensing. Neither the absence of identical strings nor passing import tests
 proves these historical and editorial requirements.
+
+
+## Baseline road-car review: BMW M1 E26
+
+Reviewed 2026-10-29. A full-inventory M1/E26/Procar identity search returns only
+`BMW-M1-E26-ROAD`. BMW's [2008 historical release](https://www.press.bmwgroup.com/usa/article/detail/T0017968EN_US/icons-for-connoisseurs-thirty-years-of-the-bmw-m1?language=en_US)
+supports its road-homologation significance. The production-road table and prose
+match the nine linked engine, transmission, acceleration, dimension and brake
+attributes and five engineering facts; race specifications are not transferred.
+All thirteen linked attribute mappings and six fact mappings resolve correctly.
+Three research-coverage statements remain explicitly unverified.
+
+The [2018 BMW M retrospective](https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m1-from-procar-to-icon.html)
+retains different combined-production and approximate-speed contexts. The
+[Classic catalogue](https://www.bmwgroup-classic.com/de/modelle/bmw-klassiker/product-description-page.ad-234-1.bmw-m1-e26-strassenversion.html)
+repeats its structured speed field, but carries an AI disclosure; its descriptive
+prose is not independent corroboration. No definitive production total or uniform
+speed measurement is newly certified.
+
+Fact 819 followed BMW's historical text in calling the designer “Giorgio
+Giugiaro”. After the six-addition regression run completed, the name was corrected
+to **Giorgetto Giugiaro**, using the designer's own
+[M1 portfolio](https://www.giorgettofabriziogiugiaro.it/projects/vehicles/m1).
+Only that fact's explanation and two source-link fields change; one source is
+appended. Every other row, car count, candidate entry and image is unchanged.
+The portfolio's production/regulation descriptions are not adopted. Exact before/
+after row comparison, source-linked website export, integrity and foreign keys
+verify the correction. Import/startup logic and schemas do not change.
+
+All three stored JPEGs are byte-identical to current Commons renditions, their
+creators and exact CC BY-SA versions are confirmed, and each was visually read:
+[red road car](https://commons.wikimedia.org/wiki/File:1981_BMW_M1_(255_BMW)_(2).jpg),
+[white road car](https://commons.wikimedia.org/wiki/File:1981_BMW_M1_rear.JPG) and
+[rear compartment](https://commons.wikimedia.org/wiki/File:BMW_M1_Rear_compartment.JPG).
+Existing captions retain market/modified-equipment limits; the compartment image
+does not certify factory engine equipment. Assets, counts and all other evidence
+remain unchanged. This bounded review is not completion of the baseline audit.
