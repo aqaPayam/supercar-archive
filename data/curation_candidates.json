@@ -2401,7 +2401,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 606-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-22.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "8 Series",
+      "generation": "E31 original Motorsport-developed 850 CSi road coupe",
+      "proposed_record": "BMW-850CSI-E31-1993",
+      "reason": "The 850 CSi represents BMW Motorsport’s distinctive V12 grand-touring flagship of the E31 era. Its substantially reworked S70 engine, six-speed manual transmission and developed chassis made it an engineering-led sporting coupe, with the European active rear-axle system adding a significant step in BMW’s handling technology.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-850-csi-e31.html",
+      "duplicate_review": "Absent model/generation checked against the complete 610-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-23.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Corrado",
+      "generation": "Original Type 53i G-Lader sports coupe",
+      "proposed_record": "VW-CORRADO-G60-DE1988",
+      "reason": "The Corrado G60 established a distinctive Volkswagen sports-coupe identity through its compact Karmann-built body, G-Lader supercharged engine and automatically extending rear spoiler. Its engineering and packaging went beyond a Golf trim or Scirocco rebadge, making the original G60 a landmark in Volkswagen’s sporting road-car history.",
+      "evidence": "https://www.volkswagen-newsroom.com/en/corrado-19881995-19683",
+      "duplicate_review": "Absent model/generation checked against the complete 610-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-23.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Manta",
+      "generation": "Manta B 400 original 2.4-litre road homologation coupe",
+      "proposed_record": "OPE-MANTA400-ROAD-1981",
+      "reason": "The Manta 400 is a significant rear-drive rally homologation road coupe and the successor to Opel’s Ascona 400. Its specialised injected 2.4-litre engine, five-speed transmission and dedicated chassis formed the road foundation for a successful competition lineage, while remaining distinct from the far more powerful rally-prepared cars.",
+      "evidence": "https://www.media.stellantis.com/em-en/opel/press/crowd-pleasers-in-their-second-generation-50-years-of-opel-ascona-b-and-manta-b",
+      "duplicate_review": "Absent model/generation checked against the complete 610-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-23.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Ascona",
+      "generation": "Ascona B 400 original road homologation saloon",
+      "proposed_record": "Original 106-kW road version; image review pending",
+      "reason": "The Ascona 400 road homologation model formed the basis for the rear-drive rally car with which Walter Röhrl won the 1982 world championship.",
+      "evidence": "https://www.media.stellantis.com/em-en/opel/press/crowd-pleasers-in-their-second-generation-50-years-of-opel-ascona-b-and-manta-b",
+      "duplicate_review": "Absent from the complete 610-record pre-batch inventory, including Ascona/400 aliases.",
+      "remaining": "Factory June 1995 technical book page 144 reviewed: 2410 cc, 106 kW, 210 Nm, L-Jetronic, five-speed and road chassis. Resolve a licensed representative road-body photograph; reviewed search results depict rally-prepared cars or replicas. Do not copy Manta performance figures into blank Ascona fields. Closest candidate File:1981 Opel Ascona 400 Rally.jpg was visually inspected: liveried Goodwood rally car with roll cage, competition cabin and bonnet-open engine view. It is not a representative of the selected standard injected road specification.",
+      "status": "Research only; not imported or counted"
     }
   ],
-  "catalogue_count_after_batches": 610
+  "catalogue_count_after_batches": 613
 }
