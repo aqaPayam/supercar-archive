@@ -3742,7 +3742,117 @@
       "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S8",
+      "generation": "Original D2 / Typ 4D S8 aluminium performance-saloon family",
+      "proposed_record": "AUD-S8-D2-US2001",
+      "reason": "The D2 S8 made aluminium construction, quattro traction and a tuned V8 into an enduring discreet performance saloon.",
+      "evidence": "https://www.roadandtrack.com/new-cars/first-drives/reviews/a9261/2001-audi-s8/",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Ascona",
+      "generation": "Ascona B 400 production-road rally-homologation saloon family",
+      "proposed_record": "OPE-ASCONA-B400-ROAD1979",
+      "reason": "The Ascona 400 is a defining rear-drive rally homologation saloon, providing the road foundation for Opel’s 1982 world championship programme. Its Cosworth-developed multivalve engine and dedicated road hardware make it a motorsport-led performance icon.",
+      "evidence": "https://www.media.stellantis.com/de-de/opel/press/publikumsrenner-in-zweiter-generation-50-jahre-opel-ascona-b-und-manta-b",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Shamal",
+      "generation": "AM339 Shamal production-road twin-turbo V8 coupe family",
+      "proposed_record": "MAS-SHAMAL-AM339-1990",
+      "reason": "The Shamal is a landmark Gandini-designed Maserati performance coupe with a new twin-turbo V8 and six-speed transmission. Its substantially new body and powertrain established a distinct road programme beyond the earlier Biturbo already archived.",
+      "evidence": "https://www.maserati.com/it/it/brand/auto-storiche/biturbo-derivati/shamal",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Ghibli",
+      "generation": "Second-generation AM336 Ghibli production-road performance-coupe family",
+      "proposed_record": "MAS-GHIBLI-II-CUP2L-1995",
+      "reason": "The road-going Ghibli Cup translated Maserati’s Open Cup development into a focused twin-turbo performance coupe. It represents the distinctive second-generation Ghibli road family, separate from the original AM115 grand tourer already archived.",
+      "evidence": "https://www.maserati.com/it/it/brand/auto-storiche/biturbo-derivati/ghibli-cup",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Chrysler",
+      "model": "300 letter series / C-300",
+      "generation": "Original 1955 C-300 performance hardtop family",
+      "proposed_record": "CHR-C300-LETTER1955",
+      "reason": "The original C-300 established Chrysler’s letter-car performance identity with a dual-quad FirePower V8 and substantial chassis hardware. Its competition-linked high-performance heritage makes it a foundational American muscle and grand-touring icon.",
+      "evidence": "https://blog.stellantisnorthamerica.com/2023/12/09/last-legend-off-the-line-2023-chrysler-300c-ends-production/",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Chrysler",
+      "model": "300 / 300C",
+      "generation": "First modern-generation LX 300C SRT8 production-road performance-saloon family",
+      "proposed_record": "CHR-300C-SRT8-US2005",
+      "reason": "The first modern 300C SRT8 revived Chrysler’s big performance-saloon tradition through a dedicated HEMI engine and major chassis and braking changes. Its distinctive muscular saloon identity makes it a recognised American performance icon beyond a luxury trim grade.",
+      "evidence": "https://seriouswheels.com/2005-chrysler-300c-srt-8.htm",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Charger",
+      "generation": "Modern four-door Charger SRT Hellcat production-road family, 2015 facelift reference",
+      "proposed_record": "DOD-CHARGER-HELLCAT-CA2015",
+      "reason": "The original Charger Hellcat brought an exceptional supercharged HEMI powertrain to a production four-door muscle car. Its influential high-output saloon identity is distinct from the 1969 Daytona coupe already archived and from ordinary modern Charger grades.",
+      "evidence": "https://www.centuryu.com/uploads/1/4/4/6/144698822/2015_charger_srt.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "Firebird / Trans Am",
+      "generation": "Third-generation Firebird performance family, Buick-derived turbo V6 road reference",
+      "proposed_record": "PON-FIREBIRD-TURBO-TTA1989",
+      "reason": "The turbocharged 1989 Trans Am brought Buick-derived V6 performance to the third-generation Firebird, becoming a standout late-1980s American muscle car.",
+      "evidence": "https://www.caranddriver.com/reviews/a60370823/1989-pontiac-20th-anniversary-trans-am-archive-test/",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "Third-generation Camaro IROC-Z production-road performance-coupe family",
+      "proposed_record": "CHE-CAMARO-IROCZ-LB9-1985",
+      "reason": "The original IROC-Z established an enduring third-generation Camaro performance identity through tuned-port V8 power and dedicated chassis equipment. Its recognisable road programme earns inclusion alongside other Camaro generations, rather than as a cosmetic edition or duplicate engine grade.",
+      "evidence": "https://news.chevrolet.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1985-Chevrolet-Camaro.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "Chevette",
+      "generation": "Chevette HS 2300 production-road rally-homologation family",
+      "proposed_record": "VAU-CHEVETTE-HS-MUSEUM1979",
+      "reason": "The Chevette HS is a defining British rally homologation hot hatch whose road-going slant-four engine and widened body established a lasting Vauxhall competition identity. It represents the HS road family, with later HSR and rally-only hardware kept separate.",
+      "evidence": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=100575636376",
+      "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-45.json"
     }
   ],
-  "catalogue_count_after_batches": 730
+  "catalogue_count_after_batches": 740
 }

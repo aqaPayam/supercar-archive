@@ -1,0 +1,1138 @@
+{
+  "batch": "icons-road-2026-10-29-45",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 10,
+  "cars": [
+    {
+      "id": "AUD-S8-D2-US2001",
+      "manufacturer": "Audi",
+      "model_family": "S8",
+      "generation": "Original D2 / Typ 4D S8 aluminium performance-saloon family",
+      "variant": "S8 — 2001 US first-hand driving reference",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "US 2001 reference; online article dated 2012. Early D2 outputs and D3 V10 specifications excluded.",
+      "summary": "The D2 S8 made aluminium construction, quattro traction and a tuned V8 into an enduring discreet performance saloon.",
+      "admission_reason": "The D2 S8 made aluminium construction, quattro traction and a tuned V8 into an enduring discreet performance saloon.",
+      "sources": [
+        {
+          "publisher": "Road & Track",
+          "title": "2001 Audi S8 — Sam Mitani first-hand drive",
+          "source_type": "First-hand vehicle driving report",
+          "url": "https://www.roadandtrack.com/new-cars/first-drives/reviews/a9261/2001-audi-s8/",
+          "notes": "US 2001 reference; online article dated 2012. Early D2 outputs and D3 V10 specifications excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi S8 (D2) Washington DC Metro Area, USA.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_S8_(D2)_Washington_DC_Metro_Area,_USA.jpg",
+          "notes": "OWS Photography; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed Tiptronic automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium spaceframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "40",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "US quoted output",
+          "value": "360",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The D2 S8 made aluminium construction, quattro traction and a tuned V8 into an enduring discreet performance saloon.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_s8_d2_us2001.jpg",
+          "caption": "Audi S8 D2 photographed in the Washington DC area, illustrating the aluminium performance-saloon family. Appearance does not establish an exact model year or the selected US engine tune.",
+          "creator": "OWS Photography",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d7c3ede77c4a7fa5ec584887f759aa81d7741ab54177d9176d3ff38a7e8451fc"
+        }
+      ]
+    },
+    {
+      "id": "OPE-ASCONA-B400-ROAD1979",
+      "manufacturer": "Opel",
+      "model_family": "Ascona",
+      "generation": "Ascona B 400 production-road rally-homologation saloon family",
+      "variant": "400 — 1979 106-kW road reference",
+      "model_year_from": 1979,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door rally-homologation saloon",
+      "road_legal": 1,
+      "specification_market": "Factory history separates the 1979 106-kW road version from the 191-kW rally car. Road gearbox has five speeds; no race transmission, tune or unverified production total is imported. Related Manta B 400 is a separate named coupe programme, not a market-badge alias.",
+      "summary": "The Ascona 400 is a defining rear-drive rally homologation saloon, providing the road foundation for Opel’s 1982 world championship programme. Its Cosworth-developed multivalve engine and dedicated road hardware make it a motorsport-led performance icon.",
+      "admission_reason": "The Ascona 400 is a defining rear-drive rally homologation saloon, providing the road foundation for Opel’s 1982 world championship programme. Its Cosworth-developed multivalve engine and dedicated road hardware make it a motorsport-led performance icon.",
+      "sources": [
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "50 Jahre Opel Ascona B und Manta B — Ascona 400 road/rally development",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.media.stellantis.com/de-de/opel/press/publikumsrenner-in-zweiter-generation-50-jahre-opel-ascona-b-und-manta-b",
+          "notes": "Factory history separates the 1979 106-kW road version from the 191-kW rally car. Road gearbox has five speeds; no race transmission, tune or unverified production total is imported. Related Manta B 400 is a separate named coupe programme, not a market-badge alias."
+        },
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "Anno 1981: Opel Ascona 400 vince il Campionato Italiano Rally",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.media.stellantis.com/it-it/opel/press/anno-1981-opel-ascona-400-vince-il-campionato-italiano-rally",
+          "notes": "Road engine paragraph identifies four cylinders, 2410 cc, sixteen valves and Cosworth development. Conrero racing outputs and the later six-speed race gearbox are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ascona (23695711888).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ascona_(23695711888).jpg",
+          "notes": "Triple-green; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Ascona"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "106",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Rear disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2410",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "16",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Ascona 400 is a defining rear-drive rally homologation saloon, providing the road foundation for Opel’s 1982 world championship programme. Its Cosworth-developed multivalve engine and dedicated road hardware make it a motorsport-led performance icon.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_ascona_b400_road1979.jpg",
+          "caption": "Competition-prepared Opel Ascona displayed in rally livery. This motorsport-family illustration is not a photograph of a standard 106-kW road-going Ascona 400 and provides no evidence of road gearbox, engine tune or factory body condition.",
+          "creator": "Triple-green",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ed5d15c4bfcd4d36143a25f33843ea01b12aa3a8b6d363f286efac4af46a867c"
+        }
+      ]
+    },
+    {
+      "id": "MAS-SHAMAL-AM339-1990",
+      "manufacturer": "Maserati",
+      "model_family": "Shamal",
+      "generation": "AM339 Shamal production-road twin-turbo V8 coupe family",
+      "variant": "Shamal — factory 1990 production reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat performance coupe",
+      "road_legal": 1,
+      "specification_market": "Factory AM339 page selects production beginning in 1990, not an independently unverified 1989 launch date. Its shortened Biturbo Spyder platform does not make this new V8/body programme a cosmetic edition; factory describes all-new bodywork except the doors. No inferred torque or acceleration is added.",
+      "summary": "The Shamal is a landmark Gandini-designed Maserati performance coupe with a new twin-turbo V8 and six-speed transmission. Its substantially new body and powertrain established a distinct road programme beyond the earlier Biturbo already archived.",
+      "admission_reason": "The Shamal is a landmark Gandini-designed Maserati performance coupe with a new twin-turbo V8 and six-speed transmission. Its substantially new body and powertrain established a distinct road programme beyond the earlier Biturbo already archived.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Shamal — AM339 historical model and technical specification",
+          "source_type": "Manufacturer historical model catalogue",
+          "url": "https://www.maserati.com/it/it/brand/auto-storiche/biturbo-derivati/shamal",
+          "notes": "Factory AM339 page selects production beginning in 1990, not an independently unverified 1989 launch date. Its shortened Biturbo Spyder platform does not make this new V8/body programme a cosmetic edition; factory describes all-new bodywork except the doors. No inferred torque or acceleration is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Maserati Shamal (24127695833).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Maserati_Shamal_(24127695833).jpg",
+          "notes": "Marco 56 , edited by Cloverleaf II; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: ROMA 6H0621"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3217",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Four overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Getrag six-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Marcello Gandini",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "32",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output at 6000 rpm",
+          "value": "326",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Shamal is a landmark Gandini-designed Maserati performance coupe with a new twin-turbo V8 and six-speed transmission. Its substantially new body and powertrain established a distinct road programme beyond the earlier Biturbo already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_shamal_am339_1990.jpg",
+          "caption": "Maserati Shamal road coupe. The photograph illustrates Gandini’s distinctive body design and does not establish an individual production year or current engine specification.",
+          "creator": "Marco 56 , edited by Cloverleaf II",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bbdb66d8b976b45ea4a5d1336d0acee48ed78d5ce9c93059a5eb42c517f874ce"
+        }
+      ]
+    },
+    {
+      "id": "MAS-GHIBLI-II-CUP2L-1995",
+      "manufacturer": "Maserati",
+      "model_family": "Ghibli",
+      "generation": "Second-generation AM336 Ghibli production-road performance-coupe family",
+      "variant": "Ghibli Cup 2.0 — December 1995 road introduction reference",
+      "model_year_from": 1995,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door performance coupe",
+      "road_legal": 1,
+      "specification_market": "Factory page identifies December 1995 Bologna road introduction. Selected 2.0-litre road Cup only; no Open Cup racer, 2.8-litre export engine, unprinted gearbox or inferred peak torque is imported. Factory gives a broad torque range, not one peak-rpm point.",
+      "summary": "The road-going Ghibli Cup translated Maserati’s Open Cup development into a focused twin-turbo performance coupe. It represents the distinctive second-generation Ghibli road family, separate from the original AM115 grand tourer already archived.",
+      "admission_reason": "The road-going Ghibli Cup translated Maserati’s Open Cup development into a focused twin-turbo performance coupe. It represents the distinctive second-generation Ghibli road family, separate from the original AM115 grand tourer already archived.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Ghibli Cup — AM336 historical road model and technical specification",
+          "source_type": "Manufacturer historical model catalogue",
+          "url": "https://www.maserati.com/it/it/brand/auto-storiche/biturbo-derivati/ghibli-cup",
+          "notes": "Factory page identifies December 1995 Bologna road introduction. Selected 2.0-litre road Cup only; no Open Cup racer, 2.8-litre export engine, unprinted gearbox or inferred peak torque is imported. Factory gives a broad torque range, not one peak-rpm point."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1997 Maserati Ghibli Cup LC25.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1997_Maserati_Ghibli_Cup_LC25.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lowered and stiffened road suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Drilled front brake discs with Brembo calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "24",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output at 6500 rpm",
+          "value": "330",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The road-going Ghibli Cup translated Maserati’s Open Cup development into a focused twin-turbo performance coupe. It represents the distinctive second-generation Ghibli road family, separate from the original AM115 grand tourer already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_ghibli_ii_cup2l_1995.jpg",
+          "caption": "Maserati Ghibli Cup identified as a 1997 car at the 2025 London Concours. This later road-family example does not establish the selected December 1995 introduction specification or present mechanical condition; it is not an Open Cup race car.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "42b2b9bbe3e8f849ba7395cbf8d199e4293b6fda355bdab20043f5019afd0a46"
+        }
+      ]
+    },
+    {
+      "id": "CHR-C300-LETTER1955",
+      "manufacturer": "Chrysler",
+      "model_family": "300 letter series / C-300",
+      "generation": "Original 1955 C-300 performance hardtop family",
+      "variant": "C-300 — original CS339 2-55 brochure reference",
+      "model_year_from": 1955,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop sports coupe",
+      "road_legal": 1,
+      "specification_market": "Original brochure CS339 2-55: all three physical PDF pages rendered and read. Preserve native cubic inches and horsepower. No inferred transmission speed count, later letter-series engine or modern acceleration claim is imported.",
+      "summary": "The original C-300 established Chrysler’s letter-car performance identity with a dual-quad FirePower V8 and substantial chassis hardware. Its competition-linked high-performance heritage makes it a foundational American muscle and grand-touring icon.",
+      "admission_reason": "The original C-300 established Chrysler’s letter-car performance identity with a dual-quad FirePower V8 and substantial chassis hardware. Its competition-linked high-performance heritage makes it a foundational American muscle and grand-touring icon.",
+      "sources": [
+        {
+          "publisher": "Chrysler / Over-Drive Magazine hosted facsimile",
+          "title": "Chrysler C-300 — original brochure CS339 2-55, specification back page",
+          "source_type": "Original manufacturer sales and technical brochure, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2022/09/1955-C-300-FO-Brochure-1-4.pdf",
+          "notes": "Original brochure CS339 2-55: all three physical PDF pages rendered and read. Preserve native cubic inches and horsepower. No inferred transmission speed count, later letter-series engine or modern acceleration claim is imported."
+        },
+        {
+          "publisher": "Stellantis North America",
+          "title": "Last Legend Off the Line: 2023 Chrysler 300C Ends Production — 1955 origin paragraph",
+          "source_type": "Manufacturer historical account",
+          "url": "https://blog.stellantisnorthamerica.com/2023/12/09/last-legend-off-the-line-2023-chrysler-300c-ends-production/",
+          "notes": "Factory historical account links the original 1955 C-300 to the letter-car performance lineage and competition. Later 1957 engine and final 2023 car specifications are not transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1955 Chrysler C-300 (15111629072).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1955_Chrysler_C-300_(15111629072).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1955 Chrysler C-300"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree FirePower V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "PowerFlite fully automatic transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two four-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Special lowered springs and heavy-duty dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted hydraulic internal-expanding brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "331.1",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output at 5200 rpm",
+          "value": "300",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion chamber",
+          "value": "Hemispherical",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original C-300 established Chrysler’s letter-car performance identity with a dual-quad FirePower V8 and substantial chassis hardware. Its competition-linked high-performance heritage makes it a foundational American muscle and grand-touring icon.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_chr_c300_letter1955.jpg",
+          "caption": "Chrysler C-300 identified as a 1955 car at a 2014 collectors’ show. This representative hardtop does not certify original carburettors, engine output, restoration details or current running condition.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "67e094bffa275fef4f2e67553a2999cab99079757c52199eb774268f8f0c58c2"
+        }
+      ]
+    },
+    {
+      "id": "CHR-300C-SRT8-US2005",
+      "manufacturer": "Chrysler",
+      "model_family": "300 / 300C",
+      "generation": "First modern-generation LX 300C SRT8 production-road performance-saloon family",
+      "variant": "300C SRT8 — original 2005 US company-release reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Full explicitly labelled DaimlerChrysler press-release reprint read. Use the original US 2005 6.1-litre reference, not the later 6.4-litre generation or 2023 300C. Preliminary acceleration estimates and secondary compiled tables are excluded.",
+      "summary": "The first modern 300C SRT8 revived Chrysler’s big performance-saloon tradition through a dedicated HEMI engine and major chassis and braking changes. Its distinctive muscular saloon identity makes it a recognised American performance icon beyond a luxury trim grade.",
+      "admission_reason": "The first modern 300C SRT8 revived Chrysler’s big performance-saloon tradition through a dedicated HEMI engine and major chassis and braking changes. Its distinctive muscular saloon identity makes it a recognised American performance icon beyond a luxury trim grade.",
+      "sources": [
+        {
+          "publisher": "DaimlerChrysler / Serious Wheels hosted reprint",
+          "title": "2005 Chrysler 300C SRT-8 — DaimlerChrysler original press release, full reprint",
+          "source_type": "Original manufacturer press release, hosted reprint",
+          "url": "https://seriouswheels.com/2005-chrysler-300c-srt-8.htm",
+          "notes": "Full explicitly labelled DaimlerChrysler press-release reprint read. Use the original US 2005 6.1-litre reference, not the later 6.4-litre generation or 2023 300C. Preliminary acceleration estimates and secondary compiled tables are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2006 Chrysler 300C (MY06) SRT-8 sedan (25646557983).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2006_Chrysler_300C_(MY06)_SRT-8_sedan_(25646557983).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Chrysler 300C SRT8"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "HEMI V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.1",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "A580 five-speed AutoStick automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo four-piston calipers and ventilated discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "SRT-tuned dampers, springs and anti-roll bars; lowered 0.5 inch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Company quoted US output",
+          "value": "425",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Company quoted US torque",
+          "value": "420",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first modern 300C SRT8 revived Chrysler’s big performance-saloon tradition through a dedicated HEMI engine and major chassis and braking changes. Its distinctive muscular saloon identity makes it a recognised American performance icon beyond a luxury trim grade.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_chr_300c_srt8_us2005.jpg",
+          "caption": "Chrysler 300C SRT8 identified as a 2006 MY06 saloon in Australia. It illustrates the first modern SRT8 family; it is not evidence of the selected US 2005 market equipment or present mechanical condition.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "888079ddaff89a2989497a14868f5ab236b30617f9e641a0e052f21ab6f6401c"
+        }
+      ]
+    },
+    {
+      "id": "DOD-CHARGER-HELLCAT-CA2015",
+      "manufacturer": "Dodge",
+      "model_family": "Charger",
+      "generation": "Modern four-door Charger SRT Hellcat production-road family, 2015 facelift reference",
+      "variant": "SRT Hellcat — 2015 Canadian factory brochure reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door supercharged performance saloon",
+      "road_legal": 1,
+      "specification_market": "Both actual Canadian factory brochure pages rendered/read, using the right-hand Hellcat equipment column. Adjacent SRT 392 6.4-litre/485-hp hardware, its 3.09 axle, later Widebody/Redeye specifications and Challenger manual transmission are excluded. The 340-km/h speedometer is not a maximum-speed claim.",
+      "summary": "The original Charger Hellcat brought an exceptional supercharged HEMI powertrain to a production four-door muscle car. Its influential high-output saloon identity is distinct from the 1969 Daytona coupe already archived and from ordinary modern Charger grades.",
+      "admission_reason": "The original Charger Hellcat brought an exceptional supercharged HEMI powertrain to a production four-door muscle car. Its influential high-output saloon identity is distinct from the 1969 Daytona coupe already archived and from ordinary modern Charger grades.",
+      "sources": [
+        {
+          "publisher": "Dodge / Chrysler Canada, dealer-hosted facsimile",
+          "title": "2015 Dodge Charger SRT — original Canadian two-page factory brochure, Hellcat column",
+          "source_type": "Original manufacturer sales and technical brochure, hosted facsimile",
+          "url": "https://www.centuryu.com/uploads/1/4/4/6/144698822/2015_charger_srt.pdf",
+          "notes": "Both actual Canadian factory brochure pages rendered/read, using the right-hand Hellcat equipment column. Adjacent SRT 392 6.4-litre/485-hp hardware, its 3.09 axle, later Widebody/Redeye specifications and Challenger manual transmission are excluded. The 340-km/h speedometer is not a maximum-speed claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Dodge Charger SRT Hellcat (16443746199).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Dodge_Charger_SRT_Hellcat_(16443746199).jpg",
+          "notes": "artistmac; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: 2015 Dodge Charger SRT Hellcat"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "HEMI V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "TorqueFlite eight-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Competition suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Vented hood with dual heat extractors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Canadian brochure quoted output",
+          "value": "707",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Canadian brochure quoted torque",
+          "value": "650",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio",
+          "value": "2.62:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Charger Hellcat brought an exceptional supercharged HEMI powertrain to a production four-door muscle car. Its influential high-output saloon identity is distinct from the 1969 Daytona coupe already archived and from ordinary modern Charger grades.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_charger_hellcat_ca2015.jpg",
+          "caption": "Dodge Charger SRT Hellcat identified as a 2015 car, photographed at a motor show. Appearance does not establish Canadian-market equipment or measured performance; the photographer’s performance estimates are not used as technical evidence.",
+          "creator": "artistmac",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "54c9bf671d426e5f0c197808214d99099143be924ec7fafab2769d8633c58f19"
+        }
+      ]
+    },
+    {
+      "id": "PON-FIREBIRD-TURBO-TTA1989",
+      "manufacturer": "Pontiac",
+      "model_family": "Firebird / Trans Am",
+      "generation": "Third-generation Firebird performance family, Buick-derived turbo V6 road reference",
+      "variant": "20th Anniversary Turbo Trans Am — 1989 period-test reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Three-door performance coupe",
+      "road_legal": 1,
+      "specification_market": "Csaba Csere’s June 1989 test and specification table. Road specification; no inferred higher output.",
+      "summary": "The turbocharged 1989 Trans Am brought Buick-derived V6 performance to the third-generation Firebird, becoming a standout late-1980s American muscle car.",
+      "admission_reason": "The turbocharged 1989 Trans Am brought Buick-derived V6 performance to the third-generation Firebird, becoming a standout late-1980s American muscle car.",
+      "sources": [
+        {
+          "publisher": "Car and Driver",
+          "title": "1989 Pontiac 20th Anniversary Trans Am — June 1989 first-hand test",
+          "source_type": "Original contemporary first-hand road test, archive republication",
+          "url": "https://www.caranddriver.com/reviews/a60370823/1989-pontiac-20th-anniversary-trans-am-archive-test/",
+          "notes": "Csaba Csere’s June 1989 test and specification table. Road specification; no inferred higher output."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989 Turbo Trans Am 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1989_Turbo_Trans_Am_1.jpg",
+          "notes": "Brian Lynch; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger and intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period quoted output",
+          "value": "250",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The turbocharged 1989 Trans Am brought Buick-derived V6 performance to the third-generation Firebird, becoming a standout late-1980s American muscle car.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pon_firebird_turbo_tta1989.jpg",
+          "caption": "White 1989 Turbo Trans Am road-family example. Appearance does not establish current engine tune or certify the selected period-test specification.",
+          "creator": "Brian Lynch",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9315b490f799c762fd6084866d5428c28aa57d5a89790f2000ecff94a55fa052"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CAMARO-IROCZ-LB9-1985",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "Third-generation Camaro IROC-Z production-road performance-coupe family",
+      "variant": "IROC-Z LB9 Tuned Port Injection — 1985 automatic reference",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door performance coupe with rear hatch",
+      "road_legal": 1,
+      "specification_market": "Original GM archive actual physical pages 26 and 37 establish the LB9 automatic power team and January 1985 IROC order-guide equipment; page 108 shows IROC body/wheel equipment. Conflicting transmission labels elsewhere are not used for speed count or gearbox identity. No carburetted L69, base LG4, later 5.7-litre engine or LB9 manual is imported.",
+      "summary": "The original IROC-Z established an enduring third-generation Camaro performance identity through tuned-port V8 power and dedicated chassis equipment. Its recognisable road programme earns inclusion alongside other Camaro generations, rather than as a cosmetic edition or duplicate engine grade.",
+      "admission_reason": "The original IROC-Z established an enduring third-generation Camaro performance identity through tuned-port V8 power and dedicated chassis equipment. Its recognisable road programme earns inclusion alongside other Camaro generations, rather than as a cosmetic edition or duplicate engine grade.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors Heritage Archive",
+          "title": "1985 Chevrolet Camaro — original power-team chart, revised order guide and IROC-Z equipment",
+          "source_type": "Original manufacturer technical and sales archive",
+          "url": "https://news.chevrolet.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1985-Chevrolet-Camaro.pdf",
+          "notes": "Original GM archive actual physical pages 26 and 37 establish the LB9 automatic power team and January 1985 IROC order-guide equipment; page 108 shows IROC body/wheel equipment. Conflicting transmission labels elsewhere are not used for speed count or gearbox identity. No carburetted L69, base LG4, later 5.7-litre engine or LB9 manual is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:'85 Chevrolet Camaro IROC-Z (Auto classique VAQ St-Lambert '12).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:%2785_Chevrolet_Camaro_IROC-Z_(Auto_classique_VAQ_St-Lambert_%2712).jpg",
+          "notes": "Bull-Doser at English Wikipedia; Public domain. Public-domain dedication by the creator (PD-self; All Rights Released), documented on the source page. Credit: Own work ."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LB9 90-degree overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Tuned Port Fuel Injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Automatic with overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "IROC-Z Ride and Handling suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "P245/50VR16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted SAE-net output at 4400 rpm",
+          "value": "215",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted torque at 3200 rpm",
+          "value": "275",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original IROC-Z established an enduring third-generation Camaro performance identity through tuned-port V8 power and dedicated chassis equipment. Its recognisable road programme earns inclusion alongside other Camaro generations, rather than as a cosmetic edition or duplicate engine grade.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_irocz_lb9_1985.jpg",
+          "caption": "Chevrolet Camaro IROC-Z identified as a 1985 car, photographed at a 2012 Quebec show. The visible striping and body do not identify its engine or certify the selected LB9 automatic power team; factory originality is not asserted.",
+          "creator": "Bull-Doser at English Wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2767e5df7a7a877de2ee1512623fc8b8901c63adbf4c46b8213594ce7d3f9488"
+        }
+      ]
+    },
+    {
+      "id": "VAU-CHEVETTE-HS-MUSEUM1979",
+      "manufacturer": "Vauxhall",
+      "model_family": "Chevette",
+      "generation": "Chevette HS 2300 production-road rally-homologation family",
+      "variant": "HS 2300 — 1979 Vauxhall Heritage collection reference",
+      "model_year_from": 1979,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door rally-homologation hot hatch",
+      "road_legal": 1,
+      "specification_market": "Museum’s own 1979 HS 2300 record, Vauxhall Heritage Collection L2021-130 on private loan. Nominal 2.3 litres follows the descriptive text; anomalous 2379-cc table entry is omitted. No unprinted valve layout, gearbox speed count or rally-only Lotus head/ZF gearbox is inferred.",
+      "summary": "The Chevette HS is a defining British rally homologation hot hatch whose road-going slant-four engine and widened body established a lasting Vauxhall competition identity. It represents the HS road family, with later HSR and rally-only hardware kept separate.",
+      "admission_reason": "The Chevette HS is a defining British rally homologation hot hatch whose road-going slant-four engine and widened body established a lasting Vauxhall competition identity. It represents the HS road family, with later HSR and rally-only hardware kept separate.",
+      "sources": [
+        {
+          "publisher": "British Motor Museum / Vauxhall Heritage Collection",
+          "title": "Chevette HS 2300, 1979 — Vauxhall Heritage Collection L2021-130",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=100575636376",
+          "notes": "Museum’s own 1979 HS 2300 record, Vauxhall Heritage Collection L2021-130 on private loan. Nominal 2.3 litres follows the descriptive text; anomalous 2379-cc table entry is omitted. No unprinted valve layout, gearbox speed count or rally-only Lotus head/ZF gearbox is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1979 Vauxhall Chevette HS 2300 BS O24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1979_Vauxhall_Chevette_HS_2300_BS_O24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Slant four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Getrag gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "185",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wing extensions",
+          "value": "Extended wheel arches",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted road output",
+          "value": "135",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Chevette HS is a defining British rally homologation hot hatch whose road-going slant-four engine and widened body established a lasting Vauxhall competition identity. It represents the HS road family, with later HSR and rally-only hardware kept separate.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_chevette_hs_museum1979.jpg",
+          "caption": "Vauxhall Chevette HS identified as a 1979 car at Bicester Scramble in 2024. This road-family illustration is not identified as the museum’s L2021-130 car and does not establish original engine or gearbox condition.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "47e7cbd5a651f88a9e6244fd94809a96c2a2de678ae79bb6d2965d07c81090e8"
+        }
+      ]
+    }
+  ]
+}
