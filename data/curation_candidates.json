@@ -2609,7 +2609,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 625-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-27.json"
+    },
+    {
+      "manufacturer": "Alpine",
+      "model": "A310",
+      "generation": "Original A310 V6 road coupe",
+      "proposed_record": "ALP-A310-V6-EARLY4MT",
+      "reason": "The A310 carried Alpine beyond the compact A110 into the sporting grand-tourer market. The V6 road coupe retained a lightweight polyester body and backbone chassis while giving the angular four-seat design the six-cylinder performance central to its identity. It represents an important stage in Alpine’s transition from rally-focused berlinettes to French performance GTs.",
+      "evidence": "https://media.alpinecars.com/celebrating-60-years-of-alpine/?lang=eng",
+      "duplicate_review": "Absent model/generation checked against the complete 629-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-28.json"
+    },
+    {
+      "manufacturer": "Alpine",
+      "model": "A610",
+      "generation": "GTA-derived A610 turbo road GT family",
+      "proposed_record": "ALP-A610-LAUNCH1991",
+      "reason": "The A610 developed Alpine’s rear-engined GT concept into a substantially revised turbocharged road car. A reinforced backbone structure and bonded composite body accompanied revised suspension, strengthened transmission and ventilated brakes with ABS. Its three-litre V6 and pop-up-headlamp design make it a distinctive culmination of Alpine’s original performance-GT era.",
+      "evidence": "https://forum.alpinerenault.com/viewtopic.php?t=19506",
+      "duplicate_review": "Absent model/generation checked against the complete 629-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-28.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "306",
+      "generation": "Original 306 six-speed performance hatchback",
+      "proposed_record": "PEU-306-GTI6-UK1999",
+      "reason": "The 306 GTI-6 is a defining Peugeot hot hatch, pairing a two-litre 16-valve engine with the unusually close-ratio six-speed manual developed by Peugeot Sport. Its responsive steering and compliant suspension established the balanced road-driving character that Peugeot continues to celebrate in its GTI heritage.",
+      "evidence": "https://www.media.stellantis.com/uk-en/peugeot/press/peugeot-gti-through-the-years-10-icons-that-set-automotive-hearts-racing",
+      "duplicate_review": "Absent model/generation checked against the complete 629-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-28.json"
+    },
+    {
+      "manufacturer": "Venturi",
+      "model": "400 GT",
+      "generation": "Original factory road supercar; not 400 Trophy/GTR racers or road conversions",
+      "proposed_record": "Research hold — no imported record",
+      "reason": "Potential distinctive French performance-GT candidate; admission awaits verified original road specification and exact representative-photo review.",
+      "evidence": "https://www.archives-catalogues-automobiles.fr/shop/fr/marques-francaises/3207-VE404000-01.html",
+      "duplicate_review": "No Venturi or 400-family entry in the 629-car pre-batch inventory; no car imported.",
+      "remaining": "Readable original manufacturer road technical document; distinguish standard factory road car from Trophy/GTR and conversions. Catalogue listings and secondary articles are discovery aids, not technical evidence.",
+      "status": "Research hold in batch 28; excluded from the 632-car count"
     }
   ],
-  "catalogue_count_after_batches": 629
+  "catalogue_count_after_batches": 632
 }
