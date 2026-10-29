@@ -3940,7 +3940,84 @@
       "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Auburn",
+      "model": "851 / 852 Speedster",
+      "generation": "Original 851 / 852 supercharged boat-tail production-road speedster family",
+      "proposed_record": "AUB-851-SPEEDSTER-MUSEUM1935",
+      "reason": "The supercharged 851 Speedster is a defining prewar American performance car, combining Lycoming power with Gordon Buehrig’s influential boat-tail design. Its documented fast-touring character and enduring sporting identity earn inclusion beyond rarity or luxury.",
+      "evidence": "https://nationalmotormuseum.org.uk/collections/vehicles/auburn-851-speedster/",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "8C 2900",
+      "generation": "Prewar 8C 2900 B Lungo production-road Berlinetta family",
+      "proposed_record": "ALF-8C2900B-LUNGO-ROAD1938",
+      "reason": "The 8C 2900 B Lungo is a landmark prewar performance GT, combining a twin-supercharged straight-eight with independent suspension and Touring Superleggera coachwork. It represents the enduring racing-derived road-engineering identity of the original 8C, distinct from the modern 8C Competizione already archived.",
+      "evidence": "https://www.museoalfaromeo.com/en-us/collezione/Pages/8C-2900-B-Lungo.aspx",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Bugatti",
+      "model": "Type 57",
+      "generation": "Original Type 57 Atlantic production-road grand-touring coupe family",
+      "proposed_record": "BUG-T57-ATLANTIC-FIRST1936",
+      "reason": "The Atlantic is an enduring prewar performance-GT and design icon, joining Jean Bugatti’s distinctive aluminium coupe architecture to the Type 57’s sporting engineering. Its influence and road-car identity make it a foundational Bugatti icon rather than merely a valuable collector object.",
+      "evidence": "https://newsroom.bugatti.com/en/press-releases/bugatti-type-57-sc-atlantic-a-style-icon",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Bugatti",
+      "model": "Type 55",
+      "generation": "Original Type 55 Super Sport production-road sports-car family",
+      "proposed_record": "BUG-T55-ROAD1932",
+      "reason": "The Type 55 established Bugatti’s Super Sport road lineage by combining Grand Prix-derived engineering with genuine touring use. Its documented contemporary road performance and Jean Bugatti design make it a formative high-performance road-car icon, separate from the later Type 57.",
+      "evidence": "https://newsroom.bugatti.com/press-releases/bugatti-super-sport-legends",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Bentley",
+      "model": "4½ Litre Supercharged / Blower",
+      "generation": "Original production-road 4½ Litre Supercharged sports-tourer family",
+      "proposed_record": "BEN-BLOWER-TOURER-MS3926-1931",
+      "reason": "The production Blower is a defining British sporting-tourer icon whose exposed supercharger and competition-born engineering created a lasting performance identity. The selected original-body road tourer represents that public road programme, with the special Birkin racers kept separate.",
+      "evidence": "https://simeonemuseum.org/collection/1931-bentley-4-5-litre-supercharged-tourer/",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Cord",
+      "model": "810 / 812",
+      "generation": "Original 810 / 812 front-drive production-road performance-car family",
+      "proposed_record": "COR-812SC-SIMEONE1937",
+      "reason": "The supercharged Cord 812 is a landmark American performance car, combining front-wheel drive, electric shift control and Gordon Buehrig’s distinctive design. Its stock-car speed-record lineage and lasting engineering identity justify inclusion beyond prewar luxury or styling alone.",
+      "evidence": "https://simeonemuseum.org/collection/1937-cord-812-supercharged/",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Talbot-Lago",
+      "model": "T150",
+      "generation": "Original T150 SS / C-SS production-road sporting coupe family",
+      "proposed_record": "TAL-LAGO-T150SS-MUSEUM1937",
+      "reason": "The T150 SS Teardrop is a landmark streamlined performance GT, pairing racing-derived six-cylinder engineering with Figoni & Falaschi coachwork. Its documented private road use and lasting sporting design identity distinguish it from a dedicated racing prototype or ordinary luxury coupe.",
+      "evidence": "https://www.louwmanmuseum.nl/en/collections/automobiles/talbot-lago-t150-ss-teardrop-coupe-figoni-falaschi",
+      "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-47.json"
     }
   ],
-  "catalogue_count_after_batches": 748
+  "catalogue_count_after_batches": 755
 }

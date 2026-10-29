@@ -1,0 +1,805 @@
+{
+  "batch": "icons-road-2026-10-29-47",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "AUB-851-SPEEDSTER-MUSEUM1935",
+      "manufacturer": "Auburn",
+      "model_family": "851 / 852 Speedster",
+      "generation": "Original 851 / 852 supercharged boat-tail production-road speedster family",
+      "variant": "851 Speedster — 1935 Montagu Collection reference",
+      "model_year_from": 1935,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Boat-tail sports speedster",
+      "road_legal": 1,
+      "specification_market": "The National Motor Museum’s own 1935 Montagu Collection car is the reference. Preserve native bhp and mph; do not infer an inline layout, gearbox, production total, exact test conditions or untouched originality. Later 852 naming contributes no extra year/grade record.",
+      "summary": "The supercharged 851 Speedster is a defining prewar American performance car, combining Lycoming power with Gordon Buehrig’s influential boat-tail design. Its documented fast-touring character and enduring sporting identity earn inclusion beyond rarity or luxury.",
+      "admission_reason": "The supercharged 851 Speedster is a defining prewar American performance car, combining Lycoming power with Gordon Buehrig’s influential boat-tail design. Its documented fast-touring character and enduring sporting identity earn inclusion beyond rarity or luxury.",
+      "sources": [
+        {
+          "publisher": "National Motor Museum, Beaulieu",
+          "title": "Auburn 851 Speedster — 1935 Montagu Collection vehicle record",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/auburn-851-speedster/",
+          "notes": "The National Motor Museum’s own 1935 Montagu Collection car is the reference. Preserve native bhp and mph; do not infer an inline layout, gearbox, production total, exact test conditions or untouched originality. Later 852 naming contributes no extra year/grade record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Auburn 851 Speedster (52713168095).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Auburn_851_Speedster_(52713168095).jpg",
+          "notes": "Michael Gaylard from Horsham, UK; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Auburn 851 Speedster. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Lycoming eight-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4585",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Gordon Buehrig",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve arrangement",
+          "value": "Side valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted output at 4000 rpm",
+          "value": "150",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Custodian quoted maximum speed",
+          "value": "100",
+          "unit": "mph",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The supercharged 851 Speedster is a defining prewar American performance car, combining Lycoming power with Gordon Buehrig’s influential boat-tail design. Its documented fast-touring character and enduring sporting identity earn inclusion beyond rarity or luxury.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aub_851_speedster_museum1935.jpg",
+          "caption": "Auburn 851 Speedster at the National Motor Museum, Beaulieu. This collection-car illustration does not certify untouched originality, measured output or the conditions of historical speed tests; modern replicas are not used as technical evidence.",
+          "creator": "Michael Gaylard from Horsham, UK",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e0a7291ac224cdce14c22d0dfdc8fd5c2c55c1db17adad08df111f047b0dedea"
+        }
+      ]
+    },
+    {
+      "id": "ALF-8C2900B-LUNGO-ROAD1938",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "8C 2900",
+      "generation": "Prewar 8C 2900 B Lungo production-road Berlinetta family",
+      "variant": "8C 2900 B Lungo — factory Touring Superleggera road reference",
+      "model_year_from": 1938,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Touring Superleggera road Berlinetta",
+      "road_legal": 1,
+      "specification_market": "Actual Alfa Romeo museum technical catalogue read. This is the road Lungo Berlinetta, not the Le Mans Speciale. The separate Milan custodian record confirms a 1938 road-registered Touring Berlinetta; it is not asserted to be the same individual car as the Arese reference. Unclear production-total scope, race outputs and unestablished individual-car originality are omitted.",
+      "summary": "The 8C 2900 B Lungo is a landmark prewar performance GT, combining a twin-supercharged straight-eight with independent suspension and Touring Superleggera coachwork. It represents the enduring racing-derived road-engineering identity of the original 8C, distinct from the modern 8C Competizione already archived.",
+      "admission_reason": "The 8C 2900 B Lungo is a landmark prewar performance GT, combining a twin-supercharged straight-eight with independent suspension and Touring Superleggera coachwork. It represents the enduring racing-derived road-engineering identity of the original 8C, distinct from the modern 8C Competizione already archived.",
+      "sources": [
+        {
+          "publisher": "Museo Storico Alfa Romeo",
+          "title": "8C 2900 B Lungo — factory museum technical catalogue",
+          "source_type": "Manufacturer museum’s historical engineering catalogue",
+          "url": "https://www.museoalfaromeo.com/en-us/collezione/Pages/8C-2900-B-Lungo.aspx",
+          "notes": "Actual Alfa Romeo museum technical catalogue read. This is the road Lungo Berlinetta, not the Le Mans Speciale. The separate Milan custodian record confirms a 1938 road-registered Touring Berlinetta; it is not asserted to be the same individual car as the Arese reference. Unclear production-total scope, race outputs and unestablished individual-car originality are omitted."
+        },
+        {
+          "publisher": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+          "title": "Alfa Romeo 8C 2900 B Touring Berlinetta — collection D-1974, chassis 412035",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-026761/autovettura-alfa-romeo-8c-2900-b-touring-berlinetta",
+          "notes": "Custodian dates this separate Touring Berlinetta to 1938 and records first Italian registration on 23 July 1938. It supports the road-family year context, not an assertion that Arese’s car has chassis 412035."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1938 Alfa Romeo 8C 2900 B Lungo.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1938_Alfa_Romeo_8C_2900_B_Lungo.jpg",
+          "notes": "Neal Parish; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: originally posted to Flickr as IMG_1263. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Front longitudinal straight-eight",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2905",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two gear-driven overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two superchargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four forward speeds and reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulically actuated drums all round",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones and rear trailing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory catalogue quoted output at 5200 rpm",
+          "value": "180",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Construction",
+          "value": "Touring Superleggera Berlinetta",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 8C 2900 B Lungo is a landmark prewar performance GT, combining a twin-supercharged straight-eight with independent suspension and Touring Superleggera coachwork. It represents the enduring racing-derived road-engineering identity of the original 8C, distinct from the modern 8C Competizione already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_8c2900b_lungo_road1938.jpg",
+          "caption": "Alfa Romeo 8C 2900 B Lungo Touring Berlinetta identified as a 1938 car, illustrating the factory road-coupe family. It is not the Le Mans Speciale and does not establish that it is Milan’s separately documented chassis 412035 or certify current mechanical originality.",
+          "creator": "Neal Parish",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7b7cd6b42dae41e5b177cf566143b1b7652b11c675b20620efabdf5b787fa29d"
+        }
+      ]
+    },
+    {
+      "id": "BUG-T57-ATLANTIC-FIRST1936",
+      "manufacturer": "Bugatti",
+      "model_family": "Type 57",
+      "generation": "Original Type 57 Atlantic production-road grand-touring coupe family",
+      "variant": "Atlantic — first 1936 un-supercharged factory-history reference",
+      "model_year_from": 1936,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Factory history explicitly says the first 1936 Rothschild Atlantic, chassis 57374, was delivered without a supercharger. Do not backdate later SC hardware or the article’s up-to-200-PS family output. Prototype Elektron material, anomalous length, current ownership/value, exact gearbox and restoration originality are not imported. No additional Atalante or SC-body/year count is added.",
+      "summary": "The Atlantic is an enduring prewar performance-GT and design icon, joining Jean Bugatti’s distinctive aluminium coupe architecture to the Type 57’s sporting engineering. Its influence and road-car identity make it a foundational Bugatti icon rather than merely a valuable collector object.",
+      "admission_reason": "The Atlantic is an enduring prewar performance-GT and design icon, joining Jean Bugatti’s distinctive aluminium coupe architecture to the Type 57’s sporting engineering. Its influence and road-car identity make it a foundational Bugatti icon rather than merely a valuable collector object.",
+      "sources": [
+        {
+          "publisher": "Bugatti Automobiles",
+          "title": "The Bugatti Type 57 SC Atlantic — a style icon, 22 February 2019",
+          "source_type": "Manufacturer historical model and design account",
+          "url": "https://newsroom.bugatti.com/en/press-releases/bugatti-type-57-sc-atlantic-a-style-icon",
+          "notes": "Factory history explicitly says the first 1936 Rothschild Atlantic, chassis 57374, was delivered without a supercharger. Do not backdate later SC hardware or the article’s up-to-200-PS family output. Prototype Elektron material, anomalous length, current ownership/value, exact gearbox and restoration originality are not imported. No additional Atalante or SC-body/year count is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Paris - Retromobile 2012 - Bugatti type 57SC Atlantic - 1936 - 001.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Paris_-_Retromobile_2012_-_Bugatti_type_57SC_Atlantic_-_1936_-_001.jpg",
+          "notes": "Thesupermat; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Straight-eight",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "First 1936 Rothschild car originally without a supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium production body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Door openings extend into the roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Jean Bugatti",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Signature body joint",
+          "value": "Riveted longitudinal dorsal seam retained from the Aérolithe design",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Tailpipe arrangement",
+          "value": "Six slender tailpipes",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Atlantic is an enduring prewar performance-GT and design icon, joining Jean Bugatti’s distinctive aluminium coupe architecture to the Type 57’s sporting engineering. Its influence and road-car identity make it a foundational Bugatti icon rather than merely a valuable collector object.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bug_t57_atlantic_first1936.jpg",
+          "caption": "Blue Bugatti Atlantic displayed at Rétromobile in 2012 and identified by the photographer as a Type 57SC. This later display does not establish the first 1936 car’s original un-supercharged engine state, exact chassis identity or untouched restoration condition.",
+          "creator": "Thesupermat",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ed47cdc8fef3adf99d95067ea2516b6606436a7533cb370840848834309ce63a"
+        }
+      ]
+    },
+    {
+      "id": "BUG-T55-ROAD1932",
+      "manufacturer": "Bugatti",
+      "model_family": "Type 55",
+      "generation": "Original Type 55 Super Sport production-road sports-car family",
+      "variant": "Type 55 roadster — 1932 factory-history road reference",
+      "model_year_from": 1932,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Actual 2021 factory Type 55 paragraphs establish the supercharged 2.3-litre eight-cylinder road programme. Do not transfer EB110, Veyron or Chiron technical data. No replica, prototype or dedicated Type 51 Grand Prix racer is counted.",
+      "summary": "The Type 55 established Bugatti’s Super Sport road lineage by combining Grand Prix-derived engineering with genuine touring use. Its documented contemporary road performance and Jean Bugatti design make it a formative high-performance road-car icon, separate from the later Type 57.",
+      "admission_reason": "The Type 55 established Bugatti’s Super Sport road lineage by combining Grand Prix-derived engineering with genuine touring use. Its documented contemporary road performance and Jean Bugatti design make it a formative high-performance road-car icon, separate from the later Type 57.",
+      "sources": [
+        {
+          "publisher": "Bugatti Automobiles",
+          "title": "Bugatti’s Super Sport Legends — Type 55 section, 4 June 2021",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://newsroom.bugatti.com/press-releases/bugatti-super-sport-legends",
+          "notes": "Actual 2021 factory Type 55 paragraphs establish the supercharged 2.3-litre eight-cylinder road programme. Do not transfer EB110, Veyron or Chiron technical data. No replica, prototype or dedicated Type 51 Grand Prix racer is counted."
+        },
+        {
+          "publisher": "Bugatti Automobiles",
+          "title": "Les 110 ans de Bugatti — Type 55 road-car section, 6 February 2019",
+          "source_type": "Manufacturer historical road-car account",
+          "url": "https://newsroom.bugatti.com/en/press-releases/les-110-ans-de-bugatti",
+          "notes": "Factory identifies the Type 55 road programme, Jean Bugatti design and 180-km/h historical maximum. Its 1932 exhibited roadster is chassis 55215; the representative photograph is not identified as that individual car."
+        },
+        {
+          "publisher": "Bugatti Automobiles",
+          "title": "Pebble Beach 2015 — Type 55 chassis, brakes and transmission heritage",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://newsroom.bugatti.com/en/press-releases/pebble-beach-2015",
+          "notes": "Use only Type 55-specific component genealogy. This release’s erroneous ten-cylinder wording is contradicted by the explicit 2021 eight-cylinder account; it is not imported. Output, acceleration, exact ratios and adjacent Type 57SC/Type 35/Veyron hardware are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Bugatti Type 55 at Cité de l'Automobile 265.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Bugatti_Type_55_at_Cit%C3%A9_de_l%27Automobile_265.jpg",
+          "notes": "Zairon; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Straight-eight",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Jean Bugatti",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Performance",
+          "label": "Manufacturer historical maximum speed",
+          "value": "180",
+          "unit": "km/h",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Chassis derivation",
+          "value": "Type 47-derived rigid chassis",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox derivation",
+          "value": "Type 49-derived transmission with newly developed housing",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Brakes",
+          "label": "Brake derivation",
+          "value": "Type 51 brake equipment",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Type 55 established Bugatti’s Super Sport road lineage by combining Grand Prix-derived engineering with genuine touring use. Its documented contemporary road performance and Jean Bugatti design make it a formative high-performance road-car icon, separate from the later Type 57.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bug_t55_road1932.jpg",
+          "caption": "Bugatti Type 55 roadster displayed at Cité de l’Automobile, Mulhouse. This representative family image is not identified as the factory article’s chassis 55215 and does not certify an individual engine tune or coachwork originality.",
+          "creator": "Zairon",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "ecfd6a7a8e838869375383fa384d3329705e25c5df08688e95d29c83d7f1590a"
+        }
+      ]
+    },
+    {
+      "id": "BEN-BLOWER-TOURER-MS3926-1931",
+      "manufacturer": "Bentley",
+      "model_family": "4½ Litre Supercharged / Blower",
+      "generation": "Original production-road 4½ Litre Supercharged sports-tourer family",
+      "variant": "Blower Tourer — 1931 Simeone MS3926 collection reference",
+      "model_year_from": 1931,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Aluminium sports tourer",
+      "road_legal": 1,
+      "specification_market": "Museum’s own MS3926 car was road-registered in 1931, with original build-sheet coachwork and its original D-type gearbox. This restored collection reference’s quoted 182 hp is not a universal factory rating. Do not mix Beaulieu’s different rebodied car, its malformed rpm field, 175-bhp road reference or 240-bhp Birkin race tune into these attributes.",
+      "summary": "The production Blower is a defining British sporting-tourer icon whose exposed supercharger and competition-born engineering created a lasting performance identity. The selected original-body road tourer represents that public road programme, with the special Birkin racers kept separate.",
+      "admission_reason": "The production Blower is a defining British sporting-tourer icon whose exposed supercharger and competition-born engineering created a lasting performance identity. The selected original-body road tourer represents that public road programme, with the special Birkin racers kept separate.",
+      "sources": [
+        {
+          "publisher": "Simeone Foundation Automotive Museum",
+          "title": "1931 Bentley 4.5 Litre Supercharged Tourer — chassis MS3926",
+          "source_type": "Vehicle custodian’s first-hand collection and restoration account",
+          "url": "https://simeonemuseum.org/collection/1931-bentley-4-5-litre-supercharged-tourer/",
+          "notes": "Museum’s own MS3926 car was road-registered in 1931, with original build-sheet coachwork and its original D-type gearbox. This restored collection reference’s quoted 182 hp is not a universal factory rating. Do not mix Beaulieu’s different rebodied car, its malformed rpm field, 175-bhp road reference or 240-bhp Birkin race tune into these attributes."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1929 Bentley 4½ Litre Blower - Flickr - exfordy.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1929_Bentley_4%C2%BD_Litre_Blower_-_Flickr_-_exfordy.jpg",
+          "notes": "Brian Snelson from Hockley, Essex, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1929 Bentley 4½ Litre Blower. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Roots-principle supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "D-type gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium tourer body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Vanden Plas",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted collection-car output",
+          "value": "182",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The production Blower is a defining British sporting-tourer icon whose exposed supercharger and competition-born engineering created a lasting performance identity. The selected original-body road tourer represents that public road programme, with the special Birkin racers kept separate.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ben_blower_tourer_ms3926_1931.jpg",
+          "caption": "Open Blower Bentley at the National Motor Museum, Beaulieu. This different collection car illustrates the road family; it is not Simeone’s original-body MS3926 and does not establish that car’s body, quoted output or current condition. Rebodied tourers are not presented as untouched Birkin racers.",
+          "creator": "Brian Snelson from Hockley, Essex, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "02a3152d96a25b03f6c16844c0fb5e0baa0d944db789fb03949822ab6cd6a130"
+        }
+      ]
+    },
+    {
+      "id": "COR-812SC-SIMEONE1937",
+      "manufacturer": "Cord",
+      "model_family": "810 / 812",
+      "generation": "Original 810 / 812 front-drive production-road performance-car family",
+      "variant": "812 Supercharged — 1937 Simeone collection reference",
+      "model_year_from": 1937,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Supercharged sports cabriolet",
+      "road_legal": 1,
+      "specification_market": "The custodian’s own chassis 8121446F, retaining an older restoration, is the selected road reference. The article discusses conflicting horsepower estimates, so no universal power rating is imported. The record-setting Bonneville sedan was a different car: its speeds, presumed engine tune and body are not this cabriolet’s measured performance. No inferred gearbox speed count or extra 810/812 model-year record is added.",
+      "summary": "The supercharged Cord 812 is a landmark American performance car, combining front-wheel drive, electric shift control and Gordon Buehrig’s distinctive design. Its stock-car speed-record lineage and lasting engineering identity justify inclusion beyond prewar luxury or styling alone.",
+      "admission_reason": "The supercharged Cord 812 is a landmark American performance car, combining front-wheel drive, electric shift control and Gordon Buehrig’s distinctive design. Its stock-car speed-record lineage and lasting engineering identity justify inclusion beyond prewar luxury or styling alone.",
+      "sources": [
+        {
+          "publisher": "Simeone Foundation Automotive Museum",
+          "title": "1937 Cord 812 Supercharged — chassis 8121446F",
+          "source_type": "Vehicle custodian’s first-hand collection and restoration account",
+          "url": "https://simeonemuseum.org/collection/1937-cord-812-supercharged/",
+          "notes": "The custodian’s own chassis 8121446F, retaining an older restoration, is the selected road reference. The article discusses conflicting horsepower estimates, so no universal power rating is imported. The record-setting Bonneville sedan was a different car: its speeds, presumed engine tune and body are not this cabriolet’s measured performance. No inferred gearbox speed count or extra 810/812 model-year record is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1937 Cord 812 Supercharged Cabriolet (Simeone) 01.png",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1937_Cord_812_Supercharged_Cabriolet_(Simeone)_01.png",
+          "notes": "Al R; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: https://www.flickr.com/photos/123chromapixels/50144654796/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Eight-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.73",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Electric gear-shift control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Gordon Buehrig",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The supercharged Cord 812 is a landmark American performance car, combining front-wheel drive, electric shift control and Gordon Buehrig’s distinctive design. Its stock-car speed-record lineage and lasting engineering identity justify inclusion beyond prewar luxury or styling alone.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cor_812sc_simeone1937.png",
+          "caption": "Cord 812 Supercharged Cabriolet at the Simeone Foundation Automotive Museum. This collection-car illustration does not establish a specific horsepower estimate or reproduce the different Bonneville record sedan’s body and performance.",
+          "creator": "Al R",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3c380fb5667de92ed748ec9778a0d5649e9f8e0fbf5d4525c765ee3d7c9ea5d4"
+        }
+      ]
+    },
+    {
+      "id": "TAL-LAGO-T150SS-MUSEUM1937",
+      "manufacturer": "Talbot-Lago",
+      "model_family": "T150",
+      "generation": "Original T150 SS / C-SS production-road sporting coupe family",
+      "variant": "T150 SS Teardrop — 1937 Louwman collection reference",
+      "model_year_from": 1937,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Teardrop sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Louwman’s own 1937 car was privately used in prewar France and later used for racing practice. Select its quoted 160 hp; do not substitute a Le Mans race specification, production count of unclear body scope, every unique coachwork variation or the later T26 family.",
+      "summary": "The T150 SS Teardrop is a landmark streamlined performance GT, pairing racing-derived six-cylinder engineering with Figoni & Falaschi coachwork. Its documented private road use and lasting sporting design identity distinguish it from a dedicated racing prototype or ordinary luxury coupe.",
+      "admission_reason": "The T150 SS Teardrop is a landmark streamlined performance GT, pairing racing-derived six-cylinder engineering with Figoni & Falaschi coachwork. Its documented private road use and lasting sporting design identity distinguish it from a dedicated racing prototype or ordinary luxury coupe.",
+      "sources": [
+        {
+          "publisher": "Louwman Museum",
+          "title": "Talbot Lago T150 SS Teardrop Coupe Figoni & Falaschi — 1937 collection record",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/talbot-lago-t150-ss-teardrop-coupe-figoni-falaschi",
+          "notes": "Louwman’s own 1937 car was privately used in prewar France and later used for racing practice. Select its quoted 160 hp; do not substitute a Le Mans race specification, production count of unclear body scope, every unique coachwork variation or the later T26 family."
+        },
+        {
+          "publisher": "Frist Art Museum",
+          "title": "1938 Talbot-Lago T-150C-SS Teardrop Coupe — historical exhibition catalogue",
+          "source_type": "Exhibiting museum’s first-hand curatorial catalogue",
+          "url": "https://fristartmuseum.org/1938-talbot-lago-t-150c-ss-teardrop-coupe/",
+          "notes": "Curatorial account establishes SS-family independent front suspension and hemispherical engine-head architecture. Its separate 1938 exhibited car, optional triple-carburettor 170-bhp tune and optional Wilson gearbox do not establish the selected Louwman car’s year, tune or equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1937 Talbot Lago T150 SS Figoni & Falaschi Teardrop Coupe p2.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1937_Talbot_Lago_T150_SS_Figoni_%26_Falaschi_Teardrop_Coupe_p2.JPG",
+          "notes": "AlfvanBeem; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Joseph Figoni",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted collection-car output",
+          "value": "160",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Figoni & Falaschi",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Family front-suspension architecture",
+          "value": "Independent front suspension",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Family cylinder-head architecture",
+          "value": "Hemispherical combustion chambers",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The T150 SS Teardrop is a landmark streamlined performance GT, pairing racing-derived six-cylinder engineering with Figoni & Falaschi coachwork. Its documented private road use and lasting sporting design identity distinguish it from a dedicated racing prototype or ordinary luxury coupe.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tal_lago_t150ss_museum1937.jpg",
+          "caption": "Talbot-Lago T150 SS Teardrop Coupe displayed at the Louwman Museum. The representative image does not establish unaltered engine tune, optional triple carburettors, gearbox fitment or present mechanical condition.",
+          "creator": "AlfvanBeem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "87a0916f55b1fa4afddba6aba9126d9ce6128611b04410eabfdcddcf560689e8"
+        }
+      ]
+    }
+  ]
+}
