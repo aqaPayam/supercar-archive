@@ -100,3 +100,7 @@ canonical LF digest. There are 314 distinct curated identifiers and 395 preserve
 baseline records; no exact normalized identity-text collision was found.
 These checks do not complete the baseline eligibility or semantic-identity audit.
 No new interactive-browser or native-Linux run is claimed.
+
+A subsequent [baseline F50 credit correction](baseline-media-credits-01.md)
+is tracked separately: three older photographs receive verified attribution
+and source notes without changing car records or the catalogue count.

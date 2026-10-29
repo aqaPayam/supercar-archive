@@ -14,6 +14,17 @@ check cannot establish semantic uniqueness: aliases, body styles, optional
 packages and differently described versions still require per-car review.
 Same-generation variant counting remains a pending user boundary.
 
+## Image-credit repair: Ferrari F50
+
+Three existing F50 photographs had generic creator and licence placeholders.
+Their Commons source metadata identifies Charles from Port Chester, New York
+for the exterior and Axion23 for the rear and engine photographs, all CC BY 2.0.
+The stored images were visually matched to those works. The
+[credit correction](baseline-media-credits-01.md) records the six narrowly
+changed media/source rows and unchanged asset hashes. It changes no car
+identity, specification or count, and does not certify the F50's remaining
+technical, pricing or historical fields. The full baseline audit remains open.
+
 ## Identity spot-check: 2022 V12 Vantage
 
 Reviewed 2026-10-29 against the stored profiles and both original manufacturer
