@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Forty-two reviewed road-icon batches add 322 cars
-to the 395-record baseline, bringing the working catalogue to 717 records.
-The latest [Grand tourers, lightweight sports cars and rally-road icons batch](docs/icons-road-42.md)
-adds eight absent road families, following the
-[Independent supercars and original electric Roadster batch](docs/icons-road-41.md). Individual reviews and
+evidence and licensed photograph. Forty-three reviewed road-icon batches add 327 cars
+to the 395-record baseline, bringing the working catalogue to 722 records.
+The latest [Rotary, rally and sporting-hatch icons batch](docs/icons-road-43.md)
+adds five absent road families, following the
+[Grand tourers, lightweight sports cars and rally-road icons batch](docs/icons-road-42.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
@@ -69,7 +69,8 @@ remaining scope and identity review without changing existing records.
 The [first baseline credit repair](docs/baseline-media-credits-01.md) resolves
 three F50 attribution placeholders while preserving the photographs and car data.
 A [second credit repair](docs/baseline-media-credits-02.md) resolves 27 more
-placeholders across ten profiles and records remaining image-identity questions.
+placeholders across ten profiles. A [photograph scope repair](docs/baseline-image-scope-01.md)
+qualifies five captions/lead-image flags while preserving all photographs and car data.
 
 Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
 Existing LF and CRLF import markers remain accepted without rewriting the database.

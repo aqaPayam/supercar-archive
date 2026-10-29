@@ -3599,7 +3599,62 @@
       "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Bluebird / Datsun 510",
+      "generation": "Third-generation 510 Bluebird production-road sporting family",
+      "proposed_record": "NIS-BLUEBIRD-510-SSS-KP1969",
+      "reason": "The 510 is a foundational Datsun performance icon, with independent rear suspension and a twin-carburettor SSS engine. Its family established Nissan’s international rally reputation, including the sedan’s 1970 Safari victory. This record selects the road coupe rather than importing the rally car’s specification.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1600sss_coupe.html",
+      "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-43.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Familia Rotary / R100",
+      "generation": "Second-generation Familia platform, original R100 rotary-coupe production family",
+      "proposed_record": "MAZ-FAMILIA-R100-ROTARY1968",
+      "reason": "The R100 brought Mazda’s rotary performance beyond the specialist Cosmo into a compact sporting coupe. Its 10A engine and early international racing success make it a formative rotary icon, distinct from the later Savanna RX-3 and much later BG Familia GT-R.",
+      "evidence": "https://www2.mazda.com/en/stories/craftmanship/greatcar/p10.html",
+      "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-43.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S2",
+      "generation": "Original B3-based S2 production-road coupe family",
+      "proposed_record": "AUD-S2-COUPE-B3-ORIGINAL1990",
+      "reason": "The S2 Coupé established Audi’s enduring S-model road-car lineage as the successor to the original quattro. Its turbocharged five-cylinder engine and quattro chassis connect rally-derived engineering with a practical sporting coupe, independently of the later RS2 Avant.",
+      "evidence": "https://www.audi-mediacenter.com/en/publications/more/audi-tradition-anniversary-dates-2025-1565/download",
+      "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-43.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "309",
+      "generation": "Original 309 GTI16 production-road sporting family",
+      "proposed_record": "PEU-309-GTI16-ORIGINAL1989",
+      "reason": "The 309 GTI16 is a defining Peugeot hot hatch, combining the Mi16 engine with a balanced compact chassis that earned lasting recognition for its road handling and rally use. Its significance rests on that performance engineering, not simply its relatively small production run.",
+      "evidence": "https://www.media.stellantis.com/it-it/peugeot/press/peugeot-309-gti16-n-160-cavalli-da-corsa",
+      "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-43.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "AX",
+      "generation": "Original AX Sport production-road sporting family",
+      "proposed_record": "CIT-AX-SPORT-ORIGINAL1987",
+      "reason": "The AX Sport is an enduring lightweight French performance hatch and an important entry point into rallying. Its twin-carburettor engine and competition development role distinguish the sporting model from the ordinary economy-focused AX.",
+      "evidence": "https://www.media.stellantis.com/es-es/citroen/press/el-citroen-ax-cumple-30-anos-su-filosofia-permanece",
+      "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-43.json"
     }
   ],
-  "catalogue_count_after_batches": 717
+  "catalogue_count_after_batches": 722
 }
