@@ -3467,7 +3467,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 701-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-40.json"
+    },
+    {
+      "manufacturer": "Vector",
+      "model": "W8",
+      "generation": "Original W8 Twin Turbo production-road supercar family",
+      "proposed_record": "VEC-W8-ROAD-BROCHURE1991",
+      "reason": "The W8 brought Vector’s aerospace-influenced American supercar programme into road production. Its bonded and riveted semi-monocoque, composite body and twin-turbo V8 represent a distinctive engineering programme rather than another tune of a mass-produced sports car.",
+      "evidence": "https://www.lov2xlr8.no/brochures/misc/91vec/91vec.html",
+      "duplicate_review": "Absent model/generation checked against the complete 705-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-41.json"
+    },
+    {
+      "manufacturer": "Bristol",
+      "model": "Fighter",
+      "generation": "Original 2004–2011 Fighter production-road supercar programme",
+      "proposed_record": "BRI-FIGHTER-ORIGINAL2004-MT",
+      "reason": "The Fighter was Bristol’s bespoke V10 supercar programme, developed around aerodynamic efficiency, compact packaging and everyday access. Its gullwing aluminium/composite body and dedicated structure embody a distinctive engineering response to the contemporary supercar.",
+      "evidence": "https://www.evo.co.uk/bristol/fighter/6485/bristol-fighter-review-britains-troubled-210mph-answer-to-the-ferrari-599",
+      "duplicate_review": "Absent model/generation checked against the complete 705-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-41.json"
+    },
+    {
+      "manufacturer": "Isdera",
+      "model": "Imperator 108i",
+      "generation": "Original Imperator 108i production-road supercar family",
+      "proposed_record": "ISD-IMPERATOR108I-ROAD-S2AMG",
+      "reason": "The Imperator turned Eberhard Schulz’s CW311 concept into a substantially re-engineered production supercar. Its bespoke gullwing body, tubular construction and Mercedes-derived V8 preserve a distinctive independent German supercar lineage, rather than merely a rare specification.",
+      "evidence": "https://motorikonen.de/folgen/der-cw311-isdera-imperator-108i-mit-eberhard-schulz/",
+      "duplicate_review": "Absent model/generation checked against the complete 705-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-41.json"
+    },
+    {
+      "manufacturer": "Tesla",
+      "model": "Roadster",
+      "generation": "Original first-generation Tesla Roadster production-road sports-car family",
+      "proposed_record": "TES-ROADSTER-ORIGINAL2008-MANUAL",
+      "reason": "The original Roadster established Tesla’s production sports-car programme and high-performance electric identity. Its significance is the move from a new manufacturer’s concept into a customer road car, rather than a later trim or power increase.",
+      "evidence": "https://ir.tesla.com/_flysystem/s3/sec/000119312511308489/d226201d10q.html",
+      "duplicate_review": "Absent model/generation checked against the complete 705-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-41.json"
     }
   ],
-  "catalogue_count_after_batches": 705
+  "catalogue_count_after_batches": 709
 }

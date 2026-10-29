@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Forty reviewed road-icon batches add 310 cars
-to the 395-record baseline, bringing the working catalogue to 705 records.
-The latest [Specialist supercars and electrified landmarks batch](docs/icons-road-40.md)
+evidence and licensed photograph. Forty-one reviewed road-icon batches add 314 cars
+to the 395-record baseline, bringing the working catalogue to 709 records.
+The latest [Independent supercars and the original electric Roadster batch](docs/icons-road-41.md)
 adds four absent road families, following the
-[Italian and Australian sports-saloon batch](docs/icons-road-39.md). Individual reviews and
+[Specialist supercars and electrified landmarks batch](docs/icons-road-40.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the

@@ -1,0 +1,465 @@
+{
+  "batch": "icons-road-2026-10-29-41",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "VEC-W8-ROAD-BROCHURE1991",
+      "manufacturer": "Vector",
+      "model_family": "W8",
+      "generation": "Original W8 Twin Turbo production-road supercar family",
+      "variant": "Twin Turbo — original 1991 factory sales-sheet reference",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Actual 1991 factory sales-sheet front and specification reverse visually read, hosted by lov2xlr8 with Bruno Vijverman contribution credit. Explicitly says the American-made W8 is in production. Development-car road tests, unverified top-speed/acceleration claims, 600-plus horsepower without a rating standard, build totals, airbag claim and later W8/M12/WX3 data are omitted.",
+      "summary": "The W8 brought Vector’s aerospace-influenced American supercar programme into road production. Its bonded and riveted semi-monocoque, composite body and twin-turbo V8 represent a distinctive engineering programme rather than another tune of a mass-produced sports car.",
+      "admission_reason": "The W8 brought Vector’s aerospace-influenced American supercar programme into road production. Its bonded and riveted semi-monocoque, composite body and twin-turbo V8 represent a distinctive engineering programme rather than another tune of a mass-produced sports car.",
+      "sources": [
+        {
+          "publisher": "Vector Aeromotive Corporation / lov2xlr8 hosted scan",
+          "title": "1991 Vector W8 Twin Turbo — original Vector Aeromotive two-sided sales/specification sheet",
+          "source_type": "Manufacturer original production-road sales sheet, hosted facsimile",
+          "url": "https://www.lov2xlr8.no/brochures/misc/91vec/91vec.html",
+          "notes": "Actual 1991 factory sales-sheet front and specification reverse visually read, hosted by lov2xlr8 with Bruno Vijverman contribution credit. Explicitly says the American-made W8 is in production. Development-car road tests, unverified top-speed/acceleration claims, 600-plus horsepower without a rating standard, build totals, airbag claim and later W8/M12/WX3 data are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Vector W8 yellow front 3157640898 e5bd3bff53 o.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Vector_W8_yellow_front_3157640898_e5bd3bff53_o.jpg",
+          "notes": "Craig Howell from San Carlos, CA, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Vector W8"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Aluminium-alloy 90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic direct-port fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two Garrett AiResearch H3 turbochargers with air-to-air intercooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel-tube/aluminium semi-monocoque, epoxy-bonded and riveted, with aluminium-honeycomb reinforcement",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Carbon, Kevlar and S-glass hybrid composite in epoxy resin",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Unequal-length front A-arms; de Dion rear with trailing arms and lateral link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Gleason-Torsen differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel ventilated 13-inch discs with four-piston aluminium calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "255/45 ZR16 front; 315/40 ZR16 rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W8 brought Vector’s aerospace-influenced American supercar programme into road production. Its bonded and riveted semi-monocoque, composite body and twin-turbo V8 represent a distinctive engineering programme rather than another tune of a mass-produced sports car.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vec_w8_road_brochure1991.jpg",
+          "caption": "Yellow Vector W8 displayed with its upward-opening doors, illustrating the original production-family body. The exterior photograph does not authenticate a particular 1991 chassis, advertised boost/output, original equipment or present mechanical condition.",
+          "creator": "Craig Howell from San Carlos, CA, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "158e23ba1b70e7512f7b21bc8aea7ee5b4448832a81d0daf3bf352697c35b99d"
+        }
+      ]
+    },
+    {
+      "id": "BRI-FIGHTER-ORIGINAL2004-MT",
+      "manufacturer": "Bristol",
+      "model_family": "Fighter",
+      "generation": "Original 2004–2011 Fighter production-road supercar programme",
+      "variant": "Original naturally aspirated V10 six-speed manual road family",
+      "model_year_from": 2004,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Evo’s 2 September 2026 article includes a first-hand Toby Silverton interview on the original design and 2004 customer deliveries. Selects the original road programme, not the new final-series cars discussed separately. Conflicting mass/output-rpm figures, claimed ram-pressure gain, production totals, Fighter S and the unbuilt projected Fighter T are excluded.",
+      "summary": "The Fighter was Bristol’s bespoke V10 supercar programme, developed around aerodynamic efficiency, compact packaging and everyday access. Its gullwing aluminium/composite body and dedicated structure embody a distinctive engineering response to the contemporary supercar.",
+      "admission_reason": "The Fighter was Bristol’s bespoke V10 supercar programme, developed around aerodynamic efficiency, compact packaging and everyday access. Its gullwing aluminium/composite body and dedicated structure embody a distinctive engineering response to the contemporary supercar.",
+      "sources": [
+        {
+          "publisher": "evo / Peter Tomalin and Sam Jenkins",
+          "title": "Bristol Fighter: original-programme engineering and Toby Silverton interview — evo, 2 September 2026",
+          "source_type": "First-hand creator interview and original-programme engineering account",
+          "url": "https://www.evo.co.uk/bristol/fighter/6485/bristol-fighter-review-britains-troubled-210mph-answer-to-the-ferrari-599",
+          "notes": "Evo’s 2 September 2026 article includes a first-hand Toby Silverton interview on the original design and 2004 customer deliveries. Selects the original road programme, not the new final-series cars discussed separately. Conflicting mass/output-rpm figures, claimed ram-pressure gain, production totals, Fighter S and the unbuilt projected Fighter T are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 Bristol Fighter (14365192439).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_Bristol_Fighter_(14365192439).jpg",
+          "notes": "Edvvc from London, UK; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2004 Bristol Fighter"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated all-aluminium Chrysler-derived V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "8.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front mid-engine, behind the front axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Chrysler-supplied six-speed manual with Bristol-modified shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel box-section structure with integrated rollover cage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium outer panels; carbon-fibre doors and tailgate",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Gullwing doors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones all round with an additional rear link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Mechanical limited-slip differential",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Fighter was Bristol’s bespoke V10 supercar programme, developed around aerodynamic efficiency, compact packaging and everyday access. Its gullwing aluminium/composite body and dedicated structure embody a distinctive engineering response to the contemporary supercar.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bri_fighter_original2004_mt.jpg",
+          "caption": "Bristol Fighter identified as a 2004 car at the 2014 Goodwood Festival of Speed. It illustrates the original road-programme coupe, preceding the recent final-series builds. Appearance does not certify the gearbox, standard versus S engine tune, original specification or present mechanical condition.",
+          "creator": "Edvvc from London, UK",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b9f58bc041cc451ff61bc12301b91d06a189db37d987d5a175b2cb09b905ea28"
+        }
+      ]
+    },
+    {
+      "id": "ISD-IMPERATOR108I-ROAD-S2AMG",
+      "manufacturer": "Isdera",
+      "model_family": "Imperator 108i",
+      "generation": "Original Imperator 108i production-road supercar family",
+      "variant": "Series 2 AMG — creator-interview technical reference; build year unspecified",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Motorikonen’s original Eberhard Schulz interview page explicitly labels its technical block Series 2 AMG. It gives no build year for that reference, so year fields stay unset; 1984 is the family’s production origin, not a claimed date for this 6.0-litre engine. The CW311 prototype’s M100, early-series engines, ambiguous current-brand numeric tiles, build totals and performance claims are excluded.",
+      "summary": "The Imperator turned Eberhard Schulz’s CW311 concept into a substantially re-engineered production supercar. Its bespoke gullwing body, tubular construction and Mercedes-derived V8 preserve a distinctive independent German supercar lineage, rather than merely a rare specification.",
+      "admission_reason": "The Imperator turned Eberhard Schulz’s CW311 concept into a substantially re-engineered production supercar. Its bespoke gullwing body, tubular construction and Mercedes-derived V8 preserve a distinctive independent German supercar lineage, rather than merely a rare specification.",
+      "sources": [
+        {
+          "publisher": "Motorikonen / Eberhard Schulz interview",
+          "title": "CW311 / Isdera Imperator 108i — Eberhard Schulz interview and explicitly labelled Series 2 AMG technical companion",
+          "source_type": "Original creator interview with publisher’s variant-specific technical companion",
+          "url": "https://motorikonen.de/folgen/der-cw311-isdera-imperator-108i-mit-eberhard-schulz/",
+          "notes": "Motorikonen’s original Eberhard Schulz interview page explicitly labels its technical block Series 2 AMG. It gives no build year for that reference, so year fields stay unset; 1984 is the family’s production origin, not a claimed date for this 6.0-litre engine. The CW311 prototype’s M100, early-series engines, ambiguous current-brand numeric tiles, build totals and performance claims are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Isdera Imperator - Flickr - Alexandre Prevot.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Isdera_Imperator_-_Flickr_-_Alexandre_Prevot.jpg",
+          "notes": "Alexandre Prevot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Isdera Imperator"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Mercedes-Benz M119 V8, AMG version",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular spaceframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Glassfibre body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Gullwing doors",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Imperator turned Eberhard Schulz’s CW311 concept into a substantially re-engineered production supercar. Its bespoke gullwing body, tubular construction and Mercedes-derived V8 preserve a distinctive independent German supercar lineage, rather than merely a rare specification.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_isd_imperator108i_road_s2amg.jpg",
+          "caption": "Isdera Imperator with periscope mirror, quad headlamp apertures and later body treatment, photographed by Alexandre Prévot. It illustrates the production family; the exterior does not authenticate the selected 6.0-litre AMG engine, exact build date, specification or current condition.",
+          "creator": "Alexandre Prevot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f984a26aa63639c50f7553a6b956d08943fae45cb8fb8b8eaf98412a10486b1d"
+        }
+      ]
+    },
+    {
+      "id": "TES-ROADSTER-ORIGINAL2008-MANUAL",
+      "manufacturer": "Tesla",
+      "model_family": "Roadster",
+      "generation": "Original first-generation Tesla Roadster production-road sports-car family",
+      "variant": "2008 Roadster — January 2009 owner-manual single-speed reference",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door electric open sports car",
+      "road_legal": 1,
+      "specification_market": "Factory manual cover identifies 2008 Roadster; imprint is 27 January 2009, revision AB. Actual cover, owner introduction, tyre table and subsystem pages 11-17–19 rendered/read. The selected manual specifies a single-speed configuration; not every early delivery shared it. Power/torque ratings, ratio stages, range, energy capacity, later 2.x/Sport/2.5 and the future new Roadster are omitted.",
+      "summary": "The original Roadster established Tesla’s production sports-car programme and high-performance electric identity. Its significance is the move from a new manufacturer’s concept into a customer road car, rather than a later trim or power increase.",
+      "admission_reason": "The original Roadster established Tesla’s production sports-car programme and high-performance electric identity. Its significance is the move from a new manufacturer’s concept into a customer road car, rather than a later trim or power increase.",
+      "sources": [
+        {
+          "publisher": "Tesla Motors",
+          "title": "2008 Tesla Roadster Owners Manual — revision AB, 27 January 2009; physical PDF100 and113–115",
+          "source_type": "Manufacturer original owner manual",
+          "url": "https://service.tesla.com/docs/Public/Roadster/Owner/Roadster_2008_Owners_Manual.pdf",
+          "notes": "Factory manual cover identifies 2008 Roadster; imprint is 27 January 2009, revision AB. Actual cover, owner introduction, tyre table and subsystem pages 11-17–19 rendered/read. The selected manual specifies a single-speed configuration; not every early delivery shared it. Power/torque ratings, ratio stages, range, energy capacity, later 2.x/Sport/2.5 and the future new Roadster are omitted."
+        },
+        {
+          "publisher": "Tesla Motors",
+          "title": "Form 10-Q, quarter ended 30 September 2011 — original Roadster introduction and later-version chronology",
+          "source_type": "Manufacturer original corporate filing / product chronology",
+          "url": "https://ir.tesla.com/_flysystem/s3/sec/000119312511308489/d226201d10q.html",
+          "notes": "Overview identifies the Roadster as Tesla’s first vehicle introduced in early 2008, distinguishes July 2009 Roadster 2/Sport and July 2010 2.5. Used for programme history, not later-model specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2008 Tesla Roadster front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2008_Tesla_Roadster_front.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/49710116662/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Electric drive",
+          "label": "Motor",
+          "value": "Air-cooled AC induction motor with variable-frequency drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Single-speed fixed gear with electrically actuated parking lock",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent upper/lower unequal-length wishbones, coil springs and telescopic dampers front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front and rear discs with vacuum servo and ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Battery",
+          "label": "Chemistry",
+          "value": "Lithium-ion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Battery",
+          "label": "Cell count",
+          "value": "6831",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Yokohama Neova AD07 LTS: 175/55 R16 front; 225/45 R17 rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Roadster established Tesla’s production sports-car programme and high-performance electric identity. Its significance is the move from a new manufacturer’s concept into a customer road car, rather than a later trim or power increase.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tes_roadster_original2008_manual.jpg",
+          "caption": "Tesla Roadster at AutoRAI Amsterdam in 2009, identified by the photographer as UK-registered in 2008. It illustrates the early first-generation body. The photograph does not establish the January 2009 manual’s exact powertrain, completion of an early retrofit, market equipment or current battery condition.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "029992eafc73bb8f01be1e1d64b9fde3f1deebfe358b968bed0f6f783bcec695"
+        }
+      ]
+    }
+  ]
+}
