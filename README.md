@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Seventy-three reviewed road-icon batches add 454 cars
-to the 395-record baseline, bringing the working catalogue to 849 records.
-The latest [Facel II and MG XPower SV batch](docs/icons-road-73.md)
+evidence and licensed photograph. Seventy-four reviewed road-icon batches add 456 cars
+to the 395-record baseline, bringing the working catalogue to 851 records.
+The latest [Maserati Indy and TVR wedge batch](docs/icons-road-74.md)
 adds two absent original performance-road families, following the
-[Jensen C-V8 batch](docs/icons-road-72.md). Individual reviews and
+[Facel II and MG XPower SV batch](docs/icons-road-73.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

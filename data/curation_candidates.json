@@ -5051,7 +5051,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 847-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-73.json"
+    },
+    {
+      "manufacturer": "Maserati",
+      "model": "Indy",
+      "generation": "Original AM116 Indy production-road V8 GT family",
+      "proposed_record": "MAS-INDY-AM116-4200-1969",
+      "reason": "The Indy extended Maserati’s sporting V8 GT tradition into a genuine four-seat Vignale coupe, combining twin-cam engine engineering with long-distance usability. A first-hand drive records the original 4.2-litre engine’s strong upper-rev response and fast touring character. It belongs as a distinct historic Maserati performance GT, not simply through its badge or the Indianapolis-inspired name.",
+      "evidence": "https://www.auto-motor-und-sport.de/oldtimer/maserati-indy-1969-1974-schwachstellen-fahrbericht/",
+      "duplicate_review": "Absent model/generation checked against the complete 849-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-74.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "Tasmin / Wedges",
+      "generation": "Original Tasmin / wedge-shaped production-road sports-car family",
+      "proposed_record": "TVR-WEDGE-350I-ORIGINAL1983",
+      "reason": "The Tasmin wedge marked a major design and chassis departure for TVR. Installing the Rover V8 created the 350i and established the marque’s defining V8 sports-car direction under Peter Wheeler. Its light sports-car concept and lasting place in TVR history justify one wedge-family entry, grouping its engines, body revisions and renamed variants rather than treating them as extra cars.",
+      "evidence": "https://www.tvr.co.uk/heritage",
+      "duplicate_review": "Absent model/generation checked against the complete 849-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-74.json"
     }
   ],
-  "catalogue_count_after_batches": 849
+  "catalogue_count_after_batches": 851
 }
