@@ -3654,7 +3654,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 717-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-43.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Impala",
+      "generation": "1994–1996 B-body Impala SS rear-drive performance-saloon generation",
+      "proposed_record": "CHE-IMPALA-SS-BBODY1994",
+      "reason": "The B-body Impala SS revived Chevrolet’s full-size muscle-saloon identity with an LT1 V8, limited-slip rear axle and substantial chassis hardware. Its enduring sleeper reputation and place in the Impala SS lineage make it an American performance icon beyond an appearance package.",
+      "evidence": "https://news.chevrolet.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1994-Chevrolet-Impala.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Accord",
+      "generation": "European sixth-generation Accord Type-R sporting-saloon family",
+      "proposed_record": "HON-ACCORD-TYPER-EU2001",
+      "reason": "The European Accord Type-R is a defining Honda sporting saloon, pairing a high-output naturally aspirated VTEC engine with a focused chassis. Its place in the Type-R lineage and limited-slip handling make it a performance icon distinct from the later CL7 Euro-R already archived.",
+      "evidence": "https://www.honda.co.uk/cars/blog/article/brand/Type-R-hondas-racing-heartbeat.html",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Alcyone SVX / SVX",
+      "generation": "Original CX-series SVX production-road grand-touring coupe family",
+      "proposed_record": "SUB-SVX-ORIGINAL-US1992",
+      "reason": "The SVX is Subaru’s landmark performance grand tourer, combining a purpose-developed flat-six with all-wheel drive and Giorgetto Giugiaro’s distinctive glass canopy. Its unusual engineering and lasting design identity make it a Japanese GT icon rather than an ordinary luxury derivative.",
+      "evidence": "https://www.subaru.jp/manufacturing/history/",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Rover",
+      "model": "SD1",
+      "generation": "Original SD1 Vitesse production-road sporting fastback family",
+      "proposed_record": "ROV-SD1-VITESSE-MUSEUM1986",
+      "reason": "The SD1 Vitesse is a defining British V8 performance fastback whose road programme underpinned TWR touring-car development. Its combination of distinctive SD1 design, injected V8 performance and competition lineage earns a place beyond rarity or luxury trim.",
+      "evidence": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800364",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Suzuki",
+      "model": "Swift / Cultus",
+      "generation": "Original first-generation Swift / Cultus GTi production-road performance family",
+      "proposed_record": "SUZ-SWIFT-GTI-FIRSTGEN1986",
+      "reason": "The original Swift GTi established Suzuki’s enduring small hot-hatch lineage with a high-output twin-cam multivalve engine. As the direct predecessor of the Swift Sport, it is a recognised lightweight Japanese performance reference, not an ordinary Swift engine grade.",
+      "evidence": "https://www.suzuki.at/ueber-suzuki/swift",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Kadett",
+      "generation": "Kadett E GSi 16V front-drive production-road sporting-hatch family",
+      "proposed_record": "OPE-KADETT-E-GSI16V-CAT1988",
+      "reason": "The Kadett E GSi 16V is a landmark European hot hatch associated with Opel’s influential multivalve performance-engine lineage. Its twin-cam, four-valve engineering made it a defining GSi, distinct from the earlier rear-drive Kadett C GT/E already preserved.",
+      "evidence": "https://www.media.stellantis.com/de-de/opel/press/pressemappe-aus-guter-opel-tradition-grosser-sport-fur-alle",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Calibra",
+      "generation": "Original Calibra production-road sporting coupe family",
+      "proposed_record": "OPE-CALIBRA-TURBO4X4-1992",
+      "reason": "The Calibra Turbo 4x4 is a defining 1990s European performance coupe, combining all-wheel drive and turbo power with Erhard Schnell’s influential design. It represents the high-performance road expression of a lasting coupe icon, with racing history kept separate from road hardware.",
+      "evidence": "https://www.media.stellantis.com/it-it/opel/press/25-anni-di-opel-calibra",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "BX",
+      "generation": "Original BX GTi 16 Valve production-road sporting-hatch family",
+      "proposed_record": "CIT-BX-16VALVE-UK1990",
+      "reason": "The BX 16 Valve joins Citroën’s self-levelling chassis tradition with a high-output multivalve road engine. Its distinctive combination of fast-hatch performance and hydropneumatic comfort, and the family’s early French production sixteen-valve milestone, make it an engineering-led performance icon.",
+      "evidence": "https://www.media.stellantis.com/uk-en/citroen/press/citroen-bx-celebrates-its-40th-birthday",
+      "duplicate_review": "Absent model/generation checked against the complete 722-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-44.json"
     }
   ],
-  "catalogue_count_after_batches": 722
+  "catalogue_count_after_batches": 730
 }
