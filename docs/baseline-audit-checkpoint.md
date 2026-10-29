@@ -425,3 +425,24 @@ hashes are in `data/baseline-carrera-gt-media-repair-01.json`.
 
 The earlier count-based media screen did not establish semantic source identity.
 This finding is one reason the full baseline media and evidence audit stays open.
+
+## LFA baseline evidence and media review
+
+Reviewed 2026-10-30. The existing LFA clearly qualifies through its bespoke V10
+and in-house CFRP programme. A complete identity search finds the standard and
+Nurburgring Package records within one original road programme; the package's
+separate count remains pending. A sourced admission fact was added without
+changing cars or technical values. The 44 attributes and four original facts
+agree with the actually read manufacturer evidence, with launch targets,
+calculated power-to-weight, differing weight scopes and the UK engine-code typo
+explicitly qualified. The 500 total includes the package cars.
+
+All four stored photographs match their correct Commons originals/renditions
+byte for byte and retain correct credits/licences. Caption corrections avoid
+claiming a visible digital display or standard/factory package equipment from
+the red wing-equipped car. Source notes retain exact licence URLs and original
+credits. The [bounded review](baseline-lfa-review-01.md) and
+[exact changes](../data/baseline-lfa-review-01.json) document the evidence and
+preservation checks. Auction, current-market and colour/distribution estimates,
+the complete package record and the wider baseline audit remain open. The
+working inventory remains 863; no additional car is counted by this review.
