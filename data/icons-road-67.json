@@ -1,0 +1,473 @@
+{
+  "batch": "icons-road-2026-10-30-67",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "TOY-STARLET-TURBOS-EP71-JP1986",
+      "manufacturer": "Toyota",
+      "model_family": "Starlet Turbo",
+      "generation": "Third-generation P70 / EP71 turbocharged production-road hatchback family",
+      "variant": "Three-door Turbo S — original January 1986 Japan five-speed reference",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 8 January 1986 Japanese Turbo S three-door with five-speed manual. Factory native PS and kg-m remain unconverted; the 2019 publisher’s republication of its period test identifies the manual reference and peak speeds. No later 110 PS tune, ordinary Si engine/weight, TEMS standard-fit claim, automatic specification, production total or 0–400 m-to-0–100 km/h substitution is imported.",
+      "summary": "The first turbo Starlet established the compact, forceful performance identity that preceded the later GT Turbo and Glanza. Its intercooled engine offered driver-selectable boost modes. Motor Magazine’s retrospective draws on its own period test and recognises the EP71 as a Japanese boys-racer landmark, while describing demanding handling that required skill to manage. This original turbo generation merits one entry.",
+      "admission_reason": "The first turbo Starlet established the compact, forceful performance identity that preceded the later GT Turbo and Glanza. Its intercooled engine offered driver-selectable boost modes. Motor Magazine’s retrospective draws on its own period test and recognises the EP71 as a Japanese boys-racer landmark, while describing demanding handling that required skill to manage. This original turbo generation merits one entry.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Toyota Introduces Starlet-Turbo — 8 January 1986",
+          "source_type": "Original manufacturer launch release",
+          "url": "https://global.toyota/en/detail/7768079",
+          "notes": "Original 8 January 1986 Japanese Turbo S three-door with five-speed manual. Factory native PS and kg-m remain unconverted; the 2019 publisher’s republication of its period test identifies the manual reference and peak speeds. No later 110 PS tune, ordinary Si engine/weight, TEMS standard-fit claim, automatic specification, production total or 0–400 m-to-0–100 km/h substitution is imported."
+        },
+        {
+          "publisher": "Motor Magazine editorial staff",
+          "title": "80s Boys-Racer History 14: EP71 Starlet Turbo — 25 November 2019",
+          "source_type": "Publisher’s historical account using its own contemporary test",
+          "url": "https://web.motormagazine.co.jp/_ct/17319694",
+          "notes": "Publisher revisits its own period test and explicitly identifies the 1986 three-door Turbo S. The difficult handling assessment is retained. Its 1987 uprated engine and measured standing-quarter results are not the selected original specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Toyota Starlet P70 Turbo S Super Limited.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Toyota_Starlet_P70_Turbo_S_Super_Limited.jpg",
+          "notes": "Ypy31; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1295",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Water-cooled turbocharger; air-cooled intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Electronic knock control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "175/60 R14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine code",
+          "value": "2E-TELU",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, normal boost mode",
+          "value": "105",
+          "unit": "PS net",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, normal boost mode",
+          "value": "15.2",
+          "unit": "kg-m net",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, low boost mode",
+          "value": "91",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Boost control",
+          "value": "Driver-selectable normal and low modes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft; three valves per cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first turbo Starlet established the compact, forceful performance identity that preceded the later GT Turbo and Glanza. Its intercooled engine offered driver-selectable boost modes. Motor Magazine’s retrospective draws on its own period test and recognises the EP71 as a Japanese boys-racer landmark, while describing demanding handling that required skill to manage. This original turbo generation merits one entry.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_starlet_turbos_ep71_jp1986.jpg",
+          "caption": "Toyota Starlet P70 Turbo S Super Limited photographed by Ypy31. This representative later-trim EP71 body does not certify the original 1986 power rating, suspension, equipment or unchanged tune.",
+          "creator": "Ypy31",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "02de7d482d4e1bf6c9a9c9f70c2df2d56949a92092bec07cd9f3510cfd9b0fd1"
+        }
+      ]
+    },
+    {
+      "id": "NIS-PULSAR-VZRN1-JN15-JP1997",
+      "manufacturer": "Nissan",
+      "model_family": "Pulsar Serie VZ-R N1",
+      "generation": "N15 / JN15 Pulsar high-performance production-road hatchback family",
+      "variant": "VZ-R N1 — September 1997 Japan standard road-equipment reference",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "September 1997 Autech/Nissan brochure, both pages visually read. Selects the standard road-equipped N1, not the separately listed race-base deletions. Native PS/torque units retained. The original viscous LSD is not a later helical substitution. Large roof spoiler and side stripes are options, not universal equipment. The announced combined Pulsar/Lucino allocation is not proved production, and rebadges, Version II and ordinary VZ-R add no extra count.",
+      "summary": "Autech’s Pulsar VZ-R N1 represents the high-revving engineering of Japan’s 1990s performance hatchbacks. Its 1596 cc SR16VE combined switchable valve timing and lift with dedicated cylinder-head, intake and exhaust work to produce 200 PS. Further balancing and port finishing distinguish the N1 programme. That specific engine development, rather than the announced limited allocation alone, justifies its place.",
+      "admission_reason": "Autech’s Pulsar VZ-R N1 represents the high-revving engineering of Japan’s 1990s performance hatchbacks. Its 1596 cc SR16VE combined switchable valve timing and lift with dedicated cylinder-head, intake and exhaust work to produce 200 PS. Further balancing and port finishing distinguish the N1 programme. That specific engine development, rather than the announced limited allocation alone, justifies its place.",
+      "sources": [
+        {
+          "publisher": "Autech Japan / Nissan",
+          "title": "Pulsar Serie VZ-R N1 — September 1997 manufacturer brochure, pages 1–2",
+          "source_type": "Original manufacturer brochure, official historical archive",
+          "url": "https://www.autech.co.jp/history/sv/PDF/pulsarserie_vzrn1_1997.pdf",
+          "notes": "September 1997 Autech/Nissan brochure, both pages visually read. Selects the standard road-equipped N1, not the separately listed race-base deletions. Native PS/torque units retained. The original viscous LSD is not a later helical substitution. Large roof spoiler and side stripes are options, not universal equipment. The announced combined Pulsar/Lucino allocation is not proved production, and rebadges, Version II and ordinary VZ-R add no extra count."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1997 NISSAN PULSAR VZ-R・N1 front01.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1997_NISSAN_PULSAR_VZ-R%E3%83%BBN1_front01.jpg",
+          "notes": "Kirakiraouji; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Water-cooled inline four-cylinder; SR16VE NEO VVL",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1596",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts; switchable valve timing and lift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.6:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Front viscous limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front struts; rear multi-link beam",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs; rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/55 VR15",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "200",
+          "unit": "PS net",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "18.5",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "7600",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Autech’s Pulsar VZ-R N1 represents the high-revving engineering of Japan’s 1990s performance hatchbacks. Its 1596 cc SR16VE combined switchable valve timing and lift with dedicated cylinder-head, intake and exhaust work to produce 200 PS. Further balancing and port finishing distinguish the N1 programme. That specific engine development, rather than the announced limited allocation alone, justifies its place.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_pulsar_vzrn1_jn15_jp1997.jpg",
+          "caption": "1997 Nissan Pulsar VZ-R N1 photographed by Kirakiraouji. Representative JN15 road hatch; the visible large spoiler does not establish standard equipment, factory originality or the selected brochure car’s identity.",
+          "creator": "Kirakiraouji",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "88afe619a2dd6d476a791f8d2c76c1252d27f7a9d89311ecb449348378133d57"
+        }
+      ]
+    },
+    {
+      "id": "DAI-STORIA-X4-M112S-JP1998",
+      "manufacturer": "Daihatsu",
+      "model_family": "Storia X4",
+      "generation": "Original M112S Storia X4 production-road motorsport-base hatchback family",
+      "variant": "X4 M112S-GMNZ — original April 1998 Japan retail programme",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 10 April 1998 Japanese retail X4 M112S-GMNZ, sold as a small passenger car and motorsport base with road equipment. Road specification is from the factory release; competition results establish heritage only. No later Boon X4, ordinary 1.0/1.3-litre Sirion Rally, unsupported 120 PS/boost figure, regulatory-capacity formula or race tune is transferred.",
+      "summary": "The Storia X4 gave a small road hatch an unusually focused factory motorsport package: a 713 cc twin-cam turbo four with forged pistons and crankshaft, full-time four-wheel drive and front and rear limited-slip differentials. A close-ratio manual and reinforced chassis completed the package. This specialised engineering, backed by an actual M112S competition record, distinguishes it from an ordinary Storia or Sirion.",
+      "admission_reason": "The Storia X4 gave a small road hatch an unusually focused factory motorsport package: a 713 cc twin-cam turbo four with forged pistons and crankshaft, full-time four-wheel drive and front and rear limited-slip differentials. A close-ratio manual and reinforced chassis completed the package. This specialised engineering, backed by an actual M112S competition record, distinguishes it from an ordinary Storia or Sirion.",
+      "sources": [
+        {
+          "publisher": "Daihatsu Motor Co., Ltd.",
+          "title": "Storia X4 motorsport-base model introduced — 10 April 1998",
+          "source_type": "Original manufacturer retail launch release",
+          "url": "https://www.daihatsu.com/jp/news/1998/19980410-01.html",
+          "notes": "Original 10 April 1998 Japanese retail X4 M112S-GMNZ, sold as a small passenger car and motorsport base with road equipment. Road specification is from the factory release; competition results establish heritage only. No later Boon X4, ordinary 1.0/1.3-litre Sirion Rally, unsupported 120 PS/boost figure, regulatory-capacity formula or race tune is transferred."
+        },
+        {
+          "publisher": "Japan Automobile Federation (JAF)",
+          "title": "All-Japan Dirt Trial Championship Round 2 TAISEI TECHNO CUP — A1 results, 29–30 April 2000",
+          "source_type": "Original national federation competition result",
+          "url": "https://motorsports.jaf.or.jp/results/search/2000/dirt-trial/2000-3207-1",
+          "notes": "Original federation results list car 72, M112S FK Promatec AP Storia, first in A1 at Maishima Sports Island. This is a class result at one event, not an overall championship title. Competition hardware is not a road specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Daihatsu Storia X4 (GF-M112S) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Daihatsu_Storia_X4_(GF-M112S)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder; JC-DET",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "713",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin camshafts; 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged; large intercooler with washer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential injection with 16-bit engine control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio five-speed manual; reinforced clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Front and rear limited-slip differentials",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Reinforced shock absorbers, coil springs and bushes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "165/65 R14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Internal components",
+          "value": "Forged pistons and crankshaft",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Storia X4 gave a small road hatch an unusually focused factory motorsport package: a 713 cc twin-cam turbo four with forged pistons and crankshaft, full-time four-wheel drive and front and rear limited-slip differentials. A close-ratio manual and reinforced chassis completed the package. This specialised engineering, backed by an actual M112S competition record, distinguishes it from an ordinary Storia or Sirion.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        },
+        {
+          "title": "Documented competition heritage",
+          "explanation": "JAF records an M112S Storia winning the A1 class at round two of the 2000 All-Japan Dirt Trial Championship. This establishes actual competition success for the programme; the race car’s modifications are not the retail X4 specification.",
+          "category": "Motorsport heritage",
+          "confidence": "Federation documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dai_storia_x4_m112s_jp1998.jpg",
+          "caption": "Daihatsu Storia X4 GF-M112S photographed by Tokumeigakarinoaoshima. Representative road hatch with intake and steel wheels; its photograph does not certify the exact April 1998 specification, original mechanical condition or competition equipment.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "25c2b3a016efa7ca4a2975821a16fd67208f2a4cbb61466a0a3ae8e5227856b5"
+        }
+      ]
+    }
+  ]
+}

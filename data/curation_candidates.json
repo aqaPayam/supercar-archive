@@ -4886,7 +4886,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 830-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-66.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Starlet Turbo",
+      "generation": "Third-generation P70 / EP71 turbocharged production-road hatchback family",
+      "proposed_record": "TOY-STARLET-TURBOS-EP71-JP1986",
+      "reason": "The first turbo Starlet established the compact, forceful performance identity that preceded the later GT Turbo and Glanza. Its intercooled engine offered driver-selectable boost modes. Motor Magazine’s retrospective draws on its own period test and recognises the EP71 as a Japanese boys-racer landmark, while describing demanding handling that required skill to manage. This original turbo generation merits one entry.",
+      "evidence": "https://web.motormagazine.co.jp/_ct/17319694",
+      "duplicate_review": "Absent model/generation checked against the complete 834-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-67.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Pulsar Serie VZ-R N1",
+      "generation": "N15 / JN15 Pulsar high-performance production-road hatchback family",
+      "proposed_record": "NIS-PULSAR-VZRN1-JN15-JP1997",
+      "reason": "Autech’s Pulsar VZ-R N1 represents the high-revving engineering of Japan’s 1990s performance hatchbacks. Its 1596 cc SR16VE combined switchable valve timing and lift with dedicated cylinder-head, intake and exhaust work to produce 200 PS. Further balancing and port finishing distinguish the N1 programme. That specific engine development, rather than the announced limited allocation alone, justifies its place.",
+      "evidence": "https://www.autech.co.jp/history/sv/PDF/pulsarserie_vzrn1_1997.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 834-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-67.json"
+    },
+    {
+      "manufacturer": "Daihatsu",
+      "model": "Storia X4",
+      "generation": "Original M112S Storia X4 production-road motorsport-base hatchback family",
+      "proposed_record": "DAI-STORIA-X4-M112S-JP1998",
+      "reason": "The Storia X4 gave a small road hatch an unusually focused factory motorsport package: a 713 cc twin-cam turbo four with forged pistons and crankshaft, full-time four-wheel drive and front and rear limited-slip differentials. A close-ratio manual and reinforced chassis completed the package. This specialised engineering, backed by an actual M112S competition record, distinguishes it from an ordinary Storia or Sirion.",
+      "evidence": "https://www.daihatsu.com/jp/news/1998/19980410-01.html",
+      "duplicate_review": "Absent model/generation checked against the complete 834-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-67.json"
     }
   ],
-  "catalogue_count_after_batches": 834
+  "catalogue_count_after_batches": 837
 }
