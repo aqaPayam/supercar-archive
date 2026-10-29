@@ -2565,7 +2565,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 621-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-26.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "456",
+      "generation": "Original F116 456 GT road coupe family",
+      "proposed_record": "FER-456GT-US1997",
+      "reason": "The 456 GT restored a front-engined V12 2+2 to Ferrari’s range after a three-year absence, pairing a new twelve-cylinder engine with a rear transaxle. Its Pininfarina design reinterpreted Daytona themes with a modern four-seat body, making it a defining renewal of Ferrari’s traditional high-performance grand tourer.",
+      "evidence": "https://www.motorshow.me/uploadImages/GalleryDocs/Doc6832.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 625-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-27.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "612 Scaglietti",
+      "generation": "Original F137 aluminium V12 four-seat road coupe",
+      "proposed_record": "FER-612-ORIGINAL-MT2004",
+      "reason": "The 612 Scaglietti brought an aluminium spaceframe and aluminium body to Ferrari’s V12 grand-tourer line, combining four-seat accommodation with a front-mid engine and rear transaxle. Its structural and chassis development, including active damping and integrated stability control, makes it a significant engineering step in the marque’s performance-GT history.",
+      "evidence": "https://www.netcarshow.com/ferrari/2004-612_scaglietti/",
+      "duplicate_review": "Absent model/generation checked against the complete 625-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-27.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB9",
+      "generation": "Original Gaydon VH V12 road coupe",
+      "proposed_record": "AST-DB9-LAUNCH2004-AT",
+      "reason": "The DB9 inaugurated Aston Martin’s Gaydon production era and the VH aluminium architecture that shaped the marque’s subsequent road cars. Its bonded and riveted aluminium structure, front-mid V12 and rear transaxle made the 2+2 a substantial engineering and design renewal of the traditional DB grand tourer.",
+      "evidence": "https://media.astonmartin.com/db9/?lang=eng",
+      "duplicate_review": "Absent model/generation checked against the complete 625-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-27.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XJ-S",
+      "generation": "Original pre-HE V12 closed grand touring road family",
+      "proposed_record": "JAG-XJS-V12-PREHE-MT",
+      "reason": "The XJ-S established Jaguar’s international grand-touring direction with a distinctive flying-buttress coupe, V12 power and chassis development from the XJ saloon. The design retained the influence of Malcolm Sayer and William Lyons while combining performance, refinement and four-seat road use, making it an important transition in Jaguar’s sporting lineage.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1975-jaguar-xj-s-v12-coupe-oom-555r/",
+      "duplicate_review": "Absent model/generation checked against the complete 625-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-27.json"
     }
   ],
-  "catalogue_count_after_batches": 625
+  "catalogue_count_after_batches": 629
 }

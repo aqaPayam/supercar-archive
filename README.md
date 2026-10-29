@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Twenty-six reviewed road-icon batches add 230 cars
-to the 395-record baseline, bringing the working catalogue to 625 records.
-The latest [Ford road-performance batch](docs/icons-road-26.md)
-adds four missing road references, following the
-[Japanese performance-generation batch](docs/icons-road-25.md). Individual reviews and
+evidence and licensed photograph. Twenty-seven reviewed road-icon batches add 234 cars
+to the 395-record baseline, bringing the working catalogue to 629 records.
+The latest [V12 grand-tourer batch](docs/icons-road-27.md)
+adds four missing road families, following the
+[Ford road-performance batch](docs/icons-road-26.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
