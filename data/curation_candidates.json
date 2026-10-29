@@ -2807,7 +2807,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 641-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-31.json"
+    },
+    {
+      "manufacturer": "Isuzu",
+      "model": "117 Coupe",
+      "generation": "Original hand-built Giugiaro/Ghia 1600 DOHC road coupe family",
+      "proposed_record": "ISU-117-PA90-1968",
+      "reason": "The original 117 Coupe combined Giorgetto Giugiaro’s Ghia styling with a twin-cam engine in a distinctive Japanese grand tourer. Early hand-built production preserved the design, and its later recognition as a Japan Automotive Hall of Fame historical vehicle reflects its lasting place in Japanese car design.",
+      "evidence": "https://www.isuzu.co.jp/world/plaza/info/20220401/index_01_en.html",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Celica",
+      "generation": "First-generation A20 original 1600 DOHC GT hardtop road family",
+      "proposed_record": "TOY-CELICA-TA22-GT1970",
+      "reason": "The original Celica helped establish Japan’s specialty sports-coupe market, with a distinct hardtop body and GT-grade twin-cam engine that brought advanced performance engineering to a wider audience. Its full-choice personalisation system helped define a new kind of Japanese sporting coupe.",
+      "evidence": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60009901/",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Skyline GT-R",
+      "generation": "Fourth-generation C110 original S20-powered road GT-R family",
+      "proposed_record": "NIS-SKY-GTR-KPGC110-1973",
+      "reason": "The C110 Skyline GT-R carried the four-valve twin-cam S20 six into a new road-coupe body with four-wheel disc brakes. Its brief production and enduring Ken-and-Mary identity made it the Phantom GT-R in Skyline history, even though this generation never participated in touring-car races.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/069_skyline_2000gtr.html",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Prince",
+      "model": "Skyline",
+      "generation": "S54 original six-cylinder Skyline 2000GT road saloon family",
+      "proposed_record": "PRI-SKYLINE-S54B2-1965",
+      "reason": "Prince’s S54 Skyline established the sporting identity that later made the Skyline name famous. Its lengthened body accommodated a six-cylinder engine, and the family’s 1964 Japanese Grand Prix challenge against the Porsche 904 helped create one of Japan’s enduring performance-car legends.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/short_story/en_p34-01.html",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Daihatsu",
+      "model": "Charade",
+      "generation": "Original G100 twelve-valve turbocharged GTti road hot-hatch family",
+      "proposed_record": "DAI-CHARADE-GTTI-NL",
+      "reason": "The Charade GTti put an unusually advanced twin-cam, twelve-valve, fuel-injected and intercooled turbo three-cylinder engine into a compact hot hatch. Contemporary first-hand assessment singled out its technical merit and acceleration against established GTI rivals, making it a distinctive small-capacity performance landmark.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/september-1987/36/a-practical-fun-car/",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
+    },
+    {
+      "manufacturer": "Isuzu",
+      "model": "Bellett",
+      "generation": "Original PR91W 1600 GT-R twin-cam road coupe family",
+      "proposed_record": "ISU-BELLETT-GTR-PR91W",
+      "reason": "The Bellett 1600 GT-R developed Isuzu’s compact road coupe into a specialist twin-cam performance model. Its high-compression four-cylinder engine, fully independent suspension and production homologation make it an important early Japanese sporting coupe with a clear connection to Isuzu’s competition programme.",
+      "evidence": "https://historicdb.fia.com/sites/default/files/car_attachment/1601082001/homologation_form_number_1604_group_2.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 645-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-32.json"
     }
   ],
-  "catalogue_count_after_batches": 645
+  "catalogue_count_after_batches": 651
 }

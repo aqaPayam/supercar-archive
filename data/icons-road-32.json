@@ -1,0 +1,967 @@
+{
+  "batch": "icons-road-2026-10-29-32",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 6,
+  "cars": [
+    {
+      "id": "ISU-117-PA90-1968",
+      "manufacturer": "Isuzu",
+      "model_family": "117 Coupe",
+      "generation": "Original hand-built Giugiaro/Ghia 1600 DOHC road coupe family",
+      "variant": "117 Coupe — 1968 Isuzu Plaza technical reference",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Isuzu Plaza manufacturer account and technical table explicitly identify a 1968 DOHC G161W road coupe. Retains native 88.0 kW / 120 PS, 1584 cc and four seats. English weight is labelled gross vehicle weight; it is not silently converted to curb mass and is omitted here. The warning that display details may differ from photographs is retained as a reference boundary. No later 1800/2000, electronic-injection, diesel, XC/XE/XG or square-lamp specifications are mixed into the early car.",
+      "summary": "The original 117 Coupe combined Giorgetto Giugiaro’s Ghia styling with a twin-cam engine in a distinctive Japanese grand tourer. Early hand-built production preserved the design, and its later recognition as a Japan Automotive Hall of Fame historical vehicle reflects its lasting place in Japanese car design.",
+      "admission_reason": "The original 117 Coupe combined Giorgetto Giugiaro’s Ghia styling with a twin-cam engine in a distinctive Japanese grand tourer. Early hand-built production preserved the design, and its later recognition as a Japan Automotive Hall of Fame historical vehicle reflects its lasting place in Japanese car design.",
+      "sources": [
+        {
+          "publisher": "Isuzu Motors / Isuzu Plaza",
+          "title": "Isuzu Plaza — 1968 117 Coupe welcome exhibition and main specifications",
+          "source_type": "Manufacturer heritage collection account and specifications",
+          "url": "https://www.isuzu.co.jp/world/plaza/info/20220401/index_01_en.html",
+          "notes": "Isuzu Plaza manufacturer account and technical table explicitly identify a 1968 DOHC G161W road coupe. Retains native 88.0 kW / 120 PS, 1584 cc and four seats. English weight is labelled gross vehicle weight; it is not silently converted to curb mass and is omitted here. The warning that display details may differ from photographs is retained as a reference boundary. No later 1800/2000, electronic-injection, diesel, XC/XE/XG or square-lamp specifications are mixed into the early car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Isuzu 117 coupe 001.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Isuzu_117_coupe_001.jpg",
+          "notes": "D.Bellwood; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Image:117coupe.jpg by D.Bellwood , modified by Tennnen-Gas"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "G161W water-cooled inline four with double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1584",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "88",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro at Carrozzeria Ghia",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4280",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1600",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1320",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native archive notation",
+          "value": "120",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 117 Coupe combined Giorgetto Giugiaro’s Ghia styling with a twin-cam engine in a distinctive Japanese grand tourer. Early hand-built production preserved the design, and its later recognition as a Japan Automotive Hall of Fame historical vehicle reflects its lasting place in Japanese car design.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_isu_117_pa90_1968.jpg",
+          "caption": "Early round-headlamp Isuzu 117 Coupe at the Toyota Automobile Museum, photographed by D.Bellwood. Represents the original road-coupe body. Exact year, installed G161W engine, tune and hand-built originality are not independently certified from the photograph. Not a later square-headlamp XC/XE/XG or diesel specification.",
+          "creator": "D.Bellwood",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8ff86c5f7686e70b3d3953af5546586702cf4420b3280e61db536adbb0941f4b"
+        }
+      ]
+    },
+    {
+      "id": "TOY-CELICA-TA22-GT1970",
+      "manufacturer": "Toyota",
+      "model_family": "Celica",
+      "generation": "First-generation A20 original 1600 DOHC GT hardtop road family",
+      "variant": "1600 DOHC GT — December 1970 Japan lineage reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop sports coupe",
+      "road_legal": 1,
+      "specification_market": "Toyota 75 Years original first-generation Japan reference released 1 December 1970. Only the 1600 DOHC GT column is used: 2T-G, 1588 cc, 115 PS at 6400 rpm and 940-kg curb mass. The web table abbreviates the GT type as TA-MQ while its note identifies the 1600 as TA22; no corrected full suffix is invented. Native PS is retained without a new gross/net or kW conversion; the page has a generic net-output footnote. Lower LT/twin-carb OHV columns, later Liftback/2000 engines and modified racing output are excluded. A choice of transmissions across the whole range does not establish one selected GT gearbox.",
+      "summary": "The original Celica helped establish Japan’s specialty sports-coupe market, with a distinct hardtop body and GT-grade twin-cam engine that brought advanced performance engineering to a wider audience. Its full-choice personalisation system helped define a new kind of Japanese sporting coupe.",
+      "admission_reason": "The original Celica helped establish Japan’s specialty sports-coupe market, with a distinct hardtop body and GT-grade twin-cam engine that brought advanced performance engineering to a wider audience. Its full-choice personalisation system helped define a new kind of Japanese sporting coupe.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "75 Years of Toyota — first-generation Celica, 1600 DOHC GT Japan specification",
+          "source_type": "Manufacturer historical lineage and specifications",
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60009901/",
+          "notes": "Toyota 75 Years original first-generation Japan reference released 1 December 1970. Only the 1600 DOHC GT column is used: 2T-G, 1588 cc, 115 PS at 6400 rpm and 940-kg curb mass. The web table abbreviates the GT type as TA-MQ while its note identifies the 1600 as TA22; no corrected full suffix is invented. Native PS is retained without a new gross/net or kW conversion; the page has a generic net-output footnote. Lower LT/twin-carb OHV columns, later Liftback/2000 engines and modified racing output are excluded. A choice of transmissions across the whole range does not establish one selected GT gearbox."
+        },
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "History of Toyota’s Motor Sports Activities — early Celica 1600GT",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/data/automotive_business/products_technology/motor_sports/index.html",
+          "notes": "Manufacturer timeline records the 1972 RAC Rally class win and subsequent 1600GT touring/endurance competition. Those results explain road-family relevance; no racing specification or overall RAC victory is assigned to this production car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Toyota Celica 1600 GT (53653302530).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Toyota_Celica_1600_GT_(53653302530).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1972 Toyota Celica 1600 GT"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "2T-G water-cooled inline four with double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1588",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum output, native archive notation",
+          "value": "115",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Curb mass, selected GT column",
+          "value": "940",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4165",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1600",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1310",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2425",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Celica helped establish Japan’s specialty sports-coupe market, with a distinct hardtop body and GT-grade twin-cam engine that brought advanced performance engineering to a wider audience. Its full-choice personalisation system helped define a new kind of Japanese sporting coupe.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        },
+        {
+          "title": "Early competition lineage",
+          "explanation": "Toyota’s own motorsport chronology records a Celica 1600GT works-team class victory at the 1972 RAC Rally, followed by class successes in European endurance racing. These were competition derivatives of the road family.",
+          "category": "Motorsport heritage",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_celica_ta22_gt1970.jpg",
+          "caption": "1972 Toyota Celica 1600 GT at a classic-car display, photographed by Kieran White. Shows the original hardtop coupe family and GT badging. Current wheels, finish, decals and displayed year do not certify the selected 1970 Japan 2T-G output or mechanical originality. Not a later Liftback, GT-Four or competition conversion.",
+          "creator": "Kieran White from Manchester, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ca3764d5fd00b60d74700e907e375150c84097288a55dd96c517f8f6ef1a2097"
+        }
+      ]
+    },
+    {
+      "id": "NIS-SKY-GTR-KPGC110-1973",
+      "manufacturer": "Nissan",
+      "model_family": "Skyline GT-R",
+      "generation": "Fourth-generation C110 original S20-powered road GT-R family",
+      "variant": "Skyline 2000GT-R — 1973 KPGC110 production road reference",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop sports coupe",
+      "road_legal": 1,
+      "specification_market": "Nissan Heritage road collection No.069, 1973 KPGC110. Native archive output, torque and road dimensions retained without an invented rating standard. Factory account explicitly says this model did not participate in touring-car races. No C10 fifty-win history, green 1972 racing-concept specification, restoration demonstration, replica tune or later GT-R data is assigned. The account says fewer than 200 built; no unsupported exact production total is inserted.",
+      "summary": "The C110 Skyline GT-R carried the four-valve twin-cam S20 six into a new road-coupe body with four-wheel disc brakes. Its brief production and enduring Ken-and-Mary identity made it the Phantom GT-R in Skyline history, even though this generation never participated in touring-car races.",
+      "admission_reason": "The C110 Skyline GT-R carried the four-valve twin-cam S20 six into a new road-coupe body with four-wheel disc brakes. Its brief production and enduring Ken-and-Mary identity made it the Phantom GT-R in Skyline history, even though this generation never participated in touring-car races.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "Nissan Heritage Collection No.069 — 1973 Skyline 2000GT-R KPGC110",
+          "source_type": "Manufacturer heritage collection account and specifications",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/069_skyline_2000gtr.html",
+          "notes": "Nissan Heritage road collection No.069, 1973 KPGC110. Native archive output, torque and road dimensions retained without an invented rating standard. Factory account explicitly says this model did not participate in touring-car races. No C10 fifty-win history, green 1972 racing-concept specification, restoration demonstration, replica tune or later GT-R data is assigned. The account says fewer than 200 built; no unsupported exact production total is inserted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan KPGC110 Skyline Hardtop 2000GT-R (22091110135).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_KPGC110_Skyline_Hardtop_2000GT-R_(22091110135).jpg",
+          "notes": "先従隗始; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "S20 inline six; four valves per cylinder; double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1989",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "118",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "177",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front struts and rear semi-trailing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "175HR14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque speed",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native archive notation",
+          "value": "160",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Curb weight",
+          "value": "1145",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4460",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1695",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1380",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2610",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C110 Skyline GT-R carried the four-valve twin-cam S20 six into a new road-coupe body with four-wheel disc brakes. Its brief production and enduring Ken-and-Mary identity made it the Phantom GT-R in Skyline history, even though this generation never participated in touring-car races.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_sky_gtr_kpgc110_1973.jpg",
+          "caption": "White KPGC110 Skyline Hardtop 2000GT-R at the Prince and Skyline Museum, Okaya, in September 2022. Road-bodied Kenmeri coupe with GT-R grille, photographed by 先従隗始. Appearance does not independently authenticate chassis identity, installed S20 or original tune; no 1972 green racing-concept identity is assigned.",
+          "creator": "先従隗始",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8f52b6f205733116bf76fbec96e39efb0cb1e597ee2e2df08126d49fa2282174"
+        }
+      ]
+    },
+    {
+      "id": "PRI-SKYLINE-S54B2-1965",
+      "manufacturer": "Prince",
+      "model_family": "Skyline",
+      "generation": "S54 original six-cylinder Skyline 2000GT road saloon family",
+      "variant": "Skyline 2000GT — 1965 S54B-2 heritage road reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Nissan Heritage No.291 identifies the 1965 Prince S54B-2 road 2000GT, not an ordinary 1500 or later C10. The page contains an unrelated Caball image-alt label; its model heading and explicit technical table identify the selected car. No unprinted gearbox or conversion of its native kW/PS notation is invented. The short story supports the original S54 racing origin only: its race-car setup is not the selected 1965 road specification. Race replicas and later S54B-3/GT-B revisions are not extra records.",
+      "summary": "Prince’s S54 Skyline established the sporting identity that later made the Skyline name famous. Its lengthened body accommodated a six-cylinder engine, and the family’s 1964 Japanese Grand Prix challenge against the Porsche 904 helped create one of Japan’s enduring performance-car legends.",
+      "admission_reason": "Prince’s S54 Skyline established the sporting identity that later made the Skyline name famous. Its lengthened body accommodated a six-cylinder engine, and the family’s 1964 Japanese Grand Prix challenge against the Porsche 904 helped create one of Japan’s enduring performance-car legends.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "Nissan Heritage Collection No.291 — 1965 Prince Skyline 2000GT S54B-2",
+          "source_type": "Manufacturer heritage collection account and specifications",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/prince_skyline_2000gt.html",
+          "notes": "Nissan Heritage No.291 identifies the 1965 Prince S54B-2 road 2000GT, not an ordinary 1500 or later C10. The page contains an unrelated Caball image-alt label; its model heading and explicit technical table identify the selected car. No unprinted gearbox or conversion of its native kW/PS notation is invented. The short story supports the original S54 racing origin only: its race-car setup is not the selected 1965 road specification. Race replicas and later S54B-3/GT-B revisions are not extra records."
+        },
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "The 2nd Japan Grand Prix and the Skyline 2000GT",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/short_story/en_p34-01.html",
+          "notes": "Manufacturer history explains the lengthened six-cylinder S54 and 1964 Grand Prix challenge, including second-through-sixth places behind the Porsche 904. It supports family significance; the selected road car is not represented as a race entrant or overall winner."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan Prince S54B-3 Skyline 2000GT-B (23050410524).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_Prince_S54B-3_Skyline_2000GT-B_(23050410524).jpg",
+          "notes": "先従隗始; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "G7 inline six with overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1988",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "92",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "167",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Triple carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front double wishbones; rear parallel leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "5.60-13-6PR",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "180",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque speed",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native archive notation",
+          "value": "125",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Curb weight",
+          "value": "1070",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4255",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1495",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1410",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2590",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Prince’s S54 Skyline established the sporting identity that later made the Skyline name famous. Its lengthened body accommodated a six-cylinder engine, and the family’s 1964 Japanese Grand Prix challenge against the Porsche 904 helped create one of Japan’s enduring performance-car legends.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pri_skyline_s54b2_1965.jpg",
+          "caption": "1966 Prince/Nissan Skyline 2000GT-B S54B-3 at the Prince and Skyline Museum, photographed by 先従隗始 in May 2023. Represents the original six-cylinder road-saloon family with a later revision. It does not certify the selected 1965 S54B-2 trim, carburettors or tune; not the displayed 1964 Grand Prix replica.",
+          "creator": "先従隗始",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "57b6742bafae6ebeb9d9436c0dbceb84f6b9dd5a95ae028e68e2906152bcd8f3"
+        }
+      ]
+    },
+    {
+      "id": "DAI-CHARADE-GTTI-NL",
+      "manufacturer": "Daihatsu",
+      "model_family": "Charade",
+      "generation": "Original G100 twelve-valve turbocharged GTti road hot-hatch family",
+      "variant": "GTti — original Daihatsu Holland road brochure, five-speed",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door five-seat performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Daihatsu Holland B.V., Rotterdam, Dutch G100 range brochure hosted as 1992; no print date is legible. The 1987 year marks the family documented by the contemporary road assessment, not an authenticated brochure publication year. All 16 pages rendered; GTti PDF5, chassis PDF14, GTti technical column PDF15 and importer footer PDF16 individually read. Retains 993 cc, 74 kW/101 PK at 6500 rpm, 130 Nm at 3500 rpm, five-speed, 7.8:1, 835-kg unladen mass, 185 km/h and factory 0–100 claim of 8.2 s. Diesel/basic columns, UK road-test output/0–60 claims, FIA turbo-equivalence and racing modifications are not substituted.",
+      "summary": "The Charade GTti put an unusually advanced twin-cam, twelve-valve, fuel-injected and intercooled turbo three-cylinder engine into a compact hot hatch. Contemporary first-hand assessment singled out its technical merit and acceleration against established GTI rivals, making it a distinctive small-capacity performance landmark.",
+      "admission_reason": "The Charade GTti put an unusually advanced twin-cam, twelve-valve, fuel-injected and intercooled turbo three-cylinder engine into a compact hot hatch. Contemporary first-hand assessment singled out its technical merit and acceleration against established GTI rivals, making it a distinctive small-capacity performance landmark.",
+      "sources": [
+        {
+          "publisher": "Daihatsu Holland B.V. / PakWheels hosted facsimile",
+          "title": "Daihatsu Holland — original Dutch Charade range brochure, GTti technical column",
+          "source_type": "Period manufacturer/importer brochure, hosted facsimile",
+          "url": "https://cache2.pakwheels.com/system/brochures/772/original/Daihatsu-Charade-1992-NL.pdf?1750413035=",
+          "notes": "Original Daihatsu Holland B.V., Rotterdam, Dutch G100 range brochure hosted as 1992; no print date is legible. The 1987 year marks the family documented by the contemporary road assessment, not an authenticated brochure publication year. All 16 pages rendered; GTti PDF5, chassis PDF14, GTti technical column PDF15 and importer footer PDF16 individually read. Retains 993 cc, 74 kW/101 PK at 6500 rpm, 130 Nm at 3500 rpm, five-speed, 7.8:1, 835-kg unladen mass, 185 km/h and factory 0–100 claim of 8.2 s. Diesel/basic columns, UK road-test output/0–60 claims, FIA turbo-equivalence and racing modifications are not substituted."
+        },
+        {
+          "publisher": "Motor Sport / Bill Boddy",
+          "title": "Road impressions: Daihatsu Charade — September 1987 GTti first-hand assessment",
+          "source_type": "Contemporary first-hand road assessment",
+          "url": "https://www.motorsportmagazine.com/archive/article/september-1987/36/a-practical-fun-car/",
+          "notes": "Contemporary UK GTti drive, republished online in 2014. Supports the family’s presence in 1987, advanced engine and sporting merit. Its UK figures, test/sticker acceleration and measured fuel consumption are not Dutch factory technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989 Daihatsu Charade 1.0 GTti.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1989_Daihatsu_Charade_1.0_GTti.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/52251188594/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Three-cylinder DOHC petrol engine; twelve valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "993",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "74",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "130",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Microcomputer-controlled electronic fuel injection and ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson suspension front and rear; hydraulic dampers and stabilisers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "185",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "8.2",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque speed",
+          "value": "3500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native Dutch brochure notation",
+          "value": "101",
+          "unit": "PK",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Unladen weight, ledig gewicht",
+          "value": "835",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "234",
+          "unit": "cm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Charade GTti put an unusually advanced twin-cam, twelve-valve, fuel-injected and intercooled turbo three-cylinder engine into a compact hot hatch. Contemporary first-hand assessment singled out its technical merit and acceleration against established GTI rivals, making it a distinctive small-capacity performance landmark.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dai_charade_gtti_nl.jpg",
+          "caption": "1989 Daihatsu Charade 1.0 GTti, XF-47-DX, at Japan Classic Sunday 2022, photographed by Rutger van der Maar. Shows the Dutch-registered three-door G100 road family and Twin Cam 12 Valve Turbo markings. Exterior and year do not authenticate the undated brochure’s exact tune or mechanical originality; not a rally car or diesel.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f3c69836c6ef3ff819f8e51b27c3371b94bd2fc4b44343fa70ebabb1689abb71"
+        }
+      ]
+    },
+    {
+      "id": "ISU-BELLETT-GTR-PR91W",
+      "manufacturer": "Isuzu",
+      "model_family": "Bellett",
+      "generation": "Original PR91W 1600 GT-R twin-cam road coupe family",
+      "variant": "1600 GT-R — July 1970 base production recognition, four-speed",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Original Isuzu/JAF T-127, FIA1604 Group II production reference, valid from 1 July 1970. All 16 PDF pages rendered in a contact sheet; base PDF1/4–7/9/14 individually read. The complete file contains the original fourteen-page base form followed by a two-page bodywork evolution; the indexed amendment snippet was incomplete. Base declares 1584 cc, 10.3 compression, twin chain-driven overhead cams and four-speed manual. Native 120 PS JIS at 6400 rpm and 14.5 kg-m at 5000 rpm are retained without modern-net conversion. Rear suspension is explicitly corrected by hand to swing axle, not the struck-through diagonal links. Later grille/lamp evolution, alternate ratios and racing-car equipment/output are excluded. Production recognition describes the road basis, not a currently registered survivor or an event certificate.",
+      "summary": "The Bellett 1600 GT-R developed Isuzu’s compact road coupe into a specialist twin-cam performance model. Its high-compression four-cylinder engine, fully independent suspension and production homologation make it an important early Japanese sporting coupe with a clear connection to Isuzu’s competition programme.",
+      "admission_reason": "The Bellett 1600 GT-R developed Isuzu’s compact road coupe into a specialist twin-cam performance model. Its high-compression four-cylinder engine, fully independent suspension and production homologation make it an important early Japanese sporting coupe with a clear connection to Isuzu’s competition programme.",
+      "sources": [
+        {
+          "publisher": "Isuzu Motors / JAF / FIA Historic Database",
+          "title": "Isuzu PR91W Bellett 1600 GTR — original base production form, FIA1604",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601082001/homologation_form_number_1604_group_2.pdf",
+          "notes": "Original Isuzu/JAF T-127, FIA1604 Group II production reference, valid from 1 July 1970. All 16 PDF pages rendered in a contact sheet; base PDF1/4–7/9/14 individually read. The complete file contains the original fourteen-page base form followed by a two-page bodywork evolution; the indexed amendment snippet was incomplete. Base declares 1584 cc, 10.3 compression, twin chain-driven overhead cams and four-speed manual. Native 120 PS JIS at 6400 rpm and 14.5 kg-m at 5000 rpm are retained without modern-net conversion. Rear suspension is explicitly corrected by hand to swing axle, not the struck-through diagonal links. Later grille/lamp evolution, alternate ratios and racing-car equipment/output are excluded. Production recognition describes the road basis, not a currently registered survivor or an event certificate."
+        },
+        {
+          "publisher": "Isuzu Motors / Isuzu Plaza",
+          "title": "Isuzu challenging spirits — 1970 Bellett GT-R racing exhibit and prototype lineage",
+          "source_type": "Manufacturer heritage exhibition sheet",
+          "url": "https://www.isuzu.co.jp/plaza/info/20220511/index_01J.pdf",
+          "notes": "One-page manufacturer exhibition sheet rendered and read. Documents a 1970 GT-R racing car and the 1969 GT-X prototype Suzuka twelve-hour victory. The prototype’s victory and racing exhibit are not attributed as results or mechanical specifications of this production road car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Isuzu Bellett 1600 GT-R coupe (6108710977).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Isuzu_Bellett_1600_GT-R_coupe_(6108710977).jpg",
+          "notes": "sv1ambo; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1970 Isuzu Bellett 1600 GT-R coupe"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four; cast-iron block and aluminium cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1584",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts; chain drive; direct valve operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Mikuni/Solex side-draught twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Isuzu four-speed manual; four synchronised forward ratios; floor lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones with coils; independent rear swing axle with coils and transverse leaf",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Vacuum-assisted hydraulic front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum output, manufacturer-declared JIS notation",
+          "value": "120",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, at 5000 rpm",
+          "value": "14.5",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed, manufacturer-declared catalogue claim",
+          "value": "200",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Bellett 1600 GT-R developed Isuzu’s compact road coupe into a specialist twin-cam performance model. Its high-compression four-cylinder engine, fully independent suspension and production homologation make it an important early Japanese sporting coupe with a clear connection to Isuzu’s competition programme.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        },
+        {
+          "title": "Separate competition lineage",
+          "explanation": "Isuzu’s own exhibition records a 1970 Bellett GT-R racing car and the GT-X prototype’s 1969 Suzuka twelve-hour victory. This describes the family’s competition programme; it does not make the selected road car the winning prototype.",
+          "category": "Motorsport heritage",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_isu_bellett_gtr_pr91w.jpg",
+          "creator": "sv1ambo",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "379856df6155d1379e8fe5a8230324454d390fe6776df4fafbddd80f1512f4a5",
+          "caption": "1970 Isuzu Bellett 1600 GT-R coupe at the 2011 Shannons Eastern Creek Classic, Sydney, photographed by sv1ambo. Orange road body with black bonnet and DOHC/GT-R markings; current wheels, auxiliary lamps and finish do not certify engine internals, JIS rating or exact 1970-base originality. Not the GT-X prototype or Isuzu museum racing car."
+        }
+      ]
+    }
+  ]
+}
