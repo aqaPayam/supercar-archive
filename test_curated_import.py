@@ -1,5 +1,6 @@
 """Curated imports must retain evidence and preserve the existing catalogue."""
 import json
+import hashlib
 import sqlite3
 import tempfile
 import unittest
@@ -46,6 +47,35 @@ class CuratedImportTests(unittest.TestCase):
         self.save()
         before = snapshot(self.db)
         with self.assertRaisesRegex(ValueError, 'sourced public fact'):
+            import_curated(self.db, self.manifest, True)
+        self.assertEqual(before, snapshot(self.db))
+
+    def test_line_endings_preserve_legacy_markers_and_all_rows(self):
+        lf = json.dumps(self.data, ensure_ascii=False, indent=2).encode('utf8')
+        crlf = lf.replace(b'\n', b'\r\n')
+        self.manifest.write_bytes(crlf)
+        self.assertEqual(import_curated(self.db, self.manifest, True), 4)
+        marker = 'import:' + self.data['batch']
+        with closing(sqlite3.connect(self.db)) as db:
+            self.assertEqual(db.execute('SELECT value FROM meta WHERE key=?',
+                                       (marker,)).fetchone()[0], hashlib.sha256(lf).hexdigest())
+        for historical, checkout in ((lf, crlf), (crlf, lf)):
+            with self.subTest(historical_crlf=b'\r\n' in historical):
+                with closing(sqlite3.connect(self.db)) as db, db:
+                    db.execute('UPDATE meta SET value=? WHERE key=?',
+                               (hashlib.sha256(historical).hexdigest(), marker))
+                before = snapshot(self.db)
+                self.manifest.write_bytes(checkout)
+                self.assertEqual(import_curated(self.db, self.manifest), 0)
+                self.assertEqual(import_curated(self.db, self.manifest, True), 0)
+                self.assertEqual(before, snapshot(self.db))
+
+    def test_source_edit_still_rejects_previously_applied_manifest(self):
+        self.assertEqual(import_curated(self.db, self.manifest, True), 4)
+        before = snapshot(self.db)
+        self.data['cars'][0]['sources'][0]['notes'] += ' Changed evidence note.'
+        self.save()
+        with self.assertRaisesRegex(ValueError, 'different manifest'):
             import_curated(self.db, self.manifest, True)
         self.assertEqual(before, snapshot(self.db))
 

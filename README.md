@@ -64,3 +64,7 @@ evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
 final eligibility audit, and quality takes priority over the numerical count.
+
+Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
+Existing LF and CRLF import markers remain accepted without rewriting the database.
+Other manifest edits still require review and are rejected on repeat import.
