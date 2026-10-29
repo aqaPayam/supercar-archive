@@ -5139,7 +5139,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 855-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-77.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Chevy II / Nova",
+      "generation": "Third-generation 1968–1974 US Chevy II / Nova production-road family",
+      "proposed_record": "CHE-NOVA-SS350-US1969",
+      "reason": "The Nova SS embodies Chevrolet’s compact-muscle formula, pairing a V8 sports package with front disc brakes and strengthened suspension in a relatively small road coupe. Its established place in American performance-car history is reflected in Chevrolet’s dedicated Sports Department catalogue. One original model-generation entry is admitted for the SS engineering package, rather than simply its badges, optional engines or paint.",
+      "evidence": "https://xr793.com/wp-content/uploads/2018/10/1969-Chevrolet-Sports-Department.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 857-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-78.json"
+    },
+    {
+      "manufacturer": "Mercury",
+      "model": "Cougar",
+      "generation": "First-generation 1967–1970 Cougar production-road family",
+      "proposed_record": "MER-COUGAR-ELIMINATOR302-US1970",
+      "reason": "The Cougar Eliminator is Mercury’s distinctive contribution to the pony-car performance era. The Boss 302 road configuration combined a high-output small-block V8 with a required four-speed in the Cougar’s own hardtop body and longer-wheelbase layout. This mechanical identity and established performance-package history justify one original Cougar family entry; spoilers, colours and alternative engines do not create additional cars.",
+      "evidence": "https://cougarclub2.org/registry/eliminator/",
+      "duplicate_review": "Absent model/generation checked against the complete 857-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-78.json"
     }
   ],
-  "catalogue_count_after_batches": 857
+  "catalogue_count_after_batches": 859
 }

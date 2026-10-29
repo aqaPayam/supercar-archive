@@ -1,0 +1,264 @@
+{
+  "batch": "icons-road-2026-10-30-78",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "CHE-NOVA-SS350-US1969",
+      "manufacturer": "Chevrolet",
+      "model_family": "Chevy II / Nova",
+      "generation": "Third-generation 1968–1974 US Chevy II / Nova production-road family",
+      "variant": "Nova SS 350, standard three-speed manual — 1969 Sports Department brochure",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1969 Chevrolet Sports Department brochure, Nova SS page and power-team table visually read. Selects the documented 350 SS, not a 396 inferred from the photo or other catalogue pages. Optional four-speed/automatic, Positraction and different engines are not standard here. No modern net/gross standard, performance measurement or extra model-year count is inferred.",
+      "summary": "The Nova SS embodies Chevrolet’s compact-muscle formula, pairing a V8 sports package with front disc brakes and strengthened suspension in a relatively small road coupe. Its established place in American performance-car history is reflected in Chevrolet’s dedicated Sports Department catalogue. One original model-generation entry is admitted for the SS engineering package, rather than simply its badges, optional engines or paint.",
+      "admission_reason": "The Nova SS embodies Chevrolet’s compact-muscle formula, pairing a V8 sports package with front disc brakes and strengthened suspension in a relatively small road coupe. Its established place in American performance-car history is reflected in Chevrolet’s dedicated Sports Department catalogue. One original model-generation entry is admitted for the SS engineering package, rather than simply its badges, optional engines or paint.",
+      "sources": [
+        {
+          "publisher": "Chevrolet Motor Division / General Motors; facsimile hosted by XR793",
+          "title": "1969 Chevrolet Sports Department — Nova SS page and power-team table",
+          "source_type": "Original manufacturer performance catalogue, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2018/10/1969-Chevrolet-Sports-Department.pdf",
+          "notes": "1969 Chevrolet Sports Department brochure, Nova SS page and power-team table visually read. Selects the documented 350 SS, not a 396 inferred from the photo or other catalogue pages. Optional four-speed/automatic, Positraction and different engines are not standard here. No modern net/gross standard, performance measurement or extra model-year count is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Chevrolet Nova SS 396 in Burnished Brown Poly, Front Right, 06-11-2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Nova_SS_396_in_Burnished_Brown_Poly,_Front_Right,_06-11-2022.jpg",
+          "notes": "Elise240SX; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbo-Fire 350 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Heavy-duty three-speed manual, standard SS transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitized steel body with separate front frame section",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front suspension with stiffer coils and stabilizer; multi-leaf rear springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted single-piston-caliper front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "350",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "300",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Nova SS embodies Chevrolet’s compact-muscle formula, pairing a V8 sports package with front disc brakes and strengthened suspension in a relatively small road coupe. Its established place in American performance-car history is reflected in Chevrolet’s dedicated Sports Department catalogue. One original model-generation entry is admitted for the SS engineering package, rather than simply its badges, optional engines or paint.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_nova_ss350_us1969.jpg",
+          "caption": "1969 Chevrolet Nova SS photographed by Elise240SX at Bruce Mines, Ontario, in 2022, file-identified as a 396 car. Representative third-generation SS body with 396 badges and aftermarket-looking wheels; it is not the selected 350 reference and does not certify engine tune, gearbox or factory originality.",
+          "creator": "Elise240SX",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e111b369115bf5bfe8147f928df7a3db35de76fa8bcad5319c9b480a44f6f560"
+        }
+      ]
+    },
+    {
+      "id": "MER-COUGAR-ELIMINATOR302-US1970",
+      "manufacturer": "Mercury",
+      "model_family": "Cougar",
+      "generation": "First-generation 1967–1970 Cougar production-road family",
+      "variant": "Eliminator 302 H.O. four-speed — 1970 Ford AMA specification reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Ford-prepared 1970 Cougar Eliminator 302 AMA sheets, model 65 hardtop. Selected cover/dimension/power-team/engine pages visually read, not all 29 pages. Power corrected as stated in the sheet to 60 F and 29.92 in Hg; no modern net/gross label is invented. Compression differs between nominal power-team and maximum engine rows, so is omitted. Axle/Traction-Lok availability is not resolved here. Other engines, XR-7s, convertible recreations and dealer-installed spoilers add no counts.",
+      "summary": "The Cougar Eliminator is Mercury’s distinctive contribution to the pony-car performance era. The Boss 302 road configuration combined a high-output small-block V8 with a required four-speed in the Cougar’s own hardtop body and longer-wheelbase layout. This mechanical identity and established performance-package history justify one original Cougar family entry; spoilers, colours and alternative engines do not create additional cars.",
+      "admission_reason": "The Cougar Eliminator is Mercury’s distinctive contribution to the pony-car performance era. The Boss 302 road configuration combined a high-output small-block V8 with a required four-speed in the Cougar’s own hardtop body and longer-wheelbase layout. This mechanical identity and established performance-package history justify one original Cougar family entry; spoilers, colours and alternative engines do not create additional cars.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company; facsimile hosted by Over-Drive Magazine",
+          "title": "1970 Cougar Eliminator 302 — Ford AMA passenger-car specification sheets",
+          "source_type": "Original manufacturer AMA specification sheets, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2026/01/1970-Cougar-Boss-302-AMA-1-29.pdf",
+          "notes": "Ford-prepared 1970 Cougar Eliminator 302 AMA sheets, model 65 hardtop. Selected cover/dimension/power-team/engine pages visually read, not all 29 pages. Power corrected as stated in the sheet to 60 F and 29.92 in Hg; no modern net/gross label is invented. Compression differs between nominal power-team and maximum engine rows, so is omitted. Axle/Traction-Lok availability is not resolved here. Other engines, XR-7s, convertible recreations and dealer-installed spoilers add no counts."
+        },
+        {
+          "publisher": "Cougar Club of America",
+          "title": "1969–70 Cougar Eliminator — registry equipment and identification",
+          "source_type": "Primary marque registry identification account",
+          "url": "https://cougarclub2.org/registry/eliminator/",
+          "notes": "Actual registry body read. Establishes the original road package and Boss 302/four-speed requirement. Axle availability differs in presentation from AMA tables; no selected axle ratio is inferred. Boss 302 hood scoop is not assigned the 428 Ram-Air function."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Mercury Cougar Eliminator Boss 302 Coupe (9323966926).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Mercury_Cougar_Eliminator_Boss_302_Coupe_(9323966926).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1970 Mercury Cougar Eliminator Boss 302 Coupe. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "302 H.O., 90-degree overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "302",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published brake horsepower",
+          "value": "290",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "290",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block and head material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "111.1",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cougar Eliminator is Mercury’s distinctive contribution to the pony-car performance era. The Boss 302 road configuration combined a high-output small-block V8 with a required four-speed in the Cougar’s own hardtop body and longer-wheelbase layout. This mechanical identity and established performance-package history justify one original Cougar family entry; spoilers, colours and alternative engines do not create additional cars.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_cougar_eliminator302_us1970.jpg",
+          "caption": "1970 Mercury Cougar Eliminator photographed by Sicnag, file-identified as a Boss 302 coupe. Representative first-generation performance hardtop; the exterior does not certify its engine internals, axle, originality or a functional Ram-Air intake.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2d40e0fe965edcb8db16a2700092359c4e6cfbec720a88056e5fccabd1537a0d"
+        }
+      ]
+    }
+  ]
+}
