@@ -1,0 +1,313 @@
+{
+  "batch": "icons-road-2026-10-30-80",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "MER-CYCLONE-SPOILERII351-US1969",
+      "manufacturer": "Mercury",
+      "model_family": "Cyclone",
+      "generation": "Late-1960s Cyclone fastback production-road body family",
+      "variant": "Spoiler II 351 — original safety memo and owner-supplement reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback road coupe",
+      "road_legal": 1,
+      "specification_market": "US 1969 production-road Spoiler II reference. The surviving Safety & Services Department memo and owner-supplement spread establish the 351 engine and special body parts; the December 30, 1968 release describes the broader Cyclone Spoiler launch and is not proof that all of its gearbox choices reached Spoiler II production. No gearbox, axle, power, torque, production count, measured aero gain, race-engine specification or lower road ride height is inferred. Paint versions and normal-nose Spoilers add no counts.",
+      "summary": "The Cyclone Spoiler II was Mercury’s road-going aero-homologation counterpart to the Torino Talladega, with dedicated front bodywork and parts rather than only driver-themed paint. Its role in the NASCAR aero era and distinctive production-road engineering justify one original Cyclone fastback family entry. Shared Ford components are acknowledged; the Mercury body/model programme is distinct. Gurney and Yarborough colours, normal-nose Spoilers and engine choices do not add separate counts.",
+      "admission_reason": "The Cyclone Spoiler II was Mercury’s road-going aero-homologation counterpart to the Torino Talladega, with dedicated front bodywork and parts rather than only driver-themed paint. Its role in the NASCAR aero era and distinctive production-road engineering justify one original Cyclone fastback family entry. Shared Ford components are acknowledged; the Mercury body/model programme is distinct. Gurney and Yarborough colours, normal-nose Spoilers and engine choices do not add separate counts.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company, Safety & Services Department; facsimile hosted by Legendary Collector Cars",
+          "title": "1969 1/2 Mercury Spoiler II — Safety & Services Department memorandum, surviving excerpt",
+          "source_type": "Original manufacturer safety memo excerpt, hosted facsimile",
+          "url": "https://www.legendarycollectorcars.com/wp-content/uploads/2010/07/SafetyServiceDepartment.jpg?af4fa6&af4fa6",
+          "notes": "US 1969 production-road Spoiler II reference. The surviving Safety & Services Department memo and owner-supplement spread establish the 351 engine and special body parts; the December 30, 1968 release describes the broader Cyclone Spoiler launch and is not proof that all of its gearbox choices reached Spoiler II production. No gearbox, axle, power, torque, production count, measured aero gain, race-engine specification or lower road ride height is inferred. Paint versions and normal-nose Spoilers add no counts."
+        },
+        {
+          "publisher": "Lincoln-Mercury Division, Ford Motor Company; facsimile hosted by Talladega and Spoiler Registry",
+          "title": "Cyclone Spoiler — press release 68-7429, December 30, 1968",
+          "source_type": "Original manufacturer press release, hosted facsimile",
+          "url": "https://www.talladegaspoilerregistry.com/wp-content/uploads/2011/04/PressRelease-Medium-e1302887001264.jpg",
+          "notes": "Original release actually read. Advertises 351-4V and dual exhausts for Cyclone Spoiler with an available aerodynamic front end. Its automatic/four-speed choices are not promoted into an assertion about delivered Spoiler II configurations."
+        },
+        {
+          "publisher": "Lincoln-Mercury Division, Ford Motor Company; facsimile hosted by Legendary Collector Cars",
+          "title": "Cyclone Spoiler II — supplemental owner’s manual special-parts spread",
+          "source_type": "Original manufacturer owner-supplement spread, hosted facsimile",
+          "url": "https://www.legendarycollectorcars.com/wp-content/uploads/2010/07/gloveBoxPartsChange.jpg?af4fa6&af4fa6",
+          "notes": "The displayed two-page parts spread was visually read, not a complete owner’s manual. It names Cyclone Spoiler II and lists dedicated floor/rocker members, front fenders, grille supports, hood and bumper/lamp components. No entire-chassis redesign or performance measurement is inferred."
+        },
+        {
+          "publisher": "Rick Ochs and Richard Fleener / Legendary Collector Cars",
+          "title": "1969 Mercury Cyclone Spoiler and Spoiler II History — original-document study",
+          "source_type": "Marque owners’ original-document research",
+          "url": "https://www.legendarycollectorcars.com/2010/07/1969-mercury-cyclone-spoiler-and-spoiler-ii-history/",
+          "notes": "Owners’ and marque researchers’ study displaying the actual factory memo and owner supplement, both inspected separately. Used for the historical aero-homologation context and distinction from cosmetic driver-themed versions. Not a source for imported power, gearbox, production totals or race results."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercury Cyclone Spoiler II Dan Gurney.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercury_Cyclone_Spoiler_II_Dan_Gurney.jpg",
+          "notes": "Carl Sharp; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "351 engine; 428 CJ explicitly unavailable on Spoiler II",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Dedicated front sheet metal and grille arrangement, related to Torino Talladega",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Front marker lamps",
+          "value": "Production 1969 Mercury units, distinct from Talladega",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Torque-box / rocker-panel area",
+          "value": "Uses the same parts as Talladega, according to the safety memo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Cooling",
+          "label": "Radiator",
+          "value": "Different radiator from Talladega for the 351-engine cooling package",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Launch-release engine designation",
+          "value": "351-4V",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Launch-release exhaust",
+          "value": "Dual exhausts",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Dedicated service components",
+          "value": "Spoiler II-specific front fenders, hood, grille-support and lamp/bumper components listed in the owner supplement",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cyclone Spoiler II was Mercury’s road-going aero-homologation counterpart to the Torino Talladega, with dedicated front bodywork and parts rather than only driver-themed paint. Its role in the NASCAR aero era and distinctive production-road engineering justify one original Cyclone fastback family entry. Shared Ford components are acknowledged; the Mercury body/model programme is distinct. Gurney and Yarborough colours, normal-nose Spoilers and engine choices do not add separate counts.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 3
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_cyclone_spoilerii351_us1969.jpg",
+          "caption": "1969 Mercury Cyclone Spoiler II in Dan Gurney trim photographed by Carl Sharp. The long smooth nose and fastback body represent the selected road aero family; colour, decals and an exterior view do not certify chassis provenance, engine internals or original equipment. Gurney and Yarborough trim do not create separate entries.",
+          "creator": "Carl Sharp",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "1878415f49ad127059630fa0d81009053561d45c1e8dbdb633b0f2fe61016bbb"
+        }
+      ]
+    },
+    {
+      "id": "AMC-JAVELIN-SST343-TEST1968",
+      "manufacturer": "AMC",
+      "model_family": "Javelin",
+      "generation": "First-generation Javelin production-road family",
+      "variant": "SST 343 four-speed, 3.54 limited-slip axle — December 1967 road-test reference",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback hardtop",
+      "road_legal": 1,
+      "specification_market": "US model-year 1968 Javelin SST, as tested in Car Life December 1967, printed pages 34–38. This is the 343 V8 four-speed road car, not a 390, shortened two-seat AMX, later Javelin AMX or Trans-Am racer. Go-package content was only partly installed, and the article says stripes were not yet applied; fitted discs/manual steering/limited-slip are not universal standard equipment. Tyre grip and heavy steering limited the test car. No measured performance, weight, production count, full Go-package assertion or modern net/gross label is imported. Other first-generation engines, trim and revisions add no counts. The test table lists five passengers; no four-seat claim from the Commons description is imported.",
+      "summary": "The original Javelin brought American Motors into the pony-car contest with a distinctive fastback body with rear seating and a serious V8 performance package. The contemporary SST 343 test documents its strong engine, four-speed, limited-slip axle and optional front discs, alongside traction and heavy-steering shortcomings. That landmark AMC sports-coupe programme merits one first-generation road-family entry, separate from the shortened two-seat AMX and later 1971 Javelin AMX. Extra engines, facelifts and appearance packages do not add counts.",
+      "admission_reason": "The original Javelin brought American Motors into the pony-car contest with a distinctive fastback body with rear seating and a serious V8 performance package. The contemporary SST 343 test documents its strong engine, four-speed, limited-slip axle and optional front discs, alongside traction and heavy-steering shortcomings. That landmark AMC sports-coupe programme merits one first-generation road-family entry, separate from the shortened two-seat AMX and later 1971 Javelin AMX. Extra engines, facelifts and appearance packages do not add counts.",
+      "sources": [
+        {
+          "publisher": "Car Life; facsimile hosted by Over-Drive Magazine",
+          "title": "American Motors Javelin SST — Car Life road test, December 1967, pages 34–38",
+          "source_type": "Contemporary first-hand road test, scanned facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2026/01/1967-12-CL-1968-Javelin-SST-343-Test-1-5.pdf",
+          "notes": "US model-year 1968 Javelin SST, as tested in Car Life December 1967, printed pages 34–38. This is the 343 V8 four-speed road car, not a 390, shortened two-seat AMX, later Javelin AMX or Trans-Am racer. Go-package content was only partly installed, and the article says stripes were not yet applied; fitted discs/manual steering/limited-slip are not universal standard equipment. Tyre grip and heavy steering limited the test car. No measured performance, weight, production count, full Go-package assertion or modern net/gross label is imported. Other first-generation engines, trim and revisions add no counts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1968 AMC Javelin SST Hardtop (13577585864).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1968_AMC_Javelin_SST_Hardtop_(13577585864).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1968 AMC Javelin SST Hardtop. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Hydraulic lifters, pushrods and overhead rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel Carter AFB carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed synchromesh manual, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitized construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front short/long arms and coil springs; rear Hotchkiss-type live axle with multi-leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Optional power-assisted front discs and rear drums, as fitted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Hypoid limited-slip, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement class",
+          "value": "343",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published rated power",
+          "value": "280",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rated torque",
+          "value": "365",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Optional quick-ratio manual recirculating-ball steering, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Test axle ratio",
+          "value": "3.54:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "109",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Javelin brought American Motors into the pony-car contest with a distinctive fastback body with rear seating and a serious V8 performance package. The contemporary SST 343 test documents its strong engine, four-speed, limited-slip axle and optional front discs, alongside traction and heavy-steering shortcomings. That landmark AMC sports-coupe programme merits one first-generation road-family entry, separate from the shortened two-seat AMX and later 1971 Javelin AMX. Extra engines, facelifts and appearance packages do not add counts.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amc_javelin_sst343_test1968.jpg",
+          "caption": "1968 AMC Javelin SST photographed by Sicnag. Representative first-generation road body with later-looking wheels and mirrors; this exterior does not establish the 343 engine, four-speed, axle or identity as the Car Life test car. The neighbouring AMX is not the selected vehicle.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "21c8cef236b3c2d9321afc16bb7b1b47a48e3befb82287e64788eda4ea15f82e"
+        }
+      ]
+    }
+  ]
+}

@@ -5183,7 +5183,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 859-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-79.json"
+    },
+    {
+      "manufacturer": "Mercury",
+      "model": "Cyclone",
+      "generation": "Late-1960s Cyclone fastback production-road body family",
+      "proposed_record": "MER-CYCLONE-SPOILERII351-US1969",
+      "reason": "The Cyclone Spoiler II was Mercury’s road-going aero-homologation counterpart to the Torino Talladega, with dedicated front bodywork and parts rather than only driver-themed paint. Its role in the NASCAR aero era and distinctive production-road engineering justify one original Cyclone fastback family entry. Shared Ford components are acknowledged; the Mercury body/model programme is distinct. Gurney and Yarborough colours, normal-nose Spoilers and engine choices do not add separate counts.",
+      "evidence": "https://www.legendarycollectorcars.com/2010/07/1969-mercury-cyclone-spoiler-and-spoiler-ii-history/",
+      "duplicate_review": "Absent model/generation checked against the complete 861-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-80.json"
+    },
+    {
+      "manufacturer": "AMC",
+      "model": "Javelin",
+      "generation": "First-generation Javelin production-road family",
+      "proposed_record": "AMC-JAVELIN-SST343-TEST1968",
+      "reason": "The original Javelin brought American Motors into the pony-car contest with a distinctive fastback body with rear seating and a serious V8 performance package. The contemporary SST 343 test documents its strong engine, four-speed, limited-slip axle and optional front discs, alongside traction and heavy-steering shortcomings. That landmark AMC sports-coupe programme merits one first-generation road-family entry, separate from the shortened two-seat AMX and later 1971 Javelin AMX. Extra engines, facelifts and appearance packages do not add counts.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2026/01/1967-12-CL-1968-Javelin-SST-343-Test-1-5.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 861-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-80.json"
     }
   ],
-  "catalogue_count_after_batches": 861
+  "catalogue_count_after_batches": 863
 }
