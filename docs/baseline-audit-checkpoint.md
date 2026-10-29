@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 740 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 748 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 45 reviewed road-icon manifests contain 345 distinct identifiers. Subtracting
+The 46 reviewed road-icon manifests contain 353 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 740 count must not be presented as 740 proven qualifying icons.
+The raw 748 count must not be presented as 748 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -134,6 +134,14 @@ has been removed or recategorized on this basis.
 | PAG-ZON-REV-TRACK | Pagani Zonda | Revolución — track specification |
 
 ## Outstanding decisions and evidence
+
+A read-only media inventory screen at the 748-record checkpoint finds 1,002
+stored media rows belonging to the preserved baseline. All have nonempty
+creator and licence fields; none matches the screened placeholder phrases
+“various,” “unknown,” “see source,” “Commons contributors,” or “not specified.”
+This is a field-content screen only. It does not verify each attribution,
+licence version, photograph identity or technical implication against the
+original source, and does not complete the required media audit.
 
 The existing Hyundai Verna Iran 1.5 manual is already flagged outside the
 confirmed performance-icon scope in [the admission policy](curation1000.md).

@@ -3852,7 +3852,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 730-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-45.json"
+    },
+    {
+      "manufacturer": "KTM",
+      "model": "X-Bow",
+      "generation": "Original open X-Bow production-road lightweight sports-car family",
+      "proposed_record": "KTM-XBOW-ORIGINAL-ROAD2008",
+      "reason": "The original X-Bow made a carbon monocoque central to a radically lightweight production road car. Its Dallara-developed chassis and uncompromising open design established KTM’s enduring specialist sports-car identity.",
+      "evidence": "https://www.politik.steiermark.at/cms/dokumente/12476215_7129389/267e3328/KTM%20X-BOW%201000%20Presseinformation.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "BAC",
+      "model": "Mono",
+      "generation": "Original 2.3-litre Mono single-seat production-road sports-car family",
+      "proposed_record": "BAC-MONO-ORIGINAL-23-2011",
+      "reason": "The Mono established a distinctive single-seat production-road sports-car concept, translating formula-car ergonomics and chassis thinking into a usable road machine. Its focused engineering and lasting identity make it a specialist performance icon.",
+      "evidence": "https://www.bac-mono.com/model-heritage-evolution",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Donkervoort",
+      "model": "D8 GTO",
+      "generation": "D8 GTO original Audi five-cylinder production-road sports-car family",
+      "proposed_record": "DON-D8GTO-ROAD-HERITAGE",
+      "reason": "The D8 GTO is a defining Dutch lightweight performance car, combining an Audi five-cylinder with an extensively developed carbon-and-tube chassis. Its substantially renewed engineering carries Donkervoort’s established road-and-track identity beyond a cosmetic Seven-style derivative.",
+      "evidence": "https://www.donkervoort.com/en/models/heritage/donkervoort-d8-gto/",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Dallara",
+      "model": "Stradale",
+      "generation": "Original Stradale production-road carbon sports-car family",
+      "proposed_record": "DAL-STRADALE-MANUAL-2017",
+      "reason": "The Stradale is Dallara’s landmark own-name production road car, translating the firm’s racing expertise in composites, aerodynamics and vehicle dynamics into an unusually light sports car. It is a distinct engineering programme rather than a race-car registration or styling edition.",
+      "evidence": "https://www.ipresslive.it/ipress/comunicati/view/25140/?changeLng=EN",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Wiesmann",
+      "model": "Roadster MF3",
+      "generation": "Original MF3 production-road sports-roadster family, S54 reference",
+      "proposed_record": "WIE-MF3-S54-ROAD-HERITAGE",
+      "reason": "The MF3 established Wiesmann’s enduring roadster identity by combining distinctive hand-built retro design with BMW M engineering. Its focused six-cylinder sports-car character and long-running specialist road programme make it a recognisable German performance icon.",
+      "evidence": "https://wiesmann.com/pages/wiesmann-mf3",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Ultima",
+      "model": "GTR",
+      "generation": "Original GTR production road-kit supercar family",
+      "proposed_record": "ULT-GTR-LS1-TEST2000",
+      "reason": "The Ultima GTR established an enduring lightweight British road-supercar identity.",
+      "evidence": "https://www.caranddriver.com/reviews/a44588208/2000-ultima-gtr-by-the-numbers/",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Gumpert",
+      "model": "Apollo",
+      "generation": "Original Apollo production-road twin-turbo supercar family",
+      "proposed_record": "GUM-APOLLO-ORIGINAL2006",
+      "reason": "The Apollo is a defining extreme road supercar whose aerodynamic focus and carbon safety cell translated racing priorities into a road-approved programme. It established Gumpert’s lasting identity through substantive engineering rather than luxury, rarity or styling alone.",
+      "evidence": "https://seriouswheels.com/2006-gumpert-apollo.htm",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
+    },
+    {
+      "manufacturer": "Radical",
+      "model": "SR3 SL",
+      "generation": "SR3 SL European-type-approved production-road roadster family",
+      "proposed_record": "RAD-SR3SL-ROAD-HB2012",
+      "reason": "The SR3 SL is Radical’s purpose-developed, European-type-approved roadster, bringing its established sports-racer engineering into a dedicated road programme. It is a significant road-and-track performance icon, distinct from a motorcycle-engined SR3 race car with registration equipment added.",
+      "evidence": "https://radicalmotorsport.com/history",
+      "duplicate_review": "Absent model/generation checked against the complete 740-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-46.json"
     }
   ],
-  "catalogue_count_after_batches": 740
+  "catalogue_count_after_batches": 748
 }

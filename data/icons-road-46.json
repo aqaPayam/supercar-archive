@@ -1,0 +1,923 @@
+{
+  "batch": "icons-road-2026-10-29-46",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "KTM-XBOW-ORIGINAL-ROAD2008",
+      "manufacturer": "KTM",
+      "model_family": "X-Bow",
+      "generation": "Original open X-Bow production-road lightweight sports-car family",
+      "variant": "X-Bow — 2008 standard production road reference",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Austria",
+      "category": "Performance icon",
+      "body_style": "Open two-seat lightweight sports car",
+      "road_legal": 1,
+      "specification_market": "Original KTM release explicitly reprinted in full. Select standard 2008 production hardware and its stated European road-use context, not the 2007 prototype, Dallara-edition options, GT windscreen, later R engine or enclosed GT-XR. Native kW avoids inconsistent bhp/PS labelling; no peak rpm, projected production or preliminary performance estimate is imported.",
+      "summary": "The original X-Bow made a carbon monocoque central to a radically lightweight production road car. Its Dallara-developed chassis and uncompromising open design established KTM’s enduring specialist sports-car identity.",
+      "admission_reason": "The original X-Bow made a carbon monocoque central to a radically lightweight production road car. Its Dallara-developed chassis and uncompromising open design established KTM’s enduring specialist sports-car identity.",
+      "sources": [
+        {
+          "publisher": "KTM / Serious Wheels hosted reprint",
+          "title": "2008 KTM X-Bow — original production-model press release",
+          "source_type": "Original manufacturer press release, hosted reprint",
+          "url": "https://seriouswheels.com/2008-ktm-x-bow.htm",
+          "notes": "Original KTM release explicitly reprinted in full. Select standard 2008 production hardware and its stated European road-use context, not the 2007 prototype, Dallara-edition options, GT windscreen, later R engine or enclosed GT-XR. Native kW avoids inconsistent bhp/PS labelling; no peak rpm, projected production or preliminary performance estimate is imported."
+        },
+        {
+          "publisher": "KTM / Austrian regional government hosted facsimile",
+          "title": "1,000 KTM X-Bow — 7 June 2016 factory press information, historical model page 3",
+          "source_type": "Original manufacturer historical press information, hosted facsimile",
+          "url": "https://www.politik.steiermark.at/cms/dokumente/12476215_7129389/267e3328/KTM%20X-BOW%201000%20Presseinformation.pdf",
+          "notes": "Actual physical page 3 rendered and read. Confirms 2008 original road programme and separates the 2011 R and later GT/GT4; no later safety-cell specification or absolute first-ever claim is backdated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:KTM X-Bow - Flickr - Alexandre Prévot.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:KTM_X-Bow_-_Flickr_-_Alexandre_Pr%C3%A9vot.jpg",
+          "notes": "Alexandre Prévot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: KTM X-Bow. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Audi TFSI four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "177",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "310",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed close-ratio manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Carbon-fibre monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front double wishbones with pushrod actuation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Open; no conventional roof or windscreen",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original X-Bow made a carbon monocoque central to a radically lightweight production road car. Its Dallara-developed chassis and uncompromising open design established KTM’s enduring specialist sports-car identity.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ktm_xbow_original_road2008.jpg",
+          "caption": "Open KTM X-Bow photographed in a demonstration or support role with an added beacon. This road-family illustration does not certify original 2008 standard equipment, engine output, differential or suspension options; it is not an enclosed GT-XR.",
+          "creator": "Alexandre Prévot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1a7b01c756cc4765b5fcb3e95c1ce5b2bdf935d1bfc7ae27c65d26f5b3b191a2"
+        }
+      ]
+    },
+    {
+      "id": "BAC-MONO-ORIGINAL-23-2011",
+      "manufacturer": "BAC",
+      "model_family": "Mono",
+      "generation": "Original 2.3-litre Mono single-seat production-road sports-car family",
+      "variant": "Mono — original 2011 2.3-litre company-release reference",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Single-seat open road sports car",
+      "road_legal": 1,
+      "specification_market": "Actual publicly readable original BAC release, reprinted 21 March 2011. Do not import 2016 wider chassis/2.5-litre engine, Mono R, new-generation MY26 or Cup-car specifications. Production capacity and comparative performance superlatives are omitted.",
+      "summary": "The Mono established a distinctive single-seat production-road sports-car concept, translating formula-car ergonomics and chassis thinking into a usable road machine. Its focused engineering and lasting identity make it a specialist performance icon.",
+      "admission_reason": "The Mono established a distinctive single-seat production-road sports-car concept, translating formula-car ergonomics and chassis thinking into a usable road machine. Its focused engineering and lasting identity make it a specialist performance icon.",
+      "sources": [
+        {
+          "publisher": "Briggs Automotive Company / AllCarIndex hosted reprint",
+          "title": "BAC Mono — original company press release, 21 March 2011",
+          "source_type": "Original manufacturer press release, hosted reprint",
+          "url": "https://www.allcarindex.com/blog/bac-mono-further-details-revealed",
+          "notes": "Actual publicly readable original BAC release, reprinted 21 March 2011. Do not import 2016 wider chassis/2.5-litre engine, Mono R, new-generation MY26 or Cup-car specifications. Production capacity and comparative performance superlatives are omitted."
+        },
+        {
+          "publisher": "Briggs Automotive Company",
+          "title": "Model Heritage & Evolution — Mono (2011–2016)",
+          "source_type": "Manufacturer historical model catalogue",
+          "url": "https://www.bac-mono.com/model-heritage-evolution",
+          "notes": "Factory history confirms the original 2011 2.3-litre/280-bhp programme and distinguishes later wider chassis, engines and generations. Only the original family is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BAC Mono (8606487117) b.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BAC_Mono_(8606487117)_b.jpg",
+          "notes": "Axion23; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/gfreeman23/8606487117/. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Longitudinal Cosworth petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Hewland six-speed sequential with electronically controlled paddle shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Carbon-fibre construction with tubular-steel driver safety cell",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Pushrod suspension with adjustable Sachs Racing dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Original company quoted output",
+          "value": "280",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mono established a distinctive single-seat production-road sports-car concept, translating formula-car ergonomics and chassis thinking into a usable road machine. Its focused engineering and lasting identity make it a specialist performance icon.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bac_mono_original_23_2011.jpg",
+          "caption": "Original-design BAC Mono road-family illustration. The photograph does not establish an individual model year, current engine capacity or tune; later wider-chassis and Mono R equipment is not inferred.",
+          "creator": "Axion23",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8336357a9b927d9a323bf96e4caafc95693659201087e8d2b7c6f37e7520b5c6"
+        }
+      ]
+    },
+    {
+      "id": "DON-D8GTO-ROAD-HERITAGE",
+      "manufacturer": "Donkervoort",
+      "model_family": "D8 GTO",
+      "generation": "D8 GTO original Audi five-cylinder production-road sports-car family",
+      "variant": "D8 GTO — undated factory heritage hardware reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Netherlands",
+      "category": "Performance icon",
+      "body_style": "Two-seat lightweight road sports car",
+      "road_legal": 1,
+      "specification_market": "Undated factory heritage reference; no exact model year is asserted. The page contains incompatible bhp/kW output values and differing torque figures, so output, torque and peak rpm are omitted. No Premium, RS, GTO-40, JD70, Individual Series or F22 hardware is inferred or separately counted.",
+      "summary": "The D8 GTO is a defining Dutch lightweight performance car, combining an Audi five-cylinder with an extensively developed carbon-and-tube chassis. Its substantially renewed engineering carries Donkervoort’s established road-and-track identity beyond a cosmetic Seven-style derivative.",
+      "admission_reason": "The D8 GTO is a defining Dutch lightweight performance car, combining an Audi five-cylinder with an extensively developed carbon-and-tube chassis. Its substantially renewed engineering carries Donkervoort’s established road-and-track identity beyond a cosmetic Seven-style derivative.",
+      "sources": [
+        {
+          "publisher": "Donkervoort Automobielen",
+          "title": "Donkervoort D8 GTO — factory heritage, construction and technical specifications",
+          "source_type": "Manufacturer historical engineering and specification catalogue",
+          "url": "https://www.donkervoort.com/en/models/heritage/donkervoort-d8-gto/",
+          "notes": "Undated factory heritage reference; no exact model year is asserted. The page contains incompatible bhp/kW output values and differing torque figures, so output, torque and peak rpm are omitted. No Premium, RS, GTO-40, JD70, Individual Series or F22 hardware is inferred or separately counted."
+        },
+        {
+          "publisher": "Donkervoort Automobielen",
+          "title": "First Donkervoort D8 GTOs delivered in Switzerland",
+          "source_type": "Original manufacturer road-delivery account",
+          "url": "https://www.donkervoort.com/en/news/first-donkervoort-d8-gtos-delivered-in-switzerland/",
+          "notes": "Factory account documents European small-series approval and actual road deliveries. Its 2013 approval statement differs from the separate history page’s 2012 wording; no single universal approval date or standard-model delivery year is asserted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Donkervoort D8 GTO.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Donkervoort_D8_GTO.JPG",
+          "notes": "ASD84; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Audi TFSI inline five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2480",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular-steel chassis integrated with carbon-fibre composite panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double wishbones; rear trailing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Lightweight ventilated discs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The D8 GTO is a defining Dutch lightweight performance car, combining an Audi five-cylinder with an extensively developed carbon-and-tube chassis. Its substantially renewed engineering carries Donkervoort’s established road-and-track identity beyond a cosmetic Seven-style derivative.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_don_d8gto_road_heritage.jpg",
+          "caption": "Donkervoort D8 GTO front view. This representative body illustration does not establish an individual car’s model year, power calibration, tyre sizes or original mechanical condition.",
+          "creator": "ASD84",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d337dd7d0751f0bf30971f0805c4ded8d0082a69b4afe1d27f7724a547fb10a1"
+        }
+      ]
+    },
+    {
+      "id": "DAL-STRADALE-MANUAL-2017",
+      "manufacturer": "Dallara",
+      "model_family": "Stradale",
+      "generation": "Original Stradale production-road carbon sports-car family",
+      "variant": "Stradale — 16 November 2017 standard manual barchetta reference",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Open two-seat barchetta",
+      "road_legal": 1,
+      "specification_market": "Dallara’s original dated launch release, posted by Dallara Automobili, actual product paragraphs read. Select standard manual barchetta; windscreen, T-frame, gullwing closures, rear wing and paddle-shift robotisation are options, not separate cars. Do not import current Euro 6E data, EXP race hardware or configuration-dependent downforce and acceleration.",
+      "summary": "The Stradale is Dallara’s landmark own-name production road car, translating the firm’s racing expertise in composites, aerodynamics and vehicle dynamics into an unusually light sports car. It is a distinct engineering programme rather than a race-car registration or styling edition.",
+      "admission_reason": "The Stradale is Dallara’s landmark own-name production road car, translating the firm’s racing expertise in composites, aerodynamics and vehicle dynamics into an unusually light sports car. It is a distinct engineering programme rather than a race-car registration or styling edition.",
+      "sources": [
+        {
+          "publisher": "Dallara Automobili / iPressLIVE",
+          "title": "Dallara Stradale, un sogno coltivato sulle piste di tutto il mondo — 16 November 2017",
+          "source_type": "Original manufacturer launch press release",
+          "url": "https://www.ipresslive.it/ipress/comunicati/view/25140/?changeLng=EN",
+          "notes": "Dallara’s original dated launch release, posted by Dallara Automobili, actual product paragraphs read. Select standard manual barchetta; windscreen, T-frame, gullwing closures, rear wing and paddle-shift robotisation are options, not separate cars. Do not import current Euro 6E data, EXP race hardware or configuration-dependent downforce and acceleration."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dallara Stradale.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dallara_Stradale.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Forced induction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Autoclave-cured carbon-fibre monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Standard open barchetta, without doors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output",
+          "value": "400",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Electronic controls",
+          "value": "Bosch ESP including ABS, EBD, TCS and VDC",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Stradale is Dallara’s landmark own-name production road car, translating the firm’s racing expertise in composites, aerodynamics and vehicle dynamics into an unusually light sports car. It is a distinct engineering programme rather than a race-car registration or styling edition.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dal_stradale_manual_2017.jpg",
+          "caption": "Dallara Stradale shown with windscreen and rear wing. These optional configurations illustrate the road family; the selected 2017 base barchetta reference does not include them as standard and the photo does not identify a manual gearbox.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "dc5802e112ae43cd425c391b7afea74419582c5305e9e07cb2c15a208d0df65b"
+        }
+      ]
+    },
+    {
+      "id": "WIE-MF3-S54-ROAD-HERITAGE",
+      "manufacturer": "Wiesmann",
+      "model_family": "Roadster MF3",
+      "generation": "Original MF3 production-road sports-roadster family, S54 reference",
+      "variant": "Roadster MF3 S54 — undated factory historical specification",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat sports roadster",
+      "road_legal": 1,
+      "specification_market": "Undated factory historical S54 specification, not the earliest 1993 engine. The factory’s broad family-origin date does not establish when S54 equipment began, so no model year is inferred. Later MF4/MF5 powertrains, Final Edition cosmetic treatment and unprinted gearbox details are excluded.",
+      "summary": "The MF3 established Wiesmann’s enduring roadster identity by combining distinctive hand-built retro design with BMW M engineering. Its focused six-cylinder sports-car character and long-running specialist road programme make it a recognisable German performance icon.",
+      "admission_reason": "The MF3 established Wiesmann’s enduring roadster identity by combining distinctive hand-built retro design with BMW M engineering. Its focused six-cylinder sports-car character and long-running specialist road programme make it a recognisable German performance icon.",
+      "sources": [
+        {
+          "publisher": "Wiesmann",
+          "title": "Wiesmann MF3 — factory historical S54 roadster specification",
+          "source_type": "Manufacturer historical model and specification catalogue",
+          "url": "https://wiesmann.com/pages/wiesmann-mf3",
+          "notes": "Undated factory historical S54 specification, not the earliest 1993 engine. The factory’s broad family-origin date does not establish when S54 equipment began, so no model year is inferred. Later MF4/MF5 powertrains, Final Edition cosmetic treatment and unprinted gearbox details are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Wiesmann Roadster MF3 Classic-Gala 2021 1X7A0177.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Wiesmann_Roadster_MF3_Classic-Gala_2021_1X7A0177.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "BMW S54 inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3246",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mid mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "252",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "365",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "255",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "4.9",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The MF3 established Wiesmann’s enduring roadster identity by combining distinctive hand-built retro design with BMW M engineering. Its focused six-cylinder sports-car character and long-running specialist road programme make it a recognisable German performance icon.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_wie_mf3_s54_road_heritage.jpg",
+          "caption": "Wiesmann Roadster MF3 at Classic-Gala 2021. The representative roadster body does not establish S54 engine fitment, production year, gearbox or present mechanical specification.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a4ee026047b730de825ba99cf3cf3090ac68737219c92cf57dddebafd17e1614"
+        }
+      ]
+    },
+    {
+      "id": "ULT-GTR-LS1-TEST2000",
+      "manufacturer": "Ultima",
+      "model_family": "GTR",
+      "generation": "Original GTR production road-kit supercar family",
+      "variant": "GTR LS1 — April 2000 first-hand test configuration",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door road-kit supercar coupe",
+      "road_legal": 1,
+      "specification_market": "Specific LS1 test car. Kit registration varies by jurisdiction; no blanket US crash approval.",
+      "summary": "The Ultima GTR established an enduring lightweight British road-supercar identity.",
+      "admission_reason": "The Ultima GTR established an enduring lightweight British road-supercar identity.",
+      "sources": [
+        {
+          "publisher": "Car and Driver",
+          "title": "2000 Ultima GTR — April 2000 instrumented road test",
+          "source_type": "Original contemporary first-hand road test, archive republication",
+          "url": "https://www.caranddriver.com/reviews/a44588208/2000-ultima-gtr-by-the-numbers/",
+          "notes": "Specific LS1 test car. Kit registration varies by jurisdiction; no blanket US crash approval."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ultima GTR 2005.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ultima_GTR_2005.jpg",
+          "notes": "DeFacto; CC BY-SA 2.5. License: https://creativecommons.org/licenses/by-sa/2.5. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LS1 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5663",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Port fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Test-car output",
+          "value": "345",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Ultima GTR established an enduring lightweight British road-supercar identity.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ult_gtr_ls1_test2000.jpg",
+          "caption": "Ultima GTR identified as a 2005 car. It illustrates the coupe family without establishing the selected 2000 LS1 engine, gearbox or registration status.",
+          "creator": "DeFacto",
+          "license": "CC BY-SA 2.5",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ce7d082bd3fcce5b2a9a3eb7087027885fed719ff158f8ee09bf65fb2f04577a"
+        }
+      ]
+    },
+    {
+      "id": "GUM-APOLLO-ORIGINAL2006",
+      "manufacturer": "Gumpert",
+      "model_family": "Apollo",
+      "generation": "Original Apollo production-road twin-turbo supercar family",
+      "variant": "Apollo — original 2006 478-kW company-release reference",
+      "model_year_from": 2006,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat road supercar coupe",
+      "road_legal": 1,
+      "specification_market": "Actual original Gumpert release reprinted in full, using standard engine body text and native 478 kW. Contradictory horsepower labels and bore/stroke figures, compiled header data, later Sport/Speed/S tunes, race hybrids, speed claims dependent on aero and the undemonstrated upside-down driving claim are excluded.",
+      "summary": "The Apollo is a defining extreme road supercar whose aerodynamic focus and carbon safety cell translated racing priorities into a road-approved programme. It established Gumpert’s lasting identity through substantive engineering rather than luxury, rarity or styling alone.",
+      "admission_reason": "The Apollo is a defining extreme road supercar whose aerodynamic focus and carbon safety cell translated racing priorities into a road-approved programme. It established Gumpert’s lasting identity through substantive engineering rather than luxury, rarity or styling alone.",
+      "sources": [
+        {
+          "publisher": "Gumpert Sportwagenmanufaktur / Serious Wheels hosted reprint",
+          "title": "2006 Gumpert Apollo — original company road-car engineering release",
+          "source_type": "Original manufacturer press release, hosted reprint",
+          "url": "https://seriouswheels.com/2006-gumpert-apollo.htm",
+          "notes": "Actual original Gumpert release reprinted in full, using standard engine body text and native 478 kW. Contradictory horsepower labels and bore/stroke figures, compiled header data, later Sport/Speed/S tunes, race hybrids, speed claims dependent on aero and the undemonstrated upside-down driving claim are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Gumpert Apollo white.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_white.jpg",
+          "notes": "Shane K; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: https://flic.kr/p/d6F6oj. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree Audi-derived V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4163",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers with intercoolers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Fully synchronised sequential six-speed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "478",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "850",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Chrome-molybdenum round-tube frame with integrated carbon-fibre safety cell",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Apollo is a defining extreme road supercar whose aerodynamic focus and carbon safety cell translated racing priorities into a road-approved programme. It established Gumpert’s lasting identity through substantive engineering rather than luxury, rarity or styling alone.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_gum_apollo_original2006.jpg",
+          "caption": "White Gumpert Apollo road-family example. The photo does not establish the original 2006 standard tune, aero configuration or an individual production year; later Apollo derivatives are not separately counted.",
+          "creator": "Shane K",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6d39134124dca58cb788a5ea1c47867c94b16c477bcb475870fef35af8289f14"
+        }
+      ]
+    },
+    {
+      "id": "RAD-SR3SL-ROAD-HB2012",
+      "manufacturer": "Radical",
+      "model_family": "SR3 SL",
+      "generation": "SR3 SL European-type-approved production-road roadster family",
+      "variant": "SR3 SL — standard 240-bhp July 2012 handbook reference",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open two-seat production-road roadster",
+      "road_legal": 1,
+      "specification_market": "Original Radical handbook No. 7225 V1, imprint 7/12; actual pages 2, 5 and 39 rendered/read. Select standard 240-bhp road reference, not optional 300 bhp, motorcycle-powered SR3/RS/RSX, generic current SR3 manuals or race-car mass. The selected date is the handbook revision, not a claimed 2012 debut.",
+      "summary": "The SR3 SL is Radical’s purpose-developed, European-type-approved roadster, bringing its established sports-racer engineering into a dedicated road programme. It is a significant road-and-track performance icon, distinct from a motorcycle-engined SR3 race car with registration equipment added.",
+      "admission_reason": "The SR3 SL is Radical’s purpose-developed, European-type-approved roadster, bringing its established sports-racer engineering into a dedicated road programme. It is a significant road-and-track performance icon, distinct from a motorcycle-engined SR3 race car with registration equipment added.",
+      "sources": [
+        {
+          "publisher": "Radical Sportscars / Radical Sportscar Registry hosted facsimile",
+          "title": "SR3 SL Owner Handbook — No. 7225 V1, July 2012, specification page 39",
+          "source_type": "Original manufacturer owner handbook, hosted facsimile",
+          "url": "https://radicalsportscarregistry.com/wp-content/uploads/2021/09/SR3_SL_Manual_Final.pdf",
+          "notes": "Original Radical handbook No. 7225 V1, imprint 7/12; actual pages 2, 5 and 39 rendered/read. Select standard 240-bhp road reference, not optional 300 bhp, motorcycle-powered SR3/RS/RSX, generic current SR3 manuals or race-car mass. The selected date is the handbook revision, not a claimed 2012 debut."
+        },
+        {
+          "publisher": "Radical Motorsport",
+          "title": "History & Milestones — 2011 SR3 SL road-car programme",
+          "source_type": "Manufacturer historical model account",
+          "url": "https://radicalmotorsport.com/history",
+          "notes": "Factory history identifies the 2011 road-car launch and shift to Ford 2-litre direct-injection turbo power. SR8 lap records, SR9, later RXC/Rapture and current race-only cars are not this roadster’s specifications."
+        },
+        {
+          "publisher": "Flickr",
+          "title": "Radical SR3 SL (Street Legal)",
+          "source_type": "Image source",
+          "url": "https://www.flickr.com/photos/ronaldc5/14373944388",
+          "notes": "Ronald van der Graaf; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0/. Taken 2 July 2014. Photographer source page explicitly links CC BY 2.0; downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1999",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted longitudinally",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual sequential transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Standard handbook output at 6000 rpm",
+          "value": "240",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SR3 SL is Radical’s purpose-developed, European-type-approved roadster, bringing its established sports-racer engineering into a dedicated road programme. It is a significant road-and-track performance icon, distinct from a motorcycle-engined SR3 race car with registration equipment added.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_rad_sr3sl_road_hb2012.jpg",
+          "caption": "Yellow road car identified by photographer Ronald van der Graaf as Radical SR3 SL (Street Legal), photographed in 2014. This later road-family illustration does not certify the selected July 2012 standard 240-bhp tune, individual type approval or current mechanical condition.",
+          "creator": "Ronald van der Graaf",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "05b44892fad0216c204bb3f057ae510a2a455716bea84a54059174ef18c6e6a9"
+        }
+      ]
+    }
+  ]
+}
