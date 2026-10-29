@@ -4622,7 +4622,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 806-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-59.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "S-Class",
+      "generation": "W116 production-road performance-saloon generation",
+      "proposed_record": "MER-450SEL-69-W116-1975",
+      "reason": "The W116 450 SEL 6.9 is a landmark high-performance luxury saloon: its large M100 V8 combines dry-sump lubrication with hydropneumatic self-levelling suspension. This exceptional powertrain and chassis package carries forward the performance-saloon tradition of the earlier W109 6.3 in a distinct S-Class generation.",
+      "evidence": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2020/04/W116_6.9_45ans.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 810-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-60.json"
+    },
+    {
+      "manufacturer": "Lotus",
+      "model": "Elan",
+      "generation": "M100 production-road front-wheel-drive sports-car generation",
+      "proposed_record": "LOT-ELAN-M100-SE-1989",
+      "reason": "The M100 Elan is Lotus’s landmark front-wheel-drive sports-car programme, combining a transverse turbocharged engine with a dedicated open sports-car chassis. It represents a substantial and distinctive engineering direction in Lotus road-car history, separate from the original rear-drive Type 26 Elan; its commercial disappointment does not erase that significance.",
+      "evidence": "https://media.lotuscars.com/en/heritage-road-cars/lotus-elan-%28type-100%29.html",
+      "duplicate_review": "Absent model/generation checked against the complete 810-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-60.json"
+    },
+    {
+      "manufacturer": "De Tomaso",
+      "model": "Vallelunga",
+      "generation": "Original production-road mid-engined Vallelunga coupe family",
+      "proposed_record": "DET-VALLELUNGA-ROAD-1965",
+      "reason": "De Tomaso’s first road-car programme established an important mid-engined sports-car lineage. The Vallelunga combined a light fibreglass body with a backbone chassis, rear tubular subframe and structurally integrated engine, providing an engineering foundation for later De Tomaso projects including the Mangusta.",
+      "evidence": "https://www.detomaso-automobili.com/legacy-models/vallelunga",
+      "duplicate_review": "Absent model/generation checked against the complete 810-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-60.json"
     }
   ],
-  "catalogue_count_after_batches": 810
+  "catalogue_count_after_batches": 813
 }
