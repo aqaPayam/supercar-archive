@@ -25,6 +25,13 @@ changed media/source rows and unchanged asset hashes. It changes no car
 identity, specification or count, and does not certify the F50's remaining
 technical, pricing or historical fields. The full baseline audit remains open.
 
+A [second credit repair](baseline-media-credits-02.md) resolves 27 further
+creator/licence placeholders across ten baseline profiles, after direct Commons
+metadata and side-by-side image checks. All car rows and image files remain
+unchanged. This finishes the observed placeholder list, not a comprehensive
+licensing or representative-image audit. Countach body treatment, generic Zonda
+variant descriptions and one GT1 caption remain explicit identity-review flags.
+
 ## Identity spot-check: 2022 V12 Vantage
 
 Reviewed 2026-10-29 against the stored profiles and both original manufacturer

@@ -68,6 +68,8 @@ The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
 remaining scope and identity review without changing existing records.
 The [first baseline credit repair](docs/baseline-media-credits-01.md) resolves
 three F50 attribution placeholders while preserving the photographs and car data.
+A [second credit repair](docs/baseline-media-credits-02.md) resolves 27 more
+placeholders across ten profiles and records remaining image-identity questions.
 
 Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
 Existing LF and CRLF import markers remain accepted without rewriting the database.
