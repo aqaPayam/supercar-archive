@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-9-29",
+  "reviewed_on": "2026-10-29",
   "baseline_count": 395,
   "status": "Admission tracking: only verified imported catalogue entries count toward the target.",
   "candidates": [
@@ -2313,7 +2313,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 599-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-20.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "SS100",
+      "generation": "Original SS Jaguar 100 overhead-valve sports roadster",
+      "proposed_record": "JAG-SS100-25-1938",
+      "reason": "The SS100 helped establish the Jaguar name through an overhead-valve six-cylinder sports car combining Harry Weslake cylinder-head development, twin SU carburettors and striking open bodywork. The Jaguar Daimler Heritage Trust preserves ERB 290 as a running example of this early performance identity, making the original 2½ Litre roadster a foundational Jaguar sports-car icon.",
+      "evidence": "https://www.jaguarheritage.com/vehicle-collection/1938-ss-jaguar-100-2%C2%BD-litre/",
+      "duplicate_review": "Absent model/generation checked against the complete 602-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-21.json"
+    },
+    {
+      "manufacturer": "Bentley",
+      "model": "Continental GT",
+      "generation": "Original first-generation twin-turbo W12 four-seat coupe",
+      "proposed_record": "BEN-CONTINENTALGT-W12-2003",
+      "reason": "The original Continental GT redefined Bentley as a modern high-performance grand-tourer manufacturer. Its compact twin-turbo W12, four-wheel drive, six-speed transmission and pillarless four-seat body combined substantial performance with everyday touring use, while the model became the catalyst for the marque’s twenty-first-century revival.",
+      "evidence": "https://www.bentleymedia.com/attachment/1213126b-1546-4908-b91c-3b4f303cc20e",
+      "duplicate_review": "Absent model/generation checked against the complete 602-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-21.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "500 K",
+      "generation": "W29 original 5-litre supercharged road series",
+      "proposed_record": "MER-500K-SPECIALROADSTER-W29",
+      "reason": "The 500 K Special Roadster is a landmark of Mercedes-Benz performance engineering and Sindelfingen coachbuilding. Friedrich Geiger’s sweeping body was paired with a driver-engaged Roots-supercharged engine and advanced independent-wheel suspension, creating one of the defining sporting grand tourers of the 1930s.",
+      "evidence": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2024/03/20240390ans_500K_txt.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 602-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-21.json"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "250 GT Lusso",
+      "generation": "Original Pininfarina-designed Scaglietti-built road berlinetta",
+      "proposed_record": "FER-250GT-LUSSO-1963",
+      "reason": "The 250 GT Lusso is a defining Enzo-era Ferrari road grand tourer, combining Pininfarina’s sculpted berlinetta design with Scaglietti construction and the Colombo-family V12 tradition. Its refined road-car identity and enduring design significance distinguish it from the archive’s competition-derived 250 GTO, rather than adding another year or cosmetic version of that car.",
+      "evidence": "https://www.christies.com/en/lot/lot-6570441",
+      "duplicate_review": "Absent model/generation checked against the complete 602-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-21.json"
     }
   ],
-  "catalogue_count_after_batches": 602
+  "catalogue_count_after_batches": 606
 }
