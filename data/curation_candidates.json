@@ -4259,7 +4259,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 774-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-52.json"
+    },
+    {
+      "manufacturer": "Simca",
+      "model": "1000 Rallye",
+      "generation": "Original Simca 1000 Rallye sporting-road family",
+      "proposed_record": "SIM-1000-RALLYE2-ROAD",
+      "reason": "The Rallye 2 turned the rear-engined Simca into a defining small-capacity club-motorsport car. Its factory road offering combines a twin-carburettor engine, strengthened suspension and four disc brakes, while the Caramulo collection documents its successful competition use.",
+      "evidence": "https://museudocaramulo.pt/en/colecoes/simca-1000-rallye-2/",
+      "duplicate_review": "Absent model/generation checked against the complete 777-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-53.json"
+    },
+    {
+      "manufacturer": "Daihatsu",
+      "model": "Copen",
+      "generation": "First-generation L880K sporting-road family",
+      "proposed_record": "DAI-COPEN-L880K-JP2002",
+      "reason": "The original Copen is a landmark kei roadster, pairing a dedicated turbocharged sporting chassis with the class’s first powered folding hardtop as of June 2002. Its lasting following and role as Daihatsu’s sporting flagship establish significance beyond anniversary-edition rarity.",
+      "evidence": "https://www.daihatsu.com/jp/news/2022/20220619-1.html",
+      "duplicate_review": "Absent model/generation checked against the complete 777-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-53.json"
+    },
+    {
+      "manufacturer": "Delahaye",
+      "model": "135",
+      "generation": "Original 135 sporting touring-road family",
+      "proposed_record": "DEL-135M-CHAPRON-MUSEUM1939",
+      "reason": "The 135 established Delahaye’s international sporting reputation through related touring and racing versions. The selected fast-road Chapron cabriolet represents the family’s road-going grand-touring identity, including its distinctive electromagnetic transmission and convertible coachwork.",
+      "evidence": "https://www.museonicolis.com/en/delahaye-135-m/",
+      "duplicate_review": "Absent model/generation checked against the complete 777-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-53.json"
     }
   ],
-  "catalogue_count_after_batches": 777
+  "catalogue_count_after_batches": 780
 }

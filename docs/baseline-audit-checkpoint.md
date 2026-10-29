@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 777 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 780 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 52 reviewed road-icon manifests contain 382 distinct identifiers. Subtracting
+The 53 reviewed road-icon manifests contain 385 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 777 count must not be presented as 777 proven qualifying icons.
+The raw 780 count must not be presented as 780 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -132,6 +132,45 @@ has been removed or recategorized on this basis.
 | PAG-HUA-R-TRACK | Pagani Huayra | R — original 850 CV track car |
 | PAG-ZON-R-TRACK | Pagani Zonda | R — original track specification |
 | PAG-ZON-REV-TRACK | Pagani Zonda | Revolución — track specification |
+
+## Identity spot-check: Huracán family and EVO descriptions
+
+A read-only review at 780 records finds 12 baseline Huracán profiles: 11 carry
+road-use flags and one is the original Super Trofeo racer. Their different
+`generation` strings include body styles, powertrain choices and named evolutions;
+those strings do not establish 12 independent model generations.
+
+The [manufacturer's EVO archive](https://www.lamborghini.com/en-en/history/huracan-evo)
+explicitly describes EVO as an evolution of the existing V10 Huracán with refined
+features. This supports treating the EVO label as a family-development question,
+rather than accepting it as proof of a separate clean-sheet generation. It does
+not decide whether sufficiently different derivatives should count separately.
+The existing [2015 Spyder launch press kit](https://preview.thenewsmarket.com/Previews/lamb/DocumentAssets/398356.PDF)
+remains a stored technical source; it was not re-rendered or technically audited
+in this spot-check and is not claimed as newly verified evidence.
+
+| Preserved record | Stored description | Stored road flag |
+| --- | --- | --- |
+| `LAM-HUR-LP610` | Huracán first generation — LP 610-4 Coupé | 1 |
+| `LAM-HUR-LP610-SPY` | Huracán LP 610-4 soft-top — LP 610-4 Spyder | 1 |
+| `LAM-HUR-ST-620` | Huracán Super Trofeo original race specification — LP 620-2 Super Trofeo — original race car | 0 |
+| `LAM-HUR-PERF` | Huracán first generation — LP 640-4 Performante Coupé | 1 |
+| `LAM-HUR-PERF-SPY` | Huracán Performante soft-top — Performante Spyder | 1 |
+| `LAM-HUR-EVO-AWD` | Huracán EVO all-wheel-drive coupe — EVO AWD Coupé | 1 |
+| `LAM-HUR-EVO-SPY-AWD` | Huracán EVO all-wheel-drive soft-top — EVO Spyder AWD | 1 |
+| `LAM-HUR-EVO-RWD` | Huracán EVO rear-wheel-drive coupe — EVO RWD Coupé | 1 |
+| `LAM-HUR-EVO-SPY-RWD` | Huracán EVO rear-wheel-drive soft-top — EVO RWD Spyder | 1 |
+| `LAM-HUR-STO` | Huracán STO road series — STO Coupé | 1 |
+| `LAM-HUR-STERRATO` | Huracán raised off-road derivative — Sterrato | 1 |
+| `LAM-HUR-TECNICA` | Huracán Tecnica road series — Tecnica Coupé | 1 |
+
+The 12 records and all their source/media/specification rows remain intact.
+The Super Trofeo already appears in the 22 non-road flags below. Its race-only
+status cannot qualify it as a production-road car. The remaining profiles are
+queued together for semantic counting once the owner sets the variant boundary;
+11 road flags alone do not certify 11 distinct qualifying generations. No new
+qualified count, duplicate deletion, technical correction or full family/media
+certification is asserted by this review.
 
 ## Outstanding decisions and evidence
 

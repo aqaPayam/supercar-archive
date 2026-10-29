@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Fifty-two reviewed road-icon batches add 382 cars
-to the 395-record baseline, bringing the working catalogue to 777 records.
-The latest [Fiat 8V, A112 Abarth and NSU road-icons batch](docs/icons-road-52.md)
+evidence and licensed photograph. Fifty-three reviewed road-icon batches add 385 cars
+to the 395-record baseline, bringing the working catalogue to 780 records.
+The latest [Simca, Copen and Delahaye road-icons batch](docs/icons-road-53.md)
 adds three absent road families, following the
-[Ginetta, Alvis, SSK and Duesenberg road-icons batch](docs/icons-road-51.md). Individual reviews and
+[Fiat 8V, A112 Abarth and NSU road-icons batch](docs/icons-road-52.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
