@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Seventy-eight reviewed road-icon batches add 464 cars
-to the 395-record baseline, bringing the working catalogue to 859 records.
-The latest [Chevrolet Nova SS and Mercury Cougar Eliminator batch](docs/icons-road-78.md)
+evidence and licensed photograph. Seventy-nine reviewed road-icon batches add 466 cars
+to the 395-record baseline, bringing the working catalogue to 861 records.
+The latest [Plymouth Duster 340 and Dodge Coronet Super Bee batch](docs/icons-road-79.md)
 adds two absent original performance-road families, following the
-[AMC Rebel Machine and Dodge Dart GTS batch](docs/icons-road-77.md). Individual reviews and
+[Chevrolet Nova SS and Mercury Cougar Eliminator batch](docs/icons-road-78.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

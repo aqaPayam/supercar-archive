@@ -5161,7 +5161,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 857-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-78.json"
+    },
+    {
+      "manufacturer": "Plymouth",
+      "model": "Valiant / Duster",
+      "generation": "Original 1970–1976 Duster fastback production-road family",
+      "proposed_record": "PLY-DUSTER340-AUTO-TEST1970",
+      "reason": "The Duster 340 established Plymouth’s lightweight fastback compact-muscle formula, combining the 340 V8 with practical rear seating and a low-cost performance package. Its distinct Valiant-derived body and historical sporting role justify one original Duster family entry. The contemporary test praised its engine and transmission but reported severe understeer, heavy steering and highway hunting; significance is not a claim of excellent all-round handling.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2025/02/1970-03-CL-1970-Plymouth-Duster-340-Test-1-5.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 859-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-79.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Coronet",
+      "generation": "Late-1960s Coronet production-road family, original Super Bee reference",
+      "proposed_record": "DOD-CORONET-SUPERBEE383-US1969",
+      "reason": "The Coronet Super Bee was Dodge’s dedicated no-frills Scat Pack muscle coupe, pairing the 383 Magnum with a standard four-speed, heavy-duty brakes and Rallye suspension. That purpose-built road-performance identity and established place in the muscle-car era justify one Coronet family entry. It is a distinct Coronet body/model programme from the Charger and Plymouth Road Runner, not another engine option or paint scheme for those records.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2024/12/1969-Dodge-Combined-Brochure-1-20C.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 859-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-79.json"
     }
   ],
-  "catalogue_count_after_batches": 859
+  "catalogue_count_after_batches": 861
 }
