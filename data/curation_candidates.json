@@ -3423,7 +3423,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 694-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-39.json"
+    },
+    {
+      "manufacturer": "Cizeta",
+      "model": "V16T",
+      "generation": "Original V16T delivered production-road supercar family",
+      "proposed_record": "CIZ-V16T-PRODUCTION1991",
+      "reason": "The Cizeta V16T combines a bespoke transverse sixteen-cylinder engine with a tubular structure and aluminium body. Its distinctive Italian supercar engineering and Gandini-era wedge identity warrant inclusion beyond its rarity.",
+      "evidence": "https://cizetaautomobile.com/supercar/",
+      "duplicate_review": "Absent model/generation checked against the complete 701-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-40.json"
+    },
+    {
+      "manufacturer": "Ascari",
+      "model": "KZ1",
+      "generation": "Original KZ1 production-road supercar family",
+      "proposed_record": "ASC-KZ1-ROAD2005",
+      "reason": "The KZ1 represents Ascari’s bespoke British road-supercar programme, joining a carbon-fibre chassis and body with a mid-mounted BMW V8. Its purpose-built structure and road-driving development distinguish it from a rebodied ordinary production car.",
+      "evidence": "https://www.pistonheads.com/news/general-pistonheads/ph-exclusive-ascari-kz1-driven/10163",
+      "duplicate_review": "Absent model/generation checked against the complete 701-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-40.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "i8",
+      "generation": "Original I12 i8 plug-in-hybrid production-road coupe family",
+      "proposed_record": "BMW-I8-I12-ORIGINAL2014",
+      "reason": "The i8 made a dedicated carbon-passenger-cell, plug-in-hybrid sports-car architecture a production reality. Its split-axle electric and combustion drivetrain and distinctive coupe design establish a landmark BMW performance family.",
+      "evidence": "https://www.press.bmwgroup.com/usa/article/detail/T0145577EN_US/the-bmw-i8-%E2%80%93-ushering-in-a-new-era-of-sustainable-performance-priced-from-135-700-in-the-us?language=en_US",
+      "duplicate_review": "Absent model/generation checked against the complete 701-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-40.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Taycan",
+      "generation": "Original pre-facelift Taycan production-road electric sports-saloon family",
+      "proposed_record": "POR-TAYCAN-TURBOS-2019INTRO",
+      "reason": "The original Taycan marked Porsche’s entry into production electric sports cars. Its 800-volt architecture, dual-motor drive and two-speed rear transmission make the Turbo S a landmark performance-engineering reference for the family.",
+      "evidence": "https://newsroom.porsche.com/dam/jcr%3Aec127407-96c5-4dae-99b1-2dc4703742bb/73%20-%20World%20premiere%20of%20the%20Porsche%20Taycan.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 701-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-40.json"
     }
   ],
-  "catalogue_count_after_batches": 701
+  "catalogue_count_after_batches": 705
 }
