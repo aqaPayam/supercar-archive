@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-10-29",
+  "reviewed_on": "2026-10-30",
   "baseline_count": 395,
   "status": "Admission tracking: only verified imported catalogue entries count toward the target.",
   "candidates": [
@@ -4842,7 +4842,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 826-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-65.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "206 RC / GTi 180",
+      "generation": "Original 206 high-performance production-road hatchback family",
+      "proposed_record": "PEU-206-RC-EU2003",
+      "reason": "The 206 RC carried Peugeot’s sporting hatchback tradition into a high-revving two-litre flagship with a substantially revised chassis. Contemporary European driving found responsive power and sharp turn-in, with more forgiving behaviour than the 205 GTi. The demanding ride and imprecise shift temper that assessment. Its engineering and place in Peugeot’s performance lineage justify one entry under both RC and GTi 180 names.",
+      "evidence": "https://www.goauto.com.au/motor-show/paris/2003/7113.html",
+      "duplicate_review": "Absent model/generation checked against the complete 830-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-66.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf VR6",
+      "generation": "Third-generation Type 1H Golf, original 2.8 VR6 production-road family",
+      "proposed_record": "VW-GOLF-VR6-MK3-28-1992",
+      "reason": "The first six-cylinder Golf established a distinctive compact performance flagship. Its 15-degree VR6 placed both cylinder banks beneath one head, allowing a transverse six-cylinder installation. Period UK driving praised its smooth, effortless performance while criticising limited steering feedback. This engineering milestone gives the Mk3 a separate case from earlier GTIs and the later R32.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/october-1992/58/sensible-and-seductive/",
+      "duplicate_review": "Absent model/generation checked against the complete 830-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-66.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Fiesta XR2",
+      "generation": "Original Mk1 Fiesta production-road XR2 family",
+      "proposed_record": "FOR-FIESTA-XR2-MK1-1981",
+      "reason": "Ford’s original Fiesta XR2 established the sporting lineage that led to the later ST. Special Vehicle Engineering at Dunton developed its handling around the larger 1.6-litre engine, giving the small hatch a dedicated performance identity. Ford’s anniversary history recognises the early XR2 as a popular classic; one original-generation entry represents that heritage.",
+      "evidence": "https://www.fordpers.be/content/old/news-2011_pdf_fiesta_2006_30_jaar_nl.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 830-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-66.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Familia / 323 GTX",
+      "generation": "BF Familia / 323 turbo four-wheel-drive production-road hatchback family",
+      "proposed_record": "MAZ-323-GTX-BF-US1988",
+      "reason": "The BF Familia/323 combined a turbo engine and full-time four-wheel drive in a compact road hatch. Mazda documents the programme’s 1985 introduction and its Swedish WRC victory in 1987. That engineering and rally lineage earns a separate entry from the later BG GT-R.",
+      "evidence": "https://www.mazda.com/en/about/history/1980-1989/",
+      "duplicate_review": "Absent model/generation checked against the complete 830-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-66.json"
     }
   ],
-  "catalogue_count_after_batches": 830
+  "catalogue_count_after_batches": 834
 }
