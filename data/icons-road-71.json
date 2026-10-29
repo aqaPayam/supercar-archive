@@ -1,0 +1,306 @@
+{
+  "batch": "icons-road-2026-10-30-71",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "GOR-KEEBLE-GK1-PRODUCTION1964",
+      "manufacturer": "Gordon-Keeble",
+      "model_family": "GK1",
+      "generation": "Original Gordon-Keeble production-road GT family",
+      "variant": "Production glass-fibre GT — club archived specification-sheet reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Production-road reference from the three specification images archived by the owners club. The engine/chassis and suspension sheets were visually read; their original publication/date is not established. Published 280 bhp net is distinct from the club history’s 300 bhp. Torque is explicitly gross. No conversion, test speed or acceleration is inferred. The 1960 steel-bodied Gordon GT prototype, later I.T. naming, modifications and de Bruyne projects do not create extra counts.",
+      "summary": "The Gordon-Keeble combined a Chevrolet V8 with a tubular spaceframe, de Dion rear suspension and four-wheel disc brakes in a practical four-seat GT. This ambitious Anglo-American performance design has a documented place in specialist British sports-car history. The production car earns one family entry for its engineering and sporting purpose, rather than rarity alone.",
+      "admission_reason": "The Gordon-Keeble combined a Chevrolet V8 with a tubular spaceframe, de Dion rear suspension and four-wheel disc brakes in a practical four-seat GT. This ambitious Anglo-American performance design has a documented place in specialist British sports-car history. The production car earns one family entry for its engineering and sporting purpose, rather than rarity alone.",
+      "sources": [
+        {
+          "publisher": "Gordon-Keeble Owners Club",
+          "title": "Gordon-Keeble Specification — archived engine/chassis and suspension sheets",
+          "source_type": "Primary marque archive, reproduced specification sheets",
+          "url": "https://gordonkeeble.org.uk/technical-details-of-the-cars/gordon-keeble-specification/",
+          "notes": "Production-road reference from the three specification images archived by the owners club. The engine/chassis and suspension sheets were visually read; their original publication/date is not established. Published 280 bhp net is distinct from the club history’s 300 bhp. Torque is explicitly gross. No conversion, test speed or acceleration is inferred. The 1960 steel-bodied Gordon GT prototype, later I.T. naming, modifications and de Bruyne projects do not create extra counts."
+        },
+        {
+          "publisher": "Gordon-Keeble Owners Club",
+          "title": "Engine, transmission, chassis and brakes — archived specification image",
+          "source_type": "Archived specification image",
+          "url": "https://gordonkeeble.org.uk/wp-content/uploads/2023/12/car-data3aa.jpg",
+          "notes": "Downloaded and visually read; supplies displacement, net power, gross torque, valve operation, fuel system, compression, frame and brakes. Original publication/date not established."
+        },
+        {
+          "publisher": "Gordon-Keeble Owners Club",
+          "title": "Suspension and steering — archived specification image",
+          "source_type": "Archived specification image",
+          "url": "https://gordonkeeble.org.uk/wp-content/uploads/2023/12/car-data3ab.jpg",
+          "notes": "Downloaded and visually read; supplies front/rear suspension and original Marles steering. Later rack-and-pinion upgrades are not standard equipment."
+        },
+        {
+          "publisher": "Gordon-Keeble Owners Club",
+          "title": "The Production Gordon-Keeble",
+          "source_type": "Primary marque club production history",
+          "url": "https://gordonkeeble.org.uk/history-2/the-production-gordon-keeble/",
+          "notes": "Club production history confirms glass-fibre coachwork and Warner T-10 manual gearbox. Its power, performance and fastest-four-seater claims are not imported. Prototype performance and optional later steering/automatic conversions are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Gordon-Keeble GK1 (1964) Classic-Gala 2022 1X7A0328.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Gordon-Keeble_GK1_(1964)_Classic-Gala_2022_1X7A0328.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chevrolet V8",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5355",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Pushrod overhead valves with hydraulic lifters",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Carter four-choke AFB carburettor",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Square-tube spaceframe with separate glass-fibre body",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling discs with twin hydraulic circuits and servos",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front independent coil and wishbone; rear de Dion tube, radius arms, Watt linkage and coil springs",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, published net",
+          "value": "280",
+          "unit": "bhp",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, published gross",
+          "value": "360",
+          "unit": "lb-ft",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Marles worm and wheel",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Warner T-10 four-speed manual",
+          "unit": "",
+          "source": 3
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Gordon-Keeble combined a Chevrolet V8 with a tubular spaceframe, de Dion rear suspension and four-wheel disc brakes in a practical four-seat GT. This ambitious Anglo-American performance design has a documented place in specialist British sports-car history. The production car earns one family entry for its engineering and sporting purpose, rather than rarity alone.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 3
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_gor_keeble_gk1_production1964.jpg",
+          "caption": "1964 Gordon-Keeble GK1 photographed by Alexander Migl at Classic-Gala 2022. Representative production GT body, distinct from the steel-bodied Gordon GT prototype; exterior appearance does not establish original engine, steering or unchanged specification.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "5822029b60b226295db39f19e8e52e98f8c8f311839fa150c5d5d16c5588cd4e"
+        }
+      ]
+    },
+    {
+      "id": "CUN-C3-VIGNALE-COUPE1953",
+      "manufacturer": "Cunningham",
+      "model_family": "C3",
+      "generation": "Original Cunningham C3 production-road family",
+      "variant": "Vignale coupe — 1953 collection/archive reference",
+      "model_year_from": 1953,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1953 Vignale road-coupe collection/archive reference. Native displacement and supported architecture retained. The archive table’s 310 hp and optional Torqueflite statement are not imported: power differs across published accounts and the transmission label raises a chronology problem. No gearbox, speed, acceleration, production total or modern net/gross standard is asserted. C-1/C-2R/C-4R race specifications, the earlier American-bodied C3 and modern continuations do not transfer into this reference.",
+      "summary": "The C3 brought Cunningham’s American V8 sports-car project to road customers with Italian Vignale coachwork. Its production-road programme supported recognition as a manufacturer for the marque’s Le Mans effort. It belongs as an early American high-performance GT with a direct connection to a significant sports-racing programme; the road coupe itself is not credited with the racing cars’ results.",
+      "admission_reason": "The C3 brought Cunningham’s American V8 sports-car project to road customers with Italian Vignale coachwork. Its production-road programme supported recognition as a manufacturer for the marque’s Le Mans effort. It belongs as an early American high-performance GT with a direct connection to a significant sports-racing programme; the road coupe itself is not credited with the racing cars’ results.",
+      "sources": [
+        {
+          "publisher": "Briggs Cunningham archive / Revs Institute",
+          "title": "1953 C-3 — Pete Lyons collection account and specification table",
+          "source_type": "Primary collection archive account",
+          "url": "https://www.briggscunningham.com/sportscars/c3/",
+          "notes": "1953 Vignale road-coupe collection/archive reference. Native displacement and supported architecture retained. The archive table’s 310 hp and optional Torqueflite statement are not imported: power differs across published accounts and the transmission label raises a chronology problem. No gearbox, speed, acceleration, production total or modern net/gross standard is asserted. C-1/C-2R/C-4R race specifications, the earlier American-bodied C3 and modern continuations do not transfer into this reference."
+        },
+        {
+          "publisher": "Briggs Cunningham archive / Revs Institute",
+          "title": "Cunningham Sports Cars 1951–1955 — Kane Rogers",
+          "source_type": "Primary collection archive programme history",
+          "url": "https://www.briggscunningham.com/sportscars/",
+          "notes": "Documents the programme’s Le Mans history and the requirement to produce road cars. Race wins and podiums belong to dedicated competition models, not the selected C3 road coupe."
+        },
+        {
+          "publisher": "Frist Art Museum / Ken Gross",
+          "title": "1952 Cunningham C3 Continental — exhibition catalogue account",
+          "source_type": "Primary museum exhibition account",
+          "url": "https://fristartmuseum.org/1952-cunningham-c3-continental/",
+          "notes": "Museum exhibition identifies the Collier/Revs road C3 and its production/homologation purpose. Its dashboard acceleration plaque, production figures and exact rule quotas are not imported or treated as a measured test of the selected 1953 reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1953 Cunningham C3 (5228), front right (Greenwich 2018).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1953_Cunningham_C3_(5228),_front_right_(Greenwich_2018).jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chrysler V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves operated by pushrods",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four Zenith downdraught carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic drums, 12-inch front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front wishbone and coil; rear coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "331",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Worm and roller",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C3 brought Cunningham’s American V8 sports-car project to road customers with Italian Vignale coachwork. Its production-road programme supported recognition as a manufacturer for the marque’s Le Mans effort. It belongs as an early American high-performance GT with a direct connection to a significant sports-racing programme; the road coupe itself is not credited with the racing cars’ results.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cun_c3_vignale_coupe1953.jpg",
+          "caption": "Cunningham C3 Vignale coupe photographed by Mr.choppers at Greenwich 2018, identified in the file record as chassis 5228. Representative road body with later Jaguar bumpers, not a photograph of the archive’s collection car; its display-year label and present engine are not specification evidence.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "a9238c0809060fab9c10685ae459a374fe3e9b7f7b63dde0bec59b05b7c26ab0"
+        }
+      ]
+    }
+  ]
+}

@@ -4996,7 +4996,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 842-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-70.json"
+    },
+    {
+      "manufacturer": "Gordon-Keeble",
+      "model": "GK1",
+      "generation": "Original Gordon-Keeble production-road GT family",
+      "proposed_record": "GOR-KEEBLE-GK1-PRODUCTION1964",
+      "reason": "The Gordon-Keeble combined a Chevrolet V8 with a tubular spaceframe, de Dion rear suspension and four-wheel disc brakes in a practical four-seat GT. This ambitious Anglo-American performance design has a documented place in specialist British sports-car history. The production car earns one family entry for its engineering and sporting purpose, rather than rarity alone.",
+      "evidence": "https://gordonkeeble.org.uk/history-2/the-production-gordon-keeble/",
+      "duplicate_review": "Absent model/generation checked against the complete 844-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-71.json"
+    },
+    {
+      "manufacturer": "Cunningham",
+      "model": "C3",
+      "generation": "Original Cunningham C3 production-road family",
+      "proposed_record": "CUN-C3-VIGNALE-COUPE1953",
+      "reason": "The C3 brought Cunningham’s American V8 sports-car project to road customers with Italian Vignale coachwork. Its production-road programme supported recognition as a manufacturer for the marque’s Le Mans effort. It belongs as an early American high-performance GT with a direct connection to a significant sports-racing programme; the road coupe itself is not credited with the racing cars’ results.",
+      "evidence": "https://www.briggscunningham.com/sportscars/",
+      "duplicate_review": "Absent model/generation checked against the complete 844-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-71.json"
     }
   ],
-  "catalogue_count_after_batches": 844
+  "catalogue_count_after_batches": 846
 }
