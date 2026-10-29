@@ -55,15 +55,17 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Thirty reviewed road-icon batches add 246 cars
-to the 395-record baseline, bringing the working catalogue to 641 records.
-The latest [Classic sports-car landmarks batch](docs/icons-road-30.md)
-adds five missing road families, following the
-[British performance landmarks batch](docs/icons-road-29.md). Individual reviews and
+evidence and licensed photograph. Thirty-one reviewed road-icon batches add 250 cars
+to the 395-record baseline, bringing the working catalogue to 645 records.
+The latest [Sports-car and sporting-saloon landmarks batch](docs/icons-road-31.md)
+adds four absent model/generation families, following the
+[Classic sports-car landmarks batch](docs/icons-road-30.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
 final eligibility audit, and quality takes priority over the numerical count.
+The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
+remaining scope and identity review without changing existing records.
 
 Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
 Existing LF and CRLF import markers remain accepted without rewriting the database.

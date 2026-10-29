@@ -2763,7 +2763,51 @@
       "duplicate_review": "Research hold only; no database record added.",
       "remaining": "Read original production technical evidence distinguishing 6.3-litre homologation data from 6.7-litre manual/automatic road specifications, then review an appropriate licensed photograph.",
       "status": "Research hold; not counted"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Fairlady Z",
+      "generation": "Third-generation Z31 original single-turbo V6 road sports family",
+      "proposed_record": "NIS-300ZX-Z31-US1986",
+      "reason": "The Z31 300ZX marked the Z-car line’s transition from inline-six power to the turbocharged VG V6. Its aerodynamic sports-car body and new engine architecture made it a distinct engineering chapter in the enduring Z lineage, preceding the separately developed Z32.",
+      "evidence": "https://www.nissan-global.com/EN/STORIES/RELEASES/nissanz-50years-excitement/",
+      "duplicate_review": "Absent model/generation checked against the complete 641-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-31.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Galant",
+      "generation": "Sixth-generation E39A original turbocharged VR-4 road family",
+      "proposed_record": "MIT-GALANT-VR4-E39A-BASE",
+      "reason": "The original Galant VR-4 combined turbocharged twin-cam power, four-wheel drive and four-wheel steering in a road saloon that became Mitsubishi’s Group A rally platform. Its competition derivatives earned six WRC victories and helped develop the four-wheel-drive technology subsequently used by the Lancer Evolution programme.",
+      "evidence": "https://www.mitsubishi-motors.com/en/brand/motorsports/wrc/1988-1992/",
+      "duplicate_review": "Absent model/generation checked against the complete 641-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-31.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "X1/9",
+      "generation": "Original 1300 four-speed Bertone-designed mid-engine road sports family",
+      "proposed_record": "FIA-X19-1300-US1977",
+      "reason": "The X1/9 made a transverse mid-engine layout, four-wheel independent suspension and four disc brakes accessible in a compact production sports car. Marcello Gandini’s Bertone wedge body and removable Targa roof gave it a lasting design identity, with particularly strong success in the American sports-car market.",
+      "evidence": "https://www.stellantisheritage.com/it-it/heritage/storie/fiat-x1-9",
+      "duplicate_review": "Absent model/generation checked against the complete 641-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-31.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "Dolomite",
+      "generation": "Original 1998-cc sixteen-valve Dolomite Sprint road saloon family",
+      "proposed_record": "TRI-DOLOMITE-SPRINT-BASE1974",
+      "reason": "The Dolomite Sprint brought an ingenious single-overhead-cam, sixteen-valve engine to a refined compact sporting saloon. Contemporary first-hand assessment placed its performance alongside the Escort RS1600 while highlighting its quieter, better-appointed road character, making it a significant British high-performance saloon rather than an ordinary Dolomite.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/july-1973/43/sixteen-valve-dolomite-sprint-from-triumph/",
+      "duplicate_review": "Absent model/generation checked against the complete 641-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-31.json"
     }
   ],
-  "catalogue_count_after_batches": 641
+  "catalogue_count_after_batches": 645
 }

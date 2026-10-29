@@ -127,3 +127,12 @@ fingerprint. All 18 regression tests passed in 288.043 seconds on the final
 rejection, preservation, rollback, startup, repeat safety and legacy-marker
 compatibility in both checkout directions. No native Linux runtime or fresh
 interactive browser test is claimed. This batch remains in draft and is not live.
+
+## Reviewed correction
+
+On 2026-10-29, the SP250 source title was corrected from “12 May 1960
+certificate” to “22 June 1960 certificate” after rereading the certificate.
+The certificate refers to the 12 May application. Existing source notes already
+stated this correctly. Only that source title and this explicitly reviewed
+manifest fingerprint changed; car specifications and other records did not.
+This content correction is distinct from automatic LF/CRLF replay compatibility.

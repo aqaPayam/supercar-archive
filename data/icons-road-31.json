@@ -1,0 +1,591 @@
+{
+  "batch": "icons-road-2026-10-29-31",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "NIS-300ZX-Z31-US1986",
+      "manufacturer": "Nissan",
+      "model_family": "Fairlady Z",
+      "generation": "Third-generation Z31 original single-turbo V6 road sports family",
+      "variant": "300ZX Turbo two-seater — 1986 USA range brochure, five-speed",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Nissan 1986 Cars and Trucks USA range brochure, nine PDF spreads; all rendered and 300ZX spread PDF6 (printed 10–11) read individually. Selected Turbo two-seater with five-speed overdrive manual, not normally aspirated 2-seater, 2+2, later facelift, 200ZR or Z32 twin turbo. The brochure states 3.0-litre OHC V6, fuel injection, adjustable damping and 16-inch Turbo wheels. It prints no road output or exact displacement in this spread: none is invented. Its approximately 215-mph GTP race-car remark is not a road-car top speed. Optional leather/electronics are not declared standard.",
+      "summary": "The Z31 300ZX marked the Z-car line’s transition from inline-six power to the turbocharged VG V6. Its aerodynamic sports-car body and new engine architecture made it a distinct engineering chapter in the enduring Z lineage, preceding the separately developed Z32.",
+      "admission_reason": "The Z31 300ZX marked the Z-car line’s transition from inline-six power to the turbocharged VG V6. Its aerodynamic sports-car body and new engine architecture made it a distinct engineering chapter in the enduring Z lineage, preceding the separately developed Z32.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Corporation in USA / Auto-Brochures hosted facsimile",
+          "title": "Nissan’s 1986 Cars and Trucks — USA range, 300ZX Turbo spread",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Nissan/Nissan_US%20Full%20Line_1986.pdf",
+          "notes": "Original Nissan 1986 Cars and Trucks USA range brochure, nine PDF spreads; all rendered and 300ZX spread PDF6 (printed 10–11) read individually. Selected Turbo two-seater with five-speed overdrive manual, not normally aspirated 2-seater, 2+2, later facelift, 200ZR or Z32 twin turbo. The brochure states 3.0-litre OHC V6, fuel injection, adjustable damping and 16-inch Turbo wheels. It prints no road output or exact displacement in this spread: none is invented. Its approximately 215-mph GTP race-car remark is not a road-car top speed. Optional leather/electronics are not declared standard."
+        },
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "Nissan Z: 50 years of excitement — Z31 development",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.nissan-global.com/EN/STORIES/RELEASES/nissanz-50years-excitement/",
+          "notes": "Factory account supports 1983 Z31 introduction and transition to VG30ET turbo V6. Anniversary production totals, Canada museum specifications and later Z32 twin-turbo data are not selected US 1986 technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Nissan 300ZX Turbo, Rear Right, 10-10-2021.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Nissan_300ZX_Turbo,_Rear_Right,_10-10-2021.jpg",
+          "notes": "Elise240SX; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Overhead-cam V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed overdrive manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel independent suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Power-assisted rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Damping",
+          "value": "Three-way adjustable shock absorbers on Turbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter, Turbo",
+          "value": "16",
+          "unit": "inches",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Z31 300ZX marked the Z-car line’s transition from inline-six power to the turbocharged VG V6. Its aerodynamic sports-car body and new engine architecture made it a distinct engineering chapter in the enduring Z lineage, preceding the separately developed Z32.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_300zx_z31_us1986.jpg",
+          "caption": "1986 Nissan 300ZX Turbo photographed in Sault Ste. Marie, Ontario, by Elise240SX. Represents the short-wheelbase Z31 two-seat road body and T-bar roof. Current exhaust, equipment and Canadian location do not authenticate the selected US manual gearbox, original tune or optional packages. Not a Z32 twin turbo or an additional anniversary-edition count.",
+          "creator": "Elise240SX",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "576859bc0162f01e2e0e71400546c1a453257b24100b8853a8e4a1c151d8434f"
+        }
+      ]
+    },
+    {
+      "id": "MIT-GALANT-VR4-E39A-BASE",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Galant",
+      "generation": "Sixth-generation E39A original turbocharged VR-4 road family",
+      "variant": "VR-4 E39A — May 1988 base production recognition, five-speed",
+      "model_year_from": 1988,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door five-seat sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original Mitsubishi/JAF JA-117, FIA A-5364 base production form; cover valid from 1 May 1988. Full file 183 pages; first 16-page contact sheet and base PDF1–7/9/11 individually read. Actual swept capacity is 1997.4 cc; 3395.6 cc is the 1.7 turbo-equivalence result, not physical displacement. The index suffix (1997) is not the car’s model year. No rally output, maximum allowed rebore, later evolution extension, automatic or later V6 VR-4 is imported. Technical fields describe the production basis; not a current road registration or event eligibility certificate.",
+      "summary": "The original Galant VR-4 combined turbocharged twin-cam power, four-wheel drive and four-wheel steering in a road saloon that became Mitsubishi’s Group A rally platform. Its competition derivatives earned six WRC victories and helped develop the four-wheel-drive technology subsequently used by the Lancer Evolution programme.",
+      "admission_reason": "The original Galant VR-4 combined turbocharged twin-cam power, four-wheel drive and four-wheel steering in a road saloon that became Mitsubishi’s Group A rally platform. Its competition derivatives earned six WRC victories and helped develop the four-wheel-drive technology subsequently used by the Lancer Evolution programme.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors / JAF / FIA Historic Database",
+          "title": "Galant VR-4 E39A — original Mitsubishi/JAF JA-117 base form, FIA A-5364",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1600899601/homologation_form_number_5364_group_a.pdf",
+          "notes": "Original Mitsubishi/JAF JA-117, FIA A-5364 base production form; cover valid from 1 May 1988. Full file 183 pages; first 16-page contact sheet and base PDF1–7/9/11 individually read. Actual swept capacity is 1997.4 cc; 3395.6 cc is the 1.7 turbo-equivalence result, not physical displacement. The index suffix (1997) is not the car’s model year. No rally output, maximum allowed rebore, later evolution extension, automatic or later V6 VR-4 is imported. Technical fields describe the production basis; not a current road registration or event eligibility certificate."
+        },
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "1988–1992 World Rally Championship — Galant VR-4 programme",
+          "source_type": "Manufacturer motorsport team archive",
+          "url": "https://www.mitsubishi-motors.com/en/brand/motorsports/wrc/1988-1992/",
+          "notes": "Manufacturer team archive supports six WRC wins and final Galant testing of the four-wheel-drive system intended for Lancer Evolution. Its 290-ps table and more-than-300-horsepower competition narrative describe racing cars, not this production road reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mitsubishi E-E39A Galant 2.0 DOHC TURBO VR-4 (22123110193).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mitsubishi_E-E39A_Galant_2.0_DOHC_TURBO_VR-4_(22123110193).jpg",
+          "notes": "先従隗始; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four; cast-iron block and aluminium-alloy head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1997.4",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Exhaust turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts driven by a notched belt",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Mitsubishi ECI MULTI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front and rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Mitsubishi five-speed manual; floor shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unitary construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front MacPherson struts with coils; independent rear double wishbones/trailing arms with coils",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Power-assisted front rack and pinion with hydraulic rear four-wheel steering",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Galant VR-4 combined turbocharged twin-cam power, four-wheel drive and four-wheel steering in a road saloon that became Mitsubishi’s Group A rally platform. Its competition derivatives earned six WRC victories and helped develop the four-wheel-drive technology subsequently used by the Lancer Evolution programme.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_galant_vr4_e39a_base.jpg",
+          "caption": "Mitsubishi E39A Galant 2.0 DOHC Turbo VR-4 photographed at Shimoiso, Gifu, on 31 December 2022. The photographer identifies a later version of the original road family. Its exterior, wheels and condition do not certify the May 1988 base engine tune or working four-wheel-steering system; not a rally or later V6 specification.",
+          "creator": "先従隗始",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "37837e105e53526e11950e64abebe288a5d087f58f0006831938b7015717ebd3"
+        }
+      ]
+    },
+    {
+      "id": "FIA-X19-1300-US1977",
+      "manufacturer": "Fiat",
+      "model_family": "X1/9",
+      "generation": "Original 1300 four-speed Bertone-designed mid-engine road sports family",
+      "variant": "X1/9 1300 — 1977 Fiat Motors of North America brochure",
+      "model_year_from": 1977,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat removable-roof sports car",
+      "road_legal": 1,
+      "specification_market": "Original Fiat Motors of North America two-page sales brochure hosted as 1977. Both pages rendered; full technical PDF2 visually read. Selected original 1290-cc US four-speed carburetted road car with 8.5:1 compression. No unprinted output is invented or borrowed from the factory retrospective’s European 75-CV account. California catalyst/final-drive alternatives are not silently universal. Later 1498-cc Five Speed, injected Bertone, Dallara Group 5 and Abarth prototype data are excluded.",
+      "summary": "The X1/9 made a transverse mid-engine layout, four-wheel independent suspension and four disc brakes accessible in a compact production sports car. Marcello Gandini’s Bertone wedge body and removable Targa roof gave it a lasting design identity, with particularly strong success in the American sports-car market.",
+      "admission_reason": "The X1/9 made a transverse mid-engine layout, four-wheel independent suspension and four disc brakes accessible in a compact production sports car. Marcello Gandini’s Bertone wedge body and removable Targa roof gave it a lasting design identity, with particularly strong success in the American sports-car market.",
+      "sources": [
+        {
+          "publisher": "Fiat Motors of North America / Auto-Brochures hosted facsimile",
+          "title": "Fiat X1/9 — original Fiat Motors of North America sales brochure, hosted as 1977",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Fiat/X19/Fiat_US%20X19_1977.pdf",
+          "notes": "Original Fiat Motors of North America two-page sales brochure hosted as 1977. Both pages rendered; full technical PDF2 visually read. Selected original 1290-cc US four-speed carburetted road car with 8.5:1 compression. No unprinted output is invented or borrowed from the factory retrospective’s European 75-CV account. California catalyst/final-drive alternatives are not silently universal. Later 1498-cc Five Speed, injected Bertone, Dallara Group 5 and Abarth prototype data are excluded."
+        },
+        {
+          "publisher": "Stellantis Heritage / Fiat",
+          "title": "Fiat X1/9 — La piccola Targa che conquista l’America",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.stellantisheritage.com/it-it/heritage/storie/fiat-x1-9",
+          "notes": "Factory account supports Gandini/Bertone design, mid-engine Targa architecture and strong US success. European power, subsequent 1500 Five Speed, Bertone and Gran Finale details are not this US 1300 specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1978 Fiat X1.9 in white, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1978_Fiat_X1.9_in_white,_front_left.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Single-overhead-cam inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1290",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber vertical dual-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual plus reverse; four synchronised forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels through half shafts and constant-velocity joints",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitized construction with reinforced longitudinal stress members",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Large-diameter discs on all four wheels; dual brake system; mechanical parking brake",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson struts/lower lateral and compliance struts; rear Chapman struts/lower A-arms and adjustable back links; coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Removable roof panel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The X1/9 made a transverse mid-engine layout, four-wheel independent suspension and four disc brakes accessible in a compact production sports car. Marcello Gandini’s Bertone wedge body and removable Targa roof gave it a lasting design identity, with particularly strong success in the American sports-car market.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_x19_1300_us1977.jpg",
+          "caption": "1978 US-market Series 1 Fiat X1/9 in white, photographed by Mr.choppers. Shows the original road body, removable roof and ladder-style US bumpers. Represents the 1300 family; stated year and restoration do not authenticate installed engine, selected 1977 carburetion or original paint. Not a 1500 Five Speed or Dallara racer.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "cb2c974675292dbf8c872e2c162aa77ba01209d11b6658a9b5880071ad2ef9d6"
+        }
+      ]
+    },
+    {
+      "id": "TRI-DOLOMITE-SPRINT-BASE1974",
+      "manufacturer": "Triumph",
+      "model_family": "Dolomite",
+      "generation": "Original 1998-cc sixteen-valve Dolomite Sprint road saloon family",
+      "variant": "Dolomite Sprint — January 1974 base recognition, four-speed",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original British Leyland/Triumph/RAC FIA 5542 Group 1 base production form, cover valid from 1 January 1974. Complete file 51 pages; first 16-page contact sheet and base PDF1/8–12/14 read individually. Retains 1998 cc and explicitly declared 127 net BHP at 5700 rpm without adding a DIN/SAE conversion. Optional Laycock overdrive, alternate ratios, subsequent automatic, Group 2 racing and 1854-cc eight-valve Dolomite form 5477 are excluded. Recognition date is not substituted for original public launch.",
+      "summary": "The Dolomite Sprint brought an ingenious single-overhead-cam, sixteen-valve engine to a refined compact sporting saloon. Contemporary first-hand assessment placed its performance alongside the Escort RS1600 while highlighting its quieter, better-appointed road character, making it a significant British high-performance saloon rather than an ordinary Dolomite.",
+      "admission_reason": "The Dolomite Sprint brought an ingenious single-overhead-cam, sixteen-valve engine to a refined compact sporting saloon. Contemporary first-hand assessment placed its performance alongside the Escort RS1600 while highlighting its quieter, better-appointed road character, making it a significant British high-performance saloon rather than an ordinary Dolomite.",
+      "sources": [
+        {
+          "publisher": "British Leyland / Triumph / RAC / FIA Historic Database",
+          "title": "Dolomite Sprint — original British Leyland/Triumph/RAC base production form, FIA 5542",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601047201/homologation_form_number_5542_group_1.pdf",
+          "notes": "Original British Leyland/Triumph/RAC FIA 5542 Group 1 base production form, cover valid from 1 January 1974. Complete file 51 pages; first 16-page contact sheet and base PDF1/8–12/14 read individually. Retains 1998 cc and explicitly declared 127 net BHP at 5700 rpm without adding a DIN/SAE conversion. Optional Laycock overdrive, alternate ratios, subsequent automatic, Group 2 racing and 1854-cc eight-valve Dolomite form 5477 are excluded. Recognition date is not substituted for original public launch."
+        },
+        {
+          "publisher": "Motor Sport",
+          "title": "Sixteen-valve Dolomite Sprint from Triumph — July 1973 contemporary first-hand drive",
+          "source_type": "Contemporary first-hand road assessment",
+          "url": "https://www.motorsportmagazine.com/archive/article/july-1973/43/sixteen-valve-dolomite-sprint-from-triumph/",
+          "notes": "Original July 1973 first-hand driving account, republished in the online archive in 2014. Supports engine design and sporting/refined character. Road-test maxima and tuning discussion are not substituted for manufacturer-declared technical fields. No universal first-multivalve claim is made."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1978 Russet Brown Triumph Dolomite Sprint in Morges 2013 - Front left (level).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1978_Russet_Brown_Triumph_Dolomite_Sprint_in_Morges_2013_-_Front_left_(level).jpg",
+          "notes": "Akela NDE; CC BY-SA 2.0 fr. License: https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four inclined 45 degrees; chromium-iron block and aluminium-alloy head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1, declared tolerance ±0.35",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft; duplex chain; inlet bucket tappets and exhaust rockers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two SU HS6 side-draught carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Triumph four-speed fully synchronised manual; selected without optional overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling servo-assisted hydraulic front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones and coils; four-link live rear axle and coils",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum output, manufacturer-declared net notation",
+          "value": "127",
+          "unit": "BHP",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Dolomite Sprint brought an ingenious single-overhead-cam, sixteen-valve engine to a refined compact sporting saloon. Contemporary first-hand assessment placed its performance alongside the Escort RS1600 while highlighting its quieter, better-appointed road character, making it a significant British high-performance saloon rather than an ordinary Dolomite.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_dolomite_sprint_base1974.jpg",
+          "caption": "1978 Russet Brown Triumph Dolomite Sprint photographed in Morges in 2013. Road saloon with Sprint-style alloy wheels, vinyl roof and front spoiler. Later year, finish and exterior do not certify the January 1974 engine internals, selected four-speed without optional overdrive or mechanical originality. Not an eight-valve 1850 or works racing car.",
+          "creator": "Akela NDE",
+          "license": "CC BY-SA 2.0 fr",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6bc74528b8f47a6d4306b4b04ad3753d0dd0223c4d6f14fe946381034b9a0fba"
+        }
+      ]
+    }
+  ]
+}
