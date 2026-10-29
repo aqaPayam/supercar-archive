@@ -3027,7 +3027,84 @@
       "duplicate_review": "Absent model/generation checked against the complete 657-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-34.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "Stag",
+      "generation": "Original Triumph V8 four-seat Stag grand tourer",
+      "proposed_record": "TRI-STAG-UK-LAUNCH1970",
+      "reason": "The Stag gives the British grand tourer a distinctive identity: Triumph’s own overhead-cam V8, 2+2 accommodation and an open body with a permanent roll structure. This combination established a recognisable sporting Triumph grand tourer.",
+      "evidence": "https://www.stag.org.uk/wp-content/uploads/flipbook/47/book.html",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Triumph",
+      "model": "TR8",
+      "generation": "Original TR7/TR8 wedge sports-car road family, selected factory V8",
+      "proposed_record": "TRI-TR8-US1980-CARB",
+      "reason": "The factory TR8 brought an aluminium V8 to Triumph’s wedge sports car, realising the performance development envisaged for the TR7 platform. Its dedicated cooling, brakes and installation distinguish the production V8 programme from the many later privately converted TR7s.",
+      "evidence": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=22",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Jensen",
+      "model": "Jensen-Healey",
+      "generation": "Original Lotus-powered Jensen-Healey open sports-car family",
+      "proposed_record": "JEN-HEALEY-MKII-4MT",
+      "reason": "The Jensen-Healey joined two established British sports-car names around a light-alloy Lotus four-valve engine. Its combination of traditional open two-seat motoring with sixteen-valve engine design makes it a distinctive bridge between the Healey era and the next generation of British sports cars.",
+      "evidence": "https://www.auto-brochures.com/makes/jensen/Jensen_US%20Healey_1974-2.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Marcos",
+      "model": "1800 GT",
+      "generation": "Original Volvo-powered wooden-monocoque Marcos road coupe",
+      "proposed_record": "MAR-1800-VOLVO-ROAD1965",
+      "reason": "The Marcos 1800 translated aircraft-influenced wooden construction into a striking production GT. Its marine-ply monocoque, bonded glass-fibre body and adjustable pedal cradle make it an unusually inventive road sports car.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/april-1965/13/the-marcos-1800/",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "TVR",
+      "model": "Grantura",
+      "generation": "Original compact Grantura sports coupe family, selected torsion-bar Mark IIA",
+      "proposed_record": "TVR-GRANTURA-IIA-MGA1622",
+      "reason": "The Grantura established the compact glass-fibre sports-coupe formula at the heart of early TVR. Its tubular chassis and independent suspension underpin an important stage in the marque’s development, before the later coil-sprung Grantura and V8 Griffith derivatives.",
+      "evidence": "https://www.tvr-car-club.co.uk/tvr-grantura.html",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Caterham",
+      "model": "Seven CSR",
+      "generation": "CSR independently suspended and stiffened Seven chassis generation",
+      "proposed_record": "CAT-CSR260-ROAD2005",
+      "reason": "The CSR substantially re-engineered the Seven: a stiffer structure, independent rear suspension and inboard front dampers transformed its road behaviour. It represents an engineering advance beyond the original Lotus Seven already in the archive.",
+      "evidence": "https://www.evo.co.uk/caterham/7/14206/caterham-seven-csr-260-reborn",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Panoz",
+      "model": "AIV Roadster",
+      "generation": "Original aluminium-intensive Panoz AIV roadster family",
+      "proposed_record": "PAN-AIV-ROADSTER-US1998",
+      "reason": "The AIV Roadster is an unusual American sports-car engineering landmark, applying aluminium-intensive construction to a compact hand-built roadster. It established Panoz’s road-car identity before the company expanded its competition programme.",
+      "evidence": "https://panoz.com/about/",
+      "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-35.json"
     }
   ],
-  "catalogue_count_after_batches": 665
+  "catalogue_count_after_batches": 672
 }
