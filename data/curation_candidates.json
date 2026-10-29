@@ -2357,7 +2357,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 602-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-21.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "328",
+      "generation": "Original pre-war 1971-cc production roadster",
+      "proposed_record": "BMW-328-ROAD-1937",
+      "reason": "The original 328 established BMW as a leading sports-car maker through lightweight design, balanced handling and a successful two-litre competition lineage. Its standard roadster brought that engineering approach to private road customers from 1937, while the specially bodied competition cars developed their own separate specifications.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/attachment/T0107839EN/157652",
+      "duplicate_review": "Absent model/generation checked against the complete 606-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-22.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "507",
+      "generation": "Original Albrecht Graf Goertz V8 roadster series",
+      "proposed_record": "BMW-507-150PS-1957",
+      "reason": "The 507 became a defining BMW design icon through Albrecht Graf Goertz’s low, sculpted roadster body and an aluminium V8 powertrain. Its influence on the marque’s later roadsters gives it an established place in sports-car design history beyond its rarity, price or celebrity owners.",
+      "evidence": "https://www.carbodydesign.com/archive/2006/11/21-bmw-507-and-503/",
+      "duplicate_review": "Absent model/generation checked against the complete 606-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-22.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Z1",
+      "generation": "Original BMW Technik composite-bodied front-mid-engine roadster",
+      "proposed_record": "BMW-Z1-ROAD-1989",
+      "reason": "The Z1 turned BMW Technik research into an unusually innovative production sports car: vertically retracting doors, replaceable plastic outer panels, a bonded composite floor and the new multi-link Z-axle. Its front-mid-engine layout and manual transmission made the experimental construction part of a coherent driver-focused roadster, establishing the modern BMW Z-car line.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0127402EN/back-to-the-future-25-years-of-the-bmw-z1",
+      "duplicate_review": "Absent model/generation checked against the complete 606-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-22.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "190 SL",
+      "generation": "W121 B II original 121.042 production roadster",
+      "proposed_record": "MER-190SL-W121-1955",
+      "reason": "The 190 SL established the elegant open touring side of the Mercedes-Benz SL tradition alongside the competition-derived 300 SL. Its recognisable roadster design, new overhead-cam four-cylinder engine and independently suspended Ponton-based chassis made it a foundational sporting grand tourer with lasting historical significance.",
+      "evidence": "https://media.mbusa.com/news/sport-luxury-lifestyle-the-mercedes-benz-sl",
+      "duplicate_review": "Absent model/generation checked against the complete 606-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-22.json"
     }
   ],
-  "catalogue_count_after_batches": 606
+  "catalogue_count_after_batches": 610
 }
