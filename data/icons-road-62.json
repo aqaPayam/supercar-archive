@@ -1,0 +1,514 @@
+{
+  "batch": "icons-road-2026-10-29-62",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "BMW-M535I-E12-1980",
+      "manufacturer": "BMW",
+      "model_family": "5 Series",
+      "generation": "E12 production-road performance-saloon generation",
+      "variant": "M535i — 1980 factory historical reference",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "BMW M retrospective dated 25 April 2023: select its 1980 launch/table reference. The introductory 1979 wording is not a claimed 1980 brochure date. Omit the broad first-series-model superlative, simplified M1-engine relationship, production totals, current values and mixed factory/test performance. Spoilers and M stripes were optional. One absent E12 generation is counted.",
+      "summary": "The E12 M535i established an important precursor to the M5 performance-saloon lineage. Its powerful six-cylinder engine, dedicated sports suspension, limited-slip differential and disc brakes give the original 5 Series a substantive Motorsport engineering identity beyond appearance trim.",
+      "admission_reason": "The E12 M535i established an important precursor to the M5 performance-saloon lineage. Its powerful six-cylinder engine, dedicated sports suspension, limited-slip differential and disc brakes give the original 5 Series a substantive Motorsport engineering identity beyond appearance trim.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "The Pioneer: BMW E12 M535i — 25 April 2023 technical and chassis account",
+          "source_type": "Manufacturer historical model account",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m535i-e12.html",
+          "notes": "BMW M retrospective dated 25 April 2023: select its 1980 launch/table reference. The introductory 1979 wording is not a claimed 1980 brochure date. Omit the broad first-series-model superlative, simplified M1-engine relationship, production totals, current values and mixed factory/test performance. Spoilers and M stripes were optional. One absent E12 generation is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1981 BMW M535i.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1981_BMW_M535i.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3453",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "160",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "310",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed sports gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Rear-axle limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes on both axles",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Sports suspension with special struts and gas-pressure dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E12 M535i established an important precursor to the M5 performance-saloon lineage. Its powerful six-cylinder engine, dedicated sports suspension, limited-slip differential and disc brakes give the original 5 Series a substantive Motorsport engineering identity beyond appearance trim.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m535i_e12_1980.jpg",
+          "caption": "1981 BMW M535i photographed by MrWalkr. This representative E12 saloon shows M-colour stripes and a front spoiler; these were optional and are not universal standard equipment. The photograph does not certify a 1980 build or original mechanical tune.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6b538ff8f3c9c911c44fa018be1fa684c4e64d046c0ca42cd75855b3d2e14b3e"
+        }
+      ]
+    },
+    {
+      "id": "MER-500SL-R129-1989",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SL",
+      "generation": "R129 production-road sports-roadster generation",
+      "variant": "Original 500 SL — 1989 introduction reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Sports roadster",
+      "road_legal": 1,
+      "specification_market": "Factory 21 March 2019 anniversary account: original 1989 500 SL, not the 235-kW tune from 1992 or new 225-kW V8 from 1998. Drag coefficient requires the hardtop. ADS fitment is not established as standard; later optional panoramic roof, 1995 five-speed automatic and AMG engines are excluded. No universal safety-first claim or gearbox is inferred. One R129 generation is counted.",
+      "summary": "The R129 SL combines Bruno Sacco-era sports-roadster design with notable safety engineering, including an automatic rollover bar and integral seats carrying the belt system. The original V8 500 SL represents this distinctive sporting grand-tourer generation once.",
+      "admission_reason": "The R129 SL combines Bruno Sacco-era sports-roadster design with notable safety engineering, including an automatic rollover bar and integral seats carrying the belt system. The original V8 500 SL represents this distinctive sporting grand-tourer generation once.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Classic",
+          "title": "Mercedes-Benz SL R129: technology platform premiered 30 years ago — 21 March 2019",
+          "source_type": "Manufacturer historical press release",
+          "url": "https://media.mercedes-benz.com/article/8bf93634-4f55-4ab2-8cf8-d7739638037f",
+          "notes": "Factory 21 March 2019 anniversary account: original 1989 500 SL, not the 235-kW tune from 1992 or new 225-kW V8 from 1998. Drag coefficient requires the hardtop. ADS fitment is not established as standard; later optional panoramic roof, 1995 five-speed automatic and AMG engines are excluded. No universal safety-first claim or gearbox is inferred. One R129 generation is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz SL-Klasse (R129) 500 SL (1990) (52870541482).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SL-Klasse_(R129)_500_SL_(1990)_(52870541482).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Mercedes-Benz SL-Klasse (R129) 500 SL (1990). Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "240",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Bruno Sacco-era Mercedes-Benz design",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Fully automatic fabric soft top; standard removable hardtop",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Rollover protection",
+          "value": "Automatic deployable rollover bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Rollover-bar deployment time",
+          "value": "0.3",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Integral seats",
+          "value": "Integrated three-point belt, retractor, tensioner and belt-height/head-rest adjustment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Drag coefficient, removable hardtop fitted",
+          "value": "0.32",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R129 SL combines Bruno Sacco-era sports-roadster design with notable safety engineering, including an automatic rollover bar and integral seats carrying the belt system. The original V8 500 SL represents this distinctive sporting grand-tourer generation once.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_500sl_r129_1989.jpg",
+          "caption": "Mercedes-Benz 500 SL R129, source-identified as a 1990 car, photographed by Charles from Port Chester, New York. This representative early roadster has its fabric soft top raised, not the hardtop used for the quoted drag coefficient. It does not certify a 1989 build, exact tune, gearbox or unchanged condition; the source caption is not technical evidence.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b741ad61efdcc71f00fce997022fd829e9ff47f5807c2b1b60b1b39445e057cc"
+        }
+      ]
+    },
+    {
+      "id": "SAA-96-V4-LANE1969",
+      "manufacturer": "Saab",
+      "model_family": "96",
+      "generation": "Original 96 production-road saloon family, selected V4 evolution",
+      "variant": "96 V4 — Lane Motor Museum 1969 road reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Performance icon",
+      "body_style": "Two-door road saloon",
+      "road_legal": 1,
+      "specification_market": "Lane’s own 1969 collection record supplies road specifications. Its horsepower standard is unspecified; no conversion is inferred. Omit broad production-year/total, speed, price and sales claims. The V4 change was for model year 1967, not the original 1960 96. The separate museum rally account establishes heritage only; 160-hp competition engines and studded tyres are not road equipment.",
+      "summary": "The Saab 96 is a lasting front-wheel-drive rally icon, whose V4 competition lineage included a one-two finish in the 1976 Swedish Rally. A standard road V4 represents that family here; its identity and heritage do not depend on transferring the works cars’ racing engine or tyres.",
+      "admission_reason": "The Saab 96 is a lasting front-wheel-drive rally icon, whose V4 competition lineage included a one-two finish in the 1976 Swedish Rally. A standard road V4 represents that family here; its identity and heritage do not depend on transferring the works cars’ racing engine or tyres.",
+      "sources": [
+        {
+          "publisher": "Lane Motor Museum",
+          "title": "SAAB 96 V4 — 1969 collection car",
+          "source_type": "Museum collection record",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/saab-96-v4-1969/",
+          "notes": "Lane’s own 1969 collection record supplies road specifications. Its horsepower standard is unspecified; no conversion is inferred. Omit broad production-year/total, speed, price and sales claims. The V4 change was for model year 1967, not the original 1960 96. The separate museum rally account establishes heritage only; 160-hp competition engines and studded tyres are not road equipment."
+        },
+        {
+          "publisher": "Saab Car Museum / Peter Bäckström",
+          "title": "Saab’s V4 one-two victory in the 1976 Swedish Rally — 12 February 2026",
+          "source_type": "Museum historical account of preserved competition car",
+          "url": "https://saabcarmuseum.se/en/saabs-dubbelseger-med-v4an-i-svenska-rallyt-1976/",
+          "notes": "Museum custodian’s account of its preserved winning car: Eklund/Cederberg first, Blomqvist/Sylvan second. Competition tune is excluded from the road reference; no final-ever WRC appearance or V4 victory in 1960 is claimed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Saab 96 V4 1.5.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Saab_96_V4_1.5.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mounted, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Operating cycle",
+          "value": "Four-stroke",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-reported output; rating standard unspecified",
+          "value": "65",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Saab 96 is a lasting front-wheel-drive rally icon, whose V4 competition lineage included a one-two finish in the 1976 Swedish Rally. A standard road V4 represents that family here; its identity and heritage do not depend on transferring the works cars’ racing engine or tyres.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_saa_96_v4_lane1969.jpg",
+          "caption": "1972 Saab 96 V4 1.5 photographed in Warwick by Vauxford. This representative UK/European road car is distinct from Lane’s 1969 collection reference: headlamp and market equipment are not asserted to match. The image does not certify the museum car’s identity, build year, engine rating or unchanged mechanical condition.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4749e8b4db82993b85e0783bd4ee40587e907bcc010757d4ad8f34eb4dcf00dc"
+        }
+      ]
+    },
+    {
+      "id": "OPE-CORSA-D-OPC-NE2011",
+      "manufacturer": "Opel",
+      "model_family": "Corsa",
+      "generation": "Corsa D production-road performance-hatchback generation",
+      "variant": "OPC Nürburgring Edition — 2011 European road reference",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Performance hatchback",
+      "road_legal": 1,
+      "specification_market": "English Opel release reproduced beneath the 21 April 2011 article. Retain 154 kW and separate 250 Nm normal / 280 Nm overboost, with its 100-octane qualification; no AKI/RON equivalence is inferred. Around 500 was a plan, not a verified final total. Ordinary OPC hardware, later retrospective date/power discrepancies, measured acceleration and a Nürburgring lap-record claim are excluded. One absent Corsa D family is counted.",
+      "summary": "The Corsa D OPC Nürburgring Edition earned a specific performance identity through a mechanical limited-slip differential, Bilstein chassis and Brembo brakes. First-hand European driving praised traction and usable ride quality: substantial engineering supports this hot hatch’s admission, rather than its circuit badge or body kit.",
+      "admission_reason": "The Corsa D OPC Nürburgring Edition earned a specific performance identity through a mechanical limited-slip differential, Bilstein chassis and Brembo brakes. First-hand European driving praised traction and usable ride quality: substantial engineering supports this hot hatch’s admission, rather than its circuit badge or body kit.",
+      "sources": [
+        {
+          "publisher": "Opel / Autoblog.gr-hosted manufacturer release",
+          "title": "Most powerful Opel Corsa of all time: OPC Nürburgring Edition — original April 2011 release",
+          "source_type": "Period manufacturer press release, hosted reproduction",
+          "url": "https://www.autoblog.gr/2011/04/21/opel-corsa-opc-nurburgring-edition/",
+          "notes": "English Opel release reproduced beneath the 21 April 2011 article. Retain 154 kW and separate 250 Nm normal / 280 Nm overboost, with its 100-octane qualification; no AKI/RON equivalence is inferred. Around 500 was a plan, not a verified final total. Ordinary OPC hardware, later retrospective date/power discrepancies, measured acceleration and a Nürburgring lap-record claim are excluded. One absent Corsa D family is counted."
+        },
+        {
+          "publisher": "Carsales / Joshua Dowling",
+          "title": "Opel Corsa OPC Nürburgring edition — European first drive, 29 September 2011",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.carsales.com.au/editorial/details/opel-corsa-opc-nurburgring-edition-first-drive-26980/",
+          "notes": "First-hand Frankfurt-region driving supports traction/ride and notes dull interior, body-kit/paint and price concerns. This is not an Australian-delivery specification; hypothetical converted pricing is omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Corsa OPC Nürburgring Edition.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Corsa_OPC_N%C3%BCrburgring_Edition.jpg",
+          "notes": "P.A.J.; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "154",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "250",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Mechanical multi-plate front limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Lowered sports chassis with Bilstein springs and dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Lightweight Brembo front braking system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/35 R18 V on forged 8 x 18-inch wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque with overboost activated",
+          "value": "280",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel qualification",
+          "value": "Optimized for 100-octane fuel, as stated in the release",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Electronic chassis support",
+          "value": "Recalibrated ABS, traction control and ESC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Corsa D OPC Nürburgring Edition earned a specific performance identity through a mechanical limited-slip differential, Bilstein chassis and Brembo brakes. First-hand European driving praised traction and usable ride quality: substantial engineering supports this hot hatch’s admission, rather than its circuit badge or body kit.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_corsa_d_opc_ne2011.jpg",
+          "caption": "Opel Corsa OPC Nürburgring Edition photographed by P.A.J. This representative green road hatchback shows the edition’s body treatment and wheels; it does not certify a 2011 build, unchanged engine tune, fuel, differential or original equipment.",
+          "creator": "P.A.J.",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "547e95e729a01d971bd8263a7befaa8f64aa1e992907ab073ab2d914900d42df"
+        }
+      ]
+    }
+  ]
+}

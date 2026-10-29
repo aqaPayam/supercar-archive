@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 816 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 820 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 61 reviewed road-icon manifests contain 421 distinct identifiers. Subtracting
+The 62 reviewed road-icon manifests contain 425 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 816 count must not be presented as 816 proven qualifying icons.
+The raw 820 count must not be presented as 820 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -326,3 +326,49 @@ by Darren (CC BY 2.0) and
 by Jake Thomas (CC BY-SA 4.0). Existing captions retain condition/equipment limits.
 No database row, image or count changes. This bounded profile check does not
 complete the wider baseline audit.
+
+
+## Identity and selected evidence review: R35 GT-R
+
+Reviewed 2026-10-29. The full GT-R inventory contains two baseline R35 road
+references: `NIS-GTR-R35-LAUNCH` and `NIS-GTR-NISMO-2014`. The Skyline GT-R
+entries represent other series. NISMO's own
+[parts history](https://www.nismo.co.jp/nismo_history/nismo_parts/vol_07/)
+explicitly describes the NISMO as a grade added to the R35 programme. Different
+stored generation labels therefore do not prove two independent generations.
+Substantial factory performance changes distinguish the references, but whether
+both contribute to the qualifying count awaits the owner's variant boundary.
+Neither is deleted, merged, newly added or automatically counted twice here.
+
+The [24 October 2007 Japan launch](https://global.nissannews.com/ja-JP/releases/071024-01-j)
+supports the original engine/transaxle architecture, native power/torque, drag,
+brake-caliper and on-sale-date fields. Mixed-material construction, assembly,
+dampers and pedestrian bonnet facts agree with the release. Later upgrades and
+advertising superlatives do not replace the original reference.
+
+The [November 2013 NISMO release](https://global.nissannews.com/en/releases/131119-02-e)
+supports its original road output, tyre sizes, chassis/body changes and
+market-qualified Recaros. Additional downforce is relative to the standard
+2014 car, not total downforce or a comparison with the 2007 launch model. Its
+lap-time footnote specifies track options. The separate N Attack history does
+not make those options standard NISMO road equipment. No unqualified lap record
+is added. Twelve technical/date attribute mappings and twelve fact mappings
+resolve to their respective original factory sources; coverage and exact
+production totals remain unknown.
+
+All six stored JPEGs were visually inspected and are byte-identical to current
+Commons renditions. Hatsukari715's
+[silver](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_01.JPG),
+[red](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_02.JPG) and
+[white](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_03.JPG)
+original-shape cars retain the source's public-domain dedication. Ank Kumar's
+[first](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_Nismo%2C_GIMS_2014_(Ank_Kumar%2C_Infosys)_01.jpg),
+[second](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_Nismo%2C_GIMS_2014_(Ank_Kumar%2C_Infosys)_02.jpg) and
+[third](https://commons.wikimedia.org/wiki/File:Nissan_GT-R_Nismo%2C_GIMS_2014_(Ank_Kumar%2C_Infosys)_03.jpg)
+Geneva NISMO photographs retain CC BY-SA 4.0. Display trim, mechanical condition
+and the lap-time billboard do not certify base equipment or a stock-car lap.
+
+Both car rows and their direct source, attribute, fact and media rows match the
+pre-batch snapshot. No database row, photograph or count was changed by this
+review. Its scope is these identities and listed evidence; it does not complete
+the wider baseline audit or recertify every pricing/remaining field.

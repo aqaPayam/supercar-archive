@@ -4688,7 +4688,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 813-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-61.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "5 Series",
+      "generation": "E12 production-road performance-saloon generation",
+      "proposed_record": "BMW-M535I-E12-1980",
+      "reason": "The E12 M535i established an important precursor to the M5 performance-saloon lineage. Its powerful six-cylinder engine, dedicated sports suspension, limited-slip differential and disc brakes give the original 5 Series a substantive Motorsport engineering identity beyond appearance trim.",
+      "evidence": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m535i-e12.html",
+      "duplicate_review": "Absent model/generation checked against the complete 816-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-62.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "SL",
+      "generation": "R129 production-road sports-roadster generation",
+      "proposed_record": "MER-500SL-R129-1989",
+      "reason": "The R129 SL combines Bruno Sacco-era sports-roadster design with notable safety engineering, including an automatic rollover bar and integral seats carrying the belt system. The original V8 500 SL represents this distinctive sporting grand-tourer generation once.",
+      "evidence": "https://media.mercedes-benz.com/article/8bf93634-4f55-4ab2-8cf8-d7739638037f",
+      "duplicate_review": "Absent model/generation checked against the complete 816-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-62.json"
+    },
+    {
+      "manufacturer": "Saab",
+      "model": "96",
+      "generation": "Original 96 production-road saloon family, selected V4 evolution",
+      "proposed_record": "SAA-96-V4-LANE1969",
+      "reason": "The Saab 96 is a lasting front-wheel-drive rally icon, whose V4 competition lineage included a one-two finish in the 1976 Swedish Rally. A standard road V4 represents that family here; its identity and heritage do not depend on transferring the works cars’ racing engine or tyres.",
+      "evidence": "https://saabcarmuseum.se/en/saabs-dubbelseger-med-v4an-i-svenska-rallyt-1976/",
+      "duplicate_review": "Absent model/generation checked against the complete 816-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-62.json"
+    },
+    {
+      "manufacturer": "Opel",
+      "model": "Corsa",
+      "generation": "Corsa D production-road performance-hatchback generation",
+      "proposed_record": "OPE-CORSA-D-OPC-NE2011",
+      "reason": "The Corsa D OPC Nürburgring Edition earned a specific performance identity through a mechanical limited-slip differential, Bilstein chassis and Brembo brakes. First-hand European driving praised traction and usable ride quality: substantial engineering supports this hot hatch’s admission, rather than its circuit badge or body kit.",
+      "evidence": "https://www.carsales.com.au/editorial/details/opel-corsa-opc-nurburgring-edition-first-drive-26980/",
+      "duplicate_review": "Absent model/generation checked against the complete 816-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-62.json"
     }
   ],
-  "catalogue_count_after_batches": 816
+  "catalogue_count_after_batches": 820
 }
