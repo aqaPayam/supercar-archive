@@ -2445,7 +2445,51 @@
       "duplicate_review": "Absent from the complete 610-record pre-batch inventory, including Ascona/400 aliases.",
       "remaining": "Factory June 1995 technical book page 144 reviewed: 2410 cc, 106 kW, 210 Nm, L-Jetronic, five-speed and road chassis. Resolve a licensed representative road-body photograph; reviewed search results depict rally-prepared cars or replicas. Do not copy Manta performance figures into blank Ascona fields. Closest candidate File:1981 Opel Ascona 400 Rally.jpg was visually inspected: liveried Goodwood rally car with roll cage, competition cabin and bonnet-open engine view. It is not a representative of the selected standard injected road specification.",
       "status": "Research only; not imported or counted"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Silvia",
+      "generation": "Seventh-generation S15 original Japan turbo road coupe",
+      "proposed_record": "NIS-SILVIA-S15-JP1999",
+      "reason": "The S15 Silvia refined Nissan’s compact rear-drive sports-coupe formula through a stronger, more compact body, a new close-ratio six-speed manual, helical differential and revised suspension. The original turbo spec-R is a distinct Silvia generation whose integrated chassis and powertrain development makes it an important Japanese performance-car reference.",
+      "evidence": "https://global.nissannews.com/ja-JP/releases/release-0d0f3b9fbc4ff6a260598c0760046b15-nissan-releases-all-new-silvia-j",
+      "duplicate_review": "Absent model/generation checked against the complete 613-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-24.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "180SX",
+      "generation": "Original S13 fastback road family; export 200SX / 240SX fastback aliases",
+      "proposed_record": "NIS-180SX-II-JP1990",
+      "reason": "The 180SX established a long-lived Nissan fastback sports-car identity alongside the Silvia coupe, combining a flowing hatchback body and retractable headlamps with turbo power and multi-link rear suspension. Nissan records its substantial influence on younger drivers and the continuity of its basic design through 1998, supporting its place as a Japanese performance-culture icon.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/nissan_180SX_TYPE_II.html",
+      "duplicate_review": "Absent model/generation checked against the complete 613-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-24.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Fairlady Roadster",
+      "generation": "SR311 original Datsun Sports 2000 open road series",
+      "proposed_record": "NIS-SPORTS2000-AU1967",
+      "reason": "The SR311 Fairlady, exported as Datsun 2000 Sports, is a defining development of Nissan’s traditional open sports car. Its compact roadster body and U20 overhead-cam two-litre engine brought substantial performance to the marque’s international sports-car identity, with the preserved early Australian example documenting that export history.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_sports_2000.html",
+      "duplicate_review": "Absent model/generation checked against the complete 613-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-24.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Fairlady Z",
+      "generation": "Z34 original VQ37VHR 370Z road coupe",
+      "proposed_record": "NIS-370Z-US2009-SPORTMT",
+      "reason": "The Z34 370Z substantially reworked Nissan’s Z sports coupe with a shorter wheelbase, lighter body materials and the VVEL-equipped VQ37VHR engine. Its optional Sport Package introduced SynchroRev Match to the manual transmission, a notable road-car control innovation that retained the driver-operated clutch and gear lever within the continuing Z lineage.",
+      "evidence": "https://usa.nissannews.com/en-US/releases/us-2009-nissan-370z-coupe-press-kit",
+      "duplicate_review": "Absent model/generation checked against the complete 613-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-24.json"
     }
   ],
-  "catalogue_count_after_batches": 613
+  "catalogue_count_after_batches": 617
 }

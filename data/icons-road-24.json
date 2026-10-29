@@ -1,0 +1,493 @@
+{
+  "batch": "icons-road-2026-10-29-24",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "NIS-SILVIA-S15-JP1999",
+      "manufacturer": "Nissan",
+      "model_family": "Silvia",
+      "generation": "Seventh-generation S15 original Japan turbo road coupe",
+      "variant": "spec-R — original January 1999 Japan six-speed manual",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Nissan Japan January 20, 1999 release announcing January 19 sales. Selected spec-R six-speed manual: 250-PS turbo output, helical LSD and 16-inch sports-tuned-body equipment are separated from automatic, naturally aspirated spec-S, optional HICAS/Aero, Varietta and later packages. Nominal 2.0-litre class is not invented exact cc. Historical catalogue links now returning current-homepage content are not used.",
+      "summary": "The S15 Silvia refined Nissan’s compact rear-drive sports-coupe formula through a stronger, more compact body, a new close-ratio six-speed manual, helical differential and revised suspension. The original turbo spec-R is a distinct Silvia generation whose integrated chassis and powertrain development makes it an important Japanese performance-car reference.",
+      "admission_reason": "The S15 Silvia refined Nissan’s compact rear-drive sports-coupe formula through a stronger, more compact body, a new close-ratio six-speed manual, helical differential and revised suspension. The original turbo spec-R is a distinct Silvia generation whose integrated chassis and powertrain development makes it an important Japanese performance-car reference.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Co., Ltd.",
+          "title": "新型「シルビア」を発売 — original S15 Japan launch release, January 20, 1999",
+          "source_type": "Period manufacturer launch engineering release",
+          "url": "https://global.nissannews.com/ja-JP/releases/release-0d0f3b9fbc4ff6a260598c0760046b15-nissan-releases-all-new-silvia-j",
+          "notes": "Original Nissan Japan January 20, 1999 release announcing January 19 sales. Selected spec-R six-speed manual: 250-PS turbo output, helical LSD and 16-inch sports-tuned-body equipment are separated from automatic, naturally aspirated spec-S, optional HICAS/Aero, Varietta and later packages. Nominal 2.0-litre class is not invented exact cc. Historical catalogue links now returning current-homepage content are not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan Silvia Spec R b package (GF-S15).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_Silvia_Spec_R_b_package_(GF-S15).jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "SR20DET inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio six-speed manual; triple-cone synchronisers on gears 1–3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Helical limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts; rear multi-link with revised geometry and mounting rigidity",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Opposed four-piston front calipers; ABS and brake assist",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, Japan factory notation",
+          "value": "250",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S15 Silvia refined Nissan’s compact rear-drive sports-coupe formula through a stronger, more compact body, a new close-ratio six-speed manual, helical differential and revised suspension. The original turbo spec-R is a distinct Silvia generation whose integrated chassis and powertrain development makes it an important Japanese performance-car reference.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_silvia_s15_jp1999.jpg",
+          "caption": "Nissan Silvia S15 spec-R b package photographed in Japan. Represents the original S15 hardtop body without a major body conversion. Later package equipment, build year, HICAS status, installed tune and six-speed manual are not authenticated by this exterior image; it is not a Varietta or drift car.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9e21e54389f354427e3d4aef3855416a13d4fd36928cea7406daf34e1d30d911"
+        }
+      ]
+    },
+    {
+      "id": "NIS-180SX-II-JP1990",
+      "manufacturer": "Nissan",
+      "model_family": "180SX",
+      "generation": "Original S13 fastback road family; export 200SX / 240SX fastback aliases",
+      "variant": "Type II — 1990 Japan CA18DET heritage road reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door fastback sports coupe",
+      "road_legal": 1,
+      "specification_market": "Nissan Heritage Collection No. 323, early 1990 Japan RS13 Type II. Native 175 PS is retained; the English table’s paired 123-kW figure is inconsistent and is excluded without recalculation. CA18DET data do not become later SR20DET/Type X or export KA24 figures. HICAS-II background is not asserted as standard equipment. Export S13 fastbacks are grouped with this identity, not counted as additional badges. Sileighty and pickup/body conversions are excluded.",
+      "summary": "The 180SX established a long-lived Nissan fastback sports-car identity alongside the Silvia coupe, combining a flowing hatchback body and retractable headlamps with turbo power and multi-link rear suspension. Nissan records its substantial influence on younger drivers and the continuity of its basic design through 1998, supporting its place as a Japanese performance-culture icon.",
+      "admission_reason": "The 180SX established a long-lived Nissan fastback sports-car identity alongside the Silvia coupe, combining a flowing hatchback body and retractable headlamps with turbo power and multi-link rear suspension. Nissan records its substantial influence on younger drivers and the continuity of its basic design through 1998, supporting its place as a Japanese performance-culture icon.",
+      "sources": [
+        {
+          "publisher": "Nissan Heritage Collection",
+          "title": "Nissan 180SX Type II — 1990 RS13, Heritage Collection No. 323",
+          "source_type": "Manufacturer heritage collection / road technical data",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/nissan_180SX_TYPE_II.html",
+          "notes": "Nissan Heritage Collection No. 323, early 1990 Japan RS13 Type II. Native 175 PS is retained; the English table’s paired 123-kW figure is inconsistent and is excluded without recalculation. CA18DET data do not become later SR20DET/Type X or export KA24 figures. HICAS-II background is not asserted as standard equipment. Export S13 fastbacks are grouped with this identity, not counted as additional badges. Sileighty and pickup/body conversions are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan 200SX (26823080258).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_200SX_(26823080258).jpg",
+          "notes": "Guillaume Vachey from Chalon sur Saone, France; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Nissan 200SX"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "CA18DET inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1809",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "225",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts; rear multi-link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs; rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native archive notation",
+          "value": "175",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 180SX established a long-lived Nissan fastback sports-car identity alongside the Silvia coupe, combining a flowing hatchback body and retractable headlamps with turbo power and multi-link rear suspension. Nissan records its substantial influence on younger drivers and the continuity of its basic design through 1998, supporting its place as a Japanese performance-culture icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_180sx_ii_jp1990.jpg",
+          "caption": "European Nissan 200SX S13 fastback, identified by the photographer as a 1990 1.8 turbo at Nevers. Represents the early global fastback body corresponding to the Japan 180SX. Export lamps/bumper equipment, visible aftermarket wheels and current tune do not certify Japan Type II output, HICAS or mechanical originality. No extra export-badge record is counted.",
+          "creator": "Guillaume Vachey from Chalon sur Saone, France",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "927b0e5db9a668536d2683f3e12ec0d7f8ee8a9c94d1bfed38ca3dd019b65668"
+        }
+      ]
+    },
+    {
+      "id": "NIS-SPORTS2000-AU1967",
+      "manufacturer": "Nissan",
+      "model_family": "Fairlady Roadster",
+      "generation": "SR311 original Datsun Sports 2000 open road series",
+      "variant": "Datsun 2000 Sports — early 1967 Australian reference",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat open roadster",
+      "road_legal": 1,
+      "specification_market": "Nissan Heritage Collection No. 348 explicitly identifies an early 1967 SR311 for Australia. Its native 107 kW / 145 PS and 176 Nm are not replaced by other-market 135-hp ratings, Solex competition upgrades or restored-car claims. Maximum-speed superlative, acceleration, gearbox and exact carburettor specification are omitted. This roadster is distinct from the Fairlady Z coupe and existing CSP311 Silvia, despite historical shared components.",
+      "summary": "The SR311 Fairlady, exported as Datsun 2000 Sports, is a defining development of Nissan’s traditional open sports car. Its compact roadster body and U20 overhead-cam two-litre engine brought substantial performance to the marque’s international sports-car identity, with the preserved early Australian example documenting that export history.",
+      "admission_reason": "The SR311 Fairlady, exported as Datsun 2000 Sports, is a defining development of Nissan’s traditional open sports car. Its compact roadster body and U20 overhead-cam two-litre engine brought substantial performance to the marque’s international sports-car identity, with the preserved early Australian example documenting that export history.",
+      "sources": [
+        {
+          "publisher": "Nissan Heritage Collection",
+          "title": "Datsun 2000 Sports — 1967 SR311 early Australian car, Heritage Collection No. 348",
+          "source_type": "Manufacturer heritage collection / export road technical data",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_sports_2000.html",
+          "notes": "Nissan Heritage Collection No. 348 explicitly identifies an early 1967 SR311 for Australia. Its native 107 kW / 145 PS and 176 Nm are not replaced by other-market 135-hp ratings, Solex competition upgrades or restored-car claims. Maximum-speed superlative, acceleration, gearbox and exact carburettor specification are omitted. This roadster is distinct from the Fairlady Z coupe and existing CSP311 Silvia, despite historical shared components."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1967.5 Datsun 2000 (6288385943).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1967.5_Datsun_2000_(6288385943).jpg",
+          "notes": "dave_7 from Lethbridge, Canada; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1967.5 Datsun 2000"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "U20 inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1982",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "107",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "176",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; parallel-leaf rear with torque rod",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front discs; rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Laminated glass",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SR311 Fairlady, exported as Datsun 2000 Sports, is a defining development of Nissan’s traditional open sports car. Its compact roadster body and U20 overhead-cam two-litre engine brought substantial performance to the marque’s international sports-car identity, with the preserved early Australian example documenting that export history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_sports2000_au1967.jpg",
+          "caption": "Datsun 2000 roadster identified by the photographer as a 1967.5 car, with the early low-windscreen body. Represents the original Sports 2000 exterior; its market, nonstandard wheels, restoration, carburettors and engine rating do not authenticate the selected Australian SR311 heritage specification.",
+          "creator": "dave_7 from Lethbridge, Canada",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8cbf26d1c3e2d3e300d18f54f7432c4116ccf1b415811400a62d5fa236ea1bf2"
+        }
+      ]
+    },
+    {
+      "id": "NIS-370Z-US2009-SPORTMT",
+      "manufacturer": "Nissan",
+      "model_family": "Fairlady Z",
+      "generation": "Z34 original VQ37VHR 370Z road coupe",
+      "variant": "370Z — 2009 US six-speed manual with Sport Package",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat hatchback coupe",
+      "road_legal": 1,
+      "specification_market": "November 19, 2008 US press kit, original 2009 370Z coupe sections. Selected manual with optional Sport Package; rev matching and viscous LSD are not claimed for the base package. US native hp/lb-ft remain unconverted. NISMO 350-hp engine/chassis, seven-speed automatic, adjacent 350Z Roadster content and later facelift/anniversary data are excluded. No claim that the exterior photograph authenticates this transmission/package or exact body-panel material.",
+      "summary": "The Z34 370Z substantially reworked Nissan’s Z sports coupe with a shorter wheelbase, lighter body materials and the VVEL-equipped VQ37VHR engine. Its optional Sport Package introduced SynchroRev Match to the manual transmission, a notable road-car control innovation that retained the driver-operated clutch and gear lever within the continuing Z lineage.",
+      "admission_reason": "The Z34 370Z substantially reworked Nissan’s Z sports coupe with a shorter wheelbase, lighter body materials and the VVEL-equipped VQ37VHR engine. Its optional Sport Package introduced SynchroRev Match to the manual transmission, a notable road-car control innovation that retained the driver-operated clutch and gear lever within the continuing Z lineage.",
+      "sources": [
+        {
+          "publisher": "Nissan North America",
+          "title": "2009 Nissan 370Z Coupe Press Kit — original US coupe overview, November 19, 2008",
+          "source_type": "Period manufacturer launch press kit",
+          "url": "https://usa.nissannews.com/en-US/releases/us-2009-nissan-370z-coupe-press-kit",
+          "notes": "November 19, 2008 US press kit, original 2009 370Z coupe sections. Selected manual with optional Sport Package; rev matching and viscous LSD are not claimed for the base package. US native hp/lb-ft remain unconverted. NISMO 350-hp engine/chassis, seven-speed automatic, adjacent 350Z Roadster content and later facelift/anniversary data are excluded. No claim that the exterior photograph authenticates this transmission/package or exact body-panel material."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Nissan 370Z (3075721227).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Nissan_370Z_(3075721227).jpg",
+          "notes": "Denmark from United States; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2009 Nissan 370Z"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "VQ37VHR V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 24 valves; VVEL intake-valve control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with switchable SynchroRev Match in Sport Package",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Viscous limited slip, Sport Package",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bonnet, doors and rear hatch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, US factory rating",
+          "value": "332",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, US factory rating",
+          "value": "270",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Z34 370Z substantially reworked Nissan’s Z sports coupe with a shorter wheelbase, lighter body materials and the VVEL-equipped VQ37VHR engine. Its optional Sport Package introduced SynchroRev Match to the manual transmission, a notable road-car control innovation that retained the driver-operated clutch and gear lever within the continuing Z lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_370z_us2009_sportmt.jpg",
+          "caption": "Original 2009-model Nissan 370Z coupe photographed at the 2008 San Francisco International Auto Show. Represents the launch Z34 road body with visible touring/sport equipment. The image does not certify the selected six-speed transmission, package content or installed mechanical specification; it is not a later NISMO body.",
+          "creator": "Denmark from United States",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7034fa431b8cbb3ae9b2f71a38f6454757c93ccd5c1cb2bdfc7bf532c46a4c72"
+        }
+      ]
+    }
+  ]
+}
