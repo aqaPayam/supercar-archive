@@ -5073,7 +5073,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 849-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-74.json"
+    },
+    {
+      "manufacturer": "Studebaker",
+      "model": "Golden Hawk",
+      "generation": "Original 1956–1958 Golden Hawk production-road performance-coupe family",
+      "proposed_record": "STU-GOLDENHAWK-SUPERCHARGED1957",
+      "reason": "The Golden Hawk represents an important early American performance-coupe formula: a sleek hardtop body with a production supercharged V8. Its 1957 change from Packard power to Studebaker’s own boosted engine is documented by the marque museum. That purposeful forced-induction engineering and established sporting identity justify one original Golden Hawk family entry, rather than its fins, trim or rarity.",
+      "evidence": "https://studebakermuseum.org/1957-studebaker-hawks/",
+      "duplicate_review": "Absent model/generation checked against the complete 851-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-75.json"
+    },
+    {
+      "manufacturer": "Studebaker",
+      "model": "Avanti",
+      "generation": "Original Studebaker-built Avanti production-road coupe family",
+      "proposed_record": "STU-AVANTI-R2-4MT-US1963",
+      "reason": "The Avanti combined a radical Loewy-team coupe design with supercharged V8 performance engineering, standard front disc brakes and an overhead steel safety arch. Its fibreglass-on-steel construction and distinctive place in Studebaker’s final American performance-car programme make it an engineering and design icon. One original Studebaker family is admitted; later Avanti II cars and modified speed-record machines are not extra versions of this reference.",
+      "evidence": "https://www.americascarmuseum.org/first-studebaker-avanti",
+      "duplicate_review": "Absent model/generation checked against the complete 851-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-75.json"
     }
   ],
-  "catalogue_count_after_batches": 851
+  "catalogue_count_after_batches": 853
 }

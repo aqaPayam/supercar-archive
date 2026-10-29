@@ -1,0 +1,278 @@
+{
+  "batch": "icons-road-2026-10-30-75",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "STU-GOLDENHAWK-SUPERCHARGED1957",
+      "manufacturer": "Studebaker",
+      "model_family": "Golden Hawk",
+      "generation": "Original 1956–1958 Golden Hawk production-road performance-coupe family",
+      "variant": "1957 supercharged Studebaker V8 — original Hawk brochure reference",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1957 US Hawk brochure, specification text visually read. Selects the Golden Hawk supercharged 289 reference, not the Silver Hawk or 1956 Packard-powered car. Native displacement, hp and lb-ft retained; no modern gross/net standard or measured performance is inferred. Gearbox options, trim, 400 equipment and model years add no counts.",
+      "summary": "The Golden Hawk represents an important early American performance-coupe formula: a sleek hardtop body with a production supercharged V8. Its 1957 change from Packard power to Studebaker’s own boosted engine is documented by the marque museum. That purposeful forced-induction engineering and established sporting identity justify one original Golden Hawk family entry, rather than its fins, trim or rarity.",
+      "admission_reason": "The Golden Hawk represents an important early American performance-coupe formula: a sleek hardtop body with a production supercharged V8. Its 1957 change from Packard power to Studebaker’s own boosted engine is documented by the marque museum. That purposeful forced-induction engineering and established sporting identity justify one original Golden Hawk family entry, rather than its fins, trim or rarity.",
+      "sources": [
+        {
+          "publisher": "Studebaker-Packard Corporation; facsimile hosted by XR793",
+          "title": "1957 Studebaker Hawks — factory brochure, final interior specification spread",
+          "source_type": "Original manufacturer brochure, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2020/02/1957-Studebaker-Hawks.pdf",
+          "notes": "Original 1957 US Hawk brochure, specification text visually read. Selects the Golden Hawk supercharged 289 reference, not the Silver Hawk or 1956 Packard-powered car. Native displacement, hp and lb-ft retained; no modern gross/net standard or measured performance is inferred. Gearbox options, trim, 400 equipment and model years add no counts."
+        },
+        {
+          "publisher": "Studebaker National Museum",
+          "title": "1957 Studebaker Hawks — Birds of a Feather exhibition account",
+          "source_type": "Primary marque museum exhibition account",
+          "url": "https://studebakermuseum.org/1957-studebaker-hawks/",
+          "notes": "Primary museum exhibition account confirms the 1957 Golden Hawk’s supercharged Studebaker 289 and distinguishes Silver Hawk and cosmetic Golden Hawk 400 equipment. Production totals, trim and other engines are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1957 Studebaker Golden Hawk (26759631723).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1957_Studebaker_Golden_Hawk_(26759631723).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1957 Studebaker Golden Hawk. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Sweepstakes 289 overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Jet-Stream supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Finned drum brakes, 195 square inches of lining area",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "289",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "275",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "333",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "120.5",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Golden Hawk represents an important early American performance-coupe formula: a sleek hardtop body with a production supercharged V8. Its 1957 change from Packard power to Studebaker’s own boosted engine is documented by the marque museum. That purposeful forced-induction engineering and established sporting identity justify one original Golden Hawk family entry, rather than its fins, trim or rarity.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_stu_goldenhawk_supercharged1957.jpg",
+          "caption": "1957 Studebaker Golden Hawk photographed by Greg Gjerdingen at the North Star Chapter Studebaker Drivers Club show in Hugo, Minnesota, in 2016. Representative original-family hardtop body; it does not certify the brochure engine, gearbox, factory originality or unchanged equipment.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9156fbeef77784bbe1877983f07395d7f24fd3d0427bdebe07e604bd3b6309fa"
+        }
+      ]
+    },
+    {
+      "id": "STU-AVANTI-R2-4MT-US1963",
+      "manufacturer": "Studebaker",
+      "model_family": "Avanti",
+      "generation": "Original Studebaker-built Avanti production-road coupe family",
+      "variant": "Supercharged Jet-Thrust V8 with optional four-speed manual — 1963 US brochure reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat coupe",
+      "road_legal": 1,
+      "specification_market": "1963 US factory range brochure, Avanti equipment, engine and transmission pages visually read. Selects the supercharged Jet-Thrust/R2 family and optional manual four-speed, not the unsupercharged 10.25:1 engine or other range models. The brochure supplies no supercharged hp figure; none is inferred. Avanti Power Shift automatic, other engines, later body changes, Avanti II continuation cars and Bonneville record-car hardware are excluded.",
+      "summary": "The Avanti combined a radical Loewy-team coupe design with supercharged V8 performance engineering, standard front disc brakes and an overhead steel safety arch. Its fibreglass-on-steel construction and distinctive place in Studebaker’s final American performance-car programme make it an engineering and design icon. One original Studebaker family is admitted; later Avanti II cars and modified speed-record machines are not extra versions of this reference.",
+      "admission_reason": "The Avanti combined a radical Loewy-team coupe design with supercharged V8 performance engineering, standard front disc brakes and an overhead steel safety arch. Its fibreglass-on-steel construction and distinctive place in Studebaker’s final American performance-car programme make it an engineering and design icon. One original Studebaker family is admitted; later Avanti II cars and modified speed-record machines are not extra versions of this reference.",
+      "sources": [
+        {
+          "publisher": "Studebaker Corporation; facsimile hosted by Auto-Brochures",
+          "title": "1963 Avanti, Lark, Cruiser and Hawk — factory range brochure, Avanti/engine/safety/specification pages",
+          "source_type": "Original manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Studebaker/Studebaker_US%201963.pdf",
+          "notes": "1963 US factory range brochure, Avanti equipment, engine and transmission pages visually read. Selects the supercharged Jet-Thrust/R2 family and optional manual four-speed, not the unsupercharged 10.25:1 engine or other range models. The brochure supplies no supercharged hp figure; none is inferred. Avanti Power Shift automatic, other engines, later body changes, Avanti II continuation cars and Bonneville record-car hardware are excluded."
+        },
+        {
+          "publisher": "LeMay — America’s Car Museum",
+          "title": "Restoring Studebaker Avanti #1 — 24 January 2025",
+          "source_type": "Primary museum restoration account",
+          "url": "https://www.americascarmuseum.org/first-studebaker-avanti",
+          "notes": "Actual museum restoration/provenance account identifies the Loewy team, fibreglass body on steel frame and R2 supercharged four-speed production application. Serial-number variants and inconsistent early design dates are not imported; restored #1001 is context, not a claim that the representative photograph shows it."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Studebaker Avanti Supercharged in Avanti Gold, Front Left, 08-06-2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Studebaker_Avanti_Supercharged_in_Avanti_Gold,_Front_Left,_08-06-2022.jpg",
+          "notes": "Elise240SX; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Supercharged Jet-Thrust V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Optional four-speed floor-mounted manual, full synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted front caliper discs with non-servo, self-energising 11-inch rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "289",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Overhead protection",
+          "value": "Steel safety arch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction",
+          "value": "Fibreglass body over a steel frame",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Avanti combined a radical Loewy-team coupe design with supercharged V8 performance engineering, standard front disc brakes and an overhead steel safety arch. Its fibreglass-on-steel construction and distinctive place in Studebaker’s final American performance-car programme make it an engineering and design icon. One original Studebaker family is admitted; later Avanti II cars and modified speed-record machines are not extra versions of this reference.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_stu_avanti_r2_4mt_us1963.jpg",
+          "caption": "1963 Studebaker Avanti photographed by Elise240SX in Sault Ste. Marie, Michigan, in 2022, file-identified as Supercharged. Representative original Studebaker round-headlamp road body; exterior appearance does not certify its engine internals, manual gearbox, originality or identity as museum car #1001.",
+          "creator": "Elise240SX",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "dfaa4e195a061c802b78026f04597e780e7681c77bd0ee2583a8ab46531ffa76"
+        }
+      ]
+    }
+  ]
+}
