@@ -4952,7 +4952,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 837-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-68.json"
+    },
+    {
+      "manufacturer": "Lagonda",
+      "model": "LG45 Rapide",
+      "generation": "Original LG45 Meadows-six production-road sporting tourer family",
+      "proposed_record": "LAG-LG45-RAPIDE-1937-BYG7",
+      "reason": "The LG45 Rapide expressed Lagonda’s prewar sporting ambition through Frank Feeley’s distinctive open coachwork and a developed Meadows six-cylinder engine. First-hand driving finds strong low-speed response and relaxed touring pace, while noting heavy steering and disturbance from poor road cambers. Its coherent sports-tourer design and engineering give it a clear identity beyond scarcity or price.",
+      "evidence": "https://www.octane-magazine.com/articles/features/lagonda-lg45-rapide-undiluted-class/",
+      "duplicate_review": "Absent model/generation checked against the complete 840-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-69.json"
+    },
+    {
+      "manufacturer": "Invicta",
+      "model": "4½-Litre S-Type",
+      "generation": "Original low-chassis S-Type production-road sports-tourer family",
+      "proposed_record": "INV-S-TYPE-LOWCHASSIS-1931",
+      "reason": "The S-Type gave Invicta a distinctive prewar sports-car identity by placing the rear axle above the chassis rails, lowering the body around a flexible Meadows six. Its emphasis on high-speed touring and effortless response was supported by developed braking and dual ignition. The low-chassis engineering and established sporting history justify one original road-family entry, without counting later continuations or racing conversions.",
+      "evidence": "https://carsd.bonhams.com/auction/27526/lot/294/one-of-the-finest-sports-cars-of-the-vintage-era1931-invicta-412-litre-s-type-low-chassis-sports-sentinel-chassis-no-s91/",
+      "duplicate_review": "Absent model/generation checked against the complete 840-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-69.json"
     }
   ],
-  "catalogue_count_after_batches": 840
+  "catalogue_count_after_batches": 842
 }
