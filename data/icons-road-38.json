@@ -1,0 +1,806 @@
+{
+  "batch": "icons-road-2026-10-29-38",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 6,
+  "cars": [
+    {
+      "id": "HON-CITY-TURBOII-JP1983",
+      "manufacturer": "Honda",
+      "model_family": "City",
+      "generation": "First-generation AA City Turbo II production-road performance family",
+      "variant": "Turbo II — October 1983 Japan five-speed manual",
+      "model_year_from": 1983,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door compact performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 26 October 1983 Turbo II factbook specification table. The native rating standard is not printed and is not relabelled net/gross. Earlier 100-hp Turbo I, ordinary City, cabriolet and one-make race specifications are excluded; optional-sunroof mass is omitted.",
+      "summary": "The City Turbo II combined an intercooled turbo engine with a wide-track compact hatchback, creating Honda’s memorable Bulldog. Its distinctive performance-car identity continues to influence Honda design, separate from ordinary City models and the one-make racing cars.",
+      "admission_reason": "The City Turbo II combined an intercooled turbo engine with a wide-track compact hatchback, creating Honda’s memorable Bulldog. Its distinctive performance-car identity continues to influence Honda design, separate from ordinary City models and the one-make racing cars.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "City Turbo II 1983.10 — original Japan launch specification table",
+          "source_type": "Manufacturer original launch factbook specification table",
+          "url": "https://www.honda.co.jp/factbook/auto/CITY/19831026/ci83-014.html",
+          "notes": "Original 26 October 1983 Turbo II factbook specification table. The native rating standard is not printed and is not relabelled net/gross. Earlier 100-hp Turbo I, ordinary City, cabriolet and one-make race specifications are excluded; optional-sunroof mass is omitted."
+        },
+        {
+          "publisher": "Honda Access / Honda Motor Co.",
+          "title": "What is BULLDOG STYLE? — City Turbo II history and continuing design influence",
+          "source_type": "Manufacturer historical design and engineering account",
+          "url": "https://www.honda.co.jp/ACCESS/super-one/bulldogstyle/",
+          "notes": "Historical section identifies the 1983 Turbo II, wide fenders, intercooler and Bulldog cultural identity, followed by its influence on Super-ONE. No modern EV specifications, absolute boost-pressure superlative or racing-car data is transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda City Turbo II (53080031120).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_City_Turbo_II_(53080031120).jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Honda City Turbo II"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "ER CVCC water-cooled transverse OHC inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1231",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.6:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronically controlled fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson struts front and rear; separate rear coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear leading/trailing drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "185/60 R13 80H",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native launch-table claim at 5500 rpm",
+          "value": "110",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native launch-table claim at 3000 rpm",
+          "value": "16.3",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with air-to-air intercooler",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The City Turbo II combined an intercooled turbo engine with a wide-track compact hatchback, creating Honda’s memorable Bulldog. Its distinctive performance-car identity continues to influence Honda design, separate from ordinary City models and the one-make racing cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_city_turboii_jp1983.jpg",
+          "caption": "Honda City Turbo II at Japan Classic Sunday 2023, showing the original wide-fender road hatchback and bonnet bulge. Present wheels, trim, exact year and mechanical condition do not certify the original October 1983 factory specification. This is not a one-make racing reference.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "25ebacd459df767c9e105b56889cf2e6f786a1b6717aa404b40159b650bc4e55"
+        }
+      ]
+    },
+    {
+      "id": "MIT-PAJERO-EVOLUTION-JP1997-AT",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Pajero Evolution",
+      "generation": "Second-generation Pajero-derived Evolution production-road homologation family",
+      "variant": "Evolution — original Japan introduction, five-speed automatic",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door homologation performance off-roader",
+      "road_legal": 1,
+      "specification_market": "Original launch brochure catalogued September 1997 by the named facsimile custodian Book Garage. Printed pages 8–11 visually read, including engine, ECI-Multi, 5AT and ARMIE/4WD/brake/tyre sections. Exact cc and an unobserved original model-code table are omitted. Ordinary Pajero GDI, four-speed automatic and Dakar prototype specifications are excluded.",
+      "summary": "The Pajero Evolution brought Dakar-derived development into a dedicated production-road model with MIVEC V6 power, a strengthened chassis and all-wheel independent suspension. It belongs for its homologation-era engineering, rather than as an ordinary utility vehicle.",
+      "admission_reason": "The Pajero Evolution brought Dakar-derived development into a dedicated production-road model with MIVEC V6 power, a strengthened chassis and all-wheel independent suspension. It belongs for its homologation-era engineering, rather than as an ordinary utility vehicle.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors / Book Garage via Car and Driver Japan",
+          "title": "Pajero Evolution — original Japan launch brochure, printed pages 8–11, Book Garage facsimile",
+          "source_type": "Manufacturer original road-model brochure, hosted facsimile",
+          "url": "https://www.caranddriver.co.jp/culture/123639/",
+          "notes": "Original launch brochure catalogued September 1997 by the named facsimile custodian Book Garage. Printed pages 8–11 visually read, including engine, ECI-Multi, 5AT and ARMIE/4WD/brake/tyre sections. Exact cc and an unobserved original model-code table are omitted. Ordinary Pajero GDI, four-speed automatic and Dakar prototype specifications are excluded."
+        },
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "What did Mitsubishi Motors gain from the world of rally competitions? — 26 August 2022 engineer interview",
+          "source_type": "Manufacturer first-hand engineering history",
+          "url": "https://www.mitsubishi-motors.com/en/newsroom/stories/motorsports2/index.html",
+          "notes": "Engineer Yoshihiko Ototake explains the 1997 competition rule change, the market Pajero Evolution, MIVEC 6G74 and strengthened chassis. Competition results and later 2002 prototype specifications are not assigned to the stock road car."
+        },
+        {
+          "publisher": "Mitsubishi Motors / Book Garage via Car and Driver Japan",
+          "title": "Original Pajero Evolution engine and suspension spread, printed 8–9",
+          "source_type": "Manufacturer original brochure image, hosted facsimile",
+          "url": "https://www.caranddriver.co.jp/wp-content/uploads/2026/10/2p-03-1_20260823185920.jpg",
+          "notes": "Visually read: 6G74 MIVEC, ECI-Multi, 280 net PS/6500, 35.5 kg-m/3000, INVECS-II five-speed automatic and independent suspension."
+        },
+        {
+          "publisher": "Mitsubishi Motors / Book Garage via Car and Driver Japan",
+          "title": "Original Pajero Evolution 4WD and braking spread, printed 10–11",
+          "source_type": "Manufacturer original brochure image, hosted facsimile",
+          "url": "https://www.caranddriver.co.jp/wp-content/uploads/2026/10/2p-04-1_20260823185947.jpg",
+          "notes": "Visually read: Super Select 4WD, front/rear ventilated discs, multi-mode ABS and 265/70R16. No wheel-class notation is misread as a disc diameter."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1997 Mitsubishi Pajero Evo.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1997_Mitsubishi_Pajero_Evo.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "6G74 V6, MIVEC DOHC 24-valve",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.5",
+          "unit": "litres",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "ECI-Multi electronically controlled fuel injection",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "INVECS-II Sport Mode five-speed automatic",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "ARMIE independent suspension: double-wishbone front and multilink rear",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Super Select 4WD",
+          "unit": "",
+          "source": 3
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front and rear discs with multi-mode ABS",
+          "unit": "",
+          "source": 3
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "265/70R16",
+          "unit": "",
+          "source": 3
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 6500 rpm",
+          "value": "280",
+          "unit": "PS",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native brochure claim at 3000 rpm",
+          "value": "35.5",
+          "unit": "kg-m",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Pajero Evolution brought Dakar-derived development into a dedicated production-road model with MIVEC V6 power, a strengthened chassis and all-wheel independent suspension. It belongs for its homologation-era engineering, rather than as an ordinary utility vehicle.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_pajero_evolution_jp1997_at.jpg",
+          "caption": "Mitsubishi Pajero Evolution identified as 1997, showing the dedicated wide-body short-wheelbase production-road shape. Present wheels, decals and exact condition do not certify original tyre choice, gearbox, engine tune or competition provenance.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "3aceea9c09b4e072d7b0cb384d78222e7b8913d31fa939c7b3b1a2d189352f3a"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-FAMILIA-GTR-BG8-JP1992",
+      "manufacturer": "Mazda",
+      "model_family": "Familia GT-R",
+      "generation": "BG Familia / 323 GT-R production-road homologation hatchback family",
+      "variant": "GT-R — original Japan road family, 1993 homologation base reference",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door rally-homologation performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Mazda/JAF A-5473 base form, effective 1 January 1993, JAF recognition dated 31 October 1992. Download contains 82 pages: base application PDF13–32 reviewed in context; identity/engine/transmission/suspension/brake PDF13,16,24–25,27–28 individually enlarged. Physical 1839.6 cc is distinguished from multiplied 3127.5 competition capacity. No Group N tune, minimum competition mass, optional gear ratios or later annex hardware is imported. Manufacturer January 1992 history separately identifies the Japan road introduction.",
+      "summary": "The Familia GT-R represents Mazda’s turbocharged four-wheel-drive rally-homologation hatchback lineage. Its dedicated road hardware formed the basis of an FIA-recognised GT-R programme, distinct from ordinary Familias and from the lighter GT-Ae.",
+      "admission_reason": "The Familia GT-R represents Mazda’s turbocharged four-wheel-drive rally-homologation hatchback lineage. Its dedicated road hardware formed the basis of an FIA-recognised GT-R programme, distinct from ordinary Familias and from the lighter GT-Ae.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation / Japan Automobile Federation / FIA Historic Database",
+          "title": "Mazda Familia GT-R 4WD (BG8) — manufacturer/JAF base homologation application A-5473, 1993",
+          "source_type": "Manufacturer original base homologation form, FIA-hosted scan",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601049601/homologation_form_number_5473_group_n.pdf",
+          "notes": "Original Mazda/JAF A-5473 base form, effective 1 January 1993, JAF recognition dated 31 October 1992. Download contains 82 pages: base application PDF13–32 reviewed in context; identity/engine/transmission/suspension/brake PDF13,16,24–25,27–28 individually enlarged. Physical 1839.6 cc is distinguished from multiplied 3127.5 competition capacity. No Group N tune, minimum competition mass, optional gear ratios or later annex hardware is imported. Manufacturer January 1992 history separately identifies the Japan road introduction."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "History of Mazda, 1990–1999 — January 1992 GT-R and GT-Ae introduction",
+          "source_type": "Manufacturer historical production chronology",
+          "url": "https://www.mazda.com/en/about/history/1990-1999/",
+          "notes": "January 1992 entry supplies Japan-road 1800 DOHC intercooled turbo and native output. Its English Astina/323F name is not adopted: original manufacturer/JAF form identifies Familia GT-R BG8. GT-Ae weight reduction and closer ratios are excluded. The 1993 Group N championship entry concerns competition cars and supplies no road-car specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1992 Mazda Familia GT-R.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1992_Mazda_Familia_GT-R.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Liquid-cooled inline four with cast-iron cylinder block",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1839.6",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed synchromesh manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson suspension with coil springs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with intercooler",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 6000 rpm",
+          "value": "210",
+          "unit": "PS",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native history claim at 4500 rpm",
+          "value": "25.5",
+          "unit": "kg-m",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Familia GT-R represents Mazda’s turbocharged four-wheel-drive rally-homologation hatchback lineage. Its dedicated road hardware formed the basis of an FIA-recognised GT-R programme, distinct from ordinary Familias and from the lighter GT-Ae.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_familia_gtr_bg8_jp1992.jpg",
+          "caption": "Mazda Familia GT-R identified as 1992 in a museum display, showing the BG three-door road body, bonnet vents and large bumper lamps. Display wheels, current mechanical originality and exact homologation-reference hardware are not authenticated by the image.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "defe0deaf17725b991c1c0e4ab20835e20cfe018f1ccf5e5dd5c5f36caf3c165"
+        }
+      ]
+    },
+    {
+      "id": "FIA-UNO-TURBOIE-S1-1985",
+      "manufacturer": "Fiat",
+      "model_family": "Uno Turbo i.e.",
+      "generation": "Original first-series Type 146 Uno Turbo performance-road family",
+      "variant": "1.3 Turbo i.e. — original 1985 road programme",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Manufacturer Heritage Hub 40th-anniversary account, 29 April 2025, original first-series 1985 introduction. Native Italian CV is retained without assigning an unprinted test standard. Later 1372-cc Garrett versions, Antiskid equipment, special-coachbuilder conversions and optional digital instruments are not made universal. No absolute first-B-segment-turbo claim is adopted.",
+      "summary": "The original Uno Turbo i.e. is a defining Italian hot hatch, combining compact-car packaging with intercooled turbocharging, electronic injection and a dedicated sporting chassis package. Its accessible performance and enduring cultural identity give it a place beyond the ordinary Uno range.",
+      "admission_reason": "The original Uno Turbo i.e. is a defining Italian hot hatch, combining compact-car packaging with intercooled turbocharging, electronic injection and a dedicated sporting chassis package. Its accessible performance and enduring cultural identity give it a place beyond the ordinary Uno range.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage Hub / Fiat",
+          "title": "Fiat Uno Turbo i.e.: quarant’anni di velocità, tecnica e… sfrontatezza — original first-series engineering",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/fiat-uno-turbo-i-e-quarant-anni-di-velocita-tecnica-e-sfrontatezza",
+          "notes": "Manufacturer Heritage Hub 40th-anniversary account, 29 April 2025, original first-series 1985 introduction. Native Italian CV is retained without assigning an unprinted test standard. Later 1372-cc Garrett versions, Antiskid equipment, special-coachbuilder conversions and optional digital instruments are not made universal. No absolute first-B-segment-turbo claim is adopted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Fiat Uno Turbo i.e (25420774522).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Fiat_Uno_Turbo_i.e_(25420774522).jpg",
+          "notes": "Riley from Christchurch, New Zealand; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1986 Fiat Uno Turbo i.e"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1301",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Magneti Marelli digital electronic ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Water-cooled IHI VL2 turbocharger with air-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed gearbox derived from the Ritmo 105 TC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "175/60 tyres on 13-inch alloy wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native Italian heritage claim",
+          "value": "105",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque at 3200 rpm",
+          "value": "147",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Uno Turbo i.e. is a defining Italian hot hatch, combining compact-car packaging with intercooled turbocharging, electronic injection and a dedicated sporting chassis package. Its accessible performance and enduring cultural identity give it a place beyond the ordinary Uno range.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_uno_turboie_s1_1985.jpg",
+          "caption": "Fiat Uno Turbo i.e. identified as 1986 in New Zealand, showing the original first-series road hatchback body. Represents the 1985-introduced family; exact market, engine tune, current wheels and factory equipment are not certified by the exterior.",
+          "creator": "Riley from Christchurch, New Zealand",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "dec08f2e6e28f38f0ad54fe2cbf6fecc87b5a641939ad8683e0c8a891ed0f717"
+        }
+      ]
+    },
+    {
+      "id": "PEU-405-T16-FR1993",
+      "manufacturer": "Peugeot",
+      "model_family": "405 T16",
+      "generation": "Original 405 T16 four-wheel-drive production-road sports-saloon family",
+      "variant": "T16 — 1993 French road brochure reference",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original French 1993 T16 manufacturer brochure, eight hosted scans rendered and reviewed; technical PDF6 and engine/drivetrain PDF7–8 individually enlarged. The scan order includes split/cropped spreads. DIN ch/mkg are retained as printed; separately labelled CEE kW/torque figures are not silently converted into DIN values. Overboost output is not described as continuous power. Retrospective translated bhp and 7-second acceleration are not mixed with the original table. Dakar/Pikes Peak silhouette cars are excluded.",
+      "summary": "The 405 T16 combined a turbocharged sixteen-valve engine, permanent four-wheel drive, a viscous centre coupling and Torsen rear differential in a discreet road saloon. Its variable-geometry turbo and controlled rear suspension make it a distinctive performance-engineering flagship.",
+      "admission_reason": "The 405 T16 combined a turbocharged sixteen-valve engine, permanent four-wheel drive, a viscous centre coupling and Torsen rear differential in a discreet road saloon. Its variable-geometry turbo and controlled rear suspension make it a distinctive performance-engineering flagship.",
+      "sources": [
+        {
+          "publisher": "Automobiles Peugeot / GTI Powers hosted facsimile",
+          "title": "Peugeot 405 T16 — original 1993 French road brochure, GTI Powers hosted scans",
+          "source_type": "Manufacturer original road-model brochure, hosted facsimile",
+          "url": "https://gtipowers.com/wp-content/uploads/2019/05/405-T16.pdf",
+          "notes": "Original French 1993 T16 manufacturer brochure, eight hosted scans rendered and reviewed; technical PDF6 and engine/drivetrain PDF7–8 individually enlarged. The scan order includes split/cropped spreads. DIN ch/mkg are retained as printed; separately labelled CEE kW/torque figures are not silently converted into DIN values. Overboost output is not described as continuous power. Retrospective translated bhp and 7-second acceleration are not mixed with the original table. Dakar/Pikes Peak silhouette cars are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Peugeot 405 T16 at Legendy 2018 in Prague.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Peugeot_405_T16_at_Legendy_2018_in_Prague.jpg",
+          "notes": "Jiří Sedláček; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine, DOHC and four valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Variable-geometry turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Epicyclic centre differential with viscous coupling; Torsen rear differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front pseudo-MacPherson with coil springs; independent trailing-arm rear with temporary automatic ride-height correction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear discs; ABR anti-lock braking",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/50ZR16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure DIN rating",
+          "value": "200",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure DIN rating at 2600 rpm",
+          "value": "30",
+          "unit": "mkg",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent four-wheel drive",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 405 T16 combined a turbocharged sixteen-valve engine, permanent four-wheel drive, a viscous centre coupling and Torsen rear differential in a discreet road saloon. Its variable-geometry turbo and controlled rear suspension make it a distinctive performance-engineering flagship.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_405_t16_fr1993.jpg",
+          "caption": "Peugeot 405 T16 at Legendy 2018 in Prague, showing the four-door production-road body. Present wheels, ride height, badges and mechanical condition do not certify original 1993 specifications. This is separate from the 405 T16 GR or Dakar/Pikes Peak competition bodies.",
+          "creator": "Jiří Sedláček",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3a4becbb2f259a2cc153b5c2f61648781712467062db553db6aae0e815f6574a"
+        }
+      ]
+    },
+    {
+      "id": "CIT-XANTIA-ACTIVA-V6-FR1999",
+      "manufacturer": "Citroën",
+      "model_family": "Xantia Activa",
+      "generation": "Original Xantia Activa SC/CAR production-road chassis family",
+      "variant": "V6 Activa — 1999 French manufacturer technical reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Five-door performance liftback",
+      "road_legal": 1,
+      "specification_market": "Original Automobiles Citroën Carnet de poche 99, hosted manufacturer aftersales technical handbook. Relevant PDF5/printed3 V6 Activa identity column, PDF30/printed95 injection, PDF50/printed174 steering, PDF52/printed187 saloon brakes and PDF64/printed216 V6 BVM SC/CAR application individually rendered/read. 89-page handbook is not a sales brochure; adjacent automatic Exclusive, ordinary Hydractive and estate columns are excluded. Power, tyre size and performance figures absent from these selected pages are omitted.",
+      "summary": "The Xantia Activa is a landmark in road-car chassis engineering: SC/CAR hydraulic active roll control supplements Hydractive suspension to keep the body level through corners. The selected V6 manual represents this exceptional production-road system, rather than the ordinary Xantia range.",
+      "admission_reason": "The Xantia Activa is a landmark in road-car chassis engineering: SC/CAR hydraulic active roll control supplements Hydractive suspension to keep the body level through corners. The selected V6 manual represents this exceptional production-road system, rather than the ordinary Xantia range.",
+      "sources": [
+        {
+          "publisher": "Automobiles Citroën / Xantia.fr hosted manufacturer handbook",
+          "title": "Xantia Carnet de poche 99 — French V6 Activa identity and technical tables",
+          "source_type": "Manufacturer original aftersales technical handbook, hosted facsimile",
+          "url": "https://xantia.fr/docs/carnet-de-poche/fr_fr_xantia_1999.pdf",
+          "notes": "Original Automobiles Citroën Carnet de poche 99, hosted manufacturer aftersales technical handbook. Relevant PDF5/printed3 V6 Activa identity column, PDF30/printed95 injection, PDF50/printed174 steering, PDF52/printed187 saloon brakes and PDF64/printed216 V6 BVM SC/CAR application individually rendered/read. 89-page handbook is not a sales brochure; adjacent automatic Exclusive, ordinary Hydractive and estate columns are excluded. Power, tyre size and performance figures absent from these selected pages are omitted."
+        },
+        {
+          "publisher": "Automobiles Citroën / Activa Club hosted facsimile",
+          "title": "Xantia suspension: principe de fonctionnement SC/CAR — BRE 0092 F, April 1995",
+          "source_type": "Manufacturer original chassis-system engineering booklet, hosted facsimile",
+          "url": "https://www.activa-club.fr/wp-content/uploads/2017/07/principe-activa-BRE_0092_F_1995_04.pdf",
+          "notes": "Original manufacturer aftersales booklet, cover and printed3–4/PDF4–5 rendered/read. Explains SC/CAR as an addition to Hydractive and lists dedicated front/rear hydraulic actuators, roll corrector and regulator. Used for the system principle, not the original 1995 16V engine. The 1999 handbook independently confirms V6 manual SC/CAR application."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Citroen Xantia Activa V6 (1997) (35699163325).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Citroen_Xantia_Activa_V6_(1997)_(35699163325).jpg",
+          "notes": "Andrew Bone from Weymouth, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Citroen Xantia Activa V6 (1997)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "XFZ petrol V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2946",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch MP 7.0 electronic injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ML/5 manual gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "288-mm front discs and 224-mm rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Power-assisted rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension control",
+          "value": "Hydractive suspension with SC/CAR hydraulic active roll control and dedicated front/rear actuators",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Xantia Activa is a landmark in road-car chassis engineering: SC/CAR hydraulic active roll control supplements Hydractive suspension to keep the body level through corners. The selected V6 manual represents this exceptional production-road system, rather than the ordinary Xantia range.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_xantia_activa_v6_fr1999.jpg",
+          "caption": "Citroën Xantia Activa V6 identified as 1997, rear view at the Haynes museum breakfast gathering. Represents the original Activa liftback family with earlier body detailing; the photo does not certify the selected 1999 handbook reference, hydraulic condition or present engine/gearbox originality.",
+          "creator": "Andrew Bone from Weymouth, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "90ca94d37de0edcc042a9ce033ac5bcc3c6beab053bd1420e3e8fd02376d0c17"
+        }
+      ]
+    }
+  ]
+}

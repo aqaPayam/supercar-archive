@@ -3280,7 +3280,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "City",
+      "generation": "First-generation AA City Turbo II production-road performance family",
+      "proposed_record": "HON-CITY-TURBOII-JP1983",
+      "reason": "The City Turbo II combined an intercooled turbo engine with a wide-track compact hatchback, creating Honda’s memorable Bulldog. Its distinctive performance-car identity continues to influence Honda design, separate from ordinary City models and the one-make racing cars.",
+      "evidence": "https://www.honda.co.jp/ACCESS/super-one/bulldogstyle/",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Pajero Evolution",
+      "generation": "Second-generation Pajero-derived Evolution production-road homologation family",
+      "proposed_record": "MIT-PAJERO-EVOLUTION-JP1997-AT",
+      "reason": "The Pajero Evolution brought Dakar-derived development into a dedicated production-road model with MIVEC V6 power, a strengthened chassis and all-wheel independent suspension. It belongs for its homologation-era engineering, rather than as an ordinary utility vehicle.",
+      "evidence": "https://www.mitsubishi-motors.com/en/newsroom/stories/motorsports2/index.html",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Familia GT-R",
+      "generation": "BG Familia / 323 GT-R production-road homologation hatchback family",
+      "proposed_record": "MAZ-FAMILIA-GTR-BG8-JP1992",
+      "reason": "The Familia GT-R represents Mazda’s turbocharged four-wheel-drive rally-homologation hatchback lineage. Its dedicated road hardware formed the basis of an FIA-recognised GT-R programme, distinct from ordinary Familias and from the lighter GT-Ae.",
+      "evidence": "https://historicdb.fia.com/sites/default/files/car_attachment/1601049601/homologation_form_number_5473_group_n.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "Uno Turbo i.e.",
+      "generation": "Original first-series Type 146 Uno Turbo performance-road family",
+      "proposed_record": "FIA-UNO-TURBOIE-S1-1985",
+      "reason": "The original Uno Turbo i.e. is a defining Italian hot hatch, combining compact-car packaging with intercooled turbocharging, electronic injection and a dedicated sporting chassis package. Its accessible performance and enduring cultural identity give it a place beyond the ordinary Uno range.",
+      "evidence": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/fiat-uno-turbo-i-e-quarant-anni-di-velocita-tecnica-e-sfrontatezza",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "405 T16",
+      "generation": "Original 405 T16 four-wheel-drive production-road sports-saloon family",
+      "proposed_record": "PEU-405-T16-FR1993",
+      "reason": "The 405 T16 combined a turbocharged sixteen-valve engine, permanent four-wheel drive, a viscous centre coupling and Torsen rear differential in a discreet road saloon. Its variable-geometry turbo and controlled rear suspension make it a distinctive performance-engineering flagship.",
+      "evidence": "https://gtipowers.com/wp-content/uploads/2019/05/405-T16.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "Xantia Activa",
+      "generation": "Original Xantia Activa SC/CAR production-road chassis family",
+      "proposed_record": "CIT-XANTIA-ACTIVA-V6-FR1999",
+      "reason": "The Xantia Activa is a landmark in road-car chassis engineering: SC/CAR hydraulic active roll control supplements Hydractive suspension to keep the body level through corners. The selected V6 manual represents this exceptional production-road system, rather than the ordinary Xantia range.",
+      "evidence": "https://www.activa-club.fr/wp-content/uploads/2017/07/principe-activa-BRE_0092_F_1995_04.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 688-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-38.json"
     }
   ],
-  "catalogue_count_after_batches": 688
+  "catalogue_count_after_batches": 694
 }

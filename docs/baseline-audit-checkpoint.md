@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 688 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 694 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 37 reviewed road-icon manifests contain 293 distinct identifiers. Subtracting
+The 38 reviewed road-icon manifests contain 299 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 688 count must not be presented as 688 proven qualifying icons.
+The raw 694 count must not be presented as 694 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -30,6 +30,35 @@ Both existing records remain preserved. Whether they contribute one or two
 qualifying identities depends on the pending body/variant-counting decision.
 This two-record identity check is not approval of the remaining baseline or a
 fresh audit of every technical field, image, price or colour record.
+
+## Identity spot-check: 2021 Porsche 992 GT3 Touring
+
+Reviewed 2026-10-29 against both stored profiles and the original factory
+announcements. `POR-911-GT3-9921-PDK` and `POR-911-GT3-9921-TOUR` belong to
+the same contemporary 992 GT3 programme. Their different stored generation
+labels do not establish two vehicle generations.
+
+The [February 2021 launch](https://newsroom.porsche.com/it/ppdb/2021/02/nuova-porsche-911-gt3-un-concentrato-di-sportivit.html)
+describes the winged road GT3, shared 4.0-litre engine and manual/PDK choices.
+The [June 2021 Touring announcement](https://newsroom.porsche.com/en/2021/products/porsche-911-gt3-touring-package-premiere-24794.html)
+explicitly describes Touring as an equipment package for that GT3. It replaces
+the fixed wing with an extending spoiler, changes exterior/interior detailing,
+and is available with manual or PDK. It is not a new generation, while its
+aerodynamic equipment differs from the winged reference.
+
+Both existing records are preserved. Their qualifying count remains pending
+the significant-variant boundary. A gearbox choice or distinct generation text
+alone does not justify an additional identity. This source-backed identity
+check does not certify every technical field or photograph in either profile.
+
+## Preserved personal-history exception
+
+`HYU-VERNA-IR1385-15M` is explicitly stored as a **Personal classic**, with an
+owner-recollection source and a summary identifying a former Iranian-market
+1.5-litre manual Verna. It is not a performance-icon admission. Preserve this
+existing personal-history record, but exclude it from claims about progress
+toward 1,000 qualifying performance icons, as required by the admission policy.
+This distinction changes no existing database record or owner history.
 
 ## Existing non-road flags
 
