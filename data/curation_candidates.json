@@ -5018,7 +5018,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 844-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-71.json"
+    },
+    {
+      "manufacturer": "Jensen",
+      "model": "C-V8",
+      "generation": "Original centre-tube-chassis C-V8 production-road GT family",
+      "proposed_record": "JEN-CV8-MKII-6276-TEST1964",
+      "reason": "The C-V8 paired substantial Chrysler V8 performance with a British four-seat GT body. A contemporary long-distance road test documents its exceptional acceleration and relaxed fast touring, while recording heavy steering and demanding brakes. Its distinct centre-tube chassis and sporting-road identity justify one original family entry, separate from the later FF and Jensen-Healey.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/november-1964/26/jensen-c-v8/",
+      "duplicate_review": "Absent model/generation checked against the complete 846-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-72.json"
     }
   ],
-  "catalogue_count_after_batches": 846
+  "catalogue_count_after_batches": 847
 }

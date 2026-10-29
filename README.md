@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Seventy-one reviewed road-icon batches add 451 cars
-to the 395-record baseline, bringing the working catalogue to 846 records.
-The latest [Gordon-Keeble GK1 and Cunningham C3 batch](docs/icons-road-71.md)
-adds two absent performance GT families, following the
-[Nash-Healey and Frazer Nash TT Replica batch](docs/icons-road-70.md). Individual reviews and
+evidence and licensed photograph. Seventy-two reviewed road-icon batches add 452 cars
+to the 395-record baseline, bringing the working catalogue to 847 records.
+The latest [Jensen C-V8 batch](docs/icons-road-72.md)
+adds an absent original performance GT family, following the
+[Gordon-Keeble GK1 and Cunningham C3 batch](docs/icons-road-71.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
