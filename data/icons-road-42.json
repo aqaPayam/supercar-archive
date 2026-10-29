@@ -1,0 +1,965 @@
+{
+  "batch": "icons-road-2026-10-29-42",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "ALF-ALFASUD-TI-1973",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Alfasud",
+      "generation": "Original Alfasud ti production-road sporting family",
+      "variant": "ti 1.2 — original 1973 two-door reference",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Factory history explicitly identifies the 1973 two-door ti, 1.2-litre engine and twin-choke Weber. Shared original Alfasud chassis principles are distinguished from the 1971 standard car’s 63-hp table. Exact cc, mass and gearbox are not inferred. Later 1300, Quadrifoglio Verde, Sprint, 1.7-litre and Trofeo race specifications are excluded.",
+      "summary": "The Alfasud ti established a distinctive compact Alfa performance lineage around a low boxer engine, front-wheel drive and four-wheel disc brakes. Its chassis-led driving reputation and connection to the Trofeo Alfasud make the sporting ti an enduring performance reference, rather than an ordinary small Alfa.",
+      "admission_reason": "The Alfasud ti established a distinctive compact Alfa performance lineage around a low boxer engine, front-wheel drive and four-wheel disc brakes. Its chassis-led driving reputation and connection to the Trofeo Alfasud make the sporting ti an enduring performance reference, rather than an ordinary small Alfa.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage / Alfa Romeo",
+          "title": "Alfa Romeo Alfasud: The revolution coming in from the South — original ti and chassis history",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/stories/alfasud",
+          "notes": "Factory history explicitly identifies the 1973 two-door ti, 1.2-litre engine and twin-choke Weber. Shared original Alfasud chassis principles are distinguished from the 1971 standard car’s 63-hp table. Exact cc, mass and gearbox are not inferred. Later 1300, Quadrifoglio Verde, Sprint, 1.7-litre and Trofeo race specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1977 Alfa Romeo Alfasud Ti 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1977_Alfa_Romeo_Alfasud_Ti_1.jpg",
+          "notes": "Calreyn88; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder boxer engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber twin-choke carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent pseudo-MacPherson front; rigid rear beam with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Italdesign",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted power, native English notation",
+          "value": "68",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Alfasud ti established a distinctive compact Alfa performance lineage around a low boxer engine, front-wheel drive and four-wheel disc brakes. Its chassis-led driving reputation and connection to the Trofeo Alfasud make the sporting ti an enduring performance reference, rather than an ordinary small Alfa.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_alfasud_ti_1973.jpg",
+          "caption": "Alfa Romeo Alfasud ti identified as a 1977 car, illustrating the original two-door body with four round headlamps and chrome bumpers. It does not establish the selected 1973 1.2-litre engine, original carburettor specification or present tune.",
+          "creator": "Calreyn88",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "62500a49ffe7b6f208333785d9fed1bc5bf724974adf5829c3b508546b558cd5"
+        }
+      ]
+    },
+    {
+      "id": "CIT-SAXO-VTS-16V-1996",
+      "manufacturer": "Citroën",
+      "model_family": "Saxo",
+      "generation": "Original Saxo VTS sixteen-valve production-road hot-hatch family",
+      "variant": "VTS 1.6 16v — original 1996 performance reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hot hatch",
+      "road_legal": 1,
+      "specification_market": "Original factory 30th-anniversary history dated 30 April 2026 distinguishes the 120-hp 16v from VTR and later lower-output VTS grades. Native hp wording is retained without assigning DIN/SAE or converting to kW. Unspecified-basis mass and the article’s erroneous under-30-second 0–100 claim are omitted. Facelift chronology is noted, not counted again; Super 1600 hardware is excluded.",
+      "summary": "The sixteen-valve Saxo VTS is a defining lightweight French hot hatch, combining a dedicated high-revving engine with precise, playful chassis tuning. Its accessible performance and role in developing amateur rally and circuit drivers give it lasting significance beyond the appearance of a VTS badge.",
+      "admission_reason": "The sixteen-valve Saxo VTS is a defining lightweight French hot hatch, combining a dedicated high-revving engine with precise, playful chassis tuning. Its accessible performance and role in developing amateur rally and circuit drivers give it lasting significance beyond the appearance of a VTS badge.",
+      "sources": [
+        {
+          "publisher": "Citroën / Stellantis Media",
+          "title": "Citroën Saxo VTS: 30 years of a sports icon — 30 April 2026",
+          "source_type": "Manufacturer original historical engineering and motorsport account",
+          "url": "https://www.media.stellantis.com/em-en/citroen/press/citroen-saxo-vts-30-years-of-a-sports-icon",
+          "notes": "Original factory 30th-anniversary history dated 30 April 2026 distinguishes the 120-hp 16v from VTR and later lower-output VTS grades. Native hp wording is retained without assigning DIN/SAE or converting to kW. Unspecified-basis mass and the article’s erroneous under-30-second 0–100 claim are omitted. Facelift chronology is noted, not counted again; Super 1600 hardware is excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Citroën Saxo VTS 16V (1998) (55078521532).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Saxo_VTS_16V_(1998)_(55078521532).jpg",
+          "notes": "Charles from Port Chester, New York; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Citroën Saxo VTS 16V (1998)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "TU5J4 sixteen-valve petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Gilles Vidal body kit with integrated wheelarch extensions, rocker treatment and widened bumpers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted power, native English notation",
+          "value": "120",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Redline",
+          "value": "7300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Power-assisted steering",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The sixteen-valve Saxo VTS is a defining lightweight French hot hatch, combining a dedicated high-revving engine with precise, playful chassis tuning. Its accessible performance and role in developing amateur rally and circuit drivers give it lasting significance beyond the appearance of a VTS badge.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_saxo_vts_16v_1996.jpg",
+          "caption": "Citroën Saxo VTS 16V identified as a 1998 car, illustrating the original pre-facelift hot-hatch body. The photograph does not establish the precise 1996 technical reference, original engine internals or present tune.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3f95fb624ab55739950b53cf283dd8c4f49918bf538b198391ebd0a01cbe6345"
+        }
+      ]
+    },
+    {
+      "id": "BEN-RTYPE-CONTINENTAL-1953-MT",
+      "manufacturer": "Bentley",
+      "model_family": "R-Type Continental",
+      "generation": "Original R-Type Continental HJ Mulliner fastback production-road grand-tourer family",
+      "variant": "4.6-litre manual — 1953 Bentley Heritage BC16C reference",
+      "model_year_from": 1953,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat fastback grand tourer",
+      "road_legal": 1,
+      "specification_market": "Actual three-page Bentley release dated 26 May 2022 rendered/read. Distinguishes 1951 Olga prototype from June 1952 customer deliveries and identifies the preserved 1953 BC16C/JAS949 manual, original 4.6-litre reference. Prototype track speeds, universal current-tyre claims, unsupported gearbox ratios, later 4.9-litre and other coachbuilt bodies are excluded.",
+      "summary": "The R-Type Continental established Bentley’s post-war high-speed grand-touring identity through streamlined coachwork and extensive aluminium construction. Its lasting influence on the Continental design and performance ethos makes the HJ Mulliner fastback a foundational grand-touring icon.",
+      "admission_reason": "The R-Type Continental established Bentley’s post-war high-speed grand-touring identity through streamlined coachwork and extensive aluminium construction. Its lasting influence on the Continental design and performance ethos makes the HJ Mulliner fastback a foundational grand-touring icon.",
+      "sources": [
+        {
+          "publisher": "Bentley Motors",
+          "title": "70 years of Continental — the ultimate grand tourer, 26 May 2022; BC16C heritage reference",
+          "source_type": "Manufacturer historical engineering release and owned-car record",
+          "url": "https://www.bentleymedia.com/attachment/eea726d3-2d6d-4fe6-b1a0-c366aa9bfedd",
+          "notes": "Actual three-page Bentley release dated 26 May 2022 rendered/read. Distinguishes 1951 Olga prototype from June 1952 customer deliveries and identifies the preserved 1953 BC16C/JAS949 manual, original 4.6-litre reference. Prototype track speeds, universal current-tyre claims, unsupported gearbox ratios, later 4.9-litre and other coachbuilt bodies are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1953 Bentley R-Type Continental.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1953_Bentley_R-Type_Continental.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder inline engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4566",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Manual gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bodywork, window and seat frames, windscreen surround and bumpers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Original programme specified Dunlop Medium Distance Track tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Coachbuilder reference",
+          "value": "HJ Mulliner fastback coupe",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R-Type Continental established Bentley’s post-war high-speed grand-touring identity through streamlined coachwork and extensive aluminium construction. Its lasting influence on the Continental design and performance ethos makes the HJ Mulliner fastback a foundational grand-touring icon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ben_rtype_continental_1953_mt.jpg",
+          "caption": "1953 Bentley R-Type Continental by HJ Mulliner, illustrating the streamlined production fastback body. It is not identified as Bentley’s BC16C/JAS949 reference car and does not establish gearbox, engine size or current tyre specification.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b97f0e9a6e31bb3d16bf1cd8036a672bcf3ae6fc24bcb5ebccbfee9565b61bab"
+        }
+      ]
+    },
+    {
+      "id": "BEN-TURBOR-ORIGINAL1985",
+      "manufacturer": "Bentley",
+      "model_family": "Turbo R",
+      "generation": "Original SZ-based Turbo R production-road performance-saloon family",
+      "variant": "Turbo R — original 1985 performance and roadholding programme",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Bentley’s 22 October 2025 release, actual page 3 rendered/read, describes the original 1985 programme separately from the 1991 Heritage Collection car and new Flying Spur tribute. Native quoted bhp has no inferred rating rpm/standard. Build totals, performance superlatives and later fuel injection, long-wheelbase, Turbo RT and modern tribute hardware are excluded.",
+      "summary": "The Turbo R revived Bentley’s performance-saloon identity by pairing its turbo V8 with a substantial chassis transformation. Its emphasis on roadholding, rather than luxury trim alone, marks an important return to the marque’s high-performance roots.",
+      "admission_reason": "The Turbo R revived Bentley’s performance-saloon identity by pairing its turbo V8 with a substantial chassis transformation. Its emphasis on roadholding, rather than luxury trim alone, marks an important return to the marque’s high-performance roots.",
+      "sources": [
+        {
+          "publisher": "Bentley Motors",
+          "title": "Three anniversaries, three bespoke Flying Spurs — original 1985 Turbo R engineering section, 22 October 2025",
+          "source_type": "Manufacturer original historical engineering release",
+          "url": "https://www.bentleymedia.com/attachment/6534ea25-4252-4c42-9f7b-4f25a0854a0f",
+          "notes": "Bentley’s 22 October 2025 release, actual page 3 rendered/read, describes the original 1985 programme separately from the 1991 Heritage Collection car and new Flying Spur tribute. Native quoted bhp has no inferred rating rpm/standard. Build totals, performance superlatives and later fuel injection, long-wheelbase, Turbo RT and modern tribute hardware are excluded."
+        },
+        {
+          "publisher": "Bentley Motors",
+          "title": "History and Heritage — 1985 Turbo R and 1987 injection chronology",
+          "source_type": "Manufacturer historical model chronology",
+          "url": "https://www.bentleymotors.com/uk/en/about-bentley/history-and-heritage.html",
+          "notes": "Factory chronology defines R as roadholding, identifies retuned suspension and wider tyres on aluminium wheels, and separates 1987 fuel injection."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:C13MPW 1985 Bentley Turbo R.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:C13MPW_1985_Bentley_Turbo_R.jpg",
+          "notes": "kitmasterbloke; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/58415659@N00/51381673860/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.75",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett AiResearch T04 turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Roll stiffness, factory historical comparison",
+          "value": "50% greater than the preceding model",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer historical quoted output",
+          "value": "298",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Original chassis programme",
+          "value": "Retuned suspension",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Wheels",
+          "label": "Original chassis programme",
+          "value": "Wider tyres on aluminium wheels",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Turbo R revived Bentley’s performance-saloon identity by pairing its turbo V8 with a substantial chassis transformation. Its emphasis on roadholding, rather than luxury trim alone, marks an important return to the marque’s high-performance roots.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ben_turbor_original1985.jpg",
+          "caption": "Bentley Turbo R identified as a 1985 car at a Rolls-Royce Owners Club gathering in 2021. Illustrates the original performance-saloon family; appearance does not authenticate original engine management, suspension tune or present mechanical condition.",
+          "creator": "kitmasterbloke",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5e5ecd2a9e0f2c2e27f6299418a2f1d03d385db73a04af204a0b511f424d4a85"
+        }
+      ]
+    },
+    {
+      "id": "VAU-VX220-TURBO-2003",
+      "manufacturer": "Vauxhall",
+      "model_family": "VX220",
+      "generation": "Original VX220 / Opel Speedster production-road lightweight sports-car family",
+      "variant": "Turbo — original 2003 company press-release reference",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door open sports car",
+      "road_legal": 1,
+      "specification_market": "Main article is explicitly credited to the company press release; the full reproduced body was read. It identifies the original Turbo’s 7% front/11% rear spring-damper-rate revisions. Unattributed compiled tables are not used. Exact cc/output, gearbox ratios, mass and optional equipment are omitted. Opel Speedster is the same named market counterpart, not another addition; 2.2, VXR and cosmetic editions are not counted.",
+      "summary": "The VX220 brought a dedicated lightweight aluminium-chassis sports-car architecture to Vauxhall. The Turbo paired that structure with a mid-mounted turbo engine and coordinated chassis, cooling and aerodynamic changes, creating a distinctive British performance icon rather than a cosmetic edition.",
+      "admission_reason": "The VX220 brought a dedicated lightweight aluminium-chassis sports-car architecture to Vauxhall. The Turbo paired that structure with a mid-mounted turbo engine and coordinated chassis, cooling and aerodynamic changes, creating a distinctive British performance icon rather than a cosmetic edition.",
+      "sources": [
+        {
+          "publisher": "Vauxhall / Ultimatecarpage hosted reprint",
+          "title": "Vauxhall VX220 Turbo — original company press release, reproduced by Ultimatecarpage",
+          "source_type": "Manufacturer original production-road press release, attributed reprint",
+          "url": "https://www.ultimatecarpage.com/car/1354/Vauxhall-VX220-Turbo.html",
+          "notes": "Main article is explicitly credited to the company press release; the full reproduced body was read. It identifies the original Turbo’s 7% front/11% rear spring-damper-rate revisions. Unattributed compiled tables are not used. Exact cc/output, gearbox ratios, mass and optional equipment are omitted. Opel Speedster is the same named market counterpart, not another addition; 2.2, VXR and cosmetic editions are not counted."
+        },
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "Opel Speedster: el retorno al purismo deportivo que desafió las convenciones — shared VX220 layout and production",
+          "source_type": "Manufacturer historical production and engineering account",
+          "url": "https://www.media.stellantis.com/es-es/opel/press/opel-speedster-el-retorno-al-purismo-deportivo-que-desafio-las-convenciones",
+          "notes": "Factory history explicitly identifies the British VX220 name, rear drive, mid-engine layout and Lotus Hethel assembly. Used only for shared layout and production context; Opel-market output and performance are not assigned to the selected UK reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 Vauxhall VX220 Turbo 2.0.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_Vauxhall_VX220_Turbo_2.0.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Transverse sixteen-valve turbocharged petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mounted just ahead of the rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Lightweight aluminium chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone suspension; revised Turbo spring/damper rates",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "High-performance brakes with ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Model-specific Bridgestone tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Small front lip and body-coloured rear spoiler; enlarged side cooling intakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Production",
+          "label": "Assembly location",
+          "value": "Lotus, Hethel, United Kingdom",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The VX220 brought a dedicated lightweight aluminium-chassis sports-car architecture to Vauxhall. The Turbo paired that structure with a mid-mounted turbo engine and coordinated chassis, cooling and aerodynamic changes, creating a distinctive British performance icon rather than a cosmetic edition.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_vx220_turbo_2003.jpg",
+          "caption": "Vauxhall VX220 Turbo identified as a 2004 2.0-litre car, with the production-style side cooling intake and modest rear spoiler. It illustrates the family rather than certifying the selected 2003 chassis rates, original exhaust or current tune.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c69ac71f2d948f896b4ed3f6eef29573aabdbcbf6a2efb6b178f69d99e20e528"
+        }
+      ]
+    },
+    {
+      "id": "MG-METRO-6R4-CLUBMAN1985",
+      "manufacturer": "MG",
+      "model_family": "Metro 6R4",
+      "generation": "Original Metro 6R4 Clubman production-homologation family",
+      "variant": "Clubman standard 250-bhp synchromesh — original customer reference",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door road-homologation / club-rally special",
+      "road_legal": 1,
+      "specification_market": "Actual Austin Rover brochure technical/Clubman table and engine pages rendered/read. Clubman synchromesh, single throttle and 250-DIN-bhp reference are separated from International dog engagement, six throttles and 380–410 bhp. Motor’s contemporary first-hand feature corroborates customer road-car context; museum independently identifies a 1985 Clubman. Compression, mass, stage ratios and disputed shell material are omitted.",
+      "summary": "The Metro 6R4 Clubman represents the customer homologation side of a defining Group B programme. Its purpose-designed naturally aspirated V6, four-wheel-drive layout and specialist driveline engineering distinguish it fundamentally from the ordinary Metro and from the separate works International tune.",
+      "admission_reason": "The Metro 6R4 Clubman represents the customer homologation side of a defining Group B programme. Its purpose-designed naturally aspirated V6, four-wheel-drive layout and specialist driveline engineering distinguish it fundamentally from the ordinary Metro and from the separate works International tune.",
+      "sources": [
+        {
+          "publisher": "Austin Rover Group / 6R4.net hosted facsimile",
+          "title": "MG Metro 6R4 — original Austin Rover sales brochure, Clubman standard column and V64V pages",
+          "source_type": "Manufacturer original sales/technical brochure, hosted facsimile",
+          "url": "https://www.6r4.net/site/images/stories/literature/pdfs/6R4%20Sales%20Brochure.pdf",
+          "notes": "Actual Austin Rover brochure technical/Clubman table and engine pages rendered/read. Clubman synchromesh, single throttle and 250-DIN-bhp reference are separated from International dog engagement, six throttles and 380–410 bhp. Motor’s contemporary first-hand feature corroborates customer road-car context; museum independently identifies a 1985 Clubman. Compression, mass, stage ratios and disputed shell material are omitted."
+        },
+        {
+          "publisher": "Motor / Mark Hales; 6R4.net hosted facsimile",
+          "title": "Metro 6R4 gone shopping — original Motor January 1986 first-hand customer-car feature",
+          "source_type": "First-hand contemporary road-car feature, hosted facsimile",
+          "url": "https://www.6r4.net/site/images/stories/literature/pdfs/Motor%20Jan%201986.pdf",
+          "notes": "Actual feature and specification pages rendered at readable resolution. Calls the 250-bhp customer car a road car and distinguishes its synchromesh gearbox from International. Performance values and tested tyre/ratio choices are not imported."
+        },
+        {
+          "publisher": "British Motor Museum / BMIHT",
+          "title": "Metro 6R4 Clubman rally car, 1985 — owned collection vehicle",
+          "source_type": "Vehicle custodian’s collection record",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800270",
+          "notes": "Custodian identifies its 1985 Clubman, 2991-cc V6 and 250 bhp; this is not blanket identification of all liveried 6R4s as standard Clubman cars."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:MG Metro 6R4 Clubman Rally Car (1985) - 53321018354.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:MG_Metro_6R4_Clubman_Rally_Car_(1985)_-_53321018354.jpg",
+          "notes": "andreboeni; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/65344061@N06/53321018354/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V64V naturally aspirated 90-degree V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2991",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Lucas Micos multipoint injection with a single throttle butterfly",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed synchromesh manual plus reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Ferguson Formula viscous centre coupling; mechanical limited-slip axle differentials",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts per bank, toothed-belt driven",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, brochure DIN bhp at 7000 rpm",
+          "value": "250",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Metro 6R4 Clubman represents the customer homologation side of a defining Group B programme. Its purpose-designed naturally aspirated V6, four-wheel-drive layout and specialist driveline engineering distinguish it fundamentally from the ordinary Metro and from the separate works International tune.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mg_metro_6r4_clubman1985.jpg",
+          "caption": "MG Metro 6R4 identified as the British Motor Museum’s 1985 Clubman, displayed in competition livery. The technical record selects the brochure’s standard Clubman synchromesh configuration; the photograph does not verify present engine internals or identify all similarly liveried cars as Clubmans.",
+          "creator": "andreboeni",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "99a6b85c7a1762b40c50ecba574f49194f23a1865c5bfeb6ae0cae02a45f39cb"
+        }
+      ]
+    },
+    {
+      "id": "LAN-FLAMINIA-SUPERSPORT-ZAGATO1965",
+      "manufacturer": "Lancia",
+      "model_family": "Flaminia",
+      "generation": "Original Flaminia Zagato Sport / Super Sport production-road grand-tourer family",
+      "variant": "Super Sport Zagato — Museo Nicolis 1965 reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coachbuilt grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Custodian’s actual 1965 collection-car record, cross-read in Italian and English. Conflicting 150/187 build totals, malformed dimension units, absolute speed/light-alloy claims and uncorroborated headlamp wording are omitted. Exact gearbox, engine-bank angle and power-peak rpm are not inferred. Earlier 2.5 Sport, Touring GT and Pininfarina coupe specifications are excluded.",
+      "summary": "The Flaminia Super Sport is a defining Zagato-bodied Lancia grand tourer, joining substantial six-cylinder road performance with Ercole Spada’s double-bubble and truncated-tail design. Its coachbuilt sporting lineage and enduring design recognition make it an Italian performance icon beyond rarity.",
+      "admission_reason": "The Flaminia Super Sport is a defining Zagato-bodied Lancia grand tourer, joining substantial six-cylinder road performance with Ercole Spada’s double-bubble and truncated-tail design. Its coachbuilt sporting lineage and enduring design recognition make it an Italian performance icon beyond rarity.",
+      "sources": [
+        {
+          "publisher": "Museo Nicolis",
+          "title": "Lancia Flaminia Super Sport Zagato, 1965 — Museo Nicolis owned collection record",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.museonicolis.com/lancia-flaminia-1965-super-sport-zagato/",
+          "notes": "Custodian’s actual 1965 collection-car record, cross-read in Italian and English. Conflicting 150/187 build totals, malformed dimension units, absolute speed/light-alloy claims and uncorroborated headlamp wording are omitted. Exact gearbox, engine-bank angle and power-peak rpm are not inferred. Earlier 2.5 Sport, Touring GT and Pininfarina coupe specifications are excluded."
+        },
+        {
+          "publisher": "Stellantis Heritage",
+          "title": "Stellantis triumphs at Festival Car 2025 — Super Sport sporting-design recognition",
+          "source_type": "Manufacturer original heritage event report",
+          "url": "https://www.media.stellantis.com/em-en/heritage-hub-italy/press/stellantis-triumphs-at-festival-car-2025",
+          "notes": "Manufacturer event report identifies the Super Sport Zagato as a Lancia heritage icon and records its Michelin award for sporting character and design. Supplies no technical specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Lancia Flaminia Super Sport Zagato.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Lancia_Flaminia_Super_Sport_Zagato.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2775",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Ercole Spada for Zagato",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Double-bubble roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Truncated tail with recessed circular rear lamps",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Coachbuilder",
+          "value": "Zagato",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted power",
+          "value": "152",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Flaminia Super Sport is a defining Zagato-bodied Lancia grand tourer, joining substantial six-cylinder road performance with Ercole Spada’s double-bubble and truncated-tail design. Its coachbuilt sporting lineage and enduring design recognition make it an Italian performance icon beyond rarity.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_flaminia_supersport_zagato1965.jpg",
+          "caption": "Lancia Flaminia Super Sport Zagato identified as a 1965 car at Hampton Court Concours, illustrating the late coachbuilt road-coupe body. The photograph is not identified as the Nicolis collection car and does not establish original chassis provenance or current engine specification.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6fba1a5a20d268a1a45ea6e07a2b70ea9c028c0cd3f96ab44b6758f798b64b41"
+        }
+      ]
+    },
+    {
+      "id": "CIT-VISA-1000PISTES-BASE1984",
+      "manufacturer": "Citroën",
+      "model_family": "Visa",
+      "generation": "Original Visa 1000 Pistes four-wheel-drive customer-homologation family",
+      "variant": "1000 Pistes — 1 March 1984 base B-258 specification",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Five-door customer road-homologation special",
+      "road_legal": 1,
+      "specification_market": "Actual base FISA/manufacturer B-258 pages and signed production certificate rendered/read. Cover is effective 1 March 1984; 1360.7 cc is actual, not the permitted overbore maximum. Optional gearbox/VO/ET extensions, works Evolution and 1983 experimental 1.55-litre data are excluded. Citroën Origins supplies programme history; Aguttes documents a standard customer demonstrator with French road registration. FISA sporting approval is not itself a road-approval certificate.",
+      "summary": "The Visa 1000 Pistes carries Citroën’s early four-wheel-drive rally development into a distinctive customer homologation model. Its compact front-engine four-wheel-drive architecture and place in the marque’s competition lineage distinguish it from the ordinary Visa and the separate works Evolution cars.",
+      "admission_reason": "The Visa 1000 Pistes carries Citroën’s early four-wheel-drive rally development into a distinctive customer homologation model. Its compact front-engine four-wheel-drive architecture and place in the marque’s competition lineage distinguish it from the ordinary Visa and the separate works Evolution cars.",
+      "sources": [
+        {
+          "publisher": "Automobiles Citroën / FISA; Kits de Fibra hosted facsimile",
+          "title": "Citroën Visa 1000 Pistes — original base FISA B-258, effective 1 March 1984, and manufacturer production certificate",
+          "source_type": "Manufacturer/FISA original base recognition document, hosted facsimile",
+          "url": "https://www.kitsdefibra.com/pdf/ficha-homologacion-fia-citroen-visa-1000-pistes-grupo-b-numero-258.pdf",
+          "notes": "Actual base FISA/manufacturer B-258 pages and signed production certificate rendered/read. Cover is effective 1 March 1984; 1360.7 cc is actual, not the permitted overbore maximum. Optional gearbox/VO/ET extensions, works Evolution and 1983 experimental 1.55-litre data are excluded. Citroën Origins supplies programme history; Aguttes documents a standard customer demonstrator with French road registration. FISA sporting approval is not itself a road-approval certificate."
+        },
+        {
+          "publisher": "Citroën Origins",
+          "title": "A champion that rocks — Visa 1000 Pistes prototype-to-production history",
+          "source_type": "Manufacturer historical programme account",
+          "url": "https://www.citroenorigins.com/en/node/98982",
+          "notes": "Manufacturer separates the July 1983 experimental rally winner from the subsequent customer production programme. Malformed numeric tiles on the general model page are not used for specifications."
+        },
+        {
+          "publisher": "Aguttes",
+          "title": "Citroën Visa 1000 Pistes, 1984 — customer demonstrator, lot 55",
+          "source_type": "Auction house’s first-hand vehicle and registration description",
+          "url": "https://www.aguttes.com/lot/automobiles-de-collection-29c24c3d-84cc-48ce-b0b7-fa4fbb421311/citroen-visa-1000-pistes-1984-140e3de0-9815-48e2-a02a-aa1ff9c30ff0",
+          "notes": "Auction house’s own vehicle description records French registration and the original dealer-demonstrator history of a standard customer example. Used for road-use context only; price, mileage, generic technical figures and works Evolution listings are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Citroën Visa 1000 pistes.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Visa_1000_pistes.jpg",
+          "notes": "Visart; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder inline, naturally aspirated four-stroke engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1360.7",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front transverse, inclined rearwards by 72 degrees",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two horizontal twin-choke Weber 40 DCOE carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unitary body construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft, chain driven",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Visa 1000 Pistes carries Citroën’s early four-wheel-drive rally development into a distinctive customer homologation model. Its compact front-engine four-wheel-drive architecture and place in the marque’s competition lineage distinguish it from the ordinary Visa and the separate works Evolution cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_visa_1000pistes_base1984.jpg",
+          "caption": "Citroën Visa 1000 Pistes at a Citroën gathering in Namur, illustrating the compact four-wheel-drive family and four-lamp grille. Decals, wheels and body appearance do not establish base-versus-Evolution engine internals, exact registration history or the selected March 1984 specification.",
+          "creator": "Visart",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "56f7468cb0d68e0f130ca517bd5a8bd1def0c70aded5ca31e34cbda1d5f14266"
+        }
+      ]
+    }
+  ]
+}

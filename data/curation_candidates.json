@@ -3511,7 +3511,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 705-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-41.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "Alfasud",
+      "generation": "Original Alfasud ti production-road sporting family",
+      "proposed_record": "ALF-ALFASUD-TI-1973",
+      "reason": "The Alfasud ti established a distinctive compact Alfa performance lineage around a low boxer engine, front-wheel drive and four-wheel disc brakes. Its chassis-led driving reputation and connection to the Trofeo Alfasud make the sporting ti an enduring performance reference, rather than an ordinary small Alfa.",
+      "evidence": "https://www.stellantisheritage.com/en-uk/heritage/stories/alfasud",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "Saxo",
+      "generation": "Original Saxo VTS sixteen-valve production-road hot-hatch family",
+      "proposed_record": "CIT-SAXO-VTS-16V-1996",
+      "reason": "The sixteen-valve Saxo VTS is a defining lightweight French hot hatch, combining a dedicated high-revving engine with precise, playful chassis tuning. Its accessible performance and role in developing amateur rally and circuit drivers give it lasting significance beyond the appearance of a VTS badge.",
+      "evidence": "https://www.media.stellantis.com/em-en/citroen/press/citroen-saxo-vts-30-years-of-a-sports-icon",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Bentley",
+      "model": "R-Type Continental",
+      "generation": "Original R-Type Continental HJ Mulliner fastback production-road grand-tourer family",
+      "proposed_record": "BEN-RTYPE-CONTINENTAL-1953-MT",
+      "reason": "The R-Type Continental established Bentley’s post-war high-speed grand-touring identity through streamlined coachwork and extensive aluminium construction. Its lasting influence on the Continental design and performance ethos makes the HJ Mulliner fastback a foundational grand-touring icon.",
+      "evidence": "https://www.bentleymedia.com/attachment/eea726d3-2d6d-4fe6-b1a0-c366aa9bfedd",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Bentley",
+      "model": "Turbo R",
+      "generation": "Original SZ-based Turbo R production-road performance-saloon family",
+      "proposed_record": "BEN-TURBOR-ORIGINAL1985",
+      "reason": "The Turbo R revived Bentley’s performance-saloon identity by pairing its turbo V8 with a substantial chassis transformation. Its emphasis on roadholding, rather than luxury trim alone, marks an important return to the marque’s high-performance roots.",
+      "evidence": "https://www.bentleymedia.com/attachment/6534ea25-4252-4c42-9f7b-4f25a0854a0f",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "VX220",
+      "generation": "Original VX220 / Opel Speedster production-road lightweight sports-car family",
+      "proposed_record": "VAU-VX220-TURBO-2003",
+      "reason": "The VX220 brought a dedicated lightweight aluminium-chassis sports-car architecture to Vauxhall. The Turbo paired that structure with a mid-mounted turbo engine and coordinated chassis, cooling and aerodynamic changes, creating a distinctive British performance icon rather than a cosmetic edition.",
+      "evidence": "https://www.ultimatecarpage.com/car/1354/Vauxhall-VX220-Turbo.html",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "MG",
+      "model": "Metro 6R4",
+      "generation": "Original Metro 6R4 Clubman production-homologation family",
+      "proposed_record": "MG-METRO-6R4-CLUBMAN1985",
+      "reason": "The Metro 6R4 Clubman represents the customer homologation side of a defining Group B programme. Its purpose-designed naturally aspirated V6, four-wheel-drive layout and specialist driveline engineering distinguish it fundamentally from the ordinary Metro and from the separate works International tune.",
+      "evidence": "https://www.6r4.net/site/images/stories/literature/pdfs/Motor%20Jan%201986.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Lancia",
+      "model": "Flaminia",
+      "generation": "Original Flaminia Zagato Sport / Super Sport production-road grand-tourer family",
+      "proposed_record": "LAN-FLAMINIA-SUPERSPORT-ZAGATO1965",
+      "reason": "The Flaminia Super Sport is a defining Zagato-bodied Lancia grand tourer, joining substantial six-cylinder road performance with Ercole Spada’s double-bubble and truncated-tail design. Its coachbuilt sporting lineage and enduring design recognition make it an Italian performance icon beyond rarity.",
+      "evidence": "https://www.museonicolis.com/lancia-flaminia-1965-super-sport-zagato/",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
+    },
+    {
+      "manufacturer": "Citroën",
+      "model": "Visa",
+      "generation": "Original Visa 1000 Pistes four-wheel-drive customer-homologation family",
+      "proposed_record": "CIT-VISA-1000PISTES-BASE1984",
+      "reason": "The Visa 1000 Pistes carries Citroën’s early four-wheel-drive rally development into a distinctive customer homologation model. Its compact front-engine four-wheel-drive architecture and place in the marque’s competition lineage distinguish it from the ordinary Visa and the separate works Evolution cars.",
+      "evidence": "https://www.citroenorigins.com/en/node/98982",
+      "duplicate_review": "Absent model/generation checked against the complete 709-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-42.json"
     }
   ],
-  "catalogue_count_after_batches": 709
+  "catalogue_count_after_batches": 717
 }

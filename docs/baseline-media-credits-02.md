@@ -35,6 +35,10 @@ the notes of their 27 linked source rows. Every one of the 709 car rows and all
 other fields/rows were preserved. Repeat application made zero changes. Database
 integrity, foreign keys, exact row/field deltas, exported public credits, export
 equality and unchanged local/exported image hashes passed.
+Both startup tests then passed in 21.440 seconds. A subsequent targeted query
+found no remaining blank/generic-contributor/`See source page` credit fields.
+The later eight-car batch preserves all these corrected rows; its final
+regression and replay results are recorded in [batch 42](icons-road-42.md).
 
 ## Limits of this review
 
