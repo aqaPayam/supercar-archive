@@ -1,0 +1,764 @@
+{
+  "batch": "icons-road-2026-10-29-48",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 6,
+  "cars": [
+    {
+      "id": "VW-SCIROCCO-MK1-GTI1976",
+      "manufacturer": "Volkswagen",
+      "model_family": "Scirocco",
+      "generation": "First-generation production-road sporting coupe family",
+      "variant": "GTI — 1976 European introduction reference",
+      "model_year_from": 1976,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "2+2 sporting coupe with large tailgate",
+      "road_legal": 1,
+      "specification_market": "European GTI introduced in 1976; no exact production-end year asserted. Read the factory first-generation paragraph separately from Mk2 16V and Mk3 R data. No additional GLi, facelift year or US Scirocco S alias is counted. Exact displacement and gearbox are omitted rather than inferred.",
+      "summary": "The first Scirocco GTI is an enduring compact sporting-coupe icon: Giugiaro design and Golf-derived front-drive engineering gained an injected performance flagship. It represents the original Scirocco road family, separate from the Golf GTI and the much later Scirocco revival.",
+      "admission_reason": "The first Scirocco GTI is an enduring compact sporting-coupe icon: Giugiaro design and Golf-derived front-drive engineering gained an injected performance flagship. It represents the original Scirocco road family, separate from the Golf GTI and the much later Scirocco revival.",
+      "sources": [
+        {
+          "publisher": "Volkswagen",
+          "title": "Scirocco — first-generation factory heritage catalogue",
+          "source_type": "Manufacturer historical model catalogue",
+          "url": "https://www.volkswagen-newsroom.com/en/scirocco-3615",
+          "notes": "European GTI introduced in 1976; no exact production-end year asserted. Read the factory first-generation paragraph separately from Mk2 16V and Mk3 R data. No additional GLi, facelift year or US Scirocco S alias is counted. Exact displacement and gearbox are omitted rather than inferred."
+        },
+        {
+          "publisher": "Volkswagen",
+          "title": "Scirocco chronology — 2008 factory press kit, original 1976 road GTI section",
+          "source_type": "Manufacturer historical press kit",
+          "url": "https://www.volkswagen-newsroom.com/en/the-new-scirocco-international-driving-presentation-portugal-june-2008-2349/scirocco-chronology-2387",
+          "notes": "Factory explicitly distinguishes the street GTI offered from summer 1976 from the separate Junior Cup cars. Only road-GTI injection architecture is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Scirocco GTi.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Scirocco_GTi.jpg",
+          "notes": "https://www.flickr.com/photos/8058098@N07/; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/8058098@N07/11212793673/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "81",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "185",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgio Giugiaro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Larger GTI front spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted maximum power",
+          "value": "110",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch K-Jetronic injection",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Scirocco GTI is an enduring compact sporting-coupe icon: Giugiaro design and Golf-derived front-drive engineering gained an injected performance flagship. It represents the original Scirocco road family, separate from the Golf GTI and the much later Scirocco revival.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_scirocco_mk1_gti1976.jpg",
+          "caption": "Scirocco GTI identified by its photographer as a 1976 car, illustrating the first-generation road model. This representative photograph does not certify unchanged mechanical specification or originality.",
+          "creator": "https://www.flickr.com/photos/8058098@N07/",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "32740b53469ce196608ed8ed5222ecdf90eba0461c5799d7cd3f63cd3de1994a"
+        }
+      ]
+    },
+    {
+      "id": "VW-SCIROCCO-MK3-R-2011",
+      "manufacturer": "Volkswagen",
+      "model_family": "Scirocco",
+      "generation": "Third-generation production-road sporting coupe family",
+      "variant": "R 265 PS six-speed manual — December 2011 UK brochure reference",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "UK December 2011 reference, brochure printed pages 42–45 visually reviewed. Select the manual R column: 265 PS / 195 kW, 350 Nm and 6.0-second 0–62 mph. The six-speed DSG is an alternative with a different acceleration figure. Do not transfer Golf R all-wheel drive, later 280-PS facelift power or R-Cup racing hardware. XDS is electronic, not an asserted mechanical locking differential.",
+      "summary": "The Scirocco R brought the revived sporting coupe to its original performance peak with a turbocharged 265-PS engine and a dedicated chassis specification. It represents the distinct modern Scirocco generation, rather than an extra trim or model year of the original GTI.",
+      "admission_reason": "The Scirocco R brought the revived sporting coupe to its original performance peak with a turbocharged 265-PS engine and a dedicated chassis specification. It represents the distinct modern Scirocco generation, rather than an extra trim or model year of the original GTI.",
+      "sources": [
+        {
+          "publisher": "Volkswagen UK",
+          "title": "The Scirocco — Volkswagen UK December 2011 brochure, printed pages 42–45",
+          "source_type": "Period manufacturer brochure",
+          "url": "https://www.volkswagen.co.uk/idhub/content/dam/onehub_pkw/importers/gb/downloads/brochures/used-cars/scirocco/scirocco-brochure-dec-2011.pdf",
+          "notes": "UK December 2011 reference, brochure printed pages 42–45 visually reviewed. Select the manual R column: 265 PS / 195 kW, 350 Nm and 6.0-second 0–62 mph. The six-speed DSG is an alternative with a different acceleration figure. Do not transfer Golf R all-wheel drive, later 280-PS facelift power or R-Cup racing hardware. XDS is electronic, not an asserted mechanical locking differential."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Blue VW Scirocco R fl.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Blue_VW_Scirocco_R_fl.jpg",
+          "notes": "Matti Blume ( MB-one ); CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1984",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "195",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "350",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "XDS electronic differential lock",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "265",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Manufacturer 0–62 mph, manual",
+          "value": "6.0",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Scirocco R brought the revived sporting coupe to its original performance peak with a turbocharged 265-PS engine and a dedicated chassis specification. It represents the distinct modern Scirocco generation, rather than an extra trim or model year of the original GTI.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_scirocco_mk3_r_2011.jpg",
+          "caption": "Blue pre-facelift Scirocco R illustrating the third-generation road coupe. The photograph does not establish the pictured car’s transmission or exact model year; the technical reference is the December 2011 UK manual R.",
+          "creator": "Matti Blume ( MB-one )",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5ce1d2085b4da83138e31310776d2b26886ea03c142deb058da327b5fad75514"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS6-C7-2013",
+      "manufacturer": "Audi",
+      "model_family": "RS 6",
+      "generation": "C7 / third-generation production-road RS 6 family",
+      "variant": "Original RS 6 Avant — 2013 factory-history reference",
+      "model_year_from": 2013,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Performance estate / Avant",
+      "road_legal": 1,
+      "specification_market": "Factory retrospective dated 25 July 2022, C7 section and all-generation drivetrain introduction read. Original 2013 road Avant, separate from existing C5/C6 records. Later Performance 605 PS / overboost and package-dependent maximum speeds are excluded. The article does not explicitly state original C7 peak power, so no derived horsepower figure is imported.",
+      "summary": "The C7 RS 6 Avant is a defining performance-estate generation, combining a twin-turbo V8 with quattro and a new eight-speed transmission. Its return to eight cylinders and broader everyday capability form a distinct engineering chapter in the RS 6 lineage.",
+      "admission_reason": "The C7 RS 6 Avant is a defining performance-estate generation, combining a twin-turbo V8 with quattro and a new eight-speed transmission. Its return to eight cylinders and broader everyday capability form a distinct engineering chapter in the RS 6 lineage.",
+      "sources": [
+        {
+          "publisher": "Audi",
+          "title": "20 Jahre, vier Generationen — Audi RS 6, C7 section, 25 July 2022",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.audi.com/de/pressemitteilungen/20-jahre-vier-generationen-audi-rs-6-ueberlegene-performance-im-alltagsgewand-14768",
+          "notes": "Factory retrospective dated 25 July 2022, C7 section and all-generation drivetrain introduction read. Original 2013 road Avant, separate from existing C5/C6 records. Later Performance 605 PS / overboost and package-dependent maximum speeds are excluded. The article does not explicitly state original C7 peak power, so no derived horsepower figure is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS6 - Flickr - Alexandre Prévot.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS6_-_Flickr_-_Alexandre_Pr%C3%A9vot.jpg",
+          "notes": "Alexandre Prévot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Audi RS6. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "700",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed tiptronic automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.9",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Standard adaptive air suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Low-load operation",
+          "value": "Cylinder deactivation to four cylinders",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C7 RS 6 Avant is a defining performance-estate generation, combining a twin-turbo V8 with quattro and a new eight-speed transmission. Its return to eight cylinders and broader everyday capability form a distinct engineering chapter in the RS 6 lineage.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs6_c7_2013.jpg",
+          "caption": "Audi RS 6 C7 Avant photographed by Alexandre Prévot. The representative road-family image does not certify the pictured car’s exact year, options or engine tune.",
+          "creator": "Alexandre Prévot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bbb2864f8284489e690f84a84164290aaa5fcc67292ba851f375ad3f1440a4b0"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS6-C8-2019",
+      "manufacturer": "Audi",
+      "model_family": "RS 6",
+      "generation": "C8 / fourth-generation production-road RS 6 family",
+      "variant": "Original RS 6 Avant — 2019 European introduction reference",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Performance estate / Avant",
+      "road_legal": 1,
+      "specification_market": "Factory retrospective dated 25 July 2022, C8 section and all-generation drivetrain introduction read. European 2019 introduction reference, not a claim of US model-year 2019 availability. Do not mix US horsepower units, later Performance output, optional 22-inch wheels or an unestablished suspension fitment. Engine cylinder layout and transmission are omitted where this section does not explicitly establish them.",
+      "summary": "The C8 RS 6 Avant extended the performance-estate icon with 48-volt assistance and four-wheel steering. Its original 600-PS specification represents a new RS 6 generation, distinct from the existing earlier estates and from subsequent power upgrades.",
+      "admission_reason": "The C8 RS 6 Avant extended the performance-estate icon with 48-volt assistance and four-wheel steering. Its original 600-PS specification represents a new RS 6 generation, distinct from the existing earlier estates and from subsequent power upgrades.",
+      "sources": [
+        {
+          "publisher": "Audi",
+          "title": "20 Jahre, vier Generationen — Audi RS 6, C8 section, 25 July 2022",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.audi.com/de/pressemitteilungen/20-jahre-vier-generationen-audi-rs-6-ueberlegene-performance-im-alltagsgewand-14768",
+          "notes": "Factory retrospective dated 25 July 2022, C8 section and all-generation drivetrain introduction read. European 2019 introduction reference, not a claim of US model-year 2019 availability. Do not mix US horsepower units, later Performance output, optional 22-inch wheels or an unestablished suspension fitment. Engine cylinder layout and transmission are omitted where this section does not explicitly establish them."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS6 Avant C8 at IAA 2019 IMG 0194.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS6_Avant_C8_at_IAA_2019_IMG_0194.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "800",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.6",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Standard 275/35 on 21-inch wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "600",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Electrical",
+          "label": "Hybrid assistance",
+          "value": "48-volt mild-hybrid system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Steering architecture",
+          "value": "Four-wheel steering",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C8 RS 6 Avant extended the performance-estate icon with 48-volt assistance and four-wheel steering. Its original 600-PS specification represents a new RS 6 generation, distinct from the existing earlier estates and from subsequent power upgrades.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs6_c8_2019.jpg",
+          "caption": "Audi RS 6 C8 Avant displayed at IAA 2019. This launch-display image illustrates the original generation; its visible equipment does not establish standard wheel or suspension fitment for every market.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a1ce01b61bf14cfa7ad9eae70cb991c1ebe43ad0f7e6d579a6ce9fad0d529212"
+        }
+      ]
+    },
+    {
+      "id": "LEX-RCF-2015",
+      "manufacturer": "Lexus",
+      "model_family": "RC F",
+      "generation": "Original RC F production-road performance-coupe family",
+      "variant": "RC F — 2015 Canadian production specification",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door performance coupe",
+      "road_legal": 1,
+      "specification_market": "2015 Canadian road model. The early announcement gives preliminary power above 450 horsepower, so no provisional output or inferred final torque is imported. Ordinary RC 350, GT3 competition car, later Track Edition and optional Torque Vectoring Differential are not this selected base road reference.",
+      "summary": "The RC F is Lexus’s dedicated naturally aspirated V8 performance coupe, pairing high-revving F engineering with rear-wheel drive. It adds a significant Japanese performance-car family beyond the IS F and LFA, without counting ordinary RC models or cosmetic editions.",
+      "admission_reason": "The RC F is Lexus’s dedicated naturally aspirated V8 performance coupe, pairing high-revving F engineering with rear-wheel drive. It adds a significant Japanese performance-car family beyond the IS F and LFA, without counting ordinary RC models or cosmetic editions.",
+      "sources": [
+        {
+          "publisher": "Lexus Canada",
+          "title": "What’s New: 2015 RC F — Canadian manufacturer launch overview",
+          "source_type": "Manufacturer launch information",
+          "url": "https://media.lexus.ca/en/whats-new/2014/whats-new-2015-rc-f.html",
+          "notes": "2015 Canadian road model. The early announcement gives preliminary power above 450 horsepower, so no provisional output or inferred final torque is imported. Ordinary RC 350, GT3 competition car, later Track Edition and optional Torque Vectoring Differential are not this selected base road reference."
+        },
+        {
+          "publisher": "Lexus Canada",
+          "title": "2015 RC F specifications — November 13, 2014, physical PDF pages 6–9",
+          "source_type": "Period manufacturer specification sheet",
+          "url": "https://media.lexus.ca/content/dam/media-lexus/general/spec-sheets/RC_F_Specs_EN.pdf",
+          "notes": "Read the final Canadian specification section separately from the preliminary two-page insert. Physical page 7 confirms DOHC, 32 valves and D-4S; page 9 lists TVD within the optional Performance Package. Malformed torque-unit and interior-dimension fields are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Lexus RC F in Ultra White, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Lexus_RC_F_in_Ultra_White,_front_right.jpg",
+          "notes": "Ethan Llamas; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed ECT-i automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent coil springs front and rear, monotube gas dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Valve count",
+          "value": "32",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4S direct injection and sequential multiport injection",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The RC F is Lexus’s dedicated naturally aspirated V8 performance coupe, pairing high-revving F engineering with rear-wheel drive. It adds a significant Japanese performance-car family beyond the IS F and LFA, without counting ordinary RC models or cosmetic editions.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lex_rcf_2015.jpg",
+          "caption": "White 2015 Lexus RC F illustrating the original road coupe. The pictured market, wheels and optional equipment are not evidence of the selected Canadian base specification or standard TVD fitment.",
+          "creator": "Ethan Llamas",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4bfffda53414249c15b7757c7521a368040d667c000a109344e54f7c88d5fe6d"
+        }
+      ]
+    },
+    {
+      "id": "LEX-GSF-2016",
+      "manufacturer": "Lexus",
+      "model_family": "GS F",
+      "generation": "Original GS F production-road performance-saloon family",
+      "variant": "GS F — 2016 US model launch reference",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "2016 US model reference. Manufacturer page dated January 2016 contains the original Madrid October 2015 launch account. Preserve native US hp and lb-ft. Optional-equipment wording is not promoted to standard fitment; disputed valve-material wording, later chassis updates and unspecified differential equipment are excluded.",
+      "summary": "The GS F is an exceptional naturally aspirated V8 performance saloon developed through the Lexus F programme and demanding circuit work. It brings a distinct Japanese sporting-saloon family to the archive, beyond ordinary GS grades or F Sport appearance packages.",
+      "admission_reason": "The GS F is an exceptional naturally aspirated V8 performance saloon developed through the Lexus F programme and demanding circuit work. It brings a distinct Japanese sporting-saloon family to the archive, beyond ordinary GS grades or F Sport appearance packages.",
+      "sources": [
+        {
+          "publisher": "Lexus USA",
+          "title": "2016 Lexus GS F Performance Sedan — original launch engineering information",
+          "source_type": "Manufacturer launch information",
+          "url": "https://pressroom.lexus.com/2016-lexus-gs-f-debut/",
+          "notes": "2016 US model reference. Manufacturer page dated January 2016 contains the original Madrid October 2015 launch account. Preserve native US hp and lb-ft. Optional-equipment wording is not promoted to standard fitment; disputed valve-material wording, later chassis updates and unspecified differential equipment are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016 Lexus GS-F Fujiweiss Vorderansicht links.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_Lexus_GS-F_Fujiweiss_Vorderansicht_links.jpg",
+          "notes": "Kickaffe (Mario von Berg); CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed Sport Direct Shift automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "12.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4S direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, US launch specification",
+          "value": "467",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, US launch specification",
+          "value": "389",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve count",
+          "value": "32",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve timing",
+          "value": "VVT-iE",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GS F is an exceptional naturally aspirated V8 performance saloon developed through the Lexus F programme and demanding circuit work. It brings a distinct Japanese sporting-saloon family to the archive, beyond ordinary GS grades or F Sport appearance packages.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lex_gsf_2016.jpg",
+          "caption": "White 2016 Lexus GS F illustrating the original performance saloon. This representative image does not establish US-market equipment, exact differential fitment or unmodified mechanical condition.",
+          "creator": "Kickaffe (Mario von Berg)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "38e9486f417438684c8cc2849badc0cd09ebd525619ba0b9be580a8132124303"
+        }
+      ]
+    }
+  ]
+}

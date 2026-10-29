@@ -4017,7 +4017,73 @@
       "duplicate_review": "Absent model/generation checked against the complete 748-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-47.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "generation": "First-generation production-road sporting coupe family",
+      "proposed_record": "VW-SCIROCCO-MK1-GTI1976",
+      "reason": "The first Scirocco GTI is an enduring compact sporting-coupe icon: Giugiaro design and Golf-derived front-drive engineering gained an injected performance flagship. It represents the original Scirocco road family, separate from the Golf GTI and the much later Scirocco revival.",
+      "evidence": "https://www.volkswagen-newsroom.com/en/scirocco-3615",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "generation": "Third-generation production-road sporting coupe family",
+      "proposed_record": "VW-SCIROCCO-MK3-R-2011",
+      "reason": "The Scirocco R brought the revived sporting coupe to its original performance peak with a turbocharged 265-PS engine and a dedicated chassis specification. It represents the distinct modern Scirocco generation, rather than an extra trim or model year of the original GTI.",
+      "evidence": "https://www.volkswagen.co.uk/idhub/content/dam/onehub_pkw/importers/gb/downloads/brochures/used-cars/scirocco/scirocco-brochure-dec-2011.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 6",
+      "generation": "C7 / third-generation production-road RS 6 family",
+      "proposed_record": "AUD-RS6-C7-2013",
+      "reason": "The C7 RS 6 Avant is a defining performance-estate generation, combining a twin-turbo V8 with quattro and a new eight-speed transmission. Its return to eight cylinders and broader everyday capability form a distinct engineering chapter in the RS 6 lineage.",
+      "evidence": "https://www.audi.com/de/pressemitteilungen/20-jahre-vier-generationen-audi-rs-6-ueberlegene-performance-im-alltagsgewand-14768",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 6",
+      "generation": "C8 / fourth-generation production-road RS 6 family",
+      "proposed_record": "AUD-RS6-C8-2019",
+      "reason": "The C8 RS 6 Avant extended the performance-estate icon with 48-volt assistance and four-wheel steering. Its original 600-PS specification represents a new RS 6 generation, distinct from the existing earlier estates and from subsequent power upgrades.",
+      "evidence": "https://www.audi.com/de/pressemitteilungen/20-jahre-vier-generationen-audi-rs-6-ueberlegene-performance-im-alltagsgewand-14768",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Lexus",
+      "model": "RC F",
+      "generation": "Original RC F production-road performance-coupe family",
+      "proposed_record": "LEX-RCF-2015",
+      "reason": "The RC F is Lexus’s dedicated naturally aspirated V8 performance coupe, pairing high-revving F engineering with rear-wheel drive. It adds a significant Japanese performance-car family beyond the IS F and LFA, without counting ordinary RC models or cosmetic editions.",
+      "evidence": "https://media.lexus.ca/en/whats-new/2014/whats-new-2015-rc-f.html",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
+    },
+    {
+      "manufacturer": "Lexus",
+      "model": "GS F",
+      "generation": "Original GS F production-road performance-saloon family",
+      "proposed_record": "LEX-GSF-2016",
+      "reason": "The GS F is an exceptional naturally aspirated V8 performance saloon developed through the Lexus F programme and demanding circuit work. It brings a distinct Japanese sporting-saloon family to the archive, beyond ordinary GS grades or F Sport appearance packages.",
+      "evidence": "https://pressroom.lexus.com/2016-lexus-gs-f-debut/",
+      "duplicate_review": "Absent model/generation checked against the complete 755-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-48.json"
     }
   ],
-  "catalogue_count_after_batches": 755
+  "catalogue_count_after_batches": 761
 }
