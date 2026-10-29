@@ -4182,7 +4182,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 765-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-50.json"
+    },
+    {
+      "manufacturer": "Ginetta",
+      "model": "G4",
+      "generation": "Original 1960s G4 road and club-sport production family",
+      "proposed_record": "GIN-G4-S2-1500-ROADTEST1964",
+      "reason": "The G4 established Ginetta’s lightweight sporting identity through its bonded glass-fibre and tubular chassis and strong contemporary road performance. The factory-prepared 1500 road test demonstrates a practical dual-purpose sports car, rather than an ordinary kit or a dedicated racing prototype.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/april-1964/42/the-ginetta-g4-1500/",
+      "duplicate_review": "Absent model/generation checked against the complete 770-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-51.json"
+    },
+    {
+      "manufacturer": "Alvis",
+      "model": "Speed models",
+      "generation": "Original prewar Alvis Speed performance-road family",
+      "proposed_record": "ALV-SPEED25-MUSEUM1937",
+      "reason": "The Speed 25 is a landmark British sporting tourer, combining independent front suspension, an all-synchromesh gearbox and servo-assisted braking. Its documented fast-road character and advanced chassis make the Alvis Speed family an important prewar performance icon beyond prestige or rarity.",
+      "evidence": "https://nationalmotormuseum.org.uk/collections/vehicles/alvis-speed-25/",
+      "duplicate_review": "Absent model/generation checked against the complete 770-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-51.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "S / SS / SSK",
+      "generation": "W06 original supercharged S-series production-road sports-tourer family",
+      "proposed_record": "MER-SSK-710SHORT-ROAD1928",
+      "reason": "The SSK is a foundational supercharged performance-car icon, bringing the short-chassis S-series’ competition-derived engineering to owner-driver touring. Its period road offering and enduring sporting identity establish a distinct family before the later 500 K already archived.",
+      "evidence": "https://porschecarshistory.com/wp-content/old/brochures4/51/1928-2.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 770-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-51.json"
+    },
+    {
+      "manufacturer": "Duesenberg",
+      "model": "Model J",
+      "generation": "Original Model J production-road performance-GT family",
+      "proposed_record": "DUE-MODELJ-DERHAM-MUSEUM1931",
+      "reason": "The Model J is a defining American performance-car icon: its twin-cam, four-valve engine and four-wheel hydraulic brakes brought exceptional engineering to the road. The documented Derham Tourster represents that influential family, whose significance extends beyond celebrity ownership and luxury coachwork.",
+      "evidence": "https://www.haynesmuseum.org/the-museum/collection-highlights/1931-duesenberg-model-j/",
+      "duplicate_review": "Absent model/generation checked against the complete 770-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-51.json"
     }
   ],
-  "catalogue_count_after_batches": 770
+  "catalogue_count_after_batches": 774
 }

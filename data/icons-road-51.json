@@ -1,0 +1,500 @@
+{
+  "batch": "icons-road-2026-10-29-51",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "GIN-G4-S2-1500-ROADTEST1964",
+      "manufacturer": "Ginetta",
+      "model_family": "G4",
+      "generation": "Original 1960s G4 road and club-sport production family",
+      "variant": "Series 2 Cortina GT 1500 hardtop — April 1964 factory-prepared road-test reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat closed sports car with removable hardtop",
+      "road_legal": 1,
+      "specification_market": "Actual Motor Sport April 1964 road report signed M.L.T., including 1500 road miles after running-in. The archive’s 2014 web date is not the vehicle year. Select the factory-offered tuned Cortina GT engine, single Weber, Series 2 hardtop and optional front discs as tested; do not promote those options to every base G4. The 997-cc FIA base, twin-sidedraught alternative, earlier Ford rear axle and later DARE cars are excluded. Experimental racing tyres, corrupted ratio/0–100-mph entries and universal acceleration claims are omitted.",
+      "summary": "The G4 established Ginetta’s lightweight sporting identity through its bonded glass-fibre and tubular chassis and strong contemporary road performance. The factory-prepared 1500 road test demonstrates a practical dual-purpose sports car, rather than an ordinary kit or a dedicated racing prototype.",
+      "admission_reason": "The G4 established Ginetta’s lightweight sporting identity through its bonded glass-fibre and tubular chassis and strong contemporary road performance. The factory-prepared 1500 road test demonstrates a practical dual-purpose sports car, rather than an ordinary kit or a dedicated racing prototype.",
+      "sources": [
+        {
+          "publisher": "Motor Sport",
+          "title": "The Ginetta G4 1500 — April 1964 road test, M.L.T.",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.motorsportmagazine.com/archive/article/april-1964/42/the-ginetta-g4-1500/",
+          "notes": "Actual Motor Sport April 1964 road report signed M.L.T., including 1500 road miles after running-in. The archive’s 2014 web date is not the vehicle year. Select the factory-offered tuned Cortina GT engine, single Weber, Series 2 hardtop and optional front discs as tested; do not promote those options to every base G4. The 997-cc FIA base, twin-sidedraught alternative, earlier Ford rear axle and later DARE cars are excluded. Experimental racing tyres, corrupted ratio/0–100-mph entries and universal acceleration claims are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1968 Ginetta G4 1.6 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1968_Ginetta_G4_1.6_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder Ford Cortina GT",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single downdraught twin-choke Weber carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed Ford manual with standard ratio cluster",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Multi-tubular steel frame with bonded glass-fibre centre body section",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front double wishbones and coilovers; live BMC rear axle with trailing arms and A-bracket",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Tested optional Girling 9-inch front discs; rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Tested removable glass-fibre hardtop with integral laminated windscreen",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Pushrod-operated overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Road-test quoted approximate output",
+          "value": "Approximately 95",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The G4 established Ginetta’s lightweight sporting identity through its bonded glass-fibre and tubular chassis and strong contemporary road performance. The factory-prepared 1500 road test demonstrates a practical dual-purpose sports car, rather than an ordinary kit or a dedicated racing prototype.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_gin_g4_s2_1500_roadtest1964.jpg",
+          "caption": "Closed original-family Ginetta G4 identified by its photographer as a 1968 1.6-litre car, at the 2019 NEC Classic Motor Show. This later representative G4 is not the 1964 Series 2 road-test car and does not establish its 1498-cc tune, chassis development, axle, brakes or tyre fitment. No later DARE continuation is represented as the tested car.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a58139f40ad2ec5222c3d297c6f815bfde0d7abdfc1c95dc9c6498bf89c63ae1"
+        }
+      ]
+    },
+    {
+      "id": "ALV-SPEED25-MUSEUM1937",
+      "manufacturer": "Alvis",
+      "model_family": "Speed models",
+      "generation": "Original prewar Alvis Speed performance-road family",
+      "variant": "Speed 25 — 1937 National Motor Museum Charlesworth reference",
+      "model_year_from": 1937,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Charlesworth enclosed sporting road coachwork",
+      "road_legal": 1,
+      "specification_market": "Custodian’s own 1937 Charlesworth-bodied collection car is the selected reference. Preserve the native hp quotation without converting to PS or asserting a particular dynamometer standard. No Speed 20 engine specification, 4.3-litre model, early Alvis front-wheel-drive system, unverified body originality or test-condition-dependent acceleration is transferred. One Speed road-family record is counted.",
+      "summary": "The Speed 25 is a landmark British sporting tourer, combining independent front suspension, an all-synchromesh gearbox and servo-assisted braking. Its documented fast-road character and advanced chassis make the Alvis Speed family an important prewar performance icon beyond prestige or rarity.",
+      "admission_reason": "The Speed 25 is a landmark British sporting tourer, combining independent front suspension, an all-synchromesh gearbox and servo-assisted braking. Its documented fast-road character and advanced chassis make the Alvis Speed family an important prewar performance icon beyond prestige or rarity.",
+      "sources": [
+        {
+          "publisher": "National Motor Museum, Beaulieu",
+          "title": "Alvis Speed 25 — 1937 collection vehicle catalogue",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/alvis-speed-25/",
+          "notes": "Custodian’s own 1937 Charlesworth-bodied collection car is the selected reference. Preserve the native hp quotation without converting to PS or asserting a particular dynamometer standard. No Speed 20 engine specification, 4.3-litre model, early Alvis front-wheel-drive system, unverified body originality or test-condition-dependent acceleration is transferred. One Speed road-family record is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1937 Alvis Speed 25 Charlesworth.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1937_Alvis_Speed_25_Charlesworth.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3571",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "All-synchromesh four-speed gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve arrangement",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted output at 3800 rpm",
+          "value": "110",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Charlesworth",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Speed 25 is a landmark British sporting tourer, combining independent front suspension, an all-synchromesh gearbox and servo-assisted braking. Its documented fast-road character and advanced chassis make the Alvis Speed family an important prewar performance icon beyond prestige or rarity.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alv_speed25_museum1937.jpg",
+          "caption": "1937 Charlesworth-bodied Alvis Speed 25 photographed at Hampton Court Concours in 2020. This representative enclosed-road-body image does not certify the selected museum reference’s present mechanical condition or untouched equipment.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "34749624367d166eac5e9188ceb1f7c6cb5bf0bcf9a01a16fde210eecb3d1252"
+        }
+      ]
+    },
+    {
+      "id": "MER-SSK-710SHORT-ROAD1928",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "S / SS / SSK",
+      "generation": "W06 original supercharged S-series production-road sports-tourer family",
+      "variant": "SSK Model 710 Short — original owner-driver brochure, 1928 family context",
+      "model_year_from": 1928,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat open sports tourer",
+      "road_legal": 1,
+      "specification_market": "Actual English manufacturer brochure pages 2 and 4 rendered and read. It explicitly offers Model 710 Short to owner-drivers for touring, separately from racing use. The modern factory history dates the SSK family to 1928; the leaflet itself is undated, so that is programme context rather than a proven print date or pictured car’s build year. Use its rounded 7.1-litre class and stated road hardware, not conflicting exact-displacement/power figures, racing SSKL tune, Trossi special or a replica. No extra S/SS/SSK variant count is added.",
+      "summary": "The SSK is a foundational supercharged performance-car icon, bringing the short-chassis S-series’ competition-derived engineering to owner-driver touring. Its period road offering and enduring sporting identity establish a distinct family before the later 500 K already archived.",
+      "admission_reason": "The SSK is a foundational supercharged performance-car icon, bringing the short-chassis S-series’ competition-derived engineering to owner-driver touring. Its period road offering and enduring sporting identity establish a distinct family before the later 500 K already archived.",
+      "sources": [
+        {
+          "publisher": "Daimler-Benz / Mercedes-Benz",
+          "title": "Mercedes-Benz Special Compressor Sport Model SSK — Model 710 Short owner-driver sales brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://porschecarshistory.com/wp-content/old/brochures4/51/1928-2.pdf",
+          "notes": "Actual English manufacturer brochure pages 2 and 4 rendered and read. It explicitly offers Model 710 Short to owner-drivers for touring, separately from racing use. The modern factory history dates the SSK family to 1928; the leaflet itself is undated, so that is programme context rather than a proven print date or pictured car’s build year. Use its rounded 7.1-litre class and stated road hardware, not conflicting exact-displacement/power figures, racing SSKL tune, Trossi special or a replica. No extra S/SS/SSK variant count is added."
+        },
+        {
+          "publisher": "Mercedes-Benz Group",
+          "title": "Vehicle Icons from 140 Years — SSK (W06), 29 January 2026",
+          "source_type": "Manufacturer historical model account",
+          "url": "https://group.mercedes-benz.com/company/tradition/company-history/140-years-vehicle-icons.html",
+          "notes": "Factory identifies the SSK’s 1928–1932 production context and the S-series as supercharged sports touring cars; SSKL is separately identified as racing-only. No SSKL sporting result or equipment is imported into the brochure road reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1929 Mercedes-Benz SSK Louwman.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1929_Mercedes-Benz_SSK_Louwman.jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/rutgervandermaar/49580359563/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "7.1",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead camshaft driven through vertical shaft and helical gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger engaged through accelerator pedal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four forward speeds and reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Pedal-operated four-wheel drum brakes; separate rear-wheel handbrake",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Semi-elliptic springs with lever-type shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Bosch high-tension magneto and battery ignition; two sets of spark plugs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SSK is a foundational supercharged performance-car icon, bringing the short-chassis S-series’ competition-derived engineering to owner-driver touring. Its period road offering and enduring sporting identity establish a distinct family before the later 500 K already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_ssk_710short_road1928.jpg",
+          "caption": "Mercedes-Benz SSK identified as a 1929 car at the Louwman Museum. It illustrates the original two-seat sports-tourer family, not the SSKL or a Gazelle replica; the photograph does not establish the undated owner-driver brochure’s exact engine tune or the photographed car’s unaltered condition.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d8cb1251b43277b9e4498fd607a62d2e7dcbe05b5f3c13e430571299568b3952"
+        }
+      ]
+    },
+    {
+      "id": "DUE-MODELJ-DERHAM-MUSEUM1931",
+      "manufacturer": "Duesenberg",
+      "model_family": "Model J",
+      "generation": "Original Model J production-road performance-GT family",
+      "variant": "Model J Tourster by Derham — 1931 Haynes Motor Museum reference",
+      "model_year_from": 1931,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Open Derham Tourster road coachwork",
+      "road_legal": 1,
+      "specification_market": "Haynes’ own 1931 Model J Tourster is the selected road reference. Treat its quoted output and brake description as the custodian’s collection-car account, not certification of untouched equipment or a measured universal specification. The separately read factory Model J technical pages establish core architecture and transmission. No supercharged SJ/SSJ output, prototype test car, Mormon Meteor racing tune, unverified speed, production total or celebrity-owner certainty is imported. One Model J family record is counted.",
+      "summary": "The Model J is a defining American performance-car icon: its twin-cam, four-valve engine and four-wheel hydraulic brakes brought exceptional engineering to the road. The documented Derham Tourster represents that influential family, whose significance extends beyond celebrity ownership and luxury coachwork.",
+      "admission_reason": "The Model J is a defining American performance-car icon: its twin-cam, four-valve engine and four-wheel hydraulic brakes brought exceptional engineering to the road. The documented Derham Tourster represents that influential family, whose significance extends beyond celebrity ownership and luxury coachwork.",
+      "sources": [
+        {
+          "publisher": "Haynes Motor Museum",
+          "title": "1931 Duesenberg Model J — Tourster by Derham collection catalogue",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.haynesmuseum.org/the-museum/collection-highlights/1931-duesenberg-model-j/",
+          "notes": "Haynes’ own 1931 Model J Tourster is the selected road reference. Treat its quoted output and brake description as the custodian’s collection-car account, not certification of untouched equipment or a measured universal specification. The separately read factory Model J technical pages establish core architecture and transmission. No supercharged SJ/SSJ output, prototype test car, Mormon Meteor racing tune, unverified speed, production total or celebrity-owner certainty is imported. One Model J family record is counted."
+        },
+        {
+          "publisher": "Duesenberg, Inc. / later Floyd Clymer facsimile reprint",
+          "title": "Model J, 265 Horsepower — factory technical pages 19–20 in reprinted sales literature",
+          "source_type": "Period manufacturer specifications preserved in later facsimile reprint",
+          "url": "https://motorarkiv.dk/brochurer/Duesenberg_1933.pdf",
+          "notes": "Physical PDF pages 10–11 were rendered and read. Original factory Model J text is preserved in a later Floyd Clymer reprint that also contains separate supercharged-chassis pages. The host’s 1933 filename is not a proven print date. Only the Model J-specific inline-eight architecture and three-speed transmission are imported; no SJ tune or current restored-car condition is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1931 Duesenberg Model J (53385362817).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1931_Duesenberg_Model_J_(53385362817).jpg",
+          "notes": "David Merrett from Daventry, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1931 Duesenberg Model J. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6882",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front beam axle and live rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Vacuum-assisted four-wheel hydraulic brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted output",
+          "value": "265",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Derham",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline eight-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three forward speeds and reverse",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Model J is a defining American performance-car icon: its twin-cam, four-valve engine and four-wheel hydraulic brakes brought exceptional engineering to the road. The documented Derham Tourster represents that influential family, whose significance extends beyond celebrity ownership and luxury coachwork.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_due_modelj_derham_museum1931.jpg",
+          "caption": "1931 Duesenberg Model J Derham Tourster at Haynes Motor Museum. This collection-car illustration does not establish a supercharger, current measured horsepower, brake originality or a certain first-owner history; SJ and SSJ references are not used as technical evidence for it.",
+          "creator": "David Merrett from Daventry, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e5af5256d8c3d69252fc0655acd015ec07c40f000e9a38a33d7283c8b5d4740b"
+        }
+      ]
+    }
+  ]
+}
