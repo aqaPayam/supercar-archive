@@ -2060,7 +2060,117 @@
       "duplicate_review": "Absent model/generation checked against the complete 570-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-17.json"
+    },
+    {
+      "manufacturer": "Lexus",
+      "model": "IS F",
+      "generation": "Original USE20 V8 F performance saloon",
+      "proposed_record": "LEX-ISF-UK2008",
+      "reason": "The IS F established Lexus’s F performance-car identity, combining a specially developed naturally aspirated V8 with an eight-speed Sport Direct Shift transmission, bespoke brakes and extensive circuit development. It is the foundational road model of the F lineage rather than an ordinary IS trim package.",
+      "evidence": "https://media.lexus.co.uk/wp-content/uploads/sites/3/pdf/Lexus-IS-F-launch-pack-2008.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Lexus",
+      "model": "LC",
+      "generation": "Original URZ100 V8 LC production coupe",
+      "proposed_record": "LEX-LC500-US2018",
+      "reason": "The LC 500 is a Lexus design and engineering landmark, translating the LF-LC concept into a production performance grand tourer on the new GA-L architecture. Its naturally aspirated V8 and ten-speed automatic mark a distinct flagship coupe direction, supported by major production-design awards.",
+      "evidence": "https://pressroom.lexus.com/all-new-lexus-lc-500-coupe/",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "CTS-V",
+      "generation": "Original first-generation LS6 V8 CTS-V saloon",
+      "proposed_record": "CAD-CTSV-I-LS6-2004",
+      "reason": "The original CTS-V inaugurated Cadillac’s production V-Series and its modern performance-saloon identity. A Corvette-derived LS6 V8, standard six-speed manual, Brembo brakes and dedicated chassis tuning made it a substantive new performance programme rather than a styling package.",
+      "evidence": "https://news.cadillac.com/newsroom.detail.html/Pages/news/us/en/2023/mar/0315-cadillac.html",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "CTS-V",
+      "generation": "Second-generation supercharged V8 CTS-V estate",
+      "proposed_record": "CAD-CTSV-II-WAGON-2011",
+      "reason": "The CTS-V Wagon is an exceptional American performance estate, carrying the second-generation supercharged V8, manual transmission and Magnetic Ride Control into a practical cargo body. It represents the missing second CTS-V generation without counting its saloon and coupe again.",
+      "evidence": "https://www.auto-brochures.com/makes/Cadillac/CTS/Cadillac_US%20CTS_2011.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Cadillac",
+      "model": "CT5-V",
+      "generation": "Original CT5-V Blackwing supercharged V8 saloon",
+      "proposed_record": "CAD-CT5V-BLACKWING-MAN-2022",
+      "reason": "The CT5-V Blackwing is a landmark modern American super-saloon, retaining a standard manual transmission alongside a hand-built supercharged V8, electronic rear differential and fourth-generation Magnetic Ride Control. Its drivetrain and chassis development make it distinct from the ordinary V6 CT5-V.",
+      "evidence": "https://www.ultimatecarpage.com/car/7933/Cadillac-CT5-V-Blackwing.html",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "Fifth-generation original LSA-powered ZL1 coupe",
+      "proposed_record": "CHE-CAMARO-ZL1-G5-2012",
+      "reason": "The fifth-generation ZL1 revived a significant Camaro performance name with a complete road-and-track engineering package. Its supercharged LSA engine, magnetic damping, extensive auxiliary cooling and upgraded brakes established a modern high-performance Camaro beyond an engine-only conversion.",
+      "evidence": "https://www.auto-brochures.com/makes/Chevrolet/Camaro/Chevrolet_US%20CamaroZL1_2012.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "Sixth-generation LT4 ZL1 1LE production road coupe",
+      "proposed_record": "CHE-CAMARO-ZL1-1LE-G6-2018",
+      "reason": "The sixth-generation ZL1 1LE is a major Camaro road-and-track development, combining supercharged LT4 power with Multimatic spool-valve dampers, adjustable chassis geometry, dedicated aerodynamics and competition-oriented tyres. It represents the missing sixth Camaro generation rather than another tune of the fifth-generation ZL1.",
+      "evidence": "https://cdn.dealereprocess.org/cdn/brochures/chevrolet/2018-camaro.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "generation": "Modern third-generation original SRT Hellcat coupe",
+      "proposed_record": "DOD-CHALLENGER-HELLCAT-2015",
+      "reason": "The original Challenger Hellcat is a defining modern muscle-car milestone, introducing Dodge and SRT’s first factory-supercharged HEMI production engine. Its 707-horsepower road-car package and dual-key power control established the Hellcat identity that reshaped the modern American horsepower era.",
+      "evidence": "https://www.prnewswire.com/news-releases/dodge-challenger-srt-hellcat-is-the-most-powerful-muscle-car-ever----707-hp-265427501.html",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "Holden",
+      "model": "Monaro",
+      "generation": "Third-generation original V2 CV8 road coupe",
+      "proposed_record": "HOL-MONARO-V2-CV8-2001",
+      "reason": "The Monaro’s 2001 return revived a defining Australian performance-coupe name with a modern V8 and six-speed manual. Its launch was linked to the original lineage by the National Motor Museum’s contemporary Monaro Mania exhibition, reflecting the model’s place in Australia’s motoring culture.",
+      "evidence": "https://www.history.sa.gov.au/wp-content/uploads/2017/05/annual-report-02.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
+    },
+    {
+      "manufacturer": "RUF",
+      "model": "CTR",
+      "generation": "Original Carrera-shell CTR Yellowbird production series",
+      "proposed_record": "RUF-CTR-ORIGINAL-1987",
+      "reason": "The original CTR Yellowbird established RUF’s international supercar reputation through the 1987 Ehra-Lessien high-speed comparison. It is the classic twin-turbo Carrera-shell production car that inspired the later carbon-monocoque CTR Anniversary, with a distinct chassis and engineering generation.",
+      "evidence": "https://www.ruf-automobile.de/en/modelle/serie/",
+      "duplicate_review": "Absent model/generation checked against the complete 580-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-18.json"
     }
   ],
-  "catalogue_count_after_batches": 580
+  "catalogue_count_after_batches": 590
 }
