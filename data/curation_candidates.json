@@ -5029,7 +5029,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 846-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-72.json"
+    },
+    {
+      "manufacturer": "Facel Vega",
+      "model": "Facel II",
+      "generation": "Original HK2 Facel II production-road GT family",
+      "proposed_record": "FAC-II-HK2B109-MANUAL-ROADREF",
+      "reason": "The Facel II is a significant French-American performance GT, combining Chrysler V8 power with a distinctive low French coupe body. First-hand road driving documents forceful acceleration and sustained touring ability. Its place in postwar GT history supports one original family entry; rarity, luxury and a fastest-coupe slogan do not establish admission by themselves.",
+      "evidence": "https://www.ezpowersteering.nl/wp-content/uploads/2023/10/CHICANE-MAGAZINE-NL.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 847-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-73.json"
+    },
+    {
+      "manufacturer": "MG",
+      "model": "XPower SV",
+      "generation": "Original XPower SV / SV-R production-road sports-coupe family",
+      "proposed_record": "MG-XPOWER-SV-46-LAUNCH2003",
+      "reason": "The XPower SV was MG’s ambitious carbon-bodied V8 flagship, pairing a steel box frame and integrated rollover structure with a rear-drive sports-car layout. Its engineering and distinctive place in MG’s performance history justify one original family entry. A long-term SV-R road test records involving handling and braking alongside substantial finish and reliability shortcomings, rather than establishing merit through rarity alone.",
+      "evidence": "https://www.evo.co.uk/carreviews/evolongtermtests/59513/mg_svr.html",
+      "duplicate_review": "Absent model/generation checked against the complete 847-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-73.json"
     }
   ],
-  "catalogue_count_after_batches": 847
+  "catalogue_count_after_batches": 849
 }

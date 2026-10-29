@@ -1,0 +1,292 @@
+{
+  "batch": "icons-road-2026-10-30-73",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "FAC-II-HK2B109-MANUAL-ROADREF",
+      "manufacturer": "Facel Vega",
+      "model_family": "Facel II",
+      "generation": "Original HK2 Facel II production-road GT family",
+      "variant": "6.3-litre manual architecture — HK2 B109, Chicane 4/2011 road reference",
+      "model_year_from": 1962,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door GT coupe",
+      "road_legal": 1,
+      "specification_market": "Architecture reference HK2 B109 as driven in Chicane Magazine 4/2011, not a claim of unchanged factory condition. The article covers a modern electric steering conversion and corrected alignment: neither is original equipment or unmodified factory handling. Its 390-pk/5500-rpm, approximate speed/weight and production figures are not imported. 1962 identifies the start of the stated 1962–1964 model range, not a verified build year for B109. Other engines, transmissions and years add no counts.",
+      "summary": "The Facel II is a significant French-American performance GT, combining Chrysler V8 power with a distinctive low French coupe body. First-hand road driving documents forceful acceleration and sustained touring ability. Its place in postwar GT history supports one original family entry; rarity, luxury and a fastest-coupe slogan do not establish admission by themselves.",
+      "admission_reason": "The Facel II is a significant French-American performance GT, combining Chrysler V8 power with a distinctive low French coupe body. First-hand road driving documents forceful acceleration and sustained touring ability. Its place in postwar GT history supports one original family entry; rarity, luxury and a fastest-coupe slogan do not establish admission by themselves.",
+      "sources": [
+        {
+          "publisher": "Chicane Magazine / Michiel Mulder and Peter Dielissen; facsimile hosted by EZ Power Steering",
+          "title": "Easy powered Facel II — Chicane Magazine 4/2011, pages 40–47, HK2 B109",
+          "source_type": "First-hand road and steering-conversion feature",
+          "url": "https://www.ezpowersteering.nl/wp-content/uploads/2023/10/CHICANE-MAGAZINE-NL.pdf",
+          "notes": "Architecture reference HK2 B109 as driven in Chicane Magazine 4/2011, not a claim of unchanged factory condition. The article covers a modern electric steering conversion and corrected alignment: neither is original equipment or unmodified factory handling. Its 390-pk/5500-rpm, approximate speed/weight and production figures are not imported. 1962 identifies the start of the stated 1962–1964 model range, not a verified build year for B109. Other engines, transmissions and years add no counts."
+        },
+        {
+          "publisher": "Amicale Facel Véga",
+          "title": "Production Facel II / type HK2",
+          "source_type": "Primary marque archive model history",
+          "url": "https://www.amicale-facel-vega.fr/production-facel-vega/facel-ii/",
+          "notes": "Marque archive confirms the HK2 model and October 1961 Paris introduction. Its differing power/displacement figures and absolute fastest-coupe claim are not adopted as the selected road-car tune."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Facel Vega Facel II LC23.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Facel_Vega_Facel_II_LC23.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chrysler V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6270",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front suspension; live rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Facel II is a significant French-American performance GT, combining Chrysler V8 power with a distinctive low French coupe body. First-hand road driving documents forceful acceleration and sustained touring ability. Its place in postwar GT history supports one original family entry; rarity, luxury and a fastest-coupe slogan do not establish admission by themselves.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        },
+        {
+          "title": "HK2 identity",
+          "explanation": "The Amicale identifies the Facel II as type HK2, presented at Paris in October 1961 as the successor to the earlier FV/HK500 line. That model identity is distinct from the separately described modern steering work on the road-feature car.",
+          "category": "Model history",
+          "confidence": "Marque archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fac_ii_hk2b109_manual_roadref.jpg",
+          "caption": "Facel Vega Facel II photographed by MrWalkr at London Concours 2023, file-identified as a 1963 car. Representative original-family coupe body, not the silver HK2 B109 road-feature car; the image does not establish its engine, gearbox, steering conversion or originality.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "831a24ea803d315a59ac00283457b2a7e37a5eb465a0919e14441c26ad572a1e"
+        }
+      ]
+    },
+    {
+      "id": "MG-XPOWER-SV-46-LAUNCH2003",
+      "manufacturer": "MG",
+      "model_family": "XPower SV",
+      "generation": "Original XPower SV / SV-R production-road sports-coupe family",
+      "variant": "Entry-level 4.6 V8 five-speed manual — 29 October 2003 launch specification",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "29 October 2003 manufacturer launch release, initial entry-level manual SV specification. Retains native 320 hp SAE and 410 Nm without adopting the inconsistent 230 kW conversion. Estimated acceleration/speed and inconsistent mph/km/h pairs, 765-hp Bonneville proposal, 2002 X80 show-car figures, later SV-R 5.0 engine, automatic and post-administration upgrades are excluded. One original SV/SV-R family; no extra trim, engine or completion-year counts.",
+      "summary": "The XPower SV was MG’s ambitious carbon-bodied V8 flagship, pairing a steel box frame and integrated rollover structure with a rear-drive sports-car layout. Its engineering and distinctive place in MG’s performance history justify one original family entry. A long-term SV-R road test records involving handling and braking alongside substantial finish and reliability shortcomings, rather than establishing merit through rarity alone.",
+      "admission_reason": "The XPower SV was MG’s ambitious carbon-bodied V8 flagship, pairing a steel box frame and integrated rollover structure with a rear-drive sports-car layout. Its engineering and distinctive place in MG’s performance history justify one original family entry. A long-term SV-R road test records involving handling and braking alongside substantial finish and reliability shortcomings, rather than establishing merit through rarity alone.",
+      "sources": [
+        {
+          "publisher": "MG Sport & Racing; release hosted by MG-Cars.org.uk",
+          "title": "MG XPower SV high performance sports car on sale from November 1, 2003 — release dated 29 October 2003",
+          "source_type": "Original manufacturer launch release, independently hosted",
+          "url": "https://www.mg-cars.org.uk/news/news872.html",
+          "notes": "29 October 2003 manufacturer launch release, initial entry-level manual SV specification. Retains native 320 hp SAE and 410 Nm without adopting the inconsistent 230 kW conversion. Estimated acceleration/speed and inconsistent mph/km/h pairs, 765-hp Bonneville proposal, 2002 X80 show-car figures, later SV-R 5.0 engine, automatic and post-administration upgrades are excluded. One original SV/SV-R family; no extra trim, engine or completion-year counts."
+        },
+        {
+          "publisher": "evo / Peter Tomalin",
+          "title": "MG SV-R — long-term test conclusion, 30 August 2005",
+          "source_type": "First-hand long-term road test",
+          "url": "https://www.evo.co.uk/carreviews/evolongtermtests/59513/mg_svr.html",
+          "notes": "Actual long-term account of BX54 BBV supports family driving character and records substantial faults. The tested 5.0-litre SV-R differs from the selected 4.6-litre launch SV: its engine, trim, running costs and performance do not transfer."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 MG XPower SV HCC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_MG_XPower_SV_HCC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "All-aluminium V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Tremec five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "BTR limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel box frame with integrated roll cage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Carbon-fibre body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double wishbones and coil springs, front and rear; 25 mm anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo four-piston calipers; ventilated cross-drilled discs, 324 mm front / 310 mm rear; Bosch 5.7 ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published power, SAE",
+          "value": "320",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "410",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4750",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The XPower SV was MG’s ambitious carbon-bodied V8 flagship, pairing a steel box frame and integrated rollover structure with a rear-drive sports-car layout. Its engineering and distinctive place in MG’s performance history justify one original family entry. A long-term SV-R road test records involving handling and braking alongside substantial finish and reliability shortcomings, rather than establishing merit through rarity alone.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mg_xpower_sv_46_launch2003.jpg",
+          "caption": "MG XPower SV photographed by MrWalkr at Hampton Court Concours 2024, file-identified as a 2004 car. Representative SV-family road body; exterior appearance does not certify the 2003 launch car, 4.6-litre engine, original tune or unchanged equipment.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "64ae87098d9c127e2986fcef14dddf7ccb68754abdc48733a7d83a8897ff9be9"
+        }
+      ]
+    }
+  ]
+}
