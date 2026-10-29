@@ -4292,7 +4292,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 777-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-53.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "generation": "Sixth-generation G80 sporting-road saloon family",
+      "proposed_record": "BMW-M3-G80-MT2021",
+      "reason": "The G80 continues the M3’s defining performance-saloon lineage with a new twin-turbo six, track-developed chassis and a retained six-speed manual. It represents the next substantive M3 generation after the archived F80, rather than an extra Competition grade or cosmetic package.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0316649EN/the-new-bmw-m3-sedan-and-bmw-m3-competition-sedan-the-new-bmw-m4-coup%C3%A9-and-bmw-m4-competition-coup%C3%A9?language=en",
+      "duplicate_review": "Absent model/generation checked against the complete 780-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-54.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Civic Type R",
+      "generation": "Eleventh-generation Civic / FL5 Type R sporting-road family",
+      "proposed_record": "HON-CIVIC-FL5-JP2022",
+      "reason": "The FL5 carries the Civic Type R’s established enthusiast identity into a new road generation, retaining manual front-wheel drive and dedicated chassis, cooling and aerodynamic development. Honda’s engineers describe a deliberate continuation of the Type R sports-car programme, rather than an appearance-only Civic grade.",
+      "evidence": "https://global.honda/en/stories/048.html",
+      "duplicate_review": "Absent model/generation checked against the complete 780-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-54.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Fairlady Z",
+      "generation": "Seventh-generation Z / RZ34 sporting-road family",
+      "proposed_record": "NIS-Z-RZ34-US2023-PERFMT",
+      "reason": "The seventh-generation Z renews a defining Japanese sports-car lineage with a twin-turbo V6, manual transmission and rear-wheel-drive chassis. Its Performance specification combines a mechanical limited-slip differential and dedicated brakes with heritage-led design, representing a substantive successor to the archived 370Z rather than a cosmetic edition.",
+      "evidence": "https://usa.nissannews.com/en-US/releases/2023-nissan-z-press-kit",
+      "duplicate_review": "Absent model/generation checked against the complete 780-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-54.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Fairlady Z",
+      "generation": "Second-generation S130 / Datsun 280ZX sporting-GT road family",
+      "proposed_record": "NIS-Z-S130-HS130-MUSEUM1982",
+      "reason": "The S130 is a foundational Z-car grand-tourer, carrying the original sports-car identity into a distinct second generation. Nissan’s preserved two-seater documents Japan’s first T-top offering, an important open-roof engineering development in the Z’s lasting international sporting-GT story.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/464_fairlady_280z_t_2_seater_t_top.html",
+      "duplicate_review": "Absent model/generation checked against the complete 780-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-54.json"
     }
   ],
-  "catalogue_count_after_batches": 780
+  "catalogue_count_after_batches": 784
 }

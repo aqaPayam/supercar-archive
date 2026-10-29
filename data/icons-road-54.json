@@ -1,0 +1,535 @@
+{
+  "batch": "icons-road-2026-10-29-54",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "BMW-M3-G80-MT2021",
+      "manufacturer": "BMW",
+      "model_family": "M3",
+      "generation": "Sixth-generation G80 sporting-road saloon family",
+      "variant": "Original 353-kW six-speed manual — March 2021 international launch",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "September 2020 announcement for March 2021 market introduction. Select the original international manual saloon, not the UK-only Competition offering, 375-kW automatic, later M xDrive, Touring, CS or facelift. The combined release’s maximum torque is not assigned to this base tune. Ceramic brakes and carbon bucket seats remain optional. One G80 family is counted.",
+      "summary": "The G80 continues the M3’s defining performance-saloon lineage with a new twin-turbo six, track-developed chassis and a retained six-speed manual. It represents the next substantive M3 generation after the archived F80, rather than an extra Competition grade or cosmetic package.",
+      "admission_reason": "The G80 continues the M3’s defining performance-saloon lineage with a new twin-turbo six, track-developed chassis and a retained six-speed manual. It represents the next substantive M3 generation after the archived F80, rather than an extra Competition grade or cosmetic package.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "New BMW M3 Sedan — original G80 international launch press kit, 23 September 2020",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0316649EN/the-new-bmw-m3-sedan-and-bmw-m3-competition-sedan-the-new-bmw-m4-coup%C3%A9-and-bmw-m4-competition-coup%C3%A9?language=en",
+          "notes": "September 2020 announcement for March 2021 market introduction. Select the original international manual saloon, not the UK-only Competition offering, 375-kW automatic, later M xDrive, Touring, CS or facelift. The combined release’s maximum torque is not assigned to this base tune. Ceramic brakes and carbon bucket seats remain optional. One G80 family is counted."
+        },
+        {
+          "publisher": "Motor Sport / Andrew Frankel",
+          "title": "2021 BMW M3 review: Prestigious Competition? — May 2021 first-hand test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.motorsportmagazine.com/archive/article/may-2021/26/prestigious-competition/",
+          "notes": "First-hand UK Competition test supports the M3’s continuing cultural importance and new-generation identity, while criticising size, weight and automatic shift response. It is not an unqualified endorsement and does not supply the selected international manual car’s technical figures."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M3 (G80) China.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M3_(G80)_China.jpg",
+          "notes": "Dinkun Chen; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "353",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with Gear Shift Assistant",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Adaptive M suspension with electronically controlled dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Standard M Compound brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Carbon-fibre roof",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The G80 continues the M3’s defining performance-saloon lineage with a new twin-turbo six, track-developed chassis and a retained six-speed manual. It represents the next substantive M3 generation after the archived F80, rather than an extra Competition grade or cosmetic package.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m3_g80_mt2021.jpg",
+          "caption": "G80 BMW M3 photographed in China by Dinkun Chen. This representative saloon image does not establish the selected international six-speed manual, original launch tune, exact year or optional equipment; later Competition, xDrive and styling developments are not inferred as standard March 2021 specification.",
+          "creator": "Dinkun Chen",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7a6e8393f0ce4d6c796f65d073f8da456127f20555d70ba5a8a6addfe32a3992"
+        }
+      ]
+    },
+    {
+      "id": "HON-CIVIC-FL5-JP2022",
+      "manufacturer": "Honda",
+      "model_family": "Civic Type R",
+      "generation": "Eleventh-generation Civic / FL5 Type R sporting-road family",
+      "variant": "Type R — September 2022 Japan six-speed manual launch reference",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Honda’s 1 September 2022 Japanese announcement for sale on 2 September. Preserve the native Japan-market kW and Nm figures. No US horsepower, European tune, unprinted exact displacement, power-peak rpm or lap time is inferred. Track-test tyre options, lightweight record-car differences and later packages are not promoted to this launch car. One FL5 generation is counted.",
+      "summary": "The FL5 carries the Civic Type R’s established enthusiast identity into a new road generation, retaining manual front-wheel drive and dedicated chassis, cooling and aerodynamic development. Honda’s engineers describe a deliberate continuation of the Type R sports-car programme, rather than an appearance-only Civic grade.",
+      "admission_reason": "The FL5 carries the Civic Type R’s established enthusiast identity into a new road generation, retaining manual front-wheel drive and dedicated chassis, cooling and aerodynamic development. Honda’s engineers describe a deliberate continuation of the Type R sports-car programme, rather than an appearance-only Civic grade.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "New Civic Type R — Japan launch release, 1 September 2022",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://global.honda/jp/news/2022/4220901-civic.html",
+          "notes": "Honda’s 1 September 2022 Japanese announcement for sale on 2 September. Preserve the native Japan-market kW and Nm figures. No US horsepower, European tune, unprinted exact displacement, power-peak rpm or lap time is inferred. Track-test tyre options, lightweight record-car differences and later packages are not promoted to this launch car. One FL5 generation is counted."
+        },
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "Celebrating 30 years of Honda Type R — engineers on the FL5 programme",
+          "source_type": "Manufacturer first-hand engineering history",
+          "url": "https://global.honda/en/stories/048.html",
+          "notes": "First-hand engineering interview identifies FL5 as the next Type R development after FK8 and explains its sporting purpose and enthusiast continuity. It does not supply alternative-market technical figures or a universal lap-record claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda Civic Type R (FL5) Washington DC Metro Area, USA.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_(FL5)_Washington_DC_Metro_Area,_USA.jpg",
+          "notes": "OWS Photography; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "VTEC TURBO",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "243",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "420",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory co-developed Michelin tyre section width",
+          "value": "265",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FL5 carries the Civic Type R’s established enthusiast identity into a new road generation, retaining manual front-wheel drive and dedicated chassis, cooling and aerodynamic development. Honda’s engineers describe a deliberate continuation of the Type R sports-car programme, rather than an appearance-only Civic grade.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_civic_fl5_jp2022.jpg",
+          "caption": "Honda Civic Type R FL5 photographed in the Washington DC area by OWS Photography. This US-market representative illustrates the generation; it is not proof of the Japan launch car’s output, local equipment or a particular record-setting test configuration.",
+          "creator": "OWS Photography",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8e6df03fa7dc66ffb83b895691f314958a1224852e928b33b0346c428bb9b7b9"
+        }
+      ]
+    },
+    {
+      "id": "NIS-Z-RZ34-US2023-PERFMT",
+      "manufacturer": "Nissan",
+      "model_family": "Fairlady Z",
+      "generation": "Seventh-generation Z / RZ34 sporting-road family",
+      "variant": "Z Performance — 2023 USA six-speed manual reference",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat sporting coupe",
+      "road_legal": 1,
+      "specification_market": "2023 USA Performance manual road reference. Preserve native hp and lb-ft; the release’s torque band is 1600–5200 rpm. Its V6/24-valve description establishes four valves per cylinder. Performance equipment is not universal on Sport; Proto Spec colour/trim and the automatic do not create new records. Seventh generation is Nissan’s designation, not a claim that every platform component is clean-sheet. No Nismo tune is transferred.",
+      "summary": "The seventh-generation Z renews a defining Japanese sports-car lineage with a twin-turbo V6, manual transmission and rear-wheel-drive chassis. Its Performance specification combines a mechanical limited-slip differential and dedicated brakes with heritage-led design, representing a substantive successor to the archived 370Z rather than a cosmetic edition.",
+      "admission_reason": "The seventh-generation Z renews a defining Japanese sports-car lineage with a twin-turbo V6, manual transmission and rear-wheel-drive chassis. Its Performance specification combines a mechanical limited-slip differential and dedicated brakes with heritage-led design, representing a substantive successor to the archived 370Z rather than a cosmetic edition.",
+      "sources": [
+        {
+          "publisher": "Nissan USA",
+          "title": "2023 Nissan Z — USA factory press kit and specifications",
+          "source_type": "Manufacturer model-year press kit / specifications",
+          "url": "https://usa.nissannews.com/en-US/releases/2023-nissan-z-press-kit",
+          "notes": "2023 USA Performance manual road reference. Preserve native hp and lb-ft; the release’s torque band is 1600–5200 rpm. Its V6/24-valve description establishes four valves per cylinder. Performance equipment is not universal on Sport; Proto Spec colour/trim and the automatic do not create new records. Seventh generation is Nissan’s designation, not a claim that every platform component is clean-sheet. No Nismo tune is transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan Z (RZ34) Washington DC Metro Area, USA.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_Z_(RZ34)_Washington_DC_Metro_Area,_USA.jpg",
+          "notes": "OWS Photography; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "VR30DDTT V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed close-ratio manual with EXEDY high-performance clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Performance-grade mechanical clutch-type limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; multi-link rear; monotube dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Performance Nissan Sport Brakes; 14.0-inch front and 13.8-inch rear rotors; four-piston front and two-piston rear calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "USA factory quoted output",
+          "value": "400",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "USA factory quoted torque",
+          "value": "350",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The seventh-generation Z renews a defining Japanese sports-car lineage with a twin-turbo V6, manual transmission and rear-wheel-drive chassis. Its Performance specification combines a mechanical limited-slip differential and dedicated brakes with heritage-led design, representing a substantive successor to the archived 370Z rather than a cosmetic edition.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_z_rz34_us2023_perfmt.jpg",
+          "caption": "Nissan Z RZ34 photographed in the Washington DC area by OWS Photography. This representative US coupe does not certify its transmission, Performance-grade differential or brake equipment, model year or untouched condition; it is not used as Nismo technical evidence.",
+          "creator": "OWS Photography",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ec9d61510ad45edcecf03ba6251c6b9254237fee613537d27cfd8c052594f934"
+        }
+      ]
+    },
+    {
+      "id": "NIS-Z-S130-HS130-MUSEUM1982",
+      "manufacturer": "Nissan",
+      "model_family": "Fairlady Z",
+      "generation": "Second-generation S130 / Datsun 280ZX sporting-GT road family",
+      "variant": "Fairlady 280Z-T two-seat T-top — 1982 HS130 heritage reference",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat T-top sporting GT",
+      "road_legal": 1,
+      "specification_market": "Manufacturer’s own 1982 HS130 two-seater. The page dates S130’s full-model change to 1978 and identifies the overseas 280ZX name. T denotes the T-top here, not a turbo: L28E is not L28ET. No US emissions tune, turbo output, 2+2 body or unlisted transmission is inferred. The first-T-top statement refers to Japan and this programme. One S130 family is counted.",
+      "summary": "The S130 is a foundational Z-car grand-tourer, carrying the original sports-car identity into a distinct second generation. Nissan’s preserved two-seater documents Japan’s first T-top offering, an important open-roof engineering development in the Z’s lasting international sporting-GT story.",
+      "admission_reason": "The S130 is a foundational Z-car grand-tourer, carrying the original sports-car identity into a distinct second generation. Nissan’s preserved two-seater documents Japan’s first T-top offering, an important open-roof engineering development in the Z’s lasting international sporting-GT story.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Co., Ltd.",
+          "title": "Nissan Heritage Collection No.464 — 1982 Fairlady 280Z-T, HS130 two-seater",
+          "source_type": "Manufacturer heritage collection catalogue / specifications",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/464_fairlady_280z_t_2_seater_t_top.html",
+          "notes": "Manufacturer’s own 1982 HS130 two-seater. The page dates S130’s full-model change to 1978 and identifies the overseas 280ZX name. T denotes the T-top here, not a turbo: L28E is not L28ET. No US emissions tune, turbo output, 2+2 body or unlisted transmission is inferred. The first-T-top statement refers to Japan and this programme. One S130 family is counted."
+        },
+        {
+          "publisher": "Car and Driver / Don Sherman",
+          "title": "Datsun 280ZX Skyroof — April 1980 first-hand road test",
+          "source_type": "Contemporary first-hand road test, archive republication",
+          "url": "https://www.caranddriver.com/reviews/a61712256/1980-datsun-280-zx-skyroof-archive-test/",
+          "notes": "Period test describes a comfortable GT with capable cornering and improved braking, while noting manual drivability shortcomings. Its US test figures and equipment are not transferred to the 1982 Japan collection reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1978-83 Nissan(Datsun) 280ZX front NYIAS 2019.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1978-83_Nissan(Datsun)_280ZX_front_NYIAS_2019.jpg",
+          "notes": "Kevauto; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "L28E inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2753",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "114",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "230",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts; rear independent semi-trailing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front ventilated discs; rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/70HR14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "T-top removable roof panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S130 is a foundational Z-car grand-tourer, carrying the original sports-car identity into a distinct second generation. Nissan’s preserved two-seater documents Japan’s first T-top offering, an important open-roof engineering development in the Z’s lasting international sporting-GT story.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_z_s130_hs130_museum1982.jpg",
+          "caption": "S130 Datsun/Nissan 280ZX at the 2019 New York International Auto Show, photographed by Kevauto. This representative two-seat family image has different colour and wheels from the Japanese heritage reference; it does not establish the HS130 car’s engine, transmission, T-top equipment or exact build year.",
+          "creator": "Kevauto",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a23c94f60be82686801b8ca2df448df570ef87910e140e5ebb3b4971b3ecbd76"
+        }
+      ]
+    }
+  ]
+}

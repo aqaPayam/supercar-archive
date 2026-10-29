@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 780 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 784 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 53 reviewed road-icon manifests contain 385 distinct identifiers. Subtracting
+The 54 reviewed road-icon manifests contain 389 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 780 count must not be presented as 780 proven qualifying icons.
+The raw 784 count must not be presented as 784 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -171,6 +171,45 @@ queued together for semantic counting once the owner sets the variant boundary;
 11 road flags alone do not certify 11 distinct qualifying generations. No new
 qualified count, duplicate deletion, technical correction or full family/media
 certification is asserted by this review.
+
+## Identity and technical spot-check: S30 Z432 and 240ZG
+
+The 784-record catalogue contains eight Fairlady Z profiles. A provisional
+series-code grouping places them in seven groups, with two S30 road references.
+That is an audit aid, not certification of seven fully reviewed qualifying cars.
+
+| Stored series group | Preserved record(s) |
+| --- | --- |
+| S30 | `NIS-Z-PS30-432-JP`; `NIS-Z-HS30-240ZG-JP` |
+| S130 | `NIS-Z-S130-HS130-MUSEUM1982` |
+| Z31 | `NIS-300ZX-Z31-US1986` |
+| Z32 | `NIS-Z-GCZ32-TT-JP` |
+| Z33 | `NIS-Z-Z33-ST-JP` |
+| Z34 | `NIS-370Z-US2009-SPORTMT` |
+| RZ34 | `NIS-Z-RZ34-US2023-PERFMT` |
+
+The [manufacturer's Z432 catalogue](https://www.nissan-global.com/EN/HERITAGE_COLLECTION/fairlady_z_432.html)
+identifies the first-generation S30 and its high-performance S20-powered Z432.
+The [240ZG catalogue](https://www.nissan-global.com/EN/HERITAGE_COLLECTION/340_fairlady_240zg.html)
+describes the L24-powered model as a variation in the 240Z range, with the
+extended FRP nose and associated bodywork. PS30 and HS30 identify different
+engine/body specifications within the original family; they do not establish
+two independent generations. Both are substantive sporting references, so their
+separate counting remains an owner-boundary question rather than a deletion.
+
+For these two preserved profiles, all 12 stored technical fields were checked
+against the full collection tables: suspension, brakes, tyres, length, width,
+height, wheelbase, curb weight, engine description, kW value, native power
+notation and native torque notation. They match the respective tables. The
+1969 and 1972 collection-reference years are also confirmed. All 15 attributes
+per profile, including the three identity fields, map to the respective Nissan
+Heritage source. No race-only figures or later engine are required to explain
+the differences. All existing database rows remain unchanged.
+
+This is a bounded specification and identity spot-check. It does not audit all
+facts, media, licence histories, restored-car condition or other Z profiles.
+The seven-code mapping still needs complete per-generation evidence review;
+raw rows and source strings alone do not settle the final qualifying count.
 
 ## Outstanding decisions and evidence
 
