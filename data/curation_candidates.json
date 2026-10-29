@@ -3104,7 +3104,106 @@
       "duplicate_review": "Absent model/generation checked against the complete 665-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-35.json"
+    },
+    {
+      "manufacturer": "Abarth",
+      "model": "595",
+      "generation": "Original Fiat 500 D-based Abarth 595 road family",
+      "proposed_record": "ABA-595-ORIGINAL1963",
+      "reason": "The original 595 established Abarth’s small-car performance identity through increased capacity, revised engine internals and a distinctive sports exhaust. The Fiat 500-based sporting car became a lasting emblem of the marque.",
+      "evidence": "https://www.stellantisheritage.com/en-uk/heritage/news/the-story-of-the-abarth-595",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Abarth",
+      "model": "500",
+      "generation": "Original modern Type 312 Abarth 500 performance hatchback generation",
+      "proposed_record": "ABA-500-EU2008-135",
+      "reason": "The modern Abarth 500 revived the marque’s tiny performance-car formula with a turbocharged engine and a coordinated brake and chassis package. It made the Scorpion’s sporting identity part of the reborn 500 generation.",
+      "evidence": "https://www.media.stellantis.com/uk-en/abarth/press/new-500-abarth-debuts-at-geneva",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Eunos Cosmo",
+      "generation": "Fourth-generation JC Cosmo three-rotor road coupe family",
+      "proposed_record": "MAZ-EUNOS-COSMO-20B1990",
+      "reason": "Mazda’s production three-rotor flagship combined sequential turbocharging with a luxurious road coupe. The Eunos Cosmo represents a distinctive engineering branch of the rotary sports-car story, separate from the earlier two-rotor Cosmo Sport.",
+      "evidence": "https://filecache.mediaroom.com/mr5mr_mazdaca/210703/download/Mazda_Rotary%20Press_Information%202017.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "generation": "Fifth-generation EG original Japan DOHC VTEC performance hatchback",
+      "proposed_record": "HON-CIVIC-EG6-SIRII-JP1991",
+      "reason": "The EG Civic SiR II carries Honda’s high-revving VTEC hot-hatch identity into a distinct Civic generation. Its naturally aspirated B16A and double-wishbone suspension combine accessible compact-car packaging with purposeful sports engineering.",
+      "evidence": "https://www.honda.co.jp/factbook/auto/CIVIC/19910910/cv91-013.html",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "147",
+      "generation": "Original type937 147 GTA road-performance hatchback family",
+      "proposed_record": "ALF-147-GTA-UK2003-MT",
+      "reason": "The 147 GTA put Alfa’s large naturally aspirated V6 into its compact hatchback, backed by reinforced transmission and dedicated chassis development. It is a distinctive road expression of the revived GTA performance name.",
+      "evidence": "https://www.media.stellantis.com/uk-en/alfa-romeo/press/alfa-romeo-147-gta-in-uk",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "GTV",
+      "generation": "Type 916 modern GTV coupe road family",
+      "proposed_record": "ALF-GTV-916-V6-1999",
+      "reason": "The modern GTV carried Alfa’s V6 performance into a distinctive new coupe generation. Its selected three-litre version paired the 24-valve engine with a six-speed transmission and a standard aerodynamic package.",
+      "evidence": "https://www.media.stellantis.com/em-en/alfa-romeo/press/69th-geneva-motor-show-alfa-spider-and-gtv",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Fiat",
+      "model": "Coupé",
+      "generation": "Original Type 175 Fiat sports-coupe road family",
+      "proposed_record": "FIA-COUPE-20VT-PLUS1999",
+      "reason": "The Coupé gave Fiat a distinctive performance flagship, combining bold styling with turbocharged road performance. The selected Turbo Plus adds a six-speed transmission and coordinated body, seat and chassis-bracing equipment.",
+      "evidence": "https://www.media.stellantis.com/em-en/fiat/press/fiat-at-the-58th-frankfurt-international-motor-show",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "generation": "Second-generation Type 19 Mk2 GTI sixteen-valve road family",
+      "proposed_record": "VW-GOLF-GTI-MK2-16V-SWE",
+      "reason": "The Mk2 GTI advanced the original hot-hatch formula with a sixteen-valve engine, uprated suspension and all-round disc brakes. It represents a defining stage in the development of the GTI.",
+      "evidence": "https://www.gtiklubben.nu/ovrigt/broschyrer/Golf_86_gti_16v.PDF",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 3",
+      "generation": "First-generation Type 8P RS 3 Sportback road series",
+      "proposed_record": "AUD-RS3-8P-EU2011",
+      "reason": "The first RS 3 brought Audi’s five-cylinder RS formula to the compact hatchback class. Its turbo engine, dual-clutch transmission and all-wheel drive established a distinct RS model line.",
+      "evidence": "https://www.ultimatecarpage.com/car/4654/Audi-RS-3-Sportback.html",
+      "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-36.json"
     }
   ],
-  "catalogue_count_after_batches": 672
+  "catalogue_count_after_batches": 681
 }
