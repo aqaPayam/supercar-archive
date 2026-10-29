@@ -3203,7 +3203,84 @@
       "duplicate_review": "Absent model/generation checked against the complete 672-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-36.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Stagea",
+      "generation": "First-generation WC34 Autech 260RS performance-wagon road family",
+      "proposed_record": "NIS-STAGEA-260RS-JP1998",
+      "reason": "The Stagea 260RS brought the RB26DETT engine and a coordinated all-wheel-drive, brake and chassis package to a production estate. Autech’s own history records the enduring following of this distinctive performance wagon.",
+      "evidence": "https://www.autech.co.jp/sp/company/30th/history/index2.html",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "March",
+      "generation": "First-generation K10 Super Turbo production-road family",
+      "proposed_record": "NIS-MARCH-SUPERTURBO-EK10-1990",
+      "reason": "The March Super Turbo combined supercharging and turbocharging in a tiny production hatchback. Nissan identifies it as the road-car development of the March R, making it a distinctive compact performance and rally-derived engineering icon.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/433_march_super_turbo.html",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "CR-X",
+      "generation": "First-generation AS Ballade Sports CR-X DOHC road family",
+      "proposed_record": "HON-CRX-AS-SI-1987",
+      "reason": "The original Ballade Sports CR-X established Honda’s lightweight front-drive sports-coupe formula. Its compact body and later ZC twin-cam Si engine represent the first generation of an enduring Honda performance name.",
+      "evidence": "https://www.honda.co.jp/factbook/auto/BALLADE/19830623/br83-010.html",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Suzuki",
+      "model": "Alto Works",
+      "generation": "First-generation CA72V/CC72V Works performance-road family",
+      "proposed_record": "SUZ-ALTO-WORKS-CC72-RSR1987",
+      "reason": "The first Alto Works established Suzuki’s Works kei-performance lineage with a twin-cam intercooled turbo engine. The RS-R paired its 64-PS engine with full-time four-wheel drive, creating a landmark miniature hot hatch.",
+      "evidence": "https://www.suzuki.co.jp/suzuki_digital_library/1_auto/altoworks.html",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "CR-X del Sol",
+      "generation": "Third-generation EG2 CR-X removable-roof road family",
+      "proposed_record": "HON-CRX-DELSOL-EG2-SIR-MT",
+      "reason": "The del Sol reinterpreted the CR-X as a two-seat removable-roof sports car. Its high-revving B16A VTEC SiR and double-wishbone chassis make this a distinct open-roof generation of Honda’s compact sports lineage.",
+      "evidence": "https://www.honda.co.jp/auto-archive/cr-x/1999/sir_sy.html",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Celica",
+      "generation": "Seventh-generation T230 naturally aspirated performance-coupe road family",
+      "proposed_record": "TOY-CELICA-T23-SSII-JP1999",
+      "reason": "The seventh Celica pursued lightweight, high-revving naturally aspirated sports-coupe engineering. Its SS-II combined the 2ZZ-GE VVTL-i engine with a six-speed manual, representing a distinct final Celica generation rather than another GT-Four tune.",
+      "evidence": "https://global.toyota/en/detail/8081196",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Luce Rotary Coupe",
+      "generation": "Original R130 front-wheel-drive rotary-coupe production family",
+      "proposed_record": "MAZ-LUCE-R130-13A-1969",
+      "reason": "The Luce R130 represents a distinctive branch of Mazda’s rotary grand-touring history: an Italian-styled front-wheel-drive coupe with the dedicated 13A twin-rotor engine. It is separate from both the Cosmo sports cars and later rear-drive Luce/RX-4.",
+      "evidence": "https://filecache.mediaroom.com/mr5mr_mazdaca/210703/download/Mazda_Rotary%20Press_Information%202017.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 681-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-37.json"
     }
   ],
-  "catalogue_count_after_batches": 681
+  "catalogue_count_after_batches": 688
 }
