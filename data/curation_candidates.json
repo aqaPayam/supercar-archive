@@ -5117,7 +5117,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 853-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-76.json"
+    },
+    {
+      "manufacturer": "AMC",
+      "model": "Rebel",
+      "generation": "Original 1967–1970 AMC Rebel production-road family",
+      "proposed_record": "AMC-REBEL-MACHINE-390-TEST1970",
+      "reason": "The Machine captures AMC’s distinctive contribution to the American muscle-car era: a dedicated 390 V8 road package with revised induction/exhaust, a functional fresh-air hood and upgraded chassis equipment. Its historical sporting identity earns one original Rebel family entry. The contemporary test’s excellent-brake assessment is retained alongside criticism of handling, shift quality and presentation; period significance does not imply flawless execution.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2026/04/1970-02-HR-1970-Rebel-Machine-Intro-and-Test-1-2.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 855-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-77.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Dart",
+      "generation": "Fourth-generation 1967–1976 US Dart production-road family",
+      "proposed_record": "DOD-DART-GTS340-AUTO-TEST1968",
+      "reason": "The Dart GTS established a potent compact-muscle formula around Chrysler’s 340 V8, with strong straight-line performance and capable road manners in a smaller package. A contemporary extended test praised its handling and braking while identifying fuel-starvation and seating faults. One original US Dart family is admitted for that sporting identity; big-block options, Swinger names, Hemi competition cars and paint do not add counts.",
+      "evidence": "https://over-drive-magazine.com/wp-content/uploads/2024/11/1968-04-HR-Dart-GTS-340-Test-1-3A.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 855-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-77.json"
     }
   ],
-  "catalogue_count_after_batches": 855
+  "catalogue_count_after_batches": 857
 }

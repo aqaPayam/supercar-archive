@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Seventy-six reviewed road-icon batches add 460 cars
-to the 395-record baseline, bringing the working catalogue to 855 records.
-The latest [Ford Talladega and Hurst SC/Rambler batch](docs/icons-road-76.md)
+evidence and licensed photograph. Seventy-seven reviewed road-icon batches add 462 cars
+to the 395-record baseline, bringing the working catalogue to 857 records.
+The latest [AMC Rebel Machine and Dodge Dart GTS batch](docs/icons-road-77.md)
 adds two absent original performance-road families, following the
-[Studebaker Golden Hawk and Avanti batch](docs/icons-road-75.md). Individual reviews and
+[Ford Talladega and Hurst SC/Rambler batch](docs/icons-road-76.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
