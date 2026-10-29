@@ -2489,7 +2489,51 @@
       "duplicate_review": "Absent model/generation checked against the complete 613-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-24.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Civic Type R",
+      "generation": "FK2 ninth-generation European road hatchback",
+      "proposed_record": "HON-CIVIC-FK2-EU2015",
+      "reason": "The FK2 Civic Type R opened the turbocharged chapter of Honda’s Type R road hatchback with a direct-injected VTEC engine, a driver-operated six-speed gearbox and helical limited-slip differential. Its Dual Axis Strut front suspension and adaptive damping formed an integrated front-drive performance chassis, making this distinct generation an important Japanese performance-engineering reference.",
+      "evidence": "https://hondanews.eu/eu/fi/cars/media/pressreleases/55296/2015-honda-civic-type-r",
+      "duplicate_review": "Absent model/generation checked against the complete 617-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-25.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "generation": "Evolution X / CZ4A original road generation",
+      "proposed_record": "MIT-EVOX-GSR-JP2007-MT",
+      "reason": "The Evolution X introduced an all-new platform and aluminium-block 4B11 turbo engine to Mitsubishi’s rally-derived road-sedan lineage. Its GSR integrated active centre differential, active yaw control, stability control and sports ABS through S-AWC, making the original manual road car a distinct engineering landmark within the Evolution family.",
+      "evidence": "https://www.zercustoms.com/news/Lancer-Evolution-X.html",
+      "duplicate_review": "Absent model/generation checked against the complete 617-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-25.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Impreza WRX STI",
+      "generation": "GRB original five-door road generation",
+      "proposed_record": "SUB-WRXSTI-GRB-JP2007",
+      "reason": "The original GRB transformed Subaru’s WRX STI into a purpose-developed five-door sports hatchback with a wider chassis and new double-wishbone rear suspension. Its twin-scroll turbo boxer engine, six-speed manual and multi-mode driver-controlled centre differential carried the STI performance lineage into a distinct body and chassis generation.",
+      "evidence": "https://www.subaru.co.jp/en/news/archives/press/2007/07_10_24e.html",
+      "duplicate_review": "Absent model/generation checked against the complete 617-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-25.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "WRX STI",
+      "generation": "VA / VAB original standalone road sedan generation",
+      "proposed_record": "SUB-WRXSTI-VA-JP2014",
+      "reason": "The VA WRX STI established Subaru’s performance sedan as a standalone WRX generation with a reinforced body, revised suspension and steering, and Active Torque Vectoring. It retained the turbocharged boxer, reinforced six-speed manual and multi-mode DCCD all-wheel-drive system, giving the STI lineage a substantially renewed road chassis rather than a cosmetic revision of the earlier Impreza.",
+      "evidence": "https://www.subaru.co.jp/en/news/archives/press/2014/14_08_25e_102443.html",
+      "duplicate_review": "Absent model/generation checked against the complete 617-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-25.json"
     }
   ],
-  "catalogue_count_after_batches": 617
+  "catalogue_count_after_batches": 621
 }

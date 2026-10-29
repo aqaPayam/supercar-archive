@@ -1,0 +1,591 @@
+{
+  "batch": "icons-road-2026-10-29-25",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "HON-CIVIC-FK2-EU2015",
+      "manufacturer": "Honda",
+      "model_family": "Civic Type R",
+      "generation": "FK2 ninth-generation European road hatchback",
+      "variant": "Type R — original 2015 Europe six-speed manual",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door four-seat hatchback",
+      "road_legal": 1,
+      "specification_market": "June 1, 2015 original European launch reference. Standard six-speed FK2, separate from optional GT convenience/assistance equipment and later FK8 multi-link chassis. Native PS retained without invented kW conversion. No lap-record, preproduction-time or engine-code claim. Four valves per cylinder are specified; unsupported DOHC wording is omitted.",
+      "summary": "The FK2 Civic Type R opened the turbocharged chapter of Honda’s Type R road hatchback with a direct-injected VTEC engine, a driver-operated six-speed gearbox and helical limited-slip differential. Its Dual Axis Strut front suspension and adaptive damping formed an integrated front-drive performance chassis, making this distinct generation an important Japanese performance-engineering reference.",
+      "admission_reason": "The FK2 Civic Type R opened the turbocharged chapter of Honda’s Type R road hatchback with a direct-injected VTEC engine, a driver-operated six-speed gearbox and helical limited-slip differential. Its Dual Axis Strut front suspension and adaptive damping formed an integrated front-drive performance chassis, making this distinct generation an important Japanese performance-engineering reference.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Europe",
+          "title": "2015 Honda Civic Type R — original European launch engineering and specifications, June 1, 2015",
+          "source_type": "Period manufacturer launch press kit",
+          "url": "https://hondanews.eu/eu/fi/cars/media/pressreleases/55296/2015-honda-civic-type-r",
+          "notes": "June 1, 2015 original European launch reference. Standard six-speed FK2, separate from optional GT convenience/assistance equipment and later FK8 multi-link chassis. Native PS retained without invented kW conversion. No lap-record, preproduction-time or engine-code claim. Four valves per cylinder are specified; unsupported DOHC wording is omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda Civic Type R (FK2).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_(FK2).jpg",
+          "notes": "Alexandre Prevot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Honda Civic Type R"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder VTEC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Helical limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dual Axis Strut front; H-type torsion beam rear; four-wheel adaptive dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "350-mm ventilated/drilled front discs with four-piston calipers; 296-mm solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native factory notation",
+          "value": "310",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FK2 Civic Type R opened the turbocharged chapter of Honda’s Type R road hatchback with a direct-injected VTEC engine, a driver-operated six-speed gearbox and helical limited-slip differential. Its Dual Axis Strut front suspension and adaptive damping formed an integrated front-drive performance chassis, making this distinct generation an important Japanese performance-engineering reference.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_civic_fk2_eu2015.jpg",
+          "caption": "Honda Civic Type R FK2 photographed in Germany, identified as the 2015–2016 generation. UK plates, GT styling/sensors and visible club graphic do not authenticate standard European trim, build date or installed tune. Correct original FK2 body; not the later FK8.",
+          "creator": "Alexandre Prevot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "42802f716bbc0eb242ac63c80460590eee1f27e44ec2279c372d552e65e57e1f"
+        }
+      ]
+    },
+    {
+      "id": "MIT-EVOX-GSR-JP2007-MT",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Lancer Evolution",
+      "generation": "Evolution X / CZ4A original road generation",
+      "variant": "GSR — October 2007 Japan five-speed manual",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sports sedan",
+      "road_legal": 1,
+      "specification_market": "Factory release reproduced under Mitsubishi Press Release, Tokyo October 1, 2007, ending Source: Mitsubishi. Only that factory text is used; editorial preface is excluded. GSR five-speed manual launched October 1, separate from late-November TC-SST, RS, later 300-PS ratings and FQ/Final editions. Optional High Performance Package, Bilstein/Eibach, BBS and two-piece discs are not standard claims. Brake inch classes are not rotor diameters. Exact cc and maximum power are omitted because not supplied numerically in this reviewed launch text.",
+      "summary": "The Evolution X introduced an all-new platform and aluminium-block 4B11 turbo engine to Mitsubishi’s rally-derived road-sedan lineage. Its GSR integrated active centre differential, active yaw control, stability control and sports ABS through S-AWC, making the original manual road car a distinct engineering landmark within the Evolution family.",
+      "admission_reason": "The Evolution X introduced an all-new platform and aluminium-block 4B11 turbo engine to Mitsubishi’s rally-derived road-sedan lineage. Its GSR integrated active centre differential, active yaw control, stability control and sports ABS through S-AWC, making the original manual road car a distinct engineering landmark within the Evolution family.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors / ZerCustoms reproduction",
+          "title": "Mitsubishi Motors launches Lancer Evolution X — October 1, 2007 factory release reproduced by ZerCustoms",
+          "source_type": "Period manufacturer launch release, reproduced",
+          "url": "https://www.zercustoms.com/news/Lancer-Evolution-X.html",
+          "notes": "Factory release reproduced under Mitsubishi Press Release, Tokyo October 1, 2007, ending Source: Mitsubishi. Only that factory text is used; editorial preface is excluded. GSR five-speed manual launched October 1, separate from late-November TC-SST, RS, later 300-PS ratings and FQ/Final editions. Optional High Performance Package, Bilstein/Eibach, BBS and two-piece discs are not standard claims. Brake inch classes are not rotor diameters. Exact cc and maximum power are omitted because not supplied numerically in this reviewed launch text."
+        },
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "FACTS & FIGURES 2008 — MIVEC and S-AWC engineering",
+          "source_type": "Period manufacturer factbook",
+          "url": "https://www.mitsubishi-motors.com/en/corporate/ir/library/pdf/fact_2008.pdf",
+          "notes": "Factory 48-page PDF downloaded and extracted. PDF pages 5–6 (printed 3–4) rendered and visually reviewed: Evolution X MIVEC and integrated ACD/AYC/ASC/ABS. Adjacent Twin Clutch SST discussion does not describe the selected manual gearbox."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:20071001 Lancer Evolution X-front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:20071001_Lancer_Evolution_X-front.jpg",
+          "notes": "baku13; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: photo taken by baku13"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "4B11 inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC; MIVEC variable timing on intake and exhaust",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Aluminium engine block",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "422",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive with S-AWC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Active centre differential and active yaw control, integrated with ASC and Sport ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo ventilated front and rear discs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Evolution X introduced an all-new platform and aluminium-block 4B11 turbo engine to Mitsubishi’s rally-derived road-sedan lineage. Its GSR integrated active centre differential, active yaw control, stability control and sports ABS through S-AWC, making the original manual road car a distinct engineering landmark within the Evolution family.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_evox_gsr_jp2007_mt.jpg",
+          "caption": "Mitsubishi Lancer Evolution X launch display at Hotel Nikko Tokyo, October 1, 2007. Represents the original road body. The exterior does not authenticate a five-speed manual, TC-SST, BBS wheels or optional High Performance Package hardware; display options are not base GSR claims.",
+          "creator": "baku13",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7bb0c226fcf8264a751f549b69a64c0b351e1311b090ffc59e364b3b585cb8d9"
+        }
+      ]
+    },
+    {
+      "id": "SUB-WRXSTI-GRB-JP2007",
+      "manufacturer": "Subaru",
+      "model_family": "Impreza WRX STI",
+      "generation": "GRB original five-door road generation",
+      "variant": "WRX STI — October 2007 Japan six-speed manual",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sports hatchback",
+      "road_legal": 1,
+      "specification_market": "October 24, 2007 Japan original five-door reference: 1994 cc, 227 kW / 308 PS at 6400 rpm, 422 Nm at 4400 rpm. Separate from US 2.5-litre, A-Line automatic, GVB sedan, facelift and specials. Optional Recaro/BBS/audio are excluded. Earlier WRC titles and planned 2008 Group N application are not victories or homologation claims for this road car. No unsupported engine code or ambiguous wheel-manufacturing claim.",
+      "summary": "The original GRB transformed Subaru’s WRX STI into a purpose-developed five-door sports hatchback with a wider chassis and new double-wishbone rear suspension. Its twin-scroll turbo boxer engine, six-speed manual and multi-mode driver-controlled centre differential carried the STI performance lineage into a distinct body and chassis generation.",
+      "admission_reason": "The original GRB transformed Subaru’s WRX STI into a purpose-developed five-door sports hatchback with a wider chassis and new double-wishbone rear suspension. Its twin-scroll turbo boxer engine, six-speed manual and multi-mode driver-controlled centre differential carried the STI performance lineage into a distinct body and chassis generation.",
+      "sources": [
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "Fuji Heavy Industries launches all-new Subaru Impreza WRX STI — October 24, 2007",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://www.subaru.co.jp/en/news/archives/press/2007/07_10_24e.html",
+          "notes": "October 24, 2007 Japan original five-door reference: 1994 cc, 227 kW / 308 PS at 6400 rpm, 422 Nm at 4400 rpm. Separate from US 2.5-litre, A-Line automatic, GVB sedan, facelift and specials. Optional Recaro/BBS/audio are excluded. Earlier WRC titles and planned 2008 Group N application are not victories or homologation claims for this road car. No unsupported engine code or ambiguous wheel-manufacturing claim."
+        },
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "All-new Subaru Impreza WRX STI — original six-page launch PDF",
+          "source_type": "Period manufacturer launch PDF",
+          "url": "https://www.subaru.co.jp/en/news/archives/contents/pdf_en_40746.pdf",
+          "notes": "PDF extracted; pages 1 and 6 rendered and visually reviewed. Final Japan table confirms 16-valve DOHC Dual AVCS intercooled twin-scroll boxer and exact outputs; original hatchback, not later sedan or export 2.5."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2008 Subaru WRX STI front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2008_Subaru_WRX_STI_front.jpg",
+          "notes": "IFCAR; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "227",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "422",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "16-valve DOHC with Dual AVCS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled twin-scroll turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EGI multi-point sequential injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Symmetrical all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Multi-mode DCCD centre; torque-sensitive front LSD; Torsen rear LSD",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson strut front; double-wishbone rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo ventilated discs; Super Sports ABS with EBD",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GRB transformed Subaru’s WRX STI into a purpose-developed five-door sports hatchback with a wider chassis and new double-wishbone rear suspension. Its twin-scroll turbo boxer engine, six-speed manual and multi-mode driver-controlled centre differential carried the STI performance lineage into a distinct body and chassis generation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_wrxsti_grb_jp2007.jpg",
+          "caption": "Original 2008 Subaru WRX STI hatchback photographed in Maryland, USA. Represents the early GRB road body. US 2.5-litre output, emissions, options and installed tune do not authenticate the selected October 2007 Japan 2.0-litre specification; not a later facelift or sedan.",
+          "creator": "IFCAR",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d805562959967b4857ad5cf670a0c361390f1c1fd8b15f4e1741fbd4e135a5c5"
+        }
+      ]
+    },
+    {
+      "id": "SUB-WRXSTI-VA-JP2014",
+      "manufacturer": "Subaru",
+      "model_family": "WRX STI",
+      "generation": "VA / VAB original standalone road sedan generation",
+      "variant": "WRX STI — August 2014 Japan six-speed manual",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sports sedan",
+      "road_legal": 1,
+      "specification_market": "August 25, 2014 Japan base WRX STI manual: 1994 cc, 227 kW / 308 PS at 6400 rpm, 422 Nm at 4400 rpm. Not S4, Type S-specific Bilstein/BBS equipment, US/UK 2.5-litre, facelift or special editions. Factory photograph depicts Type S and does not redefine base equipment. Engine code, cam/injection hardware and rear suspension type not explicit in this release are omitted rather than borrowed from GRB. LED low beams are not universally standard.",
+      "summary": "The VA WRX STI established Subaru’s performance sedan as a standalone WRX generation with a reinforced body, revised suspension and steering, and Active Torque Vectoring. It retained the turbocharged boxer, reinforced six-speed manual and multi-mode DCCD all-wheel-drive system, giving the STI lineage a substantially renewed road chassis rather than a cosmetic revision of the earlier Impreza.",
+      "admission_reason": "The VA WRX STI established Subaru’s performance sedan as a standalone WRX generation with a reinforced body, revised suspension and steering, and Active Torque Vectoring. It retained the turbocharged boxer, reinforced six-speed manual and multi-mode DCCD all-wheel-drive system, giving the STI lineage a substantially renewed road chassis rather than a cosmetic revision of the earlier Impreza.",
+      "sources": [
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "Subaru launches all-new WRX STI in Japan — August 25, 2014",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://www.subaru.co.jp/en/news/archives/press/2014/14_08_25e_102443.html",
+          "notes": "August 25, 2014 Japan base WRX STI manual: 1994 cc, 227 kW / 308 PS at 6400 rpm, 422 Nm at 4400 rpm. Not S4, Type S-specific Bilstein/BBS equipment, US/UK 2.5-litre, facelift or special editions. Factory photograph depicts Type S and does not redefine base equipment. Engine code, cam/injection hardware and rear suspension type not explicit in this release are omitted rather than borrowed from GRB. LED low beams are not universally standard."
+        },
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "All-new WRX STI Japan — original four-page launch PDF",
+          "source_type": "Period manufacturer launch PDF",
+          "url": "https://www.subaru.co.jp/en/news/archives/contents/pdf_en_102443.pdf",
+          "notes": "PDF extracted; pages 1 and 4 rendered and visually reviewed, confirming printed August 25, 2014 date and Japan 2.0-litre six-speed table. Pictured Type S and overseas 2.5-litre do not supply base Japan equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015 Subaru WRX STI.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015_Subaru_WRX_STI.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "227",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "422",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Reinforced six-speed manual with short-stroke shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Symmetrical all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Multi-mode driver-controlled centre differential (DCCD)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Inverted-strut front; revised mounting rigidity and geometry",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Reinforced body using high-tensile steel; Active Torque Vectoring and VDC",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The VA WRX STI established Subaru’s performance sedan as a standalone WRX generation with a reinforced body, revised suspension and steering, and Active Torque Vectoring. It retained the turbocharged boxer, reinforced six-speed manual and multi-mode DCCD all-wheel-drive system, giving the STI lineage a substantially renewed road chassis rather than a cosmetic revision of the earlier Impreza.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_wrxsti_va_jp2014.jpg",
+          "caption": "2015 Subaru WRX STI photographed with UK registration, representing the original pre-facelift VA sedan body. UK 2.5-litre engine and visible trim/wheels do not certify the August 2014 Japan 2.0-litre base reference or Type S hardware. Mechanical originality is not authenticated.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a24ed9a8ef259f4dba799f0338f2f75c69c6dad5149eb4c461ee50ba06c23ee7"
+        }
+      ]
+    }
+  ]
+}
