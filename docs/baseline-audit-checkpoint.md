@@ -29,8 +29,12 @@ A [second credit repair](baseline-media-credits-02.md) resolves 27 further
 creator/licence placeholders across ten baseline profiles, after direct Commons
 metadata and side-by-side image checks. All car rows and image files remain
 unchanged. This finishes the observed placeholder list, not a comprehensive
-licensing or representative-image audit. Countach body treatment, generic Zonda
-variant descriptions and one GT1 caption remain explicit identity-review flags.
+licensing or representative-image audit. A subsequent
+[photograph scope repair](baseline-image-scope-01.md) qualifies the flagged
+Countach, generic Zonda and GT1 captions and selects the existing narrow-body
+LP400 image as its lead photograph. It does not establish the red display car's
+individual history, the generic Zondas' engine variants or the GT1 detail's
+model-year specification; those images remain qualified illustrations.
 
 ## Identity spot-check: 2022 V12 Vantage
 
