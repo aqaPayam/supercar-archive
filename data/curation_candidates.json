@@ -4974,7 +4974,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 840-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-69.json"
+    },
+    {
+      "manufacturer": "Nash-Healey",
+      "model": "Nash-Healey",
+      "generation": "Original 1951–1954 Nash-Healey production-road sports-car family",
+      "proposed_record": "NAS-HEALEY-CONVERTIBLE-1953",
+      "reason": "The Nash-Healey was a distinctive early postwar international sports-car venture. Nash supplied the drivetrain, Healey built the rolling chassis and Pinin Farina completed the Italian coachwork. This combined American power with British sports-car engineering and Italian design in a dedicated production road car. The programme’s real endurance-racing heritage reinforces its significance beyond rarity or price.",
+      "evidence": "https://savoymuseum.org/portfolio-items/1953-nash-healey-le-mans-sport-2-door-roadster/",
+      "duplicate_review": "Absent model/generation checked against the complete 842-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-70.json"
+    },
+    {
+      "manufacturer": "Frazer Nash",
+      "model": "TT Replica",
+      "generation": "Original prewar chain-driven TT Replica factory production-road sports-car family",
+      "proposed_record": "FRA-NASH-TTREPLICA-MEADOWS1934",
+      "reason": "The original TT Replica embodies Frazer Nash’s distinctive chain-drive sports-car tradition, with an outside gear lever and an unusually direct connection between driver and chassis. First-hand road driving of BMK 102 describes quick changes and throttle-directed cornering, alongside cold-brake pull and initial understeer. This established sporting identity and unconventional mechanical layout justify one original family entry; Replica is the historic model name.",
+      "evidence": "https://www.classicandsportscar.com/features/frazer-nash-tt-replica-bravery-field",
+      "duplicate_review": "Absent model/generation checked against the complete 842-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-70.json"
     }
   ],
-  "catalogue_count_after_batches": 842
+  "catalogue_count_after_batches": 844
 }
