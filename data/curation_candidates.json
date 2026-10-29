@@ -4380,7 +4380,95 @@
       "duplicate_review": "Absent model/generation checked against the complete 784-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-55.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "S660",
+      "generation": "Original S660 mid-engined kei-roadster family",
+      "proposed_record": "HON-S660-ALPHA-MT2015",
+      "reason": "The S660 revived Honda’s miniature mid-engined sports-car tradition with a dedicated lightweight open body, rear-wheel drive and a six-speed manual. This unusually focused kei-roadster programme is a significant sporting engineering icon, rather than an ordinary small-car trim.",
+      "evidence": "https://global.honda/en/newsroom/news/2015/4150330eng-s660.html",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Prelude",
+      "generation": "Third-generation BA-series sporting-road coupe family",
+      "proposed_record": "HON-PRELUDE-III-SI4WS-JP1987",
+      "reason": "The third Prelude introduced Honda’s steering-angle-sensing mechanical four-wheel steering, a landmark in road-car handling engineering. Combined with its DOHC engine and double-wishbone chassis, it represents an important sporting-coupe generation distinct from the later Prelude already archived.",
+      "evidence": "https://global.honda/jp/news/1987/4870409.html",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Prelude",
+      "generation": "Fifth-generation BB-series sporting-road coupe family",
+      "proposed_record": "HON-PRELUDE-V-TYPES-JP1996",
+      "reason": "The fifth Prelude Type S combined a highly developed naturally aspirated VTEC engine with active torque distribution to improve cornering. Its ATTS system makes this generation a significant Honda handling-development landmark, beyond a cosmetic edition of the earlier Prelude.",
+      "evidence": "https://www.honda.co.jp/factbook/auto/PRELUDE/19961107/pr96-015.html",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Starlet",
+      "generation": "Fourth-generation P80 / EP82 sporting-road hatchback family",
+      "proposed_record": "TOY-STARLET-EP82-GT-JP1989",
+      "reason": "The EP82 GT is a defining small-capacity Japanese turbo hot hatch, combining a compact three-door sports body with a dedicated DOHC turbo-EFI engine. It forms a distinct enthusiast-performance generation before the archived Glanza V, rather than another grade or model year of that car.",
+      "evidence": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60007105/index.html",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M2",
+      "generation": "Second-generation G87 sporting-road coupe family",
+      "proposed_record": "BMW-M2-G87-MAN2023",
+      "reason": "The G87 continues BMW’s compact rear-wheel-drive M-coupe tradition with M3/M4-derived chassis hardware and a retained manual transmission. Contemporary testing supports its engaging engine and playful handling, making it a substantive new sporting generation rather than another F87 package.",
+      "evidence": "https://www.press.bmwgroup.com/global/article/detail/T0404444EN/the-all-new-bmw-m2",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "6 Series",
+      "generation": "F13 M6 production-road grand-touring coupe family",
+      "proposed_record": "BMW-M6-F13-DE2012",
+      "reason": "The F13 M6 brought the M grand-tourer into the twin-turbo V8 era, combining a carbon-roof coupe with an active rear differential and dual-clutch transmission. Its substantial engineering and distinct 6 Series generation continue the M6 sporting-GT lineage beyond the archived E63.",
+      "evidence": "https://www.press.bmwgroup.com/deutschland/article/detail/T0127768DE/der-neue-bmw-m6-coup%20-und-cabrio",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 4",
+      "generation": "Third-generation B8 RS 4 sporting-estate road family",
+      "proposed_record": "AUD-RS4-B8-AVANT2012",
+      "reason": "The third RS 4 sustained the fast-estate icon with a high-revving naturally aspirated V8, dual-clutch transmission and crown-gear quattro drivetrain. This distinct generation preserves a significant V8 chapter of Audi’s performance-wagon tradition rather than another body or trim of the earlier B7.",
+      "evidence": "https://audi.media-corner.ch/fr/press/la-nouvelle-audi-rs-4-avant",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 4",
+      "generation": "Fourth-generation B9 RS 4 sporting-estate road family",
+      "proposed_record": "AUD-RS4-B9-NL2018",
+      "reason": "The fourth RS 4 returned the established fast-estate programme to biturbo six-cylinder power while retaining quattro road capability and everyday utility. Its new generation and substantially different powertrain represent an important continuation of the RS estate icon, rather than a cosmetic B8 update.",
+      "evidence": "https://nieuws.audi.nl/terugkeer-van-een-icoon-de-audi-rs-4-avant/",
+      "duplicate_review": "Absent model/generation checked against the complete 788-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-56.json"
     }
   ],
-  "catalogue_count_after_batches": 788
+  "catalogue_count_after_batches": 796
 }

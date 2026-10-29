@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-29, 788 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-29, 796 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 55 reviewed road-icon manifests contain 393 distinct identifiers. Subtracting
+The 56 reviewed road-icon manifests contain 401 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 788 count must not be presented as 788 proven qualifying icons.
+The raw 796 count must not be presented as 796 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That
@@ -210,6 +210,33 @@ This is a bounded specification and identity spot-check. It does not audit all
 facts, media, licence histories, restored-car condition or other Z profiles.
 The seven-code mapping still needs complete per-generation evidence review;
 raw rows and source strings alone do not settle the final qualifying count.
+
+## Identity, specification and image spot-check: Prelude BB4
+
+The preserved `HON-PRELUDE-BB4-JP` was checked against
+[Honda's Si VTEC archive sheet](https://www.honda.co.jp/auto-archive/prelude/1996/si_vtec_sy.html).
+Its header dates introduction to September 1991 and the archived specification
+to October 1996. This is distinct from the November 1996 BB6 Type S factbook,
+even though both records use a 1996 reference year.
+
+The seven stored technical fields match the selected BB4 manual column: base
+vehicle mass, wheelbase, H22A code, transverse DOHC VTEC configuration,
+displacement, labelled power conversion and five-speed manual. The 147.1-kW
+value is explicitly derived from the published net 200 PS, rounded to one decimal,
+not represented as a native manufacturer kW quotation. The base-mass row includes
+alloy wheels but excludes air conditioning and the separately tabulated option
+combinations. BB4 does not take BB1's electronic Hyper 4WS. All ten stored
+attributes, including the three identity fields, map to the Honda source.
+
+The [stored photograph's Commons metadata](https://commons.wikimedia.org/wiki/File:Honda_Prelude_Si_VTEC_(E-BB4)_front.jpg)
+confirms Tokumeigakarinoaoshima and CC0. The local 1280-by-960 JPEG is byte-identical
+to the source rendition retrieved for this review, and the pictured body was
+visually checked. The existing qualified caption remains appropriate: the image
+does not certify build year, tune, equipment or mechanical condition.
+
+No database row or asset changed. This is a bounded check of one record's stored
+specifications, source mappings and one representative image; it is not a complete
+baseline eligibility, fact or media audit and does not set a final qualifying total.
 
 ## Outstanding decisions and evidence
 

@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Fifty-five reviewed road-icon batches add 393 cars
-to the 395-record baseline, bringing the working catalogue to 788 records.
-The latest [Lupo, Polo and RS 3 road-icons batch](docs/icons-road-55.md)
-adds four absent road families/generations, following the
-[M3, Civic Type R and Z-generation batch](docs/icons-road-54.md). Individual reviews and
+evidence and licensed photograph. Fifty-six reviewed road-icon batches add 401 cars
+to the 395-record baseline, bringing the working catalogue to 796 records.
+The latest [S660, Prelude, Starlet and M/RS-generation batch](docs/icons-road-56.md)
+adds eight absent road families/generations, following the
+[Lupo, Polo and RS 3 road-icons batch](docs/icons-road-55.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The 1,000-qualifying-car goal remains active: existing records still need the
