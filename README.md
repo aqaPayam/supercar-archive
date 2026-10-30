@@ -38,3 +38,9 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000). Every push to `main` r
 - `web/` — public read-only website source
 
 Image creator, license, and original-source attribution are stored in the database and displayed in the website's gallery and Source Library.
+
+## JDM research batch
+
+The database includes 50 additional Japan-market road variants with manufacturer
+evidence and licensed representative photography. See [the batch review](docs/jdm50.md)
+for the car list, duplicate audit, evidence limitations and repeatable import checks.
