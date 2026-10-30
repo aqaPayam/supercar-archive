@@ -16,9 +16,12 @@ Same-generation variant counting remains a pending user boundary.
 
 The [Lamborghini identity ledger](baseline-identity-review-01.md) inventories
 29 Aventador, Gallardo and Huracán profiles, separating 27 stored road flags
-from two competition flags. Eight manufacturer pages support selected
-derivative relationships; nine named identities were directly checked and
-twenty remain inventory-only at the individual-derivative level. Three
+from two competition flags. Twenty-seven manufacturer publications support bounded
+named-derivative or predecessor relationships for all 29 profiles. This includes
+three original PDF releases preserved on other hosts; the Balboni release was
+read as web PDF text, with no local-render claim. Six
+source-template conflict alerts prevent unqualified reuse of inconsistent
+numbers or drivetrain headings. Three
 provisional road-programme groups do not establish a qualifying total. All
 database rows and assets remain unchanged; variant/racer boundaries and the
 full technical/media audit stay open.

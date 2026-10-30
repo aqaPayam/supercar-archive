@@ -33,9 +33,8 @@ identifies the named four-wheel-drive coupe. Its current revised-nose descriptio
 must not be applied to every earlier model year. The
 [Spyder Performante archive](https://www.lamborghini.com/en-en/history/gallardo-lp-570-4-spyder-performante)
 identifies a lightweight V10 soft-top derivative. This supports preserving those
-identities, not approving all six road variants independently. Early 5.0
-Superleggera, Balboni, LP 570-4 Superleggera and ordinary Spyder details still
-need their own fresh evidence checks.
+identities, not approving all six road variants independently. The follow-up release review below closes the remaining named-derivative
+relationship checks. Their detailed technical fields still require separate review.
 
 The [Huracán EVO archive](https://www.lamborghini.com/en-en/history/huracan-evo)
 describes an evolution and its dynamics-control and rear-steering systems.
@@ -57,10 +56,11 @@ Production totals on that retrospective were not audited or imported.
 
 ## Review scope and verification
 
-All 29 identity rows were inventoried. Eight primary manufacturer pages were
-read for selected named derivatives and family relationships; the ledger
-distinguishes nine directly checked identities from twenty inventoried
-identities whose individual derivative evidence was not newly verified.
+All 29 identity rows were inventoried and mapped to direct named-derivative
+or predecessor-relationship evidence across 27 primary publications: 24 HTML
+pages and three original manufacturer PDF releases, including preserved copies
+on other hosts. These are bounded relationship checks, not approval of all
+29 variants or confirmation of every stored specification.
 Family grouping is a curation inference, not a full historical or mechanical
 audit of every variant. Existing years, performance values, photos, licences,
 prices and source rows are not recertified. Unavailable retrospective URLs and
@@ -75,3 +75,70 @@ comparison pass. No importer, application or viewer code changed.
 Same-programme body/variant counting and dedicated competition-car eligibility
 remain pending owner boundaries. The 395-record baseline audit and the
 1,000-qualifying-icon goal remain open; 897 is a working record count.
+
+## Expanded Aventador and Huracán identity evidence
+
+The follow-up review on the same date adds direct named-derivative evidence
+for the remaining eight Aventadors and eight Huracáns. The initial ledger at
+commit `3ea784f` contained nine direct checks and eight pages; its scope is
+preserved in the structured review history. That intermediate 25-check state included
+both competition cars and left four Gallardos inventory-only: Balboni,
+LP 560-4 Spyder, LP 570-4 Superleggera and original 5.0 Superleggera.
+
+| Existing profile | Additional manufacturer evidence and bounded finding |
+| --- | --- |
+| LP 700-4 coupe | [Pre-owned guide, Spanish](https://preowned.lamborghini.com/es_es/models/aventador-coupe): body names original coupe and 2011 launch. |
+| LP 700-4 Roadster | [Pre-owned guide](https://preowned.lamborghini.com/en_us/models/aventador-roadster): explicitly relates removable-roof model to coupe. |
+| S Roadster | [Archive](https://www.lamborghini.com/en-en/history/aventador-s-roadster): removable roof and rear steering. |
+| SV coupe | [Archive](https://www.lamborghini.com/en-en/history/aventador-superveloce): lightweight V12 derivative and magnetorheological pushrod suspension. |
+| SV Roadster | [Pre-owned guide](https://preowned.lamborghini.com/en_gb/models/aventador-superveloce-roadster): names LP 750-4 with two-piece carbon hardtop. |
+| SVJ coupe | [French archive](https://www.lamborghini.com/fr-en/histoire/aventador-svj): named SVJ with ALA 2.0 and rear steering. English page timed out. |
+| SVJ Roadster | [Archive](https://www.lamborghini.com/en-en/history/aventador-svj-roadster): family membership, removable carbon roof and active aerodynamics. |
+| Ultimae Roadster | [Archive](https://www.lamborghini.com/en-en/history/aventador-lp-780-4-ultimae-roadster): final open-top Aventador derivative. |
+| EVO RWD coupe | [Archive](https://www.lamborghini.com/en-en/history/huracan-evo-rwd): explicitly rear drive, with optional dampers and dynamic steering. |
+| EVO AWD Spyder | [Archive](https://www.lamborghini.com/en-en/history/huracan-evo-spyder): open EVO, rear steering and four-wheel drive. |
+| EVO RWD Spyder | [Spanish archive](https://www.lamborghini.com/es-en/historia/huracan-evo-rwd-spyder): explicitly distinguishes rear-drive open model from 4WD counterpart. |
+| Original LP 610-4 coupe | [German pre-owned guide](https://preowned.lamborghini.com/de_de/models/huracan-coupe): names original coupe and carbon/aluminium chassis. |
+| Original LP 610-4 Spyder | [Archive](https://www.lamborghini.com/en-en/history/huracan-spyder): soft-top V10 with hybrid-material chassis and AWD. Numeric power/year remain outside this page check. |
+| Performante coupe | [Archive](https://www.lamborghini.com/en-en/history/huracan-performante): lightweight materials and ALA within Huracán. |
+| Performante Spyder | [Archive](https://www.lamborghini.com/en-en/history/huracan-performante-spyder): open Performante with ALA and AWD. |
+| Tecnica | [Archive](https://www.lamborghini.com/en-en/history/huracan-tecnica): member of Huracán range, related to STO, with dedicated brake cooling and rear steering. |
+
+Several current manufacturer templates contain internal conflicts. The Spanish
+LP 700-4 guide's header shows 1,015 CV and a speed labelled in kW; the SV
+Roadster guide shows 770 HP above a detailed 750 CV table. The German original
+Huracán guide shows 449 CV above its 610 PS / 449 kW table. Both EVO RWD pages
+have generic four-wheel-drive headings over model-specific rear-drive text.
+The SVJ Roadster page's narrative and table also give different acceleration
+values. These pages support the bounded identity relationships above; their
+conflicting fields are flagged in the ledger and were not used to rewrite
+specifications. Manufacturer ownership alone does not resolve an internal
+source conflict. No source, attribute, car, media or fact row changed.
+
+## Closing the four Gallardo relationship gaps
+
+The original [1 March 2010 Superleggera release](https://www.gallardosuperleggera.com/pressreleasesuperleggera2010.pdf),
+preserved by GallardoSuperleggera.com, explicitly distinguishes the new LP
+570-4 from its predecessor launched in 2007. Its first PDF page was rendered
+and read. This supports two distinct named derivatives within the Gallardo
+programme, without importing later engine figures into the original 5.0
+record. The predecessor's exact displacement and other specifications were not
+newly audited. The source's historical production statement is not treated as
+a survivor count or an independent qualifying-car count.
+
+The [LP 560-4 Spyder manufacturer publication](https://pictures.dealer.com/lamborghinilasvegas/8a3d4d8040463872006cffbb9450da2b.pdf),
+preserved on a dealer host, identifies the open LP 560-4 and its AWD V10 layout.
+Its first PDF page was rendered and read; the remaining pages were not visually
+audited. The document's generation terminology does not settle curation credit.
+Exact hashes of the two locally inspected PDFs are retained in the ledger.
+
+The [30 June 2009 Balboni release](https://preview.thenewsmarket.com/Previews/lamb/DocumentAssets/267421.pdf)
+identifies rear drive and changes to suspension, tyres and aerodynamics. This
+is more than a commemorative stripe. Pages 1–2 were read through the web PDF
+text; local download failed certificate verification, so no local rendering
+or byte hash is claimed. No certificate checks were disabled.
+
+All 29 profiles now have bounded direct identity/relationship evidence in the
+ledger. This closes the named-relationship gaps in this three-family review;
+it does not close variant eligibility, source conflicts, exact specifications,
+model-year coverage, image attribution or the broader baseline audit.
