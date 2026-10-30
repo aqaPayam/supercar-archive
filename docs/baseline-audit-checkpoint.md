@@ -458,3 +458,16 @@ credits. The [bounded review](baseline-lfa-review-01.md) and
 preservation checks. Auction, current-market and colour/distribution estimates,
 the complete package record and the wider baseline audit remain open. The
 working inventory remains 863; no additional car is counted by this review.
+
+
+## F40 bounded photo-source review
+
+Reviewed 2026-10-30 at 944 records. The [four-photo review](baseline-f40-media-review-01.md)
+verifies the existing source works and correct creator/licence credits. Three
+1920-pixel renditions match byte for byte; the engine photograph has identical
+decoded RGB pixels at 1920 x 1440 with different JPEG bytes. Four captions and
+four source notes now retain explicit scope, original titles/credit and exact
+licence links. All images and every car/technical/fact row remain unchanged.
+Only one stored F40 identity was found. Manufacturer pages returned verification
+screens, so technical and full eligibility review remain open. No additional
+car is counted; raw inventory remains 944.

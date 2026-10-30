@@ -81,6 +81,10 @@ A [second credit repair](docs/baseline-media-credits-02.md) resolves 27 more
 placeholders across ten profiles. A [photograph scope repair](docs/baseline-image-scope-01.md)
 qualifies five captions/lead-image flags while preserving all photographs and car data.
 
+The [F40 photo-source review](docs/baseline-f40-media-review-01.md) verifies
+all four existing photographs, preserves correct credits and image bytes, and
+clarifies caption scope and exact licence links without adding a car.
+
 Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
 Existing LF and CRLF import markers remain accepted without rewriting the database.
 Other manifest edits still require review and are rejected on repeat import.

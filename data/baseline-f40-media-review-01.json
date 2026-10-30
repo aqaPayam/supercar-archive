@@ -1,0 +1,268 @@
+{
+  "reviewed_on": "2026-10-30",
+  "car_id": "FER-F40-STD",
+  "inventory_count": 944,
+  "purpose": "Complete bounded photo-source review of four existing F40 images, preserving correct creator/licence credits and all image bytes while clarifying public captions and exact licence/source notes. No new car or technical certification.",
+  "media_updates": [
+    {
+      "media_id": 19,
+      "before": {
+        "id": 19,
+        "car_id": "FER-F40-STD",
+        "media_type": "Rear image",
+        "location": "/assets/f40_rear.jpg",
+        "caption": "Ferrari F40 rear three-quarter view",
+        "creator": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 52,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 19,
+        "car_id": "FER-F40-STD",
+        "media_type": "Rear image",
+        "location": "/assets/f40_rear.jpg",
+        "caption": "Representative Ferrari F40 rear three-quarter view at NEC Classic Motor Show 2019, photographed by Vauxford. Supplied title identifies a 1990 F40; the photograph does not authenticate its build date, market or original equipment.",
+        "creator": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 52,
+        "scope_level": "Generation"
+      },
+      "sha256": "51687767417c1e713d1b54810e88d584e377aba4ae282ab3421bd6781dcacbc5",
+      "evidence": "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_2.9_Rear.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_rendition_sha256": "51687767417c1e713d1b54810e88d584e377aba4ae282ab3421bd6781dcacbc5",
+      "byte_match": true,
+      "pixel_match": true,
+      "dimensions": [
+        1920,
+        987
+      ]
+    },
+    {
+      "media_id": 20,
+      "before": {
+        "id": 20,
+        "car_id": "FER-F40-STD",
+        "media_type": "Interior image",
+        "location": "/assets/f40_interior.jpg",
+        "caption": "Ferrari F40 cockpit",
+        "creator": "Ian McWilliams / Supermac1961",
+        "license": "CC BY 2.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 53,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 20,
+        "car_id": "FER-F40-STD",
+        "media_type": "Interior image",
+        "location": "/assets/f40_interior.jpg",
+        "caption": "Representative Ferrari F40 cockpit, photographed by Supermac1961. Visible trim, controls and instruments are an illustration of this car, not proof of original equipment or a particular market specification.",
+        "creator": "Ian McWilliams / Supermac1961",
+        "license": "CC BY 2.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 53,
+        "scope_level": "Generation"
+      },
+      "sha256": "40ec8b4e936511d45b08adb26235353ef68f776ac461fe2eee26c4a69cbfc623",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Ferrari_F40_interior_-_Flickr_-_Supermac1961.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_rendition_sha256": "40ec8b4e936511d45b08adb26235353ef68f776ac461fe2eee26c4a69cbfc623",
+      "byte_match": true,
+      "pixel_match": true,
+      "dimensions": [
+        1920,
+        1280
+      ]
+    },
+    {
+      "media_id": 21,
+      "before": {
+        "id": 21,
+        "car_id": "FER-F40-STD",
+        "media_type": "Engine image",
+        "location": "/assets/f40_engine.jpg",
+        "caption": "Ferrari F40 twin-turbocharged V8 engine bay",
+        "creator": "Pitak",
+        "license": "CC BY-SA 3.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 54,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 21,
+        "car_id": "FER-F40-STD",
+        "media_type": "Engine image",
+        "location": "/assets/f40_engine.jpg",
+        "caption": "Representative Ferrari F40 engine-bay view through showroom glass in Singen, photographed by Pitak. Visible components do not establish engine code, tune, output or original equipment.",
+        "creator": "Pitak",
+        "license": "CC BY-SA 3.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 54,
+        "scope_level": "Generation"
+      },
+      "sha256": "1dc3db89aa095efda996a8cb941d2d81ff1f3f4b204795568e7ead57ab97be62",
+      "evidence": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_engine.JPG",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_rendition_sha256": "5bbff714155e36a0ded2ddc34c5d391695d67b132e96c65b2b3bcc0d60ab4ce4",
+      "byte_match": false,
+      "pixel_match": true,
+      "dimensions": [
+        1920,
+        1440
+      ]
+    },
+    {
+      "media_id": 18,
+      "before": {
+        "id": 18,
+        "car_id": "FER-F40-STD",
+        "media_type": "Exterior image",
+        "location": "/assets/f40_exterior.jpg",
+        "caption": "Ferrari F40 exterior",
+        "creator": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 1,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 51,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 18,
+        "car_id": "FER-F40-STD",
+        "media_type": "Exterior image",
+        "location": "/assets/f40_exterior.jpg",
+        "caption": "Representative Ferrari F40 exterior at London Concours 2022, photographed by MrWalkr. Photo does not authenticate model year, market specification, paint code or original equipment.",
+        "creator": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 1,
+        "created_at": "2026-08-29 12:09:02",
+        "source_id": 51,
+        "scope_level": "Generation"
+      },
+      "sha256": "1cbebf7e803680a6d51dd048b0da6176ccfadf79f963e1aa8fc9fb25e7921fff",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_rendition_sha256": "1cbebf7e803680a6d51dd048b0da6176ccfadf79f963e1aa8fc9fb25e7921fff",
+      "byte_match": true,
+      "pixel_match": true,
+      "dimensions": [
+        1920,
+        1074
+      ]
+    }
+  ],
+  "source_updates": [
+    {
+      "source_id": 52,
+      "before": {
+        "id": 52,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "1990 Ferrari F40 2.9 Rear",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_2.9_Rear.jpg",
+        "notes": "Rear image licence and attribution.",
+        "created_at": "2026-08-29 12:09:02"
+      },
+      "after": {
+        "id": 52,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "1990 Ferrari F40 2.9 Rear",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_2.9_Rear.jpg",
+        "notes": "Reviewed 30 October 2026 against file summary, upload history, licensing, API metadata and the individually viewed local photograph. Original Commons file title: 1990 Ferrari F40 2.9 Rear.jpg. Creator and licence match existing credit. Exact licence: https://creativecommons.org/licenses/by-sa/4.0/ . The 1920-pixel current Commons rendition is byte-identical to the preserved local JPEG. No image pixels or local file bytes changed in this review. Representative road-family illustration only; no exact year, market, originality, engine-tune or power authentication. No endorsement implied.",
+        "created_at": "2026-08-29 12:09:02"
+      }
+    },
+    {
+      "source_id": 53,
+      "before": {
+        "id": 53,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "Ferrari F40 interior",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Ferrari_F40_interior_-_Flickr_-_Supermac1961.jpg",
+        "notes": "Interior image licence and attribution.",
+        "created_at": "2026-08-29 12:09:02"
+      },
+      "after": {
+        "id": 53,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "Ferrari F40 interior",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Ferrari_F40_interior_-_Flickr_-_Supermac1961.jpg",
+        "notes": "Reviewed 30 October 2026 against file summary, upload history, licensing, API metadata and the individually viewed local photograph. Original Commons file title: Ferrari F40 interior - Flickr - Supermac1961.jpg. Creator and licence match existing credit. Exact licence: https://creativecommons.org/licenses/by/2.0/ . The 1920-pixel current Commons rendition is byte-identical to the preserved local JPEG. Original Flickr credit: Supermac1961, https://www.flickr.com/photos/supermac/4676091886/ ; Commons Flickr licence review dated 29 January 2012. No image pixels or local file bytes changed in this review. Representative road-family illustration only; no exact year, market, originality, engine-tune or power authentication. No endorsement implied.",
+        "created_at": "2026-08-29 12:09:02"
+      }
+    },
+    {
+      "source_id": 54,
+      "before": {
+        "id": 54,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "F40 Ferrari engine",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_engine.JPG",
+        "notes": "Engine image licence and attribution.",
+        "created_at": "2026-08-29 12:09:02"
+      },
+      "after": {
+        "id": 54,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "F40 Ferrari engine",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_engine.JPG",
+        "notes": "Reviewed 30 October 2026 against file summary, upload history, licensing, API metadata and the individually viewed local photograph. Original Commons file title: F40 Ferrari engine.JPG. Creator and licence match existing credit. Exact licence: https://creativecommons.org/licenses/by-sa/3.0/ . The current 1920 x 1440 Commons rendition has identical decoded RGB pixels; JPEG metadata/bytes differ. Select CC BY-SA 3.0, without combining the alternative GFDL. No image pixels or local file bytes changed in this review. Representative road-family illustration only; no exact year, market, originality, engine-tune or power authentication. No endorsement implied.",
+        "created_at": "2026-08-29 12:09:02"
+      }
+    },
+    {
+      "source_id": 51,
+      "before": {
+        "id": 51,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "Red Ferrari F40",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+        "notes": "Exterior image licence and attribution.",
+        "created_at": "2026-08-29 12:09:02"
+      },
+      "after": {
+        "id": 51,
+        "car_id": "FER-F40-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "Red Ferrari F40",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+        "notes": "Reviewed 30 October 2026 against file summary, upload history, licensing, API metadata and the individually viewed local photograph. Original Commons file title: Red Ferrari F40.jpg. Creator and licence match existing credit. Exact licence: https://creativecommons.org/licenses/by-sa/4.0/ . The 1920-pixel current Commons rendition is byte-identical to the preserved local JPEG. No image pixels or local file bytes changed in this review. Representative road-family illustration only; no exact year, market, originality, engine-tune or power authentication. No endorsement implied.",
+        "created_at": "2026-08-29 12:09:02"
+      }
+    }
+  ],
+  "identity_scope": "Complete 944-record inventory scan finds only FER-F40-STD under F40 name/identifier; no separate LM or Competizione record found. This is an inventory result, not an authentication of all identities.",
+  "technical_scope": "Ferrari archive URLs returned verification screens. Technical values, historical facts, price/production/market claims and eligibility certification remain outside this media review."
+}
