@@ -5689,7 +5689,18 @@
       "duplicate_review": "Complete 906-record identity inventory checked for Rocket, Eighty-Eight, Eighty Eight, Super 88, Super88 and Oldsmobile identities; no target is present. All manufacturer names beginning Old and plain 88 families reviewed; only the second-generation 4-4-2 is present. Count the original 1949–1953 Rocket 88 road family once across years, roofs, trim and Super 88 alternatives; racing specifications excluded.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-110.json"
+    },
+    {
+      "manufacturer": "Oldsmobile",
+      "model": "Toronado",
+      "generation": "First-generation 1966–1970 Toronado production-road coupe family",
+      "proposed_record": "OLD-TORONADO-G1-DELUXE-US1966",
+      "reason": "The original Toronado is a landmark high-performance grand-touring coupe, combining a powerful V8 with a compact front-wheel-drive powertrain. Motor Trend’s contemporary 1966 Car of the Year cross-country test documents its engineering impact, distinctive design and accomplished handling over 2,769 miles, establishing significance beyond luxury equipment or price.",
+      "evidence": "https://www.motortrend.com/features/toronado-roadtest",
+      "duplicate_review": "Complete 907-record identity inventory checked for Toronado, Tornado and Unitized Power aliases, with all Oldsmobile identities reviewed. Only the 4-4-2 and original Rocket 88 are present. Count the first-generation 1966–1970 Toronado road family once across years, standard/Deluxe trim, engines and packages; no later 455/W-34 or prototype specifications.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-111.json"
     }
   ],
-  "catalogue_count_after_batches": 907
+  "catalogue_count_after_batches": 908
 }
