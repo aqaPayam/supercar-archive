@@ -5458,7 +5458,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 884-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-95.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XJ",
+      "generation": "Original classic Series 1/2/3 XJ production-road sporting-saloon family",
+      "proposed_record": "JAG-XJ12-S1-FACTORY1972",
+      "reason": "The XJ12 brought Jaguar’s 5.3-litre V12 into the classic XJ sports saloon, combining a twelve-cylinder performance engine with independent suspension and four-wheel disc brakes. It is a landmark of Jaguar’s fast, refined four-door tradition. Count the classic Series 1/2/3 XJ sporting-road family once across XJ6/XJ12, Daimler Sovereign/Double Six, bodies, wheelbases and years; no trim or later engine tune adds an extra entry.",
+      "evidence": "https://www.jaguar.com/en-au/jdx/news/2024/october/xj-series.html",
+      "duplicate_review": "Absent model/generation checked against the complete 886-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-96.json"
+    },
+    {
+      "manufacturer": "Jaguar",
+      "model": "XJ",
+      "generation": "XJ40-derived X300/X308 production-road sporting-saloon lineage",
+      "proposed_record": "JAG-XJR-X300-EU1995-AT",
+      "reason": "The X300 XJR introduced supercharging to Jaguar’s R saloons. Its AJ16 straight-six paired an Eaton blower and liquid-cooled charge-air system with a production four-door body, establishing a defining strand of later Jaguar performance cars. Count this absent XJ40-derived X300/X308 sporting-saloon lineage once for now; naturally aspirated Sport trim, six-/eight-/twelve-cylinder variants, Daimler badges, transmissions and subsequent years do not add separate counts.",
+      "evidence": "https://media.jlr.com/jaguar/news/2013/03/25-years-jaguar-r-performance-cars",
+      "duplicate_review": "Absent model/generation checked against the complete 886-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-96.json"
     }
   ],
-  "catalogue_count_after_batches": 886
+  "catalogue_count_after_batches": 888
 }
