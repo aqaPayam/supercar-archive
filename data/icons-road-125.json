@@ -1,0 +1,139 @@
+{
+  "batch": "icons-road-2026-10-30-125",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "NIS-SUNNY-KB110-GX5-JP1972",
+      "manufacturer": "Nissan",
+      "model_family": "Sunny / Datsun 1200",
+      "generation": "Second-generation B110 / KB110 Sunny production-road sporting family",
+      "variant": "Datsun Sunny Coupe 1200 GX-5 — original Japan 1972 road-leaflet reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback coupe",
+      "road_legal": 1,
+      "specification_market": "Original B110 / KB110 Datsun Sunny 1200 sporting-road family, represented by the Japan-market 1972 coupe GX-5 and its original Nissan sales leaflet. One family across sedan/coupe, GX/GX-5 grades, years and export Datsun 1200 names. The leaflet’s prominent unparenthesized 83-PS engine reference is selected; gross/net and fuel-grade certification are not inferred from the small-print alternative figures. No later B210/B310, B120 pickup, A12A/A14 engine, ordinary export single-carb output or tuned TS racing specification imported. The Nissan Heritage Collection 063 technical table is explicitly a competition car with a later engine, not road evidence: no 1298 cc, 145 PS, 638 kg, racing Solexes or racing tyres copied. No mass, dimensions, top speed, measured acceleration or uncertain gearbox ratios imported. Direct fifth and road GX-5 introduction are explicitly stated in the manufacturer’s narrative.",
+      "summary": "The B110 Sunny GX road family was a major foundation of Japanese small-capacity touring-car racing. Nissan documents the GX-5 coupe’s use as a race base, while its original road leaflet records a twin-carburettor A12 and close-ratio five-speed with direct fifth. This entry preserves the sporting road car; tuned TS-racer engines and results are not stock-road specifications.",
+      "admission_reason": "The B110 Sunny GX road family was a major foundation of Japanese small-capacity touring-car racing. Nissan documents the GX-5 coupe’s use as a race base, while its original road leaflet records a twin-carburettor A12 and close-ratio five-speed with direct fifth. This entry preserves the sporting road car; tuned TS-racer engines and results are not stock-road specifications.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Co., Ltd.; preserved by Datsun 1200 Technical",
+          "title": "Sunny 1200 GX-5 original Japan sales leaflet — mechanism face",
+          "source_type": "Original manufacturer road-car sales leaflet facsimile",
+          "url": "https://datsun1200.tougetechnologies.com/index.php?title=File:27776.jpg",
+          "notes": "Downloaded original scan at https://datsun1200.tougetechnologies.com/images/f/fb/27776.jpg and individually inspected the complete face. Prominent 83 ps / 6400 rpm, torque paragraph 10.0 kg-m / 4400 rpm, close-ratio manual diagram and front-disc discussion read. No asserted gross/net conversion or top-speed claim imported. Community index is navigation; the original Nissan leaflet image is the evidence."
+        },
+        {
+          "publisher": "Nissan Motor Co., Ltd.; preserved by Datsun 1200 Technical",
+          "title": "Sunny 1200 GX-5 original Japan sales leaflet — specification face",
+          "source_type": "Original manufacturer road-car specification facsimile",
+          "url": "https://datsun1200.tougetechnologies.com/index.php?title=File:27777.jpg",
+          "notes": "Downloaded original scan at https://datsun1200.tougetechnologies.com/images/3/3d/27777.jpg and individually inspected the complete face, including coupe/sedan columns and alternative parenthesized figures. Selected common engine rows only: A12, water-cooled inline-four OHV, 1171 cc and variable-venturi twin carburettors. Small print does not support assigning a new test-basis or fuel-grade certification here; no alternative outputs, body-column mass/dimensions or general equipment transferred."
+        },
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "Heritage Collection No. 063 — Datsun Sunny Coupe 1200GX-5, road origin and TS-racing context",
+          "source_type": "Original manufacturer model and motorsport-history account",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_sunny_1200.html",
+          "notes": "Full relevant page including explicit Competition car / 1975 specification engine qualification and complete narrative read. Narrative separately identifies August 1972 GX-5 two-door coupe as a race base and explains five-speed floor-shift manual with fifth ratio 1.000. Only those road-specific statements supply transmission attributes. No competition-table technical figure or tuned-racer output supplies road fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Datsun Sunny B110 GX-5, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Datsun_Sunny_B110_GX-5,_front_left.jpg",
+          "notes": "TTTNIS; own work dated 1 May 2010. Author public-domain dedication worldwide with unrestricted fallback permission in file licensing section; PD-self, not CC0. The 1280-pixel Commons rendition is copied unchanged. Modified-looking exterior/interior details do not certify factory equipment, engine tune or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Designation",
+          "value": "A12",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Water-cooled inline four-cylinder OHV",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1171",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel delivery",
+          "value": "Variable-venturi twin carburettors",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Quoted factory output",
+          "value": "83 PS at 6400 rpm; test basis not asserted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Quoted maximum torque",
+          "value": "10.0 kgf-m at 4400 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Five-speed floor-shift manual",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Transmission",
+          "label": "Fifth gear ratio",
+          "value": "1.000; direct fifth",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Brakes",
+          "label": "Front brakes",
+          "value": "Disc",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The B110 Sunny GX road family was a major foundation of Japanese small-capacity touring-car racing. Nissan documents the GX-5 coupe’s use as a race base, while its original road leaflet records a twin-carburettor A12 and close-ratio five-speed with direct fifth. This entry preserves the sporting road car; tuned TS-racer engines and results are not stock-road specifications.",
+          "category": "Japanese touring-car racing foundation",
+          "confidence": "Original manufacturer road leaflet and motorsport history documented; competition specifications excluded",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nissan_sunny_b110_gx5.jpg",
+          "caption": "B110-series Sunny GX-5 coupe, photographed by TTTNIS on 1 May 2010. Individually inspected front-side view shows the fastback body and GX-5 grille badge. Visible front spoiler, wheels, RECARO seat and already masked plate do not authenticate factory equipment, exact build year, engine tune or originality. Representative exterior only. Author public-domain dedication; 1280-pixel Commons source rendition copied unchanged.",
+          "creator": "TTTNIS",
+          "license": "Public domain (author dedication)",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "fa865d7c36997a854f4fc969d200ac7ffacfffa1d5eb65e571ab17e046f2fef1"
+        }
+      ]
+    }
+  ]
+}

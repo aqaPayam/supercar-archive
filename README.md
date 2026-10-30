@@ -55,13 +55,15 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and twenty-four reviewed road-icon batches add 526 cars
-to the 395-record baseline, bringing the working catalogue to 921 records.
-The latest [original TE27 Levin / Trueno batch](docs/icons-road-124.md)
+evidence and licensed photograph. One hundred and twenty-five reviewed road-icon batches add 527 cars
+to the 395-record baseline, bringing the working catalogue to 922 records.
+The latest [B110 Sunny GX-5 batch](docs/icons-road-125.md)
 adds one absent sporting-road family, following the
-[V6 Galant / Legnum VR-4 batch](docs/icons-road-123.md). Individual reviews and
+[original TE27 Levin / Trueno batch](docs/icons-road-124.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
+The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
+adds no record while the related-model counting boundary remains pending.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
 corrects four existing image credits and source links while preserving the photos.
 The 1,000-qualifying-car goal remains active: existing records still need the

@@ -5843,7 +5843,18 @@
       "duplicate_review": "Complete 920-record inventory checked for TE27 and Toyota Corolla/Sprinter/E20 identities. Only later AE86 Levin and Trueno are present; the original TE27 programme is absent. Toyota explicitly links original Levin and Trueno to one 20-series 2T-G road programme. Group sister names, years, grades and facelift into one family; do not add the ordinary TE25 or rally 151E car as aliases with transferred specifications.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-124.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Sunny / Datsun 1200",
+      "generation": "Second-generation B110 / KB110 Sunny production-road sporting family",
+      "proposed_record": "NIS-SUNNY-KB110-GX5-JP1972",
+      "reason": "The B110 Sunny GX road family was a major foundation of Japanese small-capacity touring-car racing. Nissan documents the GX-5 coupe’s use as a race base, while its original road leaflet records a twin-carburettor A12 and close-ratio five-speed with direct fifth. This entry preserves the sporting road car; tuned TS-racer engines and results are not stock-road specifications.",
+      "evidence": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_sunny_1200.html",
+      "duplicate_review": "Complete 921-record identity inventory checked for Sunny, B110/KB110, Datsun1200, 1200GX and GX-5 aliases with token boundaries to exclude unrelated Bugatti EB110 strings. No target exists. Count this B110 sporting-road programme once across GX/GX-5, sedan/coupe, years and export names; do not import its TS racer, later B210/B310 or B120 truck as aliases. The researched Celica GT-TS remains uncounted pending its relationship to existing Celica XX and the variant boundary.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-125.json"
     }
   ],
-  "catalogue_count_after_batches": 921
+  "catalogue_count_after_batches": 922
 }
