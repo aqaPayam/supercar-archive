@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and twenty-seven reviewed road-icon batches add 529 cars
-to the 395-record baseline, bringing the working catalogue to 924 records.
-The latest [second-generation Legacy GT-B batch](docs/icons-road-127.md)
+evidence and licensed photograph. One hundred and twenty-eight reviewed road-icon batches add 530 cars
+to the 395-record baseline, bringing the working catalogue to 925 records.
+The latest [original Audi S3 batch](docs/icons-road-128.md)
 adds one absent sporting-road family, following the
-[fourth-generation Legacy GT batch](docs/icons-road-126.md). Individual reviews and
+[second-generation Legacy GT-B batch](docs/icons-road-127.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)

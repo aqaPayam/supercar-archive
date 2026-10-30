@@ -5876,7 +5876,18 @@
       "duplicate_review": "Complete 923-record inventory checked, including every Subaru and Legacy/Liberty/BD5/BG5/GT-B/Lancaster/Outback alias. Only first-generation BC/BF, third-generation BE/BH S401 and fourth-generation BL/BP are present. Second-generation BD/BG is absent. Group its sedan/wagon, regional names, engines, GT/GT-B/RS/Limited grades, years and related Outback/Lancaster versions within one family; no extra trim or body counts.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-127.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S3 / A3",
+      "generation": "First-generation Type 8L A3/S3 sporting-road family",
+      "proposed_record": "AUD-S3-8L-DE1999-MT",
+      "reason": "The original S3 established Audi's turbocharged, all-wheel-drive premium performance hatchback formula. Its lasting influence is documented in a retrospective drive and its original sporting-road character in a 1999 road test. Treat it as an influential hot hatch with reserved handling character, not as an unqualified handling benchmark; count the complete 8L sporting-road family once.",
+      "evidence": "https://www.pistonheads.com/features/ph-features/audi-s3--ph-origin-story/45979",
+      "duplicate_review": "Complete 924-record identity inventory checked, including all Audi A3/S3/RS3 and Type 8L/8P/8V/8Y aliases. Only later-generation 8P, 8V and 8Y RS3 road families are present; no first-generation 8L A3/S3 sporting-road family. Count all 8L outputs, facelifts, markets, years and equipment in one family; do not add later 225 PS versions separately.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-128.json"
     }
   ],
-  "catalogue_count_after_batches": 924
+  "catalogue_count_after_batches": 925
 }

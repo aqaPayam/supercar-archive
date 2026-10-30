@@ -1,0 +1,216 @@
+{
+  "batch": "icons-road-2026-10-30-128",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "AUD-S3-8L-DE1999-MT",
+      "manufacturer": "Audi",
+      "model_family": "S3 / A3",
+      "generation": "First-generation Type 8L A3/S3 sporting-road family",
+      "variant": "S3 quattro — original spring 1999 Germany six-speed manual",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "First-generation Audi A3/S3 Type 8L sporting-road family, selected original spring 1999 German S3 six-speed manual. One family across 210 PS and later 225 PS versions, facelifts, equipment, years and regional names; no extra output or trim counts. Existing 8P/8V/8Y RS3 records are later A3 generations; no original 8L is present. Factory launch account preserved by Automotive Intelligence controls selected launch figures; Audi's 2026 generation account corroborates engine layout/twin intercoolers and 210 PS introduction. No engine code, exact cc, mass, maximum speed, brake dimensions, rear-disc ventilation or detailed fixed torque split imported. PistonHeads drove a later 225 PS MTM-tuned heritage car: its 250hp, measured performance and BAM details are not original 1999 specifications. Quattro here uses a hydraulic multi-plate clutch, not a longitudinal mechanical centre-differential system.",
+      "summary": "The original S3 established Audi's turbocharged, all-wheel-drive premium performance hatchback formula. Its lasting influence is documented in a retrospective drive and its original sporting-road character in a 1999 road test. Treat it as an influential hot hatch with reserved handling character, not as an unqualified handling benchmark; count the complete 8L sporting-road family once.",
+      "admission_reason": "The original S3 established Audi's turbocharged, all-wheel-drive premium performance hatchback formula. Its lasting influence is documented in a retrospective drive and its original sporting-road character in a 1999 road test. Treat it as an influential hot hatch with reserved handling character, not as an unqualified handling benchmark; count the complete 8L sporting-road family once.",
+      "sources": [
+        {
+          "publisher": "Audi launch account; preserved by Automotive Intelligence",
+          "title": "Audi S3 — original spring 1999 German launch account",
+          "source_type": "Preserved manufacturer launch narrative",
+          "url": "https://www.autointell.net/european_companies/volkswagen/audi-ag/audi-cars/audi-s3/audiag1124.htm",
+          "notes": "Complete relevant launch body read through German spring-1999 availability paragraph. Preserved text matches the separately indexed February-1999 Audi release on AudiWorld; the AudiWorld full page returned 403 and is not claimed as read. Sixteen attributes use this launch narrative; engine layout and twin intercoolers map to source 1. The linked technical sheet points to an A6 path and is not used. No top speed, exact cc, engine code, mass or rear-disc ventilation imported. Retain 154 kW rather than copying its ambiguous 210 bhp label; Audi source 1 confirms 210 PS."
+        },
+        {
+          "publisher": "Audi AG",
+          "title": "30 Jahre Audi A3: Drei Jahrzehnte Vorsprung im Premium-Kompaktsegment — 9 October 2026, first-generation section",
+          "source_type": "Manufacturer retrospective generation history",
+          "url": "https://www.audi.com/de/pressemitteilungen/30-jahre-audi-a3-drei-jahrzehnte-vorsprung-im-premium-kompaktsegment-18368",
+          "notes": "Introduction, complete first-generation 8L section, later-generation distinctions and chronology read. Two engine attributes map here: inline-four configuration and turbo with two intercoolers. Confirms original S3 154 kW/210 PS, manual six-speed, three doors, and later 165 kW/225 PS update. Does not assign five-door A3 body to S3. No rear-ventilated-disc claim or figures from later A3/RS3 generations imported."
+        },
+        {
+          "publisher": "BIL / BilNorge",
+          "title": "Audi S3 — Trygve Bæra, 3 April 1999; first published BIL 4/1999",
+          "source_type": "Original contemporary launch road drive",
+          "url": "https://www.bilnorge.no/audi-provekjort-provekjort/audi-s3/280902",
+          "notes": "Complete original review body and panel read. Describes six-speed gearbox operation and successful balance of sporting chassis and comfort over uneven roads. German April availability and Norwegian June arrival are distinguished. Supplies contemporary admission context only; no numerical specifications imported. Apparent wheelbase-unit error in panel, driver-inclusive mass and later brake conflicts are not reused."
+        },
+        {
+          "publisher": "PistonHeads",
+          "title": "Audi S3 | PH Origin Story — Matt Bird, 24 July 2022",
+          "source_type": "Original retrospective drive of modified heritage car with historical analysis",
+          "url": "https://www.pistonheads.com/features/ph-features/audi-s3--ph-origin-story/45979",
+          "notes": "Complete feature body and both specification panels read. Documents influence on the premium AWD turbo hot-hatch formula, secure character and heavy/numb steering, rather than a universal handling-win claim. Actual old car is an MTM demonstrator retained in modified tune from a later 225 PS base; 250hp, 273lb-ft, 6.0-second and BAM details are not stock 1999 specifications despite its panel heading. Embedded quotations from period magazines are secondary reporting, not independently read original tests. No technical attribute maps here."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2000 Audi S3 (8L) quattro 3-door hatchback (2015-05-29) 01 (cropped).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2000_Audi_S3_(8L)_quattro_3-door_hatchback_(2015-05-29)_01_(cropped).jpg",
+          "notes": "OSX, own work dated 29 May 2015 in Northcote, Victoria, Australia. Cropped derivative of the linked original photograph. File summary, author public-domain dedication worldwide with unrestricted fallback permission, and API metadata read; PD-self, not CC0. Downloaded 1280-pixel cropped JPEG rendition individually inspected and copied unchanged. File identifies a 2000 Australian car, representative of the pre-facelift 8L S3 body; not proof of 1999 German equipment, transmission, originality or build year."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "1.8",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction and charge cooling",
+          "value": "Turbocharger with two intercoolers",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Factory maximum output",
+          "value": "154 kW at 5800 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "270 Nm at 2100-5000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels and coupling",
+          "value": "Quattro all-wheel drive with hydraulic multi-plate clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Front traction aid",
+          "value": "Electronic differential lock (EDS)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "McPherson struts with forged wishbones",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Independent; single trailing arms and double wishbones; separate springs and dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory design",
+          "value": "17-inch Avus cast aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Factory fitment",
+          "value": "225/45 R17 W",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Width",
+          "value": "1763",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Height",
+          "value": "1415",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Luggage capacity",
+          "value": "270 L; 1020 L with rear backrest folded",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Front seats",
+          "value": "Recaro sports seats, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lighting",
+          "label": "Headlamps",
+          "value": "Xenon, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed 0-100 km/h",
+          "value": "6.8",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original S3 established Audi's turbocharged, all-wheel-drive premium performance hatchback formula. Its lasting influence is documented in a retrospective drive and its original sporting-road character in a 1999 road test. Treat it as an influential hot hatch with reserved handling character, not as an unqualified handling benchmark; count the complete 8L sporting-road family once.",
+          "category": "Premium performance-hatchback heritage",
+          "confidence": "Manufacturer chronology, contemporary original drive and qualified retrospective analysis",
+          "source": 3
+        },
+        {
+          "title": "Contemporary sporting-road character",
+          "explanation": "BIL's April 1999 drive describes a precise six-speed gearbox and a successful balance of sporting response with comfort on uneven roads. This is contemporary launch-car evidence, separate from the modified heritage car driven decades later.",
+          "category": "Contemporary road-test context",
+          "confidence": "Original contemporary launch drive; no numerical test value transferred",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_audi_s3_8l_de1999.jpg",
+          "caption": "Pre-facelift 8L S3 hatchback photographed by OSX in Northcote, Victoria, Australia on 29 May 2015; Commons identifies the photographed car as a 2000 example. Individually inspected front-side view shows the red three-door body, split early headlamps and Avus-style wheels. Representative exterior, not authentication of 1999 German specification, gearbox, equipment or originality. Author public-domain dedication worldwide; downloaded 1280-pixel cropped rendition copied unchanged.",
+          "creator": "OSX",
+          "license": "Public domain (author dedication)",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "d8b182bf0fc632c571a65c6527dd3e12238561bd364c8725853320c08ed2065b"
+        }
+      ]
+    }
+  ]
+}
