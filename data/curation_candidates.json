@@ -5623,7 +5623,18 @@
       "duplicate_review": "Complete 900-record identity inventory checked for Impala, Biscayne, Bel Air and 409 aliases. Only the 1994–1996 Impala SS is present. Original 1961–1964 performance-road family counted once across bodies, years, engines and SS option choices.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-104.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Galaxie",
+      "generation": "1960–1964 Galaxie production-road performance family",
+      "proposed_record": "FOR-GALAXIE-G2-500SPORTS-427-1963",
+      "reason": "The Galaxie 427 Sports Hardtop is a defining full-size American muscle-car programme, combining dual-quad FE V8 performance with a purposeful chassis package and the fastback body associated with Ford’s racing effort. An independent first-hand historical evaluation supports its performance significance while distinguishing road cars from lightweight competition specials.",
+      "evidence": "https://www.motortrend.com/features/12q2-1962-chevrolet-impala-ss403-vs-1963-ford-galaxie-500",
+      "duplicate_review": "Complete 901-record identity inventory checked for Galaxie, Starliner, Sunliner and 427 references; no target is present. The 1960–1964 Galaxie performance-road family is counted once across years, bodies, roofs and engine options; lightweight competition cars are excluded.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-105.json"
     }
   ],
-  "catalogue_count_after_batches": 901
+  "catalogue_count_after_batches": 902
 }

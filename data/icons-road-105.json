@@ -1,0 +1,216 @@
+{
+  "batch": "icons-road-2026-10-30-105",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "FOR-GALAXIE-G2-500SPORTS-427-1963",
+      "manufacturer": "Ford",
+      "model_family": "Galaxie",
+      "generation": "1960–1964 Galaxie production-road performance family",
+      "variant": "500 Sports Hardtop dual-carb 427 — 1963 USA revised factory catalogue, four-speed",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door Sports Hardtop fastback",
+      "road_legal": 1,
+      "specification_market": "1963 USA Galaxie 500 Sports Hardtop with optional dual-carb 425-bhp 427 and selected four-speed manual, revised December 1962 factory catalogue. Use the 500 body leaf, not XL bucket-seat trim or sedan dimensions. Retain factory advertised bhp/native units without a modern net/kW conversion. No lightweight body materials, race output, top speed, curb weight, installed axle ratio or power assistance inferred. Count the 1960–1964 performance-road Galaxie family once across years, roofs and engines.",
+      "summary": "The Galaxie 427 Sports Hardtop is a defining full-size American muscle-car programme, combining dual-quad FE V8 performance with a purposeful chassis package and the fastback body associated with Ford’s racing effort. An independent first-hand historical evaluation supports its performance significance while distinguishing road cars from lightweight competition specials.",
+      "admission_reason": "The Galaxie 427 Sports Hardtop is a defining full-size American muscle-car programme, combining dual-quad FE V8 performance with a purposeful chassis package and the fastback body associated with Ford’s racing effort. An independent first-hand historical evaluation supports its performance significance while distinguishing road cars from lightweight competition specials.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company / XR793 facsimile",
+          "title": "1963 Super Torque Ford — revised road catalogue, December 1962",
+          "source_type": "Original manufacturer sales/specification brochure, hosted scan",
+          "url": "https://xr793.com/wp-content/uploads/2021/10/1963-Ford-Galaxie-V2.pdf",
+          "notes": "1963 USA Galaxie 500 Sports Hardtop with optional dual-carb 425-bhp 427 and selected four-speed manual, revised December 1962 factory catalogue. Use the 500 body leaf, not XL bucket-seat trim or sedan dimensions. Retain factory advertised bhp/native units without a modern net/kW conversion. No lightweight body materials, race output, top speed, curb weight, installed axle ratio or power assistance inferred. Count the 1960–1964 performance-road Galaxie family once across years, roofs and engines. Full PDF indexes 5 (printed 10–11), 15 (30–31) and 16 (specification/back cover), including enlarged package/table regions, visually read. Four-speed is the selected factory manual option; no universal mandatory-transmission rule inferred from the general table."
+        },
+        {
+          "publisher": "Motor Trend Classic",
+          "title": "1962 Chevrolet Impala SS409 vs. 1963 Ford Galaxie 500 — Frank Markus, Spring 2012",
+          "source_type": "First-hand historical vehicle evaluation, publisher archive",
+          "url": "https://www.motortrend.com/features/12q2-1962-chevrolet-impala-ss403-vs-1963-ford-galaxie-500",
+          "notes": "The author drives the surviving road examples and explains the performance-era significance. Used for admission only. Track-prepared engines, lightweight packages, prototype laps, comparative performance from different tests and sale values are not selected-road factory specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Ford Galaxie 500 Sports Roof 427 (33151018291).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Ford_Galaxie_500_Sports_Roof_427_(33151018291).jpg",
+          "notes": "Sicnag; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit: 1963 Ford Galaxie 500 Sports Roof 427. Original credit links: https://www.flickr.com/photos/42220226@N07/33151018291/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "427",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "425",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "480",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke, brochure nominal",
+          "value": "4.23 × 3.78",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two matched, synchronized four-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel grade",
+          "value": "Super premium, brochure specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "Fully synchronized four-speed manual; floor-mounted lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "High-performance engine package",
+          "value": "Heavy-duty fade-resistant brakes; power assistance not assumed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Engine package wheel diameter",
+          "value": "15",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Engine package tyres",
+          "value": "7.10 × 15 four-ply black-sidewall tubeless",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Engine package suspension",
+          "value": "Heavy-duty springs and shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Engine package rear axle",
+          "value": "Extra-heavy-duty; exact installed ratio not assigned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Frame",
+          "value": "Wide-contoured box-section frame with double-channel side rails",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "119",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "209.9",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "80.0",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height, Sports Hardtop",
+          "value": "54.5",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Galaxie 427 Sports Hardtop is a defining full-size American muscle-car programme, combining dual-quad FE V8 performance with a purposeful chassis package and the fastback body associated with Ford’s racing effort. An independent first-hand historical evaluation supports its performance significance while distinguishing road cars from lightweight competition specials.",
+          "category": "Historical significance",
+          "confidence": "Independent first-hand historical evaluation documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_galaxie_g2_500sports_427_1963.jpg",
+          "caption": "1963 Galaxie 500 Sports Roof 427 photographed by Sicnag; source identifies Corinthian White. Representative road hardtop body with a flat bonnet, intact headlamps and 427-style identification. The image does not authenticate dual-carb equipment, engine output, transmission, original package identity or restoration history.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "abe7e89eb39b9a248c86d15cb849c3b443fa8980a9a4507fb66c689ab25b33d2"
+        }
+      ]
+    }
+  ]
+}
