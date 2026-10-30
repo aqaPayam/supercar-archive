@@ -1,0 +1,146 @@
+{
+  "batch": "icons-road-2026-10-30-85",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "REN-12-GORDINI-R1173-HERITAGE1970",
+      "manufacturer": "Renault",
+      "model_family": "12 Gordini",
+      "generation": "Original R1173 Renault 12 sporting-road saloon family",
+      "variant": "1565 cc type 807-20 — original 1970 factory-history reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting road saloon",
+      "road_legal": 1,
+      "specification_market": "Original R1173 Renault 12 Gordini production-road programme introduced in 1970, selected 1565 cc type 807-20 factory-history reference. Renault’s actual history pages 12–14 separate the standard 113 ch DIN / 125 ch SAE engine from the later 1596 cc 807-G competition kit and other prepared cars. No 150-ch racing output, aluminium competition bodywork, Sinpar 4x4 estate, event-record specification or equipment-year equivalence is inferred. Original power units are retained without an unverified modern conversion. The representative photographed car has fitted bumpers and a different seat/equipment presentation from the earliest stripped specification; its chassis, unseen engine tune and exact year are not authenticated here.",
+      "summary": "The R1173 Renault 12 Gordini carried the Gordini sporting-saloon tradition from the rear-engined R8 into a front-wheel-drive programme. Its dedicated 1565 cc engine, ventilated front discs and stripped Group 1 homologation specification made it a real performance derivative, with a lasting place in the Gordini Cup and Renault’s driver-development history. One original Renault 12 sporting family is counted; ordinary 12s, badges, model years, later equipment packages and prepared racing evolutions do not create additional entries.",
+      "admission_reason": "The R1173 Renault 12 Gordini carried the Gordini sporting-saloon tradition from the rear-engined R8 into a front-wheel-drive programme. Its dedicated 1565 cc engine, ventilated front discs and stripped Group 1 homologation specification made it a real performance derivative, with a lasting place in the Gordini Cup and Renault’s driver-development history. One original Renault 12 sporting family is counted; ordinary 12s, badges, model years, later equipment packages and prepared racing evolutions do not create additional entries.",
+      "sources": [
+        {
+          "publisher": "Renault Classic",
+          "title": "Renault Gordini — Les Cahiers Histoire et Passions, tome 1; R12 pages 12–14",
+          "source_type": "Manufacturer historical publication",
+          "url": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LaSagaGORDINI.pdf",
+          "notes": "Original R1173 Renault 12 Gordini production-road programme introduced in 1970, selected 1565 cc type 807-20 factory-history reference. Renault’s actual history pages 12–14 separate the standard 113 ch DIN / 125 ch SAE engine from the later 1596 cc 807-G competition kit and other prepared cars. No 150-ch racing output, aluminium competition bodywork, Sinpar 4x4 estate, event-record specification or equipment-year equivalence is inferred. Original power units are retained without an unverified modern conversion. The representative photographed car has fitted bumpers and a different seat/equipment presentation from the earliest stripped specification; its chassis, unseen engine tune and exact year are not authenticated here."
+        },
+        {
+          "publisher": "Renault — The Originals Museum",
+          "title": "Renault 12 Gordini — French manufacturer museum profile",
+          "source_type": "Manufacturer museum history",
+          "url": "https://theoriginals.renault.com/r12-gordini",
+          "notes": "Actual French museum profile read through the web reader. Supports the front-engine/front-drive saloon layout, sporting succession and Group 1 purpose, and corroborates 1565 cc / 113 ch DIN at 6250 rpm / front ventilated discs. Page header depicts a 1971 reference while the text discusses the 1970 introduction. Does not establish the photographed car’s chassis or equipment-year identity. Cape Town–Algiers elapsed-time claims differ from the history PDF and are not imported; neither are exact top speed, dimensions or production total. A separate raw download returned 503, with no bypass."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Renault 12 Gordini (46958754985).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Renault_12_Gordini_(46958754985).jpg",
+          "notes": "Guillaume Vachey from Chalon sur Saone, France; CC0 1.0 public-domain dedication. Licence/dedication: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Original credit: Renault 12 Gordini. Downloaded rendition copied unchanged. Representative road-bodied Gordini with fitted bumpers; no claim that visible equipment matches the earliest stripped road reference."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1565",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine type",
+          "value": "807-20",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (DIN)",
+          "value": "113",
+          "unit": "ch DIN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (SAE)",
+          "value": "125",
+          "unit": "ch SAE",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "77",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "84",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front brakes",
+          "value": "Ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R1173 Renault 12 Gordini carried the Gordini sporting-saloon tradition from the rear-engined R8 into a front-wheel-drive programme. Its dedicated 1565 cc engine, ventilated front discs and stripped Group 1 homologation specification made it a real performance derivative, with a lasting place in the Gordini Cup and Renault’s driver-development history. One original Renault 12 sporting family is counted; ordinary 12s, badges, model years, later equipment packages and prepared racing evolutions do not create additional entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_12_gordini_r1173_heritage1970.jpg",
+          "caption": "Renault 12 Gordini photographed by Guillaume Vachey, shown with a 1972 display card and fitted bumpers. Representative sporting road saloon body; bumpers were optional on the original stripped specification. The photo does not establish the earliest seat equipment, exact chassis identity, original engine tune or competition preparation.",
+          "creator": "Guillaume Vachey from Chalon sur Saone, France",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fdd4d73acc36dac47b4576b46c03147a305423b3e30e2f921520948728ae11d2"
+        }
+      ]
+    }
+  ]
+}

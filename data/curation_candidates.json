@@ -5260,7 +5260,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 867-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-84.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "12 Gordini",
+      "generation": "Original R1173 Renault 12 sporting-road saloon family",
+      "proposed_record": "REN-12-GORDINI-R1173-HERITAGE1970",
+      "reason": "The R1173 Renault 12 Gordini carried the Gordini sporting-saloon tradition from the rear-engined R8 into a front-wheel-drive programme. Its dedicated 1565 cc engine, ventilated front discs and stripped Group 1 homologation specification made it a real performance derivative, with a lasting place in the Gordini Cup and Renault’s driver-development history. One original Renault 12 sporting family is counted; ordinary 12s, badges, model years, later equipment packages and prepared racing evolutions do not create additional entries.",
+      "evidence": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LaSagaGORDINI.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 868-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-85.json"
     }
   ],
-  "catalogue_count_after_batches": 868
+  "catalogue_count_after_batches": 869
 }
