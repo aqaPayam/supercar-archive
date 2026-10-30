@@ -5249,7 +5249,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 866-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-83.json"
+    },
+    {
+      "manufacturer": "Peugeot",
+      "model": "104",
+      "generation": "Original Peugeot 104 production-road sporting hatchback family",
+      "proposed_record": "PEU-104-ZS2-BASE1979",
+      "reason": "The 104 ZS2 was Peugeot’s purpose-built Group 2 homologation special, rather than an ordinary 104 with cosmetic trim. Its enlarged engine, twin Solex carburettors and documented production recognition mark an early step in Peugeot’s sporting-hatchback history before the 205 GTI. One original 104 sporting family is admitted; other ZS engines, later gearboxes and competition evolutions do not add separate counts.",
+      "evidence": "https://www.media.stellantis.com/it-it/peugeot/press/peugeot-104-la-piccola-che-accende-la-miccia-dello-sport",
+      "duplicate_review": "Absent model/generation checked against the complete 867-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-84.json"
     }
   ],
-  "catalogue_count_after_batches": 867
+  "catalogue_count_after_batches": 868
 }

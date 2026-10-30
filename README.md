@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Eighty-three reviewed road-icon batches add 472 cars
-to the 395-record baseline, bringing the working catalogue to 867 records.
-The latest [Talbot Samba Rallye batch](docs/icons-road-83.md)
+evidence and licensed photograph. Eighty-four reviewed road-icon batches add 473 cars
+to the 395-record baseline, bringing the working catalogue to 868 records.
+The latest [Peugeot 104 ZS2 batch](docs/icons-road-84.md)
 adds one absent original sporting-road family, following the
-[Matra 530 batch](docs/icons-road-82.md). Individual reviews and
+[Talbot Samba Rallye batch](docs/icons-road-83.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
