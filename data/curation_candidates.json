@@ -6090,7 +6090,18 @@
       "duplicate_review": "Complete 941-record identity inventory checked for Intermeccanica, Griffith, Omega, Torino, Italia and Apollo aliases. Eight unrelated hits reviewed: Ferrari 458, Bugatti EB110 text, Lotus Carlton/Omega, Maserati Biturbo text, modern TVR Griffith, Triumph GT6 text, Gumpert Apollo and Ford Torino. No original Intermeccanica road family found. Group Griffith/Omega/Torino/Italia stages and road bodies/engines once conservatively; Apollo antecedent and Indra remain separate research subjects. No prototype or replica addition.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-145.json"
+    },
+    {
+      "manufacturer": "Apollo / International Motor Cars",
+      "model": "Apollo GT / Vetta Ventura",
+      "generation": "Original 3500/5000 production-road family",
+      "proposed_record": "APO-GT5000-TAM1963",
+      "reason": "The Apollo GT earns a place as a distinctive American-Italian sporting GT: Milt Brown paired Buick power with bespoke Intermeccanica coachwork shaped by Ron Plescia and Franco Scaglione. Buckley’s original drive and founder interview document a coherent sporting design rather than a rarity-only curiosity. Count the Apollo 3500/5000 and Vetta Ventura production-road family once.",
+      "evidence": "https://www.classicandsportscar.com/en-US/features/american-classic-car-thinks-its-ferrari",
+      "duplicate_review": "Complete fresh 942-record identity inventory checked for Apollo, Vetta, Ventura, International Motor and Intermeccanica. Two hits: unrelated modern Gumpert Apollo and later Griffith/Omega/Torino/Italia family. No original Apollo GT present. Group Apollo 3500/5000, Vetta Ventura, road bodies, engines and producer stages once; no GT.L or mid-engine prototype, racing addition or separately counted reference year.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-146.json"
     }
   ],
-  "catalogue_count_after_batches": 942
+  "catalogue_count_after_batches": 943
 }

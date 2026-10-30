@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and forty-five reviewed road-icon batches add 547 cars
-to the 395-record baseline, bringing the working catalogue to 942 records.
-The latest [Intermeccanica Torino/Italia batch](docs/icons-road-145.md)
-adds one absent transatlantic sporting-road family, following the
-[Monteverdi High Speed batch](docs/icons-road-144.md). Individual reviews and
+evidence and licensed photograph. One hundred and forty-six reviewed road-icon batches add 548 cars
+to the 395-record baseline, bringing the working catalogue to 943 records.
+The latest [Apollo GT batch](docs/icons-road-146.md)
+adds one absent American-Italian sporting-GT road family, following the
+[Intermeccanica Torino/Italia batch](docs/icons-road-145.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
