@@ -6145,7 +6145,18 @@
       "duplicate_review": "Complete fresh 946-record identity inventory checked for Mosler, MT900, MT 900 and Consulier; no hits. Group original MT900/MT900S road engines, reference years and packages once. No MT900R/GT3, original prototype, replica or separately counted modified test car. Consulier is an earlier different programme, not an admitted alias here.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-150.json"
+    },
+    {
+      "manufacturer": "Panoz",
+      "model": "Esperante",
+      "generation": "Original Esperante production-road sports-GT family",
+      "proposed_record": "PAN-ESPERANTE-GTLM-DRIVE2005",
+      "reason": "The Esperante GTLM road car combines supercharged Ford SVT V8 power with a developed rear suspension and chassis module, documented in a period firsthand drive with Dan Panoz. It represents the independent American performance-GT programme rather than rarity alone. Count the related Esperante road family once; its racing relatives and additional body or engine versions do not create further entries.",
+      "evidence": "https://www.autoweek.com/news/a2062141/2005-panoz-esperante-gtlm-esperante-extremus-new-gtlm-addresses-all-your-panoz/",
+      "duplicate_review": "Complete fresh 947-record identity inventory checked for Panoz, Esperante, GTLM, GTR-1, GTR1 and Avezzano. Only existing Panoz entry is PAN-AIV-ROADSTER-US1998, a different earlier model. Group original Esperante/GT/GTLM road bodies, engines, reference years and later related road development once. No GTS, GTLM racer, GTR-1, LMP, prototype or separate body/upgrade count.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-151.json"
     }
   ],
-  "catalogue_count_after_batches": 947
+  "catalogue_count_after_batches": 948
 }
