@@ -5583,14 +5583,14 @@
     {
       "manufacturer": "Hudson",
       "model": "Hornet",
-      "generation": "Original step-down Hornet production-road family; not later AMC Hornet",
-      "proposed_record": "Research candidate only — exact road year, body and Twin H option reference pending",
-      "reason": "The original Hornet is a strong historic performance-road candidate because its step-down chassis and six-cylinder programme underpinned major early stock-car success and lasting cultural significance. Racing heritage supports admission research, while the selected catalogue record must use production-road hardware.",
+      "generation": "Original 1951–1954 step-down Hudson Hornet production-road family",
+      "proposed_record": "HUD-HORNET-STEPDOWN-TWINH-1954",
+      "reason": "The original step-down Hudson Hornet is a historic American performance icon: its low-set chassis and large six-cylinder engine underpinned the Fabulous Hudson Hornet stock-car programme, whose success and enduring cultural recognition extend well beyond the car’s rarity. This production-road representative preserves that lineage without adopting racing hardware.",
       "evidence": "https://driversfoundation.org/registry/1952-hudson-hornet",
-      "duplicate_review": "All 897 actual identity rows checked on 2026-10-30 for Hudson, Hornet, Twin H/Twin-H and step-down aliases: no matches. Jensen FF was also considered but excluded from new additions after confirming the existing batch-29 road record. Repeat the complete duplicate check immediately before import.",
-      "remaining": "Select and visually read a reliable original production-road specification and exact year/body/induction reference; obtain and verify licensed representative road-car photography. The register page concerns a restored NASCAR car with a replacement 7X engine; its race engine, transmission, wheels and figures must not be imported as standard-road specs. Its header says 2x2bbl while engine prose says dual 1bbl; resolve with original factory evidence.",
-      "status": "Research pending — not imported and contributes zero to the 897 working records"
+      "duplicate_review": "Complete 897-record identity check on 2026-10-30 found no Hudson, Hornet, Twin H/Twin-H or step-down alias. Original step-down family counted once across years, bodies and engine options; no later AMC Hornet or race car added.",
+      "remaining": "None for selected 1954 production-road brochure reference; other variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-101.json"
     }
   ],
-  "catalogue_count_after_batches": 897
+  "catalogue_count_after_batches": 898
 }

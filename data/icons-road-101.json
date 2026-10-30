@@ -1,0 +1,181 @@
+{
+  "batch": "icons-road-2026-10-30-101",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HUD-HORNET-STEPDOWN-TWINH-1954",
+      "manufacturer": "Hudson",
+      "model_family": "Hornet",
+      "generation": "Original 1951–1954 step-down Hudson Hornet production-road family",
+      "variant": "Twin H-Power four-door sedan — 1954 USA factory brochure, standard manual reference",
+      "model_year_from": 1954,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door six-seat sedan",
+      "road_legal": 1,
+      "specification_market": "1954 USA Hornet four-door sedan with optional Twin H-Power and standard manual transmission. Factory brochure printed pages 4–5, 10–11 and 16 were visually read. Retain advertised 170 hp in its original convention; no modern net conversion. Standard aluminium head is 7.5:1; optional cast-iron head, Hydra-Matic, overdrive and power assists are not assumed. No 7X racing specifications, measured acceleration or verified top speed supplied. Count the original step-down Hornet family once across years, bodies and engines.",
+      "summary": "The original step-down Hudson Hornet is a historic American performance icon: its low-set chassis and large six-cylinder engine underpinned the Fabulous Hudson Hornet stock-car programme, whose success and enduring cultural recognition extend well beyond the car’s rarity. This production-road representative preserves that lineage without adopting racing hardware.",
+      "admission_reason": "The original step-down Hudson Hornet is a historic American performance icon: its low-set chassis and large six-cylinder engine underpinned the Fabulous Hudson Hornet stock-car programme, whose success and enduring cultural recognition extend well beyond the car’s rarity. This production-road representative preserves that lineage without adopting racing hardware.",
+      "sources": [
+        {
+          "publisher": "Hudson Motor Car Company / Over-Drive Magazine facsimile",
+          "title": "Presenting the All-New Hudsons for 1954 — original factory brochure",
+          "source_type": "Period manufacturer sales brochure, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/Hudson/1954-Hudson-FL-Brochure-1-16C.pdf",
+          "notes": "1954 USA Hornet four-door sedan with optional Twin H-Power and standard manual transmission. Factory brochure printed pages 4–5, 10–11 and 16 were visually read. Retain advertised 170 hp in its original convention; no modern net conversion. Standard aluminium head is 7.5:1; optional cast-iron head, Hydra-Matic, overdrive and power assists are not assumed. No 7X racing specifications, measured acceleration or verified top speed supplied. Count the original step-down Hornet family once across years, bodies and engines."
+        },
+        {
+          "publisher": "Hagerty Drivers Foundation",
+          "title": "1952 Hudson Hornet — National Historic Vehicle Register No. 31",
+          "source_type": "Historic vehicle register / heritage account",
+          "url": "https://driversfoundation.org/registry/1952-hudson-hornet",
+          "notes": "Used for the Hornet programme’s stock-car heritage and cultural significance only. The registered car is a restored racer with a replacement 7X engine. Its engine/transmission/wheel figures are not production-road specifications. Conflicting carburettor descriptions in page header and body are not imported; no fleet/survivor count inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1954 Hudson Hornet Twin-H - Hostetlers Hudsons 3-8-2008 261 N.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1954_Hudson_Hornet_Twin-H_-_Hostetlers_Hudsons_3-8-2008_261_N.jpg",
+          "notes": "Joe Ross; CC BY-SA 2.0. Exact licence: https://creativecommons.org/licenses/by-sa/2.0. Original credit: https://www.flickr.com/photos/joeross/39920445843/. Original credit links: https://www.flickr.com/photos/joeross/39920445843/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "L-head inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "308",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised Twin H-Power",
+          "value": "170",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio, standard aluminium head",
+          "value": "7.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Optional Twin H-Power multiple fueling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "Standard synchronized-mesh manual; steering-column shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio, supplied with selected manual",
+          "value": "4.09:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Monobilt integrated steel body-and-frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Front suspension",
+          "value": "Independent with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Rear suspension",
+          "value": "Angled semielliptical leaf springs; lateral stabilizer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Damping",
+          "value": "Double-acting front and rear shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-action hydraulic with reserve mechanical system on same pedal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Worm and three-tooth roller-sector; power steering optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard tyre size, sedan",
+          "value": "7.10 × 15",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "124",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seating capacity",
+          "value": "6",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original step-down Hudson Hornet is a historic American performance icon: its low-set chassis and large six-cylinder engine underpinned the Fabulous Hudson Hornet stock-car programme, whose success and enduring cultural recognition extend well beyond the car’s rarity. This production-road representative preserves that lineage without adopting racing hardware.",
+          "category": "Historical significance",
+          "confidence": "Historic vehicle register documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hud_hornet_stepdown_twinh_1954.jpg",
+          "caption": "1954 Hornet Twin-H four-door sedan photographed by Joe Ross at Hostetler’s Hudson collection in Shipshewana, Indiana, in March 2008. Representative road body with paired intake housings visible under the open bonnet. The photograph does not authenticate exact output, head material, transmission, factory-original equipment or restoration history.",
+          "creator": "Joe Ross",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f748d0ae29e1fabcb9b7e826cb72b4a2a5bef533ac6f707ccea2aa69979f2f31"
+        }
+      ]
+    }
+  ]
+}

@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred reviewed road-icon batches add 502 cars
-to the 395-record baseline, bringing the working catalogue to 897 records.
-The latest [Thunderbird, Sentra SE-R and Omni GLH-S batch](docs/icons-road-100.md)
-adds three absent performance-road families, following the
-[original Taurus SHO and Neon SRT-4 batch](docs/icons-road-99.md). Individual reviews and
+evidence and licensed photograph. One hundred and one reviewed road-icon batches add 503 cars
+to the 395-record baseline, bringing the working catalogue to 898 records.
+The latest [original Hudson Hornet batch](docs/icons-road-101.md)
+adds one absent performance-road family, following the
+[Thunderbird, Sentra SE-R and Omni GLH-S batch](docs/icons-road-100.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
