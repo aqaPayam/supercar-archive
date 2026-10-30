@@ -5502,7 +5502,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 888-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-97.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Skyline",
+      "generation": "Eleventh-generation V35 / CPV35 performance-road family; Infiniti G35 alias",
+      "proposed_record": "NIS-SKY-CPV35-350GT-HERITAGE2003",
+      "reason": "The V35 Skyline Coupe / Infiniti G35 brought Nissan’s front-midship V6 architecture to a distinctive four-seat sports coupe. The export G35 coupe shared Motor Trend’s 2003 Car of the Year award with its saloon sibling, giving this generation an established performance-car significance beyond its Skyline badge.",
+      "evidence": "https://www.motortrend.com/news/coyw",
+      "duplicate_review": "Absent model/generation checked against the complete 890-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-98.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S6",
+      "generation": "Original C4 S4/S6/S6 plus sporting-road family",
+      "proposed_record": "AUD-S6PLUS-C4-DE1996-SALOON",
+      "reason": "The C4 S6 plus was quattro GmbH’s first complete high-performance model as a vehicle manufacturer, preceding its later RS programmes. Its reworked V8, six-speed manual and permanent quattro make it a substantive milestone in Audi Sport’s road-car engineering history.",
+      "evidence": "https://www.audi.com/en/highlights-from-40-years-of-audi-sport-gmbh-15337/high-performance-models-made-by-quattro-15340",
+      "duplicate_review": "Absent model/generation checked against the complete 890-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-98.json"
     }
   ],
-  "catalogue_count_after_batches": 890
+  "catalogue_count_after_batches": 892
 }
