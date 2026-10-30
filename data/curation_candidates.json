@@ -5744,7 +5744,18 @@
       "duplicate_review": "Complete 911-record identity inventory checked for i30 N/i30N, Elantra and Veloster aliases, plus every Hyundai identity. Only the preserved personal Verna exists; no target is present. Count the original PD-based N road family once across outputs, years, hatch/Fastback and facelift. Ordinary i30/Elantra GT, N Line, TCR and Project C specifications are not substituted.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-115.json"
+    },
+    {
+      "manufacturer": "Hyundai",
+      "model": "Veloster N",
+      "generation": "Second-generation JS Veloster, original N production-road performance family",
+      "proposed_record": "HYU-VELOSTER-N-JS-PERFORMANCE-US2019",
+      "reason": "The Veloster N earned Road & Track’s 2020 Performance Car of the Year award through road-and-track evaluation. The award recognizes unusually engaging, accessible handling rather than outright speed; the testers also noted limited engine character and awkward pedal spacing. It represents the distinctive second-generation Veloster N road programme once, not extra entries for gearbox choices or model years.",
+      "evidence": "https://www.roadandtrack.com/new-cars/car-comparison-tests/a29640493/2020-performance-car-of-the-year/",
+      "duplicate_review": "Complete 912-record identity inventory checked for Veloster and every Hyundai identity; only personal Verna and separately bodied PD-based i30 N are present. The JS Veloster programme is absent. Count this N family once across outputs, years and later DCT. No ordinary Turbo/R-Spec, RM prototype, TCR/ETCR or i30 technical substitution.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-116.json"
     }
   ],
-  "catalogue_count_after_batches": 912
+  "catalogue_count_after_batches": 913
 }
