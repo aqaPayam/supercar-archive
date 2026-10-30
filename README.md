@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and twenty-three reviewed road-icon batches add 525 cars
-to the 395-record baseline, bringing the working catalogue to 920 records.
-The latest [V6 Galant / Legnum VR-4 batch](docs/icons-road-123.md)
-adds one absent performance-road family, following the
-[original Mazdaspeed3 batch](docs/icons-road-122.md). Individual reviews and
+evidence and licensed photograph. One hundred and twenty-four reviewed road-icon batches add 526 cars
+to the 395-record baseline, bringing the working catalogue to 921 records.
+The latest [original TE27 Levin / Trueno batch](docs/icons-road-124.md)
+adds one absent sporting-road family, following the
+[V6 Galant / Legnum VR-4 batch](docs/icons-road-123.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

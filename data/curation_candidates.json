@@ -5832,7 +5832,18 @@
       "duplicate_review": "Complete 919-record identity inventory checked for Galant/Legnum/EC5A/EC5W/6A13/Aspire/Eterna. Only the already covered sixth-generation E39A four-cylinder rally road family is present; this eighth-generation V6 family is absent. Group derived Legnum wagon, grades, transmissions, facelift and years into this one road programme. Ordinary GDI Galant, Aspire, US GTZ and earlier V6 generation are not this entry.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-123.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "Corolla Levin / Sprinter Trueno",
+      "generation": "Original TE27 Levin/Trueno road family on second-generation E20 Corolla platform",
+      "proposed_record": "TOY-LEVIN-TE27-2TG-HISTORY1972",
+      "reason": "The original TE27 Corolla Levin / Sprinter Trueno put the Celica’s 2T-G twin-cam engine into a lighter road coupe in 1972 and established the sporting lineage later associated with the AE86. Toyota documents its place in the early Corolla WRC programme. This road-car foundation earns admission; the later 151E sixteen-valve rally engine and its results are kept separate from stock specifications.",
+      "evidence": "https://global.toyota/en/corolla50th/history/ms/",
+      "duplicate_review": "Complete 920-record inventory checked for TE27 and Toyota Corolla/Sprinter/E20 identities. Only later AE86 Levin and Trueno are present; the original TE27 programme is absent. Toyota explicitly links original Levin and Trueno to one 20-series 2T-G road programme. Group sister names, years, grades and facelift into one family; do not add the ordinary TE25 or rally 151E car as aliases with transferred specifications.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-124.json"
     }
   ],
-  "catalogue_count_after_batches": 920
+  "catalogue_count_after_batches": 921
 }
