@@ -5766,7 +5766,18 @@
       "duplicate_review": "Complete 913-record identity inventory checked for i20 and every Hyundai identity; only personal Verna, i30 N and Veloster N are present. The BC3 i20 N programme is absent. Count this road N family once across years and equipment. Indian BI3 N Line, ordinary i20 and WRC/Rally1/Rally2 racers do not substitute for this UK road reference.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-117.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "GR Supra",
+      "generation": "Fifth-generation A90 Supra production-road sports-coupe family",
+      "proposed_record": "TOY-GRSUPRA-A90-30-AT-EU2019",
+      "reason": "The fifth-generation GR Supra revived a major Japanese sports-car name as the first global GR road model. Car and Driver’s original 2020 10Best assessment supports its responsive handling and driver communication while acknowledging restricted visibility and divisive styling. This modern two-seat coupe represents the A90 road generation once across engine outputs, transmissions, editions and years.",
+      "evidence": "https://www.caranddriver.com/features/a29797895/10best-2020-toyota-supra/",
+      "duplicate_review": "Complete 914-record identity inventory checked for Supra, A90/A91, J29 and DB42 aliases. Only A60, A70 and A80 Supra generations exist; PA90 belongs to Isuzu 117. Existing G29 Z4 is the separately named BMW roadster, not an A90 alias. Count this fifth-generation Supra road programme once across later editions, years, engines and manual/automatic choices; no GT4 or FT-1 specification.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-118.json"
     }
   ],
-  "catalogue_count_after_batches": 914
+  "catalogue_count_after_batches": 915
 }

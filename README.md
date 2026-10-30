@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and seventeen reviewed road-icon batches add 519 cars
-to the 395-record baseline, bringing the working catalogue to 914 records.
-The latest [Hyundai i20 N batch](docs/icons-road-117.md)
-adds one absent performance-road family, following the
-[Hyundai Veloster N batch](docs/icons-road-116.md). Individual reviews and
+evidence and licensed photograph. One hundred and eighteen reviewed road-icon batches add 520 cars
+to the 395-record baseline, bringing the working catalogue to 915 records.
+The latest [A90 Toyota GR Supra batch](docs/icons-road-118.md)
+adds one absent sports-car generation, following the
+[Hyundai i20 N batch](docs/icons-road-117.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

@@ -1,0 +1,272 @@
+{
+  "batch": "icons-road-2026-10-30-118",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "TOY-GRSUPRA-A90-30-AT-EU2019",
+      "manufacturer": "Toyota",
+      "model_family": "GR Supra",
+      "generation": "Fifth-generation A90 Supra production-road sports-coupe family",
+      "variant": "3.0-litre eight-speed automatic — May 2019 European launch reference",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat fixed-roof sports coupe",
+      "road_legal": 1,
+      "specification_market": "2019 European launch GR Supra 3.0-litre six-cylinder, eight-speed automatic, as specified in Toyota Motor Europe’s May 2019 press kit. Count the fifth-generation A90 road programme once across later A91-edition names, 2.0-litre/3.0-litre engines, power revisions and manual/automatic choices. Not the older A60/A70/A80 Supras, FT-1 concept, GT4 racer or Final Edition specification. BMW-derived platform/running gear are acknowledged; the already-listed G29 Z4 roadster remains a separate named road-car programme, not an A90 alias. Origin country reflects Toyota’s Japanese programme identity; the factory states manufacture in Graz, Austria. Independent 2020 US award context is not a transfer of US specifications or test numbers to this European launch reference.",
+      "summary": "The fifth-generation GR Supra revived a major Japanese sports-car name as the first global GR road model. Car and Driver’s original 2020 10Best assessment supports its responsive handling and driver communication while acknowledging restricted visibility and divisive styling. This modern two-seat coupe represents the A90 road generation once across engine outputs, transmissions, editions and years.",
+      "admission_reason": "The fifth-generation GR Supra revived a major Japanese sports-car name as the first global GR road model. Car and Driver’s original 2020 10Best assessment supports its responsive handling and driver communication while acknowledging restricted visibility and divisive styling. This modern two-seat coupe represents the A90 road generation once across engine outputs, transmissions, editions and years.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Europe",
+          "title": "The New Toyota GR Supra — May 2019 European press kit",
+          "source_type": "Original manufacturer production-launch press kit",
+          "url": "https://newsroom.toyota.eu/download/708620/2019-gr-supra-dpl-en-972889.pdf",
+          "notes": "36-page PDF, 1,240,577 bytes. PDF indexes 2 (contents/disclaimer), 7 (printed 8, model identity), 19 (20, engine/differential), 21 (22, chassis) and 31–32 (32–33, technical tables) individually visually read. Other rendered pages are not claimed as visually audited. European 340 DIN hp / 250 kW is retained with its 5000–6500-rpm range, not relabeled US SAE hp or later 382/387-PS tune. Table explicitly names eight-speed Sports Automatic 8HP 51. No exact-mass assignment from different driver conventions, emissions/economy, prices, production totals or independent performance numbers. Factory performance figures remain claims; equipment may vary locally."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2020 Toyota Supra: Car and Driver’s 10Best — Rich Ceppos, 21 November 2019",
+          "source_type": "Award publisher’s original first-hand assessment",
+          "url": "https://www.caranddriver.com/features/a29797895/10best-2020-toyota-supra/",
+          "notes": "Relevant full award body and specification panel read. Supports programme-level driver appeal, acknowledges BMW-derived running gear and visibility/styling drawbacks. No US test time, lap time, mass, SAE output, price or economy imported into European reference. Award year 2020 and publication 2019 do not define separate generations."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2019 Toyota GR Supra A90.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2019_Toyota_GR_Supra_A90.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Own work; creator https://commons.wikimedia.org/wiki/User:Calreyn88 . Source rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six; DOHC 24 valves with variable valve control and camshaft timing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore x stroke",
+          "value": "82 x 94.6",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Single twin-scroll turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "European launch power",
+          "value": "340 DIN hp / 250 kW",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum-power range",
+          "value": "5000–6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "500",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum-torque range",
+          "value": "1600–4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Layout",
+          "label": "Engine and drive",
+          "value": "Front engine, rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Launch gearbox",
+          "value": "Eight-speed Sports Automatic 8HP 51",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Differential",
+          "value": "Electronically controlled active differential; acceleration and deceleration operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "Double-joint spring-strut MacPherson axle, aluminium-steel construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Five-link axle, aluminium-steel construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Damping",
+          "value": "Adaptive Variable Suspension; Normal and Sport modes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack-and-pinion, rack-mounted electric power assistance",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front",
+          "value": "348 x 36 mm ventilated discs, four-piston fixed calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear",
+          "value": "345 x 24 mm ventilated discs, single-piston floating calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Wheel construction",
+          "value": "19-inch forged alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Front tyres",
+          "value": "255/35 ZR19 96Y Michelin Pilot Super Sport",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Rear tyres",
+          "value": "275/35 ZR19 100Y Michelin Pilot Super Sport",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "4379",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "1854",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height",
+          "value": "1292",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2470",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Capacities",
+          "label": "Fuel tank",
+          "value": "52",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed maximum speed",
+          "value": "250 km/h, electronically limited",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed 0–100 km/h",
+          "value": "4.3",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fifth-generation GR Supra revived a major Japanese sports-car name as the first global GR road model. Car and Driver’s original 2020 10Best assessment supports its responsive handling and driver communication while acknowledging restricted visibility and divisive styling. This modern two-seat coupe represents the A90 road generation once across engine outputs, transmissions, editions and years.",
+          "category": "Sports-car heritage and independent recognition",
+          "confidence": "Original factory generation context and award publisher’s assessment documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toyota_gr_supra_a90_eu2019.jpg",
+          "caption": "Silver A90-generation GR Supra photographed by Calreyn88 on 5 September 2021. Individually inspected frontal road-car view showing the Supra headlamps, sculpted bonnet and fixed-roof body. Representative exterior only: the title’s 2019 year and visible registration are not authentication of build date, 3.0-litre engine, transmission, European launch equipment or original condition. Background cars are not part of this entry.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5b3f11b90ca5ee468cbf23610eb9adcc331900ee7f79b6620c47718247df5b33"
+        }
+      ]
+    }
+  ]
+}
