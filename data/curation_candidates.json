@@ -5931,7 +5931,18 @@
       "duplicate_review": "Complete 928-record identity inventory checked for Ligier, JS2 and JS 2 aliases; no original Ligier family is present. Group the original 1970s JS2 road engines, body updates, equipment, years and chassis once. JS1/JS3 prototypes, competition JS2s and the 2018 JS2 R are not selected or counted. Shared Citroen SM/Maserati powertrain does not turn their distinct chassis/body programmes into aliases.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-132.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Dauphine 1093",
+      "generation": "Original Dauphine sporting-road saloon programme",
+      "proposed_record": "REN-DAUPHINE1093-LAUNCH1962",
+      "reason": "The Dauphine 1093 represents Renault's early series-built rally homologation saloon, offered complete for everyday sporting use as well as competition. Its 1962 Tour de Corse victory and role in the development of French rally drivers establish performance heritage beyond the ordinary Dauphine. Count the original Dauphine sporting-road programme once, rather than adding years, Gordini/Ondine derivatives or individual competition cars.",
+      "evidence": "https://www.motorlegend.com/evenement-automobile/rassemblement/world-series-renault/renault-dauphine-1093/6,11573,11569.html",
+      "duplicate_review": "Complete 929-record identity inventory checked for Dauphine, Ondine, R1093/1093, Renault, Gordini and related Alfa Romeo/Argentine identities. No original Dauphine road family is present. Count the original sporting-road programme once, including its Gordini/Ondine relationship, years and updates; no kits, competition chassis or ordinary versions are additionally admitted.",
+      "remaining": "None for this early factory production-road reference; additional versions remain subject to the pending counting boundary.",
+      "status": "Imported and validated in data/icons-road-133.json"
     }
   ],
-  "catalogue_count_after_batches": 929
+  "catalogue_count_after_batches": 930
 }

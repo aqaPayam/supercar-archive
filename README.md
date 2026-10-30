@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and thirty-two reviewed road-icon batches add 534 cars
-to the 395-record baseline, bringing the working catalogue to 929 records.
-The latest [Ligier JS2 road-GT batch](docs/icons-road-132.md)
+evidence and licensed photograph. One hundred and thirty-three reviewed road-icon batches add 535 cars
+to the 395-record baseline, bringing the working catalogue to 930 records.
+The latest [Dauphine 1093 batch](docs/icons-road-133.md)
 adds one absent sporting-road family, following the
-[Porsche 904 street-car batch](docs/icons-road-131.md). Individual reviews and
+[Ligier JS2 road-GT batch](docs/icons-road-132.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)

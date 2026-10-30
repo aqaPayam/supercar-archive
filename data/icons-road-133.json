@@ -1,0 +1,230 @@
+{
+  "batch": "icons-road-2026-10-30-133",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "REN-DAUPHINE1093-LAUNCH1962",
+      "manufacturer": "Renault",
+      "model_family": "Dauphine 1093",
+      "generation": "Original Dauphine sporting-road saloon programme",
+      "variant": "R1093 — 30 November 1961 factory launch, 1962 series reference",
+      "model_year_from": 1962,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door rear-engine sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original French R1093 sporting-road saloon, early launch specification announced 30 November 1961, 1962 series reference. The original launch expressly states everyday use and complete factory supply, unlike an individually converted standard Dauphine. Group the original Dauphine sporting-road programme, Gordini/Ondine relationships, years, equipment and updates once. No separately counted ordinary Dauphine, export or Argentine kit, racer, restored chassis, later disc-brake extension or altered gearing is admitted. Output is 49 CV DIN (55 CV SAE) at 5600 rpm as stated in the launch; a registration-notice facsimile lists 5800 rpm for peak power, so its engine-speed figure is not substituted. No torque, measured acceleration, claimed top speed, production total, curb weight, detailed ratios or disputed exact homologation day imported.",
+      "summary": "The Dauphine 1093 represents Renault's early series-built rally homologation saloon, offered complete for everyday sporting use as well as competition. Its 1962 Tour de Corse victory and role in the development of French rally drivers establish performance heritage beyond the ordinary Dauphine. Count the original Dauphine sporting-road programme once, rather than adding years, Gordini/Ondine derivatives or individual competition cars.",
+      "admission_reason": "The Dauphine 1093 represents Renault's early series-built rally homologation saloon, offered complete for everyday sporting use as well as competition. Its 1962 Tour de Corse victory and role in the development of French rally drivers establish performance heritage beyond the ordinary Dauphine. Count the original Dauphine sporting-road programme once, rather than adding years, Gordini/Ondine derivatives or individual competition cars.",
+      "sources": [
+        {
+          "publisher": "Regie Nationale des Usines Renault; facsimile preserved by Dauphine 1093 owners archive",
+          "title": "La Dauphine 1093 — Relations Exterieures launch announcement, 30 November 1961, recto and verso",
+          "source_type": "Original manufacturer launch announcement facsimile",
+          "url": "https://www.dauphine1093.fr/Acceuil/Documentation/Html/lancement.html",
+          "notes": "Both complete text pages lancementr.jpg and lancementv.jpg individually downloaded and visually read; letterhead and printed 30 November 1961 date inspected. Two ancillary photographs on host page were downloaded but not used as technical evidence. Factory states everyday sporting and rally use, supply as a complete car and series homologation. Selected 1962 reference retains 845 cc, 49 CV DIN/55 CV SAE at 5600 rpm, 9.2:1, Solex 32 PAIA 3, dry filter, domed pistons, double valve springs, reinforced Ferodo PKH 52 clutch, special suspension springs, front finned cast-iron drums, 135 x 380 or 145 x 380 radial tyres, 12 V and 180-mm lamps. Verso has a later JUL 2 1962 stamp; do not confuse it with the dated announcement. Claimed speed, inferred carburettor suffix, later tuning and optional final drives are not imported."
+        },
+        {
+          "publisher": "Regie Nationale des Usines Renault / French type approval; facsimile preserved by Dauphine 1093 owners archive",
+          "title": "Notice descriptive du vehicule Renault Type R.1093 (competition), registration and conformity documents",
+          "source_type": "Original manufacturer road-registration type description facsimile",
+          "url": "https://www.dauphine1093.fr/Acceuil/Documentation/Html/notice.html",
+          "notes": "All three displayed facsimile images individually downloaded and visually read: fichmin1.jpg, fichmin2.jpg and fichmin3.jpg. Explicit passenger-car registration purpose, four seats, four doors, rear longitudinal inline four, four-speed manual and four independent wheels support bounded body/drivetrain attributes. Approval/conformity text and 1961 approval dates establish road-registration context despite competition in title. Sample includes an individual serial and 12-62 printing; no serial history or universal year-specific detail inferred. Different printed track/overhang and 5800-rpm peak-power reference are not mixed into the 30 November launch specification. No dimensions, weight, handwritten ratios or unclear text imported."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "Renault Dauphine 1093 — homologation 1084, Group T, index and extension list",
+          "source_type": "Original governing-body homologation index",
+          "url": "https://historicdb.fia.com/car/renault-dauphine-1093",
+          "notes": "Complete relevant index and extension list read: Renault Dauphine 1093, Group T, 845 cc, four cylinders, France and RWD. RWD attribute maps here. Index dates homologation 23 November 1961, while other listings say 22 November; no exact day asserted. Gearbox, brakes, commercial-name and later tank/air-filter/steering extensions remain outside early road reference. Linked full PDF was discovered but not downloaded/read, and is not a technical authority claimed for this entry."
+        },
+        {
+          "publisher": "Motorlegend; Gilles Bonnafous",
+          "title": "World Series Renault — Renault Dauphine 1093, 25 July 2005",
+          "source_type": "Original event report with manufacturer-collection car and programme history",
+          "url": "https://www.motorlegend.com/evenement-automobile/rassemblement/world-series-renault/renault-dauphine-1093/6,11573,11569.html",
+          "notes": "Complete relevant feature read, including original photographs/report of Renault Histoire et Collection restored car driven by Jean Vinatier at Le Mans. Historical account identifies 1962 Tour de Corse victory by Pierre Orsini/Jean Canonicci and significance in driver development; supports admission, not a stock-car performance test. The account also identifies drum braking as a weakness; do not present the programme as universally dominant. No measured acceleration, race-engine output, production total, exact later disc-homologation date, individual chassis authenticity or borrowing of this collection car specification."
+        },
+        {
+          "publisher": "Wikimedia Commons; Thesupermat",
+          "title": "File:Paris - Bonhams 2014 - Renault Dauphine '1093' saloon - 1962 - 001.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2014_-_Renault_Dauphine_%271093%27_saloon_-_1962_-_001.jpg",
+          "notes": "Own-work photograph by Thesupermat, taken 5 February 2014 at Grand Palais Bonhams display; summary, licence, file history and API metadata read. CC BY-SA 3.0 Unported, https://creativecommons.org/licenses/by-sa/3.0/ . Downloaded 1280 x 853 JPEG rendition individually visually inspected and copied unchanged. White four-door 1093 display car with blue stripes, number roundel and auxiliary lamps is representative of the body family; engine, brakes, original build identity, exact year and equipment originality are not authenticated. Auction values and authenticity claims are not imported."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "845",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory output standards",
+          "value": "49 CV DIN (55 CV SAE) at 5600 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Carburettor",
+          "value": "Solex 32 PAIA 3 inverted twin-barrel; vacuum-operated differential opening, manual choke",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Air filter",
+          "value": "Dry type",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Pistons",
+          "value": "Domed crowns",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve springs",
+          "value": "Double",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "Reinforced Ferodo PKH 52",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Road springs",
+          "value": "Special front and rear springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Early front brakes",
+          "value": "Cast-iron drums with machined circular external cooling fins",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Launch alternatives",
+          "value": "135 x 380 or 145 x 380 radial",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Electrical",
+          "label": "System voltage",
+          "value": "12",
+          "unit": "V",
+          "source": 0
+        },
+        {
+          "section": "Lighting",
+          "label": "Headlamp diameter",
+          "value": "180",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four cylinders in line, four-stroke",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Engine position",
+          "value": "Rear-mounted, longitudinal",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Suspension",
+          "label": "Wheel arrangement",
+          "value": "Four independent wheels",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "4",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Dauphine 1093 represents Renault's early series-built rally homologation saloon, offered complete for everyday sporting use as well as competition. Its 1962 Tour de Corse victory and role in the development of French rally drivers establish performance heritage beyond the ordinary Dauphine. Count the original Dauphine sporting-road programme once, rather than adding years, Gordini/Ondine derivatives or individual competition cars.",
+          "source": 3,
+          "confidence": "Original event feature and programme history; racing result is not stock-road performance",
+          "category": "Rally homologation and driver-development heritage"
+        },
+        {
+          "title": "Complete factory car for road and rally",
+          "explanation": "Renault announced the 1093 on 30 November 1961 for everyday sporting use as well as rallying, supplied complete rather than through individual conversion. Its stated output is 49 CV DIN or 55 CV SAE at 5600 rpm; the two standards must retain their labels.",
+          "source": 0,
+          "confidence": "Both pages of original manufacturer launch announcement visually inspected",
+          "category": "Original production-road purpose and factory output"
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_dauphine1093_launch1962.jpg",
+          "caption": "Renault Dauphine 1093 saloon displayed at Grand Palais, Paris, 5 February 2014. Representative body illustration; display roundel, auxiliary lamps and restored equipment do not establish original 1962 specification or chassis authenticity. Photo: Thesupermat, Wikimedia Commons, CC BY-SA 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/); downloaded 1280-pixel rendition copied unchanged.",
+          "creator": "Thesupermat",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "d31f66ce91410a08cc5bcc15d786bfe52ef22a9648affa6d5164eeef74ce0a4c"
+        }
+      ]
+    }
+  ]
+}
