@@ -5711,7 +5711,18 @@
       "duplicate_review": "Complete 908-record identity inventory checked for Firebird, Trans Am, TransAm and Ram Air aliases, plus every Pontiac identity. Only second-/third-generation Firebirds and separate GTO families are present. Count the original 1967–1969 Firebird road family once across years, engines, roofs and packages; no race or prototype specifications.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-112.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "Fiero",
+      "generation": "Original 1984–1988 Fiero production-road sports-car family",
+      "proposed_record": "PON-FIERO-ORIGINAL-GT-US1988",
+      "reason": "The Fiero is an important American sports-car design experiment, pairing a mid-mounted engine with a spaceframe and replaceable polymer panels. Period recognition and the original tester’s later assessment establish lasting significance despite early shortcomings. The revised 1988 GT represents the whole programme here; it is not claimed to be an outright performance benchmark.",
+      "evidence": "https://www.caranddriver.com/features/columns/a29513894/remember-the-fiero/",
+      "duplicate_review": "Complete 909-record identity inventory checked for Fiero and P-body aliases, plus every Pontiac identity; no target is present. Existing Pontiacs are separate Firebird and GTO families. Count the original 1984–1988 Fiero road family once across years, engines and Coupe/Formula/GT bodies; no racing engine, replica or unbuilt successor.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-113.json"
     }
   ],
-  "catalogue_count_after_batches": 909
+  "catalogue_count_after_batches": 910
 }
