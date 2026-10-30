@@ -5612,7 +5612,18 @@
       "duplicate_review": "Complete 899-record identity inventory checked for Monaro/HK/HT/HG/GTS 327 aliases. Only the revived V2 CV8 is present; existing Torana programmes are distinct. Original HK/HT/HG road family counted once across years, bodies, engine and axle options.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-103.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Impala",
+      "generation": "1961–1964 Impala production-road family; original Super Sport era",
+      "proposed_record": "CHE-IMPALA-G3-SS409-RPO587-1962",
+      "reason": "The early Impala SS 409 is an American performance and cultural icon: the optional dual-quad big-block paired serious factory road-car hardware with the Super Sport coupe, while the 409 name became part of popular music. Chevrolet’s history explicitly connects the early SS programme with the 1962 Beach Boys song.",
+      "evidence": "https://www.chevrolet.com/legacy/impala",
+      "duplicate_review": "Complete 900-record identity inventory checked for Impala, Biscayne, Bel Air and 409 aliases. Only the 1994–1996 Impala SS is present. Original 1961–1964 performance-road family counted once across bodies, years, engines and SS option choices.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-104.json"
     }
   ],
-  "catalogue_count_after_batches": 900
+  "catalogue_count_after_batches": 901
 }

@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and three reviewed road-icon batches add 505 cars
-to the 395-record baseline, bringing the working catalogue to 900 records.
-The latest [original Monaro GTS 327 batch](docs/icons-road-103.md)
+evidence and licensed photograph. One hundred and four reviewed road-icon batches add 506 cars
+to the 395-record baseline, bringing the working catalogue to 901 records.
+The latest [early Impala SS 409 batch](docs/icons-road-104.md)
 adds one absent performance-road family, following the
-[original Riviera Gran Sport batch](docs/icons-road-102.md). Individual reviews and
+[original Monaro GTS 327 batch](docs/icons-road-103.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

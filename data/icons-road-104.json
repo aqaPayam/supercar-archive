@@ -1,0 +1,209 @@
+{
+  "batch": "icons-road-2026-10-30-104",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "CHE-IMPALA-G3-SS409-RPO587-1962",
+      "manufacturer": "Chevrolet",
+      "model_family": "Impala",
+      "generation": "1961–1964 Impala production-road family; original Super Sport era",
+      "variant": "SS Sport Coupe RPO 587 dual-carb 409 — 1962 USA factory reference, four-speed",
+      "model_year_from": 1962,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door Sport Coupe hardtop",
+      "road_legal": 1,
+      "specification_market": "1962 USA Impala SS Sport Coupe with optional RPO 587 dual-carb 409 and selected four-speed manual. Engine ratings January 1962 revision; component details April revision. Preserve explicit gross rating and native units. No default Positraction, axle ratio, racing modification, body mass or measured performance assumed. Count the 1961–1964 Impala performance-road family once across engines, years and bodies; the existing 1994–1996 SS is separate.",
+      "summary": "The early Impala SS 409 is an American performance and cultural icon: the optional dual-quad big-block paired serious factory road-car hardware with the Super Sport coupe, while the 409 name became part of popular music. Chevrolet’s history explicitly connects the early SS programme with the 1962 Beach Boys song.",
+      "admission_reason": "The early Impala SS 409 is an American performance and cultural icon: the optional dual-quad big-block paired serious factory road-car hardware with the Super Sport coupe, while the 409 name became part of popular music. Chevrolet’s history explicitly connects the early SS programme with the 1962 Beach Boys song.",
+      "sources": [
+        {
+          "publisher": "Chevrolet Motor Division / Over-Drive Magazine facsimile",
+          "title": "1962 Chevrolet passenger-car specifications — original 409 W-series factory sheets",
+          "source_type": "Original manufacturer technical sheets, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/Chevrolet/1962/1962-Chevrolet-Factory-W-Series-Specs-1-10.pdf",
+          "notes": "Selected RPO 587 dual-four-barrel 409, not single-carb RPO 580. Printed POWER TRAINS 27 rates 409 brake GROSS hp at 6000 and 420 gross lb-ft at 4000; no modern net or kW conversion. Ratings leaf revised January 1962; component/cooling leaves revised April 1962. Performance-weight table concerns model 1669 with passenger allowance, not this coupe curb weight; calculated axle examples are not an assigned ratio. Engine identification page predates the revised dual-carb rating; no suffix inferred."
+        },
+        {
+          "publisher": "Chevrolet Motor Division / Over-Drive Magazine facsimile",
+          "title": "1962 Chevrolet full-size factory brochure — Impala Super Sport equipment and options",
+          "source_type": "Original manufacturer road brochure, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/Chevrolet/1962/1962-Chevrolet-Full-Size-Brochure-1-16C.pdf",
+          "notes": "SS panel at PDF index 3 explicitly offers Super Sport equipment on Sport Coupe and convertible, with optional V8 engines up to 409 hp and optional four-speed Synchro-Mesh. SS trim alone does not imply a 409, Positraction or every heavy-duty option. Bucket seats/locking console mapped here, not inferred from secondary option-price summaries."
+        },
+        {
+          "publisher": "Chevrolet",
+          "title": "Impala legacy — 1961–1964 Super Sport and 409 cultural history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.chevrolet.com/legacy/impala",
+          "notes": "Used for early SS introduction and the 1962 song connection in the 1961–1964 section. No lyrics, general model sales totals, movie/song counts or later-generation hardware are imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1962 Chevrolet Impala SS 409 (54189218304).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1962_Chevrolet_Impala_SS_409_(54189218304).jpg",
+          "notes": "Ethan Long; CC BY-SA 2.0. Exact licence: https://creativecommons.org/licenses/by-sa/2.0. Original credit: 1962 Chevrolet Impala SS 409. Original credit links: https://www.flickr.com/photos/ethanmlong/54189218304/. Downloaded rendition copied unchanged; original framing retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Valve-in-head V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "409",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Advertised brake gross power",
+          "value": "409",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Advertised brake gross torque",
+          "value": "420",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.00:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke, nominal",
+          "value": "4.3125 × 3.50",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two four-barrel aluminium carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory engine option",
+          "value": "RPO 587",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder block",
+          "value": "Cast alloy iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder head",
+          "value": "High-chrome cast alloy iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Inlet manifold",
+          "value": "Cast aluminium, eight-port double-deck",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Crankshaft",
+          "value": "Forged steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve lifters",
+          "value": "Mechanical; individually mounted overhead rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid, pressurized",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Lubrication",
+          "value": "Controlled full pressure",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "Optional four-speed Synchro-Mesh manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Interior",
+          "label": "Super Sport equipment",
+          "value": "Front bucket seats and between-seat console with locking compartment",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The early Impala SS 409 is an American performance and cultural icon: the optional dual-quad big-block paired serious factory road-car hardware with the Super Sport coupe, while the 409 name became part of popular music. Chevrolet’s history explicitly connects the early SS programme with the 1962 Beach Boys song.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer history documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_impala_g3_ss409_rpo587_1962.jpg",
+          "caption": "1962 Impala SS 409 photographed by Ethan Long. Representative rear-quarter view of the Sport Coupe, with SS/Impala identification and triple taillights visible. Author’s framing shows only part of the car; no additional crop. Engine RPO, carburetion, transmission, package authenticity and restoration history are not authenticated by the image.",
+          "creator": "Ethan Long",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "1f50b451b2a3f6226a9b09fdab3d8f09a7c4d9d56900c9aad53e432f537a178d"
+        }
+      ]
+    }
+  ]
+}
