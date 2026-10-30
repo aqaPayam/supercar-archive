@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-142",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HIS-H6C-KELLNER-SKIFF1928",
+      "manufacturer": "Hispano-Suiza",
+      "model_family": "H6 / H6B / H6C",
+      "generation": "Original H6 production-road family",
+      "variant": "H6C short-chassis Kellner Skiff — 1928 Revs Institute reference",
+      "model_year_from": 1928,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Open sporting skiff tourer",
+      "road_legal": 1,
+      "specification_market": "Original H6/H6B/H6C production-road family, selected 1928 H6C short-chassis Kellner Skiff at Revs Institute, serial 11739. All eight attributes use that exact collection record. Keep the museum technical header's 194 bhp at 3000 rpm as a quoted reference value without an assumed SAE/DIN test standard or universal factory-stock claim. Retain 3370 lb without an inferred dry/kerb basis and 133-inch wheelbase without applying it to long-chassis H6s. Family servo-assisted four-wheel braking is stated by the custodian; no hydraulic actuation or particular servo drive mechanism inferred. No H6B displacement/output, separate bare-chassis data, racing tune, Tulipwood construction, Dubonnet suspension or modern Carmen specifications are transferred. French programme origin is distinct from the marque's Spanish founding. Group original road bodies, engine versions and years once. Dedicated racers, special chassis, replicas and additional coachwork examples are not separate admissions.",
+      "summary": "The H6 family is a landmark of high-performance road-car engineering, combining an aviation-derived overhead-camshaft six with servo-assisted four-wheel brakes. The short-chassis H6C Skiff illustrates its sporting application. Count the original H6/H6B/H6C road family once across bodies and years; price, rarity and decorative coachwork alone are not admission reasons.",
+      "admission_reason": "The H6 family is a landmark of high-performance road-car engineering, combining an aviation-derived overhead-camshaft six with servo-assisted four-wheel brakes. The short-chassis H6C Skiff illustrates its sporting application. Count the original H6/H6B/H6C road family once across bodies and years; price, rarity and decorative coachwork alone are not admission reasons.",
+      "sources": [
+        {
+          "publisher": "Revs Institute",
+          "title": "1928 Hispano-Suiza H6C Skiff — serial 11739",
+          "source_type": "Original museum collection history and technical reference",
+          "url": "https://revsinstitute.org/vehicle/1928-hispano-suiza-h6c",
+          "notes": "Complete relevant history and technical header read. All eight attributes map to this reference: engine configuration, overhead camshaft, displacement, quoted output/rpm, short wheelbase, quoted weight, servo-assisted four-wheel braking and Kellner coachwork. Quoted bhp is retained without an assumed test standard; weight has no inferred dry/kerb basis. Family braking/aviation context is not an exclusive first claim or proof of individual restoration originality. No gearbox, torque, speed, acceleration, crank-billet masses, aircraft production totals or exact racing result imported."
+        },
+        {
+          "publisher": "Louwman Museum",
+          "title": "Hispano-Suiza H6B Million-Guiet Dual-Cowl Phaeton — family context only",
+          "source_type": "Original museum account of a different H6-family example",
+          "url": "https://www.louwmanmuseum.nl/en/car/hispano-suiza-h6b-million-guiet-dual-cowl-phaeton/",
+          "notes": "Complete relevant collection entry read via web access, including 1924 reference and French branch/H6 model context. Supports the H6 family as a French-built programme distinct from the earlier Alfonso XIII. Norma Talmadge ownership, Million-Guiet coachwork and pale blue colour belong to that separate H6B, not the Revs H6C. No celebrity anecdote, aviation mascot story or unqualified manufacturer founding chronology imported."
+        },
+        {
+          "publisher": "Wikimedia Commons; Deborah Del Coro / TDelCoro",
+          "title": "File:1928 Hispano-Suiza H6C Skiff (54401088967).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1928_Hispano-Suiza_H6C_Skiff_(54401088967).jpg",
+          "notes": "Description credits photo to Deborah Del Coro; account/author field names Tomas Del Coro (TDelCoro), both credited. Taken 20 March 2025 at Revs Institute. Summary, upload history, October 2025 Flickr review and API metadata read. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ . 1280 x 587 JPEG individually viewed and copied unchanged. Bright blue open skiff body, upright screen, side-mounted spare and matching wire wheels correspond to the selected museum reference. Photo alone does not authenticate chassis, engine tune, brake mechanism, coachwork originality or paint originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six cylinders in line",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "7982",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted reference output",
+          "value": "194 bhp at 3000 rpm; test standard not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Short-chassis reference wheelbase",
+          "value": "133",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum quoted reference weight",
+          "value": "3370 lb; mass basis not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Braking arrangement",
+          "value": "Servo-assisted four-wheel brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Reference coachbuilder",
+          "value": "Kellner Freres, Paris; skiff body by Georges Kellner Jr.",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The H6 family is a landmark of high-performance road-car engineering, combining an aviation-derived overhead-camshaft six with servo-assisted four-wheel brakes. The short-chassis H6C Skiff illustrates its sporting application. Count the original H6/H6B/H6C road family once across bodies and years; price, rarity and decorative coachwork alone are not admission reasons.",
+          "category": "Landmark road-performance engineering",
+          "confidence": "Custodian technical history and explicit sporting-body reference; no exclusive first or measured-performance claim",
+          "source": 0
+        },
+        {
+          "title": "A separate French-built programme",
+          "explanation": "Louwman Museum identifies the H6 as the marque's first all-French model. Its H6B phaeton supplies family context; that car's ownership and coachwork are not transferred to the selected H6C Skiff.",
+          "category": "Programme identity",
+          "confidence": "Original museum account; reference bodies and earlier Alfonso XIII kept separate",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_his_h6c_kellner_skiff1928.jpg",
+          "caption": "1928 Hispano-Suiza H6C Skiff at Revs Institute, photographed 20 March 2025. Blue open skiff body, upright windscreen, side-mounted spare and wire wheels illustrate the selected Kellner reference; photo alone does not authenticate serial 11739, engine tune, braking mechanism or body/paint originality. Photo: Deborah Del Coro; shared by Tomas Del Coro (TDelCoro), https://www.flickr.com/photos/45549579@N05/54401088967/ ; Wikimedia Commons title: 1928 Hispano-Suiza H6C Skiff (54401088967).jpg. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Deborah Del Coro; shared by Tomas Del Coro (TDelCoro)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "b91bd145ee73bf846c3017bbd289133c198ac19133732d1f138ae5b59ad87669"
+        }
+      ]
+    }
+  ]
+}

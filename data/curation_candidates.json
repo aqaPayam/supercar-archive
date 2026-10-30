@@ -6046,7 +6046,18 @@
       "duplicate_review": "Complete 937-record identity inventory checked for Stutz, Bearcat/Bear Cat, Series E/4E/4-E aliases. No family found; unrelated Testarossa, Galant, BMW Z4 E89 and Audi Typ 4E substring hits do not identify a Stutz. Group original road years, engines, bodies and chassis once. Do not count racing entrants, replicas, conversions or later revivals as additional records in this batch.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-141.json"
+    },
+    {
+      "manufacturer": "Hispano-Suiza",
+      "model": "H6 / H6B / H6C",
+      "generation": "Original H6 production-road family",
+      "proposed_record": "HIS-H6C-KELLNER-SKIFF1928",
+      "reason": "The H6 family is a landmark of high-performance road-car engineering, combining an aviation-derived overhead-camshaft six with servo-assisted four-wheel brakes. The short-chassis H6C Skiff illustrates its sporting application. Count the original H6/H6B/H6C road family once across bodies and years; price, rarity and decorative coachwork alone are not admission reasons.",
+      "evidence": "https://revsinstitute.org/vehicle/1928-hispano-suiza-h6c",
+      "duplicate_review": "Complete 938-record identity inventory checked for Hispano-Suiza, H6/H6B/H6C spaced and unspaced aliases, serial 11739 and Dubonnet. Only the earlier Alfonso XIII /15T family is present, a distinct programme. Group original H6/H6B/H6C road engines, years, bodies and individual chassis once. Dedicated racers, replicas and further coachwork examples are not additional admissions.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-142.json"
     }
   ],
-  "catalogue_count_after_batches": 938
+  "catalogue_count_after_batches": 939
 }
