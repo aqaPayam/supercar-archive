@@ -407,8 +407,12 @@
       "reason": "The Anglo-American Cobra is a foundational high-performance roadster with major motorsport and cultural significance.",
       "evidence": "https://www.shelbyamericancollection.org/cobras-coupes/1967-427-cobra-csx3269",
       "duplicate_review": "No Cobra model in the 417-car inventory; not an approved manifest record.",
-      "remaining": "Resolve standard road specification and a licensed original road-car photo. The reviewed museum car has replacement engines; initial photos include competition cars. Modern CSX6000 continuation specifications must not be substituted.",
-      "status": "Research only; not imported or counted"
+      "remaining": "No separate import: follow the existing reviewed record and its evidence boundaries. This historical queue entry contributes no additional car.",
+      "status": "Resolved by later reviewed import; historical research entry only",
+      "resolved_record": "SHE-COBRA-289-ROAD",
+      "resolved_manifest": "data/icons-road-34.json",
+      "resolution_reviewed_on": "2026-10-30",
+      "resolution_note": "Historical research scope retained below; the later reviewed production-road family is already present in the database and public export. This link resolves the old queue hold without approving additional engines, years, body derivatives or individual chassis. The selected imported reference is the AC/Shelby small-block 289 road family, not verification of the original proposed museum 427 or its replacement engine."
     },
     {
       "manufacturer": "BMW",
@@ -2266,8 +2270,12 @@
       "reason": "Original Calibra turbo road flagship combines Opel’s first turbo-petrol production engine, six-speed manual and viscous-coupled all-wheel drive; distinct from the later ITC competition car.",
       "evidence": "https://www.media.stellantis.com/it-it/opel/press/quando-opel-calibra-mise-il-turbo",
       "duplicate_review": "No Opel Calibra or Vauxhall/Holden rebadge is in the 590-record pre-batch inventory. A rebadge would not be an extra car.",
-      "remaining": "Factory technical account verified, plus February 1992 Opel Post March-availability announcement located. Need a clearly identified licensed Turbo road-body photo; dashboard, generic-engine exterior, convertible and competition photos rejected. No import until the image is resolved.",
-      "status": "Research only; not imported in batch 19"
+      "remaining": "No separate import: follow the existing reviewed record and its evidence boundaries. This historical queue entry contributes no additional car.",
+      "status": "Resolved by later reviewed import; historical research entry only",
+      "resolved_record": "OPE-CALIBRA-TURBO4X4-1992",
+      "resolved_manifest": "data/icons-road-44.json",
+      "resolution_reviewed_on": "2026-10-30",
+      "resolution_note": "Historical research scope retained below; the later reviewed production-road family is already present in the database and public export. This link resolves the old queue hold without approving additional engines, years, body derivatives or individual chassis."
     },
     {
       "manufacturer": "Toyota",
@@ -2431,8 +2439,12 @@
       "reason": "The Ascona 400 road homologation model formed the basis for the rear-drive rally car with which Walter Röhrl won the 1982 world championship.",
       "evidence": "https://www.media.stellantis.com/em-en/opel/press/crowd-pleasers-in-their-second-generation-50-years-of-opel-ascona-b-and-manta-b",
       "duplicate_review": "Absent from the complete 610-record pre-batch inventory, including Ascona/400 aliases.",
-      "remaining": "Factory June 1995 technical book page 144 reviewed: 2410 cc, 106 kW, 210 Nm, L-Jetronic, five-speed and road chassis. Resolve a licensed representative road-body photograph; reviewed search results depict rally-prepared cars or replicas. Do not copy Manta performance figures into blank Ascona fields. Closest candidate File:1981 Opel Ascona 400 Rally.jpg was visually inspected: liveried Goodwood rally car with roll cage, competition cabin and bonnet-open engine view. It is not a representative of the selected standard injected road specification.",
-      "status": "Research only; not imported or counted"
+      "remaining": "No separate import: follow the existing reviewed record and its evidence boundaries. This historical queue entry contributes no additional car.",
+      "status": "Resolved by later reviewed import; historical research entry only",
+      "resolved_record": "OPE-ASCONA-B400-ROAD1979",
+      "resolved_manifest": "data/icons-road-45.json",
+      "resolution_reviewed_on": "2026-10-30",
+      "resolution_note": "Historical research scope retained below; the later reviewed production-road family is already present in the database and public export. This link resolves the old queue hold without approving additional engines, years, body derivatives or individual chassis."
     },
     {
       "manufacturer": "Nissan",
@@ -2761,8 +2773,12 @@
       "reason": "French grand-touring flagship with distinctive coachwork and Chrysler V8 engineering; significance plausible, admission still pending.",
       "evidence": "https://www.amicale-facel-vega.fr/production-facel-vega/facel-ii/",
       "duplicate_review": "Research hold only; no database record added.",
-      "remaining": "Read original production technical evidence distinguishing 6.3-litre homologation data from 6.7-litre manual/automatic road specifications, then review an appropriate licensed photograph.",
-      "status": "Research hold; not counted"
+      "remaining": "No separate import: follow the existing reviewed record and its evidence boundaries. This historical queue entry contributes no additional car.",
+      "status": "Resolved by later reviewed import; historical research entry only",
+      "resolved_record": "FAC-II-HK2B109-MANUAL-ROADREF",
+      "resolved_manifest": "data/icons-road-73.json",
+      "resolution_reviewed_on": "2026-10-30",
+      "resolution_note": "Historical research scope retained below; the later reviewed production-road family is already present in the database and public export. This link resolves the old queue hold without approving additional engines, years, body derivatives or individual chassis."
     },
     {
       "manufacturer": "Nissan",

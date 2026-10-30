@@ -66,6 +66,8 @@ The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
 adds no record while the related-model counting boundary remains pending.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
 corrects four existing image credits and source links while preserving the photos.
+The [research-queue reconciliation](docs/research-queue-reconciliation-01.md)
+links four historical holds to their later reviewed imports without adding cars.
 The 1,000-qualifying-car goal remains active: existing records still need the
 final eligibility audit, and quality takes priority over the numerical count.
 The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
