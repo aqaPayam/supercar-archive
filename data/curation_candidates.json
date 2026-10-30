@@ -5920,7 +5920,18 @@
       "duplicate_review": "Complete 927-record identity inventory checked, including all Porsche and 904/Carrera GTS aliases; no original Type 904 family is present. Select the documented production street car and count all road outputs, equipment, years and individual chassis once. Six/eight-cylinder works versions, racing tunes and individual competition chassis are not additional road entries.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-131.json"
+    },
+    {
+      "manufacturer": "Ligier",
+      "model": "JS2",
+      "generation": "Original 1970s JS2 production-road GT family",
+      "proposed_record": "LIG-JS2-27-FR1972",
+      "reason": "The original Ligier JS2 embodied Guy Ligier and Michel Têtu's French mid-engine GT project, combining a Maserati-powered road coupe with practical cabin and luggage packaging. Its engineering and competition lineage, including the racing programme's 1974 Tour de France Automobile victory, give it a lasting place in French sports-car history. Count the original road family once; rarity alone and racing specifications are not the basis for adding extra versions.",
+      "evidence": "https://www.classicdriver.com/en/article/cars/guy-ligiers-legacy-lives-maserati-powered-js2",
+      "duplicate_review": "Complete 928-record identity inventory checked for Ligier, JS2 and JS 2 aliases; no original Ligier family is present. Group the original 1970s JS2 road engines, body updates, equipment, years and chassis once. JS1/JS3 prototypes, competition JS2s and the 2018 JS2 R are not selected or counted. Shared Citroen SM/Maserati powertrain does not turn their distinct chassis/body programmes into aliases.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-132.json"
     }
   ],
-  "catalogue_count_after_batches": 928
+  "catalogue_count_after_batches": 929
 }
