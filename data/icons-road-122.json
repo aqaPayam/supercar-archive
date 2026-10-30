@@ -1,0 +1,188 @@
+{
+  "batch": "icons-road-2026-10-30-122",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MAZ-MAZDASPEED3-BK-US2007",
+      "manufacturer": "Mazda",
+      "model_family": "Mazdaspeed3 / Mazda3 MPS / Mazdaspeed Axela",
+      "generation": "Original BK production-road performance-hatchback family",
+      "variant": "Mazdaspeed3 — 2007 US six-speed-manual factory reference",
+      "model_year_from": 2007,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original first-generation BK five-door Mazdaspeed3, selected 2007 US production specification from Mazda’s release dated 1 September 2006. Represent this original performance-road family once across years, grades and Mazda3 MPS / Mazdaspeed Axela aliases. Not the later BL generation, ordinary Mazda3, modern Mazda3 Turbo, Mazdaspeed6 or CX-7. No European PS output, Canadian gearbox ratios, aftermarket dealer power upgrades, test acceleration, exact cc, mass or brake diameters imported. The photo represents the original body, not proof of market, trim, condition or exact equipment.",
+      "summary": "The original Mazdaspeed3 brought direct-injection turbo power, a manual gearbox and limited-slip traction to Mazda’s performance-hatchback programme. Its 2007 Car and Driver 10Best recognition supports admission for its engaging, accessible performance, while acknowledging torque steer. Mazda3 MPS and Mazdaspeed Axela are regional aliases, not extra cars.",
+      "admission_reason": "The original Mazdaspeed3 brought direct-injection turbo power, a manual gearbox and limited-slip traction to Mazda’s performance-hatchback programme. Its 2007 Car and Driver 10Best recognition supports admission for its engaging, accessible performance, while acknowledging torque steer. Mazda3 MPS and Mazdaspeed Axela are regional aliases, not extra cars.",
+      "sources": [
+        {
+          "publisher": "Mazda North American Operations",
+          "title": "2007 MAZDASPEED3: Sit Back, Buckle Up and Enjoy the Zoom-Zoom — 1 September 2006",
+          "source_type": "Original manufacturer US model press release",
+          "url": "https://news.mazdausa.com/download/2007-MAZDASPEED3.pdf",
+          "notes": "All seven pages read as web PDF text, including powertrain, torque management, chassis, braking and regional names. All selected technical attributes map here. Prose evidence only; no table visual-inspection claim. Manufacturer performance superlatives are not independent admission evidence. The six-speed transmission is shared with Mazdaspeed6, but this record uses only Mazdaspeed3-specific output and front-drive layout."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2007 10Best Cars — Mazda Mazdaspeed 3 section, 19 January 2007",
+          "source_type": "Original contemporary editorial award assessment",
+          "url": "https://www.caranddriver.com/features/a15144842/2007-10best-cars/",
+          "notes": "Award introduction and complete Mazdaspeed3 section with specification panel read. Supports admission as an engaging high-performance hatchback and acknowledges torque steer. No measured acceleration, US price, estimated mass or optional dealer intake/exhaust power gain imported."
+        },
+        {
+          "publisher": "Wikimedia Commons / English Wikipedia",
+          "title": "File:2007 Mazdaspeed 3.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2007_Mazdaspeed_3.JPG",
+          "notes": "Alwayzamd at English Wikipedia; author released the work into the public domain worldwide, with unrestricted fallback permission as stated in the file licensing section. PD-user, not CC0. Commons transfer/current rendition credited separately from authorship: Thomas doerfer uploaded the 1499 x 973 rendition on 13 March 2008. Source JPEG copied unchanged. Original upload date is 13 August 2007; not an asserted capture date."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder MZR DISI",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "2.3",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged; air-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel delivery",
+          "value": "Direct gasoline injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory US output",
+          "value": "263 hp at 5500 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "280 lb-ft at 3000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Construction",
+          "value": "Aluminium block and head; forged crankshaft and connecting rods",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Torque management",
+          "value": "Gear-dependent control in first through third; steering-angle-linked torque control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front layout",
+          "value": "MacPherson strut",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear layout",
+          "value": "Multi-link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Layout",
+          "value": "Four-wheel discs; ventilated front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Electronic systems",
+          "value": "ABS, EBD, brake assist and dynamic stability control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory design",
+          "value": "18-inch ten-spoke aluminium alloy",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Mazdaspeed3 brought direct-injection turbo power, a manual gearbox and limited-slip traction to Mazda’s performance-hatchback programme. Its 2007 Car and Driver 10Best recognition supports admission for its engaging, accessible performance, while acknowledging torque steer. Mazda3 MPS and Mazdaspeed Axela are regional aliases, not extra cars.",
+          "category": "Performance-hatchback heritage",
+          "confidence": "Original manufacturer engineering evidence and contemporary 10Best assessment documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mazda_mazdaspeed3_bk_us2007.jpg",
+          "caption": "Original BK Mazdaspeed3 / Mazda3 MPS five-door, photographed by Alwayzamd at English Wikipedia. Individually inspected front-side view shows the first-generation body, smooth bonnet, sport bumper, side skirts and roof spoiler. Representative exterior only; exact model year, market, grade, tune, originality and equipment are not authenticated by this photograph. Author public-domain dedication; Commons rendition copied unchanged.",
+          "creator": "Alwayzamd at English Wikipedia",
+          "license": "Public domain (author dedication)",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a875d4f4423f4ff37782059a26ec484004e825337cc2119efe9bbd2c382497a5"
+        }
+      ]
+    }
+  ]
+}

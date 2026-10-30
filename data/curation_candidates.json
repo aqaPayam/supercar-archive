@@ -5810,7 +5810,18 @@
       "duplicate_review": "Complete 917-record identity inventory checked for DB11/DB 11/AE31 aliases; no DB11 is present. Existing DB9 is the previous architecture. DBS Superleggera shares DB11-derived structure, but the original corporate core-range classification lists DB11 and DBS separately. Count DB11 V12, V8, AMR and Volante within one core family; do not add those variants separately.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-121.json"
+    },
+    {
+      "manufacturer": "Mazda",
+      "model": "Mazdaspeed3 / Mazda3 MPS / Mazdaspeed Axela",
+      "generation": "Original BK production-road performance-hatchback family",
+      "proposed_record": "MAZ-MAZDASPEED3-BK-US2007",
+      "reason": "The original Mazdaspeed3 brought direct-injection turbo power, a manual gearbox and limited-slip traction to Mazda’s performance-hatchback programme. Its 2007 Car and Driver 10Best recognition supports admission for its engaging, accessible performance, while acknowledging torque steer. Mazda3 MPS and Mazdaspeed Axela are regional aliases, not extra cars.",
+      "evidence": "https://www.caranddriver.com/features/a15144842/2007-10best-cars/",
+      "duplicate_review": "Complete 918-record identity inventory checked for Mazda3 / Mazda 3 / Mazdaspeed / Axela / MPS aliases, with all 16 existing Mazda identities reviewed. No target is present. Original Mazda US release explicitly equates Mazdaspeed3, Mazda3 MPS and Mazdaspeed Axela; count the original BK programme once across regional names, grades and years. Later BL and modern Mazda3 Turbo are not this reference.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-122.json"
     }
   ],
-  "catalogue_count_after_batches": 918
+  "catalogue_count_after_batches": 919
 }
