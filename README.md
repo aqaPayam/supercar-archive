@@ -68,6 +68,9 @@ The 1,000-qualifying-car goal remains active: existing records still need the
 final eligibility audit, and quality takes priority over the numerical count.
 The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
 remaining scope and identity review without changing existing records.
+The [Lamborghini identity ledger](docs/baseline-identity-review-01.md) maps 29
+existing profiles to their programme and road/racing relationships, with
+explicit evidence and counting limits.
 The [first baseline credit repair](docs/baseline-media-credits-01.md) resolves
 three F50 attribution placeholders while preserving the photographs and car data.
 A [second credit repair](docs/baseline-media-credits-02.md) resolves 27 more

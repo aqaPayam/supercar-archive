@@ -14,6 +14,15 @@ check cannot establish semantic uniqueness: aliases, body styles, optional
 packages and differently described versions still require per-car review.
 Same-generation variant counting remains a pending user boundary.
 
+The [Lamborghini identity ledger](baseline-identity-review-01.md) inventories
+29 Aventador, Gallardo and Huracán profiles, separating 27 stored road flags
+from two competition flags. Eight manufacturer pages support selected
+derivative relationships; nine named identities were directly checked and
+twenty remain inventory-only at the individual-derivative level. Three
+provisional road-programme groups do not establish a qualifying total. All
+database rows and assets remain unchanged; variant/racer boundaries and the
+full technical/media audit stay open.
+
 ## Image-credit repair: Ferrari F50
 
 Three existing F50 photographs had generic creator and licence placeholders.
