@@ -5293,7 +5293,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 869-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-86.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Safrane",
+      "generation": "Original Safrane production-road performance-hatchback family",
+      "proposed_record": "REN-SAFRANE-BITURBO-ROAD-HISTORY",
+      "reason": "The Safrane Biturbo is an exceptional engineering collaboration within Renault’s performance-road history: Hartge developed the twin-turbo PRV V6 while Irmscher worked on the chassis, paired with permanent four-wheel drive and controlled suspension. Its significance lies in this integrated high-performance flagship programme, not simply luxury or rarity. One original Safrane sporting family is counted; RXE/Baccara trim, model years, ordinary Safranes and the Long Cours show-car derivative do not add separate entries.",
+      "evidence": "https://www.am-today.com/www.am-today.com/w/pdf/21230358-renault-une-saga-turbo-depuis-40-ans-1.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 871-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-87.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "21",
+      "generation": "Original Renault 21 production-road sporting-saloon family",
+      "proposed_record": "REN-21-TURBO-FWD-HISTORY1987",
+      "reason": "The Renault 21 2L Turbo is an established French sporting saloon of the late-1980s turbo era. Its road engine combined coordinated electronic ignition, injection and boost control with standard ABS, while the much more powerful Ragnotti racing derivative established the family’s touring-car heritage. One original 21 sporting family is counted, not ordinary saloons, Medallion badges, Quadra drivetrains, catalysed tunes, model years or racing evolutions as extra cars.",
+      "evidence": "https://www.am-today.com/www.am-today.com/w/pdf/21230358-renault-une-saga-turbo-depuis-40-ans-1.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 871-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-87.json"
     }
   ],
-  "catalogue_count_after_batches": 871
+  "catalogue_count_after_batches": 873
 }
