@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and five reviewed road-icon batches add 507 cars
-to the 395-record baseline, bringing the working catalogue to 902 records.
-The latest [Galaxie 427 Sports Hardtop batch](docs/icons-road-105.md)
+evidence and licensed photograph. One hundred and six reviewed road-icon batches add 508 cars
+to the 395-record baseline, bringing the working catalogue to 903 records.
+The latest [fuel-injected Bel Air Sport Coupe batch](docs/icons-road-106.md)
 adds one absent performance-road family, following the
-[early Impala SS 409 batch](docs/icons-road-104.md). Individual reviews and
+[Galaxie 427 Sports Hardtop batch](docs/icons-road-105.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

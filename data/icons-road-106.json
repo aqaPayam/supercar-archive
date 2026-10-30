@@ -1,0 +1,181 @@
+{
+  "batch": "icons-road-2026-10-30-106",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "CHE-BELAIR-TRIFIVE-FI283-1957",
+      "manufacturer": "Chevrolet",
+      "model_family": "Bel Air / Tri-Five Chevrolet",
+      "generation": "1955–1957 Chevrolet production-road performance family",
+      "variant": "Bel Air Sport Coupe 283 fuel injection, competition cam — 1957 USA close-ratio three-speed",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door pillarless Sport Coupe",
+      "road_legal": 1,
+      "specification_market": "1957 USA Bel Air Sport Coupe, body model 2454, optional 283-cu-in fuel injection with competition camshaft and selected close-ratio three-speed manual. One representative of the 1955–1957 Chevrolet performance-road family across years, 150/210/Bel Air trim, body styles and engines. Not a Black Widow racer or a Corvette. Original passenger-car factory specifications, revised 1 March 1957 where marked. Native advertised gross engine units retained; no modern net/kW conversion, road-test performance, weight, production total or installed axle ratio inferred.",
+      "summary": "The 1957 fuel-injected Bel Air joins a defining American performance and cultural icon with an early production fuel-injection programme. Its optional competition-cam 283 V8 advertised one gross horsepower per nominal cubic inch. GM Heritage documents the Bel Air family’s lasting collectible and generational significance.",
+      "admission_reason": "The 1957 fuel-injected Bel Air joins a defining American performance and cultural icon with an early production fuel-injection programme. Its optional competition-cam 283 V8 advertised one gross horsepower per nominal cubic inch. GM Heritage documents the Bel Air family’s lasting collectible and generational significance.",
+      "sources": [
+        {
+          "publisher": "Chevrolet Motor Division / The Old Car Manual Project facsimile",
+          "title": "1957 Chevrolet Specifications — passenger-car engine, body and transmission sheets",
+          "source_type": "Original manufacturer specification sheets, hosted scans",
+          "url": "https://chevy.oldcarmanualproject.com/chevyresto/57index.htm",
+          "notes": "Visually read full scans 17, 44, 45, 55 and 60. Direct sheets: https://chevy.oldcarmanualproject.com/chevyresto/57017.htm ; https://chevy.oldcarmanualproject.com/chevyresto/57044.htm ; https://chevy.oldcarmanualproject.com/chevyresto/57045.htm ; https://chevy.oldcarmanualproject.com/chevyresto/57055.htm ; https://chevy.oldcarmanualproject.com/chevyresto/57060.htm . Sheet 44 distinguishes 250-hp regular-cam FI from selected 283-hp competition-cam FI; 45 lists the latter with close-ratio transmission; 55 identifies mechanical lifters and Rochester injection. Sheet 17 identifies Bel Air Sport Coupe model 2454; 60 gives manual shift and ratios. Base 283 compression ratio not applied to changed FI pistons. Sheet 56 was viewed but its plotted engine is not used for selected power figures."
+        },
+        {
+          "publisher": "General Motors Heritage",
+          "title": "1957 Chevrolet Bel Air Convertible — Heritage Collection",
+          "source_type": "Manufacturer heritage collection, historical admission context",
+          "url": "https://www.gm.com/heritage/collection/chevrolet/1957-chevrolet-bel-air-convertible",
+          "notes": "Admission context for enduring Bel Air significance only. GM’s exhibited convertible is a 245-hp dual-carb car; its engine, mass, price and production count are not specifications of the selected fuel-injected Sport Coupe."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1957 Chevrolet Bel Air Sport Coupe, front left, 07-20-2024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe,_front_left,_07-20-2024.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Creator page: https://commons.wikimedia.org/wiki/User:MercurySable99 . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "283",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal bore × stroke",
+          "value": "3.875 × 3.000",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised gross",
+          "value": "283",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Gross power peak",
+          "value": "6200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised gross",
+          "value": "290",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Gross torque peak",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Rochester fuel injection; intake-port nozzles",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft specification",
+          "value": "Optional competition camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve lifters, competition camshaft",
+          "value": "Mechanical",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Inlet manifold material",
+          "value": "Cast aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust system",
+          "value": "Dual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "Close-ratio three-speed manual; column-mounted lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward ratios",
+          "value": "2.21 / 1.32 / direct",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Synchromesh",
+          "value": "Second and third gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Factory body model",
+          "value": "2454 Bel Air Sport Coupe",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 1957 fuel-injected Bel Air joins a defining American performance and cultural icon with an early production fuel-injection programme. Its optional competition-cam 283 V8 advertised one gross horsepower per nominal cubic inch. GM Heritage documents the Bel Air family’s lasting collectible and generational significance.",
+          "category": "Historical significance",
+          "confidence": "Factory engine evidence and manufacturer heritage context documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_belair_trifive_fi283_1957.jpg",
+          "caption": "1957 Bel Air Sport Coupe photographed by MercurySable99 at the Hovis cruise-in in Mercer, Pennsylvania, 20 July 2024; source describes India Ivory over Matador Red. Representative hardtop body photograph only: it does not authenticate fuel injection, competition camshaft, transmission, engine output or restoration originality.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5aa77575325721b8331425ae51585faf41b139b8076de98f2739cfa9abfb2d2b"
+        }
+      ]
+    }
+  ]
+}

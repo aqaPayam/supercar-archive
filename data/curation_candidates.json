@@ -5634,7 +5634,18 @@
       "duplicate_review": "Complete 901-record identity inventory checked for Galaxie, Starliner, Sunliner and 427 references; no target is present. The 1960–1964 Galaxie performance-road family is counted once across years, bodies, roofs and engine options; lightweight competition cars are excluded.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-105.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Bel Air / Tri-Five Chevrolet",
+      "generation": "1955–1957 Chevrolet production-road performance family",
+      "proposed_record": "CHE-BELAIR-TRIFIVE-FI283-1957",
+      "reason": "The 1957 fuel-injected Bel Air joins a defining American performance and cultural icon with an early production fuel-injection programme. Its optional competition-cam 283 V8 advertised one gross horsepower per nominal cubic inch. GM Heritage documents the Bel Air family’s lasting collectible and generational significance.",
+      "evidence": "https://www.gm.com/heritage/collection/chevrolet/1957-chevrolet-bel-air-convertible",
+      "duplicate_review": "Complete 902-record identity inventory checked for Bel Air, Belair, Tri-Five, Trifive, Black Widow and Ramjet aliases; none present. All Chevrolet identities were separately reviewed for 150/210 aliases; existing families are Camaro, Chevelle, Chevy II / Nova, Cobalt, Corvette and Impala. Count the 1955–1957 Chevrolet performance-road family once across years, bodies, engines and 150/210/Bel Air trim; no Black Widow race-car specifications.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-106.json"
     }
   ],
-  "catalogue_count_after_batches": 902
+  "catalogue_count_after_batches": 903
 }
