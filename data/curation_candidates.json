@@ -5590,7 +5590,18 @@
       "duplicate_review": "Complete 897-record identity check on 2026-10-30 found no Hudson, Hornet, Twin H/Twin-H or step-down alias. Original step-down family counted once across years, bodies and engine options; no later AMC Hornet or race car added.",
       "remaining": "None for selected 1954 production-road brochure reference; other variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-101.json"
+    },
+    {
+      "manufacturer": "Buick",
+      "model": "Riviera",
+      "generation": "Original 1963–1965 Riviera production-road coupe family",
+      "proposed_record": "BUI-RIVIERA-G1-GS1965",
+      "reason": "The original Riviera Gran Sport earns a place as an American performance-GT icon by combining the distinctive first-generation Riviera with a dual-quad Super Wildcat engine, positive-traction axle and purposeful factory performance package. Its contemporary first-hand evaluation supports the driving case as well as recording handling limitations.",
+      "evidence": "https://www.caranddriver.com/reviews/a64253059/1965-buick-riviera-gran-sport-archive-test/",
+      "duplicate_review": "Complete 898-record inventory checked for Riviera, XP-715 and related first-generation aliases; existing Buick Regal GNX and GSX do not represent Riviera. Original 1963–1965 family counted once across years, engine options and packages.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-102.json"
     }
   ],
-  "catalogue_count_after_batches": 898
+  "catalogue_count_after_batches": 899
 }
