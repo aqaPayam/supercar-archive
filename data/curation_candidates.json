@@ -6123,7 +6123,18 @@
       "duplicate_review": "Complete fresh 944-record identity inventory checked for Amilcar, CGS, CGSS and Grand Sport Surbaisse; no hits. Group original CGS/CGSS road stages, bodies, engines and chassis once. No dedicated C6/racing car, replica or additional renamed version admitted. Squire X101 prototype reference separately held, not imported.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-148.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "Virage / Newport Pagnell Vantage",
+      "generation": "Original 1990s Virage-based production-road V8 family",
+      "proposed_record": "AST-VIRAGE-VANTAGE-SC1993",
+      "reason": "The Virage-based supercharged Vantage is a distinctive 1990s British performance GT: two Eaton superchargers give its V8 a manufacturer-reported 550 bhp, matched by large ventilated front brakes and four-piston AP Racing calipers. Its substantial engineering makes it an important performance chapter beyond the earlier carburetted Vantage. Count the original Virage-based road programme once, without multiplying bodies, upgrades or commemorative editions.",
+      "evidence": "https://www.astonmartin.com/en-us/our-world/news/2020/3/2/vantage-sports-car-superiority-for-70-years-nbsp",
+      "duplicate_review": "Complete fresh 945-record identity inventory checked for Virage, Vantage, V550, V600, V8 Coupe and LWB Volante. Eleven hits reviewed: older carburetted V8 Vantage, DB2/DB7 Vantage grades, three later V12 Vantages, plus generic V8-coupe descriptions for Ghibli, E92 M3, F-Type R, 3200 GT and Shamal. No original 1990s Virage-based road programme found. Group related Virage, V8 Coupe/Volante, supercharged Vantage, V600 and Le Mans versions once; no prototypes/racers or additional body/upgrade count.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-149.json"
     }
   ],
-  "catalogue_count_after_batches": 945
+  "catalogue_count_after_batches": 946
 }

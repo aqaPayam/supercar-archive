@@ -1,0 +1,146 @@
+{
+  "batch": "icons-road-2026-10-30-149",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "AST-VIRAGE-VANTAGE-SC1993",
+      "manufacturer": "Aston Martin",
+      "model_family": "Virage / Newport Pagnell Vantage",
+      "generation": "Original 1990s Virage-based production-road V8 family",
+      "variant": "Supercharged Vantage — original 550-bhp 1993-introduction reference",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Closed two-door performance GT coupe",
+      "road_legal": 1,
+      "specification_market": "Original 550-bhp supercharged Vantage, introduced in 1993 according to the manufacturer 2020 history after its 1992 show launch. Conservative family grouping includes related original Virage, V8 Coupe/Volante and supercharged Vantage versions once; it does not assert identical construction. Nine attributes use the specified manufacturer passages. Displacement 5340 cc follows the 2020 history; past-model table prints conflicting 5430 cc and is not silently corrected or used for that field. Conflicting 1990/1920-kg masses omitted, as are output rpm, converted units, acceleration, maximum speed and unqualified largest/most-powerful claims. No V600/Le Mans output, brakes or trim transferred. Photo is a separately labelled 1994 V550, with source-reported 1995 registration disagreement, representative of coupe/body only. Earlier carburetted V8 Vantage, DB2/DB7 Vantage grades and later VH/V12 Vantages are not this programme. No prototype, racer, replica or additional body/upgrade count.",
+      "summary": "The Virage-based supercharged Vantage is a distinctive 1990s British performance GT: two Eaton superchargers give its V8 a manufacturer-reported 550 bhp, matched by large ventilated front brakes and four-piston AP Racing calipers. Its substantial engineering makes it an important performance chapter beyond the earlier carburetted Vantage. Count the original Virage-based road programme once, without multiplying bodies, upgrades or commemorative editions.",
+      "admission_reason": "The Virage-based supercharged Vantage is a distinctive 1990s British performance GT: two Eaton superchargers give its V8 a manufacturer-reported 550 bhp, matched by large ventilated front brakes and four-piston AP Racing calipers. Its substantial engineering makes it an important performance chapter beyond the earlier carburetted Vantage. Count the original Virage-based road programme once, without multiplying bodies, upgrades or commemorative editions.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Vantage: Sports Car Superiority For 70 Years — Supercharged Vantage section, 2 March 2020",
+          "source_type": "Manufacturer historical release",
+          "url": "https://www.astonmartin.com/en-us/our-world/news/2020/3/2/vantage-sports-car-superiority-for-70-years-nbsp",
+          "notes": "Complete relevant Supercharged Vantage section read, with adjacent DB7/VH identities distinguished. Supports Virage-based 1993 introduction, 5340-cc V8, two Eaton superchargers, 550 bhp/550 lb-ft, 362-mm front ventilated discs and four-piston AP Racing calipers. No output standard or rpm inferred. 1990-kg mass differs from past-model table; both omitted. V600 paragraph and repeated/rumoured performance results not transferred. Historical most-powerful/largest-brakes superlatives not imported as independent first claims."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "Vantage (1993–2000) — past-model history and specification",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.astonmartin.com/en/models/past-models/vantage",
+          "notes": "Complete relevant history, Le Mans distinction and specification table read. Used only for six-speed ZF manual and six-headlamp layout behind heated lenses, plus context of only roof/door skins shared with Virage. Table prints 5430 cc, conflicting with manufacturer 2020 release 5340 cc; that table displacement is not used. Mass 1920 kg differs from 2020 history; omit both. No table output rpm, dimensions or performance imported. Le Mans six-piston brakes and 600-bhp output do not apply to selected original reference. 1992 show launch is distinct from 1993 introduction."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "V8 Coupe & LWB Volante — development relationship",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.astonmartin.com/en/models/past-models/v8-coupe-lwb-volante",
+          "notes": "Complete relevant V8 Coupe and LWB Volante sections read. Manufacturer explicitly calls 1996 V8 Coupe a development of original Virage and describes LWB Volante replacing Virage Volante. Used for conservative family/alias grouping only, not selected supercharged-Vantage engine, gearbox, mass or dimensions. Introductory chronology wording and mixed specification blocks are not reused."
+        },
+        {
+          "publisher": "Wikimedia Commons; Mr.choppers",
+          "title": "File:1994 Aston Martin Vantage V550 in Pentland Green, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Aston_Martin_Vantage_V550_in_Pentland_Green,_front_left.jpg",
+          "notes": "Own work by Mr.choppers, dated 18 September 2022 and uploaded 25 April 2023. File summary, upload history, licensing and API metadata read. Select CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; applicable deed read; GFDL alternative not combined. Actual 1280 x 780 JPEG individually viewed and copied without further changes; current rendition includes blurred faces. Title calls it 1994 V550; author reports 1995 registration disagreement. Colour, trim, LHD total, VIN and mirror provenance are not independently authenticated or imported as car specifications. Representative original Vantage coupe, not a confirmed 1993 reference chassis, tune or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5340",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Forced induction",
+          "value": "Two Eaton superchargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer-reported output",
+          "value": "550",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer-reported torque",
+          "value": "550",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front discs",
+          "value": "362 mm diameter, ventilated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front calipers",
+          "value": "Four-piston AP Racing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Six-speed ZF manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Headlamp arrangement",
+          "value": "Two groups of three headlamps, each behind a heated lens",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Virage-based supercharged Vantage is a distinctive 1990s British performance GT: two Eaton superchargers give its V8 a manufacturer-reported 550 bhp, matched by large ventilated front brakes and four-piston AP Racing calipers. Its substantial engineering makes it an important performance chapter beyond the earlier carburetted Vantage. Count the original Virage-based road programme once, without multiplying bodies, upgrades or commemorative editions.",
+          "category": "1990s supercharged performance-GT engineering",
+          "confidence": "Manufacturer historical account of hardware and output; no independent most-powerful or timed-performance claim",
+          "source": 0
+        },
+        {
+          "title": "Related upgrades do not multiply the family",
+          "explanation": "Aston Martin describes the supercharged Vantage as Virage-based and follows it through V550, V600 and Vantage Le Mans. The archive groups the original related road programme once; those names and body derivatives do not create further additions here.",
+          "category": "Family and upgrade identity",
+          "confidence": "Manufacturer history, with V8 Coupe/Volante relationship corroboration; conservative counting does not assert mechanical equivalence",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_virage_vantage_v550.jpg",
+          "caption": "Representative original supercharged Vantage coupe; supplied title 1994 Aston Martin Vantage V550 in Pentland Green, front left.jpg. Mr.choppers, own work, 18 September 2022; Wikimedia Commons. CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ . Author notes 1994/1995 year-label disagreement; not authenticated as a particular 1993 reference chassis, engine tune, paint code or original equipment. Current 1280-pixel rendition, including blurred faces, copied without further changes; no endorsement implied.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "15d043d7af8e462dd9821ead20619a2b9a7cf53c74af67831223c3ca4650d566"
+        }
+      ]
+    }
+  ]
+}
