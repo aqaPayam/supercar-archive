@@ -5414,7 +5414,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 880-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-93.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "generation": "Fourth-generation EF Civic production-road performance-hatchback family",
+      "proposed_record": "HON-CIVIC-EF9-SIR-JP1991",
+      "reason": "The EF9 SiR brought Honda’s original high-revving DOHC VTEC concept to the Civic hatchback, pairing its 160-PS B16A with four-wheel double-wishbone suspension. It marks the Civic’s transition into the VTEC performance lineage before the later EG and Type R generations. Count this absent fourth-generation performance-road family once; SiR/SiR II grades, equipment packages, years and racing derivatives add no extra entries.",
+      "evidence": "https://global.honda/jp/news/1989/4890921.html",
+      "duplicate_review": "Absent model/generation checked against the complete 882-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-94.json"
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "Integra",
+      "generation": "Second-generation DA/DB Integra production-road sporting family",
+      "proposed_record": "HON-INTEGRA-DA6-XSI-JP1989-MT",
+      "reason": "The second-generation Integra launched Honda’s DOHC VTEC production-car era in April 1989. Its naturally aspirated 1.6-litre B16A used switchable valve timing and lift to combine high-rpm performance with everyday operation, a landmark that shaped later Honda sports engines. Count this absent Integra generation once across Honda/Acura identities, three-/four-door bodies and XSi/RSi grades; later years, transmissions and cosmetic treatments add no separate entries.",
+      "evidence": "https://global.honda/jp/news/1989/4890419.html",
+      "duplicate_review": "Absent model/generation checked against the complete 882-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-94.json"
     }
   ],
-  "catalogue_count_after_batches": 882
+  "catalogue_count_after_batches": 884
 }
