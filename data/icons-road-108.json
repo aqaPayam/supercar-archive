@@ -1,0 +1,209 @@
+{
+  "batch": "icons-road-2026-10-30-108",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "DOD-D500-ORIGINAL-315-US1956",
+      "manufacturer": "Dodge",
+      "model_family": "D-500 / early Coronet-Royal performance programme",
+      "generation": "1955–1956-body Dodge original D-500 production-road family",
+      "variant": "D-500 single-carb 315 Hemi two-door hardtop — 1956 USA revised AMA, PowerFlite",
+      "model_year_from": 1956,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door pillarless hardtop",
+      "road_legal": 1,
+      "specification_market": "1956 USA D-500 two-door hardtop with single four-barrel 315 Hemi and selected PowerFlite automatic, using Dodge’s AMA sheets revised 15 February 1956. Count the original 1955–1956-body Dodge performance-road family once across Coronet/Royal/Custom Royal trim, roofs and package alternatives. Not the 1953 pace-car replica, D-500-1 racer, later D-501 or late-1960s Coronet Super Bee. Retain advertised engine brake horsepower and factory test convention in native units. No road-test acceleration, dyno wheel power, adjusted shift points, universal race availability, hardtop dimensions from default sedan tables or curb mass inferred.",
+      "summary": "The original D-500 is a landmark early Dodge performance-road programme, combining a hemispherical-head V8 with upgraded chassis and brakes. Racer Brown’s contemporary 1,300-mile evaluation documents its unusually complete performance, handling and stopping ability while explicitly distinguishing the road car from the D-500-1 competition package.",
+      "admission_reason": "The original D-500 is a landmark early Dodge performance-road programme, combining a hemispherical-head V8 with upgraded chassis and brakes. Racer Brown’s contemporary 1,300-mile evaluation documents its unusually complete performance, handling and stopping ability while explicitly distinguishing the road car from the D-500-1 competition package.",
+      "sources": [
+        {
+          "publisher": "Dodge Division, Chrysler Corporation / Over-Drive facsimile",
+          "title": "1956 Dodge AMA Consolidated Specification Questionnaire — revised 15 February 1956",
+          "source_type": "Original manufacturer AMA specification sheets, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2025/08/1956-Dodge-AMA-Rev-2-56-1-25.pdf",
+          "notes": "25-page scan, 10,652,364 bytes. Full indexes 0, 1, 3, 5, 12, 13, 14 and 18 visually read. D-500 columns and package footnotes kept separate. Sheet 2 confirms 9.25:1 and advertised 260 bhp/330 lb-ft, with its stated SAE Engine Test Code accessories convention; no modern net conversion. Sheet 6 identifies one Carter WCFB-2443-SA versus D-500-1 dual carburettors. Sheets 13–15 establish PowerFlite, converter, wheels and 12-inch brakes; 19 identifies the D-500 two-door hardtop. Default sedan dimensions and shipping weights are not imported."
+        },
+        {
+          "publisher": "HOT ROD",
+          "title": "Dodge D-500 — Racer Brown, May 1956",
+          "source_type": "Contemporary first-hand road test, publisher archive",
+          "url": "https://www.hotrod.com/features/dodge-d-500-may-1956-982-390-24-1",
+          "notes": "Original May 1956 test republished January 2023. Admission evidence: 1,300-plus-mile road evaluation with strong handling and braking results, clearly separating street D-500 from competition D-500-1. Initial compression figure conflicts with later text and factory 9.25:1; use factory sheets. No test-specific tuned shifts, performance times, speculative race outputs or standard-equipment claims imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:56 Dodge Custom Royal Lancer D500 (8937389989).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:56_Dodge_Custom_Royal_Lancer_D500_(8937389989).jpg",
+          "notes": "Greg Gjerdingen; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit: 56 Dodge Custom Royal Lancer D500. Original credit links: https://www.flickr.com/photos/greggjerdingen/8937389989/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree overhead-valve V8; hemispherical combustion chambers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "315",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised brake horsepower",
+          "value": "260",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "330",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal bore × stroke",
+          "value": "3.63 × 3.80",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve lifters",
+          "value": "Non-hydraulic; adjustable double rocker-arm layout",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Carburettor",
+          "value": "One Carter WCFB-2443-SA four-barrel, downdraft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust system",
+          "value": "Dual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Recommended fuel",
+          "value": "Premium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "PowerFlite two-speed torque-converter automatic; pushbutton selection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gear ratios",
+          "value": "1.72 / 1.00",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Converter stall specification",
+          "value": "2.71 maximum ratio at 1850 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle",
+          "value": "Semi-floating hypoid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard D-500 rims",
+          "value": "15 × 5.5K",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard D-500 tyres",
+          "value": "7.60 × 15 four-ply tubeless",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Service brakes",
+          "value": "Hydraulic internal-expanding drums; 12-inch front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Effective lining area",
+          "value": "251",
+          "unit": "sq in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original D-500 is a landmark early Dodge performance-road programme, combining a hemispherical-head V8 with upgraded chassis and brakes. Racer Brown’s contemporary 1,300-mile evaluation documents its unusually complete performance, handling and stopping ability while explicitly distinguishing the road car from the D-500-1 competition package.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road evaluation documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_d500_original_1956.jpg",
+          "caption": "1956 Custom Royal Lancer D500 photographed by Greg Gjerdingen at Midwest Mopars in the Park, Farmington, Minnesota, June 2013. Representative two-door hardtop body and D500-style crossed-flag identification; trim shown is Custom Royal. The photograph does not authenticate engine internals, carburetion, transmission, braking equipment, package identity or restoration originality.",
+          "creator": "Greg Gjerdingen",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "be926ee9813c892a5c1c75a50c9dc3e1aab689a75354cdad0256df16aa271b37"
+        }
+      ]
+    }
+  ]
+}

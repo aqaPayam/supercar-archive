@@ -5656,7 +5656,18 @@
       "duplicate_review": "Complete 903-record identity inventory checked for Fury, Belvedere, Savoy and Christine aliases; none present. Existing Plymouth families are Road Runner Superbird, Barracuda and Valiant / Duster. Count the original 1956–1958 Fury performance-road programme once across years, engines, bodies and associated Belvedere identities; no race-car or replica specifications.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-107.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "D-500 / early Coronet-Royal performance programme",
+      "generation": "1955–1956-body Dodge original D-500 production-road family",
+      "proposed_record": "DOD-D500-ORIGINAL-315-US1956",
+      "reason": "The original D-500 is a landmark early Dodge performance-road programme, combining a hemispherical-head V8 with upgraded chassis and brakes. Racer Brown’s contemporary 1,300-mile evaluation documents its unusually complete performance, handling and stopping ability while explicitly distinguishing the road car from the D-500-1 competition package.",
+      "evidence": "https://www.hotrod.com/features/dodge-d-500-may-1956-982-390-24-1",
+      "duplicate_review": "Complete 904-record identity inventory checked for D-500, D500, Custom Royal, Royal, Lancer and Coronet aliases. Lancer hits are unrelated Mitsubishis; the sole existing Coronet is the late-1960s Super Bee. No 1955–1956-body Dodge road family is present. Count this original D-500 road family once across Coronet/Royal/Custom Royal trim, body styles and package alternatives; competition D-500-1 specifications excluded.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-108.json"
     }
   ],
-  "catalogue_count_after_batches": 904
+  "catalogue_count_after_batches": 905
 }
