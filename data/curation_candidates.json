@@ -5788,7 +5788,18 @@
       "duplicate_review": "Complete 915-record identity inventory checked for GT40 and all Ford GT identities. Existing 2005/2017 GT and modern track Mk IV are separate programmes. Count the original GT40 road family once across original Mk I road cars and Mk III, years, chassis and steering positions. No racing Mk II/Mk IV engine, modern continuation or replica substitutes for the selected Mk III.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-119.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "C-Class",
+      "generation": "W205-derived C63 production-road performance family",
+      "proposed_record": "MER-C63S-W205-UK2015",
+      "reason": "The W205 C63 carried AMG’s muscular compact sports-saloon tradition into the biturbo-V8 era. The contemporary instrumented road test documents a major handling improvement alongside its strong V8 character, while acknowledging firm ride and imperfect transmission engagement. The C63 S saloon represents the generation once across bodies, outputs, editions and facelift changes.",
+      "evidence": "https://www.caranddriver.com/reviews/a15105058/2015-mercedes-amg-c63-s-sedan-tested-review/",
+      "duplicate_review": "Complete 916-record identity inventory checked for W205/S205/C205/A205 and 205.086/205.087 aliases, plus all C-Class identities. Only W202 C36, W203 C55 and W204 C63 are present. Count the 205-based C63 road family once across bodies, outputs, editions and facelift. Ordinary AMG Line, C43 and W206 hybrid do not supply this reference.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-120.json"
     }
   ],
-  "catalogue_count_after_batches": 916
+  "catalogue_count_after_batches": 917
 }

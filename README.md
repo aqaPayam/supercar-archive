@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and nineteen reviewed road-icon batches add 521 cars
-to the 395-record baseline, bringing the working catalogue to 916 records.
-The latest [original Ford GT40 road batch](docs/icons-road-119.md)
-adds one absent sports-car family, following the
-[A90 Toyota GR Supra batch](docs/icons-road-118.md). Individual reviews and
+evidence and licensed photograph. One hundred and twenty reviewed road-icon batches add 522 cars
+to the 395-record baseline, bringing the working catalogue to 917 records.
+The latest [W205 Mercedes-AMG C63 batch](docs/icons-road-120.md)
+adds one absent performance-road family, following the
+[original Ford GT40 road batch](docs/icons-road-119.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
