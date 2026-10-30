@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and twenty-five reviewed road-icon batches add 527 cars
-to the 395-record baseline, bringing the working catalogue to 922 records.
-The latest [B110 Sunny GX-5 batch](docs/icons-road-125.md)
+evidence and licensed photograph. One hundred and twenty-six reviewed road-icon batches add 528 cars
+to the 395-record baseline, bringing the working catalogue to 923 records.
+The latest [fourth-generation Legacy GT batch](docs/icons-road-126.md)
 adds one absent sporting-road family, following the
-[original TE27 Levin / Trueno batch](docs/icons-road-124.md). Individual reviews and
+[B110 Sunny GX-5 batch](docs/icons-road-125.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)

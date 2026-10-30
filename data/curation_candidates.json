@@ -5854,7 +5854,18 @@
       "duplicate_review": "Complete 921-record identity inventory checked for Sunny, B110/KB110, Datsun1200, 1200GX and GX-5 aliases with token boundaries to exclude unrelated Bugatti EB110 strings. No target exists. Count this B110 sporting-road programme once across GX/GX-5, sedan/coupe, years and export names; do not import its TS racer, later B210/B310 or B120 truck as aliases. The researched Celica GT-TS remains uncounted pending its relationship to existing Celica XX and the variant boundary.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-125.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Legacy / Liberty",
+      "generation": "Fourth-generation BL/BP Legacy production-road sporting family",
+      "proposed_record": "SUB-LEGACY-BL-GTLTD-CA2005-MT",
+      "reason": "The fourth-generation Legacy GT brought WRX-like turbo performance to an understated all-weather grand tourer. Contemporary testing records its sleeper appeal and practical character alongside chassis and ownership limitations. Bodies, markets and variants remain one family.",
+      "evidence": "https://www.caranddriver.com/reviews/a15386001/2005-subaru-legacy-25gt-limited-long-term-road-test/",
+      "duplicate_review": "Complete 922-record inventory checked for Legacy/Liberty/B4/BL5/BP5/BL9/BP9/S402/Spec.B/Outback identities; only BC/BF first-generation and BE/BH third-generation S401 road families are present. Original fourth-generation family is absent. Group its sedan/wagon, regional names, engines, Spec.B/STI derivatives, years and related fourth-generation Outback versions within one family; do not count extra trims or bodies.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-126.json"
     }
   ],
-  "catalogue_count_after_batches": 922
+  "catalogue_count_after_batches": 923
 }
