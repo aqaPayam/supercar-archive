@@ -5700,7 +5700,18 @@
       "duplicate_review": "Complete 907-record identity inventory checked for Toronado, Tornado and Unitized Power aliases, with all Oldsmobile identities reviewed. Only the 4-4-2 and original Rocket 88 are present. Count the first-generation 1966–1970 Toronado road family once across years, standard/Deluxe trim, engines and packages; no later 455/W-34 or prototype specifications.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-111.json"
+    },
+    {
+      "manufacturer": "Pontiac",
+      "model": "Firebird / Trans Am",
+      "generation": "First-generation 1967–1969 Firebird production-road performance family",
+      "proposed_record": "PON-FIREBIRD-G1-TRANSAM-US1969",
+      "reason": "The first Trans Am established a defining Pontiac performance identity within the original Firebird family, combining Ram Air V8 power with a purposeful handling package and distinctive functional bodywork. First-hand interviews with Pontiac development participants document its creation and lasting recognition, distinguishing the production road car from experimental racing programmes.",
+      "evidence": "https://www.hotrod.com/news/how-the-pontiac-trans-am-was-born-part-3",
+      "duplicate_review": "Complete 908-record identity inventory checked for Firebird, Trans Am, TransAm and Ram Air aliases, plus every Pontiac identity. Only second-/third-generation Firebirds and separate GTO families are present. Count the original 1967–1969 Firebird road family once across years, engines, roofs and packages; no race or prototype specifications.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-112.json"
     }
   ],
-  "catalogue_count_after_batches": 908
+  "catalogue_count_after_batches": 909
 }

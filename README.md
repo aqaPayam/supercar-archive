@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and eleven reviewed road-icon batches add 513 cars
-to the 395-record baseline, bringing the working catalogue to 908 records.
-The latest [first-generation Toronado batch](docs/icons-road-111.md)
+evidence and licensed photograph. One hundred and twelve reviewed road-icon batches add 514 cars
+to the 395-record baseline, bringing the working catalogue to 909 records.
+The latest [original Firebird Trans Am batch](docs/icons-road-112.md)
 adds one absent performance-road family, following the
-[original Rocket 88 batch](docs/icons-road-110.md). Individual reviews and
+[first-generation Toronado batch](docs/icons-road-111.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
