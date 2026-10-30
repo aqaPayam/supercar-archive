@@ -5991,7 +5991,18 @@
       "duplicate_review": "Complete 932-record inventory checked for Mercer/Raceabout/Type 35 and 35-R/35-C/35-J aliases. No Mercer road programme is present; unrelated M635CSi text is not a match. Group original T-head Raceabout years, subtype labels and equipment once. Later L-head cars, dedicated racers, mixed Simeone chassis/drivetrain, Ford-based replicas and touring models are not additionally admitted.",
       "remaining": "None for this selected museum production-road reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-136.json"
+    },
+    {
+      "manufacturer": "Alfa Romeo",
+      "model": "6C 1750",
+      "generation": "Early Jano 6C 1500/1750 production-road sporting family",
+      "proposed_record": "ALF-6C1750-SS-JAMESYOUNG-MUSEUM1929",
+      "reason": "The early Alfa Romeo 6C sporting-road programme established Vittorio Jano's celebrated combination of a nimble chassis, twin-cam six-cylinder engineering and, in its leading sporting versions, supercharging. The 1750 family's major Mille Miglia successes and lasting place in pre-war sports-car history justify admission beyond rarity or coachwork exclusivity. Count the early 1500/1750 sporting-road family once; this James Young-bodied Super Sport reference is not a second record for each body, engine tune or racing chassis.",
+      "evidence": "https://simeonemuseum.org/collection/1929-alfa-romeo-6c-1750-ss/",
+      "duplicate_review": "Complete 933-record inventory checked for Alfa Romeo 6C/1500/1750, SS/Super Sport, GS/Gran Sport, James Young and related early Jano identities. No early 6C road family is present. Count the early 1500/1750 sporting-road programme once across engines, years, subtype names and coachwork. Fixed-head competition references, additional racer/chassis/body records and later 6C programmes are not admitted.",
+      "remaining": "None for this selected museum road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-137.json"
     }
   ],
-  "catalogue_count_after_batches": 933
+  "catalogue_count_after_batches": 934
 }
