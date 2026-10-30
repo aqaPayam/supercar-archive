@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Eighty-five reviewed road-icon batches add 474 cars
-to the 395-record baseline, bringing the working catalogue to 869 records.
-The latest [Renault 12 Gordini batch](docs/icons-road-85.md)
-adds one absent original sporting-road family, following the
-[Peugeot 104 ZS2 batch](docs/icons-road-84.md). Individual reviews and
+evidence and licensed photograph. Eighty-six reviewed road-icon batches add 476 cars
+to the 395-record baseline, bringing the working catalogue to 871 records.
+The latest [Renault 17 Gordini and Fuego Turbo batch](docs/icons-road-86.md)
+adds two absent original sporting-road families, following the
+[Renault 12 Gordini batch](docs/icons-road-85.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

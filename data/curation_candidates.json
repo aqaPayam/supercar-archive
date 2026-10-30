@@ -5271,7 +5271,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 868-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-85.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "17 Gordini",
+      "generation": "Original R15 / R17 sister-coupe sporting-road programme",
+      "proposed_record": "REN-17-GORDINI-EU1605-1974",
+      "reason": "The Renault 17 Gordini connected a fuel-injected sporting road coupe with Renault’s factory rally-development programme, culminating in the R17’s 1974 Press on Regardless World Championship rally victory. The racing winner used a different engine: its achievement explains the family’s heritage, not the road car’s power. One original R15/R17 sister-coupe programme is counted, without adding ordinary R15s, TS/Gordini badges, roof styles, market engines, model years or racing evolutions separately.",
+      "evidence": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LaSagaGORDINI.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 869-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-86.json"
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "Fuego",
+      "generation": "Original Fuego production-road sporting-coupe family",
+      "proposed_record": "REN-FUEGO-TURBO-EU1983-HISTORY",
+      "reason": "The Fuego combines a distinctive wind-tunnel-developed sporting coupe body with a turbocharged petrol road flagship and a major place in Argentine performance culture. Its model family became a TC2000 championship icon through the Berta/Traverso era, while the selected road reference is the European 97-kW petrol Turbo. Race cars, Argentine GTX/GTA engines, diesel records, facelifts and model years do not become additional entries or supply this road car’s mechanical figures.",
+      "evidence": "https://prensa.renault.com.ar/comunicado/la-historia-de-la-renault-fuego",
+      "duplicate_review": "Absent model/generation checked against the complete 869-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-86.json"
     }
   ],
-  "catalogue_count_after_batches": 869
+  "catalogue_count_after_batches": 871
 }
