@@ -5909,7 +5909,18 @@
       "duplicate_review": "Complete 926-record identity inventory checked, including every BMW and 700/Sport/CS/LS coupe or saloon identity. No 700 production-road family is present. Group saloon/coupe/cabriolet, Sport/CS/LS, short/long bodies, outputs, years and markets in one family. Dedicated tubular-frame aluminium 700 RS/GT racers are separate identities and are not imported or counted.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-130.json"
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "904 Carrera GTS",
+      "generation": "Original Type 904 Carrera GTS production-road homologation family",
+      "proposed_record": "POR-904GTS-STREET-MUSEUM1964",
+      "reason": "The 904 Carrera GTS combined mid-engine packaging and a GRP body bonded to a metal chassis in a limited-production road-and-race GT. Its enduring design and endurance-racing heritage give it an established place in Porsche history. Count the original production-road family once; the works engines, racing tunes and individual competition cars are not additional road entries.",
+      "evidence": "https://revsinstitute.org/vehicle/1964-porsche-carrera-gts",
+      "duplicate_review": "Complete 927-record identity inventory checked, including all Porsche and 904/Carrera GTS aliases; no original Type 904 family is present. Select the documented production street car and count all road outputs, equipment, years and individual chassis once. Six/eight-cylinder works versions, racing tunes and individual competition chassis are not additional road entries.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-131.json"
     }
   ],
-  "catalogue_count_after_batches": 927
+  "catalogue_count_after_batches": 928
 }

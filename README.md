@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and thirty reviewed road-icon batches add 532 cars
-to the 395-record baseline, bringing the working catalogue to 927 records.
-The latest [BMW 700 Sport batch](docs/icons-road-130.md)
+evidence and licensed photograph. One hundred and thirty-one reviewed road-icon batches add 533 cars
+to the 395-record baseline, bringing the working catalogue to 928 records.
+The latest [Porsche 904 street-car batch](docs/icons-road-131.md)
 adds one absent sporting-road family, following the
-[Neue Klasse BMW 1800 TI batch](docs/icons-road-129.md). Individual reviews and
+[BMW 700 Sport batch](docs/icons-road-130.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
