@@ -5238,7 +5238,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 865-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-82.json"
+    },
+    {
+      "manufacturer": "Talbot",
+      "model": "Samba",
+      "generation": "Original Samba production-road sporting hatchback family",
+      "proposed_record": "TAL-SAMBA-RALLYE1219-BASE1983",
+      "reason": "The Samba Rallye was a purpose-developed sub-1300 cc sporting road hatchback and a foundation for Talbot’s customer rallying programme. Its 1219 cc engine with twin Weber carburettors and five-speed front-drive layout, together with documented FIA production recognition, give it a genuine place among early French rally-oriented hot hatches. One original Samba family is counted. The different 1360 cc UK Samba S, later engine versions, badges and competition evolutions do not add separate entries.",
+      "evidence": "https://www.simcatalbotclub.org/talbot-samba",
+      "duplicate_review": "Absent model/generation checked against the complete 866-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-83.json"
     }
   ],
-  "catalogue_count_after_batches": 866
+  "catalogue_count_after_batches": 867
 }
