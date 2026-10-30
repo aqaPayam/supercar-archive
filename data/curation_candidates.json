@@ -5370,7 +5370,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 876-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-91.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "Second-generation Camaro production-road performance-coupe family",
+      "proposed_record": "CHE-CAMARO-Z28-G2-US1970",
+      "reason": "The second-generation Z/28 developed the Camaro’s performance identity with a high-compression 350-cubic-inch V8 and revised steering and road behaviour. Contemporary first-hand testing assessed it as a distinctive road GT while also recording its handling compromises. Count this absent Camaro generation once; engines, RS/SS appearance or performance packages and later years do not add entries.",
+      "evidence": "https://www.caranddriver.com/reviews/a15141878/1970-chevrolet-camaro-z-28-road-test-review/",
+      "duplicate_review": "Absent model/generation checked against the complete 878-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-92.json"
+    },
+    {
+      "manufacturer": "Chevrolet",
+      "model": "Camaro",
+      "generation": "Fourth-generation Camaro production-road performance-coupe family",
+      "proposed_record": "CHE-CAMARO-Z28-G4-US1998-MT",
+      "reason": "The fourth-generation Camaro carried the affordable V8 pony-car line into its LS-engine era. The selected LS1 Z28 combines the Corvette-derived aluminium-block V8 with a six-speed manual, marking a substantial mechanical evolution within an established American performance family. Count this generation once; LT1/LS1 years, SS packages, transmissions, open-top bodies and anniversaries do not add separate entries.",
+      "evidence": "https://www.caranddriver.com/features/a37233141/what-to-buy-1993-2002-chevrolet-camaro/",
+      "duplicate_review": "Absent model/generation checked against the complete 878-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-92.json"
     }
   ],
-  "catalogue_count_after_batches": 878
+  "catalogue_count_after_batches": 880
 }
