@@ -5546,7 +5546,40 @@
       "duplicate_review": "Absent model/generation checked against the complete 892-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-99.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Thunderbird",
+      "generation": "Original 1955–1957 two-seat Thunderbird sporting-road family",
+      "proposed_record": "FOR-THUNDERBIRD-G1-OD-TEST1955",
+      "reason": "The original two-seat Thunderbird is a lasting American V8 roadster icon, combining sporting performance with the comfort and distinctive design that established its personal-car niche. Its first-hand period evaluation and Ford’s historical account support admission of the original 1955–1957 family.",
+      "evidence": "https://corporate.ford.com/articles/history/thunderbird/",
+      "duplicate_review": "Absent model/generation checked against the complete 894-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-100.json"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Sentra",
+      "generation": "Original B13 1991–1994 Sentra SE-R sporting-road family",
+      "proposed_record": "NIS-SENTRA-SER-B13-US1991",
+      "reason": "The B13 Sentra SE-R became an enthusiast sports-saloon landmark by pairing the SR20DE engine with a close-ratio manual, viscous limited-slip differential and a light two-door body. Its sustained contemporary recognition included Car and Driver’s 10Best, with an independent period evaluation corroborating the driving case.",
+      "evidence": "https://www.se-r.net/about/sentra_se-r/SE-R%2BHistory.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 894-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-100.json"
+    },
+    {
+      "manufacturer": "Shelby",
+      "model": "Omni GLH-S",
+      "generation": "Original L-body Shelby/Dodge Omni sporting-road programme",
+      "proposed_record": "SHE-OMNI-GLHS-US1986",
+      "reason": "The Omni GLH-S established Shelby’s own turbocharged front-drive road-car programme. Its intercooled engine and adjustable Koni chassis turned the compact five-door into a serious performance hatchback, documented by both its original sales material and a contemporary instrumented evaluation.",
+      "evidence": "https://www.caranddriver.com/reviews/a35288282/tested-1986-dodge-omni-shelby-glhs/",
+      "duplicate_review": "Absent model/generation checked against the complete 894-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-100.json"
     }
   ],
-  "catalogue_count_after_batches": 894
+  "catalogue_count_after_batches": 897
 }

@@ -1,0 +1,466 @@
+{
+  "batch": "icons-road-2026-10-30-100",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "FOR-THUNDERBIRD-G1-OD-TEST1955",
+      "manufacturer": "Ford",
+      "model_family": "Thunderbird",
+      "generation": "Original 1955–1957 two-seat Thunderbird sporting-road family",
+      "variant": "292 V8 with overdrive — January 1955 USA first-hand test reference",
+      "model_year_from": 1955,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat roadster",
+      "road_legal": 1,
+      "specification_market": "1955 USA Thunderbird with overdrive, January 1955 Mechanix Illustrated road-test reference. Actual PDF index 2, printed page 93, separates the selected 193 brake horsepower/8.1:1 overdrive car from the Ford-O-Matic’s 198/8.5:1. Preserve period bhp without a modern net conversion or an unprinted gross/net convention. The selected table gives 292 cubic inches, 3.75 × 3.30-inch bore/stroke and native inch dimensions. The 9.6-second 0–60 mph figure is this period test’s overdrive result, not a universal factory guarantee. Gear count, output-peak rpm, torque and maximum speed are not inferred; approximate speed and inconsistent weight references are omitted. A separate introductory folder prints provisional 256-cu-in/160-hp figures and is not production-car authority. Count the original two-seat family once across years, transmissions, roof choices and later engine packages.",
+      "summary": "The original two-seat Thunderbird is a lasting American V8 roadster icon, combining sporting performance with the comfort and distinctive design that established its personal-car niche. Its first-hand period evaluation and Ford’s historical account support admission of the original 1955–1957 family.",
+      "admission_reason": "The original two-seat Thunderbird is a lasting American V8 roadster icon, combining sporting performance with the comfort and distinctive design that established its personal-car niche. Its first-hand period evaluation and Ford’s historical account support admission of the original 1955–1957 family.",
+      "sources": [
+        {
+          "publisher": "Mechanix Illustrated / Over-Drive Magazine facsimile",
+          "title": "The Ford Thunderbird — Tom McCahill, Mechanix Illustrated, January 1955",
+          "source_type": "Contemporary first-hand road test, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2024/09/1955-01-MI-1955-Ford-Thunderbird-Test-1-6.pdf",
+          "notes": "1955 USA Thunderbird with overdrive, January 1955 Mechanix Illustrated road-test reference. Actual PDF index 2, printed page 93, separates the selected 193 brake horsepower/8.1:1 overdrive car from the Ford-O-Matic’s 198/8.5:1. Preserve period bhp without a modern net conversion or an unprinted gross/net convention. The selected table gives 292 cubic inches, 3.75 × 3.30-inch bore/stroke and native inch dimensions. The 9.6-second 0–60 mph figure is this period test’s overdrive result, not a universal factory guarantee. Gear count, output-peak rpm, torque and maximum speed are not inferred; approximate speed and inconsistent weight references are omitted. A separate introductory folder prints provisional 256-cu-in/160-hp figures and is not production-car authority. Count the original two-seat family once across years, transmissions, roof choices and later engine packages."
+        },
+        {
+          "publisher": "Ford Motor Company",
+          "title": "Thunderbird — manufacturer history, 9 June 2021",
+          "source_type": "Manufacturer historical account",
+          "url": "https://corporate.ford.com/articles/history/thunderbird/",
+          "notes": "Manufacturer account supports the original two-seat sporting/personal-car concept and cultural legacy. Design-target weight/speed, later four-seat luxury derivatives and subsequent NASCAR results are not production-1955 technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1955 Ford Thunderbird, front left, 09-09-2023.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1955_Ford_Thunderbird,_front_left,_09-09-2023.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Y-block V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.1:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Overdrive-equipped transmission, selected period-test reference",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "6.70 × 15",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Removable hardtop, as illustrated in the period report",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "292",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "3.75 × 3.30",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, period published rating",
+          "value": "193",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Wheelbase",
+          "value": "102",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "175.2",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "70.3",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–60 mph, period overdrive test",
+          "value": "9.6",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original two-seat Thunderbird is a lasting American V8 roadster icon, combining sporting performance with the comfort and distinctive design that established its personal-car niche. Its first-hand period evaluation and Ford’s historical account support admission of the original 1955–1957 family.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_thunderbird_g1_od_test1955.jpg",
+          "caption": "1955 Thunderbird photographed by MercurySable99 at the September 2023 New Brighton Car Cruise, Pennsylvania; source identifies Thunderbird Blue. Representative original two-seat body with a fabric roof, distinct from the detachable hardtop illustrated in the period test. Exact overdrive equipment, engine rating and mechanical originality are not authenticated by the picture.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "cacbeffa9bf2f13f760fb7ce458d3da7c15013203c6c4c8eae535bb882b676a8"
+        }
+      ]
+    },
+    {
+      "id": "NIS-SENTRA-SER-B13-US1991",
+      "manufacturer": "Nissan",
+      "model_family": "Sentra",
+      "generation": "Original B13 1991–1994 Sentra SE-R sporting-road family",
+      "variant": "SE-R two-door sedan — original 1991 USA reference",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original 1991 USA B13 Sentra SE-R, selected through Nissan’s 8 January 2001 historical press release reproduced by SE-R.net. Its first page supplies SR20DE 2.0-litre DOHC four-cylinder, advertised 140 hp, close-ratio five-speed manual, viscous limited-slip differential, sport suspension/anti-roll bars and four-wheel discs with OPTIONAL ABS. No standard-ABS claim is made. The March 1991 first-hand test supplies exact 1998 cc and front-wheel drive, mapped separately. Later 1993–1994 trim changes, 2002 QR25/Spec V helical differential/six-speed and turbocharged N14 Pulsar GTI-R data are not imported. Count the B13 sporting-road family once across years, equipment and market names; no ordinary Sentra/Tsuru or badge duplicate is added.",
+      "summary": "The B13 Sentra SE-R became an enthusiast sports-saloon landmark by pairing the SR20DE engine with a close-ratio manual, viscous limited-slip differential and a light two-door body. Its sustained contemporary recognition included Car and Driver’s 10Best, with an independent period evaluation corroborating the driving case.",
+      "admission_reason": "The B13 Sentra SE-R became an enthusiast sports-saloon landmark by pairing the SR20DE engine with a close-ratio manual, viscous limited-slip differential and a light two-door body. Its sustained contemporary recognition included Car and Driver’s 10Best, with an independent period evaluation corroborating the driving case.",
+      "sources": [
+        {
+          "publisher": "Nissan / SE-R.net hosted reproduction",
+          "title": "Nissan Sentra SE-R: A History of Performance and Value — 8 January 2001",
+          "source_type": "Manufacturer historical press release, hosted reproduction",
+          "url": "https://www.se-r.net/about/sentra_se-r/SE-R%2BHistory.pdf",
+          "notes": "Original 1991 USA B13 Sentra SE-R, selected through Nissan’s 8 January 2001 historical press release reproduced by SE-R.net. Its first page supplies SR20DE 2.0-litre DOHC four-cylinder, advertised 140 hp, close-ratio five-speed manual, viscous limited-slip differential, sport suspension/anti-roll bars and four-wheel discs with OPTIONAL ABS. No standard-ABS claim is made. The March 1991 first-hand test supplies exact 1998 cc and front-wheel drive, mapped separately. Later 1993–1994 trim changes, 2002 QR25/Spec V helical differential/six-speed and turbocharged N14 Pulsar GTI-R data are not imported. Count the B13 sporting-road family once across years, equipment and market names; no ordinary Sentra/Tsuru or badge duplicate is added."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Tested: 1991 Nissan Sentra SE-R — March 1991 report",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a39571978/1991-nissan-sentra-se-r-by-the-numbers/",
+          "notes": "First-hand evaluation corroborates the original sports-saloon case and supplies exact displacement/front drive. Test weight, performance results, prices, optional ABS installation and later model data are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Nissan SE-R (5075479047).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Nissan_SE-R_(5075479047).jpg",
+          "notes": "dave_7 from Lethbridge, Canada; CC BY 2.0; https://creativecommons.org/licenses/by/2.0. Original credit: Nissan SE-R. Original credit links: https://www.flickr.com/photos/daveseven/5075479047/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "SR20DE four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Viscous limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Sport-tuned; front and rear anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel discs; ABS optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, history advertised",
+          "value": "140",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The B13 Sentra SE-R became an enthusiast sports-saloon landmark by pairing the SR20DE engine with a close-ratio manual, viscous limited-slip differential and a light two-door body. Its sustained contemporary recognition included Car and Driver’s 10Best, with an independent period evaluation corroborating the driving case.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_sentra_ser_b13_us1991.jpg",
+          "caption": "B13 Sentra SE-R photographed by dave_7; the appropriate two-door road body and SE-R side marking are visible. Representative original-family illustration, without certification of exact reference year, wheel/tyre specification, ABS fitment, engine output or mechanical originality.",
+          "creator": "dave_7 from Lethbridge, Canada",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "cc06eb22deaa59e0063e844942d70f967e203fb43dec8dfccb2f4ca966461b8e"
+        }
+      ]
+    },
+    {
+      "id": "SHE-OMNI-GLHS-US1986",
+      "manufacturer": "Shelby",
+      "model_family": "Omni GLH-S",
+      "generation": "Original L-body Shelby/Dodge Omni sporting-road programme",
+      "variant": "Omni GLH-S — original 1986 USA Shelby sales-folder reference",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Five-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "1986 USA Shelby Omni GLH-S, original Shelby road-car sales folder. Actual PDF indexes 2 and 4 supply the selected intercooled 2.2-litre SOHC inline four, 2213 cc, 8.5:1, five-speed manual, 175 advertised hp at 5300 rpm and 175 lb-ft at 2200–4800 rpm. Retain native advertised units without assuming net/gross or dyno output. The 12-psi figure is maximum boost, not a fixed operating pressure. Adjustable low-pressure gas Koni struts/shocks, front discs/rear drums and 15-inch Centurion wheels are explicit. Manufacturer performance/comparison claims are not independent test results. Count the related original L-body Shelby/Dodge sporting-road programme conservatively once across Omni GLH/GLH-T/GLH-S, related Charger derivatives and names; no second badge, tune, body or ordinary Horizon count is added.",
+      "summary": "The Omni GLH-S established Shelby’s own turbocharged front-drive road-car programme. Its intercooled engine and adjustable Koni chassis turned the compact five-door into a serious performance hatchback, documented by both its original sales material and a contemporary instrumented evaluation.",
+      "admission_reason": "The Omni GLH-S established Shelby’s own turbocharged front-drive road-car programme. Its intercooled engine and adjustable Koni chassis turned the compact five-door into a serious performance hatchback, documented by both its original sales material and a contemporary instrumented evaluation.",
+      "sources": [
+        {
+          "publisher": "Shelby Automobiles / XR793 facsimile",
+          "title": "Shelby GLH-S — original 1986 road-car sales folder",
+          "source_type": "Original manufacturer sales folder, hosted scan",
+          "url": "https://xr793.com/wp-content/uploads/2017/01/1986-Dodge-Shelby-Omni-GLH-S.pdf",
+          "notes": "1986 USA Shelby Omni GLH-S, original Shelby road-car sales folder. Actual PDF indexes 2 and 4 supply the selected intercooled 2.2-litre SOHC inline four, 2213 cc, 8.5:1, five-speed manual, 175 advertised hp at 5300 rpm and 175 lb-ft at 2200–4800 rpm. Retain native advertised units without assuming net/gross or dyno output. The 12-psi figure is maximum boost, not a fixed operating pressure. Adjustable low-pressure gas Koni struts/shocks, front discs/rear drums and 15-inch Centurion wheels are explicit. Manufacturer performance/comparison claims are not independent test results. Count the related original L-body Shelby/Dodge sporting-road programme conservatively once across Omni GLH/GLH-T/GLH-S, related Charger derivatives and names; no second badge, tune, body or ordinary Horizon count is added."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Tested: 1986 Dodge Omni Shelby GLHS Feels Ready to Race — April 1986 report",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a35288282/tested-1986-dodge-omni-shelby-glhs/",
+          "notes": "Contemporary first-hand evaluation supports the Shelby programme’s performance significance. Its measured results and projected production are not substituted for brochure claims or certified as final production/survivor totals."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1986 Dodge Shelby Omni GLHS, Mecum Auctions Kissimmee 2024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1986_Dodge_Shelby_Omni_GLHS,_Mecum_Auctions_Kissimmee_2024.jpg",
+          "notes": "Pokemonprime; CC BY 4.0; https://creativecommons.org/licenses/by/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2213",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "SOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Multipoint electronic fuel injection; tuned intake manifold",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged; custom air-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front iso-strut/coil; rear semi-independent trailing arm/coil; adjustable low-pressure gas Koni damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted ventilated front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Goodyear 205/50VR-15 Eagle VR50 Gatorbacks",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, brochure advertised",
+          "value": "175",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure advertised",
+          "value": "175",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "2200–4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum boost pressure",
+          "value": "12",
+          "unit": "psi",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Wheels",
+          "value": "15 × 6-inch cast aluminium Shelby Centurion",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Omni GLH-S established Shelby’s own turbocharged front-drive road-car programme. Its intercooled engine and adjustable Koni chassis turned the compact five-door into a serious performance hatchback, documented by both its original sales material and a contemporary instrumented evaluation.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road test documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_she_omni_glhs_us1986.jpg",
+          "caption": "Omni GLHS photographed by Pokemonprime at Mecum Kissimmee in 2024, with GLHS and Shelby markings visible. Source identifies a 1986 car. Representative five-door road body; the auction paperwork’s unrestored/limited-production claims are not authenticated here, nor are exact engine output, chassis settings, wheels or mechanical originality.",
+          "creator": "Pokemonprime",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4e54ac988708d0f5d1d0cc9e4f2f38e61ce5ef92838a1aa844358818cddf9376"
+        }
+      ]
+    }
+  ]
+}
