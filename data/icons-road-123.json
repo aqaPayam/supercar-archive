@@ -1,0 +1,146 @@
+{
+  "batch": "icons-road-2026-10-30-123",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MIT-GALANT-VR4-V6-FACTORYHISTORY",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Galant / Legnum VR-4",
+      "generation": "Eighth-generation Galant-derived V6 VR-4 production-road family",
+      "variant": "Galant VR-4 saloon — factory historical 280-PS V6 engine reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Japan eighth-generation Galant / Legnum VR-4 road programme introduced in August 1996, represented by the Galant saloon. Selected engine reference is Mitsubishi’s historical 6A1-series account: 6A13 nominal 2.5-litre DOHC twin-turbo intercooled V6, 280 PS and 37.0 kgf-m. The year denotes programme introduction, not proof that every 1996 trim had this output. No gearbox or individual trim is assigned: a separate factory model retrospective describes a 280-PS automatic, while launch-manual/automatic differences require a dated catalogue before combining them. AYC is family-level historical significance, not a claim that all grades have it. Group Galant and derived Legnum, manual/automatic, Type S/Type V, Super VR-4, facelift and years within this one generation. Not the earlier E39A four-cylinder rally road family, 1992 V6 generation, ordinary GDI Galant, Aspire or US-market GTZ. No exact cc, peak rpm, acceleration, mass, dimensions, brakes, tyres, fuel injection, later S-AWC/ACD/Super AYC or all-grade standard equipment inferred.",
+      "summary": "The eighth-generation Galant / Legnum VR-4 road family belongs for its place in the 1996 production introduction of Mitsubishi’s Active Yaw Control, using left-right rear-wheel torque transfer to influence cornering. A manufacturer engineering paper documents that chassis milestone. Its V6 twin-turbo sporting lineage is distinct from the earlier four-cylinder rally Galant; bodies, trims and years count once.",
+      "admission_reason": "The eighth-generation Galant / Legnum VR-4 road family belongs for its place in the 1996 production introduction of Mitsubishi’s Active Yaw Control, using left-right rear-wheel torque transfer to influence cornering. A manufacturer engineering paper documents that chassis milestone. Its V6 twin-turbo sporting lineage is distinct from the earlier four-cylinder rally Galant; bodies, trims and years count once.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "Company History — 6A1-series engine account, Galant / Legnum 6A13 application",
+          "source_type": "Original manufacturer historical engine account",
+          "url": "https://www.mitsubishi-motors.com/en/company/history/company/",
+          "notes": "Complete relevant 6A1-series section read, including the August 1996 Galant/Legnum introduction and selected 280-PS 6A13 engine description. The section is filed under 1991 engine-family introduction; that is not the Galant launch date. Family-wide engine years, production totals and displacement range do not become VR-4 figures. Selected engine values only; no gearbox/trim combination inferred."
+        },
+        {
+          "publisher": "Mitsubishi Motors",
+          "title": "Car History — eighth-generation Galant and derived Legnum, 1996 sections",
+          "source_type": "Original manufacturer model-family retrospective",
+          "url": "https://www.mitsubishi-motors.com/en/company/history/car/",
+          "notes": "Complete relevant Galant and Legnum prose and displayed generic dimensions read. Establishes generation, wagon derivation and full-time viscous-coupled 4WD. Generic dimensions and ordinary GDI technology are not imported into the VR-4. Its 280-PS INVECS-II automatic description is not treated as an exact 1996 launch specification. AYC/ASC are specified for certain Galant trims; the Legnum account separately describes AYC on VR-4 and ASC/TCL on Type S. Do not collapse these into universal equipment."
+        },
+        {
+          "publisher": "Mitsubishi Motors Corporation; mirrored by MMC Manuals",
+          "title": "Technology DNA of MMC — Hashimoto, Fukuyama, Oikawa and Kume, Technical Review 2005, printed pp. 8–9",
+          "source_type": "Original manufacturer engineering paper, preserved facsimile",
+          "url": "https://mmc-manuals.ru/manuals/misc/technical_review/technical_review_2005.pdf",
+          "notes": "Paper heading/authors and complete vehicle-dynamics section read as web PDF text, especially printed pages 8–9 / PDF indices 9–10. Explicitly dates Galant and Lancer Evolution AYC application to 1996 and explains torque difference between left/right rear wheels. Admission evidence for the concrete production chassis milestone; no unqualified worldwide priority claim, claim of independent road testing, all-trim availability or complete 90-page visual review. Earlier 1987 ECS/4WS and later Evo MR aluminium roof are kept separate from this VR-4 reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mitsubishi GALANT VR-4 (E-EC5A) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mitsubishi_GALANT_VR-4_(E-EC5A)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; own work dated 9 October 2023. CC BY-SA 4.0, exact licence https://creativecommons.org/licenses/by-sa/4.0 . The 1280-pixel Commons source rendition is copied unchanged; no author endorsement implied. Photograph documents the saloon body, not engine output, gearbox, grade, AYC fitment or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Factory engine designation",
+          "value": "6A13",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "2.5",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge cooling",
+          "value": "Intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory historical engine output",
+          "value": "280",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory historical maximum torque",
+          "value": "37.0",
+          "unit": "kgf-m",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Centre coupling",
+          "value": "Viscous coupling",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The eighth-generation Galant / Legnum VR-4 road family belongs for its place in the 1996 production introduction of Mitsubishi’s Active Yaw Control, using left-right rear-wheel torque transfer to influence cornering. A manufacturer engineering paper documents that chassis milestone. Its V6 twin-turbo sporting lineage is distinct from the earlier four-cylinder rally Galant; bodies, trims and years count once.",
+          "category": "Production torque-vectoring milestone",
+          "confidence": "Original manufacturer engineering paper and model/engine histories documented; individual-trim availability qualified",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mitsubishi_galant_vr4_v6.jpg",
+          "caption": "Eighth-generation E-EC5A Galant VR-4 saloon, photographed by Tokumeigakarinoaoshima on 9 October 2023. Individually inspected front-side view shows the saloon body and VR-4 grille badge. Representative exterior only: visible wheels, spoiler, badge and plate do not authenticate exact trim, build year, engine output, gearbox, AYC fitment, condition or originality. CC BY-SA 4.0; 1280-pixel Commons source rendition copied unchanged.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "1d571bacb83b2a118c4279f50cad424a46e9a1332f8e156f7b3ed890adb83189"
+        }
+      ]
+    }
+  ]
+}
