@@ -5392,7 +5392,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 878-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-92.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Eclipse",
+      "generation": "First-generation Eclipse / Talon / Laser shared Diamond-Star production-road coupe family",
+      "proposed_record": "MIT-ECLIPSE-G1-GSX-US1990-MT",
+      "reason": "The original Eclipse turbo/AWD performance programme combined an intercooled twin-cam four with full-time four-wheel traction in a compact sports coupe. Its viscous-coupled centre differential and independent rear suspension distinguish the selected GSX from ordinary front-drive trim. Count the first-generation Diamond-Star road family once, including Eclipse, Eagle Talon and Plymouth Laser aliases; badges, transmissions and model years add no extra entries.",
+      "evidence": "https://importarchive.com/brochure/mitsubishieclipse1990_02",
+      "duplicate_review": "Absent model/generation checked against the complete 880-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-93.json"
+    },
+    {
+      "manufacturer": "Mitsubishi",
+      "model": "Eclipse",
+      "generation": "Second-generation Eclipse / Talon shared Diamond-Star production-road coupe family",
+      "proposed_record": "MIT-ECLIPSE-G2-GSX-US1995-MT",
+      "reason": "The second Eclipse generation substantially renewed the Diamond-Star performance coupe with four-wheel independent multi-link suspension and a 210-hp intercooled turbo manual reference. The GSX paired that chassis with AWD and centre/rear limited-slip differentials, sustaining the programme’s distinctive high-performance role. Count this generation once across Eclipse and Eagle Talon; badges, GS/GS-T/GSX grades, facelifts, gearboxes and Spyder bodies do not supply additional entries.",
+      "evidence": "https://importarchive.com/brochure/mitsubishieclipse1995_01",
+      "duplicate_review": "Absent model/generation checked against the complete 880-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-93.json"
     }
   ],
-  "catalogue_count_after_batches": 880
+  "catalogue_count_after_batches": 882
 }

@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Ninety-two reviewed road-icon batches add 485 cars
-to the 395-record baseline, bringing the working catalogue to 880 records.
-The latest [second- and fourth-generation Camaro batch](docs/icons-road-92.md)
+evidence and licensed photograph. Ninety-three reviewed road-icon batches add 487 cars
+to the 395-record baseline, bringing the working catalogue to 882 records.
+The latest [first- and second-generation Eclipse batch](docs/icons-road-93.md)
 adds two absent performance-road generations, following the
-[W210 E55 AMG and Escort RS Turbo batch](docs/icons-road-91.md). Individual reviews and
+[second- and fourth-generation Camaro batch](docs/icons-road-92.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
