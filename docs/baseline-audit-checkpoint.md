@@ -1,12 +1,12 @@
 # Baseline eligibility audit checkpoint
 
-Snapshot: 2026-10-30, 903 working records. This is an inventory checkpoint,
+Snapshot: 2026-10-30, 904 working records. This is an inventory checkpoint,
 not a completed eligibility or semantic duplicate audit.
 
-The 106 reviewed road-icon manifests contain 508 distinct identifiers. Subtracting
+The 107 reviewed road-icon manifests contain 509 distinct identifiers. Subtracting
 those identifiers from the actual database leaves the preserved 395-record
 baseline. Its records have not automatically been approved under the new policy.
-The raw 903 count must not be presented as 903 proven qualifying icons.
+The raw 904 count must not be presented as 904 proven qualifying icons.
 
 An exact case-folded, whitespace-trimmed comparison of manufacturer, model,
 generation and variant found no identical baseline identity-text tuples. That

@@ -5645,7 +5645,18 @@
       "duplicate_review": "Complete 902-record identity inventory checked for Bel Air, Belair, Tri-Five, Trifive, Black Widow and Ramjet aliases; none present. All Chevrolet identities were separately reviewed for 150/210 aliases; existing families are Camaro, Chevelle, Chevy II / Nova, Cobalt, Corvette and Impala. Count the 1955–1957 Chevrolet performance-road family once across years, bodies, engines and 150/210/Bel Air trim; no Black Widow race-car specifications.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-106.json"
+    },
+    {
+      "manufacturer": "Plymouth",
+      "model": "Fury / Belvedere performance programme",
+      "generation": "Original 1956–1958 Fury production-road performance family",
+      "proposed_record": "PLY-FURY-ORIGINAL-318-US1957",
+      "reason": "The original Fury is an important early American performance-road programme, pairing a dual-carb V8 with a deliberately uprated torsion-bar chassis. Racer Brown’s contemporary 1957 first-hand test establishes exceptional period handling significance while documenting braking limitations, supporting admission beyond styling, rarity or later film fame.",
+      "evidence": "https://www.hotrod.com/features/plymouth-fury-vs-stock-may-1957-982-374-16-1",
+      "duplicate_review": "Complete 903-record identity inventory checked for Fury, Belvedere, Savoy and Christine aliases; none present. Existing Plymouth families are Road Runner Superbird, Barracuda and Valiant / Duster. Count the original 1956–1958 Fury performance-road programme once across years, engines, bodies and associated Belvedere identities; no race-car or replica specifications.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-107.json"
     }
   ],
-  "catalogue_count_after_batches": 903
+  "catalogue_count_after_batches": 904
 }

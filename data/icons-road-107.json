@@ -1,0 +1,216 @@
+{
+  "batch": "icons-road-2026-10-30-107",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "PLY-FURY-ORIGINAL-318-US1957",
+      "manufacturer": "Plymouth",
+      "model_family": "Fury / Belvedere performance programme",
+      "generation": "Original 1956–1958 Fury production-road performance family",
+      "variant": "Fury V-800 318 two-door hardtop — 1957 USA factory folder, three-speed manual",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door pillarless hardtop",
+      "road_legal": 1,
+      "specification_market": "1957 USA Fury two-door hardtop with 318 V-800 and standard three-speed synchromesh manual, using the dedicated Plymouth Fury showroom folder as the factory reference. Count the original 1956–1958 Fury performance-road programme once across years, engines and associated Belvedere identities. No later full-size Fury, Super Stock, Christine replica or race specifications. Dimensions and equipment are brochure values, not the slightly different road-test measurements. No road-test acceleration, altered ignition/linkage, shipping mass as curb weight, sales total, modern net conversion or universal axle-ratio claim.",
+      "summary": "The original Fury is an important early American performance-road programme, pairing a dual-carb V8 with a deliberately uprated torsion-bar chassis. Racer Brown’s contemporary 1957 first-hand test establishes exceptional period handling significance while documenting braking limitations, supporting admission beyond styling, rarity or later film fame.",
+      "admission_reason": "The original Fury is an important early American performance-road programme, pairing a dual-carb V8 with a deliberately uprated torsion-bar chassis. Racer Brown’s contemporary 1957 first-hand test establishes exceptional period handling significance while documenting braking limitations, supporting admission beyond styling, rarity or later film fame.",
+      "sources": [
+        {
+          "publisher": "Plymouth Division, Chrysler Corporation / Over-Drive facsimile",
+          "title": "1957 Fury by Plymouth — showroom folder, engineering descriptions",
+          "source_type": "Original manufacturer showroom/specification brochure, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2025/09/1957-Plymouth-Fury-Brochure-1-4.pdf",
+          "notes": "Four-page scanned PDF, 5,391,010 bytes. Full PDF indexes 1 and 3 visually read; engineering region on 3 enlarged and read. Other pages not individually audited. Selected factory specification: 318 V-800, 290 advertised hp, three-speed manual. Keep showroom dimensions 206.0/79.4/53.5 inches separate from period road-test figures. Factory folder lists 3.54 manual axle while other compilations differ; no axle ratio imported. Tyres are blackwall standard, whitewall optional in this folder. The 3,625-lb figure is estimated shipping weight, not imported curb mass."
+        },
+        {
+          "publisher": "HOT ROD",
+          "title": "Plymouth: Fury vs. Stock — Racer Brown, May 1957",
+          "source_type": "Contemporary first-hand road test, publisher archive",
+          "url": "https://www.hotrod.com/features/plymouth-fury-vs-stock-may-1957-982-374-16-1",
+          "notes": "Original May 1957 test republished January 2023. Admission evidence: more than 1,500 miles of Fury testing, praise for chassis balance and a documented brake-fade criticism. Test car had a three-speed manual. Test-specific ignition changes, carburettor linkage experiments and acceleration are not imported factory performance claims."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1957 Plymouth Fury, front right (2022 Back to the 50's Weekend).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1957_Plymouth_Fury,_front_right_(2022_Back_to_the_50%27s_Weekend).jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Creator: https://commons.wikimedia.org/wiki/User:MercurySable99 . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "318",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "290",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "325",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal bore × stroke",
+          "value": "3.91 × 3.31",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "V-800 eight-barrel carburetion system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust system",
+          "value": "Low-restriction dual exhaust",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected transmission",
+          "value": "Standard three-speed synchromesh manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle",
+          "value": "Hypoid axle; exact installed ratio not assigned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Service brakes",
+          "value": "Hydraulic 11-inch internal-expanding drums; self-centering shoes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "Heavy-duty torsion bars; ball joints and lower control arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Heavy-duty outboard-mounted leaf springs; Oriflow dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory rim specification",
+          "value": "14 × 6K Safety-Rim",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Brochure standard tyres",
+          "value": "8.00 × 14 Nylon blackwalls; whitewalls optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase, factory folder",
+          "value": "118.0",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length, factory folder",
+          "value": "206.0",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width, factory folder",
+          "value": "79.4",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height, factory folder",
+          "value": "53.5",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Fury is an important early American performance-road programme, pairing a dual-carb V8 with a deliberately uprated torsion-bar chassis. Racer Brown’s contemporary 1957 first-hand test establishes exceptional period handling significance while documenting braking limitations, supporting admission beyond styling, rarity or later film fame.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road evaluation documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ply_fury_original_318_1957.jpg",
+          "caption": "1957 Fury two-door hardtop photographed by MercurySable99 at the 2022 Back to the 50’s Weekend in New Castle, Pennsylvania; source describes Sand Dune White. Representative body and gold-trim photograph with whitewall tyres, an option in the selected factory folder. The image does not authenticate engine, gearbox, axle ratio, chassis equipment or restoration originality.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "b24c0b140d95131ea15ca8049e5e9e23d959cbe05e8c12be9113a36d6fd683a9"
+        }
+      ]
+    }
+  ]
+}
