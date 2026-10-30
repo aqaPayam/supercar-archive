@@ -1,0 +1,230 @@
+{
+  "batch": "icons-road-2026-10-30-130",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "BMW-700SPORT-FIA1961",
+      "manufacturer": "BMW",
+      "model_family": "700 / LS",
+      "generation": "Original BMW 700/LS production-road sporting family",
+      "variant": "Coupé 700 Sport — initial 1960/61 recognition form, selected 1961 reference",
+      "model_year_from": 1961,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Original BMW 700/LS production-road sporting family, represented by the Coupé 700 Sport in initial 1960/61 production-recognition form 1060, selected 1961 reference year. Group saloon/coupe/cabriolet, Sport/CS/LS, short/long bodies, outputs, years and markets once. The dedicated tubular-frame aluminium 700 RS/GT racers are not selected or separately counted. Initial road recognition sheets control bounded technical fields; BMW's 2009 German account supplies 40 PS at 5700 rpm. Exact launch chronology is not asserted: the 1960 road-test facsimile and 1960/61 form predate the later account's summer-1961 press-introduction wording. No 70-PS racer, tuned 60-PS performance, optional sports ratios, racing wheels, overbore, body-height, seat-count or weight claims are transferred into this reference. Numeric gear ratios and oil capacity are omitted where source scopes differ.",
+      "summary": "The BMW 700 Sport combined BMW's early self-supporting body programme with a tuned twin-carburettor flat-twin and a successful small-capacity competition lineage. An original 1960 road test supports its sporting chassis and performance while retaining its noise, modest trim and demanding limit handling. Admit the sporting road family for this engineering and motorsport significance, not merely the ordinary 700's sales or corporate-rescue role; count the whole production 700/LS family once.",
+      "admission_reason": "The BMW 700 Sport combined BMW's early self-supporting body programme with a tuned twin-carburettor flat-twin and a successful small-capacity competition lineage. An original 1960 road test supports its sporting chassis and performance while retaining its noise, modest trim and demanding limit handling. Admit the sporting road family for this engineering and motorsport significance, not merely the ordinary 700's sales or corporate-rescue role; count the whole production 700/LS family once.",
+      "sources": [
+        {
+          "publisher": "BMW / FIA Historic Database",
+          "title": "BMW Coupé 700 Sport — original 1960/61 recognition form 1060, initial sheets 1-8",
+          "source_type": "Original manufacturer production-recognition form preserved by FIA",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601085901/homologation_form_number_1060_group_t.pdf",
+          "notes": "Downloaded 22-page scanned PDF. First eight pages, indices 0-7 and printed sheets 1-8, individually rendered and inspected; later pages not reviewed or imported. Eighteen technical attributes map to initial production fields. Cover identifies 1960/61 and carries 12 April 1961 stamp. Larger-bore entry is crossed out as not allowed; selected displacement remains 697 cc. Four-speed and base 12-inch steel wheels are separated from optional ratios, 40-L tank, alloy/13-inch wheels and later variants. Height, weight, seat count, sump capacity, gear ratios and cylinder-block material terminology omitted rather than harmonised with other sources. No output figure inferred from these sheets."
+        },
+        {
+          "publisher": "BMW Group Corporate Communications",
+          "title": "Der BMW 700. Der Retter wird 50. — 3 June 2009",
+          "source_type": "Original manufacturer historical account",
+          "url": "https://www.press.bmwgroup.com/deutschland/article/detail/T0022634DE/der-bmw-700-der-retter-wird-50?language=de",
+          "notes": "Complete relevant release body read through final 700/LS history. Controls one attribute: Sport 40 PS at 5700 rpm; corroborates 9:1/twin Solex development and separately describes the tubular-frame aluminium 700 RS. First self-supporting BMW body and 1960 Hans Stuck programme success provide admission context. Summer-1961 press-introduction wording conflicts with earlier contemporary/form evidence; no exact launch-date claim imported. General 30-PS coupe figures, tuned racing levels, RS 70 PS, race mass/speeds and 1961 RS title are not road Sport specifications."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "BMW Coupé 700 Sport — Group T recognition 1060 index",
+          "source_type": "Governing-body original recognition index",
+          "url": "https://historicdb.fia.com/car/bmw-coup%C3%A9-700-sport",
+          "notes": "Complete relevant index read. RWD attribute maps here; also identifies 697 cc and two cylinders. Index labels 13 April 1961 while the form cover stamps 12 April; no exact-day claim imported. 1964/1967 wheel/name/gearing extensions remain separate. Consultation forms do not constitute certified paperwork for current event entry."
+        },
+        {
+          "publisher": "auto motor und sport; facsimile preserved by Steyr-Puch Freundeskreis",
+          "title": "Test BMW 700 Sport — Heft 23/1960, printed pp.20-23; reproduced in Thondorf 34/2020",
+          "source_type": "Original contemporary road test preserved as a facsimile",
+          "url": "https://steyr-puch-freundeskreis.de/wp-content/uploads/2021/09/Layout-Thondorf-2019_web.pdf",
+          "notes": "Downloaded 55-spread preservation PDF. Contents identifies Thondorf 34/2020 despite filename 2019. Spreads indices 51-52, showing original test pp.20-23 and issue footer 23/1960, individually rendered and read, including virtues/defects, handling cautions, conclusion and technical/measured panel. Other content not claimed as visually reviewed. Supports sporting-road admission with engine/exhaust noise, basic equipment and demanding limit-handling qualifications. Numerical test figures, gearing, mass, oil capacity and proposed optional equipment supply no selected attributes. A rendered following spread was not inspected or used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW 700 sport.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_700_sport.jpg",
+          "notes": "Berthold Werner; photograph dated 20 July 2008. Commons file derives from File:BMW_700_sport_BW_1.JPG and is CC0 1.0 Universal, http://creativecommons.org/publicdomain/zero/1.0/deed.en . File summary/licensing and API metadata read. Downloaded 1280-pixel JPEG rendition individually inspected and copied unchanged. White short-bodied road coupe at an outdoor display; representative body, not authentication of 1961 specification, engine tune, gearbox, originality or standard equipment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed two-cylinder, four-stroke",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Air; crankshaft-mounted cooling fan",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "697",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "78",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "73",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft drive",
+          "value": "Helically cut spur gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Carburettors",
+          "value": "Two DVG Solex 34 PCI downdraft carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory Sport output",
+          "value": "40 PS at 5700 rpm",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Four-speed manual; all four gears synchronised",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "160 mm single dry plate, mechanical operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Steering",
+          "label": "Type and ratio",
+          "value": "Rack and pinion; 17.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front and rear",
+          "value": "200 mm internal-diameter drums at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Base fitment",
+          "value": "3.50 x 12 steel disc wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Base fitment",
+          "value": "5.20-12 front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Base tank capacity",
+          "value": "33",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Wheelbase",
+          "value": "2120",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Front / rear track",
+          "value": "1270 / 1200",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The BMW 700 Sport combined BMW's early self-supporting body programme with a tuned twin-carburettor flat-twin and a successful small-capacity competition lineage. An original 1960 road test supports its sporting chassis and performance while retaining its noise, modest trim and demanding limit handling. Admit the sporting road family for this engineering and motorsport significance, not merely the ordinary 700's sales or corporate-rescue role; count the whole production 700/LS family once.",
+          "category": "Small-capacity sporting-road and competition heritage",
+          "confidence": "Original production recognition, manufacturer history and qualified contemporary road test",
+          "source": 3
+        },
+        {
+          "title": "Road Sport and RS racer remain distinct",
+          "explanation": "BMW's historical account identifies the 700 as its first self-supporting-body programme and records Hans Stuck's 1960 hill-climb title in the 700 lineage. It separately describes the 700 RS with tubular frame, aluminium body and a racing engine. Programme history explains the road Sport's significance without assigning the RS specification or racing results to every production car.",
+          "category": "Engineering and motorsport scope",
+          "confidence": "Manufacturer historical account; production and dedicated racing identities separated",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_700sport_fia1961.jpg",
+          "caption": "BMW 700 Sport coupe photographed by Berthold Werner on 20 July 2008. Individually inspected front-side view shows the white short-bodied road coupe at an outdoor display. Representative exterior only; exact build year, Sport engine specification, transmission, equipment and originality are not authenticated by the photograph. Commons derivative of BMW_700_sport_BW_1.JPG, CC0 1.0 Universal; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Berthold Werner",
+          "license": "CC0 1.0 Universal",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "cc5f45598ae071b8f8cca76730f902af15ce1414d14421fe9c086356d1cc0430"
+        }
+      ]
+    }
+  ]
+}

@@ -5898,7 +5898,18 @@
       "duplicate_review": "Complete 925-record identity inventory checked, including every BMW, Neue Klasse/New Class, 1500/1600/1800/2000, TI/TISA/TI-SA/tilux/tii and 02 names. No original Neue Klasse four-door sporting-road family is present. Existing 2002 turbo belongs to the separately identified later compact two-door 02 Series, whose shared components are acknowledged in BMW history. Count all original Neue Klasse saloon engines, sporting derivatives, years and markets in one family; no TI-SA or 2000 second count.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-129.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "700 / LS",
+      "generation": "Original BMW 700/LS production-road sporting family",
+      "proposed_record": "BMW-700SPORT-FIA1961",
+      "reason": "The BMW 700 Sport combined BMW's early self-supporting body programme with a tuned twin-carburettor flat-twin and a successful small-capacity competition lineage. An original 1960 road test supports its sporting chassis and performance while retaining its noise, modest trim and demanding limit handling. Admit the sporting road family for this engineering and motorsport significance, not merely the ordinary 700's sales or corporate-rescue role; count the whole production 700/LS family once.",
+      "evidence": "https://steyr-puch-freundeskreis.de/wp-content/uploads/2021/09/Layout-Thondorf-2019_web.pdf",
+      "duplicate_review": "Complete 926-record identity inventory checked, including every BMW and 700/Sport/CS/LS coupe or saloon identity. No 700 production-road family is present. Group saloon/coupe/cabriolet, Sport/CS/LS, short/long bodies, outputs, years and markets in one family. Dedicated tubular-frame aluminium 700 RS/GT racers are separate identities and are not imported or counted.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-130.json"
     }
   ],
-  "catalogue_count_after_batches": 926
+  "catalogue_count_after_batches": 927
 }
