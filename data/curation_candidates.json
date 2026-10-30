@@ -5436,7 +5436,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 882-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-94.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Legacy / Liberty",
+      "generation": "First-generation BC/BF Legacy production-road sporting family",
+      "proposed_record": "SUB-LEGACY-BC5-RS-JP1989",
+      "reason": "The original turbo Legacy established Subaru’s EJ-powered AWD sports-saloon formula and underpinned its early World Rally Championship programme. The RS road car’s 220-PS boxer, manual transmission and performance chassis connect that engineering history to a production saloon. Count the first Legacy generation once across Legacy/Liberty and related badge identities, bodies and RS/GT/RA grades; years, equipment and competition derivatives add no extra counts.",
+      "evidence": "https://www.subaru.co.jp/news/archives/05_01_03/05_03_15.html",
+      "duplicate_review": "Absent model/generation checked against the complete 884-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-95.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Legacy / Liberty",
+      "generation": "Third-generation BE/BH Legacy / B4 production-road sporting family",
+      "proposed_record": "SUB-LEGACY-S401-BES-JP2002",
+      "reason": "The S401 represents the third-generation Legacy’s STI-developed performance pinnacle: a hand-balanced turbo boxer, six-speed manual, front limited-slip differential and substantial steering, suspension and brake revisions. Those changes make it a distinct performance reference within the Legacy road lineage. Count the absent third generation once, including B4/Liberty, RSK/GT-B, sedan/wagon and S401 identities; the special edition does not create an extra count alongside its base family.",
+      "evidence": "https://sti.jp/brand/heritage/2002/legacy-s401/",
+      "duplicate_review": "Absent model/generation checked against the complete 884-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-95.json"
     }
   ],
-  "catalogue_count_after_batches": 884
+  "catalogue_count_after_batches": 886
 }

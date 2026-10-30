@@ -1,0 +1,348 @@
+{
+  "batch": "icons-road-2026-10-30-95",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "SUB-LEGACY-BC5-RS-JP1989",
+      "manufacturer": "Subaru",
+      "model_family": "Legacy / Liberty",
+      "generation": "First-generation BC/BF Legacy production-road sporting family",
+      "variant": "RS E-BC5 five-speed manual — February 1989 Japan brochure reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Japan February 1989 original Legacy RS E-BC5, standard five-speed manual. Actual original manufacturer RS brochure, hosted as scans by Play With LEGACY RS: printed pages 18–19 contain the model-specific specification table. EJ20-TURBO, horizontally opposed four-cylinder DOHC, 1994 cc, 92 × 75 mm, 8.5 compression, 220 PS at 6400 rpm and 27.5 kg·m at 4000 rpm. Native advertised units retained; no unstated SAE/net convention or PS/Nm conversion is introduced. Front and rear strut independent suspension and ventilated discs are explicit. No modified endurance-record-car or Group A specification, RA hand-built tune, GT automatic 200-PS engine, later twin-turbo calibration, optional equipment or competition result is imported as road performance. The photograph is a related 1990 RS Type RA road body, not authentication of this base 1989 reference.",
+      "summary": "The original turbo Legacy established Subaru’s EJ-powered AWD sports-saloon formula and underpinned its early World Rally Championship programme. The RS road car’s 220-PS boxer, manual transmission and performance chassis connect that engineering history to a production saloon. Count the first Legacy generation once across Legacy/Liberty and related badge identities, bodies and RS/GT/RA grades; years, equipment and competition derivatives add no extra counts.",
+      "admission_reason": "The original turbo Legacy established Subaru’s EJ-powered AWD sports-saloon formula and underpinned its early World Rally Championship programme. The RS road car’s 220-PS boxer, manual transmission and performance chassis connect that engineering history to a production saloon. Count the first Legacy generation once across Legacy/Liberty and related badge identities, bodies and RS/GT/RA grades; years, equipment and competition derivatives add no extra counts.",
+      "sources": [
+        {
+          "publisher": "Fuji Heavy Industries / Subaru; Play With LEGACY RS facsimile",
+          "title": "Legacy RS — original February 1989 Japan manufacturer brochure, printed pages 18–19",
+          "source_type": "Original manufacturer brochure, hosted scan",
+          "url": "https://a15ff11300g.sakura.ne.jp/catalogue/BCBFlegacy/89.2%20legacyRS/89.2%20legacyRS.html",
+          "notes": "Japan February 1989 original Legacy RS E-BC5, standard five-speed manual. Actual original manufacturer RS brochure, hosted as scans by Play With LEGACY RS: printed pages 18–19 contain the model-specific specification table. EJ20-TURBO, horizontally opposed four-cylinder DOHC, 1994 cc, 92 × 75 mm, 8.5 compression, 220 PS at 6400 rpm and 27.5 kg·m at 4000 rpm. Native advertised units retained; no unstated SAE/net convention or PS/Nm conversion is introduced. Front and rear strut independent suspension and ventilated discs are explicit. No modified endurance-record-car or Group A specification, RA hand-built tune, GT automatic 200-PS engine, later twin-turbo calibration, optional equipment or competition result is imported as road performance. The photograph is a related 1990 RS Type RA road body, not authentication of this base 1989 reference."
+        },
+        {
+          "publisher": "Subaru Corporation",
+          "title": "1989 original Legacy — manufacturer history and RS/GT distinction",
+          "source_type": "Manufacturer historical account",
+          "url": "https://members-origin.subaru.jp/stamp/history/history_80s_12.html",
+          "notes": "Actual manufacturer history read. Identifies EJ20 RS 220 PS/6400 rpm and 27.5 kg·m/4000 rpm; distinguishes the 200-PS GT automatic. The endurance attempt used three RS-based cars with necessary modifications, not untouched retail saloons."
+        },
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "Legacy production milestone — original first-generation rally and model chronology",
+          "source_type": "Manufacturer historical chronology",
+          "url": "https://www.subaru.co.jp/news/archives/05_01_03/05_03_15.html",
+          "notes": "Actual March 15, 2005 release read. First Legacy launch February 1989, WRC entry April 1990 and first WRC victory in New Zealand August 1993. Rally achievements explain family relevance; they are not stock-car performance measurements. The historical claim that the endurance record remained unbeaten is not repeated as a current claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Subaru legacy rs-ra 02.jpg",
+          "source_type": "Image source / licence evidence",
+          "url": "https://commons.wikimedia.org/wiki/File:Subaru_legacy_rs-ra_02.jpg",
+          "notes": "A15ff11300g at Japanese Wikipedia; Public domain; Author public-domain dedication with worldwide scope and unrestricted-use fallback; actual Commons Licensing section and original upload log inspected. Evidence: https://commons.wikimedia.org/wiki/File:Subaru_legacy_rs-ra_02.jpg#Licensing. Original contributor A15ff11300g at Japanese Wikipedia is retained; no Creative Commons licence is substituted.. Original credit: Transferred from ja.wikipedia to Commons.. Original credit links: https://ja.wikipedia.org. Downloaded JPEG copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "EJ20-TURBO horizontally opposed four-cylinder DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EGI multi-point electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent strut suspension, front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs, front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, advertised",
+          "value": "220",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, advertised",
+          "value": "27.5",
+          "unit": "kg·m — factory notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "92 × 75",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four wheels; full-time 4WD",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original turbo Legacy established Subaru’s EJ-powered AWD sports-saloon formula and underpinned its early World Rally Championship programme. The RS road car’s 220-PS boxer, manual transmission and performance chassis connect that engineering history to a production saloon. Count the first Legacy generation once across Legacy/Liberty and related badge identities, bodies and RS/GT/RA grades; years, equipment and competition derivatives add no extra counts.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_legacy_bc5_rs_jp1989.jpg",
+          "caption": "Early first-generation Legacy turbo road saloon, identified by the original Japanese description/upload log as a 1990 RS Type RA and photographed in 2007 by A15ff11300g. Representative BC road body with RA graphics and wheels differing from the base brochure. Exact 1989 RS equipment, engine tune, gearbox originality and unmodified condition are not certified by this related-derivative photograph; it is not a rally car or endurance-record car.",
+          "creator": "A15ff11300g at Japanese Wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "40c2b34d1dd71059080ed165d4645a19f30714259d3b42652b55f92880eea8c6"
+        }
+      ]
+    },
+    {
+      "id": "SUB-LEGACY-S401-BES-JP2002",
+      "manufacturer": "Subaru",
+      "model_family": "Legacy / Liberty",
+      "generation": "Third-generation BE/BH Legacy / B4 production-road sporting family",
+      "variant": "S401 STI version GH-BES six-speed manual — 2002 Japan reference",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Japan 2002 Legacy S401 STI version, GH-BES, six-speed manual; selected performance reference for the third-generation Legacy family. Actual live STI Japanese heritage page supplies 1994 cc, 92.0 × 75.0 mm, 9.0 compression, 216 kW (293 PS) net at 6400 rpm and 343 Nm net from 4400 to 5600 rpm. Native factory kW/Nm are retained without recalculating their rounded PS/kgf·m equivalents. STI confirms hand balancing, front LSD, 15:1 steering, Brembo brakes and reinforced suspension. Subaru’s model-specific November 2002 official catalogue supplies the flat-four DOHC 16-valve twin-turbo/EGI/AWD and suspension reference. Reference kerb/gross weights and the 240-km/h speedometer are not imported as certified mass or maximum speed. The announced 400-unit limit is not represented as an audited final production total. Standard RSK 280/260-PS manual/automatic, fourth-generation S402 and later naturally aspirated engines are not this car.",
+      "summary": "The S401 represents the third-generation Legacy’s STI-developed performance pinnacle: a hand-balanced turbo boxer, six-speed manual, front limited-slip differential and substantial steering, suspension and brake revisions. Those changes make it a distinct performance reference within the Legacy road lineage. Count the absent third generation once, including B4/Liberty, RSK/GT-B, sedan/wagon and S401 identities; the special edition does not create an extra count alongside its base family.",
+      "admission_reason": "The S401 represents the third-generation Legacy’s STI-developed performance pinnacle: a hand-balanced turbo boxer, six-speed manual, front limited-slip differential and substantial steering, suspension and brake revisions. Those changes make it a distinct performance reference within the Legacy road lineage. Count the absent third generation once, including B4/Liberty, RSK/GT-B, sedan/wagon and S401 identities; the special edition does not create an extra count alongside its base family.",
+      "sources": [
+        {
+          "publisher": "Subaru Tecnica International",
+          "title": "Legacy S401 STI version — actual Japanese STI heritage specification",
+          "source_type": "Manufacturer model-development history and specification",
+          "url": "https://sti.jp/brand/heritage/2002/legacy-s401/",
+          "notes": "Japan 2002 Legacy S401 STI version, GH-BES, six-speed manual; selected performance reference for the third-generation Legacy family. Actual live STI Japanese heritage page supplies 1994 cc, 92.0 × 75.0 mm, 9.0 compression, 216 kW (293 PS) net at 6400 rpm and 343 Nm net from 4400 to 5600 rpm. Native factory kW/Nm are retained without recalculating their rounded PS/kgf·m equivalents. STI confirms hand balancing, front LSD, 15:1 steering, Brembo brakes and reinforced suspension. Subaru’s model-specific November 2002 official catalogue supplies the flat-four DOHC 16-valve twin-turbo/EGI/AWD and suspension reference. Reference kerb/gross weights and the 240-km/h speedometer are not imported as certified mass or maximum speed. The announced 400-unit limit is not represented as an audited final production total. Standard RSK 280/260-PS manual/automatic, fourth-generation S402 and later naturally aspirated engines are not this car."
+        },
+        {
+          "publisher": "Subaru Corporation",
+          "title": "Legacy B4 S401 STI version — November 2002 official model catalogue",
+          "source_type": "Manufacturer official historical model catalogue",
+          "url": "https://ucar.subaru.jp/php/catalog/grade.php?cat_id=4502691",
+          "notes": "Actual Subaru model-specific catalogue read: GH-BES, EJ20 horizontally opposed four-cylinder DOHC 16-valve twin turbo, EGI multi-point injection, full-time 4WD, six-speed manual, independent front strut/rear multi-link suspension. Generic shared catalogue thumbnail is not used as a licensed car image. Exact EJ208 suffix is not inferred from the EJ20 family label."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Subaru legacyb4 be5d s401 1 f.jpg",
+          "source_type": "Image source / licence evidence",
+          "url": "https://commons.wikimedia.org/wiki/File:Subaru_legacyb4_be5d_s401_1_f.jpg",
+          "notes": "Toyotacoronaexsaloon; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded JPEG copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Front limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo braking system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (net)",
+          "value": "216",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (net)",
+          "value": "343",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "4400–5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "92.0 × 75.0",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Gear ratio",
+          "value": "15:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "STI suspension revisions",
+          "value": "Reinforced coil springs, pillow-ball-bushed rear links and dedicated front/rear stabilizers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "EJ20 horizontally opposed four-cylinder DOHC 16-valve",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EGI multi-point electronic fuel injection",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four wheels; full-time 4WD",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front struts and rear multi-link",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S401 represents the third-generation Legacy’s STI-developed performance pinnacle: a hand-balanced turbo boxer, six-speed manual, front limited-slip differential and substantial steering, suspension and brake revisions. Those changes make it a distinct performance reference within the Legacy road lineage. Count the absent third generation once, including B4/Liberty, RSK/GT-B, sedan/wagon and S401 identities; the special edition does not create an extra count alongside its base family.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_legacy_s401_bes_jp2002.jpg",
+          "caption": "Legacy B4 S401 STI version photographed by Toyotacoronaexsaloon in September 2016, with the blue third-generation road-saloon body and S401 grille badge visible. The photograph does not authenticate this individual engine’s original hand balancing, calibration, transmission, all fitted equipment, unmodified condition or chassis identity.",
+          "creator": "Toyotacoronaexsaloon",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f3eb8e6bbfb54cafcd2a0b7c9cb7172777e88258dfd1ba2b27203f9d86628560"
+        }
+      ]
+    }
+  ]
+}
