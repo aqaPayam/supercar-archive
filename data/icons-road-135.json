@@ -1,0 +1,223 @@
+{
+  "batch": "icons-road-2026-10-30-135",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "VAU-PRINCEHENRY-C-CATALOGUE1914",
+      "manufacturer": "Vauxhall",
+      "model_family": "Prince Henry",
+      "generation": "Original Prince Henry C-type production-road sporting family",
+      "variant": "C type 25 h.p. road-touring programme — 1 January 1914 factory catalogue",
+      "model_year_from": 1914,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open sporting road tourer with coachbuilt body",
+      "road_legal": 1,
+      "specification_market": "Original Prince Henry C-type production-road family; selected C type 25 h.p. chassis and road-touring programme from the Vauxhall catalogue issued 1 January 1914, No. 22. All 19 attributes map to the dedicated C-type specification and C row of its dimensions table. Calculated 3969 cc is rounded from four cylinders, 95-mm bore and 140-mm stroke; it is explicitly derived rather than quoted displacement. Imperial chassis dimensions convert exactly using 25.4 mm per inch and are not universal finished-body dimensions. The 25 h.p. heading is a catalogue/model designation, not an imported brake-power rating. No numeric engine output, rpm, torque, weight, acceleration or speed imported. Group earlier three-litre, later four-litre engines, road bodies, years and chassis once. The manufacturer-owned pre-production EI641, trial/record machines, D-type touring/staff cars, modern replicas and the distinct 30-98 E/OE family are not additionally counted. Do not transfer the 1915 museum car's output, early 1911 museum figures or 1914 C97 long-wheelbase road-test details into this catalogue reference.",
+      "summary": "The Vauxhall Prince Henry is a landmark early production sports-car programme, translating the firm's trials engineering into a purpose-built sporting road car. Museum histories and an original period driving account establish its lasting place in sports-car history beyond age or rarity. Count the C-type road family once, grouping engines, years and coachwork; its later 30-98 descendant remains a different named production programme.",
+      "admission_reason": "The Vauxhall Prince Henry is a landmark early production sports-car programme, translating the firm's trials engineering into a purpose-built sporting road car. Museum histories and an original period driving account establish its lasting place in sports-car history beyond age or rarity. Count the C-type road family once, grouping engines, years and coachwork; its later 30-98 descendant remains a different named production programme.",
+      "sources": [
+        {
+          "publisher": "Vauxhall Motors Limited; facsimile preserved by Vauxhall Register",
+          "title": "The Catalogue of the Vauxhall Motor Carriage — issued 1 January 1914, No. 22; C type Prince Henry, printed pages 7, 20 and 39",
+          "source_type": "Original manufacturer production sales catalogue facsimile",
+          "url": "https://www.vauxhallregister.com/uploads/7/5/7/1/75715739/1914_sales_brochure.pdf",
+          "notes": "Downloaded 41-page image-only PDF, 24993252 bytes; contact sheet used for navigation, not a claim to have read every page. Individually inspected contents/imprint index 0, dedicated C-type specification index 6/printed 7, dimensions table index 19/printed 20, and Prince Henry Denbigh road-touring illustration index 38/printed 39. Also viewed B-type index 5 and unrelated Stratford index 40 but did not borrow their data. All 19 attributes use C-specific printed pages 7 and 20. Derived displacement is round(pi/4 * 95^2 * 140 * 4 / 1000) = 3969 cc. Four imperial chassis dimensions convert exactly to mm; no finished coachwork dimensions inferred. 25 h.p. is kept as designation, not bhp. No power, rpm, mass, speed, total production or optional lighting/tyre values imported."
+        },
+        {
+          "publisher": "National Motor Museum, Beaulieu / Montagu Collection",
+          "title": "Vauxhall C-Type Prince Henry — collection record for restored 1915 car and model history",
+          "source_type": "Original museum collection account",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/vauxhall-c-type-prince-henry/",
+          "notes": "Complete relevant entry read. Identifies the Prince Henry among the earliest true sports cars, production road relationship to 1910 trials, later 30/98 development and restored 1915 reference car. Supports family significance, not universal world-first priority or authenticity of every survivor. Its 3969-cc/60-bhp/2500-rpm/75-mph specifications describe that later collection reference and supply none of the selected catalogue attributes."
+        },
+        {
+          "publisher": "Vauxhall / Stellantis Media",
+          "title": "Vauxhall C-10 Prince Henry — Decade-a-Day, 31 March 2020",
+          "source_type": "Original manufacturer heritage account",
+          "url": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-c-10-prince-henry",
+          "notes": "Complete relevant release read. Explicitly calls its photographed 1910 EI641 car a likely pre-production example with earlier 3-litre engine. That is not selected as the production-road reference. Explains trials origins, subsequent road offering and later 4-litre engines; initial 1910 trials yielded no awards. Single-seat/competition speed claims and world-first marketing superlatives are not imported as standard touring performance or unqualified priority. No numerical technical attribute comes from this release."
+        },
+        {
+          "publisher": "Motor Sport archive",
+          "title": "Veteran Types XXVIII — January 1946 original account, web transcription republished July 2014",
+          "source_type": "Original period firsthand driving account and model history",
+          "url": "https://www.motorsportmagazine.com/archive/article/january-1946/10/veteran-types-xxviii/",
+          "notes": "Complete relevant account read, including first-person drive of 1914 long-wheelbase C97 previously owned by Badgery and then Pomeroy, and discussion of C versus later E/OE 30/98 models. Supports distinct named production identities despite design continuity. Its production-year/totals account differs from modern histories; none imported. Wheel/tyre changes, output, ratios, wheelbase and other C97 details do not define the selected catalogue chassis. Explicit estimated acceleration without a speedometer is not measured testing; no performance estimate, timing, fuel consumption or originality certification transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons; sv1ambo",
+          "title": "File:1915 Vauxhall Prince Henry tourer (5950355494).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1915_Vauxhall_Prince_Henry_tourer_(5950355494).jpg",
+          "notes": "Original Flickr photograph by sv1ambo, taken at National Motor Museum, Beaulieu, 7 June 2011; https://www.flickr.com/photos/50415738@N04/5950355494/ . Commons summary, file history, Flickr-review confirmation and API metadata read. CC BY 2.0 Generic, https://creativecommons.org/licenses/by/2.0/ . Downloaded 1280 x 853 JPEG rendition individually viewed and copied unchanged. Front view of red Prince Henry road tourer with pointed/fluted radiator, upright screen and wire wheels. The later restored museum body illustrates the road family; it does not authenticate 1914 catalogue engine, chassis dimensions, Denbigh coachwork identity, gearing or original equipment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinder count",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "95",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "140",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Calculated swept volume from bore/stroke/cylinder count",
+          "value": "3969",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Construction and valves",
+          "value": "Cylinders cast en bloc; mechanically operated valves all on one side",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Ignition",
+          "label": "Catalogue system",
+          "value": "High-tension magneto; Bosch starting magneto",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lubrication",
+          "label": "Catalogue system",
+          "value": "Pump feed through main bearings and hollow crankshaft to connecting-rod big ends",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "Multi-disc",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Four forward speeds with direct fourth, plus reverse; right-side lever in gate",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Worm and wheel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Catalogue arrangement",
+          "value": "Internal expanding on rear wheel hubs and propeller shaft, operated by side lever and pedal respectively",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Supply",
+          "value": "Rear tank, air-pump pressure feed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard C-type wheels",
+          "value": "Detachable wire wheels; rims listed 875 x 105 mm; fifth wheel without tyre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Standard fitment",
+          "value": "Dunlop 875 x 105 mm; plain front, grooved rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Catalogue chassis wheelbase",
+          "value": "3048",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Catalogue chassis track",
+          "value": "1371.6",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Catalogue chassis overall length",
+          "value": "4064",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Catalogue chassis overall width",
+          "value": "1676.4",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Overall ratio on direct top gear",
+          "value": "3:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Vauxhall Prince Henry is a landmark early production sports-car programme, translating the firm's trials engineering into a purpose-built sporting road car. Museum histories and an original period driving account establish its lasting place in sports-car history beyond age or rarity. Count the C-type road family once, grouping engines, years and coachwork; its later 30-98 descendant remains a different named production programme.",
+          "category": "Landmark early production sports-car engineering",
+          "confidence": "Original manufacturer sales catalogue, museum history and original period driving account",
+          "source": 1
+        },
+        {
+          "title": "A production road reference rather than a trials prototype",
+          "explanation": "The factory catalogue issued 1 January 1914 lists a dedicated C-type Prince Henry chassis and illustrates a Denbigh-bodied fast touring car. This establishes the chosen road-sales reference. No record-racing or single-seat competition performance is imported as standard touring specification.",
+          "category": "Production-road identity and documentary scope",
+          "confidence": "Dedicated C-type factory specification, dimensions and road-coachwork pages individually visually inspected",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_princehenry_c_1914catalogue.jpg",
+          "caption": "Restored Prince Henry road tourer at the National Motor Museum, Beaulieu; source identifies it as a 1915 car, photographed 7 June 2011. Representative later C-type touring body, not authentication of the 1914 catalogue engine, chassis dimensions, Denbigh body, gearing or original equipment. Photo: sv1ambo, Flickr via Wikimedia Commons, CC BY 2.0 Generic (https://creativecommons.org/licenses/by/2.0/); downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "sv1ambo",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "42cf7dadf498dc993703cf18af6f09f1b887c71afb68f27c501930ca81b25481"
+        }
+      ]
+    }
+  ]
+}

@@ -5969,7 +5969,18 @@
       "duplicate_review": "Complete 930-record identity inventory checked for Vauxhall, 30-98, 30/98, 30–98, E/OE, Velox, Wensum and Prince Henry relationships. No original 30-98 is present. Group E/OE engines, years, coachwork and individual chassis once. Prince Henry C-Type, OD 23/60 and competition specials are not selected or additionally counted.",
       "remaining": "None for this selected museum production-road reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-134.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "Prince Henry",
+      "generation": "Original Prince Henry C-type production-road sporting family",
+      "proposed_record": "VAU-PRINCEHENRY-C-CATALOGUE1914",
+      "reason": "The Vauxhall Prince Henry is a landmark early production sports-car programme, translating the firm's trials engineering into a purpose-built sporting road car. Museum histories and an original period driving account establish its lasting place in sports-car history beyond age or rarity. Count the C-type road family once, grouping engines, years and coachwork; its later 30-98 descendant remains a different named production programme.",
+      "evidence": "https://nationalmotormuseum.org.uk/collections/vehicles/vauxhall-c-type-prince-henry/",
+      "duplicate_review": "Complete 931-record inventory checked for Prince Henry/Prince-Henry/Prinz Heinrich, Vauxhall C/C10/C-10/A11C, early sporting/touring identities and 30-98/30/98 relationship. No Prince Henry production-road family is present. Group its engines, years, coachwork and individual chassis once. The later 30-98 E/OE is a distinct named production programme despite design continuity; prototype EI641, trial racers and D-type staff/touring cars are not additionally counted.",
+      "remaining": "None for this selected factory production-road reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-135.json"
     }
   ],
-  "catalogue_count_after_batches": 931
+  "catalogue_count_after_batches": 932
 }
