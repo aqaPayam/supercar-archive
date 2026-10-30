@@ -5777,7 +5777,18 @@
       "duplicate_review": "Complete 914-record identity inventory checked for Supra, A90/A91, J29 and DB42 aliases. Only A60, A70 and A80 Supra generations exist; PA90 belongs to Isuzu 117. Existing G29 Z4 is the separately named BMW roadster, not an A90 alias. Count this fifth-generation Supra road programme once across later editions, years, engines and manual/automatic choices; no GT4 or FT-1 specification.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-118.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "GT40",
+      "generation": "Original 1960s GT40 production-road family, represented by Mk III street coupe",
+      "proposed_record": "FOR-GT40-ORIGINAL-MKIII-ROAD1967",
+      "reason": "The original GT40 road programme translated a defining Anglo-American endurance-racing design into an exceptional road sports car. The Petersen and Shelby American Collection document the purpose-built Mk III street version and its historical importance. This entry represents the original road family once; victories by racing GT40 variants are not attributed to the Mk III.",
+      "evidence": "https://petersen.org/pages/petersen-vehicle/1967-ford-gt40-mk-iii",
+      "duplicate_review": "Complete 915-record identity inventory checked for GT40 and all Ford GT identities. Existing 2005/2017 GT and modern track Mk IV are separate programmes. Count the original GT40 road family once across original Mk I road cars and Mk III, years, chassis and steering positions. No racing Mk II/Mk IV engine, modern continuation or replica substitutes for the selected Mk III.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-119.json"
     }
   ],
-  "catalogue_count_after_batches": 915
+  "catalogue_count_after_batches": 916
 }

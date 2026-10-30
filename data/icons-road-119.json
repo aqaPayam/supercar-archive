@@ -1,0 +1,125 @@
+{
+  "batch": "icons-road-2026-10-30-119",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "FOR-GT40-ORIGINAL-MKIII-ROAD1967",
+      "manufacturer": "Ford",
+      "model_family": "GT40",
+      "generation": "Original 1960s GT40 production-road family, represented by Mk III street coupe",
+      "variant": "Mk III — 1967 Petersen MK3 1105 custodian reference, left-hand drive",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat road sports coupe",
+      "road_legal": 1,
+      "specification_market": "1967 GT40 Mk III street coupe, selected Petersen Automotive Museum reference MK3 1105: 289-cu-in V8, 306 bhp, left-hand drive and ZF five-speed manual documented in its earlier museum spotlight. Count the original GT40 road programme once, including original Mk I road cars and Mk III; not extra entries for chassis, years or steering positions. Separate from the 2005 Ford GT, 2017 Ford GT and modern track Mk IV. No Mk II/Mk IV 7.0-litre racing engine, continuation, replica or restoration-specific race tune. British development/build under Ford’s Anglo-American programme; origin United Kingdom does not deny American backing. Other Mk III chassis histories are context, not this car’s build history. No torque/peak speeds, dimensions, mass, production total, price or measured performance assigned.",
+      "summary": "The original GT40 road programme translated a defining Anglo-American endurance-racing design into an exceptional road sports car. The Petersen and Shelby American Collection document the purpose-built Mk III street version and its historical importance. This entry represents the original road family once; victories by racing GT40 variants are not attributed to the Mk III.",
+      "admission_reason": "The original GT40 road programme translated a defining Anglo-American endurance-racing design into an exceptional road sports car. The Petersen and Shelby American Collection document the purpose-built Mk III street version and its historical importance. This entry represents the original road family once; victories by racing GT40 variants are not attributed to the Mk III.",
+      "sources": [
+        {
+          "publisher": "Petersen Automotive Museum",
+          "title": "1967 Ford GT40 MK III — collection reference MK3 1105",
+          "source_type": "Direct museum custodian vehicle record",
+          "url": "https://petersen.org/pages/petersen-vehicle/1967-ford-gt40-mk-iii",
+          "notes": "Relevant full history, chassis identity and quick specifications read. Identifies street-legal MK3 1105, 289-cu-in V8, 306 bhp, left-hand drive, round headlights and extended luggage deck. Historical racing context does not make this Mk III a Le Mans winner. Top speed, acceleration, production counts, price and nominal 40-inch name derivation are not imported as exact technical measurements."
+        },
+        {
+          "publisher": "Petersen Automotive Museum",
+          "title": "1967 Ford GT40 MKIII — earlier collection spotlight, MK3 1105",
+          "source_type": "Direct museum custodian earlier vehicle spotlight",
+          "url": "https://kumquat-disc-ty3a.squarespace.com/vehicle-spotlights/1967-ford-gt40-mk-iii",
+          "notes": "Relevant complete spotlight body read. Same MK3 1105 reference explicitly states ZF five-speed manual with 289-cu-in 306-horsepower V8. Source is an earlier museum-hosted page, not a contemporary factory brochure. Its estimated speed and acceleration are not imported."
+        },
+        {
+          "publisher": "Shelby American Collection",
+          "title": "1966 Ford GT40 M3/1102 — Mk III street coupe",
+          "source_type": "Direct collection custodian history, separate chassis context",
+          "url": "https://shelby-american-collection.squarespace.com/gt40s/1966-ford-gt40-m3",
+          "notes": "Relevant complete Details & History read. Documents a separate Mk III completed late 1966, not the selected Petersen 1967 car. No 1102 power/torque peak or individual history copied into 1105. The page’s assertion that Mk III is the only street GT40 is not adopted: original Mk I road cars also belong to the duplicate boundary. No direct factory-literature inspection claimed."
+        },
+        {
+          "publisher": "Wikimedia Commons / Flickr",
+          "title": "File:1969 Ford GT40 Mk III (5963027204).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Ford_GT40_Mk_III_(5963027204).jpg",
+          "notes": "sv1ambo; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit https://www.flickr.com/photos/50415738@N04/5963027204/ . Downloaded JPEG copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement, custodian reference",
+          "value": "289",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, custodian reference",
+          "value": "306",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox, earlier same-car museum record",
+          "value": "ZF five-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Selected car steering position",
+          "value": "Left-hand drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Mk III headlamp form",
+          "value": "Round headlamps",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Road-use rear bodywork",
+          "value": "Extended rear deck with luggage space",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GT40 road programme translated a defining Anglo-American endurance-racing design into an exceptional road sports car. The Petersen and Shelby American Collection document the purpose-built Mk III street version and its historical importance. This entry represents the original road family once; victories by racing GT40 variants are not attributed to the Mk III.",
+          "category": "Road sports-car and engineering heritage",
+          "confidence": "Direct museum custodian histories documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ford_gt40_mk3_road.jpg",
+          "caption": "Mk III GT40 displayed at the National Motor Museum, Beaulieu, photographed by sv1ambo and titled 1969 Ford GT40 Mk III. Individually inspected frontal view shows the Mk III’s round lamps and road-car body. This right-hand-drive display car is representative imagery, not the selected Petersen left-hand-drive MK3 1105 or authentication of its engine, gearbox, build year or originality. A separate photographed display placard is not used as technical evidence.",
+          "creator": "sv1ambo",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "784524dbbd5599fec1970adc2d7c307dd3756dc0b6a5aef394e2dcf50923c625"
+        }
+      ]
+    }
+  ]
+}
