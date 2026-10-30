@@ -5315,7 +5315,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 871-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-87.json"
+    },
+    {
+      "manufacturer": "Deutsch Bonnet",
+      "model": "HBR5",
+      "generation": "Original DB HBR5 production-road coach family",
+      "proposed_record": "DB-HBR5-COACH851-GT11-REG1960",
+      "reason": "The HBR5 carried Deutsch-Bonnet’s small-engine racing know-how into a series-built grand tourer. Its streamlined glass-fibre/polyester body over a lightweight steel backbone, combined with an air-cooled opposed twin and front-wheel drive, makes it a distinctive early lightweight GT. One original HBR5 coach family is counted. DB marque racing achievements explain the engineering context, not the tune or competition history of a particular road car; later engine options, Super Rallye names, body variations and years do not add separate entries.",
+      "evidence": "https://www.lanemotormuseum.org/collection/cars/item/deutsch-bonnet-hbr5-1955/",
+      "duplicate_review": "Absent model/generation checked against the complete 873-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-88.json"
     }
   ],
-  "catalogue_count_after_batches": 873
+  "catalogue_count_after_batches": 874
 }
