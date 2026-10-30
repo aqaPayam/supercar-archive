@@ -6079,7 +6079,18 @@
       "duplicate_review": "Complete 940-record identity inventory checked for Monteverdi, High Speed/Highspeed, 375 S/L and spacing aliases, and 375/4. No existing road family found. Group High Speed production-road engines, bodies, years and chassis once conservatively. Hai prototypes, dedicated racers, replicas and separate cosmetic/body examples do not add records.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-144.json"
+    },
+    {
+      "manufacturer": "Intermeccanica",
+      "model": "Torino / Italia",
+      "generation": "Original Griffith/Omega/Torino/Italia production-road development family",
+      "proposed_record": "INT-ITALIA-351-DRIVE1972",
+      "reason": "The Italia is a distinctive Italian-American sporting hybrid: a bespoke steel-bodied, tube-frame road coupe combining Ford V8 power with four-wheel disc brakes. Its original road-drive coverage and manufacturer history establish its place in the transatlantic sports-car tradition. Count the Griffith/Omega/Torino/Italia development family once; renamed stages, different engines, bodies and individual chassis do not create additional records.",
+      "evidence": "https://rememberroad.com/intermeccanica-italia-italianhis-american-with-an-identity-crisis/",
+      "duplicate_review": "Complete 941-record identity inventory checked for Intermeccanica, Griffith, Omega, Torino, Italia and Apollo aliases. Eight unrelated hits reviewed: Ferrari 458, Bugatti EB110 text, Lotus Carlton/Omega, Maserati Biturbo text, modern TVR Griffith, Triumph GT6 text, Gumpert Apollo and Ford Torino. No original Intermeccanica road family found. Group Griffith/Omega/Torino/Italia stages and road bodies/engines once conservatively; Apollo antecedent and Indra remain separate research subjects. No prototype or replica addition.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-145.json"
     }
   ],
-  "catalogue_count_after_batches": 941
+  "catalogue_count_after_batches": 942
 }

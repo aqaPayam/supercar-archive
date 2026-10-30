@@ -1,0 +1,153 @@
+{
+  "batch": "icons-road-2026-10-30-145",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "INT-ITALIA-351-DRIVE1972",
+      "manufacturer": "Intermeccanica",
+      "model_family": "Torino / Italia",
+      "generation": "Original Griffith/Omega/Torino/Italia production-road development family",
+      "variant": "Italia Ford-351 coupe — 1972 build, AutoWeek 1984 drive reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Closed two-door sports coupe",
+      "road_legal": 1,
+      "specification_market": "Original Intermeccanica Torino/Italia road-development family, conservatively grouping related Griffith and Omega stages, selected 1972 Ford-351 coupe borrowed from Automarque in Arlington for John Matras's AutoWeek article dated 2 April 1984 and later republished by the author. Eleven attributes use that exact firsthand account; they are not universal factory-originality claims. Keep Ford 351 as the writer's engine designation, without assuming Cleveland/Windsor, exact cc, horsepower, induction specification or gearbox type/count from a T-handle shifter. The separate 289-powered quarter-mile/top-speed reference, generic mass, height and gearing are omitted. Body/chassis and suspension origins remain author-reported, not independently authenticated components. Manufacturer history supports rename relationships only. Earlier licensed coupe photo is representative and does not authenticate model year, reference engine, chassis or originality. Dedicated racers, prototypes, replicas and additional body/engine versions are not admitted. Earlier Apollo and later Indra remain distinct research subjects, not extra admissions here.",
+      "summary": "The Italia is a distinctive Italian-American sporting hybrid: a bespoke steel-bodied, tube-frame road coupe combining Ford V8 power with four-wheel disc brakes. Its original road-drive coverage and manufacturer history establish its place in the transatlantic sports-car tradition. Count the Griffith/Omega/Torino/Italia development family once; renamed stages, different engines, bodies and individual chassis do not create additional records.",
+      "admission_reason": "The Italia is a distinctive Italian-American sporting hybrid: a bespoke steel-bodied, tube-frame road coupe combining Ford V8 power with four-wheel disc brakes. Its original road-drive coverage and manufacturer history establish its place in the transatlantic sports-car tradition. Count the Griffith/Omega/Torino/Italia development family once; renamed stages, different engines, bodies and individual chassis do not create additional records.",
+      "sources": [
+        {
+          "publisher": "John Matras / Remember Road; original AutoWeek article",
+          "title": "Intermeccanica Italia: Italian-American with an identity crisis — AutoWeek, 2 April 1984, author reprint",
+          "source_type": "Original firsthand road-drive article republished by its author",
+          "url": "https://rememberroad.com/intermeccanica-italia-italianhis-american-with-an-identity-crisis/",
+          "notes": "Complete relevant road-drive/history text read. Site structured author metadata names John Matras; https://rememberroad.com/about/ explains his own article reprints and Escape Road drives. Original magazine facsimile not read. Writer explicitly identifies the borrowed Automarque Arlington car as built in 1972 with Ford 351; all eleven attributes are scoped to that account. No Cleveland/Windsor identification, exact displacement conversion, output, gearbox type/count, torque, weight or dimensions inferred. Earlier 289-powered timed results are not transferred to this 351 reference. Fiat-truck suspension provenance and chassis description remain author-reported, not independent component authentication. Disputed designer attribution and production totals omitted."
+        },
+        {
+          "publisher": "Intermeccanica",
+          "title": "Our History — Griffith, Omega, Torino and Italia sections",
+          "source_type": "Original manufacturer historical account with acknowledged book quotations",
+          "url": "https://intermeccanica.com/history/",
+          "notes": "Relevant road-car history sections read. Supports Griffith project, Omega stage, Torino later renamed Italia and original Italia road sales. Page explicitly credits Andrew McCredie's The Story of the Prancing Bull; book itself not read. Used for family/alias review, not 1972 specifications. Earlier Apollo is described as an antecedent project, not a renamed Italia. Formula Junior/IMP speed and racing achievements, exact production totals, the later Indra and Porsche replicas do not become Italia facts or additions."
+        },
+        {
+          "publisher": "Wikimedia Commons; Raycrosthwaite",
+          "title": "File:Intermeccanica Italia.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Intermeccanica_Italia.jpg",
+          "notes": "Own-work declaration by Raycrosthwaite, file labelled taken 20 March 1967 and uploaded 29 March 2011. Summary, original upload history, licensing options and API metadata read. Select CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; GFDL alternative not combined. Actual 1280 x 972 JPEG individually viewed and copied unchanged. Black-and-white early closed coupe illustrates the Torino/Italia road-development family; not authenticated as the 1972 test car, a particular engine, chassis, production stage or exact capture date. 2011 scanner metadata does not independently prove the supplied 1967 capture date. A separately viewed 1967 Torino convertible photograph was not imported because the selected body is a coupe."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Reference engine designation",
+          "value": "351; exact engine version not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body construction",
+          "value": "Steel bodywork",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Frame described in drive account",
+          "value": "Ladder-type frame using four-inch tubing; tube cross-section not specified",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front suspension as described",
+          "value": "Modified Fiat-truck equal-length wishbones with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear axle as described",
+          "value": "Mustang live axle with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear-axle location as described",
+          "value": "Pair of radius rods, Panhard rod and trailing torque-reaction rod",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Brakes as described",
+          "value": "Girling disc brakes at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Reference instruments",
+          "value": "Individual Jaeger gauges",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Reference dashboard",
+          "value": "Black vinyl",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Reference shifter",
+          "value": "Ford T-handle; gearbox type and gear count not inferred",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Italia is a distinctive Italian-American sporting hybrid: a bespoke steel-bodied, tube-frame road coupe combining Ford V8 power with four-wheel disc brakes. Its original road-drive coverage and manufacturer history establish its place in the transatlantic sports-car tradition. Count the Griffith/Omega/Torino/Italia development family once; renamed stages, different engines, bodies and individual chassis do not create additional records.",
+          "category": "Transatlantic sporting-road heritage",
+          "confidence": "Original author-republished drive, with manufacturer family/rename corroboration; no new timed-performance or exclusive first claim",
+          "source": 0
+        },
+        {
+          "title": "One development family under changing names",
+          "explanation": "Intermeccanica's own history follows the Griffith project through the Omega stage and the Torino, later rebranded Italia. Those related stages are grouped conservatively once rather than counted again under each name.",
+          "category": "Alias and road-family identity",
+          "confidence": "Manufacturer account; no exact production total or claim that every stage is mechanically identical",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_int_italia_early_coupe.jpg",
+          "caption": "Early closed coupe illustration of the Intermeccanica Torino/Italia road family; supplied title Intermeccanica Italia.jpg, labelled taken 20 March 1967 and uploaded 29 March 2011. Representative photo does not authenticate the 1972 AutoWeek reference car, Ford 351 engine, chassis, production stage, exact capture date or originality. Raycrosthwaite, own work, Wikimedia Commons. CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Raycrosthwaite",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "577cb8e4a08d3773505575e780798fdac2d00fe48390230c6854df6d7985644c"
+        }
+      ]
+    }
+  ]
+}
