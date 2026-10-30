@@ -6112,7 +6112,18 @@
       "duplicate_review": "Complete fresh 943-record identity inventory checked for Pegaso, Z-102, Z102, Z 102 and ENASA; no hits. Group original Z-102 road engines, bodies and chassis once. No Z-103, Cupula show-car, competition or speed-record derivative, replica or modern Ricart revival admitted.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-147.json"
+    },
+    {
+      "manufacturer": "Amilcar",
+      "model": "CGS / CGSS",
+      "generation": "Original interwar CGS/CGSS production-road sporting family",
+      "proposed_record": "AMI-CGSS-NICOLIS1928",
+      "reason": "The Amilcar CGS/CGSS belongs to the interwar lightweight sporting-road tradition. Its lowered CGSS chassis, uprated small engine and enlarged drum brakes supported a model popular with gentleman drivers entering competitions, as documented by Museo Nicolis. Count the related CGS/CGSS road family once, without adding coachbuilders or individual chassis.",
+      "evidence": "https://www.museonicolis.com/amilcar-cg-ss-1928-francia/",
+      "duplicate_review": "Complete fresh 944-record identity inventory checked for Amilcar, CGS, CGSS and Grand Sport Surbaisse; no hits. Group original CGS/CGSS road stages, bodies, engines and chassis once. No dedicated C6/racing car, replica or additional renamed version admitted. Squire X101 prototype reference separately held, not imported.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-148.json"
     }
   ],
-  "catalogue_count_after_batches": 944
+  "catalogue_count_after_batches": 945
 }
