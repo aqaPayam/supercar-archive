@@ -5887,7 +5887,18 @@
       "duplicate_review": "Complete 924-record identity inventory checked, including all Audi A3/S3/RS3 and Type 8L/8P/8V/8Y aliases. Only later-generation 8P, 8V and 8Y RS3 road families are present; no first-generation 8L A3/S3 sporting-road family. Count all 8L outputs, facelifts, markets, years and equipment in one family; do not add later 225 PS versions separately.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-128.json"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Neue Klasse / 1800 TI",
+      "generation": "Original Neue Klasse four-door production-road sporting-saloon family",
+      "proposed_record": "BMW-1800TI-NEUEKLASSE-BASE1964",
+      "reason": "The Neue Klasse 1800 TI helped establish BMW's sporting-saloon identity, combining a practical four-door production body with a tuned twin-carburettor engine and a close-ratio gearbox. Its successful touring-car competition programme and lasting historic-racing relevance are documented alongside the road model. Count the original Neue Klasse saloon programme once; do not transfer competition tuning or later TI/SA equipment into the standard road reference.",
+      "evidence": "https://www.motorsportmagazine.com/archive/article/november-2017/146/bmw-1800ti/",
+      "duplicate_review": "Complete 925-record identity inventory checked, including every BMW, Neue Klasse/New Class, 1500/1600/1800/2000, TI/TISA/TI-SA/tilux/tii and 02 names. No original Neue Klasse four-door sporting-road family is present. Existing 2002 turbo belongs to the separately identified later compact two-door 02 Series, whose shared components are acknowledged in BMW history. Count all original Neue Klasse saloon engines, sporting derivatives, years and markets in one family; no TI-SA or 2000 second count.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-129.json"
     }
   ],
-  "catalogue_count_after_batches": 925
+  "catalogue_count_after_batches": 926
 }
