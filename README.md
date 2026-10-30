@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Ninety-six reviewed road-icon batches add 493 cars
-to the 395-record baseline, bringing the working catalogue to 888 records.
-The latest [classic XJ12 and supercharged XJR batch](docs/icons-road-96.md)
-adds two absent performance-road lineages, following the
-[original Legacy RS and S401 batch](docs/icons-road-95.md). Individual reviews and
+evidence and licensed photograph. Ninety-seven reviewed road-icon batches add 495 cars
+to the 395-record baseline, bringing the working catalogue to 890 records.
+The latest [V10 S8 and second-generation RS 5 batch](docs/icons-road-97.md)
+adds two absent Audi performance-road generations, following the
+[classic XJ12 and supercharged XJR batch](docs/icons-road-96.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

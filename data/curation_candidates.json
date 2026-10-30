@@ -5480,7 +5480,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 886-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-96.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S8",
+      "generation": "Second-generation D3 / Typ 4E V10 S8 production-road family",
+      "proposed_record": "AUD-S8-D3-DE2006",
+      "reason": "The D3 S8 combines a high-revving, direct-injection V10 with an aluminium space-frame saloon and permanent quattro drive. This distinctive ten-cylinder flagship belongs to the era of naturally aspirated performance saloons, with substantially different engineering from the original V8 S8.",
+      "evidence": "https://xr793.com/wp-content/uploads/2023/04/2006-Audi-S8-AUS.pdf",
+      "duplicate_review": "Absent model/generation checked against the complete 888-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-97.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 5",
+      "generation": "Second-generation F5 / B9 biturbo-V6 RS 5 production-road family",
+      "proposed_record": "AUD-RS5-F5-CH2017",
+      "reason": "The second RS 5 generation replaced the original high-revving V8 formula with a compact twin-turbo V6, rear-biased quattro and a new chassis. It is a substantive evolution of Audi Sport’s performance coupe, combining hot-V turbo packaging with five-link suspension rather than merely a cosmetic or yearly update.",
+      "evidence": "https://www.audipress.ch/press/v6-power-neuer-form-das-audi-rs-5-coupe",
+      "duplicate_review": "Absent model/generation checked against the complete 888-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-97.json"
     }
   ],
-  "catalogue_count_after_batches": 888
+  "catalogue_count_after_batches": 890
 }
