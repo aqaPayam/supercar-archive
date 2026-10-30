@@ -6068,7 +6068,18 @@
       "duplicate_review": "Complete 939-record identity inventory checked for Delage, D8/D8S, D8-100/120/15 and spacing aliases. No existing road family found. Group historic D8 engines, bodies, years and chassis once conservatively. Dedicated GP/record machines, replicas and different coachwork do not add separate records.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-143.json"
+    },
+    {
+      "manufacturer": "Monteverdi",
+      "model": "High Speed",
+      "generation": "Original High Speed 375 production-road GT family",
+      "proposed_record": "MON-HIGHSPEED375L-AR1974",
+      "reason": "The Monteverdi High Speed is a defining Swiss sporting grand-tourer programme, combining European coachwork and chassis development with Chrysler V8 power. Contemporary reporting and a later firsthand drive establish its continuing place among ambitious post-war GTs. Count the High Speed production-road family once across bodies, engines and years; rarity, price and cosmetic differences alone do not earn admission.",
+      "evidence": "https://sammlung.verkehrshaus.ch/de/collection/item/175500",
+      "duplicate_review": "Complete 940-record identity inventory checked for Monteverdi, High Speed/Highspeed, 375 S/L and spacing aliases, and 375/4. No existing road family found. Group High Speed production-road engines, bodies, years and chassis once conservatively. Hai prototypes, dedicated racers, replicas and separate cosmetic/body examples do not add records.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-144.json"
     }
   ],
-  "catalogue_count_after_batches": 940
+  "catalogue_count_after_batches": 941
 }
