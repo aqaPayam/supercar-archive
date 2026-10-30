@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and fourteen reviewed road-icon batches add 516 cars
-to the 395-record baseline, bringing the working catalogue to 911 records.
-The latest [original Shelby CSX batch](docs/icons-road-114.md)
+evidence and licensed photograph. One hundred and fifteen reviewed road-icon batches add 517 cars
+to the 395-record baseline, bringing the working catalogue to 912 records.
+The latest [original Hyundai i30 N batch](docs/icons-road-115.md)
 adds one absent performance-road family, following the
-[original Pontiac Fiero batch](docs/icons-road-113.md). Individual reviews and
+[original Shelby CSX batch](docs/icons-road-114.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

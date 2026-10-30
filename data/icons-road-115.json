@@ -1,0 +1,230 @@
+{
+  "batch": "icons-road-2026-10-30-115",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HYU-I30N-PD-PERFORMANCE-EU2017",
+      "manufacturer": "Hyundai",
+      "model_family": "i30 N",
+      "generation": "Original PD-based i30 N production-road performance family",
+      "variant": "275-PS Performance Package manual hatchback — 2017 European LHD launch brochure",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "South Korea",
+      "category": "Performance icon",
+      "body_style": "Five-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original pre-facelift i30 N five-door hatchback, European left-hand-drive 2017 launch-brochure specification, selected 275-PS Performance Package and six-speed manual. The factory PDF filename says 2018 but its footer is copyright 2017, EU. LHD 1027 ENG; use 2017 launch reference, not an inferred registration year. Count this original PD-based N road family once, including the later Fastback and facelift. Not an ordinary i30/Elantra GT, N Line appearance trim, Veloster N, TCR racer, Project C or later 280-PS/DCT configuration. Factory performance figures are claims, not independent measurements. No curb mass, torque peak, emissions, price or production total is assigned.",
+      "summary": "The i30 N established Hyundai’s N performance-car identity. Its first-hand contemporary road review supports the significance of the adjustable chassis, traction and engaging handling, while acknowledging turbo lag, torque steer, firm ride and noise. The original manual Performance hatchback represents the road family once across outputs, bodies, years and facelift changes.",
+      "admission_reason": "The i30 N established Hyundai’s N performance-car identity. Its first-hand contemporary road review supports the significance of the adjustable chassis, traction and engaging handling, while acknowledging turbo lag, torque steer, firm ride and noise. The original manual Performance hatchback represents the road family once across outputs, bodies, years and facelift changes.",
+      "sources": [
+        {
+          "publisher": "Hyundai Motor Europe",
+          "title": "The All-New i30 N — European LHD launch brochure, EU. LHD 1027 ENG",
+          "source_type": "Original manufacturer sales/specification brochure",
+          "url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/brochure/product/i30n/i30n-ebrochure-2018.pdf",
+          "notes": "19-page PDF, 8,484,075 bytes; PDF indexes 5 (printed 10–11), 6 (12–13), 7 (14–15), 16 (32–33) and 18 (back cover) individually visually read. Technical table distinguishes 250-PS base from selected 275-PS Performance; use table PS rather than loose HP marketing heading. Height/dimensions expressly based on Performance 19-inch wheels. Torque 353 Nm and temporary overboost 378 Nm kept distinct, no peak speed invented. Brochure warns that specifications are preliminary and European equipment varies. Curb-mass range and luggage volume without stiffness bar are not assigned."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2018 Hyundai i30 N — Mike Duff, 6 February 2018",
+          "source_type": "Original contemporary first-hand road review",
+          "url": "https://www.caranddriver.com/reviews/a16643520/2018-hyundai-i30-n-first-drive-review/",
+          "notes": "Relevant full review and specification panel read. Admission and limitations only; no review estimates imported as measured times, weight or economy. Review tested Performance version on British roads; it does not establish all European optional equipment."
+        },
+        {
+          "publisher": "Hyundai Motor Europe",
+          "title": "The Hyundai i30 N — launch press information, July 2017 cover / September filename",
+          "source_type": "Original manufacturer launch press information",
+          "url": "https://www.hyundai.news/newsroom/dam/eu/press-kits/20170713_exhilarating_driving_pleasure_for_everyone_the_hyundai_i30_n/hyundai-i30-n-press-information-september-2017.pdf",
+          "notes": "Relevant PDF web text, cover/contents and introductory pages 3–5 read. Establishes first high-performance model under N and intended European launch by end 2017. This is not a claim of reviewing the complete 17-page PDF or its technical tables. Road N is not the development endurance-race car; no competition specification or race result imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Hyundai i30 N Performance T-GDi 2.0 Front Side.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Hyundai_i30_N_Performance_T-GDi_2.0_Front_Side.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Own work; creator https://commons.wikimedia.org/wiki/User:Vauxford . Source rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore x stroke",
+          "value": "86.0 x 86.0",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system and induction",
+          "value": "Direct-injection turbo petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, selected Performance Package",
+          "value": "202 kW / 275 PS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak speed",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Normal maximum torque",
+          "value": "353",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Temporary overboost torque",
+          "value": "378",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve system, factory table",
+          "value": "16 Valve MLA",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Layout",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected launch gearbox",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Rack-mounted motor-driven power steering",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Differential",
+          "value": "N Corner Carving Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Performance fitment",
+          "value": "235/35 R19 Pirelli Hyundai N tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Driver aids",
+          "value": "Launch Control and Rev Matching",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2650",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "4335",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "1795",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height, Performance on 19-inch wheels",
+          "value": "1447",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed 0–100 km/h",
+          "value": "6.1",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The i30 N established Hyundai’s N performance-car identity. Its first-hand contemporary road review supports the significance of the adjustable chassis, traction and engaging handling, while acknowledging turbo lag, torque steer, firm ride and noise. The original manual Performance hatchback represents the road family once across outputs, bodies, years and facelift changes.",
+          "category": "Performance-brand and chassis significance",
+          "confidence": "Manufacturer launch context and contemporary first-hand road review documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hyundai_i30n_original_performance.jpg",
+          "caption": "Original pre-facelift five-door i30 N Performance, photographed by Vauxford in Leamington Spa on 16 September 2018. Individually inspected side/front view showing N wheels, red calipers and hatch body. This British right-hand-drive example represents the body; it does not authenticate the selected European LHD equipment, exact engine tune, gearbox, optional seats or restoration originality.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "d82699ee378623a705f4c9b586d72b27401537834ca7cf5ca5dad0ca3afbd5f1"
+        }
+      ]
+    }
+  ]
+}

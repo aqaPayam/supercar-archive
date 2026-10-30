@@ -5733,7 +5733,18 @@
       "duplicate_review": "Complete 910-record identity inventory checked for CSX, Shadow and Sundance aliases, plus every Shelby identity; no target is present. Count the original 1987–1989 Shadow-based CSX road family once across years and packages. Cobra CSX chassis numbers and the separately covered Omni GLHS are not this family. No rental-specification or birthday-prototype technical mix.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-114.json"
+    },
+    {
+      "manufacturer": "Hyundai",
+      "model": "i30 N",
+      "generation": "Original PD-based i30 N production-road performance family",
+      "proposed_record": "HYU-I30N-PD-PERFORMANCE-EU2017",
+      "reason": "The i30 N established Hyundai’s N performance-car identity. Its first-hand contemporary road review supports the significance of the adjustable chassis, traction and engaging handling, while acknowledging turbo lag, torque steer, firm ride and noise. The original manual Performance hatchback represents the road family once across outputs, bodies, years and facelift changes.",
+      "evidence": "https://www.caranddriver.com/reviews/a16643520/2018-hyundai-i30-n-first-drive-review/",
+      "duplicate_review": "Complete 911-record identity inventory checked for i30 N/i30N, Elantra and Veloster aliases, plus every Hyundai identity. Only the preserved personal Verna exists; no target is present. Count the original PD-based N road family once across outputs, years, hatch/Fastback and facelift. Ordinary i30/Elantra GT, N Line, TCR and Project C specifications are not substituted.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-115.json"
     }
   ],
-  "catalogue_count_after_batches": 911
+  "catalogue_count_after_batches": 912
 }
