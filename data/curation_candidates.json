@@ -5667,7 +5667,18 @@
       "duplicate_review": "Complete 904-record identity inventory checked for D-500, D500, Custom Royal, Royal, Lancer and Coronet aliases. Lancer hits are unrelated Mitsubishis; the sole existing Coronet is the late-1960s Super Bee. No 1955–1956-body Dodge road family is present. Count this original D-500 road family once across Coronet/Royal/Custom Royal trim, body styles and package alternatives; competition D-500-1 specifications excluded.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-108.json"
+    },
+    {
+      "manufacturer": "DeSoto",
+      "model": "Adventurer / Fireflite performance programme",
+      "generation": "Original 1956–1960 Adventurer production-road performance family",
+      "proposed_record": "DES-ADVENTURER-ORIGINAL-345-US1957",
+      "reason": "The Adventurer is a significant early American performance programme: its 1957 factory-standard dual-carb Hemi advertised 345 brake horsepower from a nominal 345 cubic inches. This engineering benchmark and the programme’s continuing recognition in specialist museum collections justify its place beyond rarity, luxury trim or price.",
+      "evidence": "https://newportcarmuseum.org/3803-2/",
+      "duplicate_review": "Complete 905-record identity inventory checked for DeSoto, De Soto, Adventurer, Fireflite, Firedome and Firesweep aliases; no target is present. Count the original 1956–1960 Adventurer production-road performance programme once across years, bodies, engines and associated Fireflite identities; Ghia concepts and later engine substitutions excluded.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-109.json"
     }
   ],
-  "catalogue_count_after_batches": 905
+  "catalogue_count_after_batches": 906
 }
