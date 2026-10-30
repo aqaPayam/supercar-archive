@@ -5227,7 +5227,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 863-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-81.json"
+    },
+    {
+      "manufacturer": "Matra",
+      "model": "530",
+      "generation": "Original 1967–1973 Matra 530 production-road family",
+      "proposed_record": "MAT-530LX-FR-BROCHURE",
+      "reason": "The Matra 530 combined a compact mid-mounted V4 with genuine 2+2 accommodation and a removable two-piece roof. Separate body panels on a welded-sheet structure marked a significant step in Matra’s production-car construction, while independent suspension and four disc brakes supported its sporting role. This distinctive approach to an accessible mid-engine sports car earns one original 530 family entry, separate from the Djet, Bagheera and Murena. A, LX and SX versions do not add separate counts.",
+      "evidence": "https://matra.com/marque",
+      "duplicate_review": "Absent model/generation checked against the complete 865-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-82.json"
     }
   ],
-  "catalogue_count_after_batches": 865
+  "catalogue_count_after_batches": 866
 }

@@ -1,0 +1,202 @@
+{
+  "batch": "icons-road-2026-10-30-82",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MAT-530LX-FR-BROCHURE",
+      "manufacturer": "Matra",
+      "model_family": "530",
+      "generation": "Original 1967–1973 Matra 530 production-road family",
+      "variant": "530 LX V4 four-speed — Chrysler France brochure with 1972 retrospective",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 sports coupe with removable roof",
+      "road_legal": 1,
+      "specification_market": "French-language Chrysler France 530 LX road brochure. The host labels it 1971, but the actual back page reviews 1972 results and Le Mans 1972; an exact model year is therefore left unknown. Technical pages specify the 1699 cc V4, 78 ch DIN, 14.4 m.daN and four-speed. Native rating units are retained. No earlier A or fixed-roof SX specification, other-source power rating, measured performance, mass, production count, galvanising claim or competition-car engine is imported. All original 530 versions belong to this one family.",
+      "summary": "The Matra 530 combined a compact mid-mounted V4 with genuine 2+2 accommodation and a removable two-piece roof. Separate body panels on a welded-sheet structure marked a significant step in Matra’s production-car construction, while independent suspension and four disc brakes supported its sporting role. This distinctive approach to an accessible mid-engine sports car earns one original 530 family entry, separate from the Djet, Bagheera and Murena. A, LX and SX versions do not add separate counts.",
+      "admission_reason": "The Matra 530 combined a compact mid-mounted V4 with genuine 2+2 accommodation and a removable two-piece roof. Separate body panels on a welded-sheet structure marked a significant step in Matra’s production-car construction, while independent suspension and four disc brakes supported its sporting role. This distinctive approach to an accessible mid-engine sports car earns one original 530 family entry, separate from the Djet, Bagheera and Murena. A, LX and SX versions do not add separate counts.",
+      "sources": [
+        {
+          "publisher": "Matra Sports / Chrysler France; facsimile hosted by Brochure Catalogue Voiture Neuve / Inspirauto",
+          "title": "Matra 530 LX — Chrysler France road brochure, including 1972 retrospective",
+          "source_type": "Original manufacturer road-car brochure, hosted facsimile",
+          "url": "https://www.brochure-catalogue-voiture-neuve.fr/brochures/matra/530/matra-530-1970/2-FRA-1971-LX/",
+          "notes": "French-language Chrysler France 530 LX road brochure. The host labels it 1971, but the actual back page reviews 1972 results and Le Mans 1972; an exact model year is therefore left unknown. Technical pages specify the 1699 cc V4, 78 ch DIN, 14.4 m.daN and four-speed. Native rating units are retained. No earlier A or fixed-roof SX specification, other-source power rating, measured performance, mass, production count, galvanising claim or competition-car engine is imported. All original 530 versions belong to this one family."
+        },
+        {
+          "publisher": "Matra",
+          "title": "La marque — M530 production-car history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://matra.com/marque",
+          "notes": "Actual M530 section read. Supports the 1967–1973 production-road programme and innovation of separate panels on a welded-sheet structure. Its broad retrospective wording is not used to certify original M530 galvanising or an absolute first-in-world claim. No production count is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Matra 530 LX (1972) 03.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Matra_530_LX_(1972)_03.jpg",
+          "notes": "Andrew Bone; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/andreboeni/53180765945/. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four cylinders in V configuration",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1699",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single downdraught twin-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual, all ratios synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Epoxy-resin body, as described by the manufacturer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Separate body panels on a welded-sheet structure",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front articulated arms and coil springs; independent rear longitudinal box-section arms and coil springs; front/rear anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Two-piece removable roof; removed panels stow in the front compartment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water cooling with thermostatic electric fan",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Effective power, DIN",
+          "value": "78",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, DIN brochure units",
+          "value": "14.4",
+          "unit": "m.daN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2.560",
+          "unit": "m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Matra 530 combined a compact mid-mounted V4 with genuine 2+2 accommodation and a removable two-piece roof. Separate body panels on a welded-sheet structure marked a significant step in Matra’s production-car construction, while independent suspension and four disc brakes supported its sporting role. This distinctive approach to an accessible mid-engine sports car earns one original 530 family entry, separate from the Djet, Bagheera and Murena. A, LX and SX versions do not add separate counts.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mat_530lx_fr_brochure.jpg",
+          "caption": "File-identified 1972 Matra 530 LX photographed by Andrew Bone at Simply French, Beaulieu, September 10, 2023. Representative original road body and roof arrangement; its exterior and file date do not certify the brochure’s engine tune, model year, original wheels or equipment.",
+          "creator": "Andrew Bone",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a0e99076a4fe88f6f6b5aaa7c6124d5013edf0a17778eb6e541cc4e91ba1f88f"
+        }
+      ]
+    }
+  ]
+}
