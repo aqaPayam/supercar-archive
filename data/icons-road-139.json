@@ -1,0 +1,167 @@
+{
+  "batch": "icons-road-2026-10-30-139",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "BUG-T18-BLACKBESS-ROAD1913",
+      "manufacturer": "Bugatti",
+      "model_family": "Type 18",
+      "generation": "Original Type 18 production-road sporting family",
+      "variant": "Black Bess, Labourdette two-seater — 1913 delivery and museum reference",
+      "model_year_from": 1913,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Open two-seat sporting road car",
+      "road_legal": 1,
+      "specification_market": "Original Type 18 production-road sporting family, selected Black Bess Labourdette two-seater at Louwman Museum, 1913 delivery reference. Ten attributes use the historical Type 18 paragraphs in the English 10 April 2014 manufacturer release; three use the museum description of the same car. Keep the manufacturer 5-litre displacement rounded and museum output quoted as 100 hp with no inferred test standard or rpm. No exact displacement conversion or equation between museum hp, English PS and French CV is asserted. English wheelbase 2.45 m conflicts with French 2.54 m, so wheelbase is omitted. Manufacturer 160-km/h and museum 150-km/h claims are not measured performance and are omitted. Chain-drive wording differs in specificity between languages; no assumed camshaft or final-drive function is added. Group Type 18 years, coachwork, chassis and racing appearances once. The 2014 Veyron Black Bess cosmetic tribute, dedicated racing machines, replicas and additional individual Type 18 survivors are not admitted.",
+      "summary": "The original Bugatti Type 18 represents the early high-performance road car through its large four-cylinder engine, overhead camshaft, three-valve cylinders and sporting engineering. The documented Black Bess road example, delivered to aviation pioneer Roland Garros, links that engineering to an enduring part of Bugatti history. Count the Type 18 road family once; limited production and celebrity ownership alone are not admission reasons, and the later Veyron tribute creates no extra historical car.",
+      "admission_reason": "The original Bugatti Type 18 represents the early high-performance road car through its large four-cylinder engine, overhead camshaft, three-valve cylinders and sporting engineering. The documented Black Bess road example, delivered to aviation pioneer Roland Garros, links that engineering to an enduring part of Bugatti history. Count the Type 18 road family once; limited production and celebrity ownership alone are not admission reasons, and the later Veyron tribute creates no extra historical car.",
+      "sources": [
+        {
+          "publisher": "Bugatti Automobiles / Bugatti Newsroom",
+          "title": "Les Legendes de Bugatti: Black Bess premiere, 10 April 2014 — historical Type 18 and technical-description sections",
+          "source_type": "Original manufacturer historical account and explicit technical description",
+          "url": "https://newsroom.bugatti.com/en/press-releases/les-l-gendes-de-bugatti-world-premiere-for-black-bess-at-auto-china-beijing-2014",
+          "notes": "Historical Type 18 context, customer-road identity, 1913 two-seater delivery and complete historical technical-description sections read. Ten attributes map here: four in-line cylinders, 5 litres, 100-mm bore, 160-mm stroke, three crank bearings, overhead camshaft, three valves per cylinder, four forward gears/reverse, 1.25-m track and two seats. English and French versions compared: wheelbase 2.45 versus 2.54 m is omitted. English 100/over-100 PS and French over-100 CV do not become a converted museum hp figure. No output rpm, top speed, exclusive fastest-road-car claim, totals, aviation flight-year assertion, chain-drive function or naming etymology imported. Modern W16 Veyron engine, carbon body, gold trim, leather, price and performance data are not Type 18 specifications."
+        },
+        {
+          "publisher": "Louwman Museum",
+          "title": "Bugatti Type 18 Sports Two-seater Black Bess — 1913 collection reference",
+          "source_type": "Original museum collection record for the reference car",
+          "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/bugatti-type-18-sports-two-seater-black-bess",
+          "notes": "Complete relevant current collection entry read. Three attributes map here: quoted 100 hp without test standard/rpm, Henri Labourdette coachwork and angled/staggered bucket-seat arrangement. Supports Garros September 1913 ownership and road two-seater identity. Museum 100-hp and 150-km/h labels are not silently equated with manufacturer PS/CV and 160-km/h claims; no speed field imported. Claimed original upholstery and survivor/production counts are not independently authenticated. No racing win, detailed flight chronology or modern Veyron tribute equipment transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons; AlfvanBeem",
+          "title": "File:1913 Bugatti Type 18 SportsTwo seater Black Bess p1.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1913_Bugatti_Type_18_SportsTwo_seater_Black_Bess_p1.JPG",
+          "notes": "Own-work photograph by AlfvanBeem, 2 April 2011 at Louwman Museum. Summary, original upload history, CC0 dedication and API metadata read. CC0 1.0 Universal, http://creativecommons.org/publicdomain/zero/1.0/deed.en . Downloaded 1280 x 960 JPEG rendition individually inspected and copied unchanged. Black early sports two-seater with brass-coloured radiator/headlamps, road wings and upright windscreen matches selected museum body. Photograph alone does not authenticate engine, delivery date, chassis 474, body/upholstery originality or materials such as modern tribute gold plating."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four cylinders in line",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted displacement",
+          "value": "5",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "100",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "160",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Crankshaft bearings",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Overhead camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3: two small intake valves and one large exhaust valve",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Four forward gears plus reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Manufacturer historical track width",
+          "value": "1250",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seating capacity",
+          "value": "2",
+          "unit": "persons",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted output",
+          "value": "100 hp; test standard and output rpm not stated",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Reference coachbuilder",
+          "value": "Henri Labourdette",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Reference seating arrangement",
+          "value": "Bucket seats angled and staggered behind each other",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Bugatti Type 18 represents the early high-performance road car through its large four-cylinder engine, overhead camshaft, three-valve cylinders and sporting engineering. The documented Black Bess road example, delivered to aviation pioneer Roland Garros, links that engineering to an enduring part of Bugatti history. Count the Type 18 road family once; limited production and celebrity ownership alone are not admission reasons, and the later Veyron tribute creates no extra historical car.",
+          "category": "Landmark early high-performance road-car engineering",
+          "confidence": "Explicit manufacturer road-car history and technical description, cross-checked with original museum account",
+          "source": 0
+        },
+        {
+          "title": "A distinctive two-seat layout",
+          "explanation": "Louwman Museum identifies the coachwork as Henri Labourdette and describes the bucket seats as angled and staggered so driver and passenger do not obstruct each other. This describes the selected Black Bess collection reference rather than universal coachwork on every Type 18.",
+          "category": "Coachwork and road packaging",
+          "confidence": "Original museum collection description; individual-body scope retained",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bug_t18_blackbess_museum1913.jpg",
+          "caption": "Original Bugatti Type 18 Black Bess sports two-seater at Louwman Museum, photographed 2 April 2011. Black early road body, brass-coloured radiator/headlamps and upright screen illustrate the selected reference; photo alone does not authenticate exact engine, 1913 delivery, chassis 474 or body/upholstery originality. AlfvanBeem, Wikimedia Commons, CC0 1.0 Universal Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/deed.en); downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "AlfvanBeem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2f112ec34e4f0e3c17b31f5b2e2fab9dbda6789d2f618b99347e7b4a0a23d4d1"
+        }
+      ]
+    }
+  ]
+}

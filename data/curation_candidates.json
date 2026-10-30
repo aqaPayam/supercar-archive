@@ -6013,7 +6013,18 @@
       "duplicate_review": "Complete 934-record inventory checked for Bugatti Type 43/43A, T43 and Grand Sport touring aliases. No Type 43 road family is present. Existing Type 55 is a separately named later programme, expressly compared with Type 43 in factory history. Group Type 43/43A road bodies, engines, years and chassis once; Type 35 racers, mixed Type 43/44 restorations and replicas are not additionally counted.",
       "remaining": "None for this selected museum road-touring reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-138.json"
+    },
+    {
+      "manufacturer": "Bugatti",
+      "model": "Type 18",
+      "generation": "Original Type 18 production-road sporting family",
+      "proposed_record": "BUG-T18-BLACKBESS-ROAD1913",
+      "reason": "The original Bugatti Type 18 represents the early high-performance road car through its large four-cylinder engine, overhead camshaft, three-valve cylinders and sporting engineering. The documented Black Bess road example, delivered to aviation pioneer Roland Garros, links that engineering to an enduring part of Bugatti history. Count the Type 18 road family once; limited production and celebrity ownership alone are not admission reasons, and the later Veyron tribute creates no extra historical car.",
+      "evidence": "https://newsroom.bugatti.com/en/press-releases/les-l-gendes-de-bugatti-world-premiere-for-black-bess-at-auto-china-beijing-2014",
+      "duplicate_review": "Complete 935-record identity inventory checked for Bugatti Type 18/Type18/T18, Black Bess, Roland Garros and chassis 474 aliases. No original Type 18 road family is present; a Toyota ST185 text hit is unrelated. Group Type 18 years, bodies, racing appearances and survivors once. The modern Veyron Black Bess cosmetic tribute and other Bugatti programmes are not additional Type 18 entries.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-139.json"
     }
   ],
-  "catalogue_count_after_batches": 935
+  "catalogue_count_after_batches": 936
 }
