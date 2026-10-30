@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-141",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "STU-BEARCAT4E-STAHL1914",
+      "manufacturer": "Stutz",
+      "model_family": "Bearcat",
+      "generation": "Original early Bearcat production-road sporting family",
+      "variant": "Series E / Model 4-E — 1914 Stahls museum reference",
+      "model_year_from": 1914,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Minimal open sporting roadster",
+      "road_legal": 1,
+      "specification_market": "Original early Bearcat production-road family, selected 1914 Series E / Model 4-E at Stahls. All seven attributes use the custodian's explicit technical table. Retain quoted 389.9 CID and 34x4 1/2-inch tyre notation without extra precision, rim-size assumptions or modern equivalents. No horsepower, rpm, torque, performance or mass is imported. Wisconsin engine data are not mixed with later Stutz-built engines, six-cylinder conversions, dedicated White Squadron racers, 1923 Henry Ford museum figures or later DV32 revivals. Family chronology is context; 1914 is the selected reference year, not a claimed start date. Road identity follows museum classification as a sporting road car. The museum and photograph identify the example but do not establish matching numbers, factory-original bodywork or an uninterrupted provenance. Group original years, engines, chassis and bodies once.",
+      "summary": "The original Stutz Bearcat is an enduring early American sports-car icon, built around minimal road bodywork and a rear transaxle, with a strong connection to Indianapolis performance culture. Its place in sporting-car history is supported by independent museum accounts and marque-club history. Count the original Bearcat road family once across years, engines and bodies; later revivals, replicas and cosmetic changes create no extra record here.",
+      "admission_reason": "The original Stutz Bearcat is an enduring early American sports-car icon, built around minimal road bodywork and a rear transaxle, with a strong connection to Indianapolis performance culture. Its place in sporting-car history is supported by independent museum accounts and marque-club history. Count the original Bearcat road family once across years, engines and bodies; later revivals, replicas and cosmetic changes create no extra record here.",
+      "sources": [
+        {
+          "publisher": "Stahls Motor and Music Experience / Stahls Automotive Foundation",
+          "title": "1914 Stutz Series E Bearcat — collection reference",
+          "source_type": "Original museum collection description and technical table",
+          "url": "https://www.stahlsauto.com/automobiles/1914-stutz-series-4e-bearcat/",
+          "notes": "Complete relevant museum story, quick specs and additional-information table read through web access; separate direct research fetch returned HTTP 503. Seven attributes use this exact selected museum reference: four cylinders, Wisconsin engine maker, T-head layout, quoted 389.9 CID, three-speed manual rear transaxle, 120-inch wheelbase and quoted 34x4 1/2-inch tyres. No output, rpm, torque, valve count, exact inline layout, mass, speed, acceleration, brake configuration, suspension or originality certification inferred. Exclusive first-American-sports-car wording not imported."
+        },
+        {
+          "publisher": "The Stutz Club",
+          "title": "About Harry C. Stutz — year-by-year highlights",
+          "source_type": "Official marque club historical excerpt",
+          "url": "https://www.stutzclub.org/about-harry-c-stutz/",
+          "notes": "Relevant chronology read. Page explicitly excerpts The Splendid Stutz; underlying book not read. Distinguishes the 1911 Indianapolis competition debut from Bear Cat introduction in 1912 and identifies a later Stutz-built engine in 1917. Used for family context only, not selected 1914 specifications. The racing-engine 300cc/50 OHC wording is not reliable selected-road data and is not imported; no exact race result or record-drive anecdote transferred."
+        },
+        {
+          "publisher": "The Henry Ford",
+          "title": "1923 Stutz Bearcat Roadster — object 67.19.1, family context only",
+          "source_type": "Original museum collection record for a different reference car",
+          "url": "https://www.thehenryford.org/collections/explore/artifact/67472",
+          "notes": "Relevant artifact overview and technical sections read. Supports the model's established sports-car identity and Indianapolis testing tradition. Its 1923 reference specifications, including 360-cubic-inch engine, 109 hp at 3000 rpm, 130-inch wheelbase, body dimensions and weight, are not applied to the selected 1914 car. No exclusive first claim or guarantee that all survivors retain factory equipment. Later revival is not an extra admission."
+        },
+        {
+          "publisher": "Wikimedia Commons; Michael Barera",
+          "title": "File:Stahls Automotive Collection December 2021 040 (1914 Stutz Bearcat Model 4-E).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Stahls_Automotive_Collection_December_2021_040_(1914_Stutz_Bearcat_Model_4-E).jpg",
+          "notes": "Own-work photograph by Michael Barera at Stahls Automotive Collection, 28 December 2021. Summary, upload history, licence options and API metadata read. Select CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; other CC BY-SA 3.0/GFDL options are not silently combined. 1280 x 853 JPEG individually viewed and copied unchanged. Red/black minimal open sports body, large front lamps and exposed wheels match the museum reference. Photo does not authenticate engine, precise tyre sizes, chassis number or body originality; award ribbons do not establish racing wins."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine maker",
+          "value": "Wisconsin",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve layout",
+          "value": "T-head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "389.9",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox arrangement",
+          "value": "Three-speed manual rear transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference wheelbase",
+          "value": "120",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels and tyres",
+          "label": "Museum quoted tyre size",
+          "value": "34 x 4 1/2",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Stutz Bearcat is an enduring early American sports-car icon, built around minimal road bodywork and a rear transaxle, with a strong connection to Indianapolis performance culture. Its place in sporting-car history is supported by independent museum accounts and marque-club history. Count the original Bearcat road family once across years, engines and bodies; later revivals, replicas and cosmetic changes create no extra record here.",
+          "category": "Early American sports-car heritage",
+          "confidence": "Museum sporting-car accounts and marque history, with reference-scoped transaxle evidence; no exclusive first claim",
+          "source": 0
+        },
+        {
+          "title": "Road model and racing debut are different identities",
+          "explanation": "The Stutz Club chronology distinguishes the 1911 Indianapolis competition debut from the introduction of the Bear Cat in 1912. The selected 1914 road example is not identified as the original Indianapolis entrant or a White Squadron racing chassis.",
+          "category": "Road and competition identity",
+          "confidence": "Official club historical excerpt; underlying book not read and no individual-chassis provenance inferred",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_stu_bearcat4e_stahls1914.jpg",
+          "caption": "1914 Stutz Bearcat Model 4-E at Stahls Automotive Collection, Chesterfield Township, Michigan, photographed 28 December 2021. Red/black minimal open sports body, large front lamps and exposed wheels illustrate the selected museum reference; photo alone does not authenticate engine, chassis, tyre dimensions or body originality, and ribbons do not prove racing wins. Michael Barera, own work, Wikimedia Commons; title: Stahls Automotive Collection December 2021 040 (1914 Stutz Bearcat Model 4-E).jpg. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Michael Barera",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "fa105342a621494f3eff920fc7a00a43b00b32da82f1b0b1953885c530cb7760"
+        }
+      ]
+    }
+  ]
+}

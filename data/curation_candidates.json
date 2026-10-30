@@ -6035,7 +6035,18 @@
       "duplicate_review": "Complete 936-record identity inventory checked for Hispano-Suiza, Alfonso/Alphonso XIII, 15T, 15-45 and 15/45 aliases. No existing family found. Count original road years, bodies and chassis once; exclude dedicated racers and replicas. The separate Revs short and long chassis are references within one family, not two additions.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-140.json"
+    },
+    {
+      "manufacturer": "Stutz",
+      "model": "Bearcat",
+      "generation": "Original early Bearcat production-road sporting family",
+      "proposed_record": "STU-BEARCAT4E-STAHL1914",
+      "reason": "The original Stutz Bearcat is an enduring early American sports-car icon, built around minimal road bodywork and a rear transaxle, with a strong connection to Indianapolis performance culture. Its place in sporting-car history is supported by independent museum accounts and marque-club history. Count the original Bearcat road family once across years, engines and bodies; later revivals, replicas and cosmetic changes create no extra record here.",
+      "evidence": "https://www.stahlsauto.com/automobiles/1914-stutz-series-4e-bearcat/",
+      "duplicate_review": "Complete 937-record identity inventory checked for Stutz, Bearcat/Bear Cat, Series E/4E/4-E aliases. No family found; unrelated Testarossa, Galant, BMW Z4 E89 and Audi Typ 4E substring hits do not identify a Stutz. Group original road years, engines, bodies and chassis once. Do not count racing entrants, replicas, conversions or later revivals as additional records in this batch.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-141.json"
     }
   ],
-  "catalogue_count_after_batches": 937
+  "catalogue_count_after_batches": 938
 }
