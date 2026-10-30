@@ -1,7 +1,12 @@
 # Curating the archive toward 1,000 cars
 
 User direction recorded 2026-10-28. Baseline: 395 catalogue records.
-The goal is 1,000 qualifying records, not simply 605 more database rows.
+The original goal was 1,000 qualifying records, not simply 605 more database rows.
+
+Update, 30 October 2026: the owner replaced further expansion with publication
+of the saved 949-record catalogue. Do not add cars to reach 1,000. Preserve
+the admission policy and historical research below; outstanding eligibility
+and identity audits are not represented as complete by publishing the inventory.
 
 ## Confirmed scope
 

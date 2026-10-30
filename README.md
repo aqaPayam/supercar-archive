@@ -51,7 +51,7 @@ The next 50 additions cover road supercars, open-top derivatives and explicitly
 labeled factory track cars. See [the batch review](docs/supercars50.md) for the
 variant list, manufacturer sources, photo attributions and validation commands.
 
-## Curated expansion toward 1,000 cars
+## Curated archive and publication
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
@@ -68,8 +68,10 @@ The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md
 corrects four existing image credits and source links while preserving the photos.
 The [research-queue reconciliation](docs/research-queue-reconciliation-01.md)
 links four historical holds to their later reviewed imports without adding cars.
-The 1,000-qualifying-car goal remains active: existing records still need the
-final eligibility audit, and quality takes priority over the numerical count.
+At the owner's request on 30 October 2026, further additions are paused and
+the current publication target is the saved 949-record catalogue. Reaching
+1,000 cars is no longer required. Existing records still need the final
+eligibility audit; the inventory count is not a certified total of unique icons.
 The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
 remaining scope and identity review without changing existing records.
 The [Lamborghini identity ledger](docs/baseline-identity-review-01.md) maps 29
