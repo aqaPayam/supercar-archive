@@ -5601,7 +5601,18 @@
       "duplicate_review": "Complete 898-record inventory checked for Riviera, XP-715 and related first-generation aliases; existing Buick Regal GNX and GSX do not represent Riviera. Original 1963–1965 family counted once across years, engine options and packages.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-102.json"
+    },
+    {
+      "manufacturer": "Holden",
+      "model": "Monaro",
+      "generation": "Original HK/HT/HG Monaro production-road coupe family",
+      "proposed_record": "HOL-MONARO-HK-GTS327-1968",
+      "reason": "The original Monaro GTS 327 belongs as an Australian performance-coupe icon: its V8, close-ratio manual, limited-slip axle and supporting chassis equipment formed a purposeful road package with Bathurst-winning heritage. The State Library’s Holden collection history records the original coupe introduction and racing connection.",
+      "evidence": "https://archival.collections.slsa.sa.gov.au/brg/BRG213_37_HoldenHK_serieslist.pdf",
+      "duplicate_review": "Complete 899-record identity inventory checked for Monaro/HK/HT/HG/GTS 327 aliases. Only the revived V2 CV8 is present; existing Torana programmes are distinct. Original HK/HT/HG road family counted once across years, bodies, engine and axle options.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-103.json"
     }
   ],
-  "catalogue_count_after_batches": 899
+  "catalogue_count_after_batches": 900
 }
