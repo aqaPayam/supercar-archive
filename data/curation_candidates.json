@@ -5958,7 +5958,18 @@
       "duplicate_review": "Complete 929-record identity inventory checked for Dauphine, Ondine, R1093/1093, Renault, Gordini and related Alfa Romeo/Argentine identities. No original Dauphine road family is present. Count the original sporting-road programme once, including its Gordini/Ondine relationship, years and updates; no kits, competition chassis or ordinary versions are additionally admitted.",
       "remaining": "None for this early factory production-road reference; additional versions remain subject to the pending counting boundary.",
       "status": "Imported and validated in data/icons-road-133.json"
+    },
+    {
+      "manufacturer": "Vauxhall",
+      "model": "30-98",
+      "generation": "Original 30-98 E/OE production-road sporting family",
+      "proposed_record": "VAU-3098-OE-VELOX-MUSEUM1926",
+      "reason": "The Vauxhall 30-98 is a defining early British production sports-car programme, linking Edwardian sporting engineering with the vintage high-performance road tourer. The museum and manufacturer histories identify its exceptional contemporary performance and the specially configured 100-mph offering, rather than rarity alone. Count the E/OE road family once; the selected 1926 Velox tourer does not inherit the lightweight high-axle-ratio car's speed.",
+      "evidence": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=91714258694",
+      "duplicate_review": "Complete 930-record identity inventory checked for Vauxhall, 30-98, 30/98, 30–98, E/OE, Velox, Wensum and Prince Henry relationships. No original 30-98 is present. Group E/OE engines, years, coachwork and individual chassis once. Prince Henry C-Type, OD 23/60 and competition specials are not selected or additionally counted.",
+      "remaining": "None for this selected museum production-road reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-134.json"
     }
   ],
-  "catalogue_count_after_batches": 930
+  "catalogue_count_after_batches": 931
 }
