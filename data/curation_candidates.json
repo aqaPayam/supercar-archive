@@ -5865,7 +5865,18 @@
       "duplicate_review": "Complete 922-record inventory checked for Legacy/Liberty/B4/BL5/BP5/BL9/BP9/S402/Spec.B/Outback identities; only BC/BF first-generation and BE/BH third-generation S401 road families are present. Original fourth-generation family is absent. Group its sedan/wagon, regional names, engines, Spec.B/STI derivatives, years and related fourth-generation Outback versions within one family; do not count extra trims or bodies.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-126.json"
+    },
+    {
+      "manufacturer": "Subaru",
+      "model": "Legacy / Liberty",
+      "generation": "Second-generation BD/BG Legacy production-road sporting family",
+      "proposed_record": "SUB-LEGACY-BG-GTB-JP1996-AT",
+      "reason": "The second-generation Legacy GT-B helped define Japan's high-performance sporting-wagon boom, combining two-stage twin-turbo boxer power, all-wheel drive and Bilstein inverted dampers with family-wagon practicality. Manufacturer history and a retrospective driving report support its cultural and engineering significance; the report also records the limitations of its aged test car. Count the entire second-generation sporting-road family once.",
+      "evidence": "https://www.gqjapan.jp/cars/article/20191016-subaru-legacy-vol2",
+      "duplicate_review": "Complete 923-record inventory checked, including every Subaru and Legacy/Liberty/BD5/BG5/GT-B/Lancaster/Outback alias. Only first-generation BC/BF, third-generation BE/BH S401 and fourth-generation BL/BP are present. Second-generation BD/BG is absent. Group its sedan/wagon, regional names, engines, GT/GT-B/RS/Limited grades, years and related Outback/Lancaster versions within one family; no extra trim or body counts.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-127.json"
     }
   ],
-  "catalogue_count_after_batches": 923
+  "catalogue_count_after_batches": 924
 }
