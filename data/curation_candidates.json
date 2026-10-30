@@ -6134,7 +6134,18 @@
       "duplicate_review": "Complete fresh 945-record identity inventory checked for Virage, Vantage, V550, V600, V8 Coupe and LWB Volante. Eleven hits reviewed: older carburetted V8 Vantage, DB2/DB7 Vantage grades, three later V12 Vantages, plus generic V8-coupe descriptions for Ghibli, E92 M3, F-Type R, 3200 GT and Shamal. No original 1990s Virage-based road programme found. Group related Virage, V8 Coupe/Volante, supercharged Vantage, V600 and Le Mans versions once; no prototypes/racers or additional body/upgrade count.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-149.json"
+    },
+    {
+      "manufacturer": "Mosler",
+      "model": "MT900 / MT900S",
+      "generation": "Original MT900 production-road supercar family",
+      "proposed_record": "MOS-MT900S-LL2008",
+      "reason": "The MT900S earns its place through focused lightweight supercar engineering and the exceptional capability documented in Car and Driver’s own 2008 circuit test. Its LS7 V8 road-car package represents a developed performance programme rather than rarity alone. Count the original MT900 road family once; prototypes and racing derivatives do not become additional entries.",
+      "evidence": "https://www.caranddriver.com/features/a15389488/lightning-lap-2008-feature/",
+      "duplicate_review": "Complete fresh 946-record identity inventory checked for Mosler, MT900, MT 900 and Consulier; no hits. Group original MT900/MT900S road engines, reference years and packages once. No MT900R/GT3, original prototype, replica or separately counted modified test car. Consulier is an earlier different programme, not an admitted alias here.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-150.json"
     }
   ],
-  "catalogue_count_after_batches": 946
+  "catalogue_count_after_batches": 947
 }

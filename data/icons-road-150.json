@@ -1,0 +1,125 @@
+{
+  "batch": "icons-road-2026-10-30-150",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MOS-MT900S-LL2008",
+      "manufacturer": "Mosler",
+      "model_family": "MT900 / MT900S",
+      "generation": "Original MT900 production-road supercar family",
+      "variant": "MT900S LS7 — 2008 Lightning Lap test reference",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Closed two-door mid-engine supercar coupe",
+      "road_legal": 1,
+      "specification_market": "Selected 2008 MT900S LS7 configuration described in Car and Driver Lightning Lap. Four test-report attributes retain LS7 V8, 550 hp as published and 2584 lb test-car weight without inferring power standard, rpm, torque or mass measurement basis. Two programme-construction attributes use the explicitly named standard MT900S road monocoque and subframes in Mosler Europe 2007 GT3 sheet; no blanket transfer of other GT3 equipment. Separate 2006 firsthand article reports production road deliveries/certification and explicitly distinguishes its modified supercharged 600-hp test car from the 405-hp road base. Neither that tuned result nor the 2001 prototype specifications are this selected 2008 reference. No exact displacement, induction, gearbox, brakes, dimensions, speed/lap time or racing result inferred. One original road family across years/engines; no GT3/MT900R, prototype, replica or additional package count. 2007-labelled representative photo does not authenticate selected test chassis, engine tune, model year or originality.",
+      "summary": "The MT900S earns its place through focused lightweight supercar engineering and the exceptional capability documented in Car and Driver’s own 2008 circuit test. Its LS7 V8 road-car package represents a developed performance programme rather than rarity alone. Count the original MT900 road family once; prototypes and racing derivatives do not become additional entries.",
+      "admission_reason": "The MT900S earns its place through focused lightweight supercar engineering and the exceptional capability documented in Car and Driver’s own 2008 circuit test. Its LS7 V8 road-car package represents a developed performance programme rather than rarity alone. Count the original MT900 road family once; prototypes and racing derivatives do not become additional entries.",
+      "sources": [
+        {
+          "publisher": "Car and Driver",
+          "title": "Lightning Lap 2008 — MT900S section",
+          "source_type": "Original firsthand instrumented circuit-test report",
+          "url": "https://www.caranddriver.com/features/a15389488/lightning-lap-2008-feature/",
+          "notes": "Relevant complete Mosler section and test context read. Four attributes retain the writer-reported test-car LS7 V8, output and weight; no dyno measurement, horsepower standard or curb/dry measurement basis assumed. No lap number inferred from an uninspected chart and no subjective potential counted as a measured result. The described adjustment and wheel-weight problem limit the session; this is not certification of every car."
+        },
+        {
+          "publisher": "Car and Driver; Larry Webster",
+          "title": "2006 Mosler MT900S — road test, 1 April 2006",
+          "source_type": "Original firsthand road-test and factory interview report",
+          "url": "https://www.caranddriver.com/reviews/a18200602/2006-mosler-mt900s-road-test/",
+          "notes": "Complete relevant article body read. Used for production-road versus prototype/modified-test identity only. Reports road deliveries and EPA/DOT certification; underlying government certificates not independently read and current registration is not authenticated. Explicitly says its 600-hp tested car gained an aftermarket supercharger after federal tests; no acceleration, skidpad, weight or brakes transferred to selected 2008 LS7 car. Earlier 2001 prototype data and exclusive record claims not imported."
+        },
+        {
+          "publisher": "Mosler Europe / Rollcentre; original sheet preserved by All Car Central",
+          "title": "Mosler MT900GT3 — Technical Specifications 2007; explicit standard road chassis passage",
+          "source_type": "Original manufacturer technical sheet, third-party-hosted copy",
+          "url": "https://www.allcarcentral.com/Mosler_pdf/mosler_900gt3_spec.pdf",
+          "notes": "Single-page original technical sheet downloaded, extracted, fully rendered and actually viewed. Mosler Europe footer and 2007 heading read. It explicitly calls the GT3 a non-road-legal modification of the MT900S road car and names the standard road monocoque/subframes. Only those two explicitly identified road components are used. The general standard-components clause is not treated as permission to transfer GT3 engine mapping, sequential gearbox, racing brakes, roll cage, fuel cell, dimensions, weight, aero, tyres or interior."
+        },
+        {
+          "publisher": "Wikimedia Commons; J Q",
+          "title": "File:Mosler MT900s.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mosler_MT900s.jpg",
+          "notes": "Flickr photograph by J Q from LA/OC, US, dated 14 July 2007; source https://www.flickr.com/photos/76671243@N00/834196856/ . File summary, upload history, licensing and API metadata read. Commons Flickr licence review dated 12 January 2008. CC BY 2.0 deed read. Actual 1280 x 853 JPEG individually viewed and copied unchanged. Black road-body MT900S representative, not authenticated as 2008 test car, LS7 engine, tune, exact year, chassis or original equipment. No road registration or competition identity inferred from appearance."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration in test report",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine designation in test report",
+          "value": "LS7",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Output reported for test car",
+          "value": "550",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Test-car weight reported",
+          "value": "2584",
+          "unit": "lb",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Standard MT900S road monocoque, 2007 manufacturer sheet",
+          "value": "Carbon composite",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Chassis",
+          "label": "Standard MT900S road subframes, 2007 manufacturer sheet",
+          "value": "Steel tube, front and rear",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The MT900S earns its place through focused lightweight supercar engineering and the exceptional capability documented in Car and Driver’s own 2008 circuit test. Its LS7 V8 road-car package represents a developed performance programme rather than rarity alone. Count the original MT900 road family once; prototypes and racing derivatives do not become additional entries.",
+          "category": "Lightweight road-supercar engineering",
+          "confidence": "Original firsthand circuit test; no extra car for tuner output, prototype or racing derivative",
+          "source": 0
+        },
+        {
+          "title": "A modified test car is not a universal road specification",
+          "explanation": "The 2006 road-test writer distinguishes the production road base from a separately supercharged test car. Those earlier tuned results are not specifications of the selected 2008 LS7 reference.",
+          "category": "Reference and modification scope",
+          "confidence": "Original firsthand road-test account; independent certification documents not examined",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mosler_mt900s_road.jpg",
+          "caption": "Representative road-body Mosler MT900S; supplied title Mosler MT900s.jpg. J Q from LA/OC, US, 14 July 2007, via Flickr https://www.flickr.com/photos/76671243@N00/834196856/ and Wikimedia Commons. CC BY 2.0, https://creativecommons.org/licenses/by/2.0/ . Downloaded 1280-pixel JPEG rendition copied unchanged. Not authenticated as the 2008 Lightning Lap car, LS7 engine, tune, exact year, chassis, road registration or original equipment; no endorsement implied.",
+          "creator": "J Q from LA/OC, US",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "65cf3485f52c3248248b068f214318bfc466ca3f775c9e2bb13151a075c23ebe"
+        }
+      ]
+    }
+  ]
+}

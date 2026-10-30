@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and forty-nine reviewed road-icon batches add 551 cars
-to the 395-record baseline, bringing the working catalogue to 946 records.
-The latest [Virage-based Vantage batch](docs/icons-road-149.md)
-adds one absent 1990s British performance-GT road programme, following the
-[Amilcar CGS/CGSS batch](docs/icons-road-148.md). Individual reviews and
+evidence and licensed photograph. One hundred and fifty reviewed road-icon batches add 552 cars
+to the 395-record baseline, bringing the working catalogue to 947 records.
+The latest [Mosler MT900S batch](docs/icons-road-150.md)
+adds one absent American lightweight road-supercar family, following the
+[Virage-based Vantage batch](docs/icons-road-149.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
