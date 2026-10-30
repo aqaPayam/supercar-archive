@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and thirty-five reviewed road-icon batches add 537 cars
-to the 395-record baseline, bringing the working catalogue to 932 records.
-The latest [Vauxhall Prince Henry batch](docs/icons-road-135.md)
+evidence and licensed photograph. One hundred and thirty-six reviewed road-icon batches add 538 cars
+to the 395-record baseline, bringing the working catalogue to 933 records.
+The latest [Mercer Raceabout batch](docs/icons-road-136.md)
 adds one absent sporting-road family, following the
-[Vauxhall 30-98 batch](docs/icons-road-134.md). Individual reviews and
+[Vauxhall Prince Henry batch](docs/icons-road-135.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
