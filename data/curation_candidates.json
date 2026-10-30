@@ -5722,7 +5722,18 @@
       "duplicate_review": "Complete 909-record identity inventory checked for Fiero and P-body aliases, plus every Pontiac identity; no target is present. Existing Pontiacs are separate Firebird and GTO families. Count the original 1984–1988 Fiero road family once across years, engines and Coupe/Formula/GT bodies; no racing engine, replica or unbuilt successor.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-113.json"
+    },
+    {
+      "manufacturer": "Shelby",
+      "model": "CSX",
+      "generation": "Original 1987–1989 Shadow-based Shelby CSX road family",
+      "proposed_record": "SHE-CSX-ORIGINAL-VNT-US1989",
+      "reason": "The Shelby CSX brought unusual turbocharger and lightweight-wheel engineering to the American front-drive performance hatch. The contemporary Motor Trend road test documents its variable-nozzle turbo, composite wheels and sharp handling, alongside noise, torque steer and brake-fade limitations. The 1989 VNT represents the original CSX road programme once, rather than supplying separate entries for its model years.",
+      "evidence": "https://www.flickr.com/photos/triggerscarstuff/albums/72157628296484915/",
+      "duplicate_review": "Complete 910-record identity inventory checked for CSX, Shadow and Sundance aliases, plus every Shelby identity; no target is present. Count the original 1987–1989 Shadow-based CSX road family once across years and packages. Cobra CSX chassis numbers and the separately covered Omni GLHS are not this family. No rental-specification or birthday-prototype technical mix.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-114.json"
     }
   ],
-  "catalogue_count_after_batches": 910
+  "catalogue_count_after_batches": 911
 }
