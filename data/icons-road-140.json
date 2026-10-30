@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-140",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HIS-ALFONSO15T-TORPEDO1912",
+      "manufacturer": "Hispano-Suiza",
+      "model_family": "Alfonso XIII / 15T",
+      "generation": "Original Alfonso XIII production-road sporting family",
+      "variant": "Long-chassis Torpedo Sport — 1912 Revs Institute reference",
+      "model_year_from": 1912,
+      "model_year_to": null,
+      "origin_country": "Spain",
+      "category": "Performance icon",
+      "body_style": "Open long-chassis sporting tourer",
+      "road_legal": 1,
+      "specification_market": "Original Alfonso XIII / 15T production-road family, selected 1912 long-chassis Torpedo Sport, Revs Institute serial 1858. All seven attributes use that exact museum record. Keep its quoted 3619 cc, 40-45 HP, 118-inch wheelbase and 1764-lb weight without assuming a power test standard, rpm or mass basis. Its CAV lighting and instrument dashboard are documented 1920s modifications, not original 1912 standard equipment. The separate Revs two-seater serial 2110 has different specifications: do not transfer its 3620 cc, 64 hp at 2300 rpm, 104-inch wheelbase, 2215-lb weight or two-seat layout. Manufacturer history quotes 45 CV for the model, not an equation between CV and this museum HP label. Group bodies, chassis, years and road racing appearances once; dedicated racers and replicas are not admitted. Spanish marque origin does not imply Spanish manufacture of the selected French-built example.",
+      "summary": "The Alfonso XIII helped establish the production sports car: a customer-road family developed from Hispano-Suiza competition engineering. Its significance lies in that transition and its enduring place in early performance-car history. Count the original Alfonso XIII / 15T family once across bodies and years; royal association and rarity alone are not admission reasons.",
+      "admission_reason": "The Alfonso XIII helped establish the production sports car: a customer-road family developed from Hispano-Suiza competition engineering. Its significance lies in that transition and its enduring place in early performance-car history. Count the original Alfonso XIII / 15T family once across bodies and years; royal association and rarity alone are not admission reasons.",
+      "sources": [
+        {
+          "publisher": "Revs Institute",
+          "title": "1912 Hispano-Suiza 15T Alfonso XIII Torpedo Sport — serial 1858",
+          "source_type": "Original museum collection record",
+          "url": "https://revsinstitute.org/vehicle/1912-hispano-suiza-alfonso-15t-xiii-torpedo-sport",
+          "notes": "Complete relevant collection entry and technical header read. Seven attributes map to this reference only. Museum describes preserved long-chassis coachwork, French factory context and 1920s CAV/dash modifications. Original-paint and preservation claims remain attributed to the custodian, not independently certified. No exclusivity, survivor count, mass basis, output rpm, torque, gearbox, seating number or measured speed inferred."
+        },
+        {
+          "publisher": "Revs Institute",
+          "title": "1912 Hispano-Suiza 15T Alfonso XIII — separate two-seater serial 2110, family context only",
+          "source_type": "Original museum account of production sports-car development",
+          "url": "https://revsinstitute.org/vehicle/1912-hispano-suiza-15t-alfonso-xiii",
+          "notes": "Relevant history and technical header read. Supports the transition from competition development to a purpose-built production sports car. Its two-seat body and individual technical figures do not describe serial 1858. No showroom/race-tune speed claims or exclusive first-sports-car assertion imported."
+        },
+        {
+          "publisher": "Hispano Suiza",
+          "title": "Our History — Alfonso XIII timeline section",
+          "source_type": "Original manufacturer heritage account",
+          "url": "https://www.hispanosuizacars.com/our-history/",
+          "notes": "Alfonso XIII and founding/French-factory sections read. Supports Spanish marque origin and named sporting model; timeline places its presentation at 1911 and quotes 45 CV. Neither full production range nor selected-chassis horsepower is inferred. Later aviation, H6, K6 and Carmen equipment is not transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons; Deborah Del Coro / TDelCoro",
+          "title": "File:1912 Hispano-Suiza 15T Alfonso Xlll Torpedo Sport (54400402450).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1912_Hispano-Suiza_15T_Alfonso_Xlll_Torpedo_Sport_(54400402450).jpg",
+          "notes": "Description explicitly credits photo to Deborah Del Coro; author/account field names Tomas Del Coro (TDelCoro), both preserved in credit. Taken 20 March 2025 at Revs Institute. Summary, upload history, October 2025 Flickr licence review and API metadata read. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ . 1280 x 824 JPEG individually viewed and copied unchanged. Worn long touring body, hood, windscreen and red wire wheels match the selected Torpedo Sport; photo does not independently authenticate serial, engine, original paint or 1920s modification date."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "3619",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted output range",
+          "value": "40-45 HP; test standard and output rpm not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference wheelbase",
+          "value": "118",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum quoted reference weight",
+          "value": "1764 lb; mass basis not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Electrical",
+          "label": "Reference lighting update",
+          "value": "CAV dynamo lighting set, installed in the 1920s",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Reference instrument update",
+          "value": "Wooden dashboard added with lighting switch panel, voltmeter, ammeter and relocated instruments in the 1920s",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Alfonso XIII helped establish the production sports car: a customer-road family developed from Hispano-Suiza competition engineering. Its significance lies in that transition and its enduring place in early performance-car history. Count the original Alfonso XIII / 15T family once across bodies and years; royal association and rarity alone are not admission reasons.",
+          "category": "Early production sports-car development",
+          "confidence": "Museum history of the road family, with manufacturer sporting-model corroboration; no exclusive first claim",
+          "source": 1
+        },
+        {
+          "title": "Later updates remain part of the reference history",
+          "explanation": "Revs Institute identifies the CAV lighting installation and instrument dashboard as 1920s changes on the Torpedo Sport. These details describe the preserved reference car rather than original 1912 standard equipment.",
+          "category": "Preserved-car history",
+          "confidence": "Custodian account; modification scope retained",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_his_alfonso15t_torpedo1912.jpg",
+          "caption": "1912 Hispano-Suiza 15T Alfonso XIII Torpedo Sport at Revs Institute, photographed 20 March 2025. Long touring body, raised hood and red wire wheels illustrate the selected museum reference; photo alone does not authenticate serial 1858, engine or original paint. Photo: Deborah Del Coro; shared by Tomas Del Coro (TDelCoro), https://www.flickr.com/photos/45549579@N05/54400402450/ ; Wikimedia Commons title: 1912 Hispano-Suiza 15T Alfonso Xlll Torpedo Sport (54400402450).jpg. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Deborah Del Coro; shared by Tomas Del Coro (TDelCoro)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "ccab09d7907eed9f4fc9da0f2ccfb4ccab7f7989041e86e55335242edbbf9d21"
+        }
+      ]
+    }
+  ]
+}

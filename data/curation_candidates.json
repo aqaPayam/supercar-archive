@@ -6024,7 +6024,18 @@
       "duplicate_review": "Complete 935-record identity inventory checked for Bugatti Type 18/Type18/T18, Black Bess, Roland Garros and chassis 474 aliases. No original Type 18 road family is present; a Toyota ST185 text hit is unrelated. Group Type 18 years, bodies, racing appearances and survivors once. The modern Veyron Black Bess cosmetic tribute and other Bugatti programmes are not additional Type 18 entries.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-139.json"
+    },
+    {
+      "manufacturer": "Hispano-Suiza",
+      "model": "Alfonso XIII / 15T",
+      "generation": "Original Alfonso XIII production-road sporting family",
+      "proposed_record": "HIS-ALFONSO15T-TORPEDO1912",
+      "reason": "The Alfonso XIII helped establish the production sports car: a customer-road family developed from Hispano-Suiza competition engineering. Its significance lies in that transition and its enduring place in early performance-car history. Count the original Alfonso XIII / 15T family once across bodies and years; royal association and rarity alone are not admission reasons.",
+      "evidence": "https://revsinstitute.org/vehicle/1912-hispano-suiza-alfonso-15t-xiii-torpedo-sport",
+      "duplicate_review": "Complete 936-record identity inventory checked for Hispano-Suiza, Alfonso/Alphonso XIII, 15T, 15-45 and 15/45 aliases. No existing family found. Count original road years, bodies and chassis once; exclude dedicated racers and replicas. The separate Revs short and long chassis are references within one family, not two additions.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-140.json"
     }
   ],
-  "catalogue_count_after_batches": 936
+  "catalogue_count_after_batches": 937
 }
