@@ -1,0 +1,153 @@
+{
+  "batch": "icons-road-2026-10-30-143",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "DEL-D8-120-TOYOTA1939",
+      "manufacturer": "Delage",
+      "model_family": "D8",
+      "generation": "Historic D8 straight-eight production-road family",
+      "variant": "D8-120 Figoni & Falaschi cabriolet — 1939 Toyota museum reference",
+      "model_year_from": 1939,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Coachbuilt sporting cabriolet",
+      "road_legal": 1,
+      "specification_market": "Historic Delage D8 production-road family, selected 1939 D8-120 Figoni and Falaschi cabriolet at Toyota Automobile Museum, public automobile entry 333. Eleven attributes map to the exact museum record, with units verified in its linked technical-table rendering script. Keep quoted 4750 cm3, 86 kW/115 HP at 3800 min-1 and 1805-kg vehicle mass without an inferred power test standard, dry/kerb definition or extra displacement precision. The earlier D8 Super Sports 4-litre/100-mph account and different 1937 Aerosport data are not transferred. No gearbox, torque, brakes, suspension, seating count, measured speed or acceleration inferred. The museum calls the selected body a cabriolet; the photo filename Phaeton is retained only as supplied attribution title. Group historic D8, D8S and D8-100/120 road derivatives once conservatively; no individual body, engine, chassis or year adds another record. Dedicated GP/record cars and replicas are not admitted.",
+      "summary": "The Delage D8 is an established French straight-eight sporting-road family, including the Super Sports and later high-performance D8-120. It represents an important pre-war grand-touring tradition rather than rarity or luxury alone. Count the historic D8 road family once across engines, bodies and years; individual coachwork, competition machines and replicas do not create extra records.",
+      "admission_reason": "The Delage D8 is an established French straight-eight sporting-road family, including the Super Sports and later high-performance D8-120. It represents an important pre-war grand-touring tradition rather than rarity or luxury alone. Count the historic D8 road family once across engines, bodies and years; individual coachwork, competition machines and replicas do not create extra records.",
+      "sources": [
+        {
+          "publisher": "Toyota Automobile Museum",
+          "title": "Delage Type D8-120 — 1939 collection record, database entry 333",
+          "source_type": "Original museum collection record and its public data/rendering sources",
+          "url": "https://toyota-automobile-museum.jp/en/archives/car-database/detail.html?id=333",
+          "notes": "Page shell and linked public data source https://toyota-automobile-museum.jp/archives/data.json read, selecting only automobile entry id 333, code 01. Complete relevant selected record read in English and Japanese. The linked /en/archives/detail.js was inspected for id routing and technical-table units: dimensions/wheelbase mm, vehicle mass kg, displacement cm3 and output min-1. All eleven attributes use this exact reference. Output remains quoted 86 kW/115 HP at 3800 min-1 without an inferred power test standard; vehicle mass has no assumed dry/kerb basis. No measured top speed, acceleration, transmission, suspension or brake specification inferred. Generic marque GP history and the sexist luxury-car epithet are not imported. No claim of visually inspecting a rendered museum browser table."
+        },
+        {
+          "publisher": "The Delage Register",
+          "title": "Home — D8 and D8 Super Sports road-car history",
+          "source_type": "Official marque register historical account",
+          "url": "https://www.delageregister.co.uk/",
+          "notes": "Full relevant historical account read. Distinguishes production road models from dedicated racing programmes and describes the D8 straight-eight family and sporting Super Sports version. Its 4-litre and 100-mph statements are not specifications for the selected later D8-120; no speed field imported. Club-wide race victories, 15 S 8 GP results, generic prototype endurance-test mileage and unqualified superiority claims do not become D8 road-car achievements. No production count or complete production-date range inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons; Coolalabright / Winai Suteeranaranit",
+          "title": "File:1939 Delage Type D8-120 Phaeton.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1939_Delage_Type_D8-120_Phaeton.jpg",
+          "notes": "Own-work photograph at Toyota Automobile Museum, dated 5 November 2025 and uploaded 26 September 2026. Summary, upload history, EXIF creator/copyright, licence and API metadata read. Creator account Coolalabright; EXIF author Winai Suteeranaranit, copyright Winai 2025, all retained in credit. CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ . Actual 1280 x 854 JPEG individually viewed and copied unchanged. Blue open Figoni and Falaschi cabriolet body, flowing wings and museum setting match the selected collection reference. Supplied filename says Phaeton; archive body classification follows museum Cabriolet. Photo does not authenticate engine, exact dimensions, coachwork/paint originality or chassis. Earlier Iwao rear-detail photo was viewed but not imported."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Eight cylinders in line",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water cooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "OHV",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "4750",
+          "unit": "cm3",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted output",
+          "value": "86 kW / 115 HP at 3800 min-1; power test standard not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference length",
+          "value": "5256",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference width",
+          "value": "1995",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference height",
+          "value": "1560",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Reference wheelbase",
+          "value": "3341",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum vehicle mass",
+          "value": "1805 kg; dry/kerb basis not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Reference coachbuilder",
+          "value": "Figoni & Falaschi",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Delage D8 is an established French straight-eight sporting-road family, including the Super Sports and later high-performance D8-120. It represents an important pre-war grand-touring tradition rather than rarity or luxury alone. Count the historic D8 road family once across engines, bodies and years; individual coachwork, competition machines and replicas do not create extra records.",
+          "category": "Historic French sporting grand touring",
+          "confidence": "Marque-register road-family history and museum high-performance reference; no exclusive first or measured-speed claim",
+          "source": 1
+        },
+        {
+          "title": "Individual coachwork within one road family",
+          "explanation": "Toyota Automobile Museum identifies the selected D8-120 as a Figoni & Falaschi cabriolet built after the Delage-Delahaye merger. That individual body illustrates the road family and does not create a separately counted model.",
+          "category": "Road-family and coachwork identity",
+          "confidence": "Original collection data for entry 333; no claim of independently authenticated original bodywork",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_del_d8_120_toyota1939.jpg",
+          "caption": "1939 Delage Type D8-120 at Toyota Automobile Museum. Museum identifies Figoni & Falaschi cabriolet coachwork; supplied photo title is 1939 Delage Type D8-120 Phaeton.jpg. Blue open body and flowing wings illustrate this reference; photo alone does not authenticate engine, chassis or body/paint originality. Photo dated 5 November 2025. Coolalabright / Winai Suteeranaranit (EXIF author), copyright Winai 2025; Wikimedia Commons, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Coolalabright / Winai Suteeranaranit",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3ba14fdacc956a6fe83261f4fd8134cd16e4792c1b726f469a01021a0738bc4b"
+        }
+      ]
+    }
+  ]
+}

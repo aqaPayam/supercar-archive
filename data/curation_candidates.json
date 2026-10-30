@@ -6057,7 +6057,18 @@
       "duplicate_review": "Complete 938-record identity inventory checked for Hispano-Suiza, H6/H6B/H6C spaced and unspaced aliases, serial 11739 and Dubonnet. Only the earlier Alfonso XIII /15T family is present, a distinct programme. Group original H6/H6B/H6C road engines, years, bodies and individual chassis once. Dedicated racers, replicas and further coachwork examples are not additional admissions.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-142.json"
+    },
+    {
+      "manufacturer": "Delage",
+      "model": "D8",
+      "generation": "Historic D8 straight-eight production-road family",
+      "proposed_record": "DEL-D8-120-TOYOTA1939",
+      "reason": "The Delage D8 is an established French straight-eight sporting-road family, including the Super Sports and later high-performance D8-120. It represents an important pre-war grand-touring tradition rather than rarity or luxury alone. Count the historic D8 road family once across engines, bodies and years; individual coachwork, competition machines and replicas do not create extra records.",
+      "evidence": "https://toyota-automobile-museum.jp/en/archives/car-database/detail.html?id=333",
+      "duplicate_review": "Complete 939-record identity inventory checked for Delage, D8/D8S, D8-100/120/15 and spacing aliases. No existing road family found. Group historic D8 engines, bodies, years and chassis once conservatively. Dedicated GP/record machines, replicas and different coachwork do not add separate records.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-143.json"
     }
   ],
-  "catalogue_count_after_batches": 939
+  "catalogue_count_after_batches": 940
 }
