@@ -5524,7 +5524,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 890-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-98.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Taurus",
+      "generation": "Original 1989–1995 Yamaha-V6 Taurus SHO sporting-road lineage",
+      "proposed_record": "FOR-TAURUS-SHO-US1989",
+      "reason": "The original Taurus SHO made Yamaha’s four-cam, 24-valve V6 the centrepiece of a discreet American performance saloon. A manual drivetrain and revised independent chassis supported the engine, and its contemporary road test established the SHO as a landmark in accessible sports-saloon performance.",
+      "evidence": "https://www.caranddriver.com/reviews/a15142141/1989-ford-taurus-sho-road-test-review/",
+      "duplicate_review": "Absent model/generation checked against the complete 892-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-99.json"
+    },
+    {
+      "manufacturer": "Dodge",
+      "model": "Neon / SRT-4",
+      "generation": "Original Neon-based 2003–2005 SRT-4 performance-road family",
+      "proposed_record": "DOD-SRT4-NEON-US2005",
+      "reason": "The Neon-based SRT-4 became a defining American factory sport compact. Its turbocharged engine, manual gearbox and torque-biasing differential delivered an accessible performance formula supported by contemporary instrumented evaluation and comparison-test success.",
+      "evidence": "https://www.caranddriver.com/reviews/a15133035/dodge-srt-4-short-take-road-test/",
+      "duplicate_review": "Absent model/generation checked against the complete 892-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-99.json"
     }
   ],
-  "catalogue_count_after_batches": 892
+  "catalogue_count_after_batches": 894
 }

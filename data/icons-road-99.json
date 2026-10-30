@@ -1,0 +1,362 @@
+{
+  "batch": "icons-road-2026-10-30-99",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "FOR-TAURUS-SHO-US1989",
+      "manufacturer": "Ford",
+      "model_family": "Taurus",
+      "generation": "Original 1989–1995 Yamaha-V6 Taurus SHO sporting-road lineage",
+      "variant": "SHO 3.0 V6 manual — 1989 USA introduction reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "1989 USA Taurus SHO, original Ford introduction brochure reference. Retain its advertised 220 hp and 200 lb-ft without assuming an unstated gross/net standard or converting units. The brochure specifies a 3.0-litre V6, Yamaha collaboration, DOHC/four valves per cylinder, sequential multipoint injection, dual-runner intake and EEC-IV control. Its 7000-rpm redline is not a claim about fuel-cut speed; an embedded magazine quotation is not technical authority. The contemporary independent test supplies five-speed manual and front-wheel drive only. Exact cc, output-peak rpm, acceleration, maximum speed and later 3.2-litre automatic/3.4 V8/EcoBoost AWD values are not imported. Count the original 1989–1995 Yamaha-V6 sporting-road lineage once across related body revisions, transmissions, trim and years.",
+      "summary": "The original Taurus SHO made Yamaha’s four-cam, 24-valve V6 the centrepiece of a discreet American performance saloon. A manual drivetrain and revised independent chassis supported the engine, and its contemporary road test established the SHO as a landmark in accessible sports-saloon performance.",
+      "admission_reason": "The original Taurus SHO made Yamaha’s four-cam, 24-valve V6 the centrepiece of a discreet American performance saloon. A manual drivetrain and revised independent chassis supported the engine, and its contemporary road test established the SHO as a landmark in accessible sports-saloon performance.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company / XR793 facsimile",
+          "title": "1989 Ford Taurus SHO — original introduction brochure",
+          "source_type": "Original manufacturer introduction brochure, hosted scan",
+          "url": "https://xr793.com/wp-content/uploads/2022/07/1989-Ford-Taurus-SHO-Intro.pdf",
+          "notes": "1989 USA Taurus SHO, original Ford introduction brochure reference. Retain its advertised 220 hp and 200 lb-ft without assuming an unstated gross/net standard or converting units. The brochure specifies a 3.0-litre V6, Yamaha collaboration, DOHC/four valves per cylinder, sequential multipoint injection, dual-runner intake and EEC-IV control. Its 7000-rpm redline is not a claim about fuel-cut speed; an embedded magazine quotation is not technical authority. The contemporary independent test supplies five-speed manual and front-wheel drive only. Exact cc, output-peak rpm, acceleration, maximum speed and later 3.2-litre automatic/3.4 V8/EcoBoost AWD values are not imported. Count the original 1989–1995 Yamaha-V6 sporting-road lineage once across related body revisions, transmissions, trim and years."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Tested: 1989 Ford Taurus SHO Shocks the World — December 1988 test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a15142141/1989-ford-taurus-sho-road-test-review/",
+          "notes": "Contemporary instrumented report supports admission and supplies the manual/front-drive fields. Its measured performance and fuel cutoff are not substituted for brochure claims. Later SHO generations and embedded comparisons are not new records."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ford Taurus SHO 1989 (8873735428).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ford_Taurus_SHO_1989_(8873735428).jpg",
+          "notes": "order_242 from Chile; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0. Original credit: Ford Taurus SHO 1989. Original credit links: https://www.flickr.com/photos/juanelo242a/8873735428/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Yamaha-developed V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint fuel injection; Ford EEC-IV control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Dual-runner intake manifold",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel independent suspension with heavier front and rear stabilizer bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, brochure advertised",
+          "value": "220",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure advertised",
+          "value": "200",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Brochure redline",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Wheels and tyres",
+          "value": "15-inch cast aluminium wheels; Goodyear Eagle GT Plus 4 tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Taurus SHO made Yamaha’s four-cam, 24-valve V6 the centrepiece of a discreet American performance saloon. A manual drivetrain and revised independent chassis supported the engine, and its contemporary road test established the SHO as a landmark in accessible sports-saloon performance.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road test documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_taurus_sho_us1989.jpg",
+          "caption": "First-generation Taurus SHO photographed by order_242; the source identifies a 1989 car. Representative early saloon body, with visible Taurus SHO side lettering and basket-style wheels. Exact original US-market calibration, fitted options and mechanical condition are not authenticated by this photograph.",
+          "creator": "order_242 from Chile",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "45867e1d5d8b46efaf119d6eea915beb7037eba40009844ec18480ae03340ebf"
+        }
+      ]
+    },
+    {
+      "id": "DOD-SRT4-NEON-US2005",
+      "manufacturer": "Dodge",
+      "model_family": "Neon / SRT-4",
+      "generation": "Original Neon-based 2003–2005 SRT-4 performance-road family",
+      "variant": "Standard SRT-4 — 2005 USA factory downloadable-brochure reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Standard 2005 USA Dodge SRT-4, original five-page Dodge/DaimlerChrysler downloadable brochure reference. The cover explicitly says 2005; PDF pages 1 and 4 supply the selected specification. Retain advertised 230 hp at 5300 rpm and 250 lb-ft at 2200–4400 rpm without inferring a gross/net convention, kW conversion or dyno output. Standard New Venture T-850 five-speed manual, front drive, Quaife ATB limited-slip, 17 × 6 wheels and 205/50R17 tyres are explicit. The 5.8-second 0–60-mph field is a manufacturer claim, not the 2004 test car’s measured time. No maximum-speed figure is imported because the brochure’s claim and independent earlier-car test differ. Count the original Neon SRT-4 road family once across 2003–2005 tunes, ACR/Commemorative packages, equipment and names; no ordinary Neon, staged Mopar tune or Caliber SRT4 is added.",
+      "summary": "The Neon-based SRT-4 became a defining American factory sport compact. Its turbocharged engine, manual gearbox and torque-biasing differential delivered an accessible performance formula supported by contemporary instrumented evaluation and comparison-test success.",
+      "admission_reason": "The Neon-based SRT-4 became a defining American factory sport compact. Its turbocharged engine, manual gearbox and torque-biasing differential delivered an accessible performance formula supported by contemporary instrumented evaluation and comparison-test success.",
+      "sources": [
+        {
+          "publisher": "Dodge / DaimlerChrysler; Neon Registry facsimile",
+          "title": "2005 Dodge SRT4 — original five-page factory downloadable brochure",
+          "source_type": "Original manufacturer downloadable brochure, hosted facsimile",
+          "url": "https://neonregistry.org/download.php?id=29",
+          "notes": "Standard 2005 USA Dodge SRT-4, original five-page Dodge/DaimlerChrysler downloadable brochure reference. The cover explicitly says 2005; PDF pages 1 and 4 supply the selected specification. Retain advertised 230 hp at 5300 rpm and 250 lb-ft at 2200–4400 rpm without inferring a gross/net convention, kW conversion or dyno output. Standard New Venture T-850 five-speed manual, front drive, Quaife ATB limited-slip, 17 × 6 wheels and 205/50R17 tyres are explicit. The 5.8-second 0–60-mph field is a manufacturer claim, not the 2004 test car’s measured time. No maximum-speed figure is imported because the brochure’s claim and independent earlier-car test differ. Count the original Neon SRT-4 road family once across 2003–2005 tunes, ACR/Commemorative packages, equipment and names; no ordinary Neon, staged Mopar tune or Caliber SRT4 is added."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Dodge SRT-4 — April 2004 instrumented road test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a15133035/dodge-srt-4-short-take-road-test/",
+          "notes": "First-hand test supports the original Neon SRT-4’s performance standing and comparison success. Its 2004 measured times, peak-speed result and test-car weight are not assigned to the selected 2005 brochure reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 Dodge SRT-4, front left, 07-26-2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_Dodge_SRT-4,_front_left,_07-26-2022.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged and intercooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "New Venture Gear T-850 heavy-duty five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Quaife Automatic Torque Biasing limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front and rear; gas-charged Tokico struts and stabilizer bars; MacPherson front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Performance-tuned four-wheel disc antilock brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/50R17 on 17 × 6-inch cast aluminium wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Functional high-profile rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valve count",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, brochure advertised",
+          "value": "230",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure advertised",
+          "value": "250",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "2200–4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–60 mph, factory claim",
+          "value": "5.8",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "System",
+          "value": "Performance-tuned dual-outlet exhaust",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Neon-based SRT-4 became a defining American factory sport compact. Its turbocharged engine, manual gearbox and torque-biasing differential delivered an accessible performance formula supported by contemporary instrumented evaluation and comparison-test success.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road test documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_srt4_neon_us2005.jpg",
+          "caption": "Neon-based SRT-4 photographed by MercurySable99 in New Castle, Pennsylvania, on 26 July 2022; source identifies a 2004 Flame Red car. Representative road-saloon body for the selected standard 2005 brochure reference. The image does not authenticate that reference year, original engine output, differential, options or mechanical condition.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "35424aabb103c10995180409e7fff6608d16af6ff42eacb208e7edf7b4b54672"
+        }
+      ]
+    }
+  ]
+}
