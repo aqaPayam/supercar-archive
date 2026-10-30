@@ -5755,7 +5755,18 @@
       "duplicate_review": "Complete 912-record identity inventory checked for Veloster and every Hyundai identity; only personal Verna and separately bodied PD-based i30 N are present. The JS Veloster programme is absent. Count this N family once across outputs, years and later DCT. No ordinary Turbo/R-Spec, RM prototype, TCR/ETCR or i30 technical substitution.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-116.json"
+    },
+    {
+      "manufacturer": "Hyundai",
+      "model": "i20 N",
+      "generation": "Original BC3-based i20 N production-road hot-hatch family",
+      "proposed_record": "HYU-I20N-BC3-UK2021",
+      "reason": "The i20 N earned both Top Gear’s 2021 Performance Car of the Year and overall Car of the Year awards. The award publisher’s assessment establishes the small hot hatch’s exceptional road-and-track appeal beyond its modest size and price. This original six-speed-manual road family is represented once; WRC inspiration is not a claim that the road car shares rally-car hardware or results.",
+      "evidence": "https://www.topgear.com/car-news/revealed-winners-2021-topgearcom-awards",
+      "duplicate_review": "Complete 913-record identity inventory checked for i20 and every Hyundai identity; only personal Verna, i30 N and Veloster N are present. The BC3 i20 N programme is absent. Count this road N family once across years and equipment. Indian BI3 N Line, ordinary i20 and WRC/Rally1/Rally2 racers do not substitute for this UK road reference.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-117.json"
     }
   ],
-  "catalogue_count_after_batches": 913
+  "catalogue_count_after_batches": 914
 }
