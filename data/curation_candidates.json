@@ -5348,7 +5348,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 875-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-90.json"
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "E-Class",
+      "generation": "W210 original AMG production-road performance-saloon family",
+      "proposed_record": "MER-E55-AMG-W210-1997",
+      "reason": "The W210 E55 AMG combined an AMG-developed V8 with uprated suspension and brakes and a heavy-duty automatic drivetrain in an everyday executive saloon. Contemporary first-hand driving evidence documents a substantial dynamic transformation beyond the ordinary E-Class. Count this W210 performance-road family once; engine choices, facelifts, estate bodies and model years do not add entries.",
+      "evidence": "https://www.caranddriver.com/reviews/a44704946/1999-mercedes-e55-amg-by-the-numbers/",
+      "duplicate_review": "Absent model/generation checked against the complete 876-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-91.json"
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Escort",
+      "generation": "MkIII original front-drive production-road sporting hatchback family",
+      "proposed_record": "FOR-ESCORT-RST-S1-BASE1985",
+      "reason": "The Series 1 Escort RS Turbo carried Ford SVE development into a front-drive performance hatchback intended as a Group A competition basis. Its intercooled turbo engine, electronic boost/ignition control and standard viscous limited-slip differential distinguish the engineering from an ordinary Escort. One MkIII sporting-road family is counted; XR3i/RS1600i badges, model years and competition preparations do not add entries.",
+      "evidence": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+      "duplicate_review": "Absent model/generation checked against the complete 876-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-91.json"
     }
   ],
-  "catalogue_count_after_batches": 876
+  "catalogue_count_after_batches": 878
 }
