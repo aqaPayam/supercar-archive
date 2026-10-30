@@ -5337,7 +5337,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 874-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-89.json"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "RS 5",
+      "generation": "Original high-revving V8 RS 5 production-road family",
+      "proposed_record": "AUD-RS5-ORIGINAL-JP2010",
+      "reason": "The original RS 5 combined a high-revving naturally aspirated V8 with a significant evolution of quattro: the production debut of Audi’s self-locking crown-gear centre differential and wheel-selective torque vectoring. Its seven-speed dual-clutch drivetrain and dedicated wide-body A5-based coupe establish a substantive performance-engineering case. Count one original V8 RS 5 road family; facelifts, open-top versions, wheel choices and model years do not add entries.",
+      "evidence": "https://www.audi-press.jp/press-releases/2010/crt6ds0000000vmw.html",
+      "duplicate_review": "Absent model/generation checked against the complete 875-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-90.json"
     }
   ],
-  "catalogue_count_after_batches": 875
+  "catalogue_count_after_batches": 876
 }

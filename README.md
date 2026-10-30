@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Eighty-nine reviewed road-icon batches add 480 cars
-to the 395-record baseline, bringing the working catalogue to 875 records.
-The latest [GR86 second-generation 86/BRZ batch](docs/icons-road-89.md)
-adds one absent production-road sports programme, following the
-[DB HBR5 Coach batch](docs/icons-road-88.md). Individual reviews and
+evidence and licensed photograph. Ninety reviewed road-icon batches add 481 cars
+to the 395-record baseline, bringing the working catalogue to 876 records.
+The latest [original V8 Audi RS 5 batch](docs/icons-road-90.md)
+adds one absent performance-road family, following the
+[GR86 second-generation 86/BRZ batch](docs/icons-road-89.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

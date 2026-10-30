@@ -1,0 +1,188 @@
+{
+  "batch": "icons-road-2026-10-30-90",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "AUD-RS5-ORIGINAL-JP2010",
+      "manufacturer": "Audi",
+      "model_family": "RS 5",
+      "generation": "Original high-revving V8 RS 5 production-road family",
+      "variant": "4.2 FSI quattro S tronic Coupe — September 2010 Japan introduction",
+      "model_year_from": 2010,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Audi Japan production-road launch of September 13, 2010, using the original 4.2 FSI V8 coupe with seven-speed S tronic. The year identifies Japan introduction, not a US model-year designation. Primary Japan fields supply 331 kW at 8250 rpm, 430 Nm at 4000–6000 rpm, FSI direct injection, 12.3:1 compression, quattro and standard 265/35 R19 tyres. Displacement is retained as the nominal 4.2-litre class; an exact cc figure is not inferred. Optional 20-inch wheels, optional assistance/sunroof, carbon-ceramic brakes, raised speed limit, later facelift/cabriolet and racing-car data are not selected. Rear sport-differential availability is not generalized across markets.",
+      "summary": "The original RS 5 combined a high-revving naturally aspirated V8 with a significant evolution of quattro: the production debut of Audi’s self-locking crown-gear centre differential and wheel-selective torque vectoring. Its seven-speed dual-clutch drivetrain and dedicated wide-body A5-based coupe establish a substantive performance-engineering case. Count one original V8 RS 5 road family; facelifts, open-top versions, wheel choices and model years do not add entries.",
+      "admission_reason": "The original RS 5 combined a high-revving naturally aspirated V8 with a significant evolution of quattro: the production debut of Audi’s self-locking crown-gear centre differential and wheel-selective torque vectoring. Its seven-speed dual-clutch drivetrain and dedicated wide-body A5-based coupe establish a substantive performance-engineering case. Count one original V8 RS 5 road family; facelifts, open-top versions, wheel choices and model years do not add entries.",
+      "sources": [
+        {
+          "publisher": "Audi Japan",
+          "title": "Audi RS 5 announced — Japan production-road introduction, September 13, 2010",
+          "source_type": "Manufacturer production-launch release",
+          "url": "https://www.audi-press.jp/press-releases/2010/crt6ds0000000vmw.html",
+          "notes": "Audi Japan production-road launch of September 13, 2010, using the original 4.2 FSI V8 coupe with seven-speed S tronic. The year identifies Japan introduction, not a US model-year designation. Primary Japan fields supply 331 kW at 8250 rpm, 430 Nm at 4000–6000 rpm, FSI direct injection, 12.3:1 compression, quattro and standard 265/35 R19 tyres. Displacement is retained as the nominal 4.2-litre class; an exact cc figure is not inferred. Optional 20-inch wheels, optional assistance/sunroof, carbon-ceramic brakes, raised speed limit, later facelift/cabriolet and racing-car data are not selected. Rear sport-differential availability is not generalized across markets."
+        },
+        {
+          "publisher": "AUDI AG / Audi Technology Portal",
+          "title": "Crown gear differential — technology account, status 2011",
+          "source_type": "Manufacturer engineering history",
+          "url": "https://www.audi-technology-portal.de/en/drivetrain/quattro_en/crown-gear-differential",
+          "notes": "Actual technical account read. Identifies debut in the RS 5 in early 2010, longitudinal front-engine application and nominal front/rear torque split of 40:60. Explains mechanically self-locking centre differential and brake-based wheel-selective torque vectoring; this is distinct from an active rear sport differential. Manufacturer handling superlatives and maximum torque-transfer percentages are not imported as test results."
+        },
+        {
+          "publisher": "Audi Netherlands",
+          "title": "Audi RS 5 debuteert in Genève — February 24, 2010",
+          "source_type": "Manufacturer original model-launch account",
+          "url": "https://nieuws.audi.nl/audi-rs-5-debuteert-in-geneve/",
+          "notes": "Actual original launch article read. Supplies the naturally aspirated character of the original high-revving 4.2 FSI V8 only. Its 4162 cc wording differs from 4163 in surfaced Australian technical references; no exact cc field is imported. Dutch optional rear sport-differential availability, local equipment, weight and speed upgrade are not substituted into the Japanese reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS5 front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS5_front.jpg",
+          "notes": "Molch-Entertainment at de.wikipedia; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0. Original credit: Own work. Licence selected from the source page’s permitted alternatives. Downloaded rendition copied unchanged; attribution and share-alike terms retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "331",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "430",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed S tronic dual-clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro permanent all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "FSI petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "12.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Self-locking crown-gear centre differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "265/35 R19 — standard Japan launch specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Electrically deployable rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000–6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Nominal torque distribution",
+          "value": "40:60 front:rear",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original RS 5 combined a high-revving naturally aspirated V8 with a significant evolution of quattro: the production debut of Audi’s self-locking crown-gear centre differential and wheel-selective torque vectoring. Its seven-speed dual-clutch drivetrain and dedicated wide-body A5-based coupe establish a substantive performance-engineering case. Count one original V8 RS 5 road family; facelifts, open-top versions, wheel choices and model years do not add entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs5_original_jp2010.jpg",
+          "caption": "Original Audi RS 5 coupe at AMI Leipzig in April 2010, photographed by Molch-Entertainment. Representative early road-body exterior at a motor show. Exact Japan-market equipment, wheels, braking options and mechanical specification are not authenticated by this display car.",
+          "creator": "Molch-Entertainment at de.wikipedia",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "057a624542de3ebd30bfac5244b382f0f3c38cc56940402b0db43597570ce070"
+        }
+      ]
+    }
+  ]
+}
