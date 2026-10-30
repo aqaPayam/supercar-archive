@@ -5799,7 +5799,18 @@
       "duplicate_review": "Complete 916-record identity inventory checked for W205/S205/C205/A205 and 205.086/205.087 aliases, plus all C-Class identities. Only W202 C36, W203 C55 and W204 C63 are present. Count the 205-based C63 road family once across bodies, outputs, editions and facelift. Ordinary AMG Line, C43 and W206 hybrid do not supply this reference.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-120.json"
+    },
+    {
+      "manufacturer": "Aston Martin",
+      "model": "DB11",
+      "generation": "Original DB11 production-road grand-touring core-model family",
+      "proposed_record": "AST-DB11-ORIGINAL-V12-PRESS2017",
+      "reason": "The DB11 introduced a new bonded-aluminium architecture and twin-turbo V12 at a turning point in Aston Martin’s road-car programme. A contemporary production-car test supports its engine and tactile grand-touring character, with noise and less overtly sporting behaviour acknowledged. One DB11 core family is represented across V12, V8, AMR and Volante versions.",
+      "evidence": "https://www.caranddriver.com/reviews/a15088424/2017-aston-martin-db11-test-review/",
+      "duplicate_review": "Complete 917-record identity inventory checked for DB11/DB 11/AE31 aliases; no DB11 is present. Existing DB9 is the previous architecture. DBS Superleggera shares DB11-derived structure, but the original corporate core-range classification lists DB11 and DBS separately. Count DB11 V12, V8, AMR and Volante within one core family; do not add those variants separately.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-121.json"
     }
   ],
-  "catalogue_count_after_batches": 917
+  "catalogue_count_after_batches": 918
 }

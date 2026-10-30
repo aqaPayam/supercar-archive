@@ -1,0 +1,202 @@
+{
+  "batch": "icons-road-2026-10-30-121",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "AST-DB11-ORIGINAL-V12-PRESS2017",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB11",
+      "generation": "Original DB11 production-road grand-touring core-model family",
+      "variant": "Original 608-PS V12 coupe — February 2017 international factory press reference",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original 608-PS V12 DB11 coupe, selected international manufacturer press reference dated 28 February 2017. Count the DB11 core model once across engines, AMR, coupe/Volante bodies and years. The factory’s 2018 core-range presentation lists DB11 separately from Vantage and DBS Superleggera; the latter’s DB11-derived structure is explicitly acknowledged, not mistaken for an alias or ignored. Older DB9 is a previous architecture. No later 639-PS AMR, V8 or DBS output, prototype tune, US test time, mass, dimensions, injection type, torque plateau or power peak imported. Displacement is factory nominal 5.2 litres, not an inferred exact cc figure.",
+      "summary": "The DB11 introduced a new bonded-aluminium architecture and twin-turbo V12 at a turning point in Aston Martin’s road-car programme. A contemporary production-car test supports its engine and tactile grand-touring character, with noise and less overtly sporting behaviour acknowledged. One DB11 core family is represented across V12, V8, AMR and Volante versions.",
+      "admission_reason": "The DB11 introduced a new bonded-aluminium architecture and twin-turbo V12 at a turning point in Aston Martin’s road-car programme. A contemporary production-car test supports its engine and tactile grand-touring character, with noise and less overtly sporting behaviour acknowledged. One DB11 core family is represented across V12, V8, AMR and Volante versions.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Aston Martin DB11: the latest in an illustrious bloodline — 28 February 2017",
+          "source_type": "Original manufacturer model press release",
+          "url": "https://media.astonmartin.com/aston-martin-db11-the-latest-in-an-illustrious-bloodline/?lang=eng",
+          "notes": "Full relevant release body read, including new structure, original 5.2-litre V12, aerodynamics, modes and technology. All selected technical attributes map here. Output is retained as the factory’s 608 PS / 600 BHP, not treated as later AMR or US SAE certification. Factory speed and acceleration remain claims. No performance or equipment field copied from inaccessible English/French brochures."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2017 Aston Martin DB11 Tested: The New Classic — Tony Quiroga, 24 August 2017",
+          "source_type": "Original contemporary production-car instrumented test",
+          "url": "https://www.caranddriver.com/reviews/a15088424/2017-aston-martin-db11-test-review/",
+          "notes": "Relevant complete body and panel read. Admission and limits only; no US specifications or measured numbers imported. This production-car test is kept separate from the earlier launch drive of pre-production cars."
+        },
+        {
+          "publisher": "Aston Martin Lagonda",
+          "title": "Preliminary Results 2018 — core car range refresh, slide 22",
+          "source_type": "Original manufacturer core-model and variant classification",
+          "url": "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/results-centre/2018---results-centre/q4---2018/aston-martin-lagonda-preliminary-results-2018---presentation.pdf?rev=d161929f3c2b4a77bc634b6ce79d0c91",
+          "notes": "Relevant web PDF text at index 21 / printed slide 22 read. Separate DB11, Vantage and DBS Superleggera core-model headings; DB11 variants list V12, V12 AMR, V8 and Volante. Used only for identity classification, not financial claims, factory technical values or a full 43-page visual-audit claim. Screenshot call returned no image retained for inspection; no visual-review claim."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "Introducing the new DBS Superleggera — 26 June 2018, relationship to DB11",
+          "source_type": "Original manufacturer related-model launch context",
+          "url": "https://www.astonmartin.com/en-us/our-world/news/2018/6/26/introducing-the-new-dbs-superleggera-two-illustrious-names-one-magnificent-super-gt",
+          "notes": "Relevant introduction, chassis and powertrain relationship paragraphs read. Describes DBS as replacing Vanquish S and evolving DB11 architecture/aerodynamics. No DBS output, transmission, tyres, brakes or body dimensions transferred to DB11. Shared engineering is acknowledged alongside the manufacturer’s distinct core-model classification."
+        },
+        {
+          "publisher": "Wikimedia Commons / Flickr",
+          "title": "File:2016 Aston Martin DB11 Coupe (32985495221).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_Aston_Martin_DB11_Coupe_(32985495221).jpg",
+          "notes": "Sicnag; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit https://www.flickr.com/photos/42220226@N07/32985495221/ . Downloaded source rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "5.2",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory original V12 output",
+          "value": "608 PS / 600 BHP",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "700",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Load-management technology",
+          "value": "Intelligent bank activation and stop-start",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "ZF eight-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Bonded aluminium architecture",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Electric power steering",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Yaw-control system",
+          "value": "Torque vectoring by braking",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Damping",
+          "value": "Adaptive damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Dynamic modes",
+          "value": "GT, Sport and Sport Plus; powertrain and chassis responses",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Front airflow feature",
+          "value": "Curlicue wheel-arch pressure-relief vent in side strake",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Aerodynamics",
+          "label": "Rear airflow feature",
+          "value": "AeroBlade: C-pillar intakes duct air to rear-deck outlet",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Front-hinged clamshell",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed maximum speed",
+          "value": "200",
+          "unit": "mph",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed 0–62 mph",
+          "value": "3.9",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB11 introduced a new bonded-aluminium architecture and twin-turbo V12 at a turning point in Aston Martin’s road-car programme. A contemporary production-car test supports its engine and tactile grand-touring character, with noise and less overtly sporting behaviour acknowledged. One DB11 core family is represented across V12, V8, AMR and Volante versions.",
+          "category": "Engineering transition and sporting-GT heritage",
+          "confidence": "Manufacturer architecture context and contemporary production-car test documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aston_db11_original_v12.jpg",
+          "caption": "Original DB11 coupe photographed by Sicnag on 19 February 2017, titled 2016 Aston Martin DB11 Coupe. Individually inspected front-side view shows the original fixed-roof body and grille. Representative exterior only: title year, plate and image description do not authenticate this car’s build date, exact V12 tune, equipment or originality. Photo-description technical claims are not adopted; background Astons are not this entry.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "56ac1277dc0db9ba4a772ff536e0b16f539f82b2297782dfcdb17a778fd7069d"
+        }
+      ]
+    }
+  ]
+}
