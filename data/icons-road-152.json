@@ -1,0 +1,167 @@
+{
+  "batch": "icons-road-2026-10-30-152",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "WIE-GTMF5-V10-DRIVE2009",
+      "manufacturer": "Wiesmann",
+      "model_family": "GT / MF4 / MF5",
+      "generation": "Original larger-chassis GT and related MF4/MF5 production-road sports family",
+      "variant": "GT MF5 V10 coupe — February 2009 firsthand-drive reference",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat road sports-GT coupe",
+      "road_legal": 1,
+      "specification_market": "V10 GT MF5 described in David Vivian’s 25 February 2009 evo firsthand drive. Reference year dates this report, not a verified chassis build or exact introduction. Twelve attributes retain its reported engine and drivetrain. No torque peak: the article differs between 6200 rpm and 6100 rpm. No timed acceleration: body says 0–62 mph while table says 0–60. Weight, power-to-weight, brake material and introduction date omitted; exact model debut conflicts with manufacturer retrospective. Manufacturer MF5 page also describes later twin-turbo power and automatic transmission; these are not V10 specifications. MF4 history establishes a larger, new-chassis programme relative to the MF3. Conservatively group MF4/MF5 road engines, bodies, reference years and upgrades once. No MF4-CS racer, prototype, modern Project Gecko/Thunderball or extra roadster count. Photo is a supplied-title MF5 coupe family illustration only, not authenticated as this test car, engine, exact year, chassis or original equipment.",
+      "summary": "The Wiesmann GT MF5 combines a front-mid-mounted BMW M V10 with a focused specialist sports-GT chassis and distinctive retro body. David Vivian’s period firsthand drive documents its driver involvement and chassis capability. It represents Wiesmann’s flagship performance-coupe programme, beyond rarity alone. Group the related MF4/MF5 road bodies and engine versions once; the earlier MF3 roadster is a different programme.",
+      "admission_reason": "The Wiesmann GT MF5 combines a front-mid-mounted BMW M V10 with a focused specialist sports-GT chassis and distinctive retro body. David Vivian’s period firsthand drive documents its driver involvement and chassis capability. It represents Wiesmann’s flagship performance-coupe programme, beyond rarity alone. Group the related MF4/MF5 road bodies and engine versions once; the earlier MF3 roadster is a different programme.",
+      "sources": [
+        {
+          "publisher": "evo; David Vivian",
+          "title": "Wiesmann GT MF5 — firsthand drive, 25 February 2009",
+          "source_type": "Original firsthand road drive",
+          "url": "https://www.evo.co.uk/carreviews/evocarreviews/233253/wiesmann_gt_mf5.html",
+          "notes": "Relevant full article and specification table read. Twelve engine/drivetrain attributes follow this V10 coupe reference. Torque peak conflicts internally (6200/6100 rpm), acceleration label differs between body/table, and introduction differs from manufacturer history: omit those values. Weight, power-to-weight calculation, brake-material assertion, optional wheel sizing and prices omitted. Output is reported bhp, not an inferred PS conversion or new dyno result. No universal build-year or exact test chassis authentication."
+        },
+        {
+          "publisher": "Wiesmann",
+          "title": "Wiesmann MF5 — Roadster & GT historical page",
+          "source_type": "Manufacturer historical model page",
+          "url": "https://wiesmann.com/pages/wiesmann-mf5",
+          "notes": "Complete relevant model text read. Used for separate GT/roadster context and presence of both early V10 and later twin-turbo descriptions, not technical transfer. Its 555 HP / 680 Nm / six-speed automatic claims are not assigned to the selected V10. Rarity totals and exact debut date not imported; debut differs from period drive account. No modern Project Gecko specification transfer."
+        },
+        {
+          "publisher": "Wiesmann",
+          "title": "Wiesmann MF4 — historical model page",
+          "source_type": "Manufacturer historical model page",
+          "url": "https://wiesmann.com/pages/wiesmann-mf4",
+          "notes": "Complete relevant model text read. Longer-wheelbase/new-chassis MF4 roadster is explicitly distinguished from earlier MF3. Period MF5 drive describes development from MF4. This supports conservatively grouping related MF4/MF5 road bodies and engines once while retaining the already-existing MF3 separately. No MF4 V8 technical attributes transferred into the V10 record; no chassis dimensions or material inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons; Calreyn88",
+          "title": "File:Wiesmann MF5.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Wiesmann_MF5.jpg",
+          "notes": "Own work credited Calreyn88, dated 26 June 2021; uploaded 10 January 2022 (current history account displayed as CarspotterCal). Summary, history, licensing and API metadata read. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; applicable deed read. Actual 1280 x 764 JPEG individually viewed and copied unchanged. Dark coupe is a family/body illustration only, not authentication of engine, test car, exact build year, chassis or original equipment. No registration or sign-based specification inference."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration in drive account",
+          "value": "BMW M V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement reported",
+          "value": "4999",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve count reported",
+          "value": "40",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Output reported",
+          "value": "500",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Reported output peak",
+          "value": "7750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque reported",
+          "value": "383",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve timing as reported",
+          "value": "Bi-VANOS variable camshaft control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Layout",
+          "label": "Engine position",
+          "value": "Front-mid-mounted, behind front axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Transmission as reported",
+          "value": "Seven-speed sequential paddle-shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential as reported",
+          "value": "Variable lock",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Wiesmann GT MF5 combines a front-mid-mounted BMW M V10 with a focused specialist sports-GT chassis and distinctive retro body. David Vivian’s period firsthand drive documents its driver involvement and chassis capability. It represents Wiesmann’s flagship performance-coupe programme, beyond rarity alone. Group the related MF4/MF5 road bodies and engine versions once; the earlier MF3 roadster is a different programme.",
+          "category": "Specialist German flagship sports-GT engineering",
+          "confidence": "Original firsthand road drive; conservative family grouping is an editorial counting boundary, not a factory equivalence claim",
+          "source": 0
+        },
+        {
+          "title": "Keep V10 and later twin-turbo specifications separate",
+          "explanation": "Wiesmann’s history covers both GT and Roadster MF5 and mentions the V10 roadster, while its specification paragraph describes a twin-turbo powertrain. Those later figures are not assigned to the V10 coupe selected here.",
+          "category": "Historical powertrain scope",
+          "confidence": "Manufacturer historical page inspected; no cross-version technical transfer",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_wie_gtmf5_coupe.jpg",
+          "caption": "Representative Wiesmann GT MF5 coupe family illustration; supplied title Wiesmann MF5.jpg. Calreyn88, own work, 26 June 2021; Wikimedia Commons. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged. Not authenticated as V10, February 2009 test car, exact build year, chassis or original equipment. No endorsement implied.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "dde69719aaa11aa98e4f492bad953c1510fc0f73bf7fabcd0180c4cc668926d2"
+        }
+      ]
+    }
+  ]
+}

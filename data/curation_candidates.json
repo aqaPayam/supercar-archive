@@ -6156,7 +6156,18 @@
       "duplicate_review": "Complete fresh 947-record identity inventory checked for Panoz, Esperante, GTLM, GTR-1, GTR1 and Avezzano. Only existing Panoz entry is PAN-AIV-ROADSTER-US1998, a different earlier model. Group original Esperante/GT/GTLM road bodies, engines, reference years and later related road development once. No GTS, GTLM racer, GTR-1, LMP, prototype or separate body/upgrade count.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-151.json"
+    },
+    {
+      "manufacturer": "Wiesmann",
+      "model": "GT / MF4 / MF5",
+      "generation": "Original larger-chassis GT and related MF4/MF5 production-road sports family",
+      "proposed_record": "WIE-GTMF5-V10-DRIVE2009",
+      "reason": "The Wiesmann GT MF5 combines a front-mid-mounted BMW M V10 with a focused specialist sports-GT chassis and distinctive retro body. David Vivian’s period firsthand drive documents its driver involvement and chassis capability. It represents Wiesmann’s flagship performance-coupe programme, beyond rarity alone. Group the related MF4/MF5 road bodies and engine versions once; the earlier MF3 roadster is a different programme.",
+      "evidence": "https://www.evo.co.uk/carreviews/evocarreviews/233253/wiesmann_gt_mf5.html",
+      "duplicate_review": "Complete fresh 948-record identity inventory checked for Wiesmann, MF3, MF4 and MF5. Only hit is WIE-MF3-S54-ROAD-HERITAGE, the earlier six-cylinder roadster. Manufacturer MF4 history explicitly identifies a longer-wheelbase new-chassis programme versus MF3; period MF5 drive describes its MF4 development. Group related MF4/MF5 road engines, bodies, years and upgrades once. No MF4-CS racer, prototype, modern project or separately counted roadster.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-152.json"
     }
   ],
-  "catalogue_count_after_batches": 948
+  "catalogue_count_after_batches": 949
 }
