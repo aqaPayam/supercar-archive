@@ -6101,7 +6101,18 @@
       "duplicate_review": "Complete fresh 942-record identity inventory checked for Apollo, Vetta, Ventura, International Motor and Intermeccanica. Two hits: unrelated modern Gumpert Apollo and later Griffith/Omega/Torino/Italia family. No original Apollo GT present. Group Apollo 3500/5000, Vetta Ventura, road bodies, engines and producer stages once; no GT.L or mid-engine prototype, racing addition or separately counted reference year.",
       "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-146.json"
+    },
+    {
+      "manufacturer": "Pegaso / ENASA",
+      "model": "Z-102",
+      "generation": "Original Z-102 production-road sporting-GT family",
+      "proposed_record": "PEG-Z102-TOURING-AUDRAIN1952",
+      "reason": "The Pegaso Z-102 represents an ambitious Spanish sporting-GT engineering programme: a quad-cam V8 with dry-sump lubrication, a rear-mounted five-speed transmission and lightweight Touring coachwork. This combination gives the road family a distinctive place in early post-war performance-car history. Count the original Z-102 road family once, without multiplying coachbuilders, engines or chassis.",
+      "evidence": "https://www.audrainautomuseum.org/1952-pegaso-z102-series-ii-touring-coupe",
+      "duplicate_review": "Complete fresh 943-record identity inventory checked for Pegaso, Z-102, Z102, Z 102 and ENASA; no hits. Group original Z-102 road engines, bodies and chassis once. No Z-103, Cupula show-car, competition or speed-record derivative, replica or modern Ricart revival admitted.",
+      "remaining": "None for this selected historical road-car reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-147.json"
     }
   ],
-  "catalogue_count_after_batches": 943
+  "catalogue_count_after_batches": 944
 }
