@@ -1,0 +1,431 @@
+{
+  "batch": "icons-road-2026-10-29-60",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "MER-450SEL-69-W116-1975",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "S-Class",
+      "generation": "W116 production-road performance-saloon generation",
+      "variant": "450 SEL 6.9 — original 1975 European reference",
+      "model_year_from": 1975,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Mercedes-Benz Classic press information dated 21 April 2020, pages 1–2, identifies the spring/May 1975 W116 450 SEL 6.9 introduction and original 210-kW reference. Native 6834 cc, 550 Nm at 3000 rpm and three-speed automatic are retained. This is not the earlier W109 300 SEL 6.3 or a US-catalyst tune. The source sentence about unchanged displacement before describing the enlarged bore is internally awkward; no bore or comparison is imported. Acceleration, mass, current valuation and universal best-car claims are omitted. One absent W116 generation is counted.",
+      "summary": "The W116 450 SEL 6.9 is a landmark high-performance luxury saloon: its large M100 V8 combines dry-sump lubrication with hydropneumatic self-levelling suspension. This exceptional powertrain and chassis package carries forward the performance-saloon tradition of the earlier W109 6.3 in a distinct S-Class generation.",
+      "admission_reason": "The W116 450 SEL 6.9 is a landmark high-performance luxury saloon: its large M100 V8 combines dry-sump lubrication with hydropneumatic self-levelling suspension. This exceptional powertrain and chassis package carries forward the performance-saloon tradition of the earlier W109 6.3 in a distinct S-Class generation.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Classic / Mercedes-Benz Museum",
+          "title": "Top class: Mercedes-Benz 450 SEL 6.9 made its debut 45 years ago — 21 April 2020, pages 1–2",
+          "source_type": "Manufacturer historical press release, club-hosted facsimile",
+          "url": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2020/04/W116_6.9_45ans.pdf",
+          "notes": "Mercedes-Benz Classic press information dated 21 April 2020, pages 1–2, identifies the spring/May 1975 W116 450 SEL 6.9 introduction and original 210-kW reference. Native 6834 cc, 550 Nm at 3000 rpm and three-speed automatic are retained. This is not the earlier W109 300 SEL 6.3 or a US-catalyst tune. The source sentence about unchanged displacement before describing the enlarged bore is internally awkward; no bore or comparison is imported. Acceleration, mass, current valuation and universal best-car claims are omitted. One absent W116 generation is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz 450 SEL 6.9 (5430759121).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_450_SEL_6.9_(5430759121).jpg",
+          "notes": "nakhon100; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Mercedes-Benz 450 SEL 6.9. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M100 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6834",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "210",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "550",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed automatic, adapted for the 6.9",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry-sump lubrication; twelve-litre oil quantity",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Hydropneumatic suspension with level control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear-axle ratio",
+          "value": "2.65:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W116 450 SEL 6.9 is a landmark high-performance luxury saloon: its large M100 V8 combines dry-sump lubrication with hydropneumatic self-levelling suspension. This exceptional powertrain and chassis package carries forward the performance-saloon tradition of the earlier W109 6.3 in a distinct S-Class generation.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_450sel_69_w116_1975.jpg",
+          "caption": "Mercedes-Benz 450 SEL 6.9 photographed by nakhon100. This representative W116 road saloon does not certify a 1975 build date, original European engine tune, roof-option originality or unchanged mechanical condition.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "016fa4c32deacb4bf904e6135c4de4c3c26b6c19bf02f9cfbaeebf17fa9738fc"
+        }
+      ]
+    },
+    {
+      "id": "LOT-ELAN-M100-SE-1989",
+      "manufacturer": "Lotus",
+      "model_family": "Elan",
+      "generation": "M100 production-road front-wheel-drive sports-car generation",
+      "variant": "Original Elan SE — 1989 UK/European introduction reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original Lotus Elan technical supplement, PDF page 3: read the Elan SE column, not the naturally aspirated Elan column. Native 123 kW / 165 bhp DIN 70020 and 200 Nm are specified for this initial turbo SE. The facsimile is undated; 1989 denotes the introduction dated by Lotus heritage, not a claimed brochure print date. US 162-hp equipment, catalyst specification, later S2, base-model 97 kW / 142 Nm and generic heritage mass/power are not transferred. One M100 generation is counted, distinct from the archived Type 26 Elan.",
+      "summary": "The M100 Elan is Lotus’s landmark front-wheel-drive sports-car programme, combining a transverse turbocharged engine with a dedicated open sports-car chassis. It represents a substantial and distinctive engineering direction in Lotus road-car history, separate from the original rear-drive Type 26 Elan; its commercial disappointment does not erase that significance.",
+      "admission_reason": "The M100 Elan is Lotus’s landmark front-wheel-drive sports-car programme, combining a transverse turbocharged engine with a dedicated open sports-car chassis. It represents a substantial and distinctive engineering direction in Lotus road-car history, separate from the original rear-drive Type 26 Elan; its commercial disappointment does not erase that significance.",
+      "sources": [
+        {
+          "publisher": "Lotus Cars / ElanM100-hosted original supplement",
+          "title": "Lotus Elan technical supplement — original SE powertrain table, PDF page 3",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://elanm100.com/wp-content/uploads/2012/11/supliment.pdf",
+          "notes": "Original Lotus Elan technical supplement, PDF page 3: read the Elan SE column, not the naturally aspirated Elan column. Native 123 kW / 165 bhp DIN 70020 and 200 Nm are specified for this initial turbo SE. The facsimile is undated; 1989 denotes the introduction dated by Lotus heritage, not a claimed brochure print date. US 162-hp equipment, catalyst specification, later S2, base-model 97 kW / 142 Nm and generic heritage mass/power are not transferred. One M100 generation is counted, distinct from the archived Type 26 Elan."
+        },
+        {
+          "publisher": "Lotus Cars",
+          "title": "Lotus Elan (Type 100) — manufacturer road-car heritage",
+          "source_type": "Manufacturer historical account",
+          "url": "https://media.lotuscars.com/en/heritage-road-cars/lotus-elan-%28type-100%29.html",
+          "notes": "Manufacturer dates sale to 1989 and explains front-drive programme, Isuzu powertrain, Peter Stevens design and commercial disappointment. Its generic 130-bhp/996-kg table is not adopted for the turbo SE."
+        },
+        {
+          "publisher": "Car and Driver / William Jeanes",
+          "title": "1991 Lotus Elan — contemporary March 1991 road test, archive republication",
+          "source_type": "Contemporary first-hand road test, archive republication",
+          "url": "https://www.caranddriver.com/reviews/a46317027/1991-lotus-elan-archive-test/",
+          "notes": "First-hand US driving describes chassis poise, steering and ride, while criticising price and exclusivity. US 162-hp tune, dimensions, tyres, weight and measured performance are not transferred to the selected early UK/European SE."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1990 Lotus Elan SE.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1990_Lotus_Elan_SE.jpg",
+          "notes": "NZ Car Freak; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/64583732@N04/49815990396/. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1588",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16-valve aluminium cylinder head; iron block",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged and intercooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transversely mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic multipoint fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "123",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "200",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "SE final-drive ratio",
+          "value": "3.833:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The M100 Elan is Lotus’s landmark front-wheel-drive sports-car programme, combining a transverse turbocharged engine with a dedicated open sports-car chassis. It represents a substantial and distinctive engineering direction in Lotus road-car history, separate from the original rear-drive Type 26 Elan; its commercial disappointment does not erase that significance.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_elan_m100_se_1989.jpg",
+          "caption": "1990 Lotus Elan SE photographed by NZCarFreak. This representative M100 roadster illustrates the selected early SE body; it does not certify a 1989 build date, UK/European market specification, catalyst equipment, engine tune or unchanged mechanical condition.",
+          "creator": "NZ Car Freak",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "5a53fc7ba0bcc2305a02b888c88099b7d8bc508cc722bfc484e8982ed21584b0"
+        }
+      ]
+    },
+    {
+      "id": "DET-VALLELUNGA-ROAD-1965",
+      "manufacturer": "De Tomaso",
+      "model_family": "Vallelunga",
+      "generation": "Original production-road mid-engined Vallelunga coupe family",
+      "variant": "Ford four-cylinder production road coupe — 1965 reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door mid-engined road coupe",
+      "road_legal": 1,
+      "specification_market": "Read manufacturer Vallelunga history and specification table. Its 1963–1968 heading covers the programme and 1963 Turin concept, not proof of 1963 production-road delivery. A separately read Bonhams catalogue history dates the first road car to 1965; that year is used as the road reference. The factory story says 104 bhp while its table says 100 hp: numerical power is omitted rather than silently harmonised. No dry-mass basis or tentative production total is imported. The P70 catalogue vehicle is a different sports racer; none of its V8/race specifications are transferred.",
+      "summary": "De Tomaso’s first road-car programme established an important mid-engined sports-car lineage. The Vallelunga combined a light fibreglass body with a backbone chassis, rear tubular subframe and structurally integrated engine, providing an engineering foundation for later De Tomaso projects including the Mangusta.",
+      "admission_reason": "De Tomaso’s first road-car programme established an important mid-engined sports-car lineage. The Vallelunga combined a light fibreglass body with a backbone chassis, rear tubular subframe and structurally integrated engine, providing an engineering foundation for later De Tomaso projects including the Mangusta.",
+      "sources": [
+        {
+          "publisher": "De Tomaso Automobili",
+          "title": "Vallelunga — manufacturer legacy history and specification table",
+          "source_type": "Manufacturer legacy model history and specifications",
+          "url": "https://www.detomaso-automobili.com/legacy-models/vallelunga",
+          "notes": "Read manufacturer Vallelunga history and specification table. Its 1963–1968 heading covers the programme and 1963 Turin concept, not proof of 1963 production-road delivery. A separately read Bonhams catalogue history dates the first road car to 1965; that year is used as the road reference. The factory story says 104 bhp while its table says 100 hp: numerical power is omitted rather than silently harmonised. No dry-mass basis or tentative production total is imported. The P70 catalogue vehicle is a different sports racer; none of its V8/race specifications are transferred."
+        },
+        {
+          "publisher": "Bonhams",
+          "title": "2019 auction catalogue, P70 historical background — printed page 60 / PDF page 212",
+          "source_type": "Auction catalogue historical context",
+          "url": "https://images1.bonhams.com/original?src=Images%2Flive%2F2019-07%2F29%2FS-25221-0-7.pdf",
+          "notes": "Historical paragraph dates De Tomaso’s first road car, Vallelunga, to 1965. This is contextual year evidence, not a Vallelunga chassis/build-date certificate. The auction entry itself is a 1965 P70 Can-Am sports racer: its engine, power, gearbox and competition details are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 De Tomaso Valleunga.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_De_Tomaso_Valleunga.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Volkswagen / Hewland four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Fibreglass",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Pressed-steel backbone with rear tubular subframe; engine used structurally",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "De Tomaso’s first road-car programme established an important mid-engined sports-car lineage. The Vallelunga combined a light fibreglass body with a backbone chassis, rear tubular subframe and structurally integrated engine, providing an engineering foundation for later De Tomaso projects including the Mangusta.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_det_vallelunga_road_1965.jpg",
+          "caption": "De Tomaso Vallelunga road coupe photographed by Calreyn88 and identified in the source title as a 1965 car. This representative production-style body does not certify its chassis identity, build date, standard wheels, engine tune or unchanged mechanical condition.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fcd248e1301ff46d2a467e3a476c6d860f91bf65763c913fa521410a5dfb3c18"
+        }
+      ]
+    }
+  ]
+}

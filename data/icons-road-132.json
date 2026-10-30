@@ -1,0 +1,251 @@
+{
+  "batch": "icons-road-2026-10-30-132",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "LIG-JS2-27-FR1972",
+      "manufacturer": "Ligier",
+      "model_family": "JS2",
+      "generation": "Original 1970s JS2 production-road GT family",
+      "variant": "Early 2.7-litre road coupe — French factory brochure, 1972 reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door mid-engine GT coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1970s Ligier JS2 production-road GT family, selected early French 2.7-litre brochure specification with 1972 reference year. Four-page Automobiles Ligier brochure is undated in its printed text: host filename calls it 1971 and cover bears a 1972 annotation; no exact publication or launch date inferred. Manufacturer history places the effective production debut in 1972. Group 2.7/3.0/Merak SS road engines, body updates, years, equipment and chassis once. JS1/JS3 prototypes, racing JS2s and the 2018 JS2 R are not selected or additionally counted. All 23 technical attributes map to this early road brochure. Preserve its 2670 cc and 170 CV DIN at 5500 rpm rather than substituting other catalogues' displacement or later output. No exact engine-code suffix, carburettor brand, chassis metal skin, weight basis, maximum speed, measured acceleration, production total, later 195/220-hp or competition 270/330-hp/DFV figures are imported.",
+      "summary": "The original Ligier JS2 embodied Guy Ligier and Michel Têtu's French mid-engine GT project, combining a Maserati-powered road coupe with practical cabin and luggage packaging. Its engineering and competition lineage, including the racing programme's 1974 Tour de France Automobile victory, give it a lasting place in French sports-car history. Count the original road family once; rarity alone and racing specifications are not the basis for adding extra versions.",
+      "admission_reason": "The original Ligier JS2 embodied Guy Ligier and Michel Têtu's French mid-engine GT project, combining a Maserati-powered road coupe with practical cabin and luggage packaging. Its engineering and competition lineage, including the racing programme's 1974 Tour de France Automobile victory, give it a lasting place in French sports-car history. Count the original road family once; rarity alone and racing specifications are not the basis for adding extra versions.",
+      "sources": [
+        {
+          "publisher": "Automobiles Ligier; brochure facsimile preserved by Guide Autosport",
+          "title": "JS2 — early French 2.7-litre road brochure, four pages, technical panel at PDF index 2",
+          "source_type": "Original manufacturer road-sales brochure facsimile",
+          "url": "https://www.guide-autosport.com/wp-content/uploads/2019/01/Ligier-JS2-1971-Catalogue-France.pdf",
+          "notes": "Downloaded four-page image-only PDF; all four pages individually rendered and inspected. Cover JS2/Ligier and back-cover Automobiles Ligier Abrest-Vichy imprint establish manufacturer origin. Filename says 1971, cover annotation 1972, printed publication date not established. All 23 attributes map to technical panel index 2; dimensions convert stated metres to mm. It explicitly describes a two-seat mid-engine grand routiere derived from JS1, not a competition-only JS1. Retain 2670 cc/170 CV DIN/23.5 mkg labels. No carburettor brand, exact engine-code suffix, inferred chassis-metal skin, 850-kg weight basis, claimed maximum speed or later/racing values imported."
+        },
+        {
+          "publisher": "Ligier Automotive",
+          "title": "The Ligier JS2s starred in the 1973 and 1974 Tour de France automobile — 4 May 2022",
+          "source_type": "Original manufacturer programme history with engineer testimony",
+          "url": "https://ligierautomotive.com/en/news/the-ligier-js2s-starred-in-the-1973-and-1974-tour-de-france-automobile/",
+          "notes": "Complete relevant article body read. Places true debut in 1972, explains insufficient road production for GT-class homologation and distinguishes the resulting prototype-class race programme. Supports 1974 Tour de France racing one-two after substantial aerodynamic/mechanical development, not a stock road result. Earlier failures and sales limitations retained. Article contains inconsistent race-number details; none imported. No 1973 stage totals, 1975 chassis number, general engine-production chronology, race tuning or modern JS2 R specification transferred to the selected road car."
+        },
+        {
+          "publisher": "Classic Courses; Olivier Rogar interviewing Michel Têtu",
+          "title": "Michel Têtu 1/2 — Les inédits de Pilote et Gentleman, 1 January 2022, Ligier section",
+          "source_type": "Original interview with the car's engineering designer",
+          "url": "https://www.classiccourses.fr/michel-tetu-ou-lart-de-lingenieur/",
+          "notes": "Introduction and complete relevant Ligier interview section read; not an audit of the entire career article or second instalment. Têtu explains JS2 road accommodation, increased wheelbase/interior height and road/race chassis distinction: competition aluminium sandwich skins replaced production steel. No inferred chassis metal is added to the selected brochure's generic sandwich description. Gearbox development chronology is contextual and supplies no selected ratio or year-specific specification. JS1/JS3 and racing engine/chassis details remain separate."
+        },
+        {
+          "publisher": "Classic Driver",
+          "title": "Guy Ligier's legacy lives on with the Maserati-powered JS2",
+          "source_type": "Original retrospective road-car visit and historical feature",
+          "url": "https://www.classicdriver.com/en/article/cars/guy-ligiers-legacy-lives-maserati-powered-js2",
+          "notes": "Complete relevant feature body read, including original visit to a final-iteration 1975 road example. Supports French GT heritage, practical packaging and racing context; not a contemporary test or numerical authority for the early brochure. Production totals explicitly vary, so none imported. Race engine problems and later DFV Le Mans result do not describe standard road reliability or engine. Retrofitted Maserati badge, dealer equipment and later body/wheels do not establish original early specification. No sale price or investment recommendation imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ligier JS2 vl red.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ligier_JS2_vl_red.jpg",
+          "notes": "Stahlkocher uploaded the sole image revision on 29 November 2006 with original description Source: own image. Current page lacks machine-readable author, so attribution uses that documented own-image uploader; capture date is not established. File history, original revision text, current summary/licensing and API metadata read. CC BY-SA 3.0 Unported via GFDL migration, http://creativecommons.org/licenses/by-sa/3.0/ . Downloaded 1280-pixel JPEG rendition individually inspected and copied unchanged. Red early covered-headlamp road coupe in Technik Museum Speyer category; no authentication of 1972 build, 2.7-litre engine, gearbox, equipment or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Maserati 90-degree V6, double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Brochure displacement",
+          "value": "2670",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Light alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory road output",
+          "value": "170 CV DIN at 5500 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "23.5 mkg at 4000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Carburettors",
+          "value": "Three twin-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Engine position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Citroen SM five-speed, synchronised",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Central sandwich backbone with front and rear tubular extensions",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Wheel arrangement",
+          "value": "Independent at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "System",
+          "value": "Girling assisted discs at all four wheels, dual circuit",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Material",
+          "value": "Synthetic-resin laminate reinforced with glass fibre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory fitment",
+          "value": "6.5 x 14 aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Factory fitment",
+          "value": "Michelin 195/70 VR14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Length",
+          "value": "4250",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Width",
+          "value": "1720",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Height",
+          "value": "1150",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Wheelbase",
+          "value": "2350",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Ground clearance",
+          "value": "140",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Front / rear track",
+          "value": "1410 / 1410",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seating capacity",
+          "value": "2",
+          "unit": "persons",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Ligier JS2 embodied Guy Ligier and Michel Têtu's French mid-engine GT project, combining a Maserati-powered road coupe with practical cabin and luggage packaging. Its engineering and competition lineage, including the racing programme's 1974 Tour de France Automobile victory, give it a lasting place in French sports-car history. Count the original road family once; rarity alone and racing specifications are not the basis for adding extra versions.",
+          "category": "French mid-engine GT and endurance-racing heritage",
+          "confidence": "Original manufacturer road brochure, designer testimony and independent road-car feature",
+          "source": 3
+        },
+        {
+          "title": "A racing one-two explains the road family's heritage",
+          "explanation": "After major racing development, Ligier JS2s finished first and second in the 1974 Tour de France Automobile. This belongs to the competition programme and explains the production GT's heritage; it is not a claim that the early 2.7-litre road car used the winning racers' engine, lightweight chassis or aerodynamics.",
+          "category": "Motorsport programme heritage",
+          "confidence": "Original manufacturer history with engineer testimony; road/race scope separated",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ligier_js2_27_fr1972.jpg",
+          "caption": "Early-bodied Ligier JS2 road coupe at a museum, credited to Stahlkocher from the sole 29 November 2006 upload marked own image. Capture date is not established. Individually inspected front-side view shows the red coupe and four lamps under clear covers. Representative road body, not authentication of year, 2.7-litre engine, gearbox, original equipment or condition. CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Stahlkocher",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "b375114725cab34ebbe0f1daabc159de41533dd241d396251fe219cf88609f17"
+        }
+      ]
+    }
+  ]
+}

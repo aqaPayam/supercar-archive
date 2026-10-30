@@ -1,0 +1,306 @@
+{
+  "batch": "icons-road-2026-10-30-96",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "JAG-XJ12-S1-FACTORY1972",
+      "manufacturer": "Jaguar",
+      "model_family": "XJ",
+      "generation": "Original classic Series 1/2/3 XJ production-road sporting-saloon family",
+      "variant": "Series 1 XJ12, 9:1 carburetted V12 automatic — September 1972 English factory reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original Series 1 XJ12, 1972 English-language Jaguar factory brochure reference, 9:1 carburetted specification. Actual PDF index 9 specification page, print footer 9/72, supplies 5343 cc sixty-degree V12, one overhead camshaft per bank, four carburetters, 309 bhp gross at 6250 rpm and 332 lb-ft gross at 4000 rpm. Gross ratings are explicit and remain gross; no modern net output, inferred kW/Nm conversion, later fuel injection or HE calibration is substituted. Borg-Warner automatic with torque converter is specified; an unprinted model number or gear count is not inferred. The brochure warns that specifications vary by country, so this is its printed reference rather than a claim that every 1972 export car had this tune. Later long-wheelbase/Series 2/Series 3, Daimler trim, E-type V12 and Broadspeed race-car fields are not copied.",
+      "summary": "The XJ12 brought Jaguar’s 5.3-litre V12 into the classic XJ sports saloon, combining a twelve-cylinder performance engine with independent suspension and four-wheel disc brakes. It is a landmark of Jaguar’s fast, refined four-door tradition. Count the classic Series 1/2/3 XJ sporting-road family once across XJ6/XJ12, Daimler Sovereign/Double Six, bodies, wheelbases and years; no trim or later engine tune adds an extra entry.",
+      "admission_reason": "The XJ12 brought Jaguar’s 5.3-litre V12 into the classic XJ sports saloon, combining a twelve-cylinder performance engine with independent suspension and four-wheel disc brakes. It is a landmark of Jaguar’s fast, refined four-door tradition. Count the classic Series 1/2/3 XJ sporting-road family once across XJ6/XJ12, Daimler Sovereign/Double Six, bodies, wheelbases and years; no trim or later engine tune adds an extra entry.",
+      "sources": [
+        {
+          "publisher": "Jaguar Cars / British Leyland UK; Jaguar Club Russia facsimile",
+          "title": "Jaguar XJ12 — original English factory brochure, September 1972 specification page",
+          "source_type": "Original manufacturer brochure, hosted scan",
+          "url": "https://jaguarclubrussia.com/images/katalog/1960/JaguarXJSeries1/docXJSeries1/1972-Jaguar-XJ12.PDF",
+          "notes": "Original Series 1 XJ12, 1972 English-language Jaguar factory brochure reference, 9:1 carburetted specification. Actual PDF index 9 specification page, print footer 9/72, supplies 5343 cc sixty-degree V12, one overhead camshaft per bank, four carburetters, 309 bhp gross at 6250 rpm and 332 lb-ft gross at 4000 rpm. Gross ratings are explicit and remain gross; no modern net output, inferred kW/Nm conversion, later fuel injection or HE calibration is substituted. Borg-Warner automatic with torque converter is specified; an unprinted model number or gear count is not inferred. The brochure warns that specifications vary by country, so this is its printed reference rather than a claim that every 1972 export car had this tune. Later long-wheelbase/Series 2/Series 3, Daimler trim, E-type V12 and Broadspeed race-car fields are not copied."
+        },
+        {
+          "publisher": "Jaguar Land Rover",
+          "title": "The XJ Series 1 and 2 and the XJ-S — original-family history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.jaguar.com/en-au/jdx/news/2024/october/xj-series.html",
+          "notes": "Actual manufacturer history read for the classic XJ engineering lineage and 1972 V12 introduction. Its modern power/speed summary does not overwrite the brochure’s explicitly gross rating. No universal fastest-saloon assertion, later XJC race specification or unrelated XJ-S field is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jaguar XJ12 Reg November 1972 5343cc.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jaguar_XJ12_Reg_November_1972_5343cc.jpg",
+          "notes": "Charles01; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5343",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four carburetters",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Borg-Warner automatic with torque converter; exact model not asserted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per cylinder bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Transistorised ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Fully independent front and rear suspension on rubber-mounted subframes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted four-wheel discs; front ventilated/outboard, rear inboard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Integral all-steel four-door body construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (gross)",
+          "value": "309",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (gross)",
+          "value": "332",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear-axle ratio",
+          "value": "3.31:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The XJ12 brought Jaguar’s 5.3-litre V12 into the classic XJ sports saloon, combining a twelve-cylinder performance engine with independent suspension and four-wheel disc brakes. It is a landmark of Jaguar’s fast, refined four-door tradition. Count the classic Series 1/2/3 XJ sporting-road family once across XJ6/XJ12, Daimler Sovereign/Double Six, bodies, wheelbases and years; no trim or later engine tune adds an extra entry.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xj12_s1_factory1972.jpg",
+          "caption": "Early Series 1 XJ12 photographed by Charles01 in Hertfordshire in August 2011; the source title identifies November 1972 registration. Representative classic road-saloon body. The photograph does not certify original 9:1 compression, carburettor calibration, automatic gearbox, fitted equipment or unmodified condition.",
+          "creator": "Charles01",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1e03bdfc7ea99d0f73d1d9efd7483f0788306f044e1c77dc4dd8e401d2e90182"
+        }
+      ]
+    },
+    {
+      "id": "JAG-XJR-X300-EU1995-AT",
+      "manufacturer": "Jaguar",
+      "model_family": "XJ",
+      "generation": "XJ40-derived X300/X308 production-road sporting-saloon lineage",
+      "variant": "X300 XJR AJ16 supercharged, optional GM four-speed automatic — 1995 European technical-guide reference",
+      "model_year_from": 1995,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "1995 model-year X300 XJR 4.0 supercharged catalyst engine, selected European optional GM 4L80E four-speed automatic. Actual Jaguar August 1994 technical introduction JJM 10 15 12/50 supplies model/market availability and selected engine/transmission details. The 4.0 SC column gives 3980 cc, DOHC inline six/four valves per cylinder, 91 × 102 mm, 8.5:1, 240 kW DIN at 5000 rpm and 512 Nm DIN at 3050 rpm. The same table prints 326 PS and 321.8 BHP, which are different units; native kW/Nm are retained without recomputing or calling 326 mechanical bhp. Eaton M90 with belt drive and an air-to-liquid intake-manifold intercooler are explicit. The guide says the Getrag five-speed is standard in Europe and the selected GM automatic optional there; it is not labelled universally standard. The 2013 retrospective’s different power-unit wording is not technical authority. Normally aspirated 3.2/4.0, X300 6.0 V12, later X308 V8, pre-production Thrust fire-car modifications and XJR-15 race data are excluded.",
+      "summary": "The X300 XJR introduced supercharging to Jaguar’s R saloons. Its AJ16 straight-six paired an Eaton blower and liquid-cooled charge-air system with a production four-door body, establishing a defining strand of later Jaguar performance cars. Count this absent XJ40-derived X300/X308 sporting-saloon lineage once for now; naturally aspirated Sport trim, six-/eight-/twelve-cylinder variants, Daimler badges, transmissions and subsequent years do not add separate counts.",
+      "admission_reason": "The X300 XJR introduced supercharging to Jaguar’s R saloons. Its AJ16 straight-six paired an Eaton blower and liquid-cooled charge-air system with a production four-door body, establishing a defining strand of later Jaguar performance cars. Count this absent XJ40-derived X300/X308 sporting-saloon lineage once for now; naturally aspirated Sport trim, six-/eight-/twelve-cylinder variants, Daimler badges, transmissions and subsequent years do not add separate counts.",
+      "sources": [
+        {
+          "publisher": "Jaguar Cars Limited / Jaguar Club Russia facsimile",
+          "title": "XJ6 & XJ12 Range 1995 Model Year Technical Introduction — August 1994, JJM 10 15 12/50",
+          "source_type": "Original manufacturer technical introduction, hosted scan",
+          "url": "https://jaguarclubrussia.com/images/katalog/1990/JaguarXJX300/docJaguarXJX300/Jaguar-XJ-X300-.pdf",
+          "notes": "1995 model-year X300 XJR 4.0 supercharged catalyst engine, selected European optional GM 4L80E four-speed automatic. Actual Jaguar August 1994 technical introduction JJM 10 15 12/50 supplies model/market availability and selected engine/transmission details. The 4.0 SC column gives 3980 cc, DOHC inline six/four valves per cylinder, 91 × 102 mm, 8.5:1, 240 kW DIN at 5000 rpm and 512 Nm DIN at 3050 rpm. The same table prints 326 PS and 321.8 BHP, which are different units; native kW/Nm are retained without recomputing or calling 326 mechanical bhp. Eaton M90 with belt drive and an air-to-liquid intake-manifold intercooler are explicit. The guide says the Getrag five-speed is standard in Europe and the selected GM automatic optional there; it is not labelled universally standard. The 2013 retrospective’s different power-unit wording is not technical authority. Normally aspirated 3.2/4.0, X300 6.0 V12, later X308 V8, pre-production Thrust fire-car modifications and XJR-15 race data are excluded."
+        },
+        {
+          "publisher": "Jaguar Land Rover",
+          "title": "25 Years of Jaguar R Performance Cars — X300 historical assessment",
+          "source_type": "Manufacturer performance-car history",
+          "url": "https://media.jlr.com/jaguar/news/2013/03/25-years-jaguar-r-performance-cars",
+          "notes": "Actual manufacturer history read for the first supercharged R saloon and its performance significance. Retrospective power-unit wording and embedded press quotations are not substituted for the contemporary factory DIN engine table; no later X308/X350/X351 data is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1996 Jaguar XJR Auto.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1996_Jaguar_XJR_Auto.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "AJ16 inline six-cylinder, DOHC, four valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3980",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "GM 4L80E four-speed automatic — selected European option",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Belt-driven Eaton M90 supercharger with air-to-liquid intake-manifold intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (DIN)",
+          "value": "240",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (DIN)",
+          "value": "512",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3050",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "91 × 102",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The X300 XJR introduced supercharging to Jaguar’s R saloons. Its AJ16 straight-six paired an Eaton blower and liquid-cooled charge-air system with a production four-door body, establishing a defining strand of later Jaguar performance cars. Count this absent XJ40-derived X300/X308 sporting-saloon lineage once for now; naturally aspirated Sport trim, six-/eight-/twelve-cylinder variants, Daimler badges, transmissions and subsequent years do not add separate counts.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xjr_x300_eu1995_at.jpg",
+          "caption": "X300 XJR road saloon photographed by Calreyn88; the source labels this individual car 1996 XJR Auto. Representative body and automatic-era grade for the selected 1995 technical reference, with a visible XJR rear badge. Exact model year, gearbox identity, original output, equipment and mechanical condition are not authenticated by the image.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8d0f41b5105147963a248d8791606ba33395890cafa4dead064e2ef0c90e8c50"
+        }
+      ]
+    }
+  ]
+}

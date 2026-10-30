@@ -1,0 +1,438 @@
+{
+  "batch": "icons-road-2026-10-29-63",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "SUZ-SWIFTSPORT-ZC31S-JP-HERITAGE",
+      "manufacturer": "Suzuki",
+      "model_family": "Swift Sport",
+      "generation": "ZC31S modern global Swift Sport production-road generation",
+      "variant": "M16A five-door — Japan heritage reference for the 2005 programme",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Read the digital archive’s 2005 ZC31S section only. Native net 92 kW / 125 PS is retained. The year identifies the programme, not a dated individual build or brochure. Gearbox is unspecified: the retrospective describes both five-speed manual and four-speed automatic family versions. No weight, torque, European three-door/17-inch equipment, older HT-series Swift or later generation is transferred.",
+      "summary": "The ZC31S established the modern Swift Sport as an engaging junior hot hatch. Contemporary driving praised its eager naturally aspirated engine, responsive chassis and accessible B-road enjoyment, giving this generation a lasting sporting identity beyond the ordinary Swift range.",
+      "admission_reason": "The ZC31S established the modern Swift Sport as an engaging junior hot hatch. Contemporary driving praised its eager naturally aspirated engine, responsive chassis and accessible B-road enjoyment, giving this generation a lasting sporting identity beyond the ordinary Swift range.",
+      "sources": [
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "Suzuki Digital Library — Swift Sport, 2005 ZC31S section",
+          "source_type": "Manufacturer historical model specifications",
+          "url": "https://www.suzuki.co.jp/suzuki_digital_library/1_auto/swiftsports.html",
+          "notes": "Read the digital archive’s 2005 ZC31S section only. Native net 92 kW / 125 PS is retained. The year identifies the programme, not a dated individual build or brochure. Gearbox is unspecified: the retrospective describes both five-speed manual and four-speed automatic family versions. No weight, torque, European three-door/17-inch equipment, older HT-series Swift or later generation is transferred."
+        },
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "Paris International Motor Show 2006 — Swift Sport European specification",
+          "source_type": "Period manufacturer announcement",
+          "url": "https://www.globalsuzuki.com/globalnews/2006/0811.html",
+          "notes": "Confirms Japan sales from September 2005 and the later European three-door/Hungarian-built model. The separate Project Splash concept’s specification table is not Swift Sport data."
+        },
+        {
+          "publisher": "Car Enthusiast / Dave Jenkins",
+          "title": "Sport tag suits new junior hot hatch — 13 December 2006 UK road test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.carenthusiast.com/reviews/article/1650/-/2007-Suzuki-Swift/Road%2Btest%2B-%2BMk1%2BSport.html",
+          "notes": "First-hand driving supports the generation’s responsive engine and chassis, with limited steering feel and motorway refinement criticism. UK tyres, gearbox, output notation and measured figures are not transferred to the Japanese heritage reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Suzuki SWIFT SPORT (ZC31S) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Suzuki_SWIFT_SPORT_(ZC31S)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M16A inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1586",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16 valves, VVT",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "92",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Piston-cooling oil jets and water-cooled oil cooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Pistons",
+          "value": "High-strength forged pistons",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory alloy-wheel diameter",
+          "value": "16",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The ZC31S established the modern Swift Sport as an engaging junior hot hatch. Contemporary driving praised its eager naturally aspirated engine, responsive chassis and accessible B-road enjoyment, giving this generation a lasting sporting identity beyond the ordinary Swift range.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_suz_swiftsport_zc31s_jp_heritage.jpg",
+          "caption": "Suzuki Swift Sport ZC31S photographed by Tokumeigakarinoaoshima. This representative Japanese five-door road body does not establish a 2005 build, particular gearbox, original engine tune or unchanged mechanical condition.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "5e2ac22d5c26d12be703e7d2457e5ebe8c70a3b5914749be1e812be04d5afd66"
+        }
+      ]
+    },
+    {
+      "id": "SUZ-SWIFTSPORT-ZC32S-JP2011-6MT",
+      "manufacturer": "Suzuki",
+      "model_family": "Swift Sport",
+      "generation": "ZC32S second modern global Swift Sport production-road generation",
+      "variant": "M16A six-speed manual — 2011 Japan production-road reference",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Read the 2011 ZC32S archive section and six-speed-manual column, not CVT. Final Japanese production announcement confirms 100 kW, superseding the August show release’s provisional status. No CVT equipment or unverified mass basis is imported; intake/exhaust VVT scope is not inferred from the abbreviated heritage table. One full model generation is counted.",
+      "summary": "The ZC32S carried the lightweight, naturally aspirated hot-hatch recipe into a new Swift generation with a six-speed manual and revised chassis. Contemporary driving valued its agility and high-rev engagement as a modern expression of the classic small hot hatch, rather than judging it only by headline power.",
+      "admission_reason": "The ZC32S carried the lightweight, naturally aspirated hot-hatch recipe into a new Swift generation with a six-speed manual and revised chassis. Contemporary driving valued its agility and high-rev engagement as a modern expression of the classic small hot hatch, rather than judging it only by headline power.",
+      "sources": [
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "Suzuki Digital Library — Swift Sport, 2011 ZC32S manual section",
+          "source_type": "Manufacturer historical model specifications",
+          "url": "https://www.suzuki.co.jp/suzuki_digital_library/1_auto/swiftsports.html",
+          "notes": "Read the 2011 ZC32S archive section and six-speed-manual column, not CVT. Final Japanese production announcement confirms 100 kW, superseding the August show release’s provisional status. No CVT equipment or unverified mass basis is imported; intake/exhaust VVT scope is not inferred from the abbreviated heritage table. One full model generation is counted."
+        },
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "New Swift Sport Japan launch — 28 November 2011",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://www.suzuki.co.jp/release/a/2011/1128/index.html",
+          "notes": "Manual sales begin 13 December 2011; CVT follows separately. Final production release confirms 100 kW and dedicated chassis hardware. No provisional show output, optional discharge headlamps, CVT hill-hold or class-leading superlative is adopted."
+        },
+        {
+          "publisher": "Top Gear / Sam Philip",
+          "title": "Suzuki Swift 1.6 Sport three-door — first drive, 6 January 2012",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.topgear.com/car-reviews/suzuki/swift-hatchback-2010/16-sport-3dr/first-drive-0",
+          "notes": "First-hand European driving supports low-mass, high-rev hot-hatch character while noting limited low-rev performance and cabin plastics. Three-door UK equipment, weight and bhp shorthand are not transferred to the Japan five-door manual reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Suzuki Swift Sport ZC32S.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Suzuki_Swift_Sport_ZC32S.JPG",
+          "notes": "DY5W-sport; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M16A inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1586",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "100",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6900",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts with internal rebound springs; dedicated rear suspension and Monroe dampers",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/45 R17 on dedicated 17-inch alloy wheels",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front and rear disc brakes",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The ZC32S carried the lightweight, naturally aspirated hot-hatch recipe into a new Swift generation with a six-speed manual and revised chassis. Contemporary driving valued its agility and high-rev engagement as a modern expression of the classic small hot hatch, rather than judging it only by headline power.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_suz_swiftsport_zc32s_jp2011_6mt.jpg",
+          "caption": "Suzuki Swift Sport ZC32S photographed by DY5W-sport. This representative Japanese five-door road car has visibly different wheels; they do not illustrate the stated standard tyre/wheel package. The image does not certify a 2011 build, manual gearbox, suspension or unchanged condition.",
+          "creator": "DY5W-sport",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "0173278d64c9795772640d3406b46997367a1597d40f2ea6f66bc443fb4ed5f1"
+        }
+      ]
+    },
+    {
+      "id": "SUZ-SWIFTSPORT-ZC33S-JP2017-6MT",
+      "manufacturer": "Suzuki",
+      "model_family": "Swift Sport",
+      "generation": "ZC33S third modern global Swift Sport production-road generation",
+      "variant": "Original K14C six-speed manual — 2017 Japan heritage reference",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Read the original 2017 Japanese K14C/ZC33S archive section and six-speed-manual column, not six-speed automatic or later K14D mild hybrid. Preserve the Japanese archive’s native 1371 cc; no other-market displacement is silently substituted. Exact mass basis, torque-peak range, foreign safety-equipment fitment and performance claims are withheld. One ZC33S generation is counted.",
+      "summary": "The ZC33S continued Swift Sport’s established entry-level performance lineage with a lighter body and a responsive turbocharged engine. First-hand driving found an accessible, enjoyable quick car, while acknowledging reduced adjustability; this is a substantive new-generation hot hatch, not a cosmetic edition of its predecessor.",
+      "admission_reason": "The ZC33S continued Swift Sport’s established entry-level performance lineage with a lighter body and a responsive turbocharged engine. First-hand driving found an accessible, enjoyable quick car, while acknowledging reduced adjustability; this is a substantive new-generation hot hatch, not a cosmetic edition of its predecessor.",
+      "sources": [
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "Suzuki Digital Library — Swift Sport, 2017 ZC33S manual section",
+          "source_type": "Manufacturer historical model specifications",
+          "url": "https://www.suzuki.co.jp/suzuki_digital_library/1_auto/swiftsports.html",
+          "notes": "Read the original 2017 Japanese K14C/ZC33S archive section and six-speed-manual column, not six-speed automatic or later K14D mild hybrid. Preserve the Japanese archive’s native 1371 cc; no other-market displacement is silently substituted. Exact mass basis, torque-peak range, foreign safety-equipment fitment and performance claims are withheld. One ZC33S generation is counted."
+        },
+        {
+          "publisher": "Goodwood / Ben Miles",
+          "title": "First Drive: 2018 Suzuki Swift Sport — 25 October 2018",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.goodwood.com/grr/road/news/2018/10/first-drive-suzuki-swift-sport/",
+          "notes": "First-hand UK driving supports the established hot-hatch lineage and responsive turbo model, while criticising steering feel, limited adjustability and cabin plastics. UK mass, torque-peak shorthand, price and equipment are not Japanese specifications. Earlier-model PS shorthand is not technical evidence for the 2005 car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Suzuki Swift Sport Boosterjet 1.4.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Suzuki_Swift_Sport_Boosterjet_1.4.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "K14C inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1371",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16 valves, VVT",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "103",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "230",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Lightweight, high-rigidity HEARTECT platform",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The ZC33S continued Swift Sport’s established entry-level performance lineage with a lighter body and a responsive turbocharged engine. First-hand driving found an accessible, enjoyable quick car, while acknowledging reduced adjustability; this is a substantive new-generation hot hatch, not a cosmetic edition of its predecessor.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_suz_swiftsport_zc33s_jp2017_6mt.jpg",
+          "caption": "2018 Suzuki Swift Sport Boosterjet 1.4 photographed in Warwick by Vauxford. This representative European ZC33S road body is distinct from the selected 2017 Japanese reference. It does not certify Japanese displacement, equipment, manual gearbox, build date or unchanged engine tune.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "900499a056c79920e5ae53c31077fd4f79ea5e3011bdacaf966b672a96eb2848"
+        }
+      ]
+    }
+  ]
+}

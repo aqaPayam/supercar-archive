@@ -1,0 +1,202 @@
+{
+  "batch": "icons-road-2026-10-30-102",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "BUI-RIVIERA-G1-GS1965",
+      "manufacturer": "Buick",
+      "model_family": "Riviera",
+      "generation": "Original 1963–1965 Riviera production-road coupe family",
+      "variant": "Gran Sport — 1965 USA dual-quad Super Wildcat factory brochure reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "1965 USA Riviera Gran Sport, first-generation 1963–1965 road family. Factory brochure PDF index 4 (printed 5) and index 23 (42–43) were visually read. Advertised horsepower and native inch units retained without gross/net or metric conversion. Gran Sport axle/package supersedes ordinary Riviera table entries. Heavy-duty suspension and faster steering are separately available, not included automatically. No standard 325-hp engine, later body generation, measured acceleration or top-speed claim imported.",
+      "summary": "The original Riviera Gran Sport earns a place as an American performance-GT icon by combining the distinctive first-generation Riviera with a dual-quad Super Wildcat engine, positive-traction axle and purposeful factory performance package. Its contemporary first-hand evaluation supports the driving case as well as recording handling limitations.",
+      "admission_reason": "The original Riviera Gran Sport earns a place as an American performance-GT icon by combining the distinctive first-generation Riviera with a dual-quad Super Wildcat engine, positive-traction axle and purposeful factory performance package. Its contemporary first-hand evaluation supports the driving case as well as recording handling limitations.",
+      "sources": [
+        {
+          "publisher": "Buick Motor Division, General Motors / XR793 facsimile",
+          "title": "Buick ’65 — full-line prestige factory brochure, Riviera Gran Sport and specifications",
+          "source_type": "Original manufacturer brochure, hosted scan",
+          "url": "https://xr793.com/wp-content/uploads/2021/11/1965-Buick-Full-Line-Prestige-R.pdf",
+          "notes": "1965 USA Riviera Gran Sport, first-generation 1963–1965 road family. Factory brochure PDF index 4 (printed 5) and index 23 (42–43) were visually read. Advertised horsepower and native inch units retained without gross/net or metric conversion. Gran Sport axle/package supersedes ordinary Riviera table entries. Heavy-duty suspension and faster steering are separately available, not included automatically. No standard 325-hp engine, later body generation, measured acceleration or top-speed claim imported."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "1965 Buick Riviera Gran Sport — June 1965 first-hand road report",
+          "source_type": "Contemporary first-hand road evaluation, publisher archive",
+          "url": "https://www.caranddriver.com/reviews/a64253059/1965-buick-riviera-gran-sport-archive-test/",
+          "notes": "Supports admission and the three-speed automatic/V8 reference. Handling criticism retained in admission scope. Reposted numerical anomalies are not imported; no test time, estimated speed or inferred factory-standard handling option supplied."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Buick Riviera Gran Sport in Bamboo Cream, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Buick_Riviera_Gran_Sport_in_Bamboo_Cream,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "425",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "360",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "465",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "2800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin four-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel grade",
+          "value": "Premium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust",
+          "value": "Dual exhaust with extra-large pipes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio, Gran Sport package",
+          "value": "3.42:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Positive traction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Handling package availability",
+          "value": "Heavy-duty springs/dampers, rear track-bar bushings and faster steering available separately; not included in Gran Sport option",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Regular equipment",
+          "value": "Power-assisted self-adjusting brakes; aluminium front brake drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "117",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "209",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "76.6",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height",
+          "value": "53",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Pushrod V8",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed automatic",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Riviera Gran Sport earns a place as an American performance-GT icon by combining the distinctive first-generation Riviera with a dual-quad Super Wildcat engine, positive-traction axle and purposeful factory performance package. Its contemporary first-hand evaluation supports the driving case as well as recording handling limitations.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road report documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bui_riviera_g1_gs1965.jpg",
+          "caption": "1965 Riviera Gran Sport photographed by Mr.choppers at the 2025 Greenwich Concours d’Elegance; source identifies Bamboo Cream. Representative original-generation two-door body with Gran Sport script. The photograph does not authenticate engine internals, original package identity, axle ratio, handling options or restoration history.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2c3efa0240f8ebd7544c88b5e0e0c1a24d24c5ba3722b152e7f3355c936052dc"
+        }
+      ]
+    }
+  ]
+}

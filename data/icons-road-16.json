@@ -1,0 +1,1299 @@
+{
+  "batch": "icons-road-2026-10-29-16",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 10,
+  "cars": [
+    {
+      "id": "TVR-GRIFFITH500-1999",
+      "manufacturer": "TVR",
+      "model_family": "Griffith",
+      "generation": "Second-generation Griffith; Rover V8 road series",
+      "variant": "Griffith 500 — October 1999 UK factory reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "TVR Engineering press pack embargoed October 19, 1999, model-range page 10. Exact selected snapshot is 320 bhp and 320 lb-ft; the undated 340-bhp brochure/current retrospective is not mixed in. Optional power steering and later Special Edition equipment are excluded. The reference year is not the 1993 introduction date of the 500.",
+      "summary": "The revived Griffith is a defining Peter Wheeler-era TVR sports car. The 500 combines the compact front-engine, rear-drive roadster with a five-litre V8, race-developed chassis and stowable roof, representing the marque’s return to the classic British big-engine sports-car formula.",
+      "admission_reason": "The revived Griffith is a defining Peter Wheeler-era TVR sports car. The 500 combines the compact front-engine, rear-drive roadster with a five-litre V8, race-developed chassis and stowable roof, representing the marque’s return to the classic British big-engine sports-car formula.",
+      "sources": [
+        {
+          "publisher": "TVR Engineering",
+          "title": "TVR 1999 London Motor Show press pack — Griffith 500, page 10",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/press-1999.pdf",
+          "notes": "TVR Engineering press pack embargoed October 19, 1999, model-range page 10. Exact selected snapshot is 320 bhp and 320 lb-ft; the undated 340-bhp brochure/current retrospective is not mixed in. Optional power steering and later Special Edition equipment are excluded. The reference year is not the 1993 introduction date of the 500."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1999 TVR Griffith 500 (15859188212).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1999_TVR_Griffith_500_(15859188212).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1999 TVR Griffith 500"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "TVR Power V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs all round",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Stowable hard-top panel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Race-developed chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "320",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "320",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The revived Griffith is a defining Peter Wheeler-era TVR sports car. The 500 combines the compact front-engine, rear-drive roadster with a five-litre V8, race-developed chassis and stowable roof, representing the marque’s return to the classic British big-engine sports-car formula.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_griffith500_1999.jpg",
+          "caption": "TVR Griffith — 1999 Griffith 500; original build specification and optional equipment are not authenticated.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "592b78f59a919aa08a5e257093402252be497d456ed75009a82a2b184777fbab"
+        }
+      ]
+    },
+    {
+      "id": "TVR-CHIMAERA40-1999",
+      "manufacturer": "TVR",
+      "model_family": "Chimaera",
+      "generation": "Original V8 grand-touring roadster; 1996 body revision",
+      "variant": "Chimaera 4.0 — October 1999 UK factory reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "TVR Engineering October 19, 1999 press pack, page 11: selected four-litre engine is 235 bhp. The 285-bhp 4.5 and 320-bhp 5.0 options are excluded. Original factory Chimaera brochure separately supports V8 configuration, roof and interior; no earlier 240-bhp claim is combined. Representative later-nose photo does not certify engine capacity.",
+      "summary": "The Chimaera is a defining TVR grand-touring sports car and the company’s best-selling model in its contemporary account. It paired a Tuscan-racer-derived chassis and V8 character with a larger boot and more accommodating touring manners than the Griffith.",
+      "admission_reason": "The Chimaera is a defining TVR grand-touring sports car and the company’s best-selling model in its contemporary account. It paired a Tuscan-racer-derived chassis and V8 character with a larger boot and more accommodating touring manners than the Griffith.",
+      "sources": [
+        {
+          "publisher": "TVR Engineering",
+          "title": "TVR 1999 London Motor Show press pack — Chimaera, page 11",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/press-1999.pdf",
+          "notes": "TVR Engineering October 19, 1999 press pack, page 11: selected four-litre engine is 235 bhp. The 285-bhp 4.5 and 320-bhp 5.0 options are excluded. Original factory Chimaera brochure separately supports V8 configuration, roof and interior; no earlier 240-bhp claim is combined. Representative later-nose photo does not certify engine capacity."
+        },
+        {
+          "publisher": "TVR Engineering",
+          "title": "Chimaera — original factory brochure, page 3",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.tvr-mads.co.uk/Chimaera93Brochure.pdf",
+          "notes": "Original TVR brochure facsimile. Used only for V8 configuration, convertible roof and leather/walnut interior; no numerical engine output is taken from it."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:TVR Chimaera (86356).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:TVR_Chimaera_(86356).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs all round",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Chassis developed from the racing TVR Tuscan",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Retracting convertible roof system",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Bespoke leather and walnut cockpit",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "235",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Chimaera is a defining TVR grand-touring sports car and the company’s best-selling model in its contemporary account. It paired a Tuscan-racer-derived chassis and V8 character with a larger boot and more accommodating touring manners than the Griffith.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_chimaera40_1999.jpg",
+          "caption": "TVR Chimaera — Later-nose Chimaera roadster; the image does not authenticate the selected 4.0-litre engine.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c37073ad136310bab6c7f4b02dbd16b3da40f3d2b6facc3fc5e5c00f23d7b734"
+        }
+      ]
+    },
+    {
+      "id": "TVR-TUSCAN-S-2003",
+      "manufacturer": "TVR",
+      "model_family": "Tuscan",
+      "generation": "Original Speed Six removable-roof road series",
+      "variant": "Tuscan S 4.0 — 2003 UK factory reference",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door removable-roof roadster",
+      "road_legal": 1,
+      "specification_market": "2003 TVR UK range document page 4, separate Tuscan S column. The standard Tuscan 3605-cc/350-bhp column, pre-production 1999 360-bhp announcement, optional Hydratrak differential and later Mk2 are excluded. Undefined weight is omitted. This is the first road Tuscan family entry, not an additional S record alongside a standard car.",
+      "summary": "The road-going Tuscan established a distinctive TVR form around the company’s own Speed Six engine, with a removable roof and rear window. The original Tuscan S is the selected reference for this separate road-car family, combining its dry-sump inline-six with larger brakes and a close-ratio gearbox.",
+      "admission_reason": "The road-going Tuscan established a distinctive TVR form around the company’s own Speed Six engine, with a removable roof and rear window. The original Tuscan S is the selected reference for this separate road-car family, combining its dry-sump inline-six with larger brakes and a close-ratio gearbox.",
+      "sources": [
+        {
+          "publisher": "TVR Engineering",
+          "title": "TVR 2003 UK range — Tuscan and Tuscan S technical/pricing sheet, page 4",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/2003_-_tamora_-_tuscan_-_tuscan_s_-_cerbera_-_t400r_-_t440r.pdf",
+          "notes": "2003 TVR UK range document page 4, separate Tuscan S column. The standard Tuscan 3605-cc/350-bhp column, pre-production 1999 360-bhp announcement, optional Hydratrak differential and later Mk2 are excluded. Undefined weight is omitted. This is the first road Tuscan family entry, not an additional S record alongside a standard car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 TVR Tuscan S (SW04 TVR).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_TVR_Tuscan_S_(SW04_TVR).jpg",
+          "notes": "Carfanatic2019; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six, alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Removable roof panel and rear window",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio manual; count not stated in selected sheet",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "322-mm ventilated front discs, four-piston alloy calipers; 298-mm ventilated rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double wishbones and coil-over gas dampers with anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "390",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "310",
+          "unit": "lb-ft at 5250 rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The road-going Tuscan established a distinctive TVR form around the company’s own Speed Six engine, with a removable roof and rear window. The original Tuscan S is the selected reference for this separate road-car family, combining its dry-sump inline-six with larger brakes and a close-ratio gearbox.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_tuscan_s_2003.jpg",
+          "caption": "TVR Tuscan — 2004 Mk I Tuscan S; representative of the selected 2003 road-body series, without certifying its tune or options.",
+          "creator": "Carfanatic2019",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f6c839c6d221b7776963b8b6c93a72433b385c7e2321baed12042460345320f9"
+        }
+      ]
+    },
+    {
+      "id": "MOR-PLUS8-EARLY35",
+      "manufacturer": "Morgan",
+      "model_family": "Plus 8",
+      "generation": "Original Rover 3.5-litre four-speed roadster",
+      "variant": "Plus 8 — early 3.5-litre handbook reference",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Early Morgan Plus 8 factory handbook hosted by GoMoG, scanned PDF pages 6–9. Power and torque are explicitly gross, not modern net values. The handbook covers Moss and Rover four-speed gearbox alternatives; no later Rover all-synchromesh box is assigned specifically to 1968. Year denotes the original model introduction, supported separately by Morgan history. Later Rover capacities and aluminium/BMW Plus 8 generations are excluded.",
+      "summary": "The original Plus 8 established Morgan’s enduring V8 sports-car lineage, bringing Rover V8 performance to its traditional open two-seater form. This early 3.5-litre reference preserves the original mechanical character, including sliding-pillar front suspension and a four-speed gearbox.",
+      "admission_reason": "The original Plus 8 established Morgan’s enduring V8 sports-car lineage, bringing Rover V8 performance to its traditional open two-seater form. This early 3.5-litre reference preserves the original mechanical character, including sliding-pillar front suspension and a four-speed gearbox.",
+      "sources": [
+        {
+          "publisher": "Morgan Motor Company",
+          "title": "Morgan Plus 8 — early factory owner handbook, general data PDF pages 6–9",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.gomog.com/allmorgan/Plus81968%7E76.pdf",
+          "notes": "Early Morgan Plus 8 factory handbook hosted by GoMoG, scanned PDF pages 6–9. Power and torque are explicitly gross, not modern net values. The handbook covers Moss and Rover four-speed gearbox alternatives; no later Rover all-synchromesh box is assigned specifically to 1968. Year denotes the original model introduction, supported separately by Morgan history. Later Rover capacities and aluminium/BMW Plus 8 generations are excluded."
+        },
+        {
+          "publisher": "Morgan Motor Company",
+          "title": "Plus 8 — manufacturer model history",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://morgan-motor.com/models/past-models/plus-8/",
+          "notes": "Supports 1968 introduction and original Rover V8/four-speed lineage only. Retrospective maximum-power and torque fields describe later BMW-powered cars and are not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Morgan Plus 8 (1970) (54804696254).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Morgan_Plus_8_(1970)_(54804696254).jpg",
+          "notes": "Charles from Port Chester, New York; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Morgan Plus 8 (1970)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8, pushrod overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3528",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two SU HS6 or HIF6 carburettors, handbook alternatives",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front independent vertical sliding pillars and coil springs; rear rigid axle with semi-elliptic leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front Girling 11-inch discs; rear Girling 9-inch drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Hypoid limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (gross)",
+          "value": "184",
+          "unit": "gross bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (gross)",
+          "value": "226",
+          "unit": "gross lb-ft at 3000 rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Plus 8 established Morgan’s enduring V8 sports-car lineage, bringing Rover V8 performance to its traditional open two-seater form. This early 3.5-litre reference preserves the original mechanical character, including sliding-pillar front suspension and a four-speed gearbox.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mor_plus8_early35.jpg",
+          "caption": "Morgan Plus 8 — 1970 Rover-era Plus 8; illustrates the early body, not a claim that it was built in 1968 or retains its original gearbox.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "39628dabaafd066546c539149654de9f36361bc4cae9056b73580b93b26cb088"
+        }
+      ]
+    },
+    {
+      "id": "MOR-AERO8-ORIGINAL44",
+      "manufacturer": "Morgan",
+      "model_family": "Aero 8",
+      "generation": "Original aluminium-chassis 4.4-litre roadster",
+      "variant": "Aero 8 — 2001 original BMW V8 production reference",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original company press release reproduced by Ultimatecarpage, text referring to full production and planned output by the end of 2001. Only release-body facts are used, not the editorial specifications table. Morgan history independently supplies aluminium construction. Later 4.8-litre/270-kW figures, automatic gearboxes and AeroMax are excluded. Unqualified gross vehicle weight is omitted.",
+      "summary": "The Aero 8 is a major Morgan engineering landmark: the company’s first all-aluminium coachbuilt model, with an aluminium chassis and hand-formed bodywork. Its BMW V8 introduced a new powertrain partnership while taking Morgan’s sports-car design into a substantially new architecture.",
+      "admission_reason": "The Aero 8 is a major Morgan engineering landmark: the company’s first all-aluminium coachbuilt model, with an aluminium chassis and hand-formed bodywork. Its BMW V8 introduced a new powertrain partnership while taking Morgan’s sports-car design into a substantially new architecture.",
+      "sources": [
+        {
+          "publisher": "Morgan Motor Company",
+          "title": "Morgan Aero 8 — original company press release, 2001 production account",
+          "source_type": "Manufacturer press release reproduced by Ultimatecarpage",
+          "url": "https://www.ultimatecarpage.com/car/387/Morgan-Aero-8.html",
+          "notes": "Original company press release reproduced by Ultimatecarpage, text referring to full production and planned output by the end of 2001. Only release-body facts are used, not the editorial specifications table. Morgan history independently supplies aluminium construction. Later 4.8-litre/270-kW figures, automatic gearboxes and AeroMax are excluded. Unqualified gross vehicle weight is omitted."
+        },
+        {
+          "publisher": "Morgan Motor Company",
+          "title": "Aero — original aluminium construction and first BMW powertrain",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://morgan-motor.com/models/past-models/aero/",
+          "notes": "Manufacturer history establishes 2000 launch, aluminium chassis/hand-formed body and original 4.4-litre BMW powertrain. Later 4.8-litre numerical specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Morgan Aero 8.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Morgan_Aero_8.jpg",
+          "notes": "Nrbelex; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Photos by en:Wikipedia user Nrbelex, uploaded by permission"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "BMW V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve timing",
+          "value": "VANOS variable inlet valve timing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium chassis",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Hand-formed aluminium bodywork",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "286",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Aero 8 is a major Morgan engineering landmark: the company’s first all-aluminium coachbuilt model, with an aluminium chassis and hand-formed bodywork. Its BMW V8 introduced a new powertrain partnership while taking Morgan’s sports-car design into a substantially new architecture.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mor_aero8_original44.jpg",
+          "caption": "Morgan Aero 8 — Early Aero 8 body and original headlamp form; exact build year and installed engine are unverified.",
+          "creator": "Nrbelex",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "bb6b45266cbd78be0967749c781119aa424c91b616c5915066cc25fda916561f"
+        }
+      ]
+    },
+    {
+      "id": "MG-TC-STANDARD-1948",
+      "manufacturer": "MG",
+      "model_family": "TC",
+      "generation": "Original T-series TC Midget",
+      "variant": "TC Midget — standard 1948 factory reference",
+      "model_year_from": 1948,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original 1948 MG/Riley Salesman’s Reference, Midget Series TC column, PDF pages 3–4 / printed 22–25. Standard naturally aspirated car, not the museum’s Shorrock-supercharged cycle-fender special. Adjacent Y-series saloon/tourer specifications are excluded. Period bhp notation is retained without claiming a modern net rating.",
+      "summary": "The TC is a foundational postwar British sports-car icon, carrying MG’s T-series formula into a new export era. Its popularity with American buyers helped establish the postwar enthusiasm for small British roadsters; the selected record describes the standard car rather than a modified special.",
+      "admission_reason": "The TC is a foundational postwar British sports-car icon, carrying MG’s T-series formula into a new export era. Its popularity with American buyers helped establish the postwar enthusiasm for small British roadsters; the selected record describes the standard car rather than a modified special.",
+      "sources": [
+        {
+          "publisher": "MG Car Company",
+          "title": "MG/Riley Salesman’s Reference 1948 — Midget Series TC tables, printed pages 22–25",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.mg-cars.org.uk/imgytr/pdf/salesman48.pdf",
+          "notes": "Original 1948 MG/Riley Salesman’s Reference, Midget Series TC column, PDF pages 3–4 / printed 22–25. Standard naturally aspirated car, not the museum’s Shorrock-supercharged cycle-fender special. Adjacent Y-series saloon/tourer specifications are excluded. Period bhp notation is retained without claiming a modern net rating."
+        },
+        {
+          "publisher": "Lane Motor Museum",
+          "title": "MG TC Midget – 1948: postwar model and US export significance",
+          "source_type": "Museum collection historical account",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/mg-tc-1948/",
+          "notes": "Used only for TC family history and US sports-car influence. The museum expressly describes its own vehicle as a modified, supercharged cycle-fender example; its installed specification and picture are not used for this standard road record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:MG TC 1948 (15867377367).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:MG_TC_1948_(15867377367).jpg",
+          "notes": "order_242 from Chile; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: MG TC 1948"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1250",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves operated by pushrods",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; synchromesh on second, third and fourth",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Lockheed hydraulic drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Semi-elliptic leaf springs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Folding Triplex windscreen",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "54.4",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The TC is a foundational postwar British sports-car icon, carrying MG’s T-series formula into a new export era. Its popularity with American buyers helped establish the postwar enthusiasm for small British roadsters; the selected record describes the standard car rather than a modified special.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mg_tc_standard_1948.jpg",
+          "caption": "MG TC — 1948 TC with conventional swept fenders; this is not the Lane Museum cycle-fendered special. Installed engine originality is unverified.",
+          "creator": "order_242 from Chile",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6d1fbecc834f5740f4b3b0335de4f672f0daa32d594bb5c773c9c17bc94961d3"
+        }
+      ]
+    },
+    {
+      "id": "MG-MGB-ROADSTER-1963",
+      "manufacturer": "MG",
+      "model_family": "MGB",
+      "generation": "Original Mk I three-bearing 1.8-litre roadster",
+      "variant": "MGB roadster — 1963 US brochure reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Early US-market factory brochure hosted as 1963; technical page 8 and US importer Hambro/Nuffield footer page 9 visually inspected. Original three-bearing engine and four-speed reference. Later five-bearing engines, all-synchromesh gearbox, rubber bumpers, GT coupe and GT V8 are excluded. Optional overdrive, anti-roll bar and wire wheels are not standard claims; approximate unladen mass is omitted.",
+      "summary": "The MGB is an enduring British sports-car icon, with a roadster lineage spanning 1962–1980. The original open car combined all-steel monocoque construction, an enlarged pushrod four-cylinder engine and accessible two-seat sports-car packaging in a form that became central to MG’s identity.",
+      "admission_reason": "The MGB is an enduring British sports-car icon, with a roadster lineage spanning 1962–1980. The original open car combined all-steel monocoque construction, an enlarged pushrod four-cylinder engine and accessible two-seat sports-car packaging in a form that became central to MG’s identity.",
+      "sources": [
+        {
+          "publisher": "MG / Nuffield Exports",
+          "title": "MGB — 1963 US factory brochure, technical page 8 and importer page 9",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/mg/MGB/MG_US%20MGB_1963.pdf",
+          "notes": "Early US-market factory brochure hosted as 1963; technical page 8 and US importer Hambro/Nuffield footer page 9 visually inspected. Original three-bearing engine and four-speed reference. Later five-bearing engines, all-synchromesh gearbox, rubber bumpers, GT coupe and GT V8 are excluded. Optional overdrive, anti-roll bar and wire wheels are not standard claims; approximate unladen mass is omitted."
+        },
+        {
+          "publisher": "British Motor Museum",
+          "title": "Celebrate the MGB’s 60th birthday — roadster production timeline",
+          "source_type": "Museum historical exhibition account",
+          "url": "https://www.britishmotormuseum.co.uk/news/celebrate-the-mgbs-60th-birthday-at-the-british-motor-museum",
+          "notes": "Museum anniversary account documents the iconic MGB and roadster lineage from 1962 to 1980. GT history is separate from this open-roadster reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 MG B Mk1 (24368289663).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_MG_B_Mk1_(24368289663).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: MGB Mk1"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four, three main bearings",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1798",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves operated by pushrods",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU semi-downdraft carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; synchromesh on second, third and top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "All-steel monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front independent coil springs and wishbones; rear semi-elliptic leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "95",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "110",
+          "unit": "lb-ft at 3000 rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The MGB is an enduring British sports-car icon, with a roadster lineage spanning 1962–1980. The original open car combined all-steel monocoque construction, an enlarged pushrod four-cylinder engine and accessible two-seat sports-car packaging in a form that became central to MG’s identity.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mg_mgb_roadster_1963.jpg",
+          "caption": "MG MGB — 1963 MGB Mk I roadster; representative exterior photographed in Australia, without authenticating US-market equipment.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "03592fda6618e7721fa6941b2774ae63da65397c6803581b73a9c60241b4a159"
+        }
+      ]
+    },
+    {
+      "id": "TRI-TR2-ROAD-1954",
+      "manufacturer": "Triumph",
+      "model_family": "TR2",
+      "generation": "Original TR2 production roadster",
+      "variant": "TR2 — 1954 National Motor Museum reference",
+      "model_year_from": 1954,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "1954 National Motor Museum Trust collection car, the D. A. Simes bequest, recommissioned/partially restored in 2024. Museum technical figures retained in their original notation. No Jabbeke prototype, competition gearing or racing performance is imported. Licensed photograph represents a separate 1954 TR2, not the museum car.",
+      "summary": "The TR2 established Triumph’s long-running TR sports-car line. Developed to compete with MG and Jaguar, it helped re-establish Triumph as a sports-car maker and found particular success in North America; this record follows the museum’s preserved 1954 production road car.",
+      "admission_reason": "The TR2 established Triumph’s long-running TR sports-car line. Developed to compete with MG and Jaguar, it helped re-establish Triumph as a sports-car maker and found particular success in North America; this record follows the museum’s preserved 1954 production road car.",
+      "sources": [
+        {
+          "publisher": "National Motor Museum Trust",
+          "title": "Triumph TR2 — 1954 collection road car and TR-series origins",
+          "source_type": "Museum collection record",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/triumph-tr2/",
+          "notes": "1954 National Motor Museum Trust collection car, the D. A. Simes bequest, recommissioned/partially restored in 2024. Museum technical figures retained in their original notation. No Jabbeke prototype, competition gearing or racing performance is imported. Licensed photograph represents a separate 1954 TR2, not the museum car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1954 Triumph TR2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1954_Triumph_TR2.jpg",
+          "notes": "Michael Spiller from Bradford, UK; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: 1954  Triumph TR2"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1991",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "90",
+          "unit": "hp; historical rating convention unspecified",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "107",
+          "unit": "mph",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–60 mph",
+          "value": "12",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The TR2 established Triumph’s long-running TR sports-car line. Developed to compete with MG and Jaguar, it helped re-establish Triumph as a sports-car maker and found particular success in North America; this record follows the museum’s preserved 1954 production road car.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_tr2_road_1954.jpg",
+          "caption": "Triumph TR2 — 1954 TR2; separate from the National Motor Museum collection car. Restoration and installed drivetrain are unverified.",
+          "creator": "Michael Spiller from Bradford, UK",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "12a59b4e1e26eafd9cb8a60fea1a37279c38c1de98f9c421c5f5014afeec865b"
+        }
+      ]
+    },
+    {
+      "id": "TRI-TR4-2138-1964",
+      "manufacturer": "Triumph",
+      "model_family": "TR4",
+      "generation": "Original CT-series rigid-rear-axle TR4",
+      "variant": "TR4 2.1 — 1964 UK road reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Factory TR4 workshop manual 510322, general specifications PDF pages 5–7, standard 2138-cc engine column. The special-order 1991-cc engine, optional overdrive and TR4A independent rear suspension are excluded. 1964 UK range brochure independently identifies the actual TR4 and its full-height doors/windows. Website host name TR4A does not identify the model in these original documents.",
+      "summary": "The TR4 modernised Triumph’s established sports-car formula with full-height doors, wind-up windows and rack-and-pinion steering while retaining a rugged four-cylinder drivetrain. It is a distinct step in the TR roadster lineage, represented here by the original rigid-rear-axle model.",
+      "admission_reason": "The TR4 modernised Triumph’s established sports-car formula with full-height doors, wind-up windows and rack-and-pinion steering while retaining a rugged four-cylinder drivetrain. It is a distinct step in the TR roadster lineage, represented here by the original rigid-rear-axle model.",
+      "sources": [
+        {
+          "publisher": "Standard-Triumph Sales",
+          "title": "Triumph TR4 Workshop Manual 510322 — general specifications PDF pages 5–7",
+          "source_type": "Period manufacturer document, hosted facsimile",
+          "url": "https://tr4a.weebly.com/uploads/2/1/9/8/21980360/tr4_manual_part1.pdf",
+          "notes": "Factory TR4 workshop manual 510322, general specifications PDF pages 5–7, standard 2138-cc engine column. The special-order 1991-cc engine, optional overdrive and TR4A independent rear suspension are excluded. 1964 UK range brochure independently identifies the actual TR4 and its full-height doors/windows. Website host name TR4A does not identify the model in these original documents."
+        },
+        {
+          "publisher": "Standard-Triumph Sales",
+          "title": "1964 Triumph UK range brochure — TR4, page 4",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://tr4a.weebly.com/uploads/2/1/9/8/21980360/triumph_1964_range_brochure.pdf",
+          "notes": "Original UK range brochure: full-size page visibly names T.R.4, with full-height doors and wind-up windows. Spitfire details below it are not TR4 specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 Triumph TR4 pic2.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_Triumph_TR4_pic2.JPG",
+          "notes": "Alf van Beem; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2138",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU H6 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; synchromesh on all forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front independent upper/lower wishbones and coil springs; rear semi-elliptic leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net power",
+          "value": "100",
+          "unit": "net bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "1520",
+          "unit": "lb-in at 3350 rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Steering",
+          "value": "Rack and pinion",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The TR4 modernised Triumph’s established sports-car formula with full-height doors, wind-up windows and rack-and-pinion steering while retaining a rugged four-cylinder drivetrain. It is a distinct step in the TR roadster lineage, represented here by the original rigid-rear-axle model.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_tr4_2138_1964.jpg",
+          "caption": "Triumph TR4 — 1964 original TR4 roadster; exterior photograph does not certify the selected standard 2138-cc engine or gearbox.",
+          "creator": "Alf van Beem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f39f0596724d25c505b44c7ecebfb2fcd5bd3e9a3bde30a81893656121cea50a"
+        }
+      ]
+    },
+    {
+      "id": "ARI-ATOM4-2019",
+      "manufacturer": "Ariel",
+      "model_family": "Atom",
+      "generation": "Fourth-generation turbocharged Atom",
+      "variant": "Atom 4 — original 2019 UK production reference",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open two-seat sports car",
+      "road_legal": 1,
+      "specification_market": "Original 2018 Ariel launch release reproduced by distributor Driving Event Sweden. Although the host filename says 2021, the text explicitly plans late-2018 production and spring-2019 deliveries. Selected standard 320-bhp/420-Nm launch car, not later 350 upgrade, 4R, 4RR or Atom V8. Undefined mass is omitted. Model year field denotes first production-delivery reference, not the file-upload year.",
+      "summary": "The Atom 4 is a major redesign of Ariel’s exposed-frame sports car, retaining just three components from its predecessor. Its new tubular chassis, revised suspension and Honda turbo engine mark a substantive engineering generation in the lightweight road-and-track Atom lineage.",
+      "admission_reason": "The Atom 4 is a major redesign of Ariel’s exposed-frame sports car, retaining just three components from its predecessor. Its new tubular chassis, revised suspension and Honda turbo engine mark a substantive engineering generation in the lightweight road-and-track Atom lineage.",
+      "sources": [
+        {
+          "publisher": "Ariel Motor Company",
+          "title": "Ariel Atom 4 — original launch press release, spring-2019 delivery reference",
+          "source_type": "Manufacturer launch release, distributor-hosted facsimile",
+          "url": "https://www.drivingevent.com/static/files/39/ariel-atom-4---press-release-2021.pdf",
+          "notes": "Original 2018 Ariel launch release reproduced by distributor Driving Event Sweden. Although the host filename says 2021, the text explicitly plans late-2018 production and spring-2019 deliveries. Selected standard 320-bhp/420-Nm launch car, not later 350 upgrade, 4R, 4RR or Atom V8. Undefined mass is omitted. Model year field denotes first production-delivery reference, not the file-upload year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2019 Ariel Atom 4.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2019_Ariel_Atom_4.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Honda Type R K20C inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1996",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "420",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Hand-made bronze-welded tubular chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Revised geometry with inboard pushrod-operated Bilstein dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "320",
+          "unit": "bhp; period manufacturer notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Atom 4 is a major redesign of Ariel’s exposed-frame sports car, retaining just three components from its predecessor. Its new tubular chassis, revised suspension and Honda turbo engine mark a substantive engineering generation in the lightweight road-and-track Atom lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ari_atom4_2019.jpg",
+          "caption": "Ariel Atom — 2019 Atom 4; visible options do not define the standard launch specification.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "01eddb691376ac73409d2d54874410d34fcfd3126635aa96d1ec3c354fc3c013"
+        }
+      ]
+    }
+  ]
+}

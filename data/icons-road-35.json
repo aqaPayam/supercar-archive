@@ -1,0 +1,854 @@
+{
+  "batch": "icons-road-2026-10-29-35",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "TRI-STAG-UK-LAUNCH1970",
+      "manufacturer": "Triumph",
+      "model_family": "Stag",
+      "generation": "Original Triumph V8 four-seat Stag grand tourer",
+      "variant": "UK launch brochure — May 1970",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 open grand tourer",
+      "road_legal": 1,
+      "specification_market": "Original Standard Triumph Publicity Department brochure 438/570/ENG, May 1970, hosted by Stag Owners Club. All four original scanned pages read; engine and equipment on page 3, roof on page 4. Native power retained without an invented rating standard. No gearbox, exact cc, measured maximum speed or 0–100 km/h is inferred. Later revisions and Rover-V8 conversions are excluded.",
+      "summary": "The Stag gives the British grand tourer a distinctive identity: Triumph’s own overhead-cam V8, 2+2 accommodation and an open body with a permanent roll structure. This combination established a recognisable sporting Triumph grand tourer.",
+      "admission_reason": "The Stag gives the British grand tourer a distinctive identity: Triumph’s own overhead-cam V8, 2+2 accommodation and an open body with a permanent roll structure. This combination established a recognisable sporting Triumph grand tourer.",
+      "sources": [
+        {
+          "publisher": "Standard Triumph / Stag Owners Club hosted facsimile",
+          "title": "Triumph Stag — original UK launch brochure 438/570/ENG, May 1970",
+          "source_type": "Period manufacturer brochure, original scanned pages",
+          "url": "https://www.stag.org.uk/wp-content/uploads/flipbook/47/book.html",
+          "notes": "Original Standard Triumph Publicity Department brochure 438/570/ENG, May 1970, hosted by Stag Owners Club. All four original scanned pages read; engine and equipment on page 3, roof on page 4. Native power retained without an invented rating standard. No gearbox, exact cc, measured maximum speed or 0–100 km/h is inferred. Later revisions and Rover-V8 conversions are excluded."
+        },
+        {
+          "publisher": "Triumph Sports Six Club",
+          "title": "Triumph Stag — model register history",
+          "source_type": "Owners-club model register account",
+          "url": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=35",
+          "notes": "Register documents the original four-seat V8 GT and early engine/build problems. Its combined production-range technical table does not replace the selected launch brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Triumph Stag (1970) - 18316073952.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Triumph_Stag_(1970)_-_18316073952.jpg",
+          "notes": "SG2012; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/57664366@N08/18316073952/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Triumph V8 with aluminium cylinder heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Folding soft top and permanent roll structure; detachable hardtop available",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted disc/drum system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Standard equipment",
+          "value": "Electric windows, clock and leather-trimmed steering wheel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure claim",
+          "value": "145",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Stag gives the British grand tourer a distinctive identity: Triumph’s own overhead-cam V8, 2+2 accommodation and an open body with a permanent roll structure. This combination established a recognisable sporting Triumph grand tourer.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_stag_uk_launch1970.jpg",
+          "caption": "Triumph Stag identified as 1970, showing the 2+2 open body and permanent roll structure. Represents the original road family. Restoration, wheels and trim do not authenticate the current Triumph engine, transmission or exact May 1970 equipment.",
+          "creator": "SG2012",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "689830725bee96cd5f2f49ccb36cdf07ecacd10f62f8a4301130840e9dea9d99"
+        }
+      ]
+    },
+    {
+      "id": "TRI-TR8-US1980-CARB",
+      "manufacturer": "Triumph",
+      "model_family": "TR8",
+      "generation": "Original TR7/TR8 wedge sports-car road family, selected factory V8",
+      "variant": "TR8 convertible — 1980 USA, non-California carburetted",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports convertible",
+      "road_legal": 1,
+      "specification_market": "Original Jaguar Rover Triumph USA TR8 brochure, printed 2/80, reference TR8/80. All three scanned spreads rendered; final technical spread enlarged and read. Selected non-California carburetted convertible: bracketed California injection, 148-hp and torque figures are excluded. No rating standard is invented for the printed horsepower. Privately converted TR7s, competition cars and later injection references are excluded.",
+      "summary": "The factory TR8 brought an aluminium V8 to Triumph’s wedge sports car, realising the performance development envisaged for the TR7 platform. Its dedicated cooling, brakes and installation distinguish the production V8 programme from the many later privately converted TR7s.",
+      "admission_reason": "The factory TR8 brought an aluminium V8 to Triumph’s wedge sports car, realising the performance development envisaged for the TR7 platform. Its dedicated cooling, brakes and installation distinguish the production V8 programme from the many later privately converted TR7s.",
+      "sources": [
+        {
+          "publisher": "Jaguar Rover Triumph / Triumph Wedge Owners Association hosted facsimile",
+          "title": "Triumph TR8 — original USA brochure TR8/80, printed February 1980",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://triumphwedgeowners.org/wp-content/uploads/2022/03/US-1980-TR8-Brochure.pdf",
+          "notes": "Original Jaguar Rover Triumph USA TR8 brochure, printed 2/80, reference TR8/80. All three scanned spreads rendered; final technical spread enlarged and read. Selected non-California carburetted convertible: bracketed California injection, 148-hp and torque figures are excluded. No rating standard is invented for the printed horsepower. Privately converted TR7s, competition cars and later injection references are excluded."
+        },
+        {
+          "publisher": "Triumph Sports Six Club",
+          "title": "Triumph TR8 — factory V8 development and conversions",
+          "source_type": "Owners-club model register account",
+          "url": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=22",
+          "notes": "Register describes the intended V8 installation, dedicated cooling/brake changes and prevalence of converted TR7s. The broad register fuel-system and power table is not substituted for the selected USA original brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1980 Triumph TR8 (21828737180).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1980_Triumph_TR8_(21828737180).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Triumph TR8"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8; aluminium-alloy block with cast-iron dry liners",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3528",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin Zenith carburettors with automatic choke; selected non-California specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.1:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed all-synchromesh manual; direct fourth, overdrive fifth",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels through live axle; 3.08:1 final drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson strut front; four-link live rear axle; coil springs and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted hydraulic dual circuit; 9.61-inch front discs and 9-inch rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "185/70HR13 steel-belted radial-ply",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure claim at 5000 rpm",
+          "value": "133",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The factory TR8 brought an aluminium V8 to Triumph’s wedge sports car, realising the performance development envisaged for the TR7 platform. Its dedicated cooling, brakes and installation distinguish the production V8 programme from the many later privately converted TR7s.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_tr8_us1980_carb.jpg",
+          "caption": "Triumph TR8 identified as 1980, showing its wedge convertible body, pop-up-headlight covers and road equipment. Badging, luggage rack and present trim do not establish factory V8 provenance, non-California carburettors or mechanical originality; converted TR7s require separate authentication.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "aa696d7bc42586eb5cd51fc7aa2819881f3d3647e6cc56eb5b06cad1f8f30463"
+        }
+      ]
+    },
+    {
+      "id": "JEN-HEALEY-MKII-4MT",
+      "manufacturer": "Jensen",
+      "model_family": "Jensen-Healey",
+      "generation": "Original Lotus-powered Jensen-Healey open sports-car family",
+      "variant": "Mark II — US-facing four-speed brochure reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original Jensen Motors Mark II brochure, catalogued by host as 1974 USA version 2. Eight pages rendered; engine PDF5 and specifications PDF8 enlarged and read. The brochure itself has no authenticated issue date: year remains unset. It includes USA-specific warnings and US correspondence. No SAE-net standard is invented for its native 140 BHP. Later five-speed, GT estate and competition tune are excluded.",
+      "summary": "The Jensen-Healey joined two established British sports-car names around a light-alloy Lotus four-valve engine. Its combination of traditional open two-seat motoring with sixteen-valve engine design makes it a distinctive bridge between the Healey era and the next generation of British sports cars.",
+      "admission_reason": "The Jensen-Healey joined two established British sports-car names around a light-alloy Lotus four-valve engine. Its combination of traditional open two-seat motoring with sixteen-valve engine design makes it a distinctive bridge between the Healey era and the next generation of British sports cars.",
+      "sources": [
+        {
+          "publisher": "Jensen Motors / Auto-Brochures hosted facsimile",
+          "title": "Jensen-Healey Mark II — original four-speed, US-facing sales brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/jensen/Jensen_US%20Healey_1974-2.pdf",
+          "notes": "Original Jensen Motors Mark II brochure, catalogued by host as 1974 USA version 2. Eight pages rendered; engine PDF5 and specifications PDF8 enlarged and read. The brochure itself has no authenticated issue date: year remains unset. It includes USA-specific warnings and US correspondence. No SAE-net standard is invented for its native 140 BHP. Later five-speed, GT estate and competition tune are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1974 Jensen Healey.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1974_Jensen_Healey.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four inclined at 45 degrees; twin overhead camshafts and light-alloy construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1973",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin carburettors with electric fuel pump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual and reverse; all forward gears synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front double wishbones, coils and telescopic dampers; live rear axle with four links, coils and telescopic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted dual-line hydraulics; 10-inch front discs and 9-inch rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitised, fully undersealed steel body structure",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure claim at 6500 rpm",
+          "value": "140",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Jensen-Healey joined two established British sports-car names around a light-alloy Lotus four-valve engine. Its combination of traditional open two-seat motoring with sixteen-valve engine design makes it a distinctive bridge between the Healey era and the next generation of British sports cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jen_healey_mkii_4mt.jpg",
+          "caption": "Jensen-Healey identified as 1974, with open two-seat body and Mark II-style front trim. Represents the original roadster family. The photograph does not authenticate current engine tune, USA emissions equipment or four-speed versus later gearbox; the undated brochure is the selected technical reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b1a853f1efd5f0bb1fe6d4b33efa8753d46a49609fcda0979cd4577c94c2c83e"
+        }
+      ]
+    },
+    {
+      "id": "MAR-1800-VOLVO-ROAD1965",
+      "manufacturer": "Marcos",
+      "model_family": "1800 GT",
+      "generation": "Original Volvo-powered wooden-monocoque Marcos road coupe",
+      "variant": "1800 — April 1965 production road-test reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Denis Jenkinson’s first-hand production road test, April 1965, not the 2014 digitisation date. Read alongside the Owners Club reprint. Selects the untuned Volvo road car, not the optional two-litre/Webers or later Ford/live-axle cars. Conflicting exact-cc notation and speculative top speed are omitted.",
+      "summary": "The Marcos 1800 translated aircraft-influenced wooden construction into a striking production GT. Its marine-ply monocoque, bonded glass-fibre body and adjustable pedal cradle make it an unusually inventive road sports car.",
+      "admission_reason": "The Marcos 1800 translated aircraft-influenced wooden construction into a striking production GT. Its marine-ply monocoque, bonded glass-fibre body and adjustable pedal cradle make it an unusually inventive road sports car.",
+      "sources": [
+        {
+          "publisher": "Motor Sport / Denis Jenkinson",
+          "title": "The Marcos 1800 — Denis Jenkinson, Motor Sport, April 1965",
+          "source_type": "Contemporary first-hand production road test; archival republication",
+          "url": "https://www.motorsportmagazine.com/archive/article/april-1965/13/the-marcos-1800/",
+          "notes": "Denis Jenkinson’s first-hand production road test, April 1965, not the 2014 digitisation date. Read alongside the Owners Club reprint. Selects the untuned Volvo road car, not the optional two-litre/Webers or later Ford/live-axle cars. Conflicting exact-cc notation and speculative top speed are omitted."
+        },
+        {
+          "publisher": "Marcos Owners Club",
+          "title": "Marcos 1800 GT — hosted Jenkinson road-test reprint",
+          "source_type": "Marque-club hosted contemporary first-hand road-test reprint",
+          "url": "https://www.marcos-oc.com/models/1800.html",
+          "notes": "Parallel custodian reprint used to cross-check the original road-car construction and standard Volvo specification. Photographs and later tuning possibilities are not treated as the test car’s equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Marcos 1800 GT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Marcos_1800_GT.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Volvo OHV four-cylinder engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin Zenith-Stromberg carburettors on Marcos manifolds",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed Volvo manual with Laycock overdrive on fourth",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bonded marine-ply monocoque with front steel suspension subframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Non-stressed glass-fibre shell bonded to wooden chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front unequal-length wishbones and coils; early floating de Dion rear with coils",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front discs and inboard rear drums",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Marcos 1800 translated aircraft-influenced wooden construction into a striking production GT. Its marine-ply monocoque, bonded glass-fibre body and adjustable pedal cradle make it an unusually inventive road sports car.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mar_1800_volvo_road1965.jpg",
+          "caption": "Marcos 1800 GT identified as 1965, showing the low closed body and early fixed headlight covers. Represents the Volvo road family. The exterior cannot certify the wooden chassis, original engine, floating de Dion rear suspension or absence of later modifications.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3257508dd83931ca0fb9c2945b77c5809ed70b567f66232e81cd3e232bd854f2"
+        }
+      ]
+    },
+    {
+      "id": "TVR-GRANTURA-IIA-MGA1622",
+      "manufacturer": "TVR",
+      "model_family": "Grantura",
+      "generation": "Original compact Grantura sports coupe family, selected torsion-bar Mark IIA",
+      "variant": "Mark IIA — 1622-cc MGA factory brochure",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original TVR Cars Mark IIA 12-page brochure, hosted by TVR Car Club. All pages rendered; PDF8–9 technical spread read separately. Brochure date is unprinted: year remains unset. Selected standard 1622-cc MGA/four-speed/torsion-bar car. Alternative Ford Classic/Climax engines, lightweight competition chassis, axle options, later coil-sprung Mk III and V8 Griffith are excluded.",
+      "summary": "The Grantura established the compact glass-fibre sports-coupe formula at the heart of early TVR. Its tubular chassis and independent suspension underpin an important stage in the marque’s development, before the later coil-sprung Grantura and V8 Griffith derivatives.",
+      "admission_reason": "The Grantura established the compact glass-fibre sports-coupe formula at the heart of early TVR. Its tubular chassis and independent suspension underpin an important stage in the marque’s development, before the later coil-sprung Grantura and V8 Griffith derivatives.",
+      "sources": [
+        {
+          "publisher": "TVR Cars / TVR Car Club hosted facsimile",
+          "title": "TVR Grantura Mark IIA — original standard-MGA sales brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.tvr-car-club.co.uk/uploads/9/5/1/5/95156928/grantura_mk2a_01.pdf",
+          "notes": "Original TVR Cars Mark IIA 12-page brochure, hosted by TVR Car Club. All pages rendered; PDF8–9 technical spread read separately. Brochure date is unprinted: year remains unset. Selected standard 1622-cc MGA/four-speed/torsion-bar car. Alternative Ford Classic/Climax engines, lightweight competition chassis, axle options, later coil-sprung Mk III and V8 Griffith are excluded."
+        },
+        {
+          "publisher": "TVR Car Club",
+          "title": "Grantura — marque register history",
+          "source_type": "Marque-club model register history",
+          "url": "https://www.tvr-car-club.co.uk/tvr-grantura.html",
+          "notes": "History supplies early company/Grantura development and distinguishes the later Mk III coil-spring chassis and derived V8 Griffith. Its broad date heading and Mk II engine table do not date or specify this Mk IIA brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1961 TVR Grantura Mark IIA, front left (Hershey 2019).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1961_TVR_Grantura_Mark_IIA,_front_left_(Hershey_2019).jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "MGA engine to standard specification; overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1622",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "MGA four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Multi-tubular frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Glass-fibre-reinforced plastic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent all round; trailing arms and transverse laminated torsion bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Standard axle ratio",
+          "value": "4.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Burman worm and sector; two turns lock-to-lock",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Grantura established the compact glass-fibre sports-coupe formula at the heart of early TVR. Its tubular chassis and independent suspension underpin an important stage in the marque’s development, before the later coil-sprung Grantura and V8 Griffith derivatives.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_grantura_iia_mga1622.jpg",
+          "caption": "TVR Grantura Mark IIA identified as 1961 at Hershey 2019, showing the compact closed body and wire wheels. Represents the selected Mark IIA road family; the undated brochure remains the technical reference. The exterior does not verify 1622-cc engine, axle ratio or original suspension.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "b82d49fca4fe89653aefe9f0f2ec25461c63bc6d4752bc8b2704e85ce8e04377"
+        }
+      ]
+    },
+    {
+      "id": "CAT-CSR260-ROAD2005",
+      "manufacturer": "Caterham",
+      "model_family": "Seven CSR",
+      "generation": "CSR independently suspended and stiffened Seven chassis generation",
+      "variant": "CSR 260 — June 2005 road assessment",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Barker/Morgan followed development and drove the final road car. Selected June 2005 reference, not the earlier race prototype or November 2004 announcement. Earlier 260-bhp, LSD and tyre claims are not mixed into this road assessment. No kerb-weight or emissions-market inference is added.",
+      "summary": "The CSR substantially re-engineered the Seven: a stiffer structure, independent rear suspension and inboard front dampers transformed its road behaviour. It represents an engineering advance beyond the original Lotus Seven already in the archive.",
+      "admission_reason": "The CSR substantially re-engineered the Seven: a stiffer structure, independent rear suspension and inboard front dampers transformed its road behaviour. It represents an engineering advance beyond the original Lotus Seven already in the archive.",
+      "sources": [
+        {
+          "publisher": "evo / John Barker and Nathan Morgan",
+          "title": "Caterham Seven CSR 260: Reborn — John Barker and Nathan Morgan, 1 June 2005",
+          "source_type": "Contemporary first-hand road and development assessment",
+          "url": "https://www.evo.co.uk/caterham/7/14206/caterham-seven-csr-260-reborn",
+          "notes": "Barker/Morgan followed development and drove the final road car. Selected June 2005 reference, not the earlier race prototype or November 2004 announcement. Earlier 260-bhp, LSD and tyre claims are not mixed into this road assessment. No kerb-weight or emissions-market inference is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2006 Caterham Seven 260 CSR.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2006_Caterham_Seven_260_CSR.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Cosworth-developed Ford inline four; aluminium block and DOHC sixteen-valve head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2261",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Caterham six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones front and rear; inboard front coil-over dampers; anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular steel chassis, reinforced through Multimatic development",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native road-assessment specification at 7500 rpm",
+          "value": "256",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native road-assessment specification at 6200 rpm",
+          "value": "200",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The CSR substantially re-engineered the Seven: a stiffer structure, independent rear suspension and inboard front dampers transformed its road behaviour. It represents an engineering advance beyond the original Lotus Seven already in the archive.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cat_csr260_road2005.jpg",
+          "caption": "Caterham Seven 260 CSR identified as 2006, illustrating the CSR open body, broader stance and nose ventilation. Represents the 2005 road-development family. The picture does not authenticate engine output, differential, exact suspension tune or every item fitted to the assessed press car.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6d616ff0cb08d0f1ce925a85a6e6a569113561d9f4ff379d84040b008ca01c41"
+        }
+      ]
+    },
+    {
+      "id": "PAN-AIV-ROADSTER-US1998",
+      "manufacturer": "Panoz",
+      "model_family": "AIV Roadster",
+      "generation": "Original aluminium-intensive Panoz AIV roadster family",
+      "variant": "AIV Roadster — 1998 USA certified five-speed",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original California Air Resources Board EO A-323-3 for 1998-model-year Panoz. All three PDF pages rendered; supplemental model row PDF3 enlarged and read: PNZRD98, 50-state, M5. Certification test weight is not kerb weight. The sheet’s native 300-rated-HP entry is not combined with the 305-hp preproduction article. No suspension, exact cc, gearbox maker or performance is inferred.",
+      "summary": "The AIV Roadster is an unusual American sports-car engineering landmark, applying aluminium-intensive construction to a compact hand-built roadster. It established Panoz’s road-car identity before the company expanded its competition programme.",
+      "admission_reason": "The AIV Roadster is an unusual American sports-car engineering landmark, applying aluminium-intensive construction to a compact hand-built roadster. It established Panoz’s road-car identity before the company expanded its competition programme.",
+      "sources": [
+        {
+          "publisher": "California Air Resources Board / Panoz manufacturer submission",
+          "title": "1998 Panoz AIV Roadster — CARB Executive Order A-323-3 and supplemental model sheet",
+          "source_type": "Original government vehicle-certification record and manufacturer supplemental data",
+          "url": "https://ww2.arb.ca.gov/sites/default/files/classic/msprog/nvepb/executive_orders/EO%20Web%20Files/PC-LDT-MDV/1998/0003/pc-ldt-mdv_pc_a-323-3.pdf",
+          "notes": "Original California Air Resources Board EO A-323-3 for 1998-model-year Panoz. All three PDF pages rendered; supplemental model row PDF3 enlarged and read: PNZRD98, 50-state, M5. Certification test weight is not kerb weight. The sheet’s native 300-rated-HP entry is not combined with the 305-hp preproduction article. No suspension, exact cc, gearbox maker or performance is inferred."
+        },
+        {
+          "publisher": "Panoz",
+          "title": "About Panoz — Roadster and aluminium-intensive AIV history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://panoz.com/about/",
+          "notes": "Manufacturer documents the aluminium-intensive road programme and later expansion into racing. Its absolute first claim and disputed introduction chronology are not imported. The January 1997 preproduction test is not the production technical reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Panoz AIV 1998 Roadster AboveHood CECF 9April2011 (14414259088).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Panoz_AIV_1998_Roadster_AboveHood_CECF_9April2011_(14414259088).jpg",
+          "notes": "Valder137; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Panoz_AIV_1998_Roadster_AboveHood_CECF_9April2011"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual; certification code M5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multiport fuel injection",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The AIV Roadster is an unusual American sports-car engineering landmark, applying aluminium-intensive construction to a compact hand-built roadster. It established Panoz’s road-car identity before the company expanded its competition programme.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pan_aiv_roadster_us1998.jpg",
+          "caption": "Panoz AIV Roadster identified as 1998 at the 2011 Celebration Exotic Car Festival, showing the original separate-wing open-roadster form. Represents the certified 1998 model family. Its appearance does not authenticate the engine-control calibration, current transmission or unchanged original mechanical equipment.",
+          "creator": "Valder137",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "67750af0a4af54693de7ea1bca667ac33b89b30fc526e782c28a316230e9378d"
+        }
+      ]
+    }
+  ]
+}

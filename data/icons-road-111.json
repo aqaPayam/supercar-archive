@@ -1,0 +1,237 @@
+{
+  "batch": "icons-road-2026-10-30-111",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "OLD-TORONADO-G1-DELUXE-US1966",
+      "manufacturer": "Oldsmobile",
+      "model_family": "Toronado",
+      "generation": "First-generation 1966–1970 Toronado production-road coupe family",
+      "variant": "Toronado Deluxe 425 coupe — 1966 USA original brochure, Turbo Hydra-Matic",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1966 USA Toronado Deluxe coupe, original factory brochure printed 9-65. Count the first-generation 1966–1970 Toronado road family once across years, standard/Deluxe trim, engines and later packages. Selected original 425 Rocket V8 and three-speed Turbo Hydra-Matic front drive; not later 455/W-34 or prototype specification. Retain advertised factory horsepower/native units without modern net conversion. Five-passenger height label preserved literally. No road-test speed as maximum speed, prototype snow performance, fuel-economy result or universal curb mass inferred.",
+      "summary": "The original Toronado is a landmark high-performance grand-touring coupe, combining a powerful V8 with a compact front-wheel-drive powertrain. Motor Trend’s contemporary 1966 Car of the Year cross-country test documents its engineering impact, distinctive design and accomplished handling over 2,769 miles, establishing significance beyond luxury equipment or price.",
+      "admission_reason": "The original Toronado is a landmark high-performance grand-touring coupe, combining a powerful V8 with a compact front-wheel-drive powertrain. Motor Trend’s contemporary 1966 Car of the Year cross-country test documents its engineering impact, distinctive design and accomplished handling over 2,769 miles, establishing significance beyond luxury equipment or price.",
+      "sources": [
+        {
+          "publisher": "Oldsmobile Division, General Motors / Outright Oldsmobile facsimile",
+          "title": "Out Front in 66 — original 1966 Toronado brochure, printed September 1965",
+          "source_type": "Original manufacturer sales/specification brochure, hosted scan",
+          "url": "https://outrightolds.com/PDFBrochure/1966OldsmobileToronado.pdf",
+          "notes": "13-page scanned file, 11,189,717 bytes. Full indexes 1 (printed 2–3), 11 (22–23) and 12 (back cover) visually read; engineering table on 11 enlarged and read. Back-cover/colophon identify 1966 and print code 9-65. Original 425, Quadrajet, variable-pitch three-speed and chain drive are distinguished from later engines. Shared exterior dimensions apply to this coupe; height retains factory 5-pass. label. Interior trim dimensions and general curb weight not imported. No modern net power convention or first-front-drive-ever claim inferred."
+        },
+        {
+          "publisher": "Motor Trend",
+          "title": "1966 Car of the Year: Toronado Cross-Country Road Test — John Ethridge, December 1965",
+          "source_type": "Contemporary first-hand road test and award coverage, publisher archive",
+          "url": "https://www.motortrend.com/features/toronado-roadtest",
+          "notes": "Originally December 1965; publisher reprint 24 June 2005. The author reports 2,769 road miles, handling and design reactions, with limitations such as high-altitude headlamp operation and windscreen-wiper lift. Used for admission only. Preproduction snow film, test cruising speeds, tank-fill discrepancy and fuel economy are not selected factory specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1966 Oldsmobile Toronado Deluxe, front right, 06-16-2024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1966_Oldsmobile_Toronado_Deluxe,_front_right,_06-16-2024.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Creator: https://commons.wikimedia.org/wiki/User:MercurySable99 . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Toronado Rocket V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "425",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "385",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "475",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal bore × stroke",
+          "value": "4.125 × 3.975",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Quadrajet four-barrel; air-valve-actuated secondary throttle bores",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Recommended fuel",
+          "value": "Premium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Standard transmission",
+          "value": "Turbo Hydra-Matic three-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Torque converter",
+          "value": "Variable-pitch stator",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Internal drive arrangement",
+          "value": "Silent-chain drive from torque converter to planetary gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Final drive",
+          "value": "Planetary-gear differential; 3.21:1 axle ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Front drive shafts",
+          "value": "Twin constant-velocity universal joints; rubber-isolated right axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "Ball-joint independent suspension; torsion-bar springs and stabilizer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Single-leaf design; four shock absorbers, vertical and horizontal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Service brakes",
+          "value": "Standard power assistance; self-adjusting finned cast-iron drums, 11-inch front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance and ratio",
+          "value": "Standard power steering; 17.8:1 overall",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "119",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "211",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "78.5",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height, factory 5-pass. label",
+          "value": "52.8",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Toronado is a landmark high-performance grand-touring coupe, combining a powerful V8 with a compact front-wheel-drive powertrain. Motor Trend’s contemporary 1966 Car of the Year cross-country test documents its engineering impact, distinctive design and accomplished handling over 2,769 miles, establishing significance beyond luxury equipment or price.",
+          "category": "Historical significance",
+          "confidence": "Contemporary first-hand road test and award coverage documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_old_toronado_g1_1966.jpg",
+          "caption": "1966 Toronado Deluxe photographed by MercurySable99 at the Father’s Day show, Sharon, Pennsylvania, 16 June 2024; source describes Almond Beige. Representative original coupe body with closed retractable headlamps and Deluxe-style wheel rings. It does not authenticate engine internals, transmission, suspension calibration, trim originality or restoration history.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1b1166d3ec40ef258d47db54ce5ef064847385d319cda88505ed3338cc5cfab8"
+        }
+      ]
+    }
+  ]
+}

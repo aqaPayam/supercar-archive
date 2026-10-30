@@ -1,0 +1,463 @@
+{
+  "reviewed_on": "2026-10-30",
+  "car_id": "LEX-LFA-STD",
+  "purpose": "Record baseline LFA eligibility and source review, clarify media scope and source qualifications, and add a sourced admission fact without changing car counts or technical values.",
+  "catalogue_count": 863,
+  "reviewed_attribute_ids": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    1,
+    2,
+    3,
+    4,
+    5,
+    17,
+    18,
+    19,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    43,
+    44,
+    35,
+    36,
+    37,
+    45,
+    38,
+    39,
+    40,
+    41
+  ],
+  "reviewed_fact_ids": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "media_updates": [
+    {
+      "media_id": 2,
+      "before": {
+        "id": 2,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Interior image",
+        "location": "/assets/lfa_interior.jpg",
+        "caption": "LFA cockpit and digital instrument display",
+        "creator": "Jay Clark",
+        "license": "CC BY 2.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 11,
+        "scope_level": "Variant"
+      },
+      "after": {
+        "id": 2,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Interior image",
+        "location": "/assets/lfa_interior.jpg",
+        "caption": "Lexus LFA cabin photographed by Jay Clark, viewed through the open door. The steering wheel and seat are visible; the photograph does not demonstrate the digital instrument display or its operation.",
+        "creator": "Jay Clark",
+        "license": "CC BY 2.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 11,
+        "scope_level": "Variant"
+      },
+      "sha256": "def04cf2b9c9c9540000d05abcd3ee7791508704bd3dd5a3ba03c00e1e81f331",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_interior_(4275610758).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "match": "Byte-identical current Commons rendition",
+      "credit": "Lexus LFA interior"
+    },
+    {
+      "media_id": 3,
+      "before": {
+        "id": 3,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Rear image",
+        "location": "/assets/lfa_rear.jpg",
+        "caption": "Rear three-quarter view of a red Lexus LFA",
+        "creator": "Tokumeigakarinoaoshima",
+        "license": "CC0 1.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 12,
+        "scope_level": "Variant"
+      },
+      "after": {
+        "id": 3,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Rear image",
+        "location": "/assets/lfa_rear.jpg",
+        "caption": "Rear view of a red Lexus LFA photographed by Tokumeigakarinoaoshima, showing a prominent raised rear wing. Representative body view only: the photograph does not establish standard-model aero equipment, a factory Nurburgring Package, original build or a specific production chassis.",
+        "creator": "Tokumeigakarinoaoshima",
+        "license": "CC0 1.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 12,
+        "scope_level": "Variant"
+      },
+      "sha256": "8729cf1eeda1b84d1b160780a4a2e764c60fc8a25239b02d9ebc676bdd7bb184",
+      "evidence": "https://commons.wikimedia.org/wiki/File:The_rearview_of_Lexus_LFA.JPG",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "match": "Byte-identical current Commons original",
+      "credit": "Own work"
+    },
+    {
+      "media_id": 4,
+      "before": {
+        "id": 4,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Engine image",
+        "location": "/assets/lfa_engine.jpg",
+        "caption": "The 1LR-GUE V10 engine",
+        "creator": "Tennen-Gas / Altair78",
+        "license": "CC BY-SA 3.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 13,
+        "scope_level": "Variant"
+      },
+      "after": {
+        "id": 4,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Engine image",
+        "location": "/assets/lfa_engine.jpg",
+        "caption": "Lexus LFA engine-bay photograph by Tennen-Gas, derivative by Altair78. Representative visible engine installation; the image does not certify the engine code, internal specification, output or identity of the European reference car.",
+        "creator": "Tennen-Gas / Altair78",
+        "license": "CC BY-SA 3.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-28 11:42:21",
+        "source_id": 13,
+        "scope_level": "Variant"
+      },
+      "sha256": "74086fd881b054343c825d0a63094eb89dcede6d6ba501c88a2f4a42bff6e30e",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_010_engine.JPG",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "match": "Byte-identical current Commons rendition",
+      "credit": "Lexus_LFA_011.JPG"
+    },
+    {
+      "media_id": 1,
+      "before": {
+        "id": 1,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Exterior image",
+        "location": "/assets/lfa_exterior.jpg",
+        "caption": "Standard Lexus LFA at the 2010 Greater Los Angeles Auto Show",
+        "creator": "Christian Flores / CFlo Photography",
+        "license": "CC BY-SA 2.0",
+        "source_url": null,
+        "is_primary": 1,
+        "created_at": "2026-08-28 09:58:16",
+        "source_id": 10,
+        "scope_level": "Variant"
+      },
+      "after": {
+        "id": 1,
+        "car_id": "LEX-LFA-STD",
+        "media_type": "Exterior image",
+        "location": "/assets/lfa_exterior.jpg",
+        "caption": "Lexus LFA rear three-quarter view at the 2010 Greater Los Angeles Auto Show, photographed by Christian Flores. Representative display car; this exterior does not establish production chassis identity, model year, engine tune or original equipment.",
+        "creator": "Christian Flores / CFlo Photography",
+        "license": "CC BY-SA 2.0",
+        "source_url": null,
+        "is_primary": 1,
+        "created_at": "2026-08-28 09:58:16",
+        "source_id": 10,
+        "scope_level": "Variant"
+      },
+      "sha256": "d1d0559db2f4fa07e4db789b24316e7cd730ad141594f49dd3b572787947d4d5",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(5220373328).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "match": "Byte-identical current Commons original",
+      "credit": "Lexus LFA"
+    }
+  ],
+  "source_updates": [
+    {
+      "source_id": 10,
+      "before": {
+        "id": 10,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "commons.wikimedia.org",
+        "title": "commons.wikimedia.org",
+        "source_type": "Evidence source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(5220373328).jpg",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 10,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "File:Lexus LFA (5220373328).jpg",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(5220373328).jpg",
+        "notes": "Reviewed 2026-10-30: stored JPEG visually inspected and byte-matched to the current Commons original/rendition. Creator: Christian Flores from Carlsbad / Encinitas, United States of America. Licence: CC BY-SA 2.0. Exact licence URL: https://creativecommons.org/licenses/by-sa/2.0. Original credit: Lexus LFA. Image bytes preserved. Caption limits body/equipment and provenance claims; no engine output, instrumentation operation or factory package identity is inferred from appearance.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    },
+    {
+      "source_id": 13,
+      "before": {
+        "id": 13,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "commons.wikimedia.org",
+        "title": "commons.wikimedia.org",
+        "source_type": "Evidence source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_010_engine.JPG",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 13,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "File:Lexus LFA 010 engine.JPG",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_010_engine.JPG",
+        "notes": "Reviewed 2026-10-30: stored JPEG visually inspected and byte-matched to the current Commons original/rendition. Creator: Lexus_LFA_011.JPG : Tennen-Gas derivative work: Altair78 ( talk ). Licence: CC BY-SA 3.0. Exact licence URL: https://creativecommons.org/licenses/by-sa/3.0. Original credit: Lexus_LFA_011.JPG. Image bytes preserved. Caption limits body/equipment and provenance claims; no engine output, instrumentation operation or factory package identity is inferred from appearance.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    },
+    {
+      "source_id": 11,
+      "before": {
+        "id": 11,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "commons.wikimedia.org",
+        "title": "commons.wikimedia.org",
+        "source_type": "Evidence source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_interior_(4275610758).jpg",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 11,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "File:Lexus LFA interior (4275610758).jpg",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_interior_(4275610758).jpg",
+        "notes": "Reviewed 2026-10-30: stored JPEG visually inspected and byte-matched to the current Commons original/rendition. Creator: Jay Clark from Chicago, IL, USA. Licence: CC BY 2.0. Exact licence URL: https://creativecommons.org/licenses/by/2.0. Original credit: Lexus LFA interior. Image bytes preserved. Caption limits body/equipment and provenance claims; no engine output, instrumentation operation or factory package identity is inferred from appearance.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    },
+    {
+      "source_id": 12,
+      "before": {
+        "id": 12,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "commons.wikimedia.org",
+        "title": "commons.wikimedia.org",
+        "source_type": "Evidence source",
+        "url": "https://commons.wikimedia.org/wiki/File:The_rearview_of_Lexus_LFA.JPG",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 12,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Wikimedia Commons",
+        "title": "File:The rearview of Lexus LFA.JPG",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:The_rearview_of_Lexus_LFA.JPG",
+        "notes": "Reviewed 2026-10-30: stored JPEG visually inspected and byte-matched to the current Commons original/rendition. Creator: Tokumeigakarinoaoshima. Licence: CC0. Exact licence URL: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Original credit: Own work. Image bytes preserved. Caption limits body/equipment and provenance claims; no engine output, instrumentation operation or factory package identity is inferred from appearance.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    },
+    {
+      "source_id": 1,
+      "before": {
+        "id": 1,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Toyota Motor Corporation",
+        "title": "Lexus Debuts LFA",
+        "source_type": "Manufacturer release",
+        "url": "https://global.toyota/en/detail/308263",
+        "notes": "Primary specifications and engineering information.",
+        "created_at": "2026-08-28 09:58:16"
+      },
+      "after": {
+        "id": 1,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Toyota Motor Corporation",
+        "title": "Lexus Debuts LFA",
+        "source_type": "Manufacturer release",
+        "url": "https://global.toyota/en/detail/308263",
+        "notes": "Reviewed 2026-10-30 against the actual October 21, 2009 release. European specifications are manufacturer measurements and targets, including the 1,480 kg vehicle weight and performance figures, not independent test results. Stored 278.4 kW/tonne is calculated as 412 kW / 1.480 tonnes, rounded; it is not a separately published measurement. The announced 500 and December 2010–December 2012 scope cover the whole LFA programme including the Nurburgring Package, not 500 standard cars plus 50. Actual completion is corroborated by source 15 and https://global.toyota/en/detail/95770. Standard road hardware is distinct from concepts, racers and package-specific tuning.",
+        "created_at": "2026-08-28 09:58:16"
+      }
+    },
+    {
+      "source_id": 15,
+      "before": {
+        "id": 15,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "media.lexus.co.uk",
+        "title": "media.lexus.co.uk",
+        "source_type": "Evidence source",
+        "url": "https://media.lexus.co.uk/final-lexus-lfa-delivery-in-europe/",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 15,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus UK Media",
+        "title": "Final Lexus LFA Delivery In Europe",
+        "source_type": "Manufacturer production / delivery release",
+        "url": "https://media.lexus.co.uk/final-lexus-lfa-delivery-in-europe/",
+        "notes": "Reviewed 2026-10-30 in the actual manufacturer release body. European customer deliveries are distinct from manufacture: production ran from December 15, 2010 to December 14, 2012; European deliveries included package cars within the overall total. The completion release https://global.toyota/en/detail/95770 was also read and confirms the final 500th car on December 14, 2012. No additional variant, year or customer-delivery date adds a car.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    },
+    {
+      "source_id": 2,
+      "before": {
+        "id": 2,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus UK Media",
+        "title": "Lexus LFA",
+        "source_type": "Manufacturer media guide",
+        "url": "https://media.lexus.co.uk/lexus-lfa/",
+        "notes": "Instrumentation and detailed technical description.",
+        "created_at": "2026-08-28 09:58:16"
+      },
+      "after": {
+        "id": 2,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus UK Media",
+        "title": "Lexus LFA",
+        "source_type": "Manufacturer media guide",
+        "url": "https://media.lexus.co.uk/lexus-lfa/",
+        "notes": "Reviewed 2026-10-30: actual instrumentation, engine, construction and manufacturing sections read. Supports the existing LCD/TFT needle and movable ring, red display above 9,000 rpm, bespoke V10 and in-house CFRP technology. The technical table prints 1LR-GSE, inconsistent with Toyota global source 1 naming 1LR-GUE; the latter remains the engine-code reference. The UK table lists a 1,480–1,580 kg kerb-weight range; the stored 1,480 kg vehicle-weight field follows source 1 and is not a universal as-equipped mass. Instrument operation is source evidence, not something shown in the stored cabin photo.",
+        "created_at": "2026-08-28 09:58:16"
+      }
+    },
+    {
+      "source_id": 3,
+      "before": {
+        "id": 3,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus USA Newsroom",
+        "title": "Lexus Announces Price of All-New LFA Supercar",
+        "source_type": "Manufacturer pricing release",
+        "url": "https://pressroom.lexus.com/?generate_pdf=54738",
+        "notes": "US MSRP.",
+        "created_at": "2026-08-28 09:58:16"
+      },
+      "after": {
+        "id": 3,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus USA Newsroom",
+        "title": "Lexus Announces Price of All-New LFA Supercar",
+        "source_type": "Manufacturer pricing release",
+        "url": "https://pressroom.lexus.com/?generate_pdf=54738",
+        "notes": "Reviewed 2026-10-30 in the actual two-page pricing PDF and equivalent manufacturer HTML release: https://pressroom.lexus.com/lexus-announces-price-of-all-new-lfa-supercar/. February 24, 2010 announced US MSRP is $375,000, excluding delivery, processing and handling fees; options may cost extra. US launch pricing is separate from the European technical reference and is not a current market valuation.",
+        "created_at": "2026-08-28 09:58:16"
+      }
+    },
+    {
+      "source_id": 14,
+      "before": {
+        "id": 14,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "pressroom.lexus.com",
+        "title": "pressroom.lexus.com",
+        "source_type": "Evidence source",
+        "url": "https://pressroom.lexus.com/lexus-introduces-2012-lfa-nurburgring-package/",
+        "notes": "Migrated from a record-level reference.",
+        "created_at": "2026-08-28 12:15:21"
+      },
+      "after": {
+        "id": 14,
+        "car_id": "LEX-LFA-STD",
+        "publisher": "Lexus USA Newsroom",
+        "title": "Lexus Introduces 2012 LFA Nurburgring Package",
+        "source_type": "Manufacturer road-package release",
+        "url": "https://pressroom.lexus.com/lexus-introduces-2012-lfa-nurburgring-package/",
+        "notes": "Reviewed 2026-10-30 in the actual manufacturer release body. The 50-unit Nurburgring Package is within the 500 LFAs and changes output, shift time, suspension and fixed aero. These are not standard-model specifications. This source does not identify the red stored photograph as a genuine package car. Separate counting of same-generation packages remains pending.",
+        "created_at": "2026-08-28 12:15:21"
+      }
+    }
+  ],
+  "added_facts": [
+    {
+      "id": 2509,
+      "car_id": "LEX-LFA-STD",
+      "title": "Why this car belongs",
+      "category": "Historical significance",
+      "explanation": "The LFA pairs a purpose-built high-revving V10, individual throttles and a rear transaxle with Lexus-developed CFRP manufacturing and joining technology. The programme advanced both responsive road-car engineering and in-house composite construction. Its place in the archive rests on those documented engine, materials and manufacturing achievements.",
+      "why_it_matters": "Its high-revving character and lightweight cabin reflect a distinctive programme of engine and composite development.",
+      "source_url": null,
+      "confidence": "Manufacturer documented",
+      "created_at": "2026-10-29 23:44:09",
+      "source_id": 1,
+      "scope_level": "Generation"
+    }
+  ],
+  "new_fact": {
+    "car_id": "LEX-LFA-STD",
+    "title": "Why this car belongs",
+    "category": "Historical significance",
+    "explanation": "The LFA pairs a purpose-built high-revving V10, individual throttles and a rear transaxle with Lexus-developed CFRP manufacturing and joining technology. The programme advanced both responsive road-car engineering and in-house composite construction. Its place in the archive rests on those documented engine, materials and manufacturing achievements.",
+    "why_it_matters": "Its high-revving character and lightweight cabin reflect a distinctive programme of engine and composite development.",
+    "source_url": null,
+    "confidence": "Manufacturer documented",
+    "source_id": 1,
+    "scope_level": "Generation"
+  },
+  "identity_review": {
+    "inventory_count": 863,
+    "aliases": [
+      "LFA",
+      "LF-A"
+    ],
+    "matches": [
+      {
+        "id": "LEX-LFA-STD",
+        "manufacturer": "Lexus",
+        "model_family": "LFA",
+        "generation": "First / only production generation",
+        "variant": "Standard"
+      },
+      {
+        "id": "LEX-LFA-NUR",
+        "manufacturer": "Lexus",
+        "model_family": "LFA",
+        "generation": "LFA track-focused road package",
+        "variant": "Nürburgring Package"
+      }
+    ],
+    "decision": "One original production-road programme clearly qualifies. The existing Nurburgring Package is preserved; separate variant counting remains pending. No new car admitted."
+  }
+}

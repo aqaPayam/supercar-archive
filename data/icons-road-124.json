@@ -1,0 +1,125 @@
+{
+  "batch": "icons-road-2026-10-30-124",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "TOY-LEVIN-TE27-2TG-HISTORY1972",
+      "manufacturer": "Toyota",
+      "model_family": "Corolla Levin / Sprinter Trueno",
+      "generation": "Original TE27 Levin/Trueno road family on second-generation E20 Corolla platform",
+      "variant": "Corolla Levin 2T-G — 1972 Japan road reference in manufacturer history",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback coupe",
+      "road_legal": 1,
+      "specification_market": "Original TE27 first Levin / Trueno production-road family on the second-generation E20 Corolla/Sprinter coupe platform. Selected 1972 Japan 2T-G Levin road reference is Toyota UK’s manufacturer historical account: 1588 cc, 115 PS at 6400 rpm, 105 lb-ft at 5200 rpm, 855 kg kerb mass and Solex carburetion. Output is quoted as stated; that page does not establish a gross/net test basis, so none is asserted and no SAE/net conversion is inferred. Group sister Trueno, years, grades and facelift within one TE27 programme; do not add the sister badge separately. Existing AE86 cars are a later generation, not this entry. No ordinary TE25/OHV engine, US SR5, race tune, 151E sixteen-valve head, near-200-hp competition output, dimensions, transmission, tyres, brakes, compression ratio or actual measured performance imported. Production engine’s eight valves are separately supported by Toyota’s motorsport history.",
+      "summary": "The original TE27 Corolla Levin / Sprinter Trueno put the Celica’s 2T-G twin-cam engine into a lighter road coupe in 1972 and established the sporting lineage later associated with the AE86. Toyota documents its place in the early Corolla WRC programme. This road-car foundation earns admission; the later 151E sixteen-valve rally engine and its results are kept separate from stock specifications.",
+      "admission_reason": "The original TE27 Corolla Levin / Sprinter Trueno put the Celica’s 2T-G twin-cam engine into a lighter road coupe in 1972 and established the sporting lineage later associated with the AE86. Toyota documents its place in the early Corolla WRC programme. This road-car foundation earns admission; the later 151E sixteen-valve rally engine and its results are kept separate from stock specifications.",
+      "sources": [
+        {
+          "publisher": "Toyota UK",
+          "title": "Toyota Corolla generations: 1970–74 — Joe Clifford, 1 July 2013; updated 26 July 2024",
+          "source_type": "Original manufacturer model-history and road-specification account",
+          "url": "https://mag.toyota.co.uk/toyota-corolla-generations-1970-74/",
+          "notes": "Full relevant article body read, including Levin introduction, powertrain and chassis context. Selected TE27 2T-G road figures only. Output basis remains unspecified on this page, not relabelled as modern net/SAE. General Corolla equipment lists do not prove exact Levin equipment. Article compresses the 1975 rally story; the more specific Toyota global motorsport account controls separation of production eight-valve 2T-G and later sixteen-valve 151E competition engines."
+        },
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Corolla and Motor Sports — 14 November 2016, early TE27 programme",
+          "source_type": "Original manufacturer motorsport-history account",
+          "url": "https://global.toyota/en/corolla50th/history/ms/",
+          "notes": "Complete relevant early-Corolla section read. Explicitly links 1972 lighter 20-series Levin/Trueno production road cars with the 2T-G and TE27 identity; says early Group 2 programme used the production eight-valve engine. Separately identifies the TE25/2T-B at the 1973 Press-on-Regardless win and the later 151E sixteen-valve rally engine at the 1975 1000 Lakes victory. Neither race-car output nor race-car specifications are copied to this road record. Later Corolla WRC and AE86 discussion do not supply TE27 attributes."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Toyota Corolla Levin TE27.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Toyota_Corolla_Levin_TE27.jpg",
+          "notes": "TTTNIS; own work dated 27 July 2014. CC0 1.0 Universal Public Domain Dedication, exact source deed http://creativecommons.org/publicdomain/zero/1.0/deed.en . Downloaded 1280-pixel Commons rendition copied unchanged. Visible exterior details are representative, not authentication of engine, build year, originality or factory wheel/tyre fitment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Designation",
+          "value": "2T-G",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1588",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel delivery",
+          "value": "Solex carburetion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Quoted factory historical output",
+          "value": "115 PS at 6400 rpm; test basis not specified in selected source",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Quoted maximum torque",
+          "value": "105 lb-ft at 5200 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Quoted kerb mass",
+          "value": "855",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Production valve count",
+          "value": "8",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original TE27 Corolla Levin / Sprinter Trueno put the Celica’s 2T-G twin-cam engine into a lighter road coupe in 1972 and established the sporting lineage later associated with the AE86. Toyota documents its place in the early Corolla WRC programme. This road-car foundation earns admission; the later 151E sixteen-valve rally engine and its results are kept separate from stock specifications.",
+          "category": "Sporting-lineage origin and early rally foundation",
+          "confidence": "Original manufacturer model and motorsport histories documented; road and competition engines separated",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toyota_levin_te27_1972.jpg",
+          "caption": "TE27 Corolla Levin road coupe, photographed by TTTNIS on 27 July 2014 and titled 1972 Toyota Corolla Levin TE27. Individually inspected front-side view shows the original fastback body, round lamps and bolt-on arch extensions. Representative exterior only: title year, badging, visible wheels/tyres and masked plate do not authenticate build date, engine, tune or originality. CC0 1.0; 1280-pixel Commons source rendition copied unchanged.",
+          "creator": "TTTNIS",
+          "license": "CC0 1.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4366dce7c866ba9f27aa832d838254d2cd26b710f7cbf3583c00bf30e708dd42"
+        }
+      ]
+    }
+  ]
+}

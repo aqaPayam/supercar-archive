@@ -1,0 +1,125 @@
+{
+  "batch": "icons-road-2026-10-30-146",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "APO-GT5000-TAM1963",
+      "manufacturer": "Apollo / International Motor Cars",
+      "model_family": "Apollo GT / Vetta Ventura",
+      "generation": "Original 3500/5000 production-road family",
+      "variant": "5000 GT coupe — museum-listed 1963 reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Closed two-door sporting GT coupe",
+      "road_legal": 1,
+      "specification_market": "Museum-listed 1963 Apollo 5000 GT coupe, selected as a documented restored reference for the original Apollo 3500/5000 and Vetta Ventura road family. Six equipment attributes follow the collection account only. Red body refurbishment and engine rebuild mean these are not universal factory-original specifications. No exact displacement conversion, power, torque, engine casting, original fitment, brake type, top speed or acceleration inferred. Buckley drives a different 3500 Spider; its specifications and impressions are not transferred to this 5000 coupe. Photo is a separately labelled 1965 5000 coupe, representative of body and family only. One conservative family admission; no separate engines, road bodies, renamed producers, GT.L 2+2 prototype, mid-engine proposal or dedicated racer. Unrelated modern Gumpert Apollo and later Griffith/Italia are separate programmes.",
+      "summary": "The Apollo GT earns a place as a distinctive American-Italian sporting GT: Milt Brown paired Buick power with bespoke Intermeccanica coachwork shaped by Ron Plescia and Franco Scaglione. Buckley’s original drive and founder interview document a coherent sporting design rather than a rarity-only curiosity. Count the Apollo 3500/5000 and Vetta Ventura production-road family once.",
+      "admission_reason": "The Apollo GT earns a place as a distinctive American-Italian sporting GT: Milt Brown paired Buick power with bespoke Intermeccanica coachwork shaped by Ron Plescia and Franco Scaglione. Buckley’s original drive and founder interview document a coherent sporting design rather than a rarity-only curiosity. Count the Apollo 3500/5000 and Vetta Ventura production-road family once.",
+      "sources": [
+        {
+          "publisher": "Tucson Auto Museum",
+          "title": "1963 Apollo 5000 GT — collection record",
+          "source_type": "Museum collection record",
+          "url": "https://www.tucsonautomuseum.org/collection/1963-apollo-5000-gt",
+          "notes": "Complete relevant collection text read. All six attributes describe the museum-listed car, not an untouched universal factory specification. Museum dates its red refurbishment to 2006 and engine rebuild to 2018/2019; acquisition history includes reported information. Exact production totals, authenticity, original engine fitment, horsepower, dimensions, brakes and timed performance are not inferred."
+        },
+        {
+          "publisher": "Classic & Sports Car; Martin Buckley",
+          "title": "The American classic car that thinks it is a Ferrari — original November 2019 feature, web republication 10 March 2026",
+          "source_type": "Original firsthand drive and founder interview",
+          "url": "https://www.classicandsportscar.com/en-US/features/american-classic-car-thinks-its-ferrari",
+          "notes": "Complete relevant publisher-hosted HTML feature, founder interview and factfile read. Publisher explicitly identifies original November 2019 magazine publication; web date is not a new drive. Buckley drives a 3500 Spider and interviews Milt Brown. Used for sporting-family admission and Apollo/Vetta Ventura relationship, not specifications of the museum 5000 coupe. Spider handling impressions, 3500 factfile, repeated older performance results and production totals are not transferred. Original PDF facsimile could not be retrieved or visually checked and is not a cited specification source."
+        },
+        {
+          "publisher": "Intermeccanica",
+          "title": "Our History — Apollo to Griffith and Italia",
+          "source_type": "Original manufacturer historical account with acknowledged book quotations",
+          "url": "https://intermeccanica.com/history/",
+          "notes": "Relevant Apollo and subsequent Griffith/Omega/Torino/Italia sections read; supports programme boundary. Page credits Andrew McCredie book quotations; underlying book not read. Apollo is an earlier project leading to, rather than an alternative name for, the Griffith/Italia development. Race-car claims, awards and totals are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons; Rex Gray",
+          "title": "File:1965 Apollo 5000 GT Coupe - red - fvr.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Apollo_5000_GT_Coupe_-_red_-_fvr.jpg",
+          "notes": "File summary, licensing, upload history and API metadata read. Rex Gray photograph at 2011 Desert Classic, La Quinta, dated 26 February 2011. Flickr source https://www.flickr.com/photos/rexgray/5607736288/ ; Commons license review dated 30 December 2012. Current Commons revision uploaded 1 January 2013 by SocCarpassion is marked watermark removed; this inherited modification is retained, not claimed unaltered from photographer original. CC BY 2.0 deed read. Actual 1280 x 800 JPEG viewed individually and copied without further changes. Supplied 1965 5000 coupe label represents family/body only; not authenticated as the museum 1963 reference car, its engine, chassis or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Museum-listed engine",
+          "value": "Buick V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-listed displacement",
+          "value": "300",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Museum-listed gearbox",
+          "value": "BorgWarner four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Museum-listed wheels",
+          "value": "Borrani wire wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Museum-listed upholstery",
+          "value": "Black vinyl",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Museum-listed coachbuilder",
+          "value": "Intermeccanica, Turin; final assembly Oakland",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Apollo GT earns a place as a distinctive American-Italian sporting GT: Milt Brown paired Buick power with bespoke Intermeccanica coachwork shaped by Ron Plescia and Franco Scaglione. Buckley’s original drive and founder interview document a coherent sporting design rather than a rarity-only curiosity. Count the Apollo 3500/5000 and Vetta Ventura production-road family once.",
+          "category": "Transatlantic sporting-GT heritage",
+          "confidence": "Original publisher-hosted drive and founder interview, with museum coachbuilding corroboration; no exclusive first or timed-performance claim",
+          "source": 1
+        },
+        {
+          "title": "Names do not create extra cars",
+          "explanation": "The original drive feature traces Apollo body production into Vetta Ventura sales. Those related road cars are grouped once here; the later Griffith/Italia programme and modern Gumpert Apollo are not Apollo GT aliases.",
+          "category": "Family and alias identity",
+          "confidence": "Founder-interview feature, with manufacturer history for the later programme boundary; no production-total claim",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_apollo_gt_5000_coupe.jpg",
+          "caption": "Representative Apollo 5000 GT closed coupe, supplied title 1965 Apollo 5000 GT Coupe - red - fvr.jpg. Rex Gray, 2011 Desert Classic, La Quinta, 26 February 2011. Wikimedia Commons via Flickr https://www.flickr.com/photos/rexgray/5607736288/ ; CC BY 2.0, https://creativecommons.org/licenses/by/2.0/ . Commons revision marked watermark removed by SocCarpassion; downloaded 1280-pixel rendition copied without further changes. Not authenticated as the museum-listed 1963 reference car, engine, chassis or original condition; no endorsement implied.",
+          "creator": "Rex Gray",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "34c9d156029daa85e6c74a45ede928c0b24273067516aa03cfc31a1b3b82e463"
+        }
+      ]
+    }
+  ]
+}

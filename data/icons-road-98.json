@@ -1,0 +1,404 @@
+{
+  "batch": "icons-road-2026-10-30-98",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "NIS-SKY-CPV35-350GT-HERITAGE2003",
+      "manufacturer": "Nissan",
+      "model_family": "Skyline",
+      "generation": "Eleventh-generation V35 / CPV35 performance-road family; Infiniti G35 alias",
+      "variant": "Coupe 350GT — 2003 Japan Heritage Collection no. 497 reference",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Japan-market 2003 CPV35 Skyline Coupe 350GT, Nissan Heritage Collection no. 497 reference. Its VQ35DE table gives 3498 cc, 206 kW at 6200 rpm and 363 Nm at 4800 rpm; native kW/Nm are retained, not substituted with American G35 horsepower/torque or later Rev-Up/HR values. This museum entry does not identify its transmission or detailed equipment grade, so neither five-speed automatic nor six-speed manual is asserted as a technical field. In particular, the history paragraph’s eight-speed transmission belongs to the separate 350GT-8 sedan, not this coupe. Count V35/CPV35 and the export G35 badge once across bodies, gearboxes, packages and years; no second Infiniti record is added.",
+      "summary": "The V35 Skyline Coupe / Infiniti G35 brought Nissan’s front-midship V6 architecture to a distinctive four-seat sports coupe. The export G35 coupe shared Motor Trend’s 2003 Car of the Year award with its saloon sibling, giving this generation an established performance-car significance beyond its Skyline badge.",
+      "admission_reason": "The V35 Skyline Coupe / Infiniti G35 brought Nissan’s front-midship V6 architecture to a distinctive four-seat sports coupe. The export G35 coupe shared Motor Trend’s 2003 Car of the Year award with its saloon sibling, giving this generation an established performance-car significance beyond its Skyline badge.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Co.",
+          "title": "Nissan Skyline Coupe 350GT (2003: CPV35), Heritage Collection no. 497",
+          "source_type": "Manufacturer heritage-collection vehicle specifications",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/497_skyline_coupe_350gt.html",
+          "notes": "Japan-market 2003 CPV35 Skyline Coupe 350GT, Nissan Heritage Collection no. 497 reference. Its VQ35DE table gives 3498 cc, 206 kW at 6200 rpm and 363 Nm at 4800 rpm; native kW/Nm are retained, not substituted with American G35 horsepower/torque or later Rev-Up/HR values. This museum entry does not identify its transmission or detailed equipment grade, so neither five-speed automatic nor six-speed manual is asserted as a technical field. In particular, the history paragraph’s eight-speed transmission belongs to the separate 350GT-8 sedan, not this coupe. Count V35/CPV35 and the export G35 badge once across bodies, gearboxes, packages and years; no second Infiniti record is added."
+        },
+        {
+          "publisher": "Motor Trend",
+          "title": "Infiniti G35 is the 2003 Motor Trend Car of the Year",
+          "source_type": "Contemporary award publisher / first-hand evaluation",
+          "url": "https://www.motortrend.com/news/coyw",
+          "notes": "Original award publisher’s January 2003 account explicitly covers both G35 Sport Coupe and Sport Sedan and discusses their FM platform. Used for the export counterpart’s performance significance and award, not to overwrite the Japanese museum car’s specification or add its US test car as a separate record. Road-test times, US horsepower, Sport Package/Brembo equipment and tuned Stillen cars are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2003-2005 NISSAN SKYLINE COUPE 5AT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2003-2005_NISSAN_SKYLINE_COUPE_5AT.jpg",
+          "notes": "TTTNIS; Public domain; Author’s worldwide public-domain dedication on the source file page; not CC0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "VQ35DE V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "206",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "363",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-midship V6, FM package",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent multilink front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Front 225/50R17; rear 235/50R17",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length × width × height",
+          "value": "4640 × 1815 × 1395",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Wheelbase",
+          "value": "2850",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Curb weight, selected heritage reference",
+          "value": "1530",
+          "unit": "kg",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The V35 Skyline Coupe / Infiniti G35 brought Nissan’s front-midship V6 architecture to a distinctive four-seat sports coupe. The export G35 coupe shared Motor Trend’s 2003 Car of the Year award with its saloon sibling, giving this generation an established performance-car significance beyond its Skyline badge.",
+          "category": "Historical significance",
+          "confidence": "Contemporary award publisher documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_sky_cpv35_350gt_heritage2003.jpg",
+          "caption": "Early V35 Skyline Coupe photographed by TTTNIS in November 2009, showing the appropriate Nissan-badged road body. The source title identifies a 2003–2005 five-speed automatic example, rather than the unspecified gearbox of museum reference no. 497. Representative coupe photograph; exact reference year, original output, options and mechanical condition are not authenticated. Author’s own-work public-domain dedication is retained.",
+          "creator": "TTTNIS",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d71cc1fc399b82b9525646f3200e4fee7150bb2fcbd075be711c22f49d3d6654"
+        }
+      ]
+    },
+    {
+      "id": "AUD-S6PLUS-C4-DE1996-SALOON",
+      "manufacturer": "Audi",
+      "model_family": "S6",
+      "generation": "Original C4 S4/S6/S6 plus sporting-road family",
+      "variant": "S6 plus saloon — October 1996 German factory technical reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "C4 S6 plus saloon, German offering as of October 1996, original Audi factory technical sheet preserved by the Internet Archive. Select the left sedan column: 5.6-second 0–100 km/h and 1695 kg unladen weight, not the Avant’s 5.7 seconds/1745 kg. The common engine table gives 4172 cc V8, four overhead camshafts/four valves per cylinder, 11.6:1, 240 kW at 6500 rpm and 400 Nm at 3500 rpm under 80/1269/EEC. Native kW/Nm are retained; 326 PS is not mechanical bhp. Six-speed manual, Torsen centre differential and dual-mass flywheel are explicit; a secondary single-mass claim is not adopted. Performance and governed 250 km/h are factory claims. Count the C4 S4/S6/S6 plus sporting-road lineage once across names, engines, saloon/Avant bodies and years; ordinary A6 trim does not create another record.",
+      "summary": "The C4 S6 plus was quattro GmbH’s first complete high-performance model as a vehicle manufacturer, preceding its later RS programmes. Its reworked V8, six-speed manual and permanent quattro make it a substantive milestone in Audi Sport’s road-car engineering history.",
+      "admission_reason": "The C4 S6 plus was quattro GmbH’s first complete high-performance model as a vehicle manufacturer, preceding its later RS programmes. Its reworked V8, six-speed manual and permanent quattro make it a substantive milestone in Audi Sport’s road-car engineering history.",
+      "sources": [
+        {
+          "publisher": "Audi AG / Internet Archive preservation",
+          "title": "Technische Daten Audi S6 plus — Angebot in Deutschland, Oktober 1996",
+          "source_type": "Original manufacturer technical sheet, archived original Audi URL",
+          "url": "https://web.archive.org/web/20131216182432if_/http://www.audi.de/content/dam/ngw/product/used_cars/a6/pdf/s6/1996_10_s6av_plus.pdf",
+          "notes": "C4 S6 plus saloon, German offering as of October 1996, original Audi factory technical sheet preserved by the Internet Archive. Select the left sedan column: 5.6-second 0–100 km/h and 1695 kg unladen weight, not the Avant’s 5.7 seconds/1745 kg. The common engine table gives 4172 cc V8, four overhead camshafts/four valves per cylinder, 11.6:1, 240 kW at 6500 rpm and 400 Nm at 3500 rpm under 80/1269/EEC. Native kW/Nm are retained; 326 PS is not mechanical bhp. Six-speed manual, Torsen centre differential and dual-mass flywheel are explicit; a secondary single-mass claim is not adopted. Performance and governed 250 km/h are factory claims. Count the C4 S4/S6/S6 plus sporting-road lineage once across names, engines, saloon/Avant bodies and years; ordinary A6 trim does not create another record."
+        },
+        {
+          "publisher": "Audi AG",
+          "title": "High-performance models made by quattro — 15 May 2023",
+          "source_type": "Manufacturer engineering and company history",
+          "url": "https://www.audi.com/en/highlights-from-40-years-of-audi-sport-gmbh-15337/high-performance-models-made-by-quattro-15340",
+          "notes": "Detailed manufacturer history identifies the spring 1996 Geneva introduction as quattro GmbH’s first high-performance complete model, describes Project Q1 and the engine’s substantive changes. This supports admission rather than rarity or cosmetic trim. Original factory sheet remains technical authority; no extra Avant count or production-total assertion is made."
+        },
+        {
+          "publisher": "Audi Japan",
+          "title": "New RS 6 Avant announcement — 16 June 2008, S6 plus ancestry",
+          "source_type": "Manufacturer launch announcement with historical context",
+          "url": "https://www.audi-press.jp/press-releases/2008/crt6ds0000000oud.html",
+          "notes": "Contemporary manufacturer release traces the RS 6’s ancestry to quattro GmbH’s 1996 S6 plus. Used only as historical corroboration; the article’s 5.0 twin-turbo V10, 580 PS and automatic gearbox belong to the C6 RS 6 and are not S6 plus fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi S6 Plus Limousine.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_S6_Plus_Limousine.jpg",
+          "notes": "Hugoo2; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4172",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "240",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Four overhead camshafts (DOHC)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.6:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Motronic M 5.4.1 fully sequential multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Self-locking Torsen centre differential with EDS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Self-supporting fully galvanized steel body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson front struts; trapezoidal-link rear axle with struts and anti-roll bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs front and rear; front twin-piston brakes, ABS/EBV",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "255/40 ZR17 on 8J × 17 aluminium wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.6",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "84.5 × 93.0",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch and flywheel",
+          "value": "Single-plate dry clutch; dual-mass flywheel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Weight",
+          "label": "Unladen weight, sedan column as printed",
+          "value": "1695",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum-speed condition",
+          "value": "Electronically governed; factory claim",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C4 S6 plus was quattro GmbH’s first complete high-performance model as a vehicle manufacturer, preceding its later RS programmes. Its reworked V8, six-speed manual and permanent quattro make it a substantive milestone in Audi Sport’s road-car engineering history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_s6plus_c4_de1996_saloon.jpg",
+          "caption": "S6 plus saloon photographed by Hugoo2. Representative C4 four-door body with source-described non-original chrome mirror caps; these are not factory S6 plus equipment. The photograph does not authenticate exact model year, original V8 calibration, flywheel, brakes or mechanical condition.",
+          "creator": "Hugoo2",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "561dff0f0d394134cccc1418d78716855438ce58303f9bf75e0b2f6130775fcf"
+        }
+      ]
+    }
+  ]
+}

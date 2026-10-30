@@ -1,0 +1,209 @@
+{
+  "batch": "icons-road-2026-10-30-116",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HYU-VELOSTER-N-JS-PERFORMANCE-US2019",
+      "manufacturer": "Hyundai",
+      "model_family": "Veloster N",
+      "generation": "Second-generation JS Veloster, original N production-road performance family",
+      "variant": "275-hp Performance Package six-speed manual — 2019 USA production-launch reference",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "South Korea",
+      "category": "Performance icon",
+      "body_style": "Asymmetric three-side-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "2019 USA Veloster N with optional 275-hp Performance Package and six-speed manual, specified by Hyundai Motor America’s 24 October 2018 production-launch release. Separate second-generation Veloster road programme from the PD-based i30 N; not a renamed i30 or N Line trim. Count this Veloster N family once across outputs, model years and later DCT. Not the ordinary 1.6 Turbo/R-Spec, mid-engine RM development car, TCR or ETCR racer. The award is for the 2020 competition, published November 2019; it is programme context, not a claim that the selected 2019 specification is a different award-winning generation. No i30 PS-to-hp substitution, January estimated launch figures, later N Grin Shift, measured acceleration, curb mass or price imported.",
+      "summary": "The Veloster N earned Road & Track’s 2020 Performance Car of the Year award through road-and-track evaluation. The award recognizes unusually engaging, accessible handling rather than outright speed; the testers also noted limited engine character and awkward pedal spacing. It represents the distinctive second-generation Veloster N road programme once, not extra entries for gearbox choices or model years.",
+      "admission_reason": "The Veloster N earned Road & Track’s 2020 Performance Car of the Year award through road-and-track evaluation. The award recognizes unusually engaging, accessible handling rather than outright speed; the testers also noted limited engine character and awkward pedal spacing. It represents the distinctive second-generation Veloster N road programme once, not extra entries for gearbox choices or model years.",
+      "sources": [
+        {
+          "publisher": "Hyundai Motor America / PR Newswire",
+          "title": "Hyundai Introduces 2019 Veloster N at Thunderhill Raceway — 24 October 2018",
+          "source_type": "Original manufacturer production-launch release",
+          "url": "https://www.prnewswire.com/news-releases/hyundai-introduces-2019-veloster-n-first-us-market-n-brand-high-performance-model-at-thunderhill-raceway-300736235.html",
+          "notes": "Relevant release body from introduction through exterior/interior, powertrain, suspension and braking read. Explicitly distinguishes optional 275-hp/1450–4700-rpm Performance from base 250-hp/1450–4000-rpm car, optional 19-inch Pirelli tyres and 13.6/12.4-inch brakes from base 18-inch Michelin and 13.0/11.8-inch brakes. No base equipment substituted. October release, not earlier estimated Detroit announcement. Estimated economy omitted. No displacement in exact cc, curb mass or timed performance inferred from other sources."
+        },
+        {
+          "publisher": "Road & Track",
+          "title": "2020 Performance Car of the Year — published 4 November 2019",
+          "source_type": "Award publisher’s original road-and-track comparison test",
+          "url": "https://www.roadandtrack.com/new-cars/car-comparison-tests/a29640493/2020-performance-car-of-the-year/",
+          "notes": "Test-method introduction, decision context and final Veloster N section read, including engine-character and pedal-spacing criticisms. Admission is for engagement and accessibility, not the fastest lap or a universal victory over supercars. Award year differs from publication year. No lap time, performance number or specification imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Hyundai Veloster N 2.0T JS N Performance Blue (39).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Hyundai_Veloster_N_2.0T_JS_N_Performance_Blue_(39).jpg",
+          "notes": "Damian B Oh; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Own work; creator https://commons.wikimedia.org/wiki/User:Damian_B_Oh . Downloaded source rendition copied unchanged, including existing plate treatment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Selected nominal displacement",
+          "value": "2.0",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction and fuel system",
+          "value": "Turbocharged petrol, direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, USA optional Performance Package",
+          "value": "275",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak speed",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "260",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau, Performance Package",
+          "value": "1450–4700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge cooling",
+          "value": "Intercooler isolated from condenser and radiator",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected gearbox",
+          "value": "Close-ratio short-throw six-speed manual with downshift rev matching",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Synchronizers",
+          "value": "Carbon-coated synchro rings",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "Double-layer facing clutch disc",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "System",
+          "value": "Active sport exhaust with variable actuator",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Rack-mounted motor-driven power steering",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Damping",
+          "value": "Multi-mode electronically controlled suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Selected available differential",
+          "value": "Electronically controlled N Corner-Carving limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Selected optional fitment",
+          "value": "19-inch alloy wheels; 235/35R19 Pirelli P-Zero summer tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Selected available front rotor diameter",
+          "value": "13.6",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Selected available rear rotor diameter",
+          "value": "12.4",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Drive modes",
+          "value": "Normal, Sport, N, Eco and N Custom",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Launch front seats",
+          "value": "N-design cloth sport seats",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Veloster N earned Road & Track’s 2020 Performance Car of the Year award through road-and-track evaluation. The award recognizes unusually engaging, accessible handling rather than outright speed; the testers also noted limited engine character and awkward pedal spacing. It represents the distinctive second-generation Veloster N road programme once, not extra entries for gearbox choices or model years.",
+          "category": "Independent performance-car recognition",
+          "confidence": "Original award publisher’s road-and-track evaluation documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hyundai_veloster_n_original.jpg",
+          "caption": "Performance Blue second-generation Veloster N, photographed by Damian B Oh on 5 July 2025. Individually inspected exterior showing the distinctive Veloster body, N front grille, red accents and spoiler. This later-photographed example is representative body imagery, not authentication of 2019 USA equipment, manual gearbox, exact engine tune, brake dimensions or original condition; existing plate treatment is retained.",
+          "creator": "Damian B Oh",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f26eff38b26c58bc43b3758a1986d064d68e836923e4ec4003970a78562da35c"
+        }
+      ]
+    }
+  ]
+}

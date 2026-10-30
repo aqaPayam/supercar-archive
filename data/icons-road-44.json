@@ -1,0 +1,912 @@
+{
+  "batch": "icons-road-2026-10-29-44",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "CHE-IMPALA-SS-BBODY1994",
+      "manufacturer": "Chevrolet",
+      "model_family": "Impala",
+      "generation": "1994–1996 B-body Impala SS rear-drive performance-saloon generation",
+      "variant": "Impala SS — original 1994 production/order-guide reference",
+      "model_year_from": 1994,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original GM archive PDF: actual physical pages 3–4 and 6 rendered/read. The September 1993 order guide and February 1994 production announcement establish the production reference, including 255-section tyres. The archive’s early driving preview, its 225-section tyre claim, estimated acceleration, general Caprice/Fleetwood tables and later floor-shift details are excluded.",
+      "summary": "The B-body Impala SS revived Chevrolet’s full-size muscle-saloon identity with an LT1 V8, limited-slip rear axle and substantial chassis hardware. Its enduring sleeper reputation and place in the Impala SS lineage make it an American performance icon beyond an appearance package.",
+      "admission_reason": "The B-body Impala SS revived Chevrolet’s full-size muscle-saloon identity with an LT1 V8, limited-slip rear axle and substantial chassis hardware. Its enduring sleeper reputation and place in the Impala SS lineage make it an American performance icon beyond an appearance package.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors Heritage Archive",
+          "title": "1994 Chevrolet Impala SS — production announcement and original order-guide equipment pages",
+          "source_type": "Original manufacturer production release and order guide",
+          "url": "https://news.chevrolet.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1994-Chevrolet-Impala.pdf",
+          "notes": "Original GM archive PDF: actual physical pages 3–4 and 6 rendered/read. The September 1993 order guide and February 1994 production announcement establish the production reference, including 255-section tyres. The archive’s early driving preview, its 225-section tyre claim, estimated acceleration, general Caprice/Fleetwood tables and later floor-shift details are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1996 Chevrolet Impala SS, front right (Cruisin' the River Lowellville Car Show, June 19th, 2023).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1996_Chevrolet_Impala_SS,_front_right_(Cruisin%27_the_River_Lowellville_Car_Show,_June_19th,_2023).jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LT1 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "4L60-E electronically controlled four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "3.08:1 limited-slip rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes with anti-lock control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "P255/50ZR17",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Special Ride and Handling suspension with DeCarbon dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Heavy-duty frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted production output",
+          "value": "260",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The B-body Impala SS revived Chevrolet’s full-size muscle-saloon identity with an LT1 V8, limited-slip rear axle and substantial chassis hardware. Its enduring sleeper reputation and place in the Impala SS lineage make it an American performance icon beyond an appearance package.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_impala_ss_bbody1994.jpg",
+          "caption": "1996 Chevrolet Impala SS at a 2023 car show, illustrating the B-body performance-saloon family. This later car does not establish the selected 1994 cabin, transmission controls, original tyre size or present tune.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7f822153b4a094f2665dd176bbca2f0ab8e53322d641af887f006d74d841b2f8"
+        }
+      ]
+    },
+    {
+      "id": "HON-ACCORD-TYPER-EU2001",
+      "manufacturer": "Honda",
+      "model_family": "Accord",
+      "generation": "European sixth-generation Accord Type-R sporting-saloon family",
+      "variant": "Type-R — 2001 Geneva European 156-kW road reference",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Selected 26 February 2001 factory Geneva release, Accord-specific section, available in public indexed release text; direct page retrieval is unavailable. No Civic i-VTEC/VTC, 2.3 ES gearing, five-door Type-R, UCP compiled figures, exact cc, peak rpm, gearbox ratios or inferred mass is imported.",
+      "summary": "The European Accord Type-R is a defining Honda sporting saloon, pairing a high-output naturally aspirated VTEC engine with a focused chassis. Its place in the Type-R lineage and limited-slip handling make it a performance icon distinct from the later CL7 Euro-R already archived.",
+      "admission_reason": "The European Accord Type-R is a defining Honda sporting saloon, pairing a high-output naturally aspirated VTEC engine with a focused chassis. Its place in the Type-R lineage and limited-slip handling make it a performance icon distinct from the later CL7 Euro-R already archived.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Europe",
+          "title": "Geneva Motorshow 2001 — Accord 2001 / Accord Type-R section",
+          "source_type": "Original manufacturer motor-show release, publicly indexed text",
+          "url": "https://hondanews.eu/eu/en/cars/media/pressreleases/34365/geneva-motorshow-2001",
+          "notes": "Selected 26 February 2001 factory Geneva release, Accord-specific section, available in public indexed release text; direct page retrieval is unavailable. No Civic i-VTEC/VTC, 2.3 ES gearing, five-door Type-R, UCP compiled figures, exact cc, peak rpm, gearbox ratios or inferred mass is imported."
+        },
+        {
+          "publisher": "Honda UK",
+          "title": "Type R, Honda’s Racing Heartbeat — Accord Type R history, 18 August 2025",
+          "source_type": "Manufacturer historical performance account",
+          "url": "https://www.honda.co.uk/cars/blog/article/brand/Type-R-hondas-racing-heartbeat.html",
+          "notes": "Factory historical account explicitly describes the Accord as a four-door saloon with a limited-slip differential and rear spoiler. No Integra seat equipment or Civic record claim is transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda Accord Type R b.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_Accord_Type_R_b.jpg",
+          "notes": "crash71100; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: https://www.flickr.com/photos/152930510@N02/48298324991/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder VTEC petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts with VTEC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "156",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "4",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Rear spoiler",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The European Accord Type-R is a defining Honda sporting saloon, pairing a high-output naturally aspirated VTEC engine with a focused chassis. Its place in the Type-R lineage and limited-slip handling make it a performance icon distinct from the later CL7 Euro-R already archived.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_accord_typer_eu2001.jpg",
+          "caption": "Honda Accord Type R identified as a 2000 car at Montlhéry, illustrating the European sporting-saloon family. It predates the selected 2001 update and does not establish that update’s body details or the car’s original mechanical condition.",
+          "creator": "crash71100",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6a0e974e4985d35650c21ac05d46e8cb78a99c400d92c5a718cf3cb6cf3b42de"
+        }
+      ]
+    },
+    {
+      "id": "SUB-SVX-ORIGINAL-US1992",
+      "manufacturer": "Subaru",
+      "model_family": "Alcyone SVX / SVX",
+      "generation": "Original CX-series SVX production-road grand-touring coupe family",
+      "variant": "SVX — 1992 US MSA8M9201 brochure reference",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Subaru US brochure MSA8M9201/3118-280, full publicly offered scan archive and actual specification spread 18 visually read. The printed 3317-cc figure differs from other references, so only nominal 3.3 litres is used. Japanese 240-PS output, inferred VTD torque split, later FWD grades and 2026 racing engines are excluded.",
+      "summary": "The SVX is Subaru’s landmark performance grand tourer, combining a purpose-developed flat-six with all-wheel drive and Giorgetto Giugiaro’s distinctive glass canopy. Its unusual engineering and lasting design identity make it a Japanese GT icon rather than an ordinary luxury derivative.",
+      "admission_reason": "The SVX is Subaru’s landmark performance grand tourer, combining a purpose-developed flat-six with all-wheel drive and Giorgetto Giugiaro’s distinctive glass canopy. Its unusual engineering and lasting design identity make it a Japanese GT icon rather than an ordinary luxury derivative.",
+      "sources": [
+        {
+          "publisher": "Subaru of America / ImportArchive hosted facsimile",
+          "title": "Subaru SVX 1992 — original US brochure MSA8M9201, specification spread 18",
+          "source_type": "Original manufacturer sales/technical brochure, hosted facsimile",
+          "url": "https://importarchive.com/brochure/subarusvx1992_02",
+          "notes": "Original Subaru US brochure MSA8M9201/3118-280, full publicly offered scan archive and actual specification spread 18 visually read. The printed 3317-cc figure differs from other references, so only nominal 3.3 litres is used. Japanese 240-PS output, inferred VTD torque split, later FWD grades and 2026 racing engines are excluded."
+        },
+        {
+          "publisher": "Subaru",
+          "title": "Vehicle-making history — September 1991 Alcyone SVX development",
+          "source_type": "Manufacturer original historical account",
+          "url": "https://www.subaru.jp/manufacturing/history/",
+          "notes": "Factory history identifies the performance-GT brief, Giugiaro canopy and specially developed 3.3-litre flat-six. Japanese introduction timing is not substituted for US model year."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Subaru SVX 3.3 LSL 1992 (26842938999).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Subaru_SVX_3.3_LSL_1992_(26842938999).jpg",
+          "notes": "RL GNZLZ from Chile; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Subaru SVX 3.3 LSL 1992"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Dual overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated, twin-throttle dual-mode induction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Electronic four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Active Torque-Split full-time all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip rear differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-channel ABS; ventilated front and solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "24",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted US output at 5400 rpm",
+          "value": "230",
+          "unit": "HP",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SVX is Subaru’s landmark performance grand tourer, combining a purpose-developed flat-six with all-wheel drive and Giorgetto Giugiaro’s distinctive glass canopy. Its unusual engineering and lasting design identity make it a Japanese GT icon rather than an ordinary luxury derivative.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sub_svx_original_us1992.jpg",
+          "caption": "Subaru SVX identified as a 1992 3.3 LSL in Chile, illustrating the original grand-touring coupe and distinctive glazing. The photograph does not establish US brochure equipment, market provenance, original torque split or present condition.",
+          "creator": "RL GNZLZ from Chile",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c0ae7653796ca10d3060545a78150e1a9109bad843b5c56b5064cdcc584c10a6"
+        }
+      ]
+    },
+    {
+      "id": "ROV-SD1-VITESSE-MUSEUM1986",
+      "manufacturer": "Rover",
+      "model_family": "SD1",
+      "generation": "Original SD1 Vitesse production-road sporting fastback family",
+      "variant": "Vitesse — 1986 BMIHT last-of-line collection reference",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Sporting fastback saloon / hatchback",
+      "road_legal": 1,
+      "specification_market": "The museum’s own last-of-line 1986 collection-car record is the selected reference. Its anomalous 3538-cc entry, unverified gearbox, power peak and production total are omitted. The text’s 1985 twin-plenum history does not establish this individual car’s intake hardware; no race tune or separate intake variant is counted.",
+      "summary": "The SD1 Vitesse is a defining British V8 performance fastback whose road programme underpinned TWR touring-car development. Its combination of distinctive SD1 design, injected V8 performance and competition lineage earns a place beyond rarity or luxury trim.",
+      "admission_reason": "The SD1 Vitesse is a defining British V8 performance fastback whose road programme underpinned TWR touring-car development. Its combination of distinctive SD1 design, injected V8 performance and competition lineage earns a place beyond rarity or luxury trim.",
+      "sources": [
+        {
+          "publisher": "British Motor Museum / BMIHT",
+          "title": "SD1 Vitesse (last of line), 1986 — BMIHT permanent collection 1980-1-159",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800364",
+          "notes": "The museum’s own last-of-line 1986 collection-car record is the selected reference. Its anomalous 3538-cc entry, unverified gearbox, power peak and production total are omitted. The text’s 1985 twin-plenum history does not establish this individual car’s intake hardware; no race tune or separate intake variant is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1985 Rover 3500 Vitesse.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1985_Rover_3500_Vitesse.jpg",
+          "notes": "Merijn Buick LeSabre; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "209",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front and rear spoilers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted output",
+          "value": "190",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Original SD1 designers",
+          "value": "David Bache and Spen King",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SD1 Vitesse is a defining British V8 performance fastback whose road programme underpinned TWR touring-car development. Its combination of distinctive SD1 design, injected V8 performance and competition lineage earns a place beyond rarity or luxury trim.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_rov_sd1_vitesse_museum1986.jpg",
+          "caption": "Rover SD1 Vitesse identified as a 1985 car, illustrating the sporting fastback body. It is not identified as the museum’s last-of-line 1986 car and does not establish intake-plenum type or original engine tune.",
+          "creator": "Merijn Buick LeSabre",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6184c7368151eeb5a7a7d7484d4d8deb582d29b42beb1ba06f79076647f4532e"
+        }
+      ]
+    },
+    {
+      "id": "SUZ-SWIFT-GTI-FIRSTGEN1986",
+      "manufacturer": "Suzuki",
+      "model_family": "Swift / Cultus",
+      "generation": "Original first-generation Swift / Cultus GTi production-road performance family",
+      "variant": "GTi 1.3 Twin Cam — 1986 Austrian factory-history reference",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door hot hatch",
+      "road_legal": 1,
+      "specification_market": "Factory Austrian history’s first-generation GTi paragraph, publicly indexed in full, identifies 1986, three doors, 1.3 litres, four-valve technology and 74 kW/101 PS. Base 680-kg mass, GS 54-kW engine, second-generation 188-km/h performance and later Swift Sport gearboxes are excluded.",
+      "summary": "The original Swift GTi established Suzuki’s enduring small hot-hatch lineage with a high-output twin-cam multivalve engine. As the direct predecessor of the Swift Sport, it is a recognised lightweight Japanese performance reference, not an ordinary Swift engine grade.",
+      "admission_reason": "The original Swift GTi established Suzuki’s enduring small hot-hatch lineage with a high-output twin-cam multivalve engine. As the direct predecessor of the Swift Sport, it is a recognised lightweight Japanese performance reference, not an ordinary Swift engine grade.",
+      "sources": [
+        {
+          "publisher": "Suzuki Austria",
+          "title": "Swift Geschichte — Das Debüt (1983–1989), GTi introduction paragraph",
+          "source_type": "Manufacturer historical model and engine account, publicly indexed text",
+          "url": "https://www.suzuki.at/ueber-suzuki/swift",
+          "notes": "Factory Austrian history’s first-generation GTi paragraph, publicly indexed in full, identifies 1986, three doors, 1.3 litres, four-valve technology and 74 kW/101 PS. Base 680-kg mass, GS 54-kW engine, second-generation 188-km/h performance and later Swift Sport gearboxes are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1987 Suzuki Swift GTi (6277293519).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1987_Suzuki_Swift_GTi_(6277293519).jpg",
+          "notes": "Spanish Coches; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1987 Suzuki Swift GTi"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "74",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted native output",
+          "value": "101",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Swift GTi established Suzuki’s enduring small hot-hatch lineage with a high-output twin-cam multivalve engine. As the direct predecessor of the Swift Sport, it is a recognised lightweight Japanese performance reference, not an ordinary Swift engine grade.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_suz_swift_gti_firstgen1986.jpg",
+          "caption": "Suzuki Swift GTi identified as a 1987 car, illustrating the original first-generation sporting hatch. Appearance does not certify the selected Austrian engine output, factory wheels or current mechanical specification.",
+          "creator": "Spanish Coches",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "000ae8ce407ec2b3236243c984eb67e7c8e5b5660b407b7e14ea4691093746a8"
+        }
+      ]
+    },
+    {
+      "id": "OPE-KADETT-E-GSI16V-CAT1988",
+      "manufacturer": "Opel",
+      "model_family": "Kadett",
+      "generation": "Kadett E GSi 16V front-drive production-road sporting-hatch family",
+      "variant": "GSi 16V — 1988 catalysed 150-PS factory-history reference",
+      "model_year_from": 1988,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "German 6 September 2018 factory account selects its 1988 catalysed engine reference. Omit uncatalysed 156-PS output, performance figures not separated by catalyst state, conflicting retrospective introduction dates, DTM tune, Superboss and Champion edition specifications. Related Astra GTE market naming contributes no additional record.",
+      "summary": "The Kadett E GSi 16V is a landmark European hot hatch associated with Opel’s influential multivalve performance-engine lineage. Its twin-cam, four-valve engineering made it a defining GSi, distinct from the earlier rear-drive Kadett C GT/E already preserved.",
+      "admission_reason": "The Kadett E GSi 16V is a landmark European hot hatch associated with Opel’s influential multivalve performance-engine lineage. Its twin-cam, four-valve engineering made it a defining GSi, distinct from the earlier rear-drive Kadett C GT/E already preserved.",
+      "sources": [
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "Aus guter Opel-Tradition: Großer Sport für alle — Kadett E GSi 16V engineering paragraph",
+          "source_type": "Manufacturer historical engineering press kit",
+          "url": "https://www.media.stellantis.com/de-de/opel/press/pressemappe-aus-guter-opel-tradition-grosser-sport-fur-alle",
+          "notes": "German 6 September 2018 factory account selects its 1988 catalysed engine reference. Omit uncatalysed 156-PS output, performance figures not separated by catalyst state, conflicting retrospective introduction dates, DTM tune, Superboss and Champion edition specifications. Related Astra GTE market naming contributes no additional record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989 Opel Kadett GSi 16v (8568295410).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1989_Opel_Kadett_GSi_16v_(8568295410).jpg",
+          "notes": "Riley from Christchurch, New Zealand; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1989 Opel Kadett GSi 16v"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted catalysed output",
+          "value": "150",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Emissions equipment",
+          "value": "Lambda-controlled catalytic converter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust-valve construction",
+          "value": "Sodium-filled exhaust valves",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Kadett E GSi 16V is a landmark European hot hatch associated with Opel’s influential multivalve performance-engine lineage. Its twin-cam, four-valve engineering made it a defining GSi, distinct from the earlier rear-drive Kadett C GT/E already preserved.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_kadett_e_gsi16v_cat1988.jpg",
+          "caption": "Opel Kadett E GSi 16v identified as a 1989 New Zealand car with a performance exhaust. This road-family illustration is not evidence of original 1988 catalyst state, emissions hardware or engine tune.",
+          "creator": "Riley from Christchurch, New Zealand",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "da13b3c6116323c4d3daabd9e77fe368c59ec2f91c4e3d932eb938c1b476695e"
+        }
+      ]
+    },
+    {
+      "id": "OPE-CALIBRA-TURBO4X4-1992",
+      "manufacturer": "Opel",
+      "model_family": "Calibra",
+      "generation": "Original Calibra production-road sporting coupe family",
+      "variant": "Turbo 4x4 — original 1992 factory-history reference",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Actual 2022 factory retrospective separately identifies the 1992 Turbo 4x4, 150 kW and six-speed gearbox. The base model’s 0.26 drag figure, adjacent V6 performance wording, ITC 500-CV race car and later trim editions are excluded. Engine displacement and unprinted gearbox details are not inferred.",
+      "summary": "The Calibra Turbo 4x4 is a defining 1990s European performance coupe, combining all-wheel drive and turbo power with Erhard Schnell’s influential design. It represents the high-performance road expression of a lasting coupe icon, with racing history kept separate from road hardware.",
+      "admission_reason": "The Calibra Turbo 4x4 is a defining 1990s European performance coupe, combining all-wheel drive and turbo power with Erhard Schnell’s influential design. It represents the high-performance road expression of a lasting coupe icon, with racing history kept separate from road hardware.",
+      "sources": [
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "25 anni di Opel Calibra — Turbo 4x4 road introduction and design history, 25 October 2022",
+          "source_type": "Manufacturer original historical engineering account",
+          "url": "https://www.media.stellantis.com/it-it/opel/press/25-anni-di-opel-calibra",
+          "notes": "Actual 2022 factory retrospective separately identifies the 1992 Turbo 4x4, 150 kW and six-speed gearbox. The base model’s 0.26 drag figure, adjacent V6 performance wording, ITC 500-CV race car and later trim editions are excluded. Engine displacement and unprinted gearbox details are not inferred."
+        },
+        {
+          "publisher": "Opel / Stellantis Media",
+          "title": "Power & Grip — Calibra Turbo engine development, 20 February 2019",
+          "source_type": "Manufacturer original historical engineering account",
+          "url": "https://www.media.stellantis.com/em-en/opel/press/power-grip-opel-insignia-ultimate-120-years-leads-the-way",
+          "notes": "Calibra-specific paragraphs describe the 1992 turbo engine and integrated turbocharger/exhaust manifold. Other vehicles’ engines, Insignia torque vectoring and FlexRide equipment are not Calibra specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Opel Calibra (22518736563).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Opel_Calibra_(22518736563).jpg",
+          "notes": "TuRbO_J from Adelaide, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Opel Calibra"
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Cali turbo.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Cali_turbo.jpg",
+          "notes": "Lotus Omega; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "150",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Erhard Schnell",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger and exhaust manifold integrated into one component",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Calibra Turbo 4x4 is a defining 1990s European performance coupe, combining all-wheel drive and turbo power with Erhard Schnell’s influential design. It represents the high-performance road expression of a lasting coupe icon, with racing history kept separate from road hardware.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_calibra_turbo4x4_1992.jpg",
+          "caption": "Opel Calibra road-coupe body in Salamanca. The source does not identify its engine variant; this is a family-body illustration, not identification of a Turbo 4x4 or proof of the selected 1992 mechanical specification.",
+          "creator": "TuRbO_J from Adelaide, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3bce367dcf4367e56d4a409e88ada3ae0f6ff617bc283c6ad3bdbaac5b701e31"
+        },
+        {
+          "media_type": "Interior image",
+          "location": "/assets/icon_ope_calibra_turbo4x4_instruments.jpg",
+          "caption": "Calibra instrument cluster with visible 16V TURBO identification, photographed in 2021. The speedometer scale is not a maximum-speed claim and does not establish an individual car’s year, drivetrain condition or original engine tune.",
+          "creator": "Lotus Omega",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 0,
+          "source": 3,
+          "sha256": "2d23e73e0393896f53f5cd1620ba9a576005b8c7c2286d79798cd6c1d5f86d07"
+        }
+      ]
+    },
+    {
+      "id": "CIT-BX-16VALVE-UK1990",
+      "manufacturer": "Citroën",
+      "model_family": "BX",
+      "generation": "Original BX GTi 16 Valve production-road sporting-hatch family",
+      "variant": "16 Valve — 1990 UK brochure reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Actual three-spread UK brochure facsimile and text crops visually read. Native bhp/mph figures remain as printed; this is not 0–100 km/h. Unprinted displacement, rating rpm, mass, later catalysed output and BX 4TC competition hardware are excluded.",
+      "summary": "The BX 16 Valve joins Citroën’s self-levelling chassis tradition with a high-output multivalve road engine. Its distinctive combination of fast-hatch performance and hydropneumatic comfort, and the family’s early French production sixteen-valve milestone, make it an engineering-led performance icon.",
+      "admission_reason": "The BX 16 Valve joins Citroën’s self-levelling chassis tradition with a high-output multivalve road engine. Its distinctive combination of fast-hatch performance and hydropneumatic comfort, and the family’s early French production sixteen-valve milestone, make it an engineering-led performance icon.",
+      "sources": [
+        {
+          "publisher": "Citroën UK / Citroënët hosted facsimile",
+          "title": "Citroën BX 16 Valve — original UK sales brochure, hosted as 1990 reference",
+          "source_type": "Original manufacturer sales/technical brochure, hosted facsimile",
+          "url": "https://www.citroenet.org.uk/publicity-brochures/1990-gb-bx16v/bx16v.html",
+          "notes": "Actual three-spread UK brochure facsimile and text crops visually read. Native bhp/mph figures remain as printed; this is not 0–100 km/h. Unprinted displacement, rating rpm, mass, later catalysed output and BX 4TC competition hardware are excluded."
+        },
+        {
+          "publisher": "Citroën / Stellantis Media",
+          "title": "Citroën BX celebrates its 40th birthday — sixteen-valve milestone",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.media.stellantis.com/uk-en/citroen/press/citroen-bx-celebrates-its-40th-birthday",
+          "notes": "Manufacturer records the 1987 sixteen-valve production milestone. Its original 1982 engine table and broad range-wide technology list are not used for the selected sporting reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Citroen BX GTI 16 Valve (39773231783).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Citroen_BX_GTI_16_Valve_(39773231783).jpg",
+          "notes": "Dennis Elzinga; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Citroen BX GTI 16 Valve"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed close-ratio manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Self-levelling suspension; MacPherson front struts and rear trailing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes all round with automatic anti-lock control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Brochure quoted output",
+          "value": "160",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Brochure quoted maximum speed",
+          "value": "135",
+          "unit": "mph",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Brochure quoted 0–60 mph",
+          "value": "7.4",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The BX 16 Valve joins Citroën’s self-levelling chassis tradition with a high-output multivalve road engine. Its distinctive combination of fast-hatch performance and hydropneumatic comfort, and the family’s early French production sixteen-valve milestone, make it an engineering-led performance icon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_bx_16valve_uk1990.jpg",
+          "caption": "Citroën BX GTi 16 Valve identified as a 1991 car, illustrating the later sporting-hatch body. The photograph does not establish the selected UK brochure output, catalyst state, factory wheels or present engine tune.",
+          "creator": "Dennis Elzinga",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4009d389d0a8686fcb890e77a720f50b278562e7fb870a47dbf03f2a98449e83"
+        }
+      ]
+    }
+  ]
+}

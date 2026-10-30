@@ -1,0 +1,202 @@
+{
+  "batch": "icons-road-2026-10-30-127",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "SUB-LEGACY-BG-GTB-JP1996-AT",
+      "manufacturer": "Subaru",
+      "model_family": "Legacy / Liberty",
+      "generation": "Second-generation BD/BG Legacy production-road sporting family",
+      "variant": "Touring Wagon GT-B — 1996 Japan E-4AT automatic",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting estate",
+      "road_legal": 1,
+      "specification_market": "Second-generation BD/BG Legacy / Liberty sporting-road family, selected 1996 Japan Touring Wagon GT-B automatic as catalogued in Subaru's retrospective museum library. One family across sedan/wagon, GT/GT-B/RS grades, Limited, regional names, engines, transmissions, years and related Outback/Lancaster versions. Existing BC/BF, BE/BH and BL/BP entries are other generations. Selected automatic has 260 PS and E-4AT, not the manual's 280 PS. EJ20 only: no suffix, direct injection, compression, mass, detailed centre-control ratio or record-run speed inferred. The generic DIT footer on the museum page does not describe this engine. Museum catalogue reference is not claimed to be an individually inspected period brochure.",
+      "summary": "The second-generation Legacy GT-B helped define Japan's high-performance sporting-wagon boom, combining two-stage twin-turbo boxer power, all-wheel drive and Bilstein inverted dampers with family-wagon practicality. Manufacturer history and a retrospective driving report support its cultural and engineering significance; the report also records the limitations of its aged test car. Count the entire second-generation sporting-road family once.",
+      "admission_reason": "The second-generation Legacy GT-B helped define Japan's high-performance sporting-wagon boom, combining two-stage twin-turbo boxer power, all-wheel drive and Bilstein inverted dampers with family-wagon practicality. Manufacturer history and a retrospective driving report support its cultural and engineering significance; the report also records the limitations of its aged test car. Count the entire second-generation sporting-road family once.",
+      "sources": [
+        {
+          "publisher": "Subaru",
+          "title": "BOXER 60th Anniversary library — second-generation Legacy Touring Wagon, 1996 GT-B",
+          "source_type": "Manufacturer retrospective catalogue reference",
+          "url": "https://www.subaru.jp/campaign/boxer60th-anniversary/library/2nd-legacy-tw/",
+          "notes": "Relevant complete library text and selected specification table read. All 16 technical attributes map to this 1996 automatic reference. Source says based on launch catalogue information; an original period brochure was not individually inspected. Two-stage twin turbo is in the model prose. Generic DIT footer is not evidence of direct injection. No engine-code suffix, mass, interior starred dimension or detailed VTD control inferred."
+        },
+        {
+          "publisher": "Subaru",
+          "title": "BOXER 60th Anniversary engineer interview — 1996 GT-B engine development",
+          "source_type": "Manufacturer interview with powertrain engineer",
+          "url": "https://www.subaru.jp/campaign/boxer60th-anniversary/interview/",
+          "notes": "Introduction and relevant GT-B development section read, not an entire multi-part interview audit. Explicitly separates June 1996 280 PS five-speed manual and 260 PS E-four-speed automatic. Everyday usability and sporting-wagon intent provide context. EJ20R injector discussion concerns the manual project and supplies no selected automatic engine suffix or injector specification."
+        },
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "Subaru Legacy cumulative production reaches three million — 15 March 2005 chronology",
+          "source_type": "Original manufacturer generation history",
+          "url": "https://www.subaru.co.jp/en/news/archives/press/2005/05_03_15e.html",
+          "notes": "Relevant release body and chronology read. Records second-generation launch in October 1993, GT wagon role in Japan's emerging station-wagon market, and June 1996 GT-B with Bilstein inverted dampers. Generic 280 PS chronology entry is not assigned to the selected automatic. FIA speed-record figures, first-generation rally results and later-generation records are not production GT-B specifications."
+        },
+        {
+          "publisher": "GQ Japan",
+          "title": "Review: Subaru Legacy in Retrospect, Vol.2 — 今尾直樹, 16 October 2019",
+          "source_type": "Original retrospective road drive and reporting",
+          "url": "https://www.gqjapan.jp/cars/article/20191016-subaru-legacy-vol2",
+          "notes": "Introduction and second-generation GT-B driving section read through AWD discussion and its context. Author drove a 1997 first-registered automatic, not the selected 1996 catalogue reference. Reports Japanese wagon-boom popularity and confident wet-road/cornering character, alongside noise, heavy steering and aged test-car body, ride and braking limitations. No numerical specification imported; conflicting 1460/1470 kg figures are omitted. Earlier-generation rally wins are not attributed to GT-B."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1996-1998 Subaru Legacy Touring Wagon GT-B.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1996-1998_Subaru_Legacy_Touring_Wagon_GT-B.jpg",
+          "notes": "TTTNIS own work, 2 November 2025 at 14:13:25. File summary/licensing text and API metadata read; CC0 1.0 Universal Public Domain Dedication, http://creativecommons.org/publicdomain/zero/1.0/deed.en . Downloaded 1280-pixel JPEG rendition individually inspected. Representative second-generation facelift GT-B wagon exterior at a display; does not authenticate transmission, exact year, market, equipment or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "EJ20",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed four-cylinder, DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two-stage twin turbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1994",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net output, automatic",
+          "value": "260 PS at 6500 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "32.5 kg-m at 5000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "E-4AT, four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Length",
+          "value": "4680",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Width",
+          "value": "1695",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Height",
+          "value": "1490",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Wheelbase",
+          "value": "2630",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Front track",
+          "value": "1470",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Rear track",
+          "value": "1460",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Minimum ground clearance",
+          "value": "160",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seating capacity",
+          "value": "5",
+          "unit": "persons",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Legacy GT-B helped define Japan's high-performance sporting-wagon boom, combining two-stage twin-turbo boxer power, all-wheel drive and Bilstein inverted dampers with family-wagon practicality. Manufacturer history and a retrospective driving report support its cultural and engineering significance; the report also records the limitations of its aged test car. Count the entire second-generation sporting-road family once.",
+          "category": "Japanese sporting-wagon heritage",
+          "confidence": "Manufacturer history and original retrospective driving report; limitations retained",
+          "source": 3
+        },
+        {
+          "title": "GT-B engineering milestone",
+          "explanation": "Subaru's chronology records the June 1996 introduction of GT-B with Bilstein inverted dampers. Its engineer interview distinguishes the 280 PS manual from the 260 PS automatic selected here; the generic chronology output must not be applied to both transmissions.",
+          "category": "Factory sporting-wagon development",
+          "confidence": "Manufacturer chronology with transmission qualification from engineer interview",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_subaru_legacy_bg_gtb_jp1996.jpg",
+          "caption": "Second-generation facelift Legacy Touring Wagon GT-B, photographed at a display by TTTNIS on 2 November 2025. Individually inspected front-side view shows the white wagon body, bonnet scoop and roof rails. Representative exterior only; exact build year, Japanese catalogue specification, automatic gearbox, equipment and originality are not authenticated by the photograph. CC0 1.0 Universal; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "TTTNIS",
+          "license": "CC0 1.0 Universal",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "e3746e63c3788bf41f9e08da1b61c2aec5ae4054c9301e83d0250806d136d9c5"
+        }
+      ]
+    }
+  ]
+}

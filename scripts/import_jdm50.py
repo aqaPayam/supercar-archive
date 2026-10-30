@@ -18,6 +18,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from export_public import build_payload
+from scripts.manifest_checksums import manifest_checksums
 
 MANIFEST = ROOT / 'data' / 'jdm50.json'
 CAR_COLUMNS = ('id', 'manufacturer', 'model_family', 'generation', 'variant',
@@ -43,7 +44,10 @@ def insert(db, table, values):
 
 
 def load_manifest(path):
-    raw = path.read_bytes()
+    return _load_manifest(path.read_bytes())
+
+
+def _load_manifest(raw):
     data = json.loads(raw)
     cars = data['cars']
     if len(cars) != 50 or len({car['id'] for car in cars}) != 50:
@@ -71,11 +75,12 @@ def load_manifest(path):
                 raise ValueError(f'Image checksum differs: {target}')
             if not media['creator'] or not media['license']:
                 raise ValueError('Every image must have creator and license attribution')
-    return data, hashlib.sha256(raw).hexdigest()
+    return data, manifest_checksums(raw)[0]
 
 
 def apply_batch(path, manifest_path=MANIFEST, apply=False):
-    data, digest = load_manifest(manifest_path)
+    raw = manifest_path.read_bytes()
+    data, digest = _load_manifest(raw)
     cars = data['cars']
     marker = 'import:' + data['batch']
     with closing(sqlite3.connect(f'file:{path.resolve().as_posix()}?mode={"rw" if apply else "ro"}', uri=True)) as db:
@@ -86,7 +91,7 @@ def apply_batch(path, manifest_path=MANIFEST, apply=False):
         try:
             previous = db.execute('SELECT value FROM meta WHERE key=?', (marker,)).fetchone()
             if previous:
-                if previous[0] != digest:
+                if previous[0] not in manifest_checksums(raw):
                     raise ValueError('This batch was already applied with a different manifest')
                 for car in cars:
                     existing = db.execute('SELECT * FROM cars WHERE id=?', (car['id'],)).fetchone()

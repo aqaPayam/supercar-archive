@@ -1,0 +1,542 @@
+{
+  "batch": "icons-road-2026-10-29-49",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "SAA-9000-AERO-MAN-GBBROCHURE",
+      "manufacturer": "Saab",
+      "model_family": "9000",
+      "generation": "Original 9000 production-road performance-liftback family",
+      "variant": "Aero five-speed manual — November 1992 GB brochure reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting liftback",
+      "road_legal": 1,
+      "specification_market": "Original Saab GB brochure, final editing November 1992, GB Art. No. 260349; technical printed page 12 and design page 10 visually read. Host labels this a 1993 brochure, but no exact model year is assigned without explicit proof. Select the five-speed manual only. The paired 225-bhp/166-kW power wording is inconsistent, so power is omitted rather than silently converted. No automatic-engine tune, exact cylinder layout or later facelift equipment is inferred. Preserve 0–60 mph as printed.",
+      "summary": "The 9000 Aero is a defining Saab turbo performance flagship, combining substantial low-speed torque with Trionic control and long-distance practicality. It adds the marque’s distinct large sporting-liftback family beyond the classic 900, rather than another Aero badge or model year.",
+      "admission_reason": "The 9000 Aero is a defining Saab turbo performance flagship, combining substantial low-speed torque with Trionic control and long-distance practicality. It adds the marque’s distinct large sporting-liftback family beyond the classic 900, rather than another Aero badge or model year.",
+      "sources": [
+        {
+          "publisher": "Saab Automobile AB / Saab Great Britain",
+          "title": "Saab 9000 Aero — original GB Art. No. 260349 brochure, November 1992",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://saabsportugal.com/brochures/9000/SAAB%209000%20AERO%201993.zip",
+          "notes": "Original Saab GB brochure, final editing November 1992, GB Art. No. 260349; technical printed page 12 and design page 10 visually read. Host labels this a 1993 brochure, but no exact model year is assigned without explicit proof. Select the five-speed manual only. The paired 225-bhp/166-kW power wording is inconsistent, so power is omitted rather than silently converted. No automatic-engine tune, exact cylinder layout or later facelift equipment is inferred. Preserve 0–60 mph as printed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1993 Saab 9000 Aero Imola Red.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1993_Saab_9000_Aero_Imola_Red.jpg",
+          "notes": "JonathanDavidArndt; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Photograph of my own personal vehicle (US). Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "350",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/55 ZR 16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes with ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine-management architecture",
+          "value": "Saab Trionic controls fuel injection, Saab DI ignition and turbo boost",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "1950",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Brochure 0–60 mph",
+          "value": "6.7",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 9000 Aero is a defining Saab turbo performance flagship, combining substantial low-speed torque with Trionic control and long-distance practicality. It adds the marque’s distinct large sporting-liftback family beyond the classic 900, rather than another Aero badge or model year.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_saa_9000_aero_man_gbbrochure.jpg",
+          "caption": "Red Saab 9000 Aero identified by its photographer as a 1993 car. This representative CS-body image does not certify the pictured car’s gearbox, engine tune, ride height or untouched originality; the technical reference is the separate November 1992 GB manual brochure.",
+          "creator": "JonathanDavidArndt",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d6528104353bf03e720a90b1c8eced3d6957463915c9cdd035751575a631f87a"
+        }
+      ]
+    },
+    {
+      "id": "SAA-93-OG-VIGGEN-1999",
+      "manufacturer": "Saab",
+      "model_family": "9-3",
+      "generation": "Original-generation 9-3 production-road performance-car family",
+      "variant": "Viggen coupe — 1999 English EEC brochure reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Cover explicitly dated 1999; original English EEC technical page, physical PDF page 28, visually read. Select the coupe body’s figures: 342 Nm and 6.5-second 0–60 mph, not the convertible’s acceleration or later engine tune. This is a brochure reference, not proof that every listed body was launched simultaneously in every market. Power-unit equivalence, body-spanning weight range and unestablished US specifications are excluded. No Pikes Peak racer, convertible or five-door extra record is counted.",
+      "summary": "The original 9-3 Viggen is an enduring Swedish turbo performance icon, pairing Saab’s Trionic-managed 2.3-litre engine with a focused chassis and manual front-drive layout. It represents the absent original 9-3 road family, distinct from the classic 900 and later Aero programmes.",
+      "admission_reason": "The original 9-3 Viggen is an enduring Swedish turbo performance icon, pairing Saab’s Trionic-managed 2.3-litre engine with a focused chassis and manual front-drive layout. It represents the absent original 9-3 road family, distinct from the classic 900 and later Aero programmes.",
+      "sources": [
+        {
+          "publisher": "Saab Automobile AB",
+          "title": "Saab 9-3 Viggen — 1999 English manufacturer brochure, technical specifications",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://saabsportugal.com/brochures/9-3/SAAB%209-3%20Viggen%201999%20Eng.zip",
+          "notes": "Cover explicitly dated 1999; original English EEC technical page, physical PDF page 28, visually read. Select the coupe body’s figures: 342 Nm and 6.5-second 0–60 mph, not the convertible’s acceleration or later engine tune. This is a brochure reference, not proof that every listed body was launched simultaneously in every market. Power-unit equivalence, body-spanning weight range and unestablished US specifications are excluded. No Pikes Peak racer, convertible or five-door extra record is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Saab 9-3 2,3T Viggen.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Saab_9-3_2,3T_Viggen.jpg",
+          "notes": "Bene Riobó; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2290",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with integrated wastegate and intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "342",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed fully synchromesh manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse drive unit",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Discs all round; internally ventilated front discs; ABS with EBD",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Throttle control",
+          "value": "Electronic throttle controlled by Saab Trionic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Balance shafts",
+          "value": "Two",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Low-gear control",
+          "value": "Torque limitation in first and second gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Brochure 0–60 mph, coupe",
+          "value": "6.5",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 9-3 Viggen is an enduring Swedish turbo performance icon, pairing Saab’s Trionic-managed 2.3-litre engine with a focused chassis and manual front-drive layout. It represents the absent original 9-3 road family, distinct from the classic 900 and later Aero programmes.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_saa_93_og_viggen_1999.jpg",
+          "caption": "Black original-generation Saab 9-3 Viggen coupe at Motorhistoriska dagen, Gotland. The representative photograph does not establish its model year, market-specific engine tune or unmodified mechanical condition; it is not the Pikes Peak racing car.",
+          "creator": "Bene Riobó",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2a5778671c6c2a2613f0c716b85f7316072ac01b2c1860162f15890eba2dca7a"
+        }
+      ]
+    },
+    {
+      "id": "FOR-PUMA-RACING-1999",
+      "manufacturer": "Ford",
+      "model_family": "Puma",
+      "generation": "Original production-road Puma coupe family",
+      "variant": "Racing Puma — original UK road specification",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Stephen Dobie’s actual driving report dated 17 December 2016 supplies road-model evidence and expressly distinguishes the Racing Puma from rally cars. Retain its native quoted 153 bhp, not prototype ST160 targets, the later Puma SUV or independently tuned examples. Optional limited-slip differential, proposed replacement dampers, unverified stopping-force claim, exact track dimensions and press-car-specific spacers are excluded. No extra standard Puma or cosmetic edition is counted.",
+      "summary": "The Racing Puma is a lasting compact fast-Ford icon whose wide-track chassis, Alcon brakes and Tickford conversion gave the small coupe a distinctive driving identity. Its significance lies in the road car’s handling and enthusiast following, rather than a race result, rarity or power figure alone.",
+      "admission_reason": "The Racing Puma is a lasting compact fast-Ford icon whose wide-track chassis, Alcon brakes and Tickford conversion gave the small coupe a distinctive driving identity. Its significance lies in the road car’s handling and enthusiast following, rather than a race result, rarity or power figure alone.",
+      "sources": [
+        {
+          "publisher": "BBC Top Gear",
+          "title": "Top Gear’s Bargain Heroes: the Ford Racing Puma — Stephen Dobie, 17 December 2016",
+          "source_type": "First-hand road test and model examination",
+          "url": "https://www.topgear.com/car-news/top-gear-heroes/top-gears-bargain-heroes-ford-racing-puma",
+          "notes": "Stephen Dobie’s actual driving report dated 17 December 2016 supplies road-model evidence and expressly distinguishes the Racing Puma from rally cars. Retain its native quoted 153 bhp, not prototype ST160 targets, the later Puma SUV or independently tuned examples. Optional limited-slip differential, proposed replacement dampers, unverified stopping-force claim, exact track dimensions and press-car-specific spacers are excluded. No extra standard Puma or cosmetic edition is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2000 Ford Racing Puma 16V 1.7 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2000_Ford_Racing_Puma_16V_1.7_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Alcon-developed four-piston braking system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wing extensions",
+          "value": "Wider body and increased track widths",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Blue Sparco sports seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Firmer revised road suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Road-test quoted output",
+          "value": "153",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Production engine changes",
+          "value": "Remapped management and revised camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Conversion specialist",
+          "value": "Tickford",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Racing Puma is a lasting compact fast-Ford icon whose wide-track chassis, Alcon brakes and Tickford conversion gave the small coupe a distinctive driving identity. Its significance lies in the road car’s handling and enthusiast following, rather than a race result, rarity or power figure alone.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_puma_racing_1999.jpg",
+          "caption": "Ford Racing Puma road coupe photographed in Leamington Spa and identified as a 2000 car. This representative original-family image does not establish optional limited-slip differential fitment, exact output or press-car track dimensions, and does not depict the modern Puma SUV.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "26fefd9bf03ae96cdcf5344acd95e32952368091a9f1e075a1babab96a6d9945"
+        }
+      ]
+    },
+    {
+      "id": "AST-DB2-ROAD1952",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB2",
+      "generation": "Original DB2 production-road sporting coupe family",
+      "variant": "DB2 Vantage — documented 1952 LML/50/102 road-car reference",
+      "model_year_from": 1952,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "RM’s inspection/history-file catalogue identifies 1952 chassis LML/50/102 and engine VB6B/50/553. Its Heritage Trust certificate and factory service card record Vantage uprating before US delivery. Select this restored production customer coupe; no prototype, Le Mans Lightweight, DB2/4 or unique Graber body is substituted. The car was later converted to right-hand drive and its engine rebuilt in 2005, so current originality and measured output are not certified. No universal horsepower figure is inferred.",
+      "summary": "The DB2 established the postwar David Brown Aston Martin sporting lineage, bringing Lagonda-derived twin-cam six-cylinder engineering to an influential road GT. The documented customer coupe adds a foundational performance-car family before the DB4 and DB5, rather than an experimental car or a coachwork variation.",
+      "admission_reason": "The DB2 established the postwar David Brown Aston Martin sporting lineage, bringing Lagonda-derived twin-cam six-cylinder engineering to an influential road GT. The documented customer coupe adds a foundational performance-car family before the DB4 and DB5, rather than an experimental car or a coachwork variation.",
+      "sources": [
+        {
+          "publisher": "RM Sotheby’s",
+          "title": "1952 Aston Martin DB2 — chassis LML/50/102, Monterey 2019 catalogue",
+          "source_type": "First-hand vehicle inspection and factory-document history catalogue",
+          "url": "https://rmsothebys.com/auctions/mo19/lots/r0060-1952-aston-martin-db2/",
+          "notes": "RM’s inspection/history-file catalogue identifies 1952 chassis LML/50/102 and engine VB6B/50/553. Its Heritage Trust certificate and factory service card record Vantage uprating before US delivery. Select this restored production customer coupe; no prototype, Le Mans Lightweight, DB2/4 or unique Graber body is substituted. The car was later converted to right-hand drive and its engine rebuilt in 2005, so current originality and measured output are not certified. No universal horsepower figure is inferred."
+        },
+        {
+          "publisher": "Aston Workshop",
+          "title": "Aston Martin DB2 engine — specialist engineering account",
+          "source_type": "Restoration specialist’s engineering account",
+          "url": "https://aston.co.uk/gallery/db2-engine",
+          "notes": "Restorer’s engineering account explicitly describes the original 2.6-litre DB2 architecture separately from its own 2.9-litre DB2/4 Vignale and later capacity developments. Use shared original architecture only; do not transfer standard H4 carburettors, original 105-bhp tune or a numeric compression ratio to the Vantage-uprated customer car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Aston Martin DB2 1952.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB2_1952.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium-alloy factory coachwork",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Wheel mounting",
+          "value": "Aston-branded knock-off wire wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft drive",
+          "value": "Chain drive from front of crankshaft",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder-head construction",
+          "value": "Detachable cast-iron cylinder head",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion chambers",
+          "value": "Hemispherical",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder liners",
+          "value": "Wet liners",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Lubrication architecture",
+          "value": "Sump-fed gear-type oil pump",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB2 established the postwar David Brown Aston Martin sporting lineage, bringing Lagonda-derived twin-cam six-cylinder engineering to an influential road GT. The documented customer coupe adds a foundational performance-car family before the DB4 and DB5, rather than an experimental car or a coachwork variation.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_db2_road1952.jpg",
+          "caption": "Aston Martin DB2 sporting coupe identified by its photographer as a 1952 car. This different blue display car illustrates the production-road family; it is not RM’s red chassis LML/50/102 and does not establish that car’s Vantage tune, restoration or original steering position.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7b39f479331264aef79e45d984df14fed518eb3d8b121dc41b28efbdc2c3897b"
+        }
+      ]
+    }
+  ]
+}

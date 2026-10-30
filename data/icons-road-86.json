@@ -1,0 +1,222 @@
+{
+  "batch": "icons-road-2026-10-30-86",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "REN-17-GORDINI-EU1605-1974",
+      "manufacturer": "Renault",
+      "model_family": "17 Gordini",
+      "generation": "Original R15 / R17 sister-coupe sporting-road programme",
+      "variant": "European fuel-injected 1605 cc Gordini — October 1974 R1317 / R1327 reference",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Sporting road hatchback coupe family, fixed or opening roof",
+      "road_legal": 1,
+      "specification_market": "European October 1974 Renault 17 Gordini production-road engine reference, type 844-12, 1605 cc, for the R1317 coupe / R1327 opening-roof programme. The earlier 1565 cc 807-12 TS, North American 807-13 and 843-13 engines, and 1774 cc 807-Ga / 807-G4 rally engines are separate specifications. No 170/200-ch racing output, prototype steering/differential, race suspension or exact gearbox/road performance is inferred. One sister-coupe programme is admitted. The later road-bodied photograph illustrates the family and its roof/louvre equipment, not a certified 1974 chassis or engine specification.",
+      "summary": "The Renault 17 Gordini connected a fuel-injected sporting road coupe with Renault’s factory rally-development programme, culminating in the R17’s 1974 Press on Regardless World Championship rally victory. The racing winner used a different engine: its achievement explains the family’s heritage, not the road car’s power. One original R15/R17 sister-coupe programme is counted, without adding ordinary R15s, TS/Gordini badges, roof styles, market engines, model years or racing evolutions separately.",
+      "admission_reason": "The Renault 17 Gordini connected a fuel-injected sporting road coupe with Renault’s factory rally-development programme, culminating in the R17’s 1974 Press on Regardless World Championship rally victory. The racing winner used a different engine: its achievement explains the family’s heritage, not the road car’s power. One original R15/R17 sister-coupe programme is counted, without adding ordinary R15s, TS/Gordini badges, roof styles, market engines, model years or racing evolutions separately.",
+      "sources": [
+        {
+          "publisher": "Renault Classic",
+          "title": "Renault Gordini — Les Cahiers Histoire et Passions, tome 1; R17 pages 16–17",
+          "source_type": "Manufacturer historical publication",
+          "url": "https://cdn.group.renault.com/ren/master/renault-classic/tools-and-services/LaSagaGORDINI.pdf",
+          "notes": "European October 1974 Renault 17 Gordini production-road engine reference, type 844-12, 1605 cc, for the R1317 coupe / R1327 sliding-roof programme. The earlier 1565 cc 807-12 TS, North American 807-13 and 843-13 engines, and 1774 cc 807-Ga / 807-G4 rally engines are separate specifications. No 170/200-ch racing output, prototype steering/differential, race suspension or exact gearbox/road performance is inferred. One sister-coupe programme is admitted. The later road-bodied photograph illustrates the family and its roof/louvre equipment, not a certified 1974 chassis or engine specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Renault 17 Gordini (1978).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Renault_17_Gordini_(1978).jpg",
+          "notes": "Andrew Bone; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original credit: https://www.flickr.com/photos/andreboeni/53181325618/. Downloaded rendition copied unchanged. Representative road body with the caption’s equipment/market/chassis qualifications."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1605",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine type",
+          "value": "844-12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (DIN)",
+          "value": "108",
+          "unit": "ch DIN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "78",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "84",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Renault 17 Gordini connected a fuel-injected sporting road coupe with Renault’s factory rally-development programme, culminating in the R17’s 1974 Press on Regardless World Championship rally victory. The racing winner used a different engine: its achievement explains the family’s heritage, not the road car’s power. One original R15/R17 sister-coupe programme is counted, without adding ordinary R15s, TS/Gordini badges, roof styles, market engines, model years or racing evolutions separately.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_17_gordini_eu1605_1974.jpg",
+          "caption": "Renault 17 Gordini photographed by Andrew Bone at Simply French, Beaulieu, in 2023; the source labels the car 1978. Representative later sporting road body with black roof and rear-window louvres. It is not authentication of a 1974 R1317/R1327 chassis, roof equipment, original engine tune or competition specification.",
+          "creator": "Andrew Bone",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "16009776c4b1a6421f230013af52dc32b74b3d51ba3e1e9b8b10b16572f01d6f"
+        }
+      ]
+    },
+    {
+      "id": "REN-FUEGO-TURBO-EU1983-HISTORY",
+      "manufacturer": "Renault",
+      "model_family": "Fuego",
+      "generation": "Original Fuego production-road sporting-coupe family",
+      "variant": "European petrol Turbo 97 kW — original 1983 programme, Austrian factory-history reference",
+      "model_year_from": 1983,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting road coupe",
+      "road_legal": 1,
+      "specification_market": "European 1983 petrol Fuego Turbo introduction as described in Renault Austria’s January 27, 2009 coupe history: four cylinders, 1.6-litre class and directly stated 97 kW / 132 PS. The coefficient is a model-family historical reference, not a certified measurement of every Turbo trim. No exact displacement/engine code, gearbox, torque, weight, top speed, fuel consumption or road acceleration is inferred. Argentine naturally aspirated GTX/GTA/GTA Max engines, Berta kits and TC2000 race cars remain separate specifications; their heritage supports one Fuego family admission. Diesel record claims are excluded. The photo shows a UK road-bodied petrol Turbo, with market/equipment differences from an Austrian reference possible.",
+      "summary": "The Fuego combines a distinctive wind-tunnel-developed sporting coupe body with a turbocharged petrol road flagship and a major place in Argentine performance culture. Its model family became a TC2000 championship icon through the Berta/Traverso era, while the selected road reference is the European 97-kW petrol Turbo. Race cars, Argentine GTX/GTA engines, diesel records, facelifts and model years do not become additional entries or supply this road car’s mechanical figures.",
+      "admission_reason": "The Fuego combines a distinctive wind-tunnel-developed sporting coupe body with a turbocharged petrol road flagship and a major place in Argentine performance culture. Its model family became a TC2000 championship icon through the Berta/Traverso era, while the selected road reference is the European 97-kW petrol Turbo. Race cars, Argentine GTX/GTA engines, diesel records, facelifts and model years do not become additional entries or supply this road car’s mechanical figures.",
+      "sources": [
+        {
+          "publisher": "Renault Österreich",
+          "title": "Coupés von Renault — January 27, 2009; Fuego Turbo historical section",
+          "source_type": "Manufacturer historical press release",
+          "url": "https://media.renault.at/article/798",
+          "notes": "European 1983 petrol Fuego Turbo introduction as described in Renault Austria’s January 27, 2009 coupe history: four cylinders, 1.6-litre class and directly stated 97 kW / 132 PS. The coefficient is a model-family historical reference, not a certified measurement of every Turbo trim. No exact displacement/engine code, gearbox, torque, weight, top speed, fuel consumption or road acceleration is inferred. Argentine naturally aspirated GTX/GTA/GTA Max engines, Berta kits and TC2000 race cars remain separate specifications; their heritage supports one Fuego family admission. Diesel record claims are excluded. The photo shows a UK road-bodied petrol Turbo, with market/equipment differences from an Austrian reference possible."
+        },
+        {
+          "publisher": "Renault Argentina",
+          "title": "La historia de la Renault Fuego — July 25, 2022",
+          "source_type": "Manufacturer historical account",
+          "url": "https://prensa.renault.com.ar/comunicado/la-historia-de-la-renault-fuego",
+          "notes": "Full indexed manufacturer article text was actually read through web search; a direct open/raw download rendered only the Media Room header. Used for the Fuego family’s wind-tunnel/road-sporting context and Argentine TC2000 championship heritage, while distinguishing European petrol Turbo from Argentine M2000/J6T road engines, Berta kit and prepared race cars. Exact race-win/production totals, absolute world-first claims, Argentine equipment and technical figures are not imported into the selected European Turbo."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1984 Renault Fuego Turbo (14126506747).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1984_Renault_Fuego_Turbo_(14126506747).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original credit: 1984 Renault Fuego Turbo. Downloaded rendition copied unchanged. Representative road body with the caption’s equipment/market/chassis qualifications."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "97",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (factory historical account)",
+          "value": "132",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Rear hatch",
+          "value": "Fully glazed rear hatch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Drag coefficient (family historical reference)",
+          "value": "0.34",
+          "unit": "Cw",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Fuego combines a distinctive wind-tunnel-developed sporting coupe body with a turbocharged petrol road flagship and a major place in Argentine performance culture. Its model family became a TC2000 championship icon through the Berta/Traverso era, while the selected road reference is the European 97-kW petrol Turbo. Race cars, Argentine GTX/GTA engines, diesel records, facelifts and model years do not become additional entries or supply this road car’s mechanical figures.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_fuego_turbo_eu1983_history.jpg",
+          "caption": "1984 Renault Fuego Turbo photographed by Kieran White at a UK show. Representative petrol-Turbo road body; right-hand-drive market trim and equipment may differ from the Austrian factory-history reference. The photo does not certify chassis identity, original engine tune, measured drag coefficient or Argentine racing equipment.",
+          "creator": "Kieran White from Manchester, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7fee6c69025a734a22c99f312894854452d3968910918e8ca58f7ee6c53a2416"
+        }
+      ]
+    }
+  ]
+}

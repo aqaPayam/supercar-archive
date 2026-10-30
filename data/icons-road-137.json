@@ -1,0 +1,160 @@
+{
+  "batch": "icons-road-2026-10-30-137",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "ALF-6C1750-SS-JAMESYOUNG-MUSEUM1929",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "6C 1750",
+      "generation": "Early Jano 6C 1500/1750 production-road sporting family",
+      "variant": "Super Sport, James Young three-place body — 1929 Simeone reference",
+      "model_year_from": 1929,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Open three-place sporting road tourer",
+      "road_legal": 1,
+      "specification_market": "Early Jano 6C 1500/1750 sporting-road family; selected 1929 6C 1750 Super Sport with James Young three-place body at Simeone, chassis 312910. Museum explicitly describes road-car suitability as well as the owner's competition use. Seven attributes use this museum reference: six cylinders, quoted 1.75 L, quoted 85 hp without inferred test standard, DOHC, supercharger, coachbuilder and seating. Five family-level chassis features use Alfa Romeo's 2020 programme history and are labelled accordingly. No precise 1752-cc conversion, bore/stroke, output rpm, torque, gearbox, wheelbase, mass, speed, acceleration or originality certification imported. Group earlier 1500 relationship, 1750 SS/GS/GT labels, engine tunes, coachwork, years and chassis once. Dedicated racing/fixed-head Testa Fissa references, later 6C programmes, replicas and additional body variants are not admitted. No 102-CV fixed-head, later independent-suspension or unrelated GP-engine data transferred.",
+      "summary": "The early Alfa Romeo 6C sporting-road programme established Vittorio Jano's celebrated combination of a nimble chassis, twin-cam six-cylinder engineering and, in its leading sporting versions, supercharging. The 1750 family's major Mille Miglia successes and lasting place in pre-war sports-car history justify admission beyond rarity or coachwork exclusivity. Count the early 1500/1750 sporting-road family once; this James Young-bodied Super Sport reference is not a second record for each body, engine tune or racing chassis.",
+      "admission_reason": "The early Alfa Romeo 6C sporting-road programme established Vittorio Jano's celebrated combination of a nimble chassis, twin-cam six-cylinder engineering and, in its leading sporting versions, supercharging. The 1750 family's major Mille Miglia successes and lasting place in pre-war sports-car history justify admission beyond rarity or coachwork exclusivity. Count the early 1500/1750 sporting-road family once; this James Young-bodied Super Sport reference is not a second record for each body, engine tune or racing chassis.",
+      "sources": [
+        {
+          "publisher": "Simeone Foundation Automotive Museum",
+          "title": "1929 Alfa Romeo 6c 1750 SS — James Young body, chassis 312910",
+          "source_type": "Original museum collection record and provenance account",
+          "url": "https://simeonemuseum.org/collection/1929-alfa-romeo-6c-1750-ss/",
+          "notes": "Complete relevant collection header, history and individual-car account read. Explicitly discusses road suitability and customer James Young purchase alongside subsequent ARCA racing. Seven selected attributes map here: six cylinders, 1.75 L, 85 hp, twin overhead cams, supercharger, James Young body and two main seats plus small rear dickey. Preserve stated units; do not infer exact displacement or power test standard/rpm. Museum describes retained body/paint and replacement seat bottoms/mechanical attention; this is attributed context, not an independent originality certificate. No racing-only assumption, first-fifty/360 production totals, speed, gearing, wheelbase or unique-US-competition superlative imported."
+        },
+        {
+          "publisher": "Alfa Romeo / Stellantis Media, Heritage HUB Italy",
+          "title": "Storie Alfa Romeo, second episode: the iconic 6C 1750 — 28 April 2020",
+          "source_type": "Original manufacturer road-and-racing programme history",
+          "url": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/storie-alfa-romeo-seconda-puntata-l-iconica-6c-1750-anticipa-il-futuro-ed-protagonista-della-sua-epoca",
+          "notes": "Complete relevant Italian release read and English counterpart compared. Road/race shared engineering section supports five labelled family-level attributes: pressed-steel frame, reinforced axles, mechanically operated drums, outboard leaf springs and rearward fuel tank. Distinguishes limited fixed-head Gran Sport special from wider road programme. No 102-CV/840-kg/170-km/h special-version values or later 6C 1900/2300/2500 independent-suspension and unrelated 1914 GP four-valve/dual-ignition technology imported. Mille Miglia lineage explains importance; lights-off anecdote, race averages, fastest-ever marketing, totals, prices and Flying Star show-car details are not selected road specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons; Al R / 123 Chroma Pixels",
+          "title": "File:1929 Alfa Romeo 6C 1750 SS TF Spider Styles 3-some James Young (Simeone) 00.png",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1929_Alfa_Romeo_6C_1750_SS_TF_Spider_Styles_3-some_James_Young_(Simeone)_00.png",
+          "notes": "Author Al R, Flickr account 123 Chroma Pixels; original https://www.flickr.com/photos/123chromapixels/50144901207/ . Summary, file history, Flickr licence review and API metadata read. CC BY-SA 2.0 Generic confirmed by FlickreviewR 2 on 30 November 2020; https://creativecommons.org/licenses/by-sa/2.0/ . Page date/publication is 23 July 2020 but EXIF says 26 July 2019; exact capture date left unresolved. Downloaded 1280 x 853 PNG rendition individually viewed and copied unchanged. Yellow James Young museum body with number 23 illustrates the competition history of the selected road car; racing markings are not standard factory paint. File-title TF does not authenticate fixed-head construction or engine tune. No engine, exact year, original equipment or chassis identity authenticated by image alone."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinder count",
+          "value": "6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "1.75",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted output",
+          "value": "85 hp; test standard and output rpm not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Reference coachbuilder",
+          "value": "James Young",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Reference seating",
+          "value": "Two main seats and a small rear dickey seat",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Factory family frame",
+          "value": "Pressed steel",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Factory family axles",
+          "value": "Reinforced",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Factory family system",
+          "value": "Mechanically operated drums",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Suspension",
+          "label": "Factory family leaf springs",
+          "value": "Mounted outboard rather than below the frame side members",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Fuel system",
+          "label": "Factory family tank placement",
+          "value": "Set rearward to improve rear-axle loading and balance",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The early Alfa Romeo 6C sporting-road programme established Vittorio Jano's celebrated combination of a nimble chassis, twin-cam six-cylinder engineering and, in its leading sporting versions, supercharging. The 1750 family's major Mille Miglia successes and lasting place in pre-war sports-car history justify admission beyond rarity or coachwork exclusivity. Count the early 1500/1750 sporting-road family once; this James Young-bodied Super Sport reference is not a second record for each body, engine tune or racing chassis.",
+          "category": "Landmark pre-war Italian sporting-road engineering",
+          "confidence": "Original museum collection account and manufacturer programme history; road and competition scope retained",
+          "source": 0
+        },
+        {
+          "title": "Shared chassis ideas do not make racing tune a road specification",
+          "explanation": "Alfa Romeo describes the 6C 1750 family as using a pressed-steel frame, reinforced axles, mechanical drum brakes, outboard leaf springs and a rearward fuel tank on road and racing cars. It separately identifies a limited fixed-head Gran Sport special; that special version and later six-cylinder programmes do not supply this road reference with their engine or suspension specifications.",
+          "category": "Road/racing technical boundaries",
+          "confidence": "Original Italian manufacturer programme history; family-level claims labelled",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_6c1750_ss_jamesyoung_museum1929.png",
+          "caption": "James Young-bodied Alfa Romeo 6C 1750 Super Sport at Simeone Museum, with number 23 competition markings. The photograph illustrates this dual-purpose road car and its racing use, not standard factory paint. Source page dates July 2020 while EXIF indicates July 2019; capture date unresolved. Image-title TF does not authenticate fixed-head construction; exact engine, tune, year, equipment and chassis identity are not established by photograph alone. Al R / 123 Chroma Pixels, Flickr via Wikimedia Commons, CC BY-SA 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/); downloaded 1280-pixel PNG rendition copied unchanged.",
+          "creator": "Al R / 123 Chroma Pixels",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3191ff3249a02c3b2e3296ec43c99a433a8172ae49dc148edd2a9cf9f2694002"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "batch": "icons-road-2026-10-29-39",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "ALF-GIULIA-952-QV-DE2016-MT",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Giulia Quadrifoglio",
+      "generation": "Modern Type 952 Giulia Quadrifoglio production-road sports-saloon family",
+      "variant": "2.9 V6 Bi-Turbo — June 2016 Germany six-speed manual",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original German factory dossier dated 21 June 2016 explicitly pairs the 375-kW Quadrifoglio with a six-speed manual. Diesel and ordinary Giulia data, dry mass presented as kerb mass, optional carbon-ceramic brakes/Sparco seats, later automatic/540-PS tunes and the historic Giulia Sprint are excluded. Exact cc and engine-peak rpm are not inferred from blocked technical PDFs.",
+      "summary": "The modern Giulia Quadrifoglio revived Alfa’s rear-drive sports-saloon formula with a dedicated twin-turbo V6, active front aerodynamics and a dual-clutch torque-vectoring differential. Its coordinated lightweight and chassis engineering marks a distinct modern performance family.",
+      "admission_reason": "The modern Giulia Quadrifoglio revived Alfa’s rear-drive sports-saloon formula with a dedicated twin-turbo V6, active front aerodynamics and a dual-clutch torque-vectoring differential. Its coordinated lightweight and chassis engineering marks a distinct modern performance family.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo / FCA Germany",
+          "title": "Die neue Alfa Romeo Giulia — German production introduction, 21 June 2016",
+          "source_type": "Manufacturer original road-model introduction",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/die-neue-alfa-romeo-giulia-1",
+          "notes": "Original German factory dossier dated 21 June 2016 explicitly pairs the 375-kW Quadrifoglio with a six-speed manual. Diesel and ordinary Giulia data, dry mass presented as kerb mass, optional carbon-ceramic brakes/Sparco seats, later automatic/540-PS tunes and the historic Giulia Sprint are excluded. Exact cc and engine-peak rpm are not inferred from blocked technical PDFs."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Alfa Romeo Giulia Quadrifoglio.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Giulia_Quadrifoglio.jpg",
+          "notes": "Adam Court; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Alfa Romeo Giulia Quadrifoglio"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Twin-turbocharged petrol V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.9",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "375",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Electronically controlled limited-slip rear differential with dual-clutch active torque vectoring",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Electrically extending Alfa Active Aero Splitter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Integrated Brake System combining electronic assistance and mechanical brake boost",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Propshaft material",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Lightweight panels",
+          "value": "Carbon-fibre bonnet and roof",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The modern Giulia Quadrifoglio revived Alfa’s rear-drive sports-saloon formula with a dedicated twin-turbo V6, active front aerodynamics and a dual-clutch torque-vectoring differential. Its coordinated lightweight and chassis engineering marks a distinct modern performance family.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_giulia_952_qv_de2016_mt.jpg",
+          "caption": "Alfa Romeo Giulia Quadrifoglio at Goodwood in December 2016, showing the original modern sports-saloon body. The exterior does not establish the selected German manual specification, exact market, optional ceramic brakes or present tune.",
+          "creator": "Adam Court",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "25fc169434781fb6ec8372ca9648e548d71b7ca6db16407d0fe17a2b78fd9109"
+        }
+      ]
+    },
+    {
+      "id": "ALF-75-TURBO-EVOLUZIONE1987",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "75",
+      "generation": "Original Type 162B 75 Turbo Evoluzione production-road homologation family",
+      "variant": "Turbo Evoluzione — original 1987 road programme",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door road-homologation sports saloon",
+      "road_legal": 1,
+      "specification_market": "Manufacturer historical account explicitly distinguishes the 1762-cc 1987 Evoluzione from the preceding 1779-cc 1.8 turbo and later America/Twin Spark. The earlier turbo’s 155-CV figure is not automatically assigned to the Evoluzione. IMSA/Group A race tune, weight, roll cage and an erroneous absolute last-rear-drive claim are excluded.",
+      "summary": "The 75 Turbo Evoluzione embodies Alfa’s road-homologation era, combining a dedicated reduced-capacity turbo engine and aerodynamic package with the marque’s rear-transaxle and de Dion chassis layout. It represents the sporting 75 family rather than an ordinary saloon.",
+      "admission_reason": "The 75 Turbo Evoluzione embodies Alfa’s road-homologation era, combining a dedicated reduced-capacity turbo engine and aerodynamic package with the marque’s rear-transaxle and de Dion chassis layout. It represents the sporting 75 family rather than an ordinary saloon.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage / Alfa Romeo",
+          "title": "Alfa Romeo 75: L’evoluzione dei motori — original Turbo Evoluzione road programme",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.stellantisheritage.com/it-it/heritage/storie/alfa-romeo-75",
+          "notes": "Manufacturer historical account explicitly distinguishes the 1762-cc 1987 Evoluzione from the preceding 1779-cc 1.8 turbo and later America/Twin Spark. The earlier turbo’s 155-CV figure is not automatically assigned to the Evoluzione. IMSA/Group A race tune, weight, roll cage and an erroneous absolute last-rear-drive claim are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:A Alfa Romeo 75 - Ruote nella storia, Caltanissetta - Rievocazione del centenario della prima coppa nissena, 5 giugno 2022. 02.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:A_Alfa_Romeo_75_-_Ruote_nella_storia,_Caltanissetta_-_Rievocazione_del_centenario_della_prima_coppa_nissena,_5_giugno_2022._02.jpg",
+          "notes": "OppidumNissenae; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1762",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Rear transaxle combining clutch, gearbox and differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent torsion-bar front suspension; de Dion rear with Watt linkage and coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/50 VR15",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Integrated front spoiler, widened wings and low side skirts",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 75 Turbo Evoluzione embodies Alfa’s road-homologation era, combining a dedicated reduced-capacity turbo engine and aerodynamic package with the marque’s rear-transaxle and de Dion chassis layout. It represents the sporting 75 family rather than an ordinary saloon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_75_turbo_evoluzione1987.jpg",
+          "caption": "Alfa Romeo 75 Turbo Evoluzione at a 2022 commemorative motoring gathering in Caltanissetta, showing the red road body and distinctive skirt/wing treatment. The event number, badges and wheels do not authenticate original homologation provenance or current engine tune.",
+          "creator": "OppidumNissenae",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c9ff68dd6c1717d0de25d2132906e416de9b8a4b6199d0157e332ec04939f34e"
+        }
+      ]
+    },
+    {
+      "id": "HSV-GTS-GENF-2013-MT",
+      "manufacturer": "HSV",
+      "model_family": "GTS",
+      "generation": "Original GEN-F VF-based GTS supercharged production-road sports-saloon family",
+      "variant": "GTS — 2013 Australia six-speed manual introduction",
+      "model_year_from": 2013,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original 15 May 2013 launch release; production announced for late August, showroom arrival September. Selects manual TR6060, not optional 6L90E automatic, tuned W507, GEN-F2 or GTSR W1. Brake-based torque vectoring is distinguished from a twin-clutch differential. Absolute fastest/most-powerful claims, exact cc, unprinted rating rpm and mass are omitted.",
+      "summary": "The GEN-F GTS is a defining Australian performance saloon, integrating the supercharged LSA V8 with magnetic damping, brake-based torque vectoring and a substantial brake/cooling package. It represents HSV’s modern engineering flagship rather than a cosmetic Commodore edition.",
+      "admission_reason": "The GEN-F GTS is a defining Australian performance saloon, integrating the supercharged LSA V8 with magnetic damping, brake-based torque vectoring and a substantial brake/cooling package. It represents HSV’s modern engineering flagship rather than a cosmetic Commodore edition.",
+      "sources": [
+        {
+          "publisher": "Holden Special Vehicles",
+          "title": "HSV Launches 430 Kilowatt GTS — original 15 May 2013 road-model release",
+          "source_type": "Manufacturer original road-model launch release",
+          "url": "https://www.hsv.com.au/live/story/hsv-launches-430-kilowatt-gts/d6e1a74f-8559-4c92-852d-c9476be9ad24/",
+          "notes": "Original 15 May 2013 launch release; production announced for late August, showroom arrival September. Selects manual TR6060, not optional 6L90E automatic, tuned W507, GEN-F2 or GTSR W1. Brake-based torque vectoring is distinguished from a twin-clutch differential. Absolute fastest/most-powerful claims, exact cc, unprinted rating rpm and mass are omitted."
+        },
+        {
+          "publisher": "Holden Special Vehicles",
+          "title": "HSV Classics: GEN-F / GTS — original standard and optional equipment",
+          "source_type": "Manufacturer archived production-equipment table",
+          "url": "https://www.hsv.com.au/classics/see/gen-f/gts/",
+          "notes": "GEN-F table distinguishes standard manual from optional automatic, lists 390-mm front/372-mm rear two-piece discs with six-piston calipers, and identifies the limited-slip differential. Later GEN-F2 hardware is excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2014 HSV GTS (Gen-F) sedan (17489403444).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2014_HSV_GTS_(Gen-F)_sedan_(17489403444).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2014 Holden VF GTS Sedan"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LSA supercharged V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "430",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "740",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "TR6060 MG9-spec six-speed manual with oil cooler and twin-plate clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Eaton four-lobe supercharger with water-to-air charge cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Third-generation Magnetic Ride Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "255/35 R20 front; 275/35 R20 rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Torque vectoring",
+          "value": "ESC applies the inside rear brake to counter understeer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Cooling",
+          "label": "Driveline cooling",
+          "value": "Dedicated transmission and differential cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "390-mm front and 372-mm rear two-piece discs with forged six-piston calipers",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential with HSV-specific ratio",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GEN-F GTS is a defining Australian performance saloon, integrating the supercharged LSA V8 with magnetic damping, brake-based torque vectoring and a substantial brake/cooling package. It represents HSV’s modern engineering flagship rather than a cosmetic Commodore edition.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hsv_gts_genf_2013_mt.jpg",
+          "caption": "HSV GTS identified as a 2014 GEN-F sedan, illustrating the original modern GTS road body. The photographer’s generic LS3 engine text conflicts with HSV’s LSA specification and is not adopted. The image does not certify the selected 2013 manual reference or absence of tuning.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "104ee5311a5e7269c7e5b8bdfa8f737ed1c2f3f8c624cb5699cae9fbbff90a5a"
+        }
+      ]
+    },
+    {
+      "id": "HSV-VL-SS-GROUPA-SV1988",
+      "manufacturer": "HSV",
+      "model_family": "Commodore SS Group A SV",
+      "generation": "Original VL-based SS Group A production-road homologation saloon family",
+      "variant": "SS Group A SV — original 1988 VL road family",
+      "model_year_from": 1988,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Four-door road-homologation sports saloon",
+      "road_legal": 1,
+      "specification_market": "Manufacturer Classics equipment table for VL SS Group A, distinct from SV88 and later VN Group A. Historical year/foundational identity are separately documented by HSV. Exact displacement/output absent from this table are omitted; the table’s unusual gearbox model-code spelling is not silently repaired. Optional intake mesh is not made standard. Adjacent later-model specifications are excluded.",
+      "summary": "The VL SS Group A launched the HSV marque and translated touring-car homologation requirements into a distinctive road saloon. Its reinforced injected V8, dedicated driveline and extensive aerodynamic body package make it a foundational Australian performance icon.",
+      "admission_reason": "The VL SS Group A launched the HSV marque and translated touring-car homologation requirements into a distinctive road saloon. Its reinforced injected V8, dedicated driveline and extensive aerodynamic body package make it a foundational Australian performance icon.",
+      "sources": [
+        {
+          "publisher": "Holden Special Vehicles",
+          "title": "HSV Classics: VL / SS Group A — production-road equipment and engineering",
+          "source_type": "Manufacturer archived production-equipment table",
+          "url": "https://www.hsv.com.au/classics/see/vl/ss-group-a/",
+          "notes": "Manufacturer Classics equipment table for VL SS Group A, distinct from SV88 and later VN Group A. Historical year/foundational identity are separately documented by HSV. Exact displacement/output absent from this table are omitted; the table’s unusual gearbox model-code spelling is not silently repaired. Optional intake mesh is not made standard. Adjacent later-model specifications are excluded."
+        },
+        {
+          "publisher": "Holden Special Vehicles",
+          "title": "20 years of the greatest hits — 31 July 2008",
+          "source_type": "Manufacturer marque-history announcement",
+          "url": "https://www.hsv.com.au/live/story/20-years-of-the-greatest-hits-from-hsv/c6ac60bd-6350-4d4a-bc16-c95e261d96a2/",
+          "notes": "Names the 1988 Group A SS VL Commodore as the first HSV in the retrospective collection. Model cars, racing entries and later W427 specifications are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Holden Commodore SS Group A SV (1988 VL series) 01.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Holden_Commodore_SS_Group_A_SV_(1988_VL_series)_01.jpg",
+          "notes": "Richard Lewis; CC BY 3.0. License: https://creativecommons.org/licenses/by/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Reinforced-cylinder-block V8 with roller rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic fuel injection with twin throttle bodies",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Borg Warner five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "FE2 suspension with Bilstein dampers and modified strut mountings",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Heavy-duty disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/55 VR16 Bridgestone RE71",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Full-depth front air dam, bonnet extension, side skirts and raised rear deck/spoiler",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The VL SS Group A launched the HSV marque and translated touring-car homologation requirements into a distinctive road saloon. Its reinforced injected V8, dedicated driveline and extensive aerodynamic body package make it a foundational Australian performance icon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hsv_vl_ss_groupa_sv1988.jpg",
+          "caption": "1988 VL Commodore SS Group A SV, showing the distinctive silver production-road body and extensive factory-style aerodynamic treatment. The exterior does not authenticate original HSV build provenance, gearbox, engine internals or unchanged condition.",
+          "creator": "Richard Lewis",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7981cf5d87192cf0d99c7d364723acd6f746cd7dfbd57eba3bb439f6815d6f94"
+        }
+      ]
+    },
+    {
+      "id": "HOL-TORANA-LX-A9X-SEDAN1977",
+      "manufacturer": "Holden",
+      "model_family": "Torana",
+      "generation": "LX Torana A9X production-road homologation performance family",
+      "variant": "SL/R 5000 A9X sedan — August 1977 dealer bulletin, M21 manual",
+      "model_year_from": 1977,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Four-door road-homologation sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original GM Parts & Accessories dealer bulletin No.444, 31 August 1977, PDF725 within the 754-page LX catalogue; header, actual standard/option list and relevant parts page PDF727 rendered/enlarged/read. Original A9X-specific appendix located in context, not the whole catalogue claimed reviewed. Standard M21 is distinguished from optional MC7 Borg Warner T/10, optional flares and hatchback spoiler. The unusual rear-axle ratio wording is omitted pending corroboration. Race L34 tune, replica equipment and road output are not inferred.",
+      "summary": "The Torana A9X is a defining Australian road-homologation performance car, coupling the L31 V8 with a heavy-duty driveline and four-wheel braking package. Its road chassis development, recalled by the responsible Holden engineer, distinguishes it from an ordinary Torana and from the separately tuned racing cars.",
+      "admission_reason": "The Torana A9X is a defining Australian road-homologation performance car, coupling the L31 V8 with a heavy-duty driveline and four-wheel braking package. Its road chassis development, recalled by the responsible Holden engineer, distinguishes it from an ordinary Torana and from the separately tuned racing cars.",
+      "sources": [
+        {
+          "publisher": "General Motors-Holden’s / LS2LX Hatch hosted factory catalogue",
+          "title": "GM Parts & Accessories News No.444 — LX Torana performance equipment package Option A9X, 31 August 1977",
+          "source_type": "Manufacturer original dealer bulletin and parts appendix, hosted facsimile",
+          "url": "https://ls2lxhatch.com/documents/LX%20Torana%20Parts%20Catalogue.pdf",
+          "notes": "Original GM Parts & Accessories dealer bulletin No.444, 31 August 1977, PDF725 within the 754-page LX catalogue; header, actual standard/option list and relevant parts page PDF727 rendered/enlarged/read. Original A9X-specific appendix located in context, not the whole catalogue claimed reviewed. Standard M21 is distinguished from optional MC7 Borg Warner T/10, optional flares and hatchback spoiler. The unusual rear-axle ratio wording is omitted pending corroboration. Race L34 tune, replica equipment and road output are not inferred."
+        },
+        {
+          "publisher": "General Motors-Holden’s / Unique Cars hosted memorandum; Ray Borrett interview",
+          "title": "Holden Torana A9X: Iconic Holdens #8 — original memorandum excerpt and first-hand chassis-engineer account",
+          "source_type": "Hosted manufacturer memorandum excerpt and first-hand development interview",
+          "url": "https://www.tradeuniquecars.com.au/holden-torana-a9x-review",
+          "notes": "The quoted factory introduction memorandum specifies 5.0 V8, four-speed manual and power-assisted four-wheel disc brakes. Ray Borrett describes his original development work. The feature car is explicitly a tribute with L34-style modifications; its tune, tank, gearbox and image are not adopted as stock road evidence."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1977 Holden Torana (LX) SLR 5000 A9X sedan (2006-11-26) 01.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1977_Holden_Torana_(LX)_SLR_5000_A9X_sedan_(2006-11-26)_01.jpg",
+          "notes": "The original uploader was 2tough at English Wikipedia .; Public domain. License: . Credit: Transferred from en.wikipedia to Commons."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "L31 308-cu-in V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "M21 four-speed floor-shift manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "DR70H14 steel-belted tyres",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Laminated windscreen",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Auxiliary electric fan listed in the A9X package parts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lighting",
+          "label": "Headlamps, selected sedan",
+          "value": "Quartz-halogen headlamps",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear brakes",
+          "value": "Disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "System",
+          "value": "Power-assisted disc brakes on all four wheels, separate front/rear hydraulic circuits",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Torana A9X is a defining Australian road-homologation performance car, coupling the L31 V8 with a heavy-duty driveline and four-wheel braking package. Its road chassis development, recalled by the responsible Holden engineer, distinguishes it from an ordinary Torana and from the separately tuned racing cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hol_torana_lx_a9x_sedan1977.jpg",
+          "caption": "Holden Torana LX SL/R 5000 identified as a 1977 A9X sedan, with present flares and aftermarket-looking wheels. Illustrates the four-door road body; the image does not certify original A9X provenance, standard tyre choice, M21 gearbox or whether fitted body equipment was originally optional.",
+          "creator": "The original uploader was 2tough at English Wikipedia .",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fd4f71ab27ee3bb3ca981205a7bbe521abba5b8d6c7e1af3c2d26a5718d68b9a"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FALCON-XY-GTHOIII-1971",
+      "manufacturer": "Ford",
+      "model_family": "Falcon",
+      "generation": "XY GT-HO Phase III production-road homologation sports-saloon family",
+      "variant": "GT-HO Phase III — October 1971 road test, wide-ratio / 3.25 axle",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Four-door road-homologation sports saloon",
+      "road_legal": 1,
+      "specification_market": "Mel Nichols’ original October 1971 Wheels first drive, explicitly republished 23 August 2016. Selects the road-test car with wide ratios and 3.25 axle. The later CARS section concerns Don Deveson’s modified Phase Three plus: its cam, 850-cfm carburettor, 2.92 axle and speeds are excluded. Manufacturer 300-bhp claim versus writer’s estimate, tacho/speedo discrepancies, unverified exact capacity and competition 7000-rpm tune are omitted. No modern as-raced restoration is used for road specifications.",
+      "summary": "The Falcon GT-HO Phase III is a defining Australian homologation-era performance saloon. The original 1971 road test documents the refinements that made it a usable fast road car as well as part of Ford’s Bathurst programme, and the test became an enduring part of Australian motoring culture.",
+      "admission_reason": "The Falcon GT-HO Phase III is a defining Australian homologation-era performance saloon. The original 1971 road test documents the refinements that made it a usable fast road car as well as part of Ford’s Bathurst programme, and the test became an enduring part of Australian motoring culture.",
+      "sources": [
+        {
+          "publisher": "Wheels / Mel Nichols, via WhichCar",
+          "title": "Ford Falcon GT HO Phase 3 — Mel Nichols’ October 1971 Wheels road test, original text republished 23 August 2016",
+          "source_type": "Contemporary first-hand production-road test, publisher reprint",
+          "url": "https://www.whichcar.com.au/features/ford-falcon/1971-ford-falcon-gt-ho-phase-3-review",
+          "notes": "Mel Nichols’ original October 1971 Wheels first drive, explicitly republished 23 August 2016. Selects the road-test car with wide ratios and 3.25 axle. The later CARS section concerns Don Deveson’s modified Phase Three plus: its cam, 850-cfm carburettor, 2.92 axle and speeds are excluded. Manufacturer 300-bhp claim versus writer’s estimate, tacho/speedo discrepancies, unverified exact capacity and competition 7000-rpm tune are omitted. No modern as-raced restoration is used for road specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1971 Ford XY Falcon GTHO Phase 3 Sedan (8712472289).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1971_Ford_XY_Falcon_GTHO_Phase_3_Sedan_(8712472289).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1971 Ford  XY Falcon GTHO Phase 3 Sedan"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Holley four-barrel carburettor rated at 780 cfm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Wide-ratio manual gearbox on the selected road-test car",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Baffled oil sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Enlarged radiator and revised cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Revised front calipers and rear drums; power-booster vacuum reserve tank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Dunlop Aquajets fitted to the road-test vehicle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Road-car rev limiter",
+          "value": "Electrical cut-out at 6150 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Crankshaft",
+          "value": "Specially toughened crankshaft with enlarged vibration damper",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio, selected test vehicle",
+          "value": "3.25:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Falcon GT-HO Phase III is a defining Australian homologation-era performance saloon. The original 1971 road test documents the refinements that made it a usable fast road car as well as part of Ford’s Bathurst programme, and the test became an enduring part of Australian motoring culture.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_falcon_xy_gthoiii_1971.jpg",
+          "caption": "Ford XY Falcon identified as a 1971 GT-HO Phase III sedan. The photographer identifies its Globe wheels as a later offered fitment; they do not represent the selected October 1971 road-test tyre/wheel reference. Badges and appearance do not authenticate original build provenance, axle ratio or engine tune.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "fac86f0202fefb73ea397bd6a8599ad11f7664bc21d8e67f273419c1f192988c"
+        }
+      ]
+    },
+    {
+      "id": "ALF-155-Q4-JP185DIN",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "155 Q4",
+      "generation": "Original narrow-body Type 167 155 Q4 production-road performance-saloon family",
+      "variant": "Q4 — Japan 185-PS DIN five-speed brochure reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original Fiat and Alfa Romeo Motors Japan Q4 brochure occupies PDF1–20 of the 55-page hosted compilation; actual cover, technical/drivetrain sections and final specification/imprint spreads rendered/read. Imprint says Ediz.Japan 9210-2315; no unprinted model year is inferred. Selected native 185-PS DIN market reference, not 190-PS European or later 186-PS figures. Adjacent Twin Spark/V6 brochures, optional sunroof, modified ECU and 155 GTA/DTM race-car hardware are excluded.",
+      "summary": "The 155 Q4 is the distinctive turbocharged all-wheel-drive flagship of Alfa’s wedge-shaped sporting-saloon range. Its intercooled sixteen-valve engine, Ferguson centre coupling and Torsen rear differential form a coordinated road-performance package, separate from the ordinary front-drive 155s and the competition cars.",
+      "admission_reason": "The 155 Q4 is the distinctive turbocharged all-wheel-drive flagship of Alfa’s wedge-shaped sporting-saloon range. Its intercooled sixteen-valve engine, Ferguson centre coupling and Torsen rear differential form a coordinated road-performance package, separate from the ordinary front-drive 155s and the competition cars.",
+      "sources": [
+        {
+          "publisher": "Fiat and Alfa Romeo Motors Japan / Car Manuals Club hosted compilation",
+          "title": "The New Alfa 155 Q4 — Fiat and Alfa Romeo Motors Japan original 185-PS DIN brochure, PDF1–20",
+          "source_type": "Manufacturer original road-model brochure, hosted facsimile",
+          "url": "https://carmanualsclub.com/files/2be201657aa9dc47eb4536a7daae61db16f678239f8a83e871167287acf2601a.pdf",
+          "notes": "Original Fiat and Alfa Romeo Motors Japan Q4 brochure occupies PDF1–20 of the 55-page hosted compilation; actual cover, technical/drivetrain sections and final specification/imprint spreads rendered/read. Imprint says Ediz.Japan 9210-2315; no unprinted model year is inferred. Selected native 185-PS DIN market reference, not 190-PS European or later 186-PS figures. Adjacent Twin Spark/V6 brochures, optional sunroof, modified ECU and 155 GTA/DTM race-car hardware are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Alfa 155 Q4 (vista posteriore).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfa_155_Q4_(vista_posteriore).jpg",
+          "notes": "Michigta; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Water-cooled DOHC sixteen-valve inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett T3 turbocharger with intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Ferguson viscous centre coupling and Torsen rear differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson front; independent trailing-arm rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "205/50 ZR15",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, DIN at 6000 rpm",
+          "value": "185",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, DIN at 2500 rpm",
+          "value": "30.3",
+          "unit": "kg-m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 155 Q4 is the distinctive turbocharged all-wheel-drive flagship of Alfa’s wedge-shaped sporting-saloon range. Its intercooled sixteen-valve engine, Ferguson centre coupling and Torsen rear differential form a coordinated road-performance package, separate from the ordinary front-drive 155s and the competition cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_155_q4_jp185din.jpg",
+          "caption": "Alfa Romeo 155 Q4 rear view, illustrating the original narrow-body road-saloon family. The exterior does not establish Japanese-market 185-PS DIN specification, exact year, engine/gearbox originality or current tune.",
+          "creator": "Michigta",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a77052e56e3aae161327053a1dfc15ba7b960e5a0830fb6f60eb3f16ba06f934"
+        }
+      ]
+    }
+  ]
+}

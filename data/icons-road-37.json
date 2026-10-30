@@ -1,0 +1,959 @@
+{
+  "batch": "icons-road-2026-10-29-37",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "NIS-STAGEA-260RS-JP1998",
+      "manufacturer": "Nissan",
+      "model_family": "Stagea",
+      "generation": "First-generation WC34 Autech 260RS performance-wagon road family",
+      "variant": "Autech Version 260RS — January 1998 Japan brochure",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Five-door performance estate",
+      "road_legal": 1,
+      "specification_market": "Original five-spread Autech brochure: all spreads rendered; final technical/equipment spread enlarged and read. Host path says 1997; actual footer states January 1998. Selected early WC34 road specification, not later facelift or Skyline. Conflicting Nissan museum table output and tyre width are excluded; rating standard is not inferred from an unclear footnote.",
+      "summary": "The Stagea 260RS brought the RB26DETT engine and a coordinated all-wheel-drive, brake and chassis package to a production estate. Autech’s own history records the enduring following of this distinctive performance wagon.",
+      "admission_reason": "The Stagea 260RS brought the RB26DETT engine and a coordinated all-wheel-drive, brake and chassis package to a production estate. Autech’s own history records the enduring following of this distinctive performance wagon.",
+      "sources": [
+        {
+          "publisher": "Autech Japan / Nissan",
+          "title": "Stagea Autech Version 260RS — original January 1998 Japan equipment and technical brochure",
+          "source_type": "Manufacturer original road-model brochure",
+          "url": "https://www.autech.co.jp/history/sv/PDF/stagea_autech260rs_1997.pdf",
+          "notes": "Original five-spread Autech brochure: all spreads rendered; final technical/equipment spread enlarged and read. Host path says 1997; actual footer states January 1998. Selected early WC34 road specification, not later facelift or Skyline. Conflicting Nissan museum table output and tyre width are excluded; rating standard is not inferred from an unclear footnote."
+        },
+        {
+          "publisher": "Autech Japan",
+          "title": "Autech history of 30 years — 1996–2005",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.autech.co.jp/sp/company/30th/history/index2.html",
+          "notes": "Identifies the 1997 RB26DETT-powered Stagea programme and its enduring enthusiasts. This chronology does not change the January 1998 issue date of the technical brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1998 Nissan Stagea Autech Version 260RS WGNC34-106592.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1998_Nissan_Stagea_Autech_Version_260RS_WGNC34-106592.jpg",
+          "notes": "Guyon Cumby; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/gkubed/53319632734/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "RB26DETT water-cooled DOHC inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2568",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Nissan ECCS electronically controlled fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "ATTESA E-TS electronically controlled torque-split four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent multilink front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs front and rear; opposed four-piston front and two-piston rear calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/50R17 94V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure claim at 6800 rpm",
+          "value": "280",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native brochure claim at 4400 rpm",
+          "value": "37.5",
+          "unit": "kg-m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Stagea 260RS brought the RB26DETT engine and a coordinated all-wheel-drive, brake and chassis package to a production estate. Autech’s own history records the enduring following of this distinctive performance wagon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_stagea_260rs_jp1998.jpg",
+          "caption": "Nissan Stagea Autech Version 260RS identified as 1998, showing the early WC34 wagon body. Present wheels, exhaust and mechanical condition do not authenticate the original January 1998 specification or absence of tuning.",
+          "creator": "Guyon Cumby",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6319f871a1629c1fdc61cd5d11817ab2368951ea4ed9463591c2c35cc8ecd95a"
+        }
+      ]
+    },
+    {
+      "id": "NIS-MARCH-SUPERTURBO-EK10-1990",
+      "manufacturer": "Nissan",
+      "model_family": "March",
+      "generation": "First-generation K10 Super Turbo production-road family",
+      "variant": "Super Turbo EK10 — 1990 factory heritage reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door compact performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Factory heritage collection No.433, 1990 EK10 production road car. The separate 1987 Little Dynamite Cup rental racer is not this reference: its mass, tyres and competition equipment are excluded. Gearbox is not given on the selected page and is omitted.",
+      "summary": "The March Super Turbo combined supercharging and turbocharging in a tiny production hatchback. Nissan identifies it as the road-car development of the March R, making it a distinctive compact performance and rally-derived engineering icon.",
+      "admission_reason": "The March Super Turbo combined supercharging and turbocharging in a tiny production hatchback. Nissan identifies it as the road-car development of the March R, making it a distinctive compact performance and rally-derived engineering icon.",
+      "sources": [
+        {
+          "publisher": "Nissan Motor Corporation",
+          "title": "March Super Turbo — No.433, 1990 EK10 road-car specifications and history",
+          "source_type": "Manufacturer heritage collection vehicle reference",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/433_march_super_turbo.html",
+          "notes": "Factory heritage collection No.433, 1990 EK10 production road car. The separate 1987 Little Dynamite Cup rental racer is not this reference: its mass, tyres and competition equipment are excluded. Gearbox is not given on the selected page and is omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:March st.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:March_st.jpg",
+          "notes": "Sunoma at Japanese Wikipedia; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: own work by the original uploader ( Original text: sunomaが撮影 )"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "MA09ERT four-cylinder OHC petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "930",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "81",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Combined supercharger and turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front strut; rear four-link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "175/65R13",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power speed",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque at 4800 rpm",
+          "value": "130",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The March Super Turbo combined supercharging and turbocharging in a tiny production hatchback. Nissan identifies it as the road-car development of the March R, making it a distinctive compact performance and rally-derived engineering icon.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_march_superturbo_ek10_1990.jpg",
+          "caption": "Nissan March Super Turbo EK10 road hatchback, with its characteristic bonnet scoop and front lamps. Exact manufacture year, original forced-induction hardware and current tune cannot be established from the exterior.",
+          "creator": "Sunoma at Japanese Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ae6aee58ff1716d1bc6657441568a921111491762ba579d0b41bba4306d8dc5b"
+        }
+      ]
+    },
+    {
+      "id": "HON-CRX-AS-SI-1987",
+      "manufacturer": "Honda",
+      "model_family": "CR-X",
+      "generation": "First-generation AS Ballade Sports CR-X DOHC road family",
+      "variant": "Si — August 1987 Japan archive, five-speed manual",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door lightweight sports coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer archive explicitly dated August 1987; E-AS Si five-speed column selected. Native power/torque standard is unprinted and not relabelled net or gross. Rear-track typo and option-dependent mass are omitted. Later EF double-wishbone, SiR and del Sol specifications are excluded.",
+      "summary": "The original Ballade Sports CR-X established Honda’s lightweight front-drive sports-coupe formula. Its compact body and later ZC twin-cam Si engine represent the first generation of an enduring Honda performance name.",
+      "admission_reason": "The original Ballade Sports CR-X established Honda’s lightweight front-drive sports-coupe formula. Its compact body and later ZC twin-cam Si engine represent the first generation of an enduring Honda performance name.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Ballade Sports CR-X Si — August 1987 Japan archive specification table",
+          "source_type": "Manufacturer archived road-model specification table",
+          "url": "https://www.honda.co.jp/auto-archive/cr-x/1987/si_sy.html",
+          "notes": "Manufacturer archive explicitly dated August 1987; E-AS Si five-speed column selected. Native power/torque standard is unprinted and not relabelled net or gross. Rear-track typo and option-dependent mass are omitted. Later EF double-wishbone, SiR and del Sol specifications are excluded."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Ballade Sports CR-X 1983.06 — lightweight body-material development",
+          "source_type": "Manufacturer original first-generation engineering factbook",
+          "url": "https://www.honda.co.jp/factbook/auto/BALLADE/19830623/br83-010.html",
+          "notes": "Original first-generation launch account explains the front-drive lightweight sports concept and polymer body materials. Original 1983 engine data are not substituted for the selected later Si."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda E-AS Ballade Sports CR-X Si (23052110120).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_E-AS_Ballade_Sports_CR-X_Si_(23052110120).jpg",
+          "notes": "先従隗始; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "ZC water-cooled transverse inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1590",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Belt-driven DOHC, four valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.3:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front torsion-bar strut; rear axle layout",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "185/60R14 82H",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native archive claim at 6500 rpm",
+          "value": "135",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native archive claim at 5000 rpm",
+          "value": "15.5",
+          "unit": "kg-m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Ballade Sports CR-X established Honda’s lightweight front-drive sports-coupe formula. Its compact body and later ZC twin-cam Si engine represent the first generation of an enduring Honda performance name.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_crx_as_si_1987.jpg",
+          "caption": "Honda E-AS Ballade Sports CR-X Si, showing the first-generation body and raised bonnet. Represents the selected late first-generation road family; the exterior does not certify the August 1987 manual specification, engine originality or current equipment.",
+          "creator": "先従隗始",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "442fe80005f16e1ddf0effc72c5fc55a25409965a71b3c0ab677e3c408c837a8"
+        }
+      ]
+    },
+    {
+      "id": "SUZ-ALTO-WORKS-CC72-RSR1987",
+      "manufacturer": "Suzuki",
+      "model_family": "Alto Works",
+      "generation": "First-generation CA72V/CC72V Works performance-road family",
+      "variant": "RS-R CC72V — February 1987 Japan full-time 4WD manual",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door kei performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Manufacturer digital-heritage specification sheet, one page rendered and visually read; not a period brochure. February 1987 RS-R CC72V column, not front-drive RS-X or later 660-cc Works. Front discs are not described as ventilated. Variable 2(4)-seat commercial occupancy and payload are omitted.",
+      "summary": "The first Alto Works established Suzuki’s Works kei-performance lineage with a twin-cam intercooled turbo engine. The RS-R paired its 64-PS engine with full-time four-wheel drive, creating a landmark miniature hot hatch.",
+      "admission_reason": "The first Alto Works established Suzuki’s Works kei-performance lineage with a twin-cam intercooled turbo engine. The RS-R paired its 64-PS engine with full-time four-wheel drive, creating a landmark miniature hot hatch.",
+      "sources": [
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "First-generation Alto Works — February 1987 RS-R technical sheet",
+          "source_type": "Manufacturer digital-heritage specification sheet",
+          "url": "https://www.suzuki.co.jp/suzuki_digital_library/pdf/1_auto/altoworks/29.pdf",
+          "notes": "Manufacturer digital-heritage specification sheet, one page rendered and visually read; not a period brochure. February 1987 RS-R CC72V column, not front-drive RS-X or later 660-cc Works. Front discs are not described as ventilated. Variable 2(4)-seat commercial occupancy and payload are omitted."
+        },
+        {
+          "publisher": "Suzuki Motor Corporation",
+          "title": "Suzuki Digital Library — first-generation Alto Works, 1987",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.suzuki.co.jp/suzuki_digital_library/1_auto/altoworks.html",
+          "notes": "Manufacturer history identifies the flagship Works RS-R, DOHC intercooled turbo, viscous-coupling full-time 4WD and native 64-net-PS output. Later-generation specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1987 Suzuki Alto Works RS-R Turbo 4WD in Superior White, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1987_Suzuki_Alto_Works_RS-R_Turbo_4WD_in_Superior_White,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "F5A water-cooled inline three, DOHC 12-valve",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "543",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EPI electronically controlled petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, all forward gears synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Full-time four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson struts with coils; rear isolated trailing-link layout with coils",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front discs and rear leading/trailing drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "145/65R13 69H",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 7500 rpm",
+          "value": "64",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native sheet claim at 4000 rpm",
+          "value": "7.3",
+          "unit": "kg-m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Alto Works established Suzuki’s Works kei-performance lineage with a twin-cam intercooled turbo engine. The RS-R paired its 64-PS engine with full-time four-wheel drive, creating a landmark miniature hot hatch.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_suz_alto_works_cc72_rsr1987.jpg",
+          "caption": "First-generation 1987 Suzuki Alto Works RS-R Turbo 4WD displayed at Suzuki Plaza, showing the angular original Works body. Museum identification supports family and trim; the photograph does not independently verify the gearbox, engine internals or present operating condition.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "0836c172ecdcec33e111923c1ad3be2eb3ecee1a33ba193ceb7985f98ee84465"
+        }
+      ]
+    },
+    {
+      "id": "HON-CRX-DELSOL-EG2-SIR-MT",
+      "manufacturer": "Honda",
+      "model_family": "CR-X del Sol",
+      "generation": "Third-generation EG2 CR-X removable-roof road family",
+      "variant": "SiR — 1999 manufacturer archive, five-speed manual",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat removable-roof sports car",
+      "road_legal": 1,
+      "specification_market": "Manufacturer 1999 archive for the March 1992-introduced generation; archive publication is not treated as a manufacture/model year. Selected EG2 SiR manual, not 155-PS automatic or VXi. Optional ABS/TCS/LSD are not made universal; late archived equipment has a manual removable roof, not TransTop.",
+      "summary": "The del Sol reinterpreted the CR-X as a two-seat removable-roof sports car. Its high-revving B16A VTEC SiR and double-wishbone chassis make this a distinct open-roof generation of Honda’s compact sports lineage.",
+      "admission_reason": "The del Sol reinterpreted the CR-X as a two-seat removable-roof sports car. Its high-revving B16A VTEC SiR and double-wishbone chassis make this a distinct open-roof generation of Honda’s compact sports lineage.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "CR-X del Sol SiR — 1999 Japan archive, EG2 manual specification column",
+          "source_type": "Manufacturer archived road-model specification table",
+          "url": "https://www.honda.co.jp/auto-archive/cr-x/1999/sir_sy.html",
+          "notes": "Manufacturer 1999 archive for the March 1992-introduced generation; archive publication is not treated as a manufacture/model year. Selected EG2 SiR manual, not 155-PS automatic or VXi. Optional ABS/TCS/LSD are not made universal; late archived equipment has a manual removable roof, not TransTop."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "CR-X del Sol — 1999 archived standard equipment",
+          "source_type": "Manufacturer archived road-model equipment table",
+          "url": "https://www.honda.co.jp/auto-archive/cr-x/1999/line_up.html",
+          "notes": "Lists the manual open roof and luggage-compartment roof holder as standard. SiR equipment and option columns are distinguished; electrically operated TransTop is not adopted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda CR-X Del Sol SiR (E-EG2) front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_CR-X_Del_Sol_SiR_(E-EG2)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "B16A water-cooled transverse inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1595",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC VTEC, four valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.4:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/55R15 83V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 7800 rpm",
+          "value": "170",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, net at 7300 rpm",
+          "value": "16.0",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Manually removable roof with luggage-compartment roof holder",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The del Sol reinterpreted the CR-X as a two-seat removable-roof sports car. Its high-revving B16A VTEC SiR and double-wishbone chassis make this a distinct open-roof generation of Honda’s compact sports lineage.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_crx_delsol_eg2_sir_mt.jpg",
+          "caption": "Honda CR-X del Sol SiR E-EG2 with the early road-body styling. Represents the removable-roof SiR family; present wheels, exact year, transmission and roof operation are not authenticated by this exterior. The image is not evidence of TransTop equipment.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1cb78d284c49279ffa9eae66b6bb8388a3cd3372fcbc10f9a8823919bdd423fd"
+        }
+      ]
+    },
+    {
+      "id": "TOY-CELICA-T23-SSII-JP1999",
+      "manufacturer": "Toyota",
+      "model_family": "Celica",
+      "generation": "Seventh-generation T230 naturally aspirated performance-coupe road family",
+      "variant": "SS-II — September 1999 Japan base six-speed manual",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Toyota 20 September 1999 introduction and linked actual specification image visually read. Selected GH-ZZT231-BLFVF base SS-II six-speed, not optional Super Strut BLFVF(Z), automatic, SS-I or earlier AWD GT-Four. Tyre size absent from the selected table and omitted.",
+      "summary": "The seventh Celica pursued lightweight, high-revving naturally aspirated sports-coupe engineering. Its SS-II combined the 2ZZ-GE VVTL-i engine with a six-speed manual, representing a distinct final Celica generation rather than another GT-Four tune.",
+      "admission_reason": "The seventh Celica pursued lightweight, high-revving naturally aspirated sports-coupe engineering. Its SS-II combined the 2ZZ-GE VVTL-i engine with a six-speed manual, representing a distinct final Celica generation rather than another GT-Four tune.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Toyota Unleashes a Celica Sensation — 20 September 1999 original Japan launch",
+          "source_type": "Manufacturer original road-model launch release",
+          "url": "https://global.toyota/en/detail/8081196",
+          "notes": "Original Toyota 20 September 1999 introduction and linked actual specification image visually read. Selected GH-ZZT231-BLFVF base SS-II six-speed, not optional Super Strut BLFVF(Z), automatic, SS-I or earlier AWD GT-Four. Tyre size absent from the selected table and omitted."
+        },
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "Seventh Celica — original major-specification table, 20 September 1999",
+          "source_type": "Manufacturer original launch specification image",
+          "url": "https://global.toyota/pages/news/older/images/1999/09/20/003_en.gif",
+          "notes": "Original linked specification image visually read: base SS-II six-speed column distinguished from Super Strut package and automatic. Native net PS/kg-m retained."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1999-2002 Toyota Celica SS-II.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1999-2002_Toyota_Celica_SS-II.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "2ZZ-GE inline four with DOHC",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1795",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.5:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "EFI electronic fuel injection",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts with coil springs; rear double wishbones with coil springs",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear discs",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 7600 rpm",
+          "value": "190",
+          "unit": "PS",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, net at 6800 rpm",
+          "value": "18.4",
+          "unit": "kg-m",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Valve control",
+          "value": "VVTL-i variable valve timing and lift",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The seventh Celica pursued lightweight, high-revving naturally aspirated sports-coupe engineering. Its SS-II combined the 2ZZ-GE VVTL-i engine with a six-speed manual, representing a distinct final Celica generation rather than another GT-Four tune.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_celica_t23_ssii_jp1999.jpg",
+          "caption": "Toyota Celica SS-II identified as 1999–2002, showing the seventh-generation coupe body. Exterior appearance does not establish base-versus-Super-Strut suspension, six-speed gearbox or current engine tune.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2bd0c7a1427621a1b89982c43d80b8f85e4e994e62f388e03476f66f88ad7788"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-LUCE-R130-13A-1969",
+      "manufacturer": "Mazda",
+      "model_family": "Luce Rotary Coupe",
+      "generation": "Original R130 front-wheel-drive rotary-coupe production family",
+      "variant": "R130 13A — first-production Japan reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Mazda Rotary Engine Press Information 2017, first-production Japan-specification appendix: printed 27/PDF15 enlarged and read; full relevant R130 block and manual gearbox line independently enlarged. October 1969 production coupe, not RX-87 prototype or later RX-4. Native twin-chamber displacement retained rather than assigning a piston-equivalent capacity. No absolute first-FWD claim is adopted.",
+      "summary": "The Luce R130 represents a distinctive branch of Mazda’s rotary grand-touring history: an Italian-styled front-wheel-drive coupe with the dedicated 13A twin-rotor engine. It is separate from both the Cosmo sports cars and later rear-drive Luce/RX-4.",
+      "admission_reason": "The Luce R130 represents a distinctive branch of Mazda’s rotary grand-touring history: an Italian-styled front-wheel-drive coupe with the dedicated 13A twin-rotor engine. It is separate from both the Cosmo sports cars and later rear-drive Luce/RX-4.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation / Mazda Canada press archive",
+          "title": "Rotary Engine Press Information 2017 — Luce R130 first-production Japan reference, printed page 27",
+          "source_type": "Manufacturer rotary technical and historical press booklet",
+          "url": "https://filecache.mediaroom.com/mr5mr_mazdaca/210703/download/Mazda_Rotary%20Press_Information%202017.pdf",
+          "notes": "Mazda Rotary Engine Press Information 2017, first-production Japan-specification appendix: printed 27/PDF15 enlarged and read; full relevant R130 block and manual gearbox line independently enlarged. October 1969 production coupe, not RX-87 prototype or later RX-4. Native twin-chamber displacement retained rather than assigning a piston-equivalent capacity. No absolute first-FWD claim is adopted."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Great Cars of Mazda — Luce Rotary Coupe",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.mazda.com/en/about/history/greatcar/luce/",
+          "notes": "Identifies October 1969 R130 road introduction, front-drive configuration, dedicated rotary engine and Italian-style hardtop body. Later Luce generations and prototype specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mazda Luce R130 2017-11-23 174308.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mazda_Luce_R130_2017-11-23_174308.jpg",
+          "notes": "Bergfalke2; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "13A twin-rotor rotary engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "190",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Chamber displacement, native notation",
+          "value": "655 cc × 2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native factory-booklet claim at 6000 rpm",
+          "value": "126",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, JIS gross at 3500 rpm",
+          "value": "17.5",
+          "unit": "kg-m",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Luce R130 represents a distinctive branch of Mazda’s rotary grand-touring history: an Italian-styled front-wheel-drive coupe with the dedicated 13A twin-rotor engine. It is separate from both the Cosmo sports cars and later rear-drive Luce/RX-4.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_luce_r130_13a_1969.jpg",
+          "caption": "Mazda Luce R130 identified as a 1969 car in the Mazda Museum Augsburg, showing the original rotary hardtop-coupe body. The display does not independently certify engine internals, gearbox originality or current mechanical condition.",
+          "creator": "Bergfalke2",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "b2e82a14c13c586ae251b1c1cdaf030aee3736afdbd5ef3e0c8c30003b6b4a07"
+        }
+      ]
+    }
+  ]
+}

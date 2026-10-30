@@ -1,0 +1,1007 @@
+{
+  "batch": "icons-road-2026-10-29-56",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "HON-S660-ALPHA-MT2015",
+      "manufacturer": "Honda",
+      "model_family": "S660",
+      "generation": "Original S660 mid-engined kei-roadster family",
+      "variant": "Alpha — April 2015 Japan six-speed manual launch reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-seat open-top sports car",
+      "road_legal": 1,
+      "specification_market": "Factory announcement dated 30 March 2015 for 2 April sales. Select Alpha six-speed manual, not CVT or the limited Concept Edition. Preserve the rounded 660-cc class without guessing exact displacement or power. The first-mini-vehicle six-speed claim is Honda’s internally researched March 2015 category statement, not a claim about every compact car worldwide. One S660 family is counted.",
+      "summary": "The S660 revived Honda’s miniature mid-engined sports-car tradition with a dedicated lightweight open body, rear-wheel drive and a six-speed manual. This unusually focused kei-roadster programme is a significant sporting engineering icon, rather than an ordinary small-car trim.",
+      "admission_reason": "The S660 revived Honda’s miniature mid-engined sports-car tradition with a dedicated lightweight open body, rear-wheel drive and a six-speed manual. This unusually focused kei-roadster programme is a significant sporting engineering icon, rather than an ordinary small-car trim.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "All-new S660 — original Japan launch release, 30 March 2015",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://global.honda/en/newsroom/news/2015/4150330eng-s660.html",
+          "notes": "Factory announcement dated 30 March 2015 for 2 April sales. Select Alpha six-speed manual, not CVT or the limited Concept Edition. Preserve the rounded 660-cc class without guessing exact displacement or power. The first-mini-vehicle six-speed claim is Honda’s internally researched March 2015 category statement, not a claim about every compact car worldwide. One S660 family is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2015-2020 Honda S660.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2015-2020_Honda_S660.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "0.66",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Dedicated turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Midship",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Factory front/rear weight distribution",
+          "value": "45:55",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S660 revived Honda’s miniature mid-engined sports-car tradition with a dedicated lightweight open body, rear-wheel drive and a six-speed manual. This unusually focused kei-roadster programme is a significant sporting engineering icon, rather than an ordinary small-car trim.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_s660_alpha_mt2015.jpg",
+          "caption": "Original-family Honda S660 photographed by TTTNIS. This representative roadster does not establish Alpha rather than Beta trim, a 2015 build date or the selected manual gearbox; Concept Edition and Mugen equipment are not inferred.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2b5f3f3f2bd22ed333a6e34c6e36ae479c0928637a2f7e164fd5504c84c34ad0"
+        }
+      ]
+    },
+    {
+      "id": "HON-PRELUDE-III-SI4WS-JP1987",
+      "manufacturer": "Honda",
+      "model_family": "Prelude",
+      "generation": "Third-generation BA-series sporting-road coupe family",
+      "variant": "2.0 Si with mechanical 4WS — April 1987 Japan manual reference",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Original 9 April 1987 Japanese release. Select DOHC Si with 4WS, identified as E-BA5; do not use the SOHC grades or infer ABS as universal. Keep native net PS and kg-m. The precise first is steering-angle-sensing 4WS, not every form of four-wheel steering. No later electronic 4WS or export tune is transferred.",
+      "summary": "The third Prelude introduced Honda’s steering-angle-sensing mechanical four-wheel steering, a landmark in road-car handling engineering. Combined with its DOHC engine and double-wishbone chassis, it represents an important sporting-coupe generation distinct from the later Prelude already archived.",
+      "admission_reason": "The third Prelude introduced Honda’s steering-angle-sensing mechanical four-wheel steering, a landmark in road-car handling engineering. Combined with its DOHC engine and double-wishbone chassis, it represents an important sporting-coupe generation distinct from the later Prelude already archived.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "New Prelude — original Japan 4WS launch release, 9 April 1987",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://global.honda/jp/news/1987/4870409.html",
+          "notes": "Original 9 April 1987 Japanese release. Select DOHC Si with 4WS, identified as E-BA5; do not use the SOHC grades or infer ABS as universal. Keep native net PS and kg-m. The precise first is steering-angle-sensing 4WS, not every form of four-wheel steering. No later electronic 4WS or export tune is transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989 Honda Prelude Si 4WS coupe (21594539583).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1989_Honda_Prelude_Si_4WS_coupe_(21594539583).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1989 Honda Prelude 4WS 2.0 Si. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1958",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel double-wishbone suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net output at 6000 rpm",
+          "value": "145",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net torque at 4500 rpm",
+          "value": "17.8",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "System",
+          "value": "Mechanical steering-angle-sensing Honda 4WS",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third Prelude introduced Honda’s steering-angle-sensing mechanical four-wheel steering, a landmark in road-car handling engineering. Combined with its DOHC engine and double-wishbone chassis, it represents an important sporting-coupe generation distinct from the later Prelude already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_prelude_iii_si4ws_jp1987.jpg",
+          "caption": "1989 Honda Prelude Si 4WS photographed in Australia by Jeremy. This representative third-generation road coupe illustrates the mechanical-4WS family, not the exact 1987 Japan reference; local engine tune and gearbox are not inferred from the photograph.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0a366664e49e621b57d9c88a2fd8d6814c3f97fbd66040db0af312309737ab78"
+        }
+      ]
+    },
+    {
+      "id": "HON-PRELUDE-V-TYPES-JP1996",
+      "manufacturer": "Honda",
+      "model_family": "Prelude",
+      "generation": "Fifth-generation BB-series sporting-road coupe family",
+      "variant": "Type S — November 1996 Japan factory reference",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Original November 1996 Type S engine section. Preserve the Japan net tune, not SiR 200 PS or an export Type SH engine. Native torque notation is retained. The fifth-generation reference is distinct from the existing fourth-generation BB4 despite their overlapping 1996 reference year. One fifth-generation family is counted.",
+      "summary": "The fifth Prelude Type S combined a highly developed naturally aspirated VTEC engine with active torque distribution to improve cornering. Its ATTS system makes this generation a significant Honda handling-development landmark, beyond a cosmetic edition of the earlier Prelude.",
+      "admission_reason": "The fifth Prelude Type S combined a highly developed naturally aspirated VTEC engine with active torque distribution to improve cornering. Its ATTS system makes this generation a significant Honda handling-development landmark, beyond a cosmetic edition of the earlier Prelude.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "Prelude November 1996 factbook — Type S dedicated engine, section 11",
+          "source_type": "Contemporary manufacturer technical factbook",
+          "url": "https://www.honda.co.jp/factbook/auto/PRELUDE/19961107/pr96-011.html",
+          "notes": "Original November 1996 Type S engine section. Preserve the Japan net tune, not SiR 200 PS or an export Type SH engine. Native torque notation is retained. The fifth-generation reference is distinct from the existing fourth-generation BB4 despite their overlapping 1996 reference year. One fifth-generation family is counted."
+        },
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "Prelude November 1996 factbook — ATTS, section 15",
+          "source_type": "Contemporary manufacturer technical factbook",
+          "url": "https://www.honda.co.jp/factbook/auto/PRELUDE/19961107/pr96-015.html",
+          "notes": "Original Type S active torque-transfer description. Do not confuse torque distribution with rear-wheel steering or claim all other Prelude grades have ATTS."
+        },
+        {
+          "publisher": "Honda Motor Co., Ltd.",
+          "title": "Prelude November 1996 factbook — specification matrix, section 20",
+          "source_type": "Contemporary manufacturer technical factbook",
+          "url": "https://www.honda.co.jp/factbook/auto/PRELUDE/19961107/pr96-020.html",
+          "notes": "Read the Type S column: five-speed manual; no automatic or 4WS. Other columns, option-dependent masses and the SiR four-view drawing are not Type S values."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda Prelude (R68 ECP) - 7 June 2026.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_Prelude_(R68_ECP)_-_7_June_2026.jpg",
+          "notes": "Aethonatic; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine code",
+          "value": "H22A",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2156",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC VTEC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net output at 7200 rpm",
+          "value": "220",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net torque at 6500 rpm",
+          "value": "22.5",
+          "unit": "kgm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Torque distribution",
+          "value": "ATTS active torque transfer between the driven wheels",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front ventilated discs; rear discs",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front and rear double wishbones",
+          "unit": "",
+          "source": 2
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration and layout",
+          "value": "Water-cooled inline four-cylinder, transverse",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fifth Prelude Type S combined a highly developed naturally aspirated VTEC engine with active torque distribution to improve cornering. Its ATTS system makes this generation a significant Honda handling-development landmark, beyond a cosmetic edition of the earlier Prelude.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_prelude_v_types_jp1996.jpg",
+          "caption": "Fifth-generation Honda Prelude at the 2026 Nottingham Motor Show, photographed by Aethonatic. This representative coupe illustrates the body generation, not a certified Japan Type S; the photograph does not establish the 220-PS tune, ATTS or selected transmission.",
+          "creator": "Aethonatic",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "49953f6a145c26e8bb9a853449bc0bc846f6c5c471708d51757759f37866c25b"
+        }
+      ]
+    },
+    {
+      "id": "TOY-STARLET-EP82-GT-JP1989",
+      "manufacturer": "Toyota",
+      "model_family": "Starlet",
+      "generation": "Fourth-generation P80 / EP82 sporting-road hatchback family",
+      "variant": "Three-door GT — December 1989 factory lineage reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Manufacturer’s representative three-door GT column, E-EP82-AGMQY, released 19 December 1989. Do not mix Soleil or Si engine rows. Keep native net PS because kW is blank. Transmission, torque and exact GT drive layout are not inferred from the model-code letters. Later naturally aspirated four-wheel-drive cars and the EP91 Glanza are separate references.",
+      "summary": "The EP82 GT is a defining small-capacity Japanese turbo hot hatch, combining a compact three-door sports body with a dedicated DOHC turbo-EFI engine. It forms a distinct enthusiast-performance generation before the archived Glanza V, rather than another grade or model year of that car.",
+      "admission_reason": "The EP82 GT is a defining small-capacity Japanese turbo hot hatch, combining a compact three-door sports body with a dedicated DOHC turbo-EFI engine. It forms a distinct enthusiast-performance generation before the archived Glanza V, rather than another grade or model year of that car.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation",
+          "title": "75 Years of Toyota — fourth-generation Starlet, representative GT technical table",
+          "source_type": "Manufacturer vehicle-lineage history / specifications",
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60007105/index.html",
+          "notes": "Manufacturer’s representative three-door GT column, E-EP82-AGMQY, released 19 December 1989. Do not mix Soleil or Si engine rows. Keep native net PS because kW is blank. Transmission, torque and exact GT drive layout are not inferred from the model-code letters. Later naturally aspirated four-wheel-drive cars and the EP91 Glanza are separate references."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1993 Toyota Starlet GT Turbo 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1993_Toyota_Starlet_GT_Turbo_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "4E-FTE water-cooled inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1331",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net output",
+          "value": "135",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The EP82 GT is a defining small-capacity Japanese turbo hot hatch, combining a compact three-door sports body with a dedicated DOHC turbo-EFI engine. It forms a distinct enthusiast-performance generation before the archived Glanza V, rather than another grade or model year of that car.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_starlet_ep82_gt_jp1989.jpg",
+          "caption": "Toyota Starlet GT Turbo identified as a 1993 car by photographer Calreyn88. This later EP82 representative is not the initial December 1989 reference. The displayed wheels and large exhaust outlet do not establish factory fitment, engine tune or unchanged condition.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e25de2208f8f193d82b3a463fce9aec6a4ebc5258962dccc9a36241967e42648"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M2-G87-MAN2023",
+      "manufacturer": "BMW",
+      "model_family": "M2",
+      "generation": "Second-generation G87 sporting-road coupe family",
+      "variant": "Original 338-kW six-speed manual — April 2023 international introduction",
+      "model_year_from": 2023,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "October 2022 announcement for April 2023 introduction. Select the international manual option; the automatic is standard in this release. Do not transfer US standard-equipment wording or its horsepower notation. Carbon roof, carbon buckets, track tyres and raised speed limit are not universal. No later power update or CS is added.",
+      "summary": "The G87 continues BMW’s compact rear-wheel-drive M-coupe tradition with M3/M4-derived chassis hardware and a retained manual transmission. Contemporary testing supports its engaging engine and playful handling, making it a substantive new sporting generation rather than another F87 package.",
+      "admission_reason": "The G87 continues BMW’s compact rear-wheel-drive M-coupe tradition with M3/M4-derived chassis hardware and a retained manual transmission. Contemporary testing supports its engaging engine and playful handling, making it a substantive new sporting generation rather than another F87 package.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "All-new BMW M2 — original G87 launch press kit, 12 October 2022",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0404444EN/the-all-new-bmw-m2",
+          "notes": "October 2022 announcement for April 2023 introduction. Select the international manual option; the automatic is standard in this release. Do not transfer US standard-equipment wording or its horsepower notation. Carbon roof, carbon buckets, track tyres and raised speed limit are not universal. No later power update or CS is added."
+        },
+        {
+          "publisher": "Car and Driver / Mike Sutton",
+          "title": "2023 BMW M2 Tested: Strong Medicine — June 2023 first-hand test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a43452901/2023-bmw-m2-drive/",
+          "notes": "Actual US manual test supports the engaging engine and handling while noting increased weight and limited steering feel. US equipment and measured test figures are not imported into the international factory reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2023-12 BMW M2-G87-white.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2023-12_BMW_M2-G87-white.jpg",
+          "notes": "Wikisympathisant; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "338",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "550",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Optional six-speed manual with Gear Shift Assistant",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "2650–5870",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The G87 continues BMW’s compact rear-wheel-drive M-coupe tradition with M3/M4-derived chassis hardware and a retained manual transmission. Contemporary testing supports its engaging engine and playful handling, making it a substantive new sporting generation rather than another F87 package.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m2_g87_man2023.jpg",
+          "caption": "White G87 BMW M2 photographed in December 2023 by Wikisympathisant. This representative first-year generation image does not establish the selected international manual option, original equipment or unchanged tune; a colour-cast rear-only image was rejected as lead.",
+          "creator": "Wikisympathisant",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "5d3ae084fef975b821ffa6151179dbd0706a3cd9ebeb4f6835fd9982f4836596"
+        }
+      ]
+    },
+    {
+      "id": "BMW-M6-F13-DE2012",
+      "manufacturer": "BMW",
+      "model_family": "6 Series",
+      "generation": "F13 M6 production-road grand-touring coupe family",
+      "variant": "Original 412-kW coupe — June 2012 German factory reference",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original German 22 June 2012 release: select the fixed-roof coupe and native kW/Nm. The US coupe’s different model-year convention, F12 convertible, F06 four-door, later Competition output and optional higher speed limit are excluded. The existing E24 M635CSi and E63 M6 were found under 6 Series; neither is added again.",
+      "summary": "The F13 M6 brought the M grand-tourer into the twin-turbo V8 era, combining a carbon-roof coupe with an active rear differential and dual-clutch transmission. Its substantial engineering and distinct 6 Series generation continue the M6 sporting-GT lineage beyond the archived E63.",
+      "admission_reason": "The F13 M6 brought the M grand-tourer into the twin-turbo V8 era, combining a carbon-roof coupe with an active rear differential and dual-clutch transmission. Its substantial engineering and distinct 6 Series generation continue the M6 sporting-GT lineage beyond the archived E63.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "New BMW M6 Coupe and Convertible — original German press kit, 22 June 2012",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/deutschland/article/detail/T0127768DE/der-neue-bmw-m6-coup%20-und-cabrio",
+          "notes": "Original German 22 June 2012 release: select the fixed-roof coupe and native kW/Nm. The US coupe’s different model-year convention, F12 convertible, F06 four-door, later Competition output and optional higher speed limit are excluded. The existing E24 M635CSi and E63 M6 were found under 6 Series; neither is added again."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M6 Coupe (F13) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M6_Coupe_(F13)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin-scroll twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "High Precision Injection direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "412",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "680",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed M dual-clutch with Drivelogic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Active M Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Carbon-fibre-reinforced plastic coupe roof",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power plateau",
+          "value": "6000–7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve-lift control",
+          "value": "VALVETRONIC",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The F13 M6 brought the M grand-tourer into the twin-turbo V8 era, combining a carbon-roof coupe with an active rear differential and dual-clutch transmission. Its substantial engineering and distinct 6 Series generation continue the M6 sporting-GT lineage beyond the archived E63.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m6_f13_de2012.jpg",
+          "caption": "F13 BMW M6 coupe photographed in Japan by Tokumeigakarinoaoshima. This two-door representative is not the convertible or four-door Gran Coupe; it does not certify the 2012 German tune, model year, Competition equipment or untouched condition.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4d187f6cd5f50e2dfa386f7dee5f4e840d34cdc447f1bfa1a7b6ba453617e404"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS4-B8-AVANT2012",
+      "manufacturer": "Audi",
+      "model_family": "RS 4",
+      "generation": "Third-generation B8 RS 4 sporting-estate road family",
+      "variant": "Original naturally aspirated V8 Avant — February 2012 factory release",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting estate",
+      "road_legal": 1,
+      "specification_market": "Audi’s original Swiss media archive release dated 20 February 2012. Select the standard road Avant, not optional rear sport differential, ceramics, DRC, 20-inch wheels or increased speed. Native kW and Nm avoid Ch/PS conversion ambiguity. The later B9 turbo V6 is not mixed into this naturally aspirated V8 reference.",
+      "summary": "The third RS 4 sustained the fast-estate icon with a high-revving naturally aspirated V8, dual-clutch transmission and crown-gear quattro drivetrain. This distinct generation preserves a significant V8 chapter of Audi’s performance-wagon tradition rather than another body or trim of the earlier B7.",
+      "admission_reason": "The third RS 4 sustained the fast-estate icon with a high-revving naturally aspirated V8, dual-clutch transmission and crown-gear quattro drivetrain. This distinct generation preserves a significant V8 chapter of Audi’s performance-wagon tradition rather than another body or trim of the earlier B7.",
+      "sources": [
+        {
+          "publisher": "Audi / AMAG media archive",
+          "title": "New Audi RS 4 Avant — original Swiss factory release, 20 February 2012",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://audi.media-corner.ch/fr/press/la-nouvelle-audi-rs-4-avant",
+          "notes": "Audi’s original Swiss media archive release dated 20 February 2012. Select the standard road Avant, not optional rear sport differential, ceramics, DRC, 20-inch wheels or increased speed. Native kW and Nm avoid Ch/PS conversion ambiguity. The later B9 turbo V6 is not mixed into this naturally aspirated V8 reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2012 Audi RS4 FSi Quattro Auto.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2012_Audi_RS4_FSi_Quattro_Auto.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4163",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "331",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "430",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "8250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed S tronic dual-clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Quattro permanent all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Crown-gear centre differential; nominal 40:60 front/rear torque split",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "4000–6000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third RS 4 sustained the fast-estate icon with a high-revving naturally aspirated V8, dual-clutch transmission and crown-gear quattro drivetrain. This distinct generation preserves a significant V8 chapter of Audi’s performance-wagon tradition rather than another body or trim of the earlier B7.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs4_b8_avant2012.jpg",
+          "caption": "2012 Audi RS 4 Avant photographed by Calreyn88, with the relevant B8 estate body. This representative UK-market car does not establish the selected Swiss release’s options, standard rear differential or present mechanical originality.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b96e9e76f7f9501d2394c891627065d9c72aede82af6b1209de25f8b0937bc93"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS4-B9-NL2018",
+      "manufacturer": "Audi",
+      "model_family": "RS 4",
+      "generation": "Fourth-generation B9 RS 4 sporting-estate road family",
+      "variant": "Original 331-kW biturbo V6 Avant — 2018 Netherlands introduction reference",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting estate",
+      "road_legal": 1,
+      "specification_market": "Audi Netherlands’ 2017 unveiling release states early-2018 local arrival; 2018 is the selected introduction reference, not the announcement year. Optional rear sport differential, DRC, ceramic brakes, dynamic steering, 20-inch wheels and increased speed are excluded. No later facelift or Competition package is counted separately.",
+      "summary": "The fourth RS 4 returned the established fast-estate programme to biturbo six-cylinder power while retaining quattro road capability and everyday utility. Its new generation and substantially different powertrain represent an important continuation of the RS estate icon, rather than a cosmetic B8 update.",
+      "admission_reason": "The fourth RS 4 returned the established fast-estate programme to biturbo six-cylinder power while retaining quattro road capability and everyday utility. Its new generation and substantially different powertrain represent an important continuation of the RS estate icon, rather than a cosmetic B8 update.",
+      "sources": [
+        {
+          "publisher": "Audi Nederland",
+          "title": "Return of an icon: Audi RS 4 Avant — Netherlands launch release",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://nieuws.audi.nl/terugkeer-van-een-icoon-de-audi-rs-4-avant/",
+          "notes": "Audi Netherlands’ 2017 unveiling release states early-2018 local arrival; 2018 is the selected introduction reference, not the announcement year. Optional rear sport differential, DRC, ceramic brakes, dynamic steering, 20-inch wheels and increased speed are excluded. No later facelift or Competition package is counted separately."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi rs4 b9 2019-1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_rs4_b9_2019-1.jpg",
+          "notes": "Sestmedia; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.9",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Biturbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "331",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "600",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed tiptronic automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "1900–5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard wheel diameter",
+          "value": "19",
+          "unit": "inches",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fourth RS 4 returned the established fast-estate programme to biturbo six-cylinder power while retaining quattro road capability and everyday utility. Its new generation and substantially different powertrain represent an important continuation of the RS estate icon, rather than a cosmetic B8 update.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs4_b9_nl2018.jpg",
+          "caption": "Audi RS 4 B9 identified as a 2019-model car by photographer Sestmedia, who specifies winter wheels. This representative original-generation estate is not a claimed 2018 Netherlands car; those wheels and any visible trim are not universal launch equipment.",
+          "creator": "Sestmedia",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8d9a4e3642d43d46219d5bceef5a1923217633c97d2ac5182b684eb82f04249d"
+        }
+      ]
+    }
+  ]
+}

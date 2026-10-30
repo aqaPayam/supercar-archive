@@ -1,0 +1,237 @@
+{
+  "batch": "icons-road-2026-10-30-114",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "SHE-CSX-ORIGINAL-VNT-US1989",
+      "manufacturer": "Shelby",
+      "model_family": "CSX",
+      "generation": "Original 1987–1989 Shadow-based Shelby CSX road family",
+      "variant": "CSX-VNT — 1989 period-tested manual, optional wider tyres and Recaro seats",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "1989 Shelby CSX-VNT, selected May 1989 Motor Trend road-test configuration with five-speed manual, optional wider 225/50VR15 tyres and optional Recaro seats. Count the original 1987–1989 Dodge Shadow/Plymouth Sundance-based CSX road family once across years and packages. Not the separate Omni GLHS, Cobra CSX chassis numbers, CSX-T rental specification, birthday prototype or later engine swap. The test body and table disagree on torque peak, so torque and its speed remain unassigned. No universal first-VNT or first-composite-wheel claim, production total, test acceleration or top speed is adopted.",
+      "summary": "The Shelby CSX brought unusual turbocharger and lightweight-wheel engineering to the American front-drive performance hatch. The contemporary Motor Trend road test documents its variable-nozzle turbo, composite wheels and sharp handling, alongside noise, torque steer and brake-fade limitations. The 1989 VNT represents the original CSX road programme once, rather than supplying separate entries for its model years.",
+      "admission_reason": "The Shelby CSX brought unusual turbocharger and lightweight-wheel engineering to the American front-drive performance hatch. The contemporary Motor Trend road test documents its variable-nozzle turbo, composite wheels and sharp handling, alongside noise, torque steer and brake-fade limitations. The 1989 VNT represents the original CSX road programme once, rather than supplying separate entries for its model years.",
+      "sources": [
+        {
+          "publisher": "Motor Trend / public scan hosted by Triggerscarstuff on Flickr",
+          "title": "Shelby CSX — Mr. Shelby’s wild ride, Jeff Karr, May 1989, pages 162–166",
+          "source_type": "Original contemporary first-hand road test, hosted scan",
+          "url": "https://www.flickr.com/photos/triggerscarstuff/albums/72157628296484915/",
+          "notes": "All four scan images visually read: https://www.flickr.com/photos/triggerscarstuff/6462346845/ (162–163), https://www.flickr.com/photos/triggerscarstuff/6462346923/ (164), https://www.flickr.com/photos/triggerscarstuff/6462346953/ (165), https://www.flickr.com/photos/triggerscarstuff/6462346967/ (166). Selected reference is the tested car with optional Recaro seats and wider tyres. Body gives 200 lb-ft at 2400 rpm while table appears to give 200 at 3400; no torque field imported. Power is consistently 175 hp SAE net at 5200 rpm. Getrag brand is stated in body; no unverified gearbox model number. No test images are distributed as vehicle photographs."
+        },
+        {
+          "publisher": "Shelby Automobiles, Inc. / Shelby Registry transcription",
+          "title": "1989 CSX supplementary owner manual — introduction, wheels and capacities",
+          "source_type": "Original manufacturer owner supplement, hosted text transcription with cover scan",
+          "url": "https://www.shelbyregistry.com/1989csx-ownersmanual-1.html",
+          "notes": "Cover scan visually read; linked text transcriptions 1989csx-ownersmanual-2.html through -6.html read in full. Introduction identifies supplement to 1989 Dodge Shadow manual; page -3 describes Fiberide wheels, -6 lists fuel 14 gallons. Transcribed text is not claimed to be a complete paginated scan. Gross vehicle weight is not curb weight; no maintenance advice imported. Registry summary and inaccessible unique-parts PDF do not override the period test."
+        },
+        {
+          "publisher": "Wikimedia Commons / Jacob Frey 4A",
+          "title": "File:Dodge Shelby CSX VNT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dodge_Shelby_CSX_VNT.jpg",
+          "notes": "Jacob Frey 4A; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original Flickr credit: https://www.flickr.com/photos/72637915@N03/45015005842/ . Downloaded JPEG copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder; SOHC, two valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2213",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, period test SAE net",
+          "value": "175",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak speed",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.1:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Multiport electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Intercooled Garrett variable-nozzle turbo; moveable vanes, no wastegate",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Layout",
+          "label": "Engine and drive",
+          "value": "Front engine, front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected gearbox",
+          "value": "Getrag five-speed manual; model number not assigned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front architecture",
+          "value": "Independent struts, single lower control arms, coil springs and anti-roll bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear architecture",
+          "value": "Beam axle with Panhard rod, coil springs and gas-filled dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Dampers, period test",
+          "value": "Monroe Formula GP",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type and ratio",
+          "value": "Power-assisted rack-and-pinion; 14.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front",
+          "value": "257 mm ventilated discs; power assisted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear",
+          "value": "269 mm discs; power assisted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "ABS",
+          "value": "Not available in the period test specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Period test wheels",
+          "value": "15 x 6.5-inch fiberglass composite; Motor Wheel Corporation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Selected optional period test tyres",
+          "value": "225/50VR15 Goodyear Eagle VR50",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Selected optional period test seats",
+          "value": "Recaro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2463",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "4361",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall width",
+          "value": "1710",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height",
+          "value": "1339",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Capacities",
+          "label": "Fuel tank, owner supplement",
+          "value": "14",
+          "unit": "US gal",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Shelby CSX brought unusual turbocharger and lightweight-wheel engineering to the American front-drive performance hatch. The contemporary Motor Trend road test documents its variable-nozzle turbo, composite wheels and sharp handling, alongside noise, torque steer and brake-fade limitations. The 1989 VNT represents the original CSX road programme once, rather than supplying separate entries for its model years.",
+          "category": "Engineering and performance significance",
+          "confidence": "Original contemporary first-hand road test documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_shelby_csx_vnt_1989.jpg",
+          "caption": "Red 1989 Shelby CSX-VNT photographed by Jacob Frey 4A. Representative exterior with CSX markings, ground effects and gold wheels, individually inspected. The photograph does not authenticate VNT internals, gearbox, composite-wheel material, optional test tyres or Recaro seats, original equipment or restoration history. Other parked vehicles are background only.",
+          "creator": "Jacob Frey 4A",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d892c2d46c682b04be6c663403b3cf3f0ebd60c03eba42e7fab1d1e18d6ac048"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "batch": "icons-road-2026-10-30-83",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "TAL-SAMBA-RALLYE1219-BASE1983",
+      "manufacturer": "Talbot",
+      "model_family": "Samba",
+      "generation": "Original Samba production-road sporting hatchback family",
+      "variant": "Rallye 1219 — 1983 base production recognition A-5157",
+      "model_year_from": 1983,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door road hatchback",
+      "road_legal": 1,
+      "specification_market": "French 1219 cc Samba Rallye production-road reference documented in the 1983 base A-5157 recognition and N-5157 supplement. Stock/base identification, layout and mechanical fields only; not optional Group A gear ratios, cages, competition suspension/brakes, enlarged maximum permitted bore/capacity, Group B 232 evolutions or prepared race output. No horsepower, torque, performance, competition minimum weight, production total or exact road-registration approval is inferred from the forms. The 1360 cc UK S and later Rallye variants remain distinct specifications within this one family. The photograph illustrates the original road hatchback body in GL trim, not Rallye equipment.",
+      "summary": "The Samba Rallye was a purpose-developed sub-1300 cc sporting road hatchback and a foundation for Talbot’s customer rallying programme. Its 1219 cc engine with twin Weber carburettors and five-speed front-drive layout, together with documented FIA production recognition, give it a genuine place among early French rally-oriented hot hatches. One original Samba family is counted. The different 1360 cc UK Samba S, later engine versions, badges and competition evolutions do not add separate entries.",
+      "admission_reason": "The Samba Rallye was a purpose-developed sub-1300 cc sporting road hatchback and a foundation for Talbot’s customer rallying programme. Its 1219 cc engine with twin Weber carburettors and five-speed front-drive layout, together with documented FIA production recognition, give it a genuine place among early French rally-oriented hot hatches. One original Samba family is counted. The different 1360 cc UK Samba S, later engine versions, badges and competition evolutions do not add separate entries.",
+      "sources": [
+        {
+          "publisher": "Talbot / FISA; original manufacturer recognition form in FIA Historic Database",
+          "title": "Talbot Samba Rallye — base production recognition A-5157, stamped July 1, 1983",
+          "source_type": "Original manufacturer base production-recognition form",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601066701/homologation_form_number_5157_group_a.pdf",
+          "notes": "French 1219 cc Samba Rallye production-road reference documented in the 1983 base A-5157 recognition and N-5157 supplement. Stock/base identification, layout and mechanical fields only; not optional Group A gear ratios, cages, competition suspension/brakes, enlarged maximum permitted bore/capacity, Group B 232 evolutions or prepared race output. No horsepower, torque, performance, competition minimum weight, production total or exact road-registration approval is inferred from the forms. The 1360 cc UK S and later Rallye variants remain distinct specifications within this one family. The photograph illustrates the original road hatchback body in GL trim, not Rallye equipment."
+        },
+        {
+          "publisher": "Talbot / FISA; FIA Historic Database",
+          "title": "Samba Rallye — Group N supplement N-5157, stamped December 1, 1983",
+          "source_type": "Original manufacturer Group N production-recognition supplement",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601066701/homologation_form_number_5157_group_n.pdf",
+          "notes": "Actual base supplement cover and mechanical/gearbox pages inspected. Refers back to A-5157 and corroborates the base five-speed with one manual ratio set, distinct from the additional gearbox column in A. Minimum competition weights, later correction sheets, alternative ratios and any race-preparation fields are not road-car specifications here."
+        },
+        {
+          "publisher": "Simca Talbot Club",
+          "title": "Talbot Samba — road-model history and market differences",
+          "source_type": "Marque club road-model history",
+          "url": "https://www.simcatalbotclub.org/talbot-samba",
+          "notes": "Actual road-model history read. Used for the French/Benelux/German 1219 cc Rallye launch, sub-1300 sporting purpose and customer rallying context, and the distinct UK 1360 cc Samba S. Club power, speed, production and ownership figures are not imported as technical measurements."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1982 Talbot Samba GL (5324928422).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1982_Talbot_Samba_GL_(5324928422).jpg",
+          "notes": "Spanish Coches; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1982 Talbot Samba GL. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-stroke inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1219",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven overhead camshaft, rocker-operated valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two horizontal twin-barrel Weber 40 DCOE carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, base production gearbox",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front transverse, inclined 72 degrees rearward",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitary steel-sheet construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "Four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "Two",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Aluminium alloy with wet liners",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder-head material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Base bore",
+          "value": "75",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Base stroke",
+          "value": "69",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Samba Rallye was a purpose-developed sub-1300 cc sporting road hatchback and a foundation for Talbot’s customer rallying programme. Its 1219 cc engine with twin Weber carburettors and five-speed front-drive layout, together with documented FIA production recognition, give it a genuine place among early French rally-oriented hot hatches. One original Samba family is counted. The different 1360 cc UK Samba S, later engine versions, badges and competition evolutions do not add separate entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tal_samba_rallye1219_base1983.jpg",
+          "caption": "1982 Talbot Samba GL road hatchback photographed by Spanish Coches. This is an illustration of the original three-door Samba body, not a photograph of the selected 1219 cc Rallye. It does not show or establish Rallye carburettors, bonnet intake, trim, engine tune or competition equipment.",
+          "creator": "Spanish Coches",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "e9ffec319a5b3e42fbd196d85c997867b96493c5c2b55d2fb20854d4b6069a1e"
+        }
+      ]
+    }
+  ]
+}

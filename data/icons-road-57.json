@@ -1,0 +1,542 @@
+{
+  "batch": "icons-road-2026-10-29-57",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "BMW-Z4-E89-35I-MAN2009",
+      "manufacturer": "BMW",
+      "model_family": "Z4",
+      "generation": "Second-generation E89 production-road roadster family",
+      "variant": "Original sDrive35i — 2009 European six-speed manual",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat folding-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Original global December 2008 press kit for the 2009 generation. Select sDrive35i, not later 35is, US output notation or a cosmetic edition. Optional seven-speed dual-clutch transmission and Adaptive M Suspension are not standard manual equipment. First retractable-hardtop BMW roadster is a brand-specific claim, not a worldwide first.",
+      "summary": "The E89 made BMW’s established straight-six roadster a folding-hardtop sports car, succeeding both the earlier roadster and fixed-roof coupe. Its twin-turbo six-cylinder flagship marks a distinct engineering chapter in the Z4 lineage and represents the generation as a whole.",
+      "admission_reason": "The E89 made BMW’s established straight-six roadster a folding-hardtop sports car, succeeding both the earlier roadster and fixed-roof coupe. Its twin-turbo six-cylinder flagship marks a distinct engineering chapter in the Z4 lineage and represents the generation as a whole.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW Z4 — original E89 global press kit, 5 December 2008",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0011927EN/the-new-bmw-z4",
+          "notes": "Original global December 2008 press kit for the 2009 generation. Select sDrive35i, not later 35is, US output notation or a cosmetic edition. Optional seven-speed dual-clutch transmission and Adaptive M Suspension are not standard manual equipment. First retractable-hardtop BMW roadster is a brand-specific claim, not a worldwide first."
+        },
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW Z4 — original UK launch release, 15 December 2008",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/united-kingdom/article/detail/T0020195EN_GB/the-new-bmw-z4?language=en_GB",
+          "notes": "Explicit May 2009 introduction and standard six-speed manual. The UK release’s hp notation is not silently converted to US SAE horsepower."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW Z4 (E89) 152745.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_Z4_(E89)_152745.jpg",
+          "notes": "Trop86; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Straight-six petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2979",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "High Precision Injection direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "225",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Two-piece electrohydraulic aluminium retractable hardtop",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "1300–5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E89 made BMW’s established straight-six roadster a folding-hardtop sports car, succeeding both the earlier roadster and fixed-roof coupe. Its twin-turbo six-cylinder flagship marks a distinct engineering chapter in the Z4 lineage and represents the generation as a whole.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_z4_e89_35i_man2009.jpg",
+          "caption": "E89 BMW Z4 photographed in Neu-Ulm by Trop86, with its folding hardtop closed. This representative generation image does not certify sDrive35i rather than another engine, a 2009 build date, the selected manual gearbox or original equipment.",
+          "creator": "Trop86",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3e1c1a163358059160ec800037940fc933fc637387d5308abd8ac93205c273cf"
+        }
+      ]
+    },
+    {
+      "id": "BMW-Z4-G29-M40I-EU2019",
+      "manufacturer": "BMW",
+      "model_family": "Z4",
+      "generation": "Third-generation G29 production-road roadster family",
+      "variant": "Original 250-kW M40i — March 2019 European introduction",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat fabric-roof roadster",
+      "road_legal": 1,
+      "specification_market": "September 2018 global release states March 2019 introduction. Select the European 250-kW M40i, not the US 2020 model-year 382-hp tune. M Sport differential, Adaptive Sport suspension and M Sport brakes are standard for this selected M40i. Do not count First Edition, later facelift or manual package separately. Shared Supra development does not make the Z4 a separate clean-sheet programme.",
+      "summary": "The G29 M40i restored a fabric roof and a more agile chassis to BMW’s straight-six roadster tradition. Contemporary production-car driving praised its engine, steering and composure. Its substantive chassis redesign and six-cylinder sporting character justify one new Z4 generation, rather than extra counts for later packages.",
+      "admission_reason": "The G29 M40i restored a fabric roof and a more agile chassis to BMW’s straight-six roadster tradition. Contemporary production-car driving praised its engine, steering and composure. Its substantive chassis redesign and six-cylinder sporting character justify one new Z4 generation, rather than extra counts for later packages.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "The new BMW Z4 — original G29 global press kit, 19 September 2018",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0284770EN/the-new-bmw-z4",
+          "notes": "September 2018 global release states March 2019 introduction. Select the European 250-kW M40i, not the US 2020 model-year 382-hp tune. M Sport differential, Adaptive Sport suspension and M Sport brakes are standard for this selected M40i. Do not count First Edition, later facelift or manual package separately. Shared Supra development does not make the Z4 a separate clean-sheet programme."
+        },
+        {
+          "publisher": "Car and Driver / Mike Duff",
+          "title": "The 2019 BMW Z4 Is the Best-Handling BMW in Years — production-car driving, updated 27 June 2019",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a24783644/2019-bmw-z4-m40i-roadster-sports-car-performance/",
+          "notes": "European production-M40i driving supports engine response and handling. Prototype and US four-cylinder test figures are excluded. Shared Supra architecture is acknowledged; US 382-hp specifications are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2019 BMW Z4 sDrive M40i Sport.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2019_BMW_Z4_sDrive_M40i_Sport.jpg",
+          "notes": "Chanokchon; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "250",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed Steptronic Sport automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Fully electric fabric soft-top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "M Sport differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Adaptive Sport suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "M Sport brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The G29 M40i restored a fabric roof and a more agile chassis to BMW’s straight-six roadster tradition. Contemporary production-car driving praised its engine, steering and composure. Its substantive chassis redesign and six-cylinder sporting character justify one new Z4 generation, rather than extra counts for later packages.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_z4_g29_m40i_eu2019.jpg",
+          "caption": "2019 BMW Z4 M40i photographed at BITEC in Bangkok by Chanokchon. This representative early G29 roadster does not establish the selected European tune or market equipment. First Edition appearance, wheel choice and the display setting do not make a separate generation.",
+          "creator": "Chanokchon",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4b5a82f892ba1a394fb3edc2f3b80388ec00a0c9033d31ec2a82ec9577b3accd"
+        }
+      ]
+    },
+    {
+      "id": "MER-SLK32-AMG-R170-2003",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SLK",
+      "generation": "First-generation R170 production-road roadster family",
+      "variant": "SLK 32 AMG — September 2003 German factory technical reference",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat folding-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Manufacturer technical-data sheet hosted by the Mercedes-Benz SLK Club Netherlands, dated September 2003; read page 3 SLK 32 AMG. This is a 2003 specification reference, not a claim that the family debuted that year. Do not use SLK 320 or four-cylinder columns. The generic brake description conflicts with the dimensional row, so no brake construction is imported. No mass or acceleration claim is needed.",
+      "summary": "The SLK 32 AMG put a supercharged six-cylinder flagship into the original compact Vario-roof SLK programme. It combines the R170’s influential folding-hardtop concept with substantial AMG performance, representing an important early compact AMG roadster rather than an ordinary SLK equipment grade.",
+      "admission_reason": "The SLK 32 AMG put a supercharged six-cylinder flagship into the original compact Vario-roof SLK programme. It combines the R170’s influential folding-hardtop concept with substantial AMG performance, representing an important early compact AMG roadster rather than an ordinary SLK equipment grade.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz / club-hosted factory facsimile",
+          "title": "SLK Roadster technical data — September 2003, page 3 SLK 32 AMG",
+          "source_type": "Period manufacturer technical-data sheet, hosted facsimile",
+          "url": "https://nsk.mercedes-benz-clubs.com/wp-content/uploads/sites/7/2015/01/TechDat_R170pre.pdf",
+          "notes": "Manufacturer technical-data sheet hosted by the Mercedes-Benz SLK Club Netherlands, dated September 2003; read page 3 SLK 32 AMG. This is a 2003 specification reference, not a claim that the family debuted that year. Do not use SLK 320 or four-cylinder columns. The generic brake description conflicts with the dimensional row, so no brake construction is imported. No mass or acceleration claim is needed."
+        },
+        {
+          "publisher": "Mercedes-Benz Museum GmbH",
+          "title": "Open for driving pleasure: Mercedes-Benz SLK premiered in 1996 — 14 April 2016, pages 1–2",
+          "source_type": "Manufacturer historical press release, hosted facsimile",
+          "url": "https://nsk.mercedes-benz-clubs.com/wp-content/uploads/sites/7/2014/12/2016-04-18-PI_SLK_20_Years_eng.pdf",
+          "notes": "Factory retrospective: original R170, Vario roof and SLK 32 AMG flagship with five-speed automatic. Printed date is 14 April, despite the hosting filename. Family-wide production totals are not AMG totals; later-generation chronology is not used. No universal first retractable-hardtop claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz SLK 32 AMG, TC 24, Essen (TCE43287).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLK_32_AMG,_TC_24,_Essen_(TCE43287).jpg",
+          "notes": "Matti Blume; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3199",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "260",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "450",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2400",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Folding metal Vario hardtop",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SLK 32 AMG put a supercharged six-cylinder flagship into the original compact Vario-roof SLK programme. It combines the R170’s influential folding-hardtop concept with substantial AMG performance, representing an important early compact AMG roadster rather than an ordinary SLK equipment grade.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_slk32_amg_r170_2003.jpg",
+          "caption": "Mercedes-Benz SLK 32 AMG photographed at Techno-Classica 2024 in Essen by Matti Blume. This representative R170 AMG roadster is shown with its roof lowered; its photograph does not certify September 2003 specification, build date or unchanged mechanics.",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fc55b66ca8360ad9b002f534a2b9508689b2dc44c10d6efbd2d475324ca0c9f3"
+        }
+      ]
+    },
+    {
+      "id": "MER-SLK55-AMG-R172-NL2011",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SLK",
+      "generation": "Third-generation R172 production-road roadster family",
+      "variant": "Original SLK 55 AMG — August 2011 Netherlands factory release",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat production-road roadster",
+      "road_legal": 1,
+      "specification_market": "Mercedes-Benz Netherlands announcement dated 21 August 2011 for Frankfurt unveiling; 2011 is the selected announcement reference, not a guessed local delivery date or US model year. Preserve native kW and Nm. AMG Handling Package, limited-slip differential and composite front brakes are optional. Brake-based torque vectoring is not a standard mechanical limited-slip differential. Do not transfer R171 figures or later SLC 43 turbo V6 hardware.",
+      "summary": "The third-generation SLK 55 AMG kept a naturally aspirated V8 in a compact sporting roadster while adding cylinder deactivation and direct injection. This unusual combination preserves a distinctive AMG engineering chapter beyond the archived R171; the subsequent SLC rename does not create another generation.",
+      "admission_reason": "The third-generation SLK 55 AMG kept a naturally aspirated V8 in a compact sporting roadster while adding cylinder deactivation and direct injection. This unusual combination preserves a distinctive AMG engineering chapter beyond the archived R171; the subsequent SLC rename does not create another generation.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Nederland",
+          "title": "SLK 55 AMG: top form in all disciplines — original Netherlands release, 21 August 2011",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://media.mercedes-benz.nl/sportief-topmodel-van-de-slk-reeks-slk-55-amg-in-topvorm-op-alle-disciplines/",
+          "notes": "Mercedes-Benz Netherlands announcement dated 21 August 2011 for Frankfurt unveiling; 2011 is the selected announcement reference, not a guessed local delivery date or US model year. Preserve native kW and Nm. AMG Handling Package, limited-slip differential and composite front brakes are optional. Brake-based torque vectoring is not a standard mechanical limited-slip differential. Do not transfer R171 figures or later SLC 43 turbo V6 hardware."
+        },
+        {
+          "publisher": "Mercedes-Benz Museum GmbH",
+          "title": "Open for driving pleasure: Mercedes-Benz SLK premiered in 1996 — 14 April 2016, pages 1–2",
+          "source_type": "Manufacturer historical press release, hosted facsimile",
+          "url": "https://nsk.mercedes-benz-clubs.com/wp-content/uploads/sites/7/2014/12/2016-04-18-PI_SLK_20_Years_eng.pdf",
+          "notes": "Factory retrospective: original R170, Vario roof and SLK 32 AMG flagship with five-speed automatic. Printed date is 14 April, despite the hosting filename. Family-wide production totals are not AMG totals; later-generation chronology is not used. No universal first retractable-hardtop claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2012 Mercedes-Benz SLK 55 AMG (R 172) roadster (15923761359).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2012_Mercedes-Benz_SLK_55_AMG_(R_172)_roadster_(15923761359).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Mercedes Benz R172 SLK 55 AMG. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "310",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "540",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG SPEEDSHIFT PLUS 7G-TRONIC automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Standard AMG sport suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder management",
+          "value": "AMG Cylinder Management deactivates four cylinders at part load",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Cornering control",
+          "value": "Torque Vectoring Brakes",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third-generation SLK 55 AMG kept a naturally aspirated V8 in a compact sporting roadster while adding cylinder deactivation and direct injection. This unusual combination preserves a distinctive AMG engineering chapter beyond the archived R171; the subsequent SLC rename does not create another generation.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_slk55_amg_r172_nl2011.jpg",
+          "caption": "2012 Mercedes-Benz SLK 55 AMG R172 photographed by Jeremy in Sydney, Australia. This representative early third-generation roadster is not a claimed August 2011 Netherlands car; visible wheels and trim do not establish the optional Handling Package or factory mechanical originality.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8e054c5a4e26d66cf960f1863fea8bef27fd96d58253063edfc97d0033343717"
+        }
+      ]
+    }
+  ]
+}

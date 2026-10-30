@@ -18,6 +18,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from export_public import build_payload
+from scripts.manifest_checksums import manifest_checksums
 
 MANIFEST = ROOT / 'data' / 'supercars50.json'
 CAR_COLUMNS = ('id', 'manufacturer', 'model_family', 'generation', 'variant',
@@ -42,13 +43,16 @@ def insert(db, table, values):
                       tuple(values.values())).lastrowid
 
 
-def load_manifest(path):
-    raw = path.read_bytes()
+def load_manifest(path, expected_count=50):
+    return _load_manifest(path.read_bytes(), expected_count)
+
+
+def _load_manifest(raw, expected_count):
     data = json.loads(raw)
     cars = data['cars']
-    if len(cars) != 50 or len({car['id'] for car in cars}) != 50:
-        raise ValueError('The batch must contain exactly 50 distinct car IDs')
-    if len({identity(car) for car in cars}) != 50:
+    if len(cars) != expected_count or len({car['id'] for car in cars}) != expected_count:
+        raise ValueError(f'The batch must contain exactly {expected_count} distinct car IDs')
+    if len({identity(car) for car in cars}) != expected_count:
         raise ValueError('Duplicate normalized vehicle identities in the batch')
     for car in cars:
         if not car['origin_country'] or not car['sources']:
@@ -71,11 +75,12 @@ def load_manifest(path):
                 raise ValueError(f'Image checksum differs: {target}')
             if not media['creator'] or not media['license']:
                 raise ValueError('Every image must have creator and license attribution')
-    return data, hashlib.sha256(raw).hexdigest()
+    return data, manifest_checksums(raw)[0]
 
 
-def apply_batch(path, manifest_path=MANIFEST, apply=False):
-    data, digest = load_manifest(manifest_path)
+def apply_batch(path, manifest_path=MANIFEST, apply=False, expected_count=50):
+    raw = manifest_path.read_bytes()
+    data, digest = _load_manifest(raw, expected_count)
     cars = data['cars']
     marker = 'import:' + data['batch']
     with closing(sqlite3.connect(f'file:{path.resolve().as_posix()}?mode={"rw" if apply else "ro"}', uri=True)) as db:
@@ -86,13 +91,13 @@ def apply_batch(path, manifest_path=MANIFEST, apply=False):
         try:
             previous = db.execute('SELECT value FROM meta WHERE key=?', (marker,)).fetchone()
             if previous:
-                if previous[0] != digest:
+                if previous[0] not in manifest_checksums(raw):
                     raise ValueError('This batch was already applied with a different manifest')
                 for car in cars:
                     existing = db.execute('SELECT * FROM cars WHERE id=?', (car['id'],)).fetchone()
                     if existing is None or any(existing[k] != car[k] for k in CAR_COLUMNS):
                         raise ValueError(f"Previously imported car was changed or removed: {car['id']}")
-                print('Already applied: 50 matching profiles; no changes made.')
+                print(f'Already applied: {expected_count} matching profiles; no changes made.')
                 return 0
 
             existing = list(db.execute('SELECT * FROM cars'))
@@ -101,10 +106,10 @@ def apply_batch(path, manifest_path=MANIFEST, apply=False):
             for car in cars:
                 if car['id'] in ids or identity(car) in identities:
                     raise ValueError(f"Existing variant collision: {car['id']}")
-            print(f"Validated 50 new profiles against {len(existing)} existing cars.")
+            print(f"Validated {expected_count} new profiles against {len(existing)} existing cars.")
             if not apply:
                 print('Preview only; use --apply to import.')
-                return 50
+                return expected_count
 
             for car in cars:
                 family = db.execute('SELECT id FROM model_families WHERE manufacturer=? AND name=?',
@@ -137,11 +142,11 @@ def apply_batch(path, manifest_path=MANIFEST, apply=False):
             if db.execute('PRAGMA foreign_key_check').fetchall():
                 raise ValueError('Foreign-key validation failed')
             payload = build_payload(db)
-            if len(payload['cars']) != len(existing) + 50:
+            if len(payload['cars']) != len(existing) + expected_count:
                 raise ValueError('Unexpected catalogue count after import')
             db.commit()
-            print(f"Imported 50 cars; catalogue now contains {len(payload['cars'])} cars.")
-            return 50
+            print(f"Imported {expected_count} cars; catalogue now contains {len(payload['cars'])} cars.")
+            return expected_count
         except BaseException:
             db.rollback()
             raise

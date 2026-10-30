@@ -1,0 +1,139 @@
+{
+  "batch": "icons-road-2026-10-30-72",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "JEN-CV8-MKII-6276-TEST1964",
+      "manufacturer": "Jensen",
+      "model_family": "C-V8",
+      "generation": "Original centre-tube-chassis C-V8 production-road GT family",
+      "variant": "6,276 cc automatic — November 1964 road-test reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat GT",
+      "road_legal": 1,
+      "specification_market": "November 1964 first-hand road-test reference, original 6,276 cc automatic application. The test did not measure acceleration or maximum speed; earlier 5.9-litre figures do not transfer. Native published SAE power is not modern net output. OCR-corrupted bore/compression numbers and gear ratios are omitted. Other marks, engine sizes and later body or gearbox changes add no counts.",
+      "summary": "The C-V8 paired substantial Chrysler V8 performance with a British four-seat GT body. A contemporary long-distance road test documents its exceptional acceleration and relaxed fast touring, while recording heavy steering and demanding brakes. Its distinct centre-tube chassis and sporting-road identity justify one original family entry, separate from the later FF and Jensen-Healey.",
+      "admission_reason": "The C-V8 paired substantial Chrysler V8 performance with a British four-seat GT body. A contemporary long-distance road test documents its exceptional acceleration and relaxed fast touring, while recording heavy steering and demanding brakes. Its distinct centre-tube chassis and sporting-road identity justify one original family entry, separate from the later FF and Jensen-Healey.",
+      "sources": [
+        {
+          "publisher": "Motor Sport / Bill Boddy",
+          "title": "Jensen C-V8 — Bill Boddy, November 1964, approximately 1,600-mile road test",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.motorsportmagazine.com/archive/article/november-1964/26/jensen-c-v8/",
+          "notes": "November 1964 first-hand road-test reference, original 6,276 cc automatic application. The test did not measure acceleration or maximum speed; earlier 5.9-litre figures do not transfer. Native published SAE power is not modern net output. OCR-corrupted bore/compression numbers and gear ratios are omitted. Other marks, engine sizes and later body or gearbox changes add no counts."
+        },
+        {
+          "publisher": "The Jensen Museum",
+          "title": "Jensen CV8: From Drawing Board To Reality",
+          "source_type": "Primary museum archive account",
+          "url": "https://www.jensenmuseum.org/jensen-cv8-from-drawing-board-to-reality/",
+          "notes": "Museum account reproduces factory drawings and traces the centre-tube chassis and transition from the 541 project to C-V8. Its early 5.9 engine, prototype hardware, absolute first claims and period prototype performance are not selected 1964 specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jensen CV8 registered June 1965 6276cc.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jensen_CV8_registered_June_1965_6276cc.jpg",
+          "notes": "Charles01; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chrysler V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6276",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Fully automatic transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted Dunlop disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Armstrong Selectaride rear dampers with four-position control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Glass-fibre main body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power, SAE",
+          "value": "330",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C-V8 paired substantial Chrysler V8 performance with a British four-seat GT body. A contemporary long-distance road test documents its exceptional acceleration and relaxed fast touring, while recording heavy steering and demanding brakes. Its distinct centre-tube chassis and sporting-road identity justify one original family entry, separate from the later FF and Jensen-Healey.",
+          "category": "Historical significance",
+          "confidence": "Contemporary road test",
+          "source": 0
+        },
+        {
+          "title": "A distinct V8 chassis programme",
+          "explanation": "The Jensen Museum documents the centre-tube chassis project and its development into the C-V8, supporting its identity as a distinct road-car programme rather than a later FF or Jensen-Healey derivative.",
+          "category": "Engineering history",
+          "confidence": "Museum archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jen_cv8_mkii_6276_test1964.jpg",
+          "caption": "Jensen C-V8 photographed by Charles01, file-identified as registered in June 1965 with 6,276 cc. Representative original-family GT body; it is not the November 1964 test car and its present engine, exact mark and originality are not certified by the exterior photograph.",
+          "creator": "Charles01",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "be58173eac37ab2581962bd4a557b0c37032ddbfa8a44a4b41804cb4f2d45877"
+        }
+      ]
+    }
+  ]
+}

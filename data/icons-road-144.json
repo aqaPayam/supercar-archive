@@ -1,0 +1,153 @@
+{
+  "batch": "icons-road-2026-10-30-144",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MON-HIGHSPEED375L-AR1974",
+      "manufacturer": "Monteverdi",
+      "model_family": "High Speed",
+      "generation": "Original High Speed 375 production-road GT family",
+      "variant": "375 L 2+2 standard 7.2-litre — 1974 updates, Automobil Revue 45/1973 reference",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "Switzerland",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Monteverdi High Speed production-road family, selected 375 L 2+2 standard 7.2-litre engine and 1974 range updates described in Automobil Revue issue 45 of 1973. Eleven attributes map to that original single-page period report. The 305 DIN-PS at 4500 rpm figure is explicitly tied to reported German TUV approval after emissions changes; do not equate it with earlier 375 SAE hp, a generic net rating, the optional 390-PS 7-litre Hemi or modern feature factfile. Rounded 7.2 litres remains rounded. The 8-litre enlarged oil sump is not total engine-oil capacity; the 4-litre expansion vessel is not total coolant capacity. Article covers both coupe and saloon: only stated shared updates and coupe-compatible transmission are used; no long-wheelbase saloon dimensions or seating transferred. Representative licensed Fissore 375L photo does not authenticate model year, later exterior trim or reference engine. Group High Speed S/L/C/4, body revisions and road engine options once conservatively. Dedicated racers, Hai prototypes, replicas and further body examples are not additional admissions.",
+      "summary": "The Monteverdi High Speed is a defining Swiss sporting grand-tourer programme, combining European coachwork and chassis development with Chrysler V8 power. Contemporary reporting and a later firsthand drive establish its continuing place among ambitious post-war GTs. Count the High Speed production-road family once across bodies, engines and years; rarity, price and cosmetic differences alone do not earn admission.",
+      "admission_reason": "The Monteverdi High Speed is a defining Swiss sporting grand-tourer programme, combining European coachwork and chassis development with Chrysler V8 power. Contemporary reporting and a later firsthand drive establish its continuing place among ambitious post-war GTs. Count the High Speed production-road family once across bodies, engines and years; rarity, price and cosmetic differences alone do not earn admission.",
+      "sources": [
+        {
+          "publisher": "Automobil Revue; R. G.; facsimile held by Verkehrshaus der Schweiz",
+          "title": "Monteverdi - Weiterentwicklung im Detail, issue 45 (1973), p.45; 1974 range updates",
+          "source_type": "Original period technical/driving report, museum-held single-page facsimile",
+          "url": "https://sammlung.verkehrshaus.ch/de/collection/item/175500",
+          "notes": "Custodian catalogue and original JPEG facsimile https://sammlung.verkehrshaus.ch/multimedia/6/multimedia-143316.large.jpg read. Original single page individually viewed; enlarged reading panels used for the Modelle 1974, engine/cooling, comfort and brief-drive sections. All eleven attributes map to its standard 7.2-litre 375 L 2+2 / 375/4 updates, selecting the coupe only. Output explicitly quoted as 305 DIN-PS at 4500 rpm after German TUV approval; no conversion or universal gross/net rating assumed. Optional 7-litre 390-PS Hemi and Hai test are separate. Sump volume is not total oil-system capacity. Brief coupe/saloon driving impressions are not a timed performance test. No maximum speed, acceleration, exact displacement, mass, dimensions, torque conversion or price imported."
+        },
+        {
+          "publisher": "Classic & Sports Car; Richard Heseltine",
+          "title": "Monteverdi 375L: taking on the greats, 22 October 2025",
+          "source_type": "Original firsthand driving feature; family significance only",
+          "url": "https://www.classicandsportscar.com/features/monteverdi-375l-taking-greats",
+          "notes": "Full relevant historical, driving and factfile sections read. Firsthand short drive of a restored 1971-registered right-hand-drive Australian-delivery 375L supplies enduring GT context, not selected 1974 specifications. Period Autocar results are quoted secondhand there, not new measurements; originals were not read. The caption calls 375 net output while narrative distinguishes SAE rating from lower net output: no number transferred. No rarity totals, Ferrari-dispute anecdote, restoration claim or generalized 375-bhp/torque/dimension/weight figures applied to the selected emission-controlled reference."
+        },
+        {
+          "publisher": "Wikimedia Commons; Matthias v.d. Elbe",
+          "title": "File:Monteverdi High Speed 375L-1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Monteverdi_High_Speed_375L-1.jpg",
+          "notes": "Own-work photograph by Matthias v.d. Elbe, 15 March 2011, showing a Fissore-bodied 375/L at the Monteverdi Automuseum. Summary, original upload history, licence options and API metadata read. Select CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; GFDL alternative not combined. Actual 1280 x 857 JPEG individually viewed and copied unchanged. Representative turquoise long-roof 375L coupe with quad headlamps and wire wheels. No assertion that this is the 1974 technical-reference car, a specific chassis, an original wire-wheel installation, the exact later bumper/grille trim, or a German-TUV-approved engine. Does not illustrate the 375/4 saloon or Hai prototype."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chrysler V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period quoted displacement",
+          "value": "7.2",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "1974 reference output",
+          "value": "305 DIN-PS at 4500 rpm; reported German TUV-approved specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "1974 compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Period-drive transmission",
+          "value": "Chrysler TorqueFlite automatic, torque converter and three-speed planetary gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lubrication",
+          "label": "Enlarged oil sump",
+          "value": "8",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Lubrication",
+          "label": "Oil cooling",
+          "value": "Oil cooler with thermostatically controlled bypass",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Cooling",
+          "label": "Radiator fans",
+          "value": "Two thermostatically controlled electric fans",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Cooling",
+          "label": "Expansion vessel",
+          "value": "4 L; closed cooling circuit",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "1974 spring/damper update",
+          "value": "Progressive coil springs and softer Koni dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "1974 fuel tank",
+          "value": "125 L, stainless steel, behind the rear axle",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Monteverdi High Speed is a defining Swiss sporting grand-tourer programme, combining European coachwork and chassis development with Chrysler V8 power. Contemporary reporting and a later firsthand drive establish its continuing place among ambitious post-war GTs. Count the High Speed production-road family once across bodies, engines and years; rarity, price and cosmetic differences alone do not earn admission.",
+          "category": "Swiss performance GT heritage",
+          "confidence": "Original modern driving feature cross-checked against period technical/driving report; no exclusive first or new measured-performance claim",
+          "source": 1
+        },
+        {
+          "title": "Power ratings follow the selected specification",
+          "explanation": "Automobil Revue reports the standard 7.2-litre engine after emissions changes with a German-approved DIN rating. Its optional 7-litre Hemi and separate Hai drive are different references; the earlier 375 designation is not substituted for the selected output.",
+          "category": "Engine and specification identity",
+          "confidence": "Explicit period technical account; standards and engine options kept separate",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mon_highspeed375l_fissore.jpg",
+          "caption": "Monteverdi High Speed 375/L with Fissore body at the Monteverdi Automuseum, photographed 15 March 2011. Representative turquoise 375L coupe illustrates the selected road family; this is not authenticated as the 1974 technical-reference car, later bumper/grille trim, German-approved engine or specific chassis. Matthias v.d. Elbe, own work, Wikimedia Commons; title: Monteverdi High Speed 375L-1.jpg. CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Matthias v.d. Elbe",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4ef9533621c3aa6231f10a0bc860f7b7628cdc7a9a1d2a8432dc2649cee548e2"
+        }
+      ]
+    }
+  ]
+}

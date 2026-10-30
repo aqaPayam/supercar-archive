@@ -1,0 +1,209 @@
+{
+  "batch": "icons-road-2026-10-30-103",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HOL-MONARO-HK-GTS327-1968",
+      "manufacturer": "Holden",
+      "model_family": "Monaro",
+      "generation": "Original HK/HT/HG Monaro production-road coupe family",
+      "variant": "HK GTS 327 — original 1968 Australian factory brochure reference",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "1968 Australian HK Monaro GTS 327 production-road brochure reference. PDF indexes 3 and 5 (printed 6–7 and 10–11) and enlarged text regions visually read. Preserve advertised bhp, native cubic inches and brochure alternatives; no modern net/kW conversion. Rear axle choices 3.36:1 and 3.08:1 are not reduced to an assumed ratio. No historic Group Nc racing specification, 307 engine, later HT/HG engine or race result is a road technical field. Count the original HK/HT/HG road family once.",
+      "summary": "The original Monaro GTS 327 belongs as an Australian performance-coupe icon: its V8, close-ratio manual, limited-slip axle and supporting chassis equipment formed a purposeful road package with Bathurst-winning heritage. The State Library’s Holden collection history records the original coupe introduction and racing connection.",
+      "admission_reason": "The original Monaro GTS 327 belongs as an Australian performance-coupe icon: its V8, close-ratio manual, limited-slip axle and supporting chassis equipment formed a purposeful road package with Bathurst-winning heritage. The State Library’s Holden collection history records the original coupe introduction and racing connection.",
+      "sources": [
+        {
+          "publisher": "General Motors-Holden’s / XR793 facsimile",
+          "title": "Monaro by Holden — original 1968 HK Australian road catalogue",
+          "source_type": "Original manufacturer road brochure, hosted scan",
+          "url": "https://xr793.com/wp-content/uploads/2023/05/1968-Holden-HK-Monaro-AUS.pdf",
+          "notes": "1968 Australian HK Monaro GTS 327 production-road brochure reference. PDF indexes 3 and 5 (printed 6–7 and 10–11) and enlarged text regions visually read. Preserve advertised bhp, native cubic inches and brochure alternatives; no modern net/kW conversion. Rear axle choices 3.36:1 and 3.08:1 are not reduced to an assumed ratio. No historic Group Nc racing specification, 307 engine, later HT/HG engine or race result is a road technical field. Count the original HK/HT/HG road family once."
+        },
+        {
+          "publisher": "State Library of South Australia",
+          "title": "The Holden Collection BRG 213, Series 37: HK Holden",
+          "source_type": "Archival collection series history and finding aid",
+          "url": "https://archival.collections.slsa.sa.gov.au/brg/BRG213_37_HoldenHK_serieslist.pdf",
+          "notes": "First-page text identifies July 1968 Monaro coupe introduction, separates the GTS 327 from other HK models and identifies it as a Bathurst winner. Used for admission/identity only; neither the 2-millionth Holden nor broad HK totals are Monaro production counts. Original release files/catalogues are listed, not claimed as separately examined."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Holden Monaro HK GTS 327.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Holden_Monaro_HK_GTS_327.jpg",
+          "notes": "Sicnag; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit: Holden Monaro HK GTS 327 Uploaded by OSX. Original credit links: https://www.flickr.com/photos/42220226@N07/5521702874/, //commons.wikimedia.org/wiki/User:OSX. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "327",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "250",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "325",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.75:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "4.00 × 3.25",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel Rochester carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Intake and exhaust",
+          "value": "Low-restriction air cleaner; dual exhaust with chrome outlets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "All-synchromesh close-ratio four-speed manual; floor console",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle choices",
+          "value": "3.36:1 or 3.08:1; brochure alternatives",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip, mandatory",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Front suspension",
+          "value": "Independent short-and-long-arm with increased-rate coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Rear suspension",
+          "value": "Four-leaf semielliptical springs; special axle radius rods",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front brakes",
+          "value": "Power-assisted self-adjusting discs, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Steering gear ratio",
+          "value": "16.7:1; power assistance optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Rally wheel size",
+          "value": "6.00 × 14",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "D70 × 14 high-speed wide-oval red-band",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "111",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Monaro GTS 327 belongs as an Australian performance-coupe icon: its V8, close-ratio manual, limited-slip axle and supporting chassis equipment formed a purposeful road package with Bathurst-winning heritage. The State Library’s Holden collection history records the original coupe introduction and racing connection.",
+          "category": "Historical significance",
+          "confidence": "Archival collection history documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hol_monaro_hk_gts327_1968.jpg",
+          "caption": "HK Monaro GTS 327 photographed by Sicnag; source identifies Warwick Yellow. Representative original road coupe with GTS/327 markings and rally-style wheel appearance. The image does not authenticate chassis provenance, engine internals, exact axle ratio, tyre specification or original equipment.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "055b0ea5199d1c581d2b84a5a81f5477b7272e8cd51350a989150d8127805db4"
+        }
+      ]
+    }
+  ]
+}

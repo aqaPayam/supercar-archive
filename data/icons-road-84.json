@@ -1,0 +1,195 @@
+{
+  "batch": "icons-road-2026-10-30-84",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "PEU-104-ZS2-BASE1979",
+      "manufacturer": "Peugeot",
+      "model_family": "104",
+      "generation": "Original Peugeot 104 production-road sporting hatchback family",
+      "variant": "ZS2 — 1979 base production recognition 1696",
+      "model_year_from": 1979,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door road hatchback",
+      "road_legal": 1,
+      "specification_market": "1979 Peugeot 104 ZS2 base production-road reference in recognition 1696, stamped April 1, 1979. Base pages 1–5 supply only standard identification, body/layout and mechanics. Additional gearsets, alternative final drives, competition options, maximum permitted capacity and later Group B 226 are excluded. Displacement follows the original nominal 1361 cc; the modern factory history rounds to 1360 cc. No competition output, minimum weight, exact chassis registration, production total or measured road performance is inferred. The photo illustrates an earlier 1124 cc ZS road body, not exact ZS2 equipment.",
+      "summary": "The 104 ZS2 was Peugeot’s purpose-built Group 2 homologation special, rather than an ordinary 104 with cosmetic trim. Its enlarged engine, twin Solex carburettors and documented production recognition mark an early step in Peugeot’s sporting-hatchback history before the 205 GTI. One original 104 sporting family is admitted; other ZS engines, later gearboxes and competition evolutions do not add separate counts.",
+      "admission_reason": "The 104 ZS2 was Peugeot’s purpose-built Group 2 homologation special, rather than an ordinary 104 with cosmetic trim. Its enlarged engine, twin Solex carburettors and documented production recognition mark an early step in Peugeot’s sporting-hatchback history before the 205 GTI. One original 104 sporting family is admitted; other ZS engines, later gearboxes and competition evolutions do not add separate counts.",
+      "sources": [
+        {
+          "publisher": "Peugeot / FIA; original manufacturer recognition in FIA Historic Database",
+          "title": "Peugeot 104 ZS-2 — base production recognition 1696, stamped April 1, 1979",
+          "source_type": "Original manufacturer base production-recognition form",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601081401/homologation_form_number_1696_group_2.pdf",
+          "notes": "1979 Peugeot 104 ZS2 base production-road reference in recognition 1696, stamped April 1, 1979. Base pages 1–5 supply only standard identification, body/layout and mechanics. Additional gearsets, alternative final drives, competition options, maximum permitted capacity and later Group B 226 are excluded. Displacement follows the original nominal 1361 cc; the modern factory history rounds to 1360 cc. No competition output, minimum weight, exact chassis registration, production total or measured road performance is inferred. The photo illustrates an earlier 1124 cc ZS road body, not exact ZS2 equipment."
+        },
+        {
+          "publisher": "Peugeot / Stellantis Media",
+          "title": "Peugeot 104: la piccola che accende la miccia dello sport — October 27, 2025",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.media.stellantis.com/it-it/peugeot/press/peugeot-104-la-piccola-che-accende-la-miccia-dello-sport",
+          "notes": "Actual manufacturer historical article read through the web reader; direct raw download returned 403 and was not bypassed. Supports the ZS2’s 1979 Group 2 homologation purpose, twin Solex carburettors and original 93-CV factory retrospective rating. Keeps earlier 1124 cc ZS and later 72/80-CV engines/five-speed distinct. The factory’s rounded 1360 cc differs from the original nominal 1361 cc in form 1696. Performance and weights from other references are not mixed into this record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1977 Peugeot 104 1.1 ZS (53771940740).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1977_Peugeot_104_1.1_ZS_(53771940740).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original Flickr credit: 1977 Peugeot 104 1.1 ZS, https://www.flickr.com/photos/117096107@N03/53771940740/. Commons licence review dated August 24, 2025. Original JPEG copied unchanged, not a ZS2 photograph."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-stroke inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1361",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven overhead camshaft, rocker-operated valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual, base production gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front transverse, inclined 72 degrees rearward",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitary construction with steel-sheet body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water cooling with pump and thermostat",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "Two",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front discs and rear drums; dual-circuit hydraulic operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson struts; rear trailing arms with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder-head material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Base bore",
+          "value": "75",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Base stroke",
+          "value": "77",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Solex carburettors; exact carburettor model not asserted",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (factory historical account)",
+          "value": "93",
+          "unit": "CV",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 104 ZS2 was Peugeot’s purpose-built Group 2 homologation special, rather than an ordinary 104 with cosmetic trim. Its enlarged engine, twin Solex carburettors and documented production recognition mark an early step in Peugeot’s sporting-hatchback history before the 205 GTI. One original 104 sporting family is admitted; other ZS engines, later gearboxes and competition evolutions do not add separate counts.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_104_zs2_base1979.jpg",
+          "caption": "1977 Peugeot 104 1.1 ZS photographed by Kieran White at the 2022 NEC show. Representative original short three-door sporting body only, not the selected 1979 ZS2: its paint, wheels, trim and equipment differ. This image does not establish ZS2 engine, homologation hardware or a particular chassis identity.",
+          "creator": "Kieran White",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "88d0e32b49baa006b44ed99fda183e17b2275aeabd7a20b44de2b3888170d7a2"
+        }
+      ]
+    }
+  ]
+}

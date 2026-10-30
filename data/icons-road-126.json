@@ -1,0 +1,230 @@
+{
+  "batch": "icons-road-2026-10-30-126",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "SUB-LEGACY-BL-GTLTD-CA2005-MT",
+      "manufacturer": "Subaru",
+      "model_family": "Legacy / Liberty",
+      "generation": "Fourth-generation BL/BP Legacy production-road sporting family",
+      "variant": "2.5GT Limited sedan — 2005 Canada five-speed manual",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Fourth-generation Legacy / Liberty sporting-road family, selected 2005 Canadian Legacy 2.5GT Limited sedan with five-speed manual, from Subaru Canada brochure SBL05E printed in Canada in 2004. One family across BL/BP sedan/wagon, B4/Liberty regional names, engines, Spec.B, STI derivatives, years and related fourth-generation Outback versions; no extra body/trim record. Existing BC/BF and BE/BH S401 are earlier generations. All technical fields use the Canadian reference, not US tests or Japanese 2.0-litre figures. Nominal 2.5 litres only: no exact cc, engine-code suffix, Japanese twin-scroll system, claimed 100-kg reduction, US measured performance or aftermarket suspension imported. Manual viscous centre differential is separate from automatic VTD; curb mass is the manual Limited sedan column, not wagon or automatic.",
+      "summary": "The fourth-generation Legacy GT brought WRX-like turbo performance to an understated all-weather grand tourer. Contemporary testing records its sleeper appeal and practical character alongside chassis and ownership limitations. Bodies, markets and variants remain one family.",
+      "admission_reason": "The fourth-generation Legacy GT brought WRX-like turbo performance to an understated all-weather grand tourer. Contemporary testing records its sleeper appeal and practical character alongside chassis and ownership limitations. Bodies, markets and variants remain one family.",
+      "sources": [
+        {
+          "publisher": "Subaru Canada, Inc.; preserved by Century Auto",
+          "title": "2005 Legacy — Canada brochure SBL05E, printed in Canada 2004, specification spread pp. 44–45",
+          "source_type": "Original manufacturer Canada sales brochure facsimile",
+          "url": "https://www.centuryu.com/uploads/1/4/4/6/144698822/2005_legacy.pdf",
+          "notes": "Downloaded 24-spread PDF. Cover/back-cover spread index 0 and final spreads indices 22–23 individually inspected as rendered images; printed pp. 44–45 contain selected technical and equipment tables. All 20 attributes map to this Canadian source. Cover identifies subaru.ca and Canadian publication; filename alone did not establish market. Other rendered spreads are not claimed as visually reviewed. No complete 48-page visual audit, exact engine cc/code, US figures, automatic VTD or Japanese twin-scroll technology inferred."
+        },
+        {
+          "publisher": "Fuji Heavy Industries / Subaru",
+          "title": "Legacy awarded Car of the Year Japan 2003–2004 — 13 November 2003",
+          "source_type": "Original manufacturer award and generation account",
+          "url": "https://www.subaru.co.jp/en/news/archives/press/2003/03_11_13e.htm",
+          "notes": "Complete relevant release read. Subaru’s first Japan Car of the Year award applies to the new Legacy range, not certification of this Canadian GT Limited specification or a motorsport victory. The release describes a new engine/chassis/body programme and its grand-touring purpose; no numerical technical value imported."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2005 Subaru Legacy 2.5GT Limited — Dave VanderWerp, 1 August 2006 long-term test",
+          "source_type": "Original contemporary long-term production-car test",
+          "url": "https://www.caranddriver.com/reviews/a15386001/2005-subaru-legacy-25gt-limited-long-term-road-test/",
+          "notes": "Relevant complete body read, including stock-car limitations and separate aftermarket section. Admission context only; no technical values or modified-car results imported. Individual-car faults, optional short shifter, driver misfuelling and dealer installation damage are distinguished, not presented as universal production defects."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Sports Sedan Comparo — Patrick Bedard, October 2004 issue, Legacy GT section",
+          "source_type": "Original contemporary comparison test",
+          "url": "https://www.caranddriver.com/reviews/comparison-test/a15132073/2004-acura-tsx-vs-audi-a4-vs-subaru-legacy-vs-volvo-s40-comparison-test/",
+          "notes": "Introduction and complete Legacy section/panel read. Third-place overall finish and chassis limits retained; no class-winner claim. Article’s displayed 2004 test-car label does not define the Canadian 2005 reference. No US measured figure, mass, boost pressure or optional equipment imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:05-06 Subaru Legacy-2.5GT.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:05-06_Subaru_Legacy-2.5GT.jpg",
+          "notes": "IFCAR; own work dated 6 January 2007 in USA. Author public-domain dedication worldwide with unrestricted fallback permission in file licensing section; PD-self, not CC0. Original JPEG copied unchanged. Representative North American pre-facelift GT Limited saloon exterior, not proof of Canadian market, manual gearbox or exact build year."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Horizontally opposed four-cylinder, DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "2.5",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger and intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Throttle control",
+          "value": "Electronic Throttle Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve timing",
+          "value": "Active Valve Control System (AVCS)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory Canadian output",
+          "value": "250 hp at 6000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "250 lb-ft at 3600 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Reinforced five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Symmetrical full-time all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Manual centre differential",
+          "value": "Viscous-coupling limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear differential",
+          "value": "Viscous-type limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front",
+          "value": "312 x 30 mm ventilated discs; twin-piston calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear",
+          "value": "287 x 18 mm ventilated discs; single-piston calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Control systems",
+          "value": "Four-sensor/four-channel ABS with Electronic Brake-force Distribution",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory design",
+          "value": "17 x 7-inch aluminium alloy, five-spoke Legacy GT design",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Tyres",
+          "label": "Factory fitment",
+          "value": "215/45ZR17 Bridgestone Potenza RE92A all-season M+S",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Canadian manual GT Limited sedan curb mass",
+          "value": "1525",
+          "unit": "kg",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Fuel tank capacity",
+          "value": "64",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Wheelbase",
+          "value": "2670",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fourth-generation Legacy GT brought WRX-like turbo performance to an understated all-weather grand tourer. Contemporary testing records its sleeper appeal and practical character alongside chassis and ownership limitations. Bodies, markets and variants remain one family.",
+          "category": "Japanese sporting-GT sleeper heritage",
+          "confidence": "Contemporary production-car testing and manufacturer generation evidence documented; limitations retained",
+          "source": 2
+        },
+        {
+          "title": "A milestone for the Legacy generation",
+          "explanation": "The new Legacy range received the 2003–2004 Car of the Year Japan award, Subaru’s first such win. This recognises the generation rather than certifying an individual Canadian GT specification.",
+          "category": "Contemporary recognition",
+          "confidence": "Original manufacturer award release",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_subaru_legacy_gt_bl_ca2005.jpg",
+          "caption": "Pre-facelift North American Legacy 2.5GT Limited saloon photographed by IFCAR in the USA on 6 January 2007. Individually inspected front-side view shows the GT bonnet scoop, saloon body and Limited-style exterior. Representative body photograph only: it does not authenticate Canadian specification, exact model year, manual gearbox, equipment or originality. Author public-domain dedication; original JPEG copied unchanged.",
+          "creator": "IFCAR",
+          "license": "Public domain (author dedication)",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "3309a0df5d0a1186084f92e64bd26f2fa7d4ea4494c1c60264397f68b821fb13"
+        }
+      ]
+    }
+  ]
+}

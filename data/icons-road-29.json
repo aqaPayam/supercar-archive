@@ -1,0 +1,633 @@
+{
+  "batch": "icons-road-2026-10-29-29",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "JEN-FF-MKI-ROAD",
+      "manufacturer": "Jensen",
+      "model_family": "FF",
+      "generation": "Original FF four-wheel-drive grand touring road family",
+      "variant": "FF Mark I — original English road brochure",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Jensen Motors English two-page FF brochure, printed CGA/LB/966/2½M, hosted as 1966 by Auto-Brochures. Cover and full technical leaf PDF2 rendered and visually read at enlarged resolution. Selected Mark I road reference, not CV8 FF prototype, later FF II/III, ordinary rear-drive Interceptor, SP or modern restomod. Brochure does not give power or torque output; no magazine SAE/DIN figure is silently added. Museum technical accounts explain historical importance without making a universal first-in-the-world claim.",
+      "summary": "The Jensen FF brought Ferguson four-wheel drive and Dunlop Maxaret anti-skid braking together in a V8 grand tourer at an early stage of road-car adoption. Its mechanically controlled traction and braking systems make it an engineering landmark in the development of high-performance all-weather road cars.",
+      "admission_reason": "The Jensen FF brought Ferguson four-wheel drive and Dunlop Maxaret anti-skid braking together in a V8 grand tourer at an early stage of road-car adoption. Its mechanically controlled traction and braking systems make it an engineering landmark in the development of high-performance all-weather road cars.",
+      "sources": [
+        {
+          "publisher": "Jensen Motors / Auto-Brochures hosted facsimile",
+          "title": "Jensen FF — original English road brochure CGA/LB/966/2½M",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/jensen/Jensen_int%20FF_1966.pdf",
+          "notes": "Original Jensen Motors English two-page FF brochure, printed CGA/LB/966/2½M, hosted as 1966 by Auto-Brochures. Cover and full technical leaf PDF2 rendered and visually read at enlarged resolution. Selected Mark I road reference, not CV8 FF prototype, later FF II/III, ordinary rear-drive Interceptor, SP or modern restomod. Brochure does not give power or torque output; no magazine SAE/DIN figure is silently added. Museum technical accounts explain historical importance without making a universal first-in-the-world claim."
+        },
+        {
+          "publisher": "The Jensen Museum",
+          "title": "Ferguson Four-Wheel-Drive System Explained",
+          "source_type": "Marque museum engineering archive",
+          "url": "https://www.jensenmuseum.org/ferguson-four-wheel-drive-system/",
+          "notes": "Museum engineering account explains Rolt/Dixon/Ferguson lineage, master differential and unequal torque distribution. Its 1965 narrative includes the earlier development era; not used as exact production-body launch date."
+        },
+        {
+          "publisher": "The Jensen Museum",
+          "title": "Dunlop Maxaret Anti-Lock Braking Explained",
+          "source_type": "Marque museum engineering archive",
+          "url": "https://www.jensenmuseum.org/dunlop-maxaret/",
+          "notes": "Museum account distinguishes the 1965 CV8 FF demonstration from subsequent FF production body and explains mechanical skid sensing/servo action. Aircraft stopping-distance claims and prototype identity are not road-FF specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Jensen FF Silver HCC22.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Jensen_FF_Silver_HCC22.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chrysler 90-degree OHV V8 with hydraulic tappets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6276",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Carter four-barrel carburettor with automatic thermostatic choke; mechanical pump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Torqueflite three-speed automatic with torque converter and transmission oil cooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Ferguson Formula four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular chassis with steel body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four self-adjusting Dunlop discs; separate front/rear hydraulic circuits, servo assistance and Dunlop Maxaret anti-skid system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones with combined spring/damper units; rear semi-elliptic dual-rate springs, adjustable Armstrong telescopic dampers and Panhard rod",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Pressurised water system with twin thermostatically controlled electric fans",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Jensen FF brought Ferguson four-wheel drive and Dunlop Maxaret anti-skid braking together in a V8 grand tourer at an early stage of road-car adoption. Its mechanically controlled traction and braking systems make it an engineering landmark in the development of high-performance all-weather road cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jen_ff_mki_road.jpg",
+          "caption": "1969 Jensen FF at Hampton Court Concours in 2022, registration AWA 300G, with the early road body, FF badging and two side-vent rows. Represents the original Mark I family. Exterior condition, wheels and build year do not certify the brochure’s exact engine tune, carburettor or working Ferguson/Maxaret hardware. A later FF II photograph was rejected for this reference.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "ccd16127cec83ef6d68ca982c4bbce418883c5d3061e25d91d90db78a6539723"
+        }
+      ]
+    },
+    {
+      "id": "JAG-MK2-38-US-MTOD",
+      "manufacturer": "Jaguar",
+      "model_family": "Mark II",
+      "generation": "Original compact Mark 2 / Mk II sporting saloon family",
+      "variant": "3.8 Sedan — US brochure four-speed manual with overdrive",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door five-seat sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original Jaguar Cars Inc. New York US 3.8 Sedan brochure, hosted as 1964 by Jaguar Club Russia, four scanned pages. All pages rendered; full specification PDF2 and body/gearbox context PDF3–4 visually read. The 1964 reference follows host attribution, not an independently authenticated print date. Selected four-speed manual with overdrive; Borg-Warner automatic column excluded. Native 225 bhp at 5500 rpm retained without relabelling as SAE net or converting to kW. Heritage Trust’s 220-bhp narrative is history, not the selected US rating. Not 2.4/3.4, later 240/340, Daimler V8 or modified racing car.",
+      "summary": "The Jaguar Mark II 3.8 established a lasting sporting-saloon identity by combining XK six-cylinder performance with four-door accommodation. Its international touring-car and rally record, together with its enduring association with fast police and getaway cars, makes it a defining performance icon beyond Jaguar’s two-seat sports cars.",
+      "admission_reason": "The Jaguar Mark II 3.8 established a lasting sporting-saloon identity by combining XK six-cylinder performance with four-door accommodation. Its international touring-car and rally record, together with its enduring association with fast police and getaway cars, makes it a defining performance icon beyond Jaguar’s two-seat sports cars.",
+      "sources": [
+        {
+          "publisher": "Jaguar Cars Inc. / Jaguar Club Russia hosted facsimile",
+          "title": "Jaguar 3.8 Sedan — original US brochure and manual/overdrive specification",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://jaguarclubrussia.com/images/katalog/1950/JaguarMk2/docJaguarMk2/1964-Mark-2-3.8-USA.PDF",
+          "notes": "Original Jaguar Cars Inc. New York US 3.8 Sedan brochure, hosted as 1964 by Jaguar Club Russia, four scanned pages. All pages rendered; full specification PDF2 and body/gearbox context PDF3–4 visually read. The 1964 reference follows host attribution, not an independently authenticated print date. Selected four-speed manual with overdrive; Borg-Warner automatic column excluded. Native 225 bhp at 5500 rpm retained without relabelling as SAE net or converting to kW. Heritage Trust’s 220-bhp narrative is history, not the selected US rating. Not 2.4/3.4, later 240/340, Daimler V8 or modified racing car."
+        },
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1967 Jaguar Mark II 3.8 litre Saloon GHG 615F",
+          "source_type": "Manufacturer heritage collection account",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1967-jaguar-mark-ii-3-8-litre-saloon/",
+          "notes": "Trust account supports model significance and touring-car/rally and police/getaway associations. Preserved 1967 car, its restored finish, 220-bhp wording and performance figures do not replace the selected US brochure specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1960 Jaguar Mark II 3.8.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1960_Jaguar_Mark_II_3.8.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder 3.8-litre XK; chrome-iron cylinder block and aluminium-alloy cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3781",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead high-lift camshafts; two-stage roller-chain drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU HD6 horizontal carburettors with electrically controlled automatic choke",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with overdrive; floor-mounted lever and hydraulic single dry-plate clutch",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels through hypoid rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Integral all-steel body/chassis construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones with coil springs and telescopic dampers; rear cantilever semi-elliptic springs, radius arms and telescopic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dunlop bridge-type four-wheel discs with vacuum servo assistance",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native US brochure notation",
+          "value": "225",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Jaguar Mark II 3.8 established a lasting sporting-saloon identity by combining XK six-cylinder performance with four-door accommodation. Its international touring-car and rally record, together with its enduring association with fast police and getaway cars, makes it a defining performance icon beyond Jaguar’s two-seat sports cars.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_mk2_38_us_mtod.jpg",
+          "caption": "Jaguar Mark II 3.8 identified as a 1960 car, registration PWV 3, showing the original four-door sporting-saloon body with wire wheels and current club badges. This exterior does not certify the selected US brochure’s 225-bhp rating, manual/overdrive transmission, build date or present tune. Not later slim-bumper 240/340 or Daimler V8.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "63554ea09e925076be9c47cb4159932802dcbdc10961b03c2b81509bf9741f81"
+        }
+      ]
+    },
+    {
+      "id": "AC-ACE-BRISTOL-ROAD1963",
+      "manufacturer": "AC",
+      "model_family": "Ace",
+      "generation": "Original Bristol-engined Ace open road sports family",
+      "variant": "Ace Bristol — 1963 base production recognition reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original AC Cars/RAC production recognition application KJ2, FIA117 GT, cover marked year1963; ten-page PDF. Contact sheet and base cover/engine/transmission/chassis pages1/3/5/6 plus options page8 individually read. Base form covers Bristol engine prefixes B/C/D/BS and alternative compression/ratios; no single unverified output, compression ratio or D2-specific rating is invented. Selected base road car without optional overdrive, competition fuel tank, duplicate fuel pump or later anti-roll-bar extension. Club archive supplies chassis/body history. Not AC-engined Ace, Ford 2.6 Ruddspeed, Aceca coupe, Cobra, new carbon-bodied Classic or replica.",
+      "summary": "The Ace Bristol combined John Tojeiro’s lightweight tubular sports-car architecture and aluminium body with Bristol six-cylinder power, establishing an influential British road-and-competition sports-car family. Its independent suspension and the Ace lineage’s role in the development of the Cobra give it lasting significance beyond rarity alone.",
+      "admission_reason": "The Ace Bristol combined John Tojeiro’s lightweight tubular sports-car architecture and aluminium body with Bristol six-cylinder power, establishing an influential British road-and-competition sports-car family. Its independent suspension and the Ace lineage’s role in the development of the Cobra give it lasting significance beyond rarity alone.",
+      "sources": [
+        {
+          "publisher": "AC Cars / RAC / FIA Historic Database",
+          "title": "AC Ace Bristol — original AC Cars/RAC base production recognition KJ2, FIA117 GT",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1626170401/homologation_form_number_117_group_gt.pdf",
+          "notes": "Original AC Cars/RAC production recognition application KJ2, FIA 117 GT, cover marked year 1963; ten-page PDF. Contact sheet and base cover/engine/transmission/chassis pages 1/3/5/6 plus options page 8 individually read. Base form covers Bristol engine prefixes B/C/D/BS and alternative compression/ratios; no single unverified output, compression ratio or D2-specific rating is invented. Selected base road car without optional overdrive, competition fuel tank, duplicate fuel pump or later anti-roll-bar extension. Club archive supplies chassis/body history. Not AC-engined Ace, Ford 2.6 Ruddspeed, Aceca coupe, Cobra, new carbon-bodied Classic or replica."
+        },
+        {
+          "publisher": "AC Owners Club",
+          "title": "AC Ace — archive account of Ace, Ace Bristol and Ruddspeed development",
+          "source_type": "Marque owners-club model archive",
+          "url": "https://www.acownersclub.co.uk/ac-models/ac-aces/",
+          "notes": "Club archival account documents Tojeiro tubular/aluminium design, independent suspension, Bristol factory adoption and the later Cobra production contract. Used for construction and lineage; road/race tuning, Ruddspeed 155/170-bhp and Bristol D2 125-bhp discussion do not become this base reference’s output."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1958 AC Ace Bristol in Light Steel Blue, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1958_AC_Ace_Bristol_in_Light_Steel_Blue,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six; cast-iron cylinder block and aluminium cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1971",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven camshaft in cylinder block; pushrod valve operation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Three downdraught Solex B.32PB 1–6 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Bristol four-speed floor-shift manual with one reverse; selected without optional overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front and rear; transverse leaf springs and Armstrong telescopic dampers; no base anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic, without servo; front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Twin parallel tubular chassis",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Hand-crafted aluminium body",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Ace Bristol combined John Tojeiro’s lightweight tubular sports-car architecture and aluminium body with Bristol six-cylinder power, establishing an influential British road-and-competition sports-car family. Its independent suspension and the Ace lineage’s role in the development of the Cobra give it lasting significance beyond rarity alone.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ac_ace_bristol_road1963.jpg",
+          "caption": "1958 AC Ace Bristol in Light Steel Blue at a Caffeine & Carburetors event in New Canaan, Connecticut. Commons documents a D2-specification Bristol engine and 2017 restoration. Represents the original open road body; that car’s stated 125 hp, engine number and overdrive do not define the selected 1963 base form, which leaves power unasserted and selects no overdrive. No Cobra/Hawk replica or aero-screen racer is substituted.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6c589fdc3e4d9a820dac7009cb6b757bae3ae62f0605fc4d4ddc31fcae5c6cac"
+        }
+      ]
+    },
+    {
+      "id": "SUN-TIGER-I-260-ROAD",
+      "manufacturer": "Sunbeam",
+      "model_family": "Tiger",
+      "generation": "Original 260-cu-in Tiger / Alpine 260 road sports family",
+      "variant": "Tiger I 260 — January 1966 base production recognition",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door open sports roadster with detachable hardtop option",
+      "road_legal": 1,
+      "specification_market": "Original Rootes/Sunbeam Talbot production recognition application, FIA509 Group3 GT. Cover valid from1January1966 states manufacture started1July1964 and500identical cars reached31October1964. Thirty-page file; first15 contact sheet and base pages1/6/8–11 individually read. Only base production pages used:4261cc,164gross BHP at4400rpm,258lb-ft at2200rpm and four-speed manual. Later optional/homologated race modifications, LAT kits, 289 engine, works-car200hp, scoops and competition fuel/brake changes are excluded. No homologation approval is presented as current road registration or competition eligibility.",
+      "summary": "The Sunbeam Tiger is an enduring Anglo-American performance icon, developed from the Alpine roadster with Ford V8 power and Carroll Shelby’s engineering involvement. Its compact production-roadster form and works motorsport programme give it a distinct place in the history of British sports cars with American muscle.",
+      "admission_reason": "The Sunbeam Tiger is an enduring Anglo-American performance icon, developed from the Alpine roadster with Ford V8 power and Carroll Shelby’s engineering involvement. Its compact production-roadster form and works motorsport programme give it a distinct place in the history of British sports cars with American muscle.",
+      "sources": [
+        {
+          "publisher": "Rootes Group / Sunbeam Talbot / FIA Historic Database",
+          "title": "Sunbeam Tiger — original Rootes/Sunbeam production base form, FIA509 Group3",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601069401/homologation_form_number_509_group_3.pdf",
+          "notes": "Original Rootes/Sunbeam Talbot production recognition application, FIA 509 Group 3 GT. Cover valid from 1 January 1966 states manufacture started 1 July 1964 and 500 identical cars reached 31 October 1964. Thirty-page file; first 15 contact sheet and base pages 1/6/8–11 individually read. Only base production pages used: 4261 cc, 164 gross BHP at 4400 rpm, 258 lb-ft at 2200 rpm and four-speed manual. Later optional/homologated race modifications, LAT kits, 289 engine, works-car 200 hp, scoops and competition fuel/brake changes are excluded. No homologation approval is presented as current road registration or competition eligibility."
+        },
+        {
+          "publisher": "Shelby American Collection",
+          "title": "1964 Rootes Works Rally Sunbeam Tiger B9470035",
+          "source_type": "Museum collection account; history only",
+          "url": "https://shelby-american-collection.squarespace.com/cobras-coupes/1964-rootes-works-rally-sunbeam-tiger",
+          "notes": "Museum custodian account supports Shelby contract/prototype and works-motorsport lineage. The museum car’s modified 289/200-hp engine, rally details and statistics do not become the 260 production road specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Sunbeam Tiger (35269100265).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Sunbeam_Tiger_(35269100265).jpg",
+          "notes": "Hugh Llewelyn from Keynsham, UK; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: 1965 Sunbeam Tiger"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford four-stroke 90-degree V8; cast-iron block and heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4261",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven camshaft in centre of V; pushrod valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "One Ford C.4 DF.9510-E two-barrel carburettor; no fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Pump water cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Ford HEH-E four-speed manual; four synchronised forward ratios",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Pressed-steel unitary body construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, manufacturer-declared catalogue gross notation",
+          "value": "164",
+          "unit": "BHP",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, declared at 2200 rpm",
+          "value": "258",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Rack and pinion; unassisted",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Sunbeam Tiger is an enduring Anglo-American performance icon, developed from the Alpine roadster with Ford V8 power and Carroll Shelby’s engineering involvement. Its compact production-roadster form and works motorsport programme give it a distinct place in the history of British sports cars with American muscle.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sun_tiger_i_260_road.jpg",
+          "caption": "1965 Sunbeam Tiger displayed at the Haynes International Motor Museum in 2017, showing the standard-style road body, Tiger/260 badges and detachable hardtop. Current wheels, installed engine, tune and gearbox originality are not certified by the exterior. The caption does not assert a TAC inspection or chassis authentication; race/rally-scoop alternatives were rejected.",
+          "creator": "Hugh Llewelyn from Keynsham, UK",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "e3dff55ae793db7fc0edbed1f08d640b7d30466ec6d24a9b2fb6ed50984a8bd4"
+        }
+      ]
+    }
+  ]
+}

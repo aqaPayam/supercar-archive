@@ -1,0 +1,548 @@
+{
+  "batch": "icons-road-2026-10-29-43",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 5,
+  "cars": [
+    {
+      "id": "NIS-BLUEBIRD-510-SSS-KP1969",
+      "manufacturer": "Nissan",
+      "model_family": "Bluebird / Datsun 510",
+      "generation": "Third-generation 510 Bluebird production-road sporting family",
+      "variant": "1600SSS coupe — 1969 KP510 Nissan Heritage No.242 reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback coupe",
+      "road_legal": 1,
+      "specification_market": "Selected factory collection car No.242, 1969 KP510. The separate red No.185 page has inconsistent output units and is not used. Sedan Safari competition tune, later 1800SSS, modified export examples, uncertain rating standards and inferred transmission details are excluded.",
+      "summary": "The 510 is a foundational Datsun performance icon, with independent rear suspension and a twin-carburettor SSS engine. Its family established Nissan’s international rally reputation, including the sedan’s 1970 Safari victory. This record selects the road coupe rather than importing the rally car’s specification.",
+      "admission_reason": "The 510 is a foundational Datsun performance icon, with independent rear suspension and a twin-carburettor SSS engine. Its family established Nissan’s international rally reputation, including the sedan’s 1970 Safari victory. This record selects the road coupe rather than importing the rally car’s specification.",
+      "sources": [
+        {
+          "publisher": "Nissan Heritage Collection",
+          "title": "Datsun Bluebird 1600SSS Coupe, 1969 KP510 — owned Heritage Collection No.242",
+          "source_type": "Manufacturer owned-vehicle engineering and historical record",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1600sss_coupe.html",
+          "notes": "Selected factory collection car No.242, 1969 KP510. The separate red No.185 page has inconsistent output units and is not used. Sedan Safari competition tune, later 1800SSS, modified export examples, uncertain rating standards and inferred transmission details are excluded."
+        },
+        {
+          "publisher": "Nissan Heritage Collection",
+          "title": "Datsun Bluebird 1600SSS, 1970 P510 — Safari rally history",
+          "source_type": "Manufacturer competition-history record",
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1600sss.html",
+          "notes": "Competition-car record used only for the family’s rally significance; its 130-ps engine, weight, body dimensions and tyres are not road-coupe specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Datsun Bluebird Coupe (510) 001.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Datsun_Bluebird_Coupe_(510)_001.JPG",
+          "notes": "Tennen-Gas; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "L16 inline four-cylinder OHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1595",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "SU twin carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "74",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "132",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front struts; independent semi-trailing-arm rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front disc; rear drum",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 510 is a foundational Datsun performance icon, with independent rear suspension and a twin-carburettor SSS engine. Its family established Nissan’s international rally reputation, including the sedan’s 1970 Safari victory. This record selects the road coupe rather than importing the rally car’s specification.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nis_bluebird_510_sss_kp1969.jpg",
+          "caption": "Datsun Bluebird 1600 SSS coupe, showing the 510 fastback body. This representative photograph is not identified as Nissan Heritage No.242 and does not establish original engine tune or chassis provenance.",
+          "creator": "Tennen-Gas",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d41ea2305359d198a81cba2e3bbc8055e1731e8aed572a43f717e39534d943ed"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-FAMILIA-R100-ROTARY1968",
+      "manufacturer": "Mazda",
+      "model_family": "Familia Rotary / R100",
+      "generation": "Second-generation Familia platform, original R100 rotary-coupe production family",
+      "variant": "Familia Rotary Coupe / R100 — original 1968 programme",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door compact rotary coupe",
+      "road_legal": 1,
+      "specification_market": "Factory Familia Part 2 history identifies 1968 introduction, 10A dimensions, quoted road performance and Singapore 1969 competition context. No racing tune, piston Familia, RX-2/RX-3, inferred gearbox or mass is imported.",
+      "summary": "The R100 brought Mazda’s rotary performance beyond the specialist Cosmo into a compact sporting coupe. Its 10A engine and early international racing success make it a formative rotary icon, distinct from the later Savanna RX-3 and much later BG Familia GT-R.",
+      "admission_reason": "The R100 brought Mazda’s rotary performance beyond the specialist Cosmo into a compact sporting coupe. Its 10A engine and early international racing success make it a formative rotary icon, distinct from the later Savanna RX-3 and much later BG Familia GT-R.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Great Cars of Mazda — Familia Part 2, second- to fourth-generation models",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www2.mazda.com/en/stories/craftmanship/greatcar/p10.html",
+          "notes": "Factory Familia Part 2 history identifies 1968 introduction, 10A dimensions, quoted road performance and Singapore 1969 competition context. No racing tune, piston Familia, RX-2/RX-3, inferred gearbox or mass is imported."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "Rotary-engine production reaches two million — factory chronology",
+          "source_type": "Manufacturer original release and chronology",
+          "url": "https://newsroom.mazda.com/en/publicity/release/2023/202310/231030b.html",
+          "notes": "Factory timeline dates Familia Rotary Coupe / R100 launch to July 1968. No present-day hybrid or later rotary specifications are transferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:MHV Mazda R100 02.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:MHV_Mazda_R100_02.jpg",
+          "notes": "MartinHansV; CC BY 3.0. License: https://creativecommons.org/licenses/by/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "10A two-rotor rotary",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "180",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement per rotor",
+          "value": "491",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rotor count",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output",
+          "value": "100",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Standing start 400 metres, manufacturer historical claim",
+          "value": "16.4",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R100 brought Mazda’s rotary performance beyond the specialist Cosmo into a compact sporting coupe. Its 10A engine and early international racing success make it a formative rotary icon, distinct from the later Savanna RX-3 and much later BG Familia GT-R.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_familia_r100_rotary1968.jpg",
+          "caption": "Mazda R100, showing the compact rotary-coupe body and distinctive round rear lamps. The photograph does not establish the precise 1968 reference or original engine internals.",
+          "creator": "MartinHansV",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ae11b3b129274a033746ff786ea5e5247396c626afbc4de1d13e4569a35f27b7"
+        }
+      ]
+    },
+    {
+      "id": "AUD-S2-COUPE-B3-ORIGINAL1990",
+      "manufacturer": "Audi",
+      "model_family": "S2",
+      "generation": "Original B3-based S2 production-road coupe family",
+      "variant": "Coupé S2 — original 1990 162-kW road reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Actual 1990 annual report printed page 43, physical PDF page 38, rendered and read. Use its kW figure without re-labelling the report’s inconsistent bhp notation. No unrelated Audi 100 safety/V6 claims, 1992 230-hp update, six-speed, overboost or combined production total is imported.",
+      "summary": "The S2 Coupé established Audi’s enduring S-model road-car lineage as the successor to the original quattro. Its turbocharged five-cylinder engine and quattro chassis connect rally-derived engineering with a practical sporting coupe, independently of the later RS2 Avant.",
+      "admission_reason": "The S2 Coupé established Audi’s enduring S-model road-car lineage as the successor to the original quattro. Its turbocharged five-cylinder engine and quattro chassis connect rally-derived engineering with a practical sporting coupe, independently of the later RS2 Avant.",
+      "sources": [
+        {
+          "publisher": "Volkswagen AG / Audi AG",
+          "title": "Volkswagen AG annual report 1990 — Audi Coupé S2, printed page 43",
+          "source_type": "Contemporary manufacturer annual report",
+          "url": "https://www.volkswagen-group.com/en/publications/corporate/annual-report-1990-2308/download?disposition=attachment",
+          "notes": "Actual 1990 annual report printed page 43, physical PDF page 38, rendered and read. Use its kW figure without re-labelling the report’s inconsistent bhp notation. No unrelated Audi 100 safety/V6 claims, 1992 230-hp update, six-speed, overboost or combined production total is imported."
+        },
+        {
+          "publisher": "Audi Tradition",
+          "title": "Anniversary Dates 2025 — First Appearance Audi Coupé S2, page 11",
+          "source_type": "Manufacturer historical engineering publication",
+          "url": "https://www.audi-mediacenter.com/en/publications/more/audi-tradition-anniversary-dates-2025-1565/download",
+          "notes": "Actual page 11 rendered and read; identifies S-family ancestry, original turbo five-cylinder, 2226 cc and 1990 introduction. Its stated power-peak rpm differs from Audi’s older engine history and is omitted; later 1992 update is excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1996 Audi S2 Coupe (13665686725).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1996_Audi_S2_Coupe_(13665686725).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1996 Audi S2 Coupe"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "162",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "quattro four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.1",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "20",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Factory running-gear specification",
+          "value": "Sport suspension matched to the S2 powertrain",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged five-cylinder engine",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2226",
+          "unit": "cc",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S2 Coupé established Audi’s enduring S-model road-car lineage as the successor to the original quattro. Its turbocharged five-cylinder engine and quattro chassis connect rally-derived engineering with a practical sporting coupe, independently of the later RS2 Avant.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_s2_coupe_b3_original1990.jpg",
+          "caption": "Audi S2 Coupé identified as a 1996 car, illustrating the B3-based coupe family. It is a later example; the photograph does not establish the original 1990 engine, gearbox or suspension specification.",
+          "creator": "Kieran White from Manchester, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "08b4eb3d149a2394cd7f7053737cd6780d65939ad87ed58baec4e61da6a7e931"
+        }
+      ]
+    },
+    {
+      "id": "PEU-309-GTI16-ORIGINAL1989",
+      "manufacturer": "Peugeot",
+      "model_family": "309",
+      "generation": "Original 309 GTI16 production-road sporting family",
+      "variant": "GTI16 — original July 1989 D6C 160-CV reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hot hatch",
+      "road_legal": 1,
+      "specification_market": "Factory 2019 history explicitly dates July 1989 introduction and separates original 160-CV D6C from the later catalysed 148-CV version. No 8-valve GTI, 405 body data, competition tune, inferred gearbox, mass or contemporary valuation is imported.",
+      "summary": "The 309 GTI16 is a defining Peugeot hot hatch, combining the Mi16 engine with a balanced compact chassis that earned lasting recognition for its road handling and rally use. Its significance rests on that performance engineering, not simply its relatively small production run.",
+      "admission_reason": "The 309 GTI16 is a defining Peugeot hot hatch, combining the Mi16 engine with a balanced compact chassis that earned lasting recognition for its road handling and rally use. Its significance rests on that performance engineering, not simply its relatively small production run.",
+      "sources": [
+        {
+          "publisher": "Peugeot / Stellantis Media",
+          "title": "Peugeot 309 GTI16 — 160 cavalli da corsa, 30 May 2019",
+          "source_type": "Manufacturer historical engineering and competition account",
+          "url": "https://www.media.stellantis.com/it-it/peugeot/press/peugeot-309-gti16-n-160-cavalli-da-corsa",
+          "notes": "Factory 2019 history explicitly dates July 1989 introduction and separates original 160-CV D6C from the later catalysed 148-CV version. No 8-valve GTI, 405 body data, competition tune, inferred gearbox, mass or contemporary valuation is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dieppe, Seine-Maritime - France (11399378394).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dieppe,_Seine-Maritime_-_France_(11399378394).jpg",
+          "notes": "Mic from Reading - Berkshire, United Kingdom; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Dieppe, Seine-Maritime - France"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "D6C, shared with the 405 Mi16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1905",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "220",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Total valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted original output",
+          "value": "160",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 309 GTI16 is a defining Peugeot hot hatch, combining the Mi16 engine with a balanced compact chassis that earned lasting recognition for its road handling and rally use. Its significance rests on that performance engineering, not simply its relatively small production run.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_309_gti16_original1989.jpg",
+          "caption": "Peugeot 309 GTI16 at Dieppe, showing the three-door body and rear identification. This family illustration does not authenticate original 160-CV engine internals, catalyst status or present tune.",
+          "creator": "Mic from Reading - Berkshire, United Kingdom",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "21cd0c451a632eb6bb7aaecd0255533a213cce185c0f3005e5e8debadd6ae53e"
+        }
+      ]
+    },
+    {
+      "id": "CIT-AX-SPORT-ORIGINAL1987",
+      "manufacturer": "Citroën",
+      "model_family": "AX",
+      "generation": "Original AX Sport production-road sporting family",
+      "variant": "Sport 1.3 twin-carburettor — original 1987 reference",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "German factory anniversary account identifies the 1987–1988 Sport, 1294 cc, twin carburettors and 70 kW/95 PS. Ordinary AX aerodynamics, 640-kg base-model mass, later GT/GTi injection and competition modifications are excluded.",
+      "summary": "The AX Sport is an enduring lightweight French performance hatch and an important entry point into rallying. Its twin-carburettor engine and competition development role distinguish the sporting model from the ordinary economy-focused AX.",
+      "admission_reason": "The AX Sport is an enduring lightweight French performance hatch and an important entry point into rallying. Its twin-carburettor engine and competition development role distinguish the sporting model from the ordinary economy-focused AX.",
+      "sources": [
+        {
+          "publisher": "Citroën / Stellantis Media",
+          "title": "Vor 30 Jahren: Weltpremiere des Citroën AX — Sport paragraph, 30 September 2016",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.media.stellantis.com/de-de/citroen/press/vor-30-jahren-weltpremiere-des-citroen-ax",
+          "notes": "German factory anniversary account identifies the 1987–1988 Sport, 1294 cc, twin carburettors and 70 kW/95 PS. Ordinary AX aerodynamics, 640-kg base-model mass, later GT/GTi injection and competition modifications are excluded."
+        },
+        {
+          "publisher": "Citroën / Stellantis Media",
+          "title": "El Citroën AX cumple 30 años, su filosofía permanece — Sport and promotion formulae",
+          "source_type": "Manufacturer historical performance and competition account",
+          "url": "https://www.media.stellantis.com/es-es/citroen/press/el-citroen-ax-cumple-30-anos-su-filosofia-permanece",
+          "notes": "Spanish factory account identifies the 1987 Sport’s 720-kg mass and 186-km/h top speed, and its role in European promotion/rally formulae. These are historical factory figures with no inferred weighing or test standard."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1988 Citroën AX Sport (9269003463).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1988_Citro%C3%ABn_AX_Sport_(9269003463).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1988 Citroën AX Sport"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1294",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "70",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output",
+          "value": "95",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Manufacturer quoted maximum speed",
+          "value": "186",
+          "unit": "km/h",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Manufacturer quoted Sport mass, standard unspecified",
+          "value": "720",
+          "unit": "kg",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The AX Sport is an enduring lightweight French performance hatch and an important entry point into rallying. Its twin-carburettor engine and competition development role distinguish the sporting model from the ordinary economy-focused AX.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_ax_sport_original1987.jpg",
+          "caption": "Citroën AX Sport identified as a 1988 car, illustrating the early sporting three-door body. Appearance does not establish the exact 1987 mechanical specification, original carburettors or present tune.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2b630014fcf0c043e05462046105de5ac5d7bddeaa1331f23719157041471744"
+        }
+      ]
+    }
+  ]
+}

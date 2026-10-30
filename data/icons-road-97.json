@@ -1,0 +1,362 @@
+{
+  "batch": "icons-road-2026-10-30-97",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "AUD-S8-D3-DE2006",
+      "manufacturer": "Audi",
+      "model_family": "S8",
+      "generation": "Second-generation D3 / Typ 4E V10 S8 production-road family",
+      "variant": "5.2 FSI quattro — February 2006 German technical reference",
+      "model_year_from": 2006,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "D3 / Typ 4E S8 5.2 FSI quattro, February 2006 German-market technical-sheet reference. Native 331 kW at 7000 rpm and 540 Nm at 3500 rpm are retained; the sheet’s parenthetical 450 is not relabelled as mechanical bhp or converted. Its governed 250 km/h and 5.1-second 0–100 km/h are manufacturer figures, not independently measured tests. Selected specification includes conventional ventilated disc brakes; optional ceramics are not implied. Earlier D2 V8, later turbo-V8 S8s, Gallardo engine specifications and facelift equipment are excluded. Count this D3 road family once across years, trim and equipment.",
+      "summary": "The D3 S8 combines a high-revving, direct-injection V10 with an aluminium space-frame saloon and permanent quattro drive. This distinctive ten-cylinder flagship belongs to the era of naturally aspirated performance saloons, with substantially different engineering from the original V8 S8.",
+      "admission_reason": "The D3 S8 combines a high-revving, direct-injection V10 with an aluminium space-frame saloon and permanent quattro drive. This distinctive ten-cylinder flagship belongs to the era of naturally aspirated performance saloons, with substantially different engineering from the original V8 S8.",
+      "sources": [
+        {
+          "publisher": "Audi / VAG Links facsimile",
+          "title": "Technical Data – Audi S8 5.2 FSI quattro, status February 2006",
+          "source_type": "Original manufacturer technical sheet, hosted facsimile",
+          "url": "https://www.vaglinks.com/Docs/Audi/Specs/Audi_S8_5.2_FSI_TechData.pdf",
+          "notes": "D3 / Typ 4E S8 5.2 FSI quattro, February 2006 German-market technical-sheet reference. Native 331 kW at 7000 rpm and 540 Nm at 3500 rpm are retained; the sheet’s parenthetical 450 is not relabelled as mechanical bhp or converted. Its governed 250 km/h and 5.1-second 0–100 km/h are manufacturer figures, not independently measured tests. Selected specification includes conventional ventilated disc brakes; optional ceramics are not implied. Earlier D2 V8, later turbo-V8 S8s, Gallardo engine specifications and facelift equipment are excluded. Count this D3 road family once across years, trim and equipment."
+        },
+        {
+          "publisher": "Audi Australia / XR793 facsimile",
+          "title": "The new Audi S8 — Australian brochure, October 2006",
+          "source_type": "Original manufacturer brochure, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2023/04/2006-Audi-S8-AUS.pdf",
+          "notes": "Actual brochure pages 1–2 inspected. Corroborates V10, FSI, quattro, ASF, power/torque and performance. This later Australian specification is supporting context, not a replacement market calibration. The equipment key marks ceramic brakes optional. The prose’s loose power-reserve wording at 2300 rpm is not imported as a torque or power specification."
+        },
+        {
+          "publisher": "Tokyo Motor Show / Audi exhibitor material",
+          "title": "2005 Audi S8 — official exhibitor booth guide",
+          "source_type": "Contemporary official motor-show exhibitor account",
+          "url": "https://archive.tokyo-motorshow.com/show/2005/public/boothguide/photo/20_220_Audi/003.html",
+          "notes": "Contemporary show-organiser archive identifies the new V10 S8 and its FSI performance case. Gallardo know-how is described, not identical engines or a direct Le Mans race-engine transplant. No publicity superlatives or separate show-car count is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2006 Audi S8 D3 (Typ 4E) (3862594937).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2006_Audi_S8_D3_(Typ_4E)_(3862594937).jpg",
+          "notes": "Spanish Coches; CC BY 2.0; https://creativecommons.org/licenses/by/2.0. Original credit: 2006 Audi S8 D3 [Typ 4E]. Original credit links: https://www.flickr.com/photos/39302751@N06/3862594937/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree aluminium V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5204",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "331",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "540",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "FSI petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC; continuously adjustable intake and exhaust camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "12.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed tiptronic automatic; torque converter with lock-up",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent all-wheel drive, self-locking centre differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium Audi Space Frame (ASF)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated disc brakes front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.1",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "84.5 × 92.8",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum-speed condition",
+          "value": "Governed; factory claim",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Air springs; four-link front and trapezoidal-link rear axles",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The D3 S8 combines a high-revving, direct-injection V10 with an aluminium space-frame saloon and permanent quattro drive. This distinctive ten-cylinder flagship belongs to the era of naturally aspirated performance saloons, with substantially different engineering from the original V8 S8.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_s8_d3_de2006.jpg",
+          "caption": "D3 S8 road saloon photographed by Spanish Coches at El Sardinero stadium, Santander; source title identifies a 2006 car. Representative V10-era body with S8 grille badge. Original border and photographer mark remain. The photograph does not authenticate exact market, engine calibration, brakes, equipment or mechanical originality.",
+          "creator": "Spanish Coches",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "07f67aebc24de61f9f6a4bdc4b1e1dd7d0338f9c4b1c3b4cfebe1b507c97b24c"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS5-F5-CH2017",
+      "manufacturer": "Audi",
+      "model_family": "RS 5",
+      "generation": "Second-generation F5 / B9 biturbo-V6 RS 5 production-road family",
+      "variant": "Original 2.9 TFSI quattro Coupe — July 2017 Swiss introduction",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original second-generation F5 / B9 RS 5 Coupe, July 2017 Swiss launch reference. The contemporary importer release explicitly calls it the second generation. Retain native 331 kW and 600 Nm; 450 PS is not mechanical bhp. Select standard 250 km/h specification; the optional RS dynamic package permits 280 km/h but is not assumed fitted. Optional rear sport differential, DRC, carbon roof, ceramic brakes and dynamic steering are not standard specification. The declared 3.9-second 0–100 km/h is a factory claim. No 2020 facelift, Sportback, ABT conversion or current hybrid RS 5 field is imported. Count this generation once across bodies, packages and years.",
+      "summary": "The second RS 5 generation replaced the original high-revving V8 formula with a compact twin-turbo V6, rear-biased quattro and a new chassis. It is a substantive evolution of Audi Sport’s performance coupe, combining hot-V turbo packaging with five-link suspension rather than merely a cosmetic or yearly update.",
+      "admission_reason": "The second RS 5 generation replaced the original high-revving V8 formula with a compact twin-turbo V6, rear-biased quattro and a new chassis. It is a substantive evolution of Audi Sport’s performance coupe, combining hot-V turbo packaging with five-link suspension rather than merely a cosmetic or yearly update.",
+      "sources": [
+        {
+          "publisher": "Audi / AMAG Swiss media archive",
+          "title": "V6-Power in neuer Form: das Audi RS 5 Coupe — 6 July 2017",
+          "source_type": "Contemporary official manufacturer/importer launch release",
+          "url": "https://www.audipress.ch/press/v6-power-neuer-form-das-audi-rs-5-coupe",
+          "notes": "Original second-generation F5 / B9 RS 5 Coupe, July 2017 Swiss launch reference. The contemporary importer release explicitly calls it the second generation. Retain native 331 kW and 600 Nm; 450 PS is not mechanical bhp. Select standard 250 km/h specification; the optional RS dynamic package permits 280 km/h but is not assumed fitted. Optional rear sport differential, DRC, carbon roof, ceramic brakes and dynamic steering are not standard specification. The declared 3.9-second 0–100 km/h is a factory claim. No 2020 facelift, Sportback, ABT conversion or current hybrid RS 5 field is imported. Count this generation once across bodies, packages and years."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2017 Audi RS 5 Coupe Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017_Audi_RS_5_Coupe_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.9",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "331",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "600",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers positioned inside the cylinder V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Central direct injection; B-cycle combustion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed tiptronic automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent quattro all-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Self-locking centre differential; nominal 40:60 front/rear split",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Five-link front and rear axles; standard RS sport suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "3.9",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "1900–5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum-speed reference",
+          "value": "Standard 250 km/h; 280 km/h RS dynamic package is optional",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second RS 5 generation replaced the original high-revving V8 formula with a compact twin-turbo V6, rear-biased quattro and a new chassis. It is a substantive evolution of Audi Sport’s performance coupe, combining hot-V turbo packaging with five-link suspension rather than merely a cosmetic or yearly update.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs5_f5_ch2017.jpg",
+          "caption": "Original F5 RS 5 Coupe photographed by Vauxford at Listers Birmingham Audi, Shirley, Solihull. Source title identifies a 2017 car; metadata records capture in January 2018. Representative pre-facelift two-door body, rather than Sportback or a tuned ABT example. Exact Swiss specification, options and mechanical originality are not established by the photograph.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b225c68121aae57bc9310b5a600c986590b9800998389f381028803bfe7d241b"
+        }
+      ]
+    }
+  ]
+}

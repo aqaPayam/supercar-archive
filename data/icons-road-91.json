@@ -1,0 +1,376 @@
+{
+  "batch": "icons-road-2026-10-30-91",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "MER-E55-AMG-W210-1997",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "E-Class",
+      "generation": "W210 original AMG production-road performance-saloon family",
+      "variant": "E55 AMG type 210.074 — original 1997–1999 factory reference",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original W210 E55 AMG saloon, type 210.074, selected from the factory 1997–1999 reference. The archive distinguishes August 1997 pre-production from October 1997 standard production; the year field denotes introduction, not a US model year. M113 E55/113.980, 5439 cc, 260 kW at 5500 rpm and 530 Nm at 3000 rpm. Standard five-speed torque-converter automatic, rear-wheel drive and original European tyres. No later W211 supercharged specification, US 349-hp/tyre/test data, 4MATIC, later facelift equipment or inferred production total is imported.",
+      "summary": "The W210 E55 AMG combined an AMG-developed V8 with uprated suspension and brakes and a heavy-duty automatic drivetrain in an everyday executive saloon. Contemporary first-hand driving evidence documents a substantial dynamic transformation beyond the ordinary E-Class. Count this W210 performance-road family once; engine choices, facelifts, estate bodies and model years do not add entries.",
+      "admission_reason": "The W210 E55 AMG combined an AMG-developed V8 with uprated suspension and brakes and a heavy-duty automatic drivetrain in an everyday executive saloon. Contemporary first-hand driving evidence documents a substantial dynamic transformation beyond the ordinary E-Class. Count this W210 performance-road family once; engine choices, facelifts, estate bodies and model years do not add entries.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Public Archive",
+          "title": "E55 AMG / W210 E55, 1997–1999 — factory type 210.074 specification",
+          "source_type": "Manufacturer historical model specification",
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/E-55-AMG--W-210-E-55-1997---1999.xhtml?oid=5327",
+          "notes": "Original W210 E55 AMG saloon, type 210.074, selected from the factory 1997–1999 reference. The archive distinguishes August 1997 pre-production from October 1997 standard production; the year field denotes introduction, not a US model year. M113 E55/113.980, 5439 cc, 260 kW at 5500 rpm and 530 Nm at 3000 rpm. Standard five-speed torque-converter automatic, rear-wheel drive and original European tyres. No later W211 supercharged specification, US 349-hp/tyre/test data, 4MATIC, later facelift equipment or inferred production total is imported."
+        },
+        {
+          "publisher": "Mercedes-Benz Public Archive",
+          "title": "210 series E-Class Saloons, 1995–1999 — original E55 introduction",
+          "source_type": "Manufacturer model-series history",
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/ko.xhtml?oid=5309",
+          "notes": "Actual factory history read. Explains E55 replacement of E50 at the September 1997 Frankfurt presentation and identifies the AMG-developed M113 generation. Generic E-Class safety/design innovations, 4MATIC and other-engine technical fields are not assigned to this selected saloon."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "1999 Mercedes E55 AMG Does the Twist — Barry Winfield, March 1999 issue",
+          "source_type": "Contemporary first-hand road test, republished",
+          "url": "https://www.caranddriver.com/reviews/a44704946/1999-mercedes-e55-amg-by-the-numbers/",
+          "notes": "Actual first-hand period road test read in its archived republication. Supports admission through documented drivetrain, suspension and brake development and driving assessment. US specifications and test figures are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz E55.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E55.jpg",
+          "notes": "Fletcher6; CC BY 3.0; https://creativecommons.org/licenses/by/3.0. Original credit: Own work. Downloaded rendition copied unchanged. Attribution and applicable share-alike terms retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M113 E55 / 113.980 — 90-degree V8, light-alloy block",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5439",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "260",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "530",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Manifold petrol injection; Bosch ME management",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed planetary automatic; lock-up torque converter, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3 — two intake, one exhaust",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One overhead camshaft per cylinder bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unit body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; multilink rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front internally ventilated discs and rear discs; ABS and Brake Assist",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Front 235/40 ZR18; rear 265/35 ZR18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "97.0 × 92.0",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W210 E55 AMG combined an AMG-developed V8 with uprated suspension and brakes and a heavy-duty automatic drivetrain in an everyday executive saloon. Contemporary first-hand driving evidence documents a substantial dynamic transformation beyond the ordinary E-Class. Count this W210 performance-road family once; engine choices, facelifts, estate bodies and model years do not add entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_e55_amg_w210_1997.jpg",
+          "caption": "W210 E55 AMG saloon photographed by Fletcher6. Representative road-family body showing later facelift mirrors and trim, not the exact early 1997–1999 reference. Market calibration, transmission/equipment and original European tyre sizes are not authenticated by the photograph.",
+          "creator": "Fletcher6",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "d1da490d2489431b255fedfb47ed16b2b1a9d404b2ed9a9060721c579ad98e44"
+        }
+      ]
+    },
+    {
+      "id": "FOR-ESCORT-RST-S1-BASE1985",
+      "manufacturer": "Ford",
+      "model_family": "Escort",
+      "generation": "MkIII original front-drive production-road sporting hatchback family",
+      "variant": "RS Turbo Series 1 — 1984 introduction / original 1985 base recognition",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door sports hatchback",
+      "road_legal": 1,
+      "specification_market": "Original MkIII / Series 1 production-road programme, introduced in 1984 according to Ford’s retrospective, with base mechanical reference from manufacturer form A-5272. Actual cover stamps June 1, 1985; portal metadata instead says June 2. Neither is a photographed chassis date. Actual 1597.2 cc is kept separate from the form’s 2236.1 cc turbo-equivalent competition capacity. Five-speed main manual column only; no additional competition gearbox, alternative final drive, minimum weight, brake option or later extension is imported. Ford retrospective supplies road output in native PS, road torque and original turbo/compression details; no bhp conversion.",
+      "summary": "The Series 1 Escort RS Turbo carried Ford SVE development into a front-drive performance hatchback intended as a Group A competition basis. Its intercooled turbo engine, electronic boost/ignition control and standard viscous limited-slip differential distinguish the engineering from an ordinary Escort. One MkIII sporting-road family is counted; XR3i/RS1600i badges, model years and competition preparations do not add entries.",
+      "admission_reason": "The Series 1 Escort RS Turbo carried Ford SVE development into a front-drive performance hatchback intended as a Group A competition basis. Its intercooled turbo engine, electronic boost/ignition control and standard viscous limited-slip differential distinguish the engineering from an ordinary Escort. One MkIII sporting-road family is counted; XR3i/RS1600i badges, model years and competition preparations do not add entries.",
+      "sources": [
+        {
+          "publisher": "Ford / FIA Historic Database",
+          "title": "Escort RS Turbo — original manufacturer recognition A-5272, June 1, 1985",
+          "source_type": "Original manufacturer production recognition form",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601061601/homologation_form_number_5272_group_a.pdf",
+          "notes": "Original MkIII / Series 1 production-road programme, introduced in 1984 according to Ford’s retrospective, with base mechanical reference from manufacturer form A-5272. Actual cover stamps June 1, 1985; portal metadata instead says June 2. Neither is a photographed chassis date. Actual 1597.2 cc is kept separate from the form’s 2236.1 cc turbo-equivalent competition capacity. Five-speed main manual column only; no additional competition gearbox, alternative final drive, minimum weight, brake option or later extension is imported. Ford retrospective supplies road output in native PS, road torque and original turbo/compression details; no bhp conversion."
+        },
+        {
+          "publisher": "Ford / FordFan reproduced release",
+          "title": "50 Jahre Dampf unter der Haube — RS history, July 31, 2018",
+          "source_type": "Manufacturer historical release, reproduced",
+          "url": "https://www.fordfan.de/hintergrundinfos/2018/07/31/50-jahre-dampf-unter-der-haube-die-ford-rs-modelle-feiern-geburtstag",
+          "notes": "Actual complete Escort III RS Turbo section read, explicitly credited to Ford. Documents SVE development, Group A production-basis intent, original 132 PS, 180 Nm at 3000 rpm, 8.3:1 compression, Garrett AirResearch T3 with intercooling, Bosch KE-Jetronic and standard viscous differential lock acting on the front wheels. The planned 5000 is not treated as a final production total; no absolute first-turbo-Ford or all-white-without-exceptions claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1985 Ford Escort RS Turbo.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1985_Ford_Escort_RS_Turbo.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Downloaded rendition copied unchanged. Attribution and applicable share-alike terms retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-stroke inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1597.2",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, transverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Liquid cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch KE-Jetronic injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft, toothed-belt drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual; original main column, no additional competition gearset",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unitary construction with plastic mouldings",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "132",
+          "unit": "PS",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "180",
+          "unit": "Nm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.3:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett AirResearch T3 turbocharger with intercooling",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Viscous limited-slip differential — standard",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Fully electronic mapped ignition and boost control",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Series 1 Escort RS Turbo carried Ford SVE development into a front-drive performance hatchback intended as a Group A competition basis. Its intercooled turbo engine, electronic boost/ignition control and standard viscous limited-slip differential distinguish the engineering from an ordinary Escort. One MkIII sporting-road family is counted; XR3i/RS1600i badges, model years and competition preparations do not add entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_escort_rst_s1_base1985.jpg",
+          "caption": "Ford Escort RS Turbo Series 1 at the 2021 Goodwood Festival of Speed, photographed by MrWalkr; the source labels it 1985. Representative original road-body hatchback. Exact engine originality, boost calibration, gearbox, ancillary equipment and equivalence to the base recognition form are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d7b203f7ecf7d23335cb3d765ae7cf1f2653ddadad3b1da3e01e539cc33c0f9d"
+        }
+      ]
+    }
+  ]
+}

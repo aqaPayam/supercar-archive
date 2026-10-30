@@ -1,0 +1,681 @@
+{
+  "batch": "icons-road-2026-10-29-30",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 5,
+  "cars": [
+    {
+      "id": "AUS-HEALEY-100-BN1",
+      "manufacturer": "Austin-Healey",
+      "model_family": "100",
+      "generation": "Original four-cylinder BN1 100 roadster family",
+      "variant": "100 BN1 — original English brochure 1040/E",
+      "model_year_from": 1953,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original Austin Motor Company English sales brochure, publication 1040/E, hosted as 1953. Five scanned PDF pages; contact sheet and specification PDF4 visually read. Selected BN1 three-speed/overdrive reference; not BN2 four-speed, 100M Le Mans kit, aluminium 100S, six-cylinder 100/6 or 3000. Native 90 bhp at 4000 rpm and 150 lb-ft at 2000 rpm retained. Printed Autocar performance extracts are road-test results and are not relabelled as factory claims. Museum 100M page supplies general model history only, not its 110 bhp or racing equipment.",
+      "summary": "The original Austin-Healey 100 established the Big Healey sports-car line, combining a Healey-designed two-seat body with Austin four-cylinder power. Its success in North America and the family’s competition and record-breaking development made it a defining British sports-car export of the 1950s.",
+      "admission_reason": "The original Austin-Healey 100 established the Big Healey sports-car line, combining a Healey-designed two-seat body with Austin four-cylinder power. Its success in North America and the family’s competition and record-breaking development made it a defining British sports-car export of the 1950s.",
+      "sources": [
+        {
+          "publisher": "Austin Motor Company / Auto-Brochures hosted facsimile",
+          "title": "Austin-Healey 100 — original English sales brochure 1040/E",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/austin-healey/Austin-Healey_int%20100_1953.pdf",
+          "notes": "Original Austin Motor Company English sales brochure, publication 1040/E, hosted as 1953. Five scanned PDF pages; contact sheet and specification PDF4 visually read. Selected BN1 three-speed/overdrive reference; not BN2 four-speed, 100M Le Mans kit, aluminium 100S, six-cylinder 100/6 or 3000. Native 90 bhp at 4000 rpm and 150 lb-ft at 2000 rpm retained. Printed Autocar performance extracts are road-test results and are not relabelled as factory claims. Museum 100M page supplies general model history only, not its 110 bhp or racing equipment."
+        },
+        {
+          "publisher": "National Motor Museum",
+          "title": "Austin-Healey 100M — collection history of the original 100 family",
+          "source_type": "Museum collection account; family history only",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/austin-healey-100m/",
+          "notes": "Museum account supports 1952 Healey/Austin agreement, original 100’s US success and subsequent 100/6/3000 lineage. The collection 100M’s 1956 identity, 110 bhp and 118 mph do not become the selected standard BN1 specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1954 Austin-Healey 100-4 (BN1) in black, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1954_Austin-Healey_100-4_(BN1)_in_black,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder OHV; cast-iron cylinder head; pushrod valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2660",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed manual with electrically controlled overdrive on second and top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU carburettors supplied by an SU electrical pump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front coil springs and hydraulic dampers; rear semi-elliptic springs and hydraulic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling hydraulic drum brakes; 11-inch drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Folding windscreen with raised and lowered positions",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure notation",
+          "value": "90",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, at 2000 rpm",
+          "value": "150",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Austin-Healey 100 established the Big Healey sports-car line, combining a Healey-designed two-seat body with Austin four-cylinder power. Its success in North America and the family’s competition and record-breaking development made it a defining British sports-car export of the 1950s.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aus_healey_100_bn1.jpg",
+          "caption": "Austin-Healey 100 BN1 in black, identified by the photographer as approximately 1954, at Autosports Designs in Huntington, New York. Represents the narrow four-cylinder road body with standard-style bonnet and folding windscreen. Exact year, installed three-speed gearbox, tune and originality are not certified. Not a 100M/100S or six-cylinder 100/6.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8cb49e819066369f4ab13be829deefed1d1e15f4af014823b7d6b4065aa97c1a"
+        }
+      ]
+    },
+    {
+      "id": "MG-MGA-TWINCAM-ROAD",
+      "manufacturer": "MG",
+      "model_family": "MGA",
+      "generation": "Original MGA Twin Cam high-performance road family",
+      "variant": "Twin Cam roadster — AKD879B third-edition handbook",
+      "model_year_from": 1958,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original MG Series MGA Twin Cam Driver’s Handbook, AKD879B, Third Edition, MG Car Company/Nuffield Exports. 37 scanned PDF spreads; first 20 contact sheet and title PDF2, printed pages 4–5/PDF4 and wheel illustration PDF20 read individually. Selected high-compression 9.9:1 roadster reference, not later 8.3:1 tune, standard pushrod 1500/1600, De Luxe, fixed-head coupe or Sebring racer. No power or acceleration is invented from the handbook; the club model-profile PDF has an apparent 9700 rpm typo and is not used as technical evidence.",
+      "summary": "The MGA Twin Cam brought a dedicated double-overhead-cam engine and four-wheel disc brakes to MG’s post-war sports-car programme. Developed to recover serious sporting performance beyond the pushrod B-series, it is an important engineering chapter within the enduring MGA roadster family.",
+      "admission_reason": "The MGA Twin Cam brought a dedicated double-overhead-cam engine and four-wheel disc brakes to MG’s post-war sports-car programme. Developed to recover serious sporting performance beyond the pushrod B-series, it is an important engineering chapter within the enduring MGA roadster family.",
+      "sources": [
+        {
+          "publisher": "MG Car Company / MGA Guru hosted facsimile",
+          "title": "MGA Twin Cam — original MG driver’s handbook AKD879B, Third Edition",
+          "source_type": "Period manufacturer driver’s handbook",
+          "url": "https://mgaguru.com/mgtech/books/pdf/Drivers_Handbook_TwinCam.pdf",
+          "notes": "Original MG Series MGA Twin Cam Driver’s Handbook, AKD879B, Third Edition, MG Car Company/Nuffield Exports. 37 scanned PDF spreads; first 20 contact sheet and title PDF2, printed pages 4–5/PDF4 and wheel illustration PDF20 read individually. Selected high-compression 9.9:1 roadster reference, not later 8.3:1 tune, standard pushrod 1500/1600, De Luxe, fixed-head coupe or Sebring racer. No power or acceleration is invented from the handbook; the club model-profile PDF has an apparent 9700 rpm typo and is not used as technical evidence."
+        },
+        {
+          "publisher": "MG Car Club MGA Twin Cam Group",
+          "title": "Development History",
+          "source_type": "Marque model-group development archive",
+          "url": "https://www.mgcc.co.uk/mga-twin-cam-group/development-history/",
+          "notes": "Marque group archive supports 1958 introduction, dedicated B-series-derived twin-cam development and sporting purpose. Used for history; current survivor counts and discussion of racing/tuning are not the selected road specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Paris - Bonhams 2014 - MGA Twin Cam Roadster - 1959 - 002.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2014_-_MGA_Twin_Cam_Roadster_-_1959_-_002.jpg",
+          "notes": "Thesupermat; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder engine with twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1588",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.9:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; synchromesh on second, third and fourth; one reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "5.90–15 Road Speed",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "3.96",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio",
+          "value": "4.3:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The MGA Twin Cam brought a dedicated double-overhead-cam engine and four-wheel disc brakes to MG’s post-war sports-car programme. Developed to recover serious sporting performance beyond the pushrod B-series, it is an important engineering chapter within the enduring MGA roadster family.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mg_mga_twincam_road.jpg",
+          "caption": "1959 MGA Twin Cam roadster at the 2014 Bonhams Grand Palais sale in Paris. Twin Cam rear badge and centre-lock disc wheels represent the intended road variant; current exhaust and trim do not certify engine internals, 9.9:1 compression or mechanical originality. Not a De Luxe conversion or Sebring racer claimed as factory standard.",
+          "creator": "Thesupermat",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c42265ca91b7ebd4861a0db46e3cdc6bee3a8f59d1efa85145473fabe076d764"
+        }
+      ]
+    },
+    {
+      "id": "DAI-SP250-BASE1960",
+      "manufacturer": "Daimler",
+      "model_family": "SP250",
+      "generation": "Original Edward Turner V8 fibreglass sports roadster family",
+      "variant": "SP250 — May 1960 base production application, manual",
+      "model_year_from": 1960,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door fibreglass open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Original Daimler/RAC production application, FIA 20 GT, 14-page file. Cover/engine/transmission/chassis/options and production certificate PDF1/3/5/6/8/10 visually read. Certificate dated 22 June 1960 states that in excess of 600 cars matching the application of 12 May were completed on 11 May, at least 33% with optional wire wheels. Base 2548 cc controls over other retrospective rounding. Cast-iron block is explicit: heritage wording about all-aluminium engines is not imported. Selected original manual base, not prototype 100002, later reinforced B/C-spec, automatic, steering/engine swaps or competition equipment. No unprinted power rating is invented.",
+      "summary": "The SP250 marked a radical sporting departure for Daimler, combining Edward Turner’s compact V8 with a fibreglass roadster body and four-wheel disc brakes. Its engine design and unusual break from the marque’s formal saloons make it a distinctive British performance-car landmark.",
+      "admission_reason": "The SP250 marked a radical sporting departure for Daimler, combining Edward Turner’s compact V8 with a fibreglass roadster body and four-wheel disc brakes. Its engine design and unusual break from the marque’s formal saloons make it a distinctive British performance-car landmark.",
+      "sources": [
+        {
+          "publisher": "Daimler Company / RAC / FIA Historic Database",
+          "title": "Daimler SP250 — original manufacturer/RAC production application and 22 June 1960 certificate",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601080201/homologation_form_number_20_group_gt.pdf",
+          "notes": "Original Daimler/RAC production application, FIA 20 GT, 14-page file. Cover/engine/transmission/chassis/options and production certificate PDF1/3/5/6/8/10 visually read. Certificate dated 22 June 1960 states that in excess of 600 cars matching the application of 12 May were completed on 11 May, at least 33% with optional wire wheels. Base 2548 cc controls over other retrospective rounding. Cast-iron block is explicit: heritage wording about all-aluminium engines is not imported. Selected original manual base, not prototype 100002, later reinforced B/C-spec, automatic, steering/engine swaps or competition equipment. No unprinted power rating is invented."
+        },
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1959 Daimler SP250 Dart XHP438 — prototype and production history",
+          "source_type": "Manufacturer heritage collection history",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1959-daimler-sp250-prototype-chassis-100002-registration-xhp-438/",
+          "notes": "Trust account supports Turner design, US sports-car purpose, fibreglass/disc-brake departure and subsequent chassis development. The surviving prototype’s identity and later restored condition are not this production reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1962 Daimler SP250 (54167257877).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1962_Daimler_SP250_(54167257877).jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1962 Daimler SP250"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8; cast-iron cylinder block and aluminium heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2548",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven camshaft high in cylinder block; pushrod valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU HD6 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Daimler four-speed manual with one reverse; selected without optional overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic discs front and rear; no servo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front coil springs and telescopic dampers; live rear axle with semi-elliptic springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2/4, as stated in the production application",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SP250 marked a radical sporting departure for Daimler, combining Edward Turner’s compact V8 with a fibreglass roadster body and four-wheel disc brakes. Its engine design and unusual break from the marque’s formal saloons make it a distinctive British performance-car landmark.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dai_sp250_base1960.jpg",
+          "caption": "1962 Daimler SP250 displayed at InterClassics Brussels 2024 with the roadster body, hood and current wire wheels. Represents the production family; exterior appearance does not certify the 1960 base chassis reinforcement, manual gearbox, carburettors or tune. Not the surviving 1959 prototype or SP252.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "20b71509c9776f6831b1f70aa1865e53517676d6121acc95df2a42105e8dfb35"
+        }
+      ]
+    },
+    {
+      "id": "VOL-P1800-US1961",
+      "manufacturer": "Volvo",
+      "model_family": "P1800",
+      "generation": "Original Jensen-assembled B18-powered Volvo sports coupe",
+      "variant": "P1800 — February 1961 USA brochure, four-speed manual",
+      "model_year_from": 1961,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original AB Volvo USA brochure RK131/3, footer 2.61, 100000 USA; two-page scan. Both-page contact sheet and full specification PDF2 visually read. Selected original 1.78-litre, 100 SAE bhp at 5500 rpm, 108 lb-ft at 4000 rpm and four-speed without optional OD. No invented SAE-net/kW conversion or substitution of later 108/115/120-hp, 2.0-litre, injected E, automatic or ES-estate data. Contemporary American import/distributor footer defines market. Factory current overview is used for design/TV/assembly history, not to combine its broad model-range technical alternatives.",
+      "summary": "The P1800 gave Volvo a distinctive international sports-car identity through Pelle Petterson’s Italian-influenced coupe design and its association with Simon Templar in The Saint. The original Jensen-assembled, B18-powered car established a durable grand-touring icon that developed through the later 1800S and 1800E.",
+      "admission_reason": "The P1800 gave Volvo a distinctive international sports-car identity through Pelle Petterson’s Italian-influenced coupe design and its association with Simon Templar in The Saint. The original Jensen-assembled, B18-powered car established a durable grand-touring icon that developed through the later 1800S and 1800E.",
+      "sources": [
+        {
+          "publisher": "AB Volvo / Auto-Brochures hosted facsimile",
+          "title": "Volvo P1800 — original USA brochure RK131/3, February 1961",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Volvo/P1800/Volvo_US%20P1800_1961.pdf",
+          "notes": "Original AB Volvo USA brochure RK131/3, footer 2.61, 100000 USA; two-page scan. Both-page contact sheet and full specification PDF2 visually read. Selected original 1.78-litre, 100 SAE bhp at 5500 rpm, 108 lb-ft at 4000 rpm and four-speed without optional OD. No invented SAE-net/kW conversion or substitution of later 108/115/120-hp, 2.0-litre, injected E, automatic or ES-estate data. Contemporary American import/distributor footer defines market. Factory current overview is used for design/TV/assembly history, not to combine its broad model-range technical alternatives."
+        },
+        {
+          "publisher": "Volvo Cars",
+          "title": "P1800 (1961–1973) — model overview and development history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.volvocars.com/uk/media/models/p1800/1961/",
+          "notes": "Factory account supports Pelle Petterson styling, Jensen/Pressed Steel production, 1963 assembly transfer and The Saint television association. Later S/E/ES specifications and inconsistent broad-range dates/seat notation are not substituted for the period US table."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volvo P1800 1961.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volvo_P1800_1961.jpg",
+          "notes": "Herranderssvensson; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder overhead-valve petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.78",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin 1¾-inch horizontal carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed fully synchronised manual; selected without optional electrical overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Integral all-welded steel body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "Two plus two occasional seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front coils/control arms; rear coil-sprung axle with support arms, torque arms and track rod",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native SAE brochure notation",
+          "value": "100",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, at 4000 rpm",
+          "value": "108",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The P1800 gave Volvo a distinctive international sports-car identity through Pelle Petterson’s Italian-influenced coupe design and its association with Simon Templar in The Saint. The original Jensen-assembled, B18-powered car established a durable grand-touring icon that developed through the later 1800S and 1800E.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vol_p1800_us1961.jpg",
+          "caption": "1961 Volvo P1800 at Tjolöholm Classic Motor 2009, with early curved bumpers and Jensen-era road-coupe body. Open bonnet/current engine-bay appearance, equipment and registration do not certify the selected US SAE rating or four-speed without optional overdrive. Not a later injected E or ES estate.",
+          "creator": "Herranderssvensson",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "dcbda0dfbf61a5b19048b26ae4c24715a7c13276c8e4231e6c04853454783b90"
+        }
+      ]
+    },
+    {
+      "id": "ALF-GIULIETTA-SS-1290",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Giulietta Sprint Speciale",
+      "generation": "Original Bertone 1290-cc Sprint Speciale road coupe family",
+      "variant": "Giulietta Sprint Speciale — FIA 122 base 1290-cc road reference",
+      "model_year_from": 1959,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door aerodynamic grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Alfa Romeo/Automobile Club d’Italia base application CSAI AR 13, FIA 122 GT; 14-page file. Cover and base engine/cam/gearbox/performance PDF1/3/4/6/7 individually read after full contact sheet. Declared 1290 cc, 100 DIN CV at 6500 rpm, twin cams and five speeds are retained. No claimed 200 km/h figure is used because factory retrospective gives a different road-speed narrative. Later valve/ratio extensions, Zagato SVZ/SZ and 1600-cc Giulia Sprint Speciale data are excluded. Body/photo illustrates the original Giulietta road family, not an additional first-series/body revision count.",
+      "summary": "The Giulietta Sprint Speciale translated Franco Scaglione’s aerodynamic design work for Bertone into an exceptional road coupe. A streamlined body, alloy twin-cam four and five-speed gearbox made it a distinctive small-capacity high-performance GT, positioned for long-distance road driving rather than the lighter Zagato competition role.",
+      "admission_reason": "The Giulietta Sprint Speciale translated Franco Scaglione’s aerodynamic design work for Bertone into an exceptional road coupe. A streamlined body, alloy twin-cam four and five-speed gearbox made it a distinctive small-capacity high-performance GT, positioned for long-distance road driving rather than the lighter Zagato competition role.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo / Automobile Club d’Italia / FIA Historic Database",
+          "title": "Giulietta Sprint Speciale — original Alfa Romeo/ACI base production application AR 13, FIA 122GT",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1600931701/homologation_form_number_122_group_gt.pdf",
+          "notes": "Original Alfa Romeo/Automobile Club d’Italia base application CSAI AR 13, FIA 122 GT; 14-page file. Cover and base engine/cam/gearbox/performance PDF1/3/4/6/7 individually read after full contact sheet. Declared 1290 cc, 100 DIN CV at 6500 rpm, twin cams and five speeds are retained. No claimed 200 km/h figure is used because factory retrospective gives a different road-speed narrative. Later valve/ratio extensions, Zagato SVZ/SZ and 1600-cc Giulia Sprint Speciale data are excluded. Body/photo illustrates the original Giulietta road family, not an additional first-series/body revision count."
+        },
+        {
+          "publisher": "Alfa Romeo",
+          "title": "60 Jahre Alfa Romeo Giulietta — Sprint Speciale aerodynamic development",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.media.stellantis.com/de-de/alfa-romeo/press/60-jahre-alfa-romeo-giulietta-ein-modell-revolutioniert-eine-marke",
+          "notes": "Factory 2014 history section Sprint Speciale identifies Scaglione/Bertone design, streamlined body, 1.3-litre performance and long-distance GT positioning. General Sprint/SVZ/Spider racing results and later Giulia 1600 power do not become SS road specifications. Accessible web-reader text was read; local 403 route was not bypassed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1959 Alfa Romeo Giulietta SS 1300 (15929396314).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1959_Alfa_Romeo_Giulietta_SS_1300_(15929396314).jpg",
+          "notes": "Andrew Bone from Weymouth, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1959 Alfa Romeo Giulietta SS 1300"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four with aluminium block and cylinder head; wet cast-iron liners",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1290",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "Approximately 9.7:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts driven by two chains",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two horizontal twin-choke Weber 40DCO3 or 40DCOE carburettors, as declared",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed mechanical synchromesh gearbox; floor lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic drum brakes; base file permits two interchangeable drum assemblies",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native declared DIN notation",
+          "value": "100",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Giulietta Sprint Speciale translated Franco Scaglione’s aerodynamic design work for Bertone into an exceptional road coupe. A streamlined body, alloy twin-cam four and five-speed gearbox made it a distinctive small-capacity high-performance GT, positioned for long-distance road driving rather than the lighter Zagato competition role.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_giulietta_ss_1290.jpg",
+          "caption": "Alfa Romeo Giulietta SS1300 identified as 1959, photographed at a Beaulieu rally in the 1990s. Represents the original Bertone road-coupe family. Current restoration/body details, year and exterior do not establish a particular low-nose revision, installed 1290-cc engine or FIA-base tune. No 1600-cc Giulia or Zagato specification is inferred.",
+          "creator": "Andrew Bone from Weymouth, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fa0b96d87af6f945f8783dd0c308d0ff75466e9af66141266e14a273fd649e9b"
+        }
+      ]
+    }
+  ]
+}

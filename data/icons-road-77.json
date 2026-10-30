@@ -1,0 +1,334 @@
+{
+  "batch": "icons-road-2026-10-30-77",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "AMC-REBEL-MACHINE-390-TEST1970",
+      "manufacturer": "AMC",
+      "model_family": "Rebel",
+      "generation": "Original 1967–1970 AMC Rebel production-road family",
+      "variant": "The Machine 390 four-speed, optional 3.91 limited-slip — February 1970 road-test reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Steve Kelly’s February 1970 Hot Rod road-test configuration, not every Machine’s standard equipment. The tested optional 3.91 limited-slip differs from the standard 3.54 axle. Stock camshaft retained; dealer performance cam, richer carburetion, ignition advance and stiffer-shock suggestions are excluded. Prior worn test-car bushings are not a factory feature. No quarter-mile, weight, production count or modern hp standard is inferred; colours, gearbox options and dealer upgrades add no counts.",
+      "summary": "The Machine captures AMC’s distinctive contribution to the American muscle-car era: a dedicated 390 V8 road package with revised induction/exhaust, a functional fresh-air hood and upgraded chassis equipment. Its historical sporting identity earns one original Rebel family entry. The contemporary test’s excellent-brake assessment is retained alongside criticism of handling, shift quality and presentation; period significance does not imply flawless execution.",
+      "admission_reason": "The Machine captures AMC’s distinctive contribution to the American muscle-car era: a dedicated 390 V8 road package with revised induction/exhaust, a functional fresh-air hood and upgraded chassis equipment. Its historical sporting identity earns one original Rebel family entry. The contemporary test’s excellent-brake assessment is retained alongside criticism of handling, shift quality and presentation; period significance does not imply flawless execution.",
+      "sources": [
+        {
+          "publisher": "Hot Rod / Steve Kelly; facsimile hosted by Over-Drive Magazine",
+          "title": "Too Much of a Rebel — Steve Kelly, Hot Rod, February 1970, pages 52–53",
+          "source_type": "Contemporary first-hand road test, scanned facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2026/04/1970-02-HR-1970-Rebel-Machine-Intro-and-Test-1-2.pdf",
+          "notes": "Steve Kelly’s February 1970 Hot Rod road-test configuration, not every Machine’s standard equipment. The tested optional 3.91 limited-slip differs from the standard 3.54 axle. Stock camshaft retained; dealer performance cam, richer carburetion, ignition advance and stiffer-shock suggestions are excluded. Prior worn test-car bushings are not a factory feature. No quarter-mile, weight, production count or modern hp standard is inferred; colours, gearbox options and dealer upgrades add no counts."
+        },
+        {
+          "publisher": "Hot Rod / Steve Kelly",
+          "title": "AMC’s Rebel Machine Wasn’t the Supercar It Could’ve Been — original February 1970 article republished 22 May 2024",
+          "source_type": "Publisher archive of the same contemporary road test",
+          "url": "https://www.hotrod.com/features/too-much-of-a-rebel-february-1970-982-652-52-1",
+          "notes": "Actual publisher archive body read and compared with the scanned original. Criticism and test-specific options remain explicit; OCR-corrupted strings are resolved only where visually legible in the scan."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 AMC Rebel \"Machine\" all-original in Bittersweet Orange at 2017 AMO meet 2of7.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_AMC_Rebel_%22Machine%22_all-original_in_Bittersweet_Orange_at_2017_AMO_meet_2of7.jpg",
+          "notes": "Christopher Ziemnowicz (CZmarlin); CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "390 cubic-inch V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Hydraulic lifters; 1.6:1 rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single Carter four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with Hurst shifter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Optional limited-slip differential and 3.91:1 final drive, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitized body/frame construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Vacuum-assisted Bendix front discs and 10-inch rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent unequal-length arms and coil springs front; four-link rear with coil springs; front and rear stabilizers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "390",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "340",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "430",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fresh-air intake",
+          "value": "Vacuum-operated hood inlet feeding the carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "114",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Machine captures AMC’s distinctive contribution to the American muscle-car era: a dedicated 390 V8 road package with revised induction/exhaust, a functional fresh-air hood and upgraded chassis equipment. Its historical sporting identity earns one original Rebel family entry. The contemporary test’s excellent-brake assessment is retained alongside criticism of handling, shift quality and presentation; period significance does not imply flawless execution.",
+          "category": "Historical significance",
+          "confidence": "Contemporary road-test documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amc_rebel_machine_390_test1970.jpg",
+          "caption": "1970 AMC Rebel Machine photographed by Christopher Ziemnowicz (CZmarlin) at the AMO convention in Gettysburg, Pennsylvania, in 2017. Representative Bittersweet Orange road-car front, distinct from the white test car; the file’s all-original description does not certify engine tune, gearbox, axle or unchanged factory equipment.",
+          "creator": "Christopher Ziemnowicz (CZmarlin)",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "758331b0060c41767f6b94a4ac2e6202826c4300d5025be96607f52bc086fe35"
+        }
+      ]
+    },
+    {
+      "id": "DOD-DART-GTS340-AUTO-TEST1968",
+      "manufacturer": "Dodge",
+      "model_family": "Dart",
+      "generation": "Fourth-generation 1967–1976 US Dart production-road family",
+      "variant": "GTS 340 TorqueFlite, 3.55 Sure-Grip — April 1968 road-test reference",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "Steve Kelly’s April 1968 Hot Rod test, 340 automatic with optional 3.55 Sure-Grip. Automatic cam differs from manual; no manual cam figures are transferred. Its quicker drag runs removed the air-filter element/top and are not stock performance. Timing/linkage tuning suggestions, 383 weight/tune, competition Hemi equipment, later Swinger variants and cosmetic editions are excluded. Native hp/lb-ft retained without invented modern net/gross standard.",
+      "summary": "The Dart GTS established a potent compact-muscle formula around Chrysler’s 340 V8, with strong straight-line performance and capable road manners in a smaller package. A contemporary extended test praised its handling and braking while identifying fuel-starvation and seating faults. One original US Dart family is admitted for that sporting identity; big-block options, Swinger names, Hemi competition cars and paint do not add counts.",
+      "admission_reason": "The Dart GTS established a potent compact-muscle formula around Chrysler’s 340 V8, with strong straight-line performance and capable road manners in a smaller package. A contemporary extended test praised its handling and braking while identifying fuel-starvation and seating faults. One original US Dart family is admitted for that sporting identity; big-block options, Swinger names, Hemi competition cars and paint do not add counts.",
+      "sources": [
+        {
+          "publisher": "Hot Rod / Steve Kelly; facsimile hosted by Over-Drive Magazine",
+          "title": "Runnin’ with the Pack — Steve Kelly, Hot Rod, April 1968, pages 36–38",
+          "source_type": "Contemporary first-hand extended road test, scanned facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2024/11/1968-04-HR-Dart-GTS-340-Test-1-3A.pdf",
+          "notes": "Steve Kelly’s April 1968 Hot Rod test, 340 automatic with optional 3.55 Sure-Grip. Automatic cam differs from manual; no manual cam figures are transferred. Its quicker drag runs removed the air-filter element/top and are not stock performance. Timing/linkage tuning suggestions, 383 weight/tune, competition Hemi equipment, later Swinger variants and cosmetic editions are excluded. Native hp/lb-ft retained without invented modern net/gross standard."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1968 Dodge Dart GTS (18157975260).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1968_Dodge_Dart_GTS_(18157975260).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1968 Dodge Dart GTS. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "340 overhead-valve V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Hydraulic tappets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Carter AVS four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "TorqueFlite three-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Sure-Grip limited-slip differential, optional 3.55:1 axle as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front control arms with torsion bars; parallel semi-elliptic rear leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "340",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "275",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "340",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "111",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Dart GTS established a potent compact-muscle formula around Chrysler’s 340 V8, with strong straight-line performance and capable road manners in a smaller package. A contemporary extended test praised its handling and braking while identifying fuel-starvation and seating faults. One original US Dart family is admitted for that sporting identity; big-block options, Swinger names, Hemi competition cars and paint do not add counts.",
+          "category": "Historical significance",
+          "confidence": "Contemporary road-test documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_dart_gts340_auto_test1968.jpg",
+          "caption": "1968 Dodge Dart GTS photographed by Greg Gjerdingen at Midwest Mopars in the Park in Farmington, Minnesota, in 2015. Representative original-family hardtop body carrying 383 badges and aftermarket-looking wheels; it is not the selected 340 test car and does not certify its engine, transmission or factory originality.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2864a2af29d122918da42173b024685e7c2c759de4c4be2fd00f8fdf1d86cfee"
+        }
+      ]
+    }
+  ]
+}

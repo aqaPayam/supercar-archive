@@ -1,0 +1,181 @@
+{
+  "batch": "icons-road-2026-10-30-89",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "TOY-GR86-RZ-JP2021-6MT",
+      "manufacturer": "Toyota",
+      "model_family": "GR86",
+      "generation": "Second-generation 86 / BRZ production-road sports-coupe programme",
+      "variant": "RZ six-speed manual — Japan October 2021 launch",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door sports coupe",
+      "road_legal": 1,
+      "specification_market": "Japan production launch of October 28, 2021; RZ six-speed manual reference. The year field identifies the Japanese launch year, not a North American model-year designation. Manufacturer output is 173 kW (235 PS) at 7000 rpm and 250 Nm at 3700 rpm. Displacement 2.387 litres is converted exactly to 2387 cc by multiplying by 1000. Shared engine/chassis fields and the manual gearbox are selected; AT-only launch EyeSight/SPORT mode, optional GR PARTS, other-market output, acceleration, weight and grade-specific tyres are not imported. The second-generation BRZ counterpart remains within this one programme.",
+      "summary": "The GR86 advances the lightweight, front-engine/rear-drive 86 sports-coupe concept with a larger 2.4-litre boxer, a newly developed body and increased rigidity while retaining a six-speed manual and driver-focused chassis. It represents the second-generation Toyota/Subaru 86/BRZ road programme, distinct from the original 2.0-litre GT86 already preserved. Count this shared generation once; Subaru badges, grades, transmissions, anniversaries and model years do not add separate entries.",
+      "admission_reason": "The GR86 advances the lightweight, front-engine/rear-drive 86 sports-coupe concept with a larger 2.4-litre boxer, a newly developed body and increased rigidity while retaining a six-speed manual and driver-focused chassis. It represents the second-generation Toyota/Subaru 86/BRZ road programme, distinct from the original 2.0-litre GT86 already preserved. Count this shared generation once; Subaru badges, grades, transmissions, anniversaries and model years do not add separate entries.",
+      "sources": [
+        {
+          "publisher": "Toyota Motor Corporation / TOYOTA GAZOO Racing",
+          "title": "TOYOTA GAZOO Racing Launches the All-New GR86 — October 28, 2021",
+          "source_type": "Manufacturer production-launch release and specifications",
+          "url": "https://global.toyota/en/newsroom/toyota/36247827.html",
+          "notes": "Japan production launch of October 28, 2021; RZ six-speed manual reference. The year field identifies the Japanese launch year, not a North American model-year designation. Manufacturer output is 173 kW (235 PS) at 7000 rpm and 250 Nm at 3700 rpm. Displacement 2.387 litres is converted exactly to 2387 cc by multiplying by 1000. Shared engine/chassis fields and the manual gearbox are selected; AT-only launch EyeSight/SPORT mode, optional GR PARTS, other-market output, acceleration, weight and grade-specific tyres are not imported. The second-generation BRZ counterpart remains within this one programme."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "2023 Subaru BRZ and Toyota GR86: Car and Driver 10Best — Ezra Dyer, December 19, 2022",
+          "source_type": "Independent performance-car award editorial",
+          "url": "https://www.caranddriver.com/features/a42243915/10best-2023-subaru-brz-toyota-gr86/",
+          "notes": "Actual award editorial read. Independent recognition of the jointly reviewed BRZ/GR86 programme as a 2023 10Best winner supports its performance-icon admission. Only the award is recorded; US output, test results, prices and BRZ Limited weight do not supply the Japan RZ technical fields."
+        },
+        {
+          "publisher": "Toyota (GB)",
+          "title": "GR86 archive — naturally aspirated boxer and GT86 evolution",
+          "source_type": "Manufacturer model archive",
+          "url": "https://media.toyota.co.uk/vehicles/gr86-archive-2021/",
+          "notes": "Actual archive key features read. Supplies only the naturally aspirated character of the new 2.4-litre boxer and contextual evolution from GT86. UK output/weight and UK archive generation wording are not substituted for the selected Japanese production specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2022 Toyota GR86 (47597).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2022_Toyota_GR86_(47597).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Downloaded rendition copied unchanged; attribution and share-alike terms retained. Representative GR86 body only, not authentication of the Japanese RZ manual specification."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "FA24 horizontally opposed four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2387",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "173",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "250",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4S direct and port injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson strut; rear double wishbone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3700",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "94.0 × 86.0",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GR86 advances the lightweight, front-engine/rear-drive 86 sports-coupe concept with a larger 2.4-litre boxer, a newly developed body and increased rigidity while retaining a six-speed manual and driver-focused chassis. It represents the second-generation Toyota/Subaru 86/BRZ road programme, distinct from the original 2.0-litre GT86 already preserved. Count this shared generation once; Subaru badges, grades, transmissions, anniversaries and model years do not add separate entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        },
+        {
+          "title": "Independent recognition",
+          "explanation": "The Subaru BRZ and Toyota GR86 jointly received Car and Driver’s 2023 10Best award.",
+          "category": "Awards",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_toy_gr86_rz_jp2021_6mt.jpg",
+          "caption": "Toyota GR86 front view at a display, photographed by Calreyn88; the source labels the car 2022. Representative second-generation GR86 body. The photograph does not establish Japan-market RZ grade, six-speed manual, exact engine calibration or equipment equivalence to the October 2021 launch reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "325c2860bc933fc1852e1f99b20b1e7efc26843a0fc6c62c36eee26d4524a8bf"
+        }
+      ]
+    }
+  ]
+}

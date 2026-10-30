@@ -1,0 +1,930 @@
+{
+  "batch": "icons-road-2026-10-28-06",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "LAM-350GT-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "350 GT",
+      "generation": "Original Touring production coupe",
+      "variant": "350 GT — production road coupe",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Production 350 GT coupe, not the competition-oriented 350 GTV prototype, 400 GT or Touring Spider. No prototype power, questionable first-ever DOHC claim or disputed production count is transferred. Representative photograph is identified as a 1965 350 GT; 1964 is the model introduction reference.",
+      "summary": "The 350 GT established Lamborghini as a production-car maker, pairing a road-developed Bizzarrini V12 with Touring Superleggera construction and independent suspension.",
+      "admission_reason": "The 350 GT established Lamborghini as a production-car maker, pairing a road-developed Bizzarrini V12 with Touring Superleggera construction and independent suspension.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini 350 GT — production road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lamborghini.com/en-en/history/350-gt",
+          "notes": "Production 350 GT coupe, not the competition-oriented 350 GTV prototype, 400 GT or Touring Spider. No prototype power, questionable first-ever DOHC claim or disputed production count is transferred. Representative photograph is identified as a 1965 350 GT; 1964 is the model introduction reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Lamborghini 350 GT HCC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Lamborghini_350_GT_HCC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Six carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium panels on a lightweight metal frame",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 350 GT established Lamborghini as a production-car maker, pairing a road-developed Bizzarrini V12 with Touring Superleggera construction and independent suspension.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lam_350gt_road.jpg",
+          "caption": "Lamborghini 350 GT — production road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "44826fef7b88e6dee554aeab10d362422d89972cec13a3846adf25e20f4bb8b4"
+        }
+      ]
+    },
+    {
+      "id": "LAM-ESPADA-S2-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Espada",
+      "generation": "Original Espada, Series II reference",
+      "variant": "Espada Series II — five-speed manual",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1971 Series II road coupe with manual, within the manufacturer’s 1970–1972 second series. The retrospective’s 325-CV introduction figure is not assigned to Series II. Optional automatic, power steering, air conditioning and hydropneumatic suspension are not assumed. Photo metadata explicitly identifies a 1971 Series II.",
+      "summary": "The Espada made a full four-seat V12 grand tourer central to Lamborghini’s identity, combining Bertone’s distinctive low roof and glass-tail design with serious long-distance sporting purpose.",
+      "admission_reason": "The Espada made a full four-seat V12 grand tourer central to Lamborghini’s identity, combining Bertone’s distinctive low roof and glass-tail design with serious long-distance sporting purpose.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Espada Series II — five-speed manual — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lamborghini.com/en-en/history/espada",
+          "notes": "1971 Series II road coupe with manual, within the manufacturer’s 1970–1972 second series. The retrospective’s 325-CV introduction figure is not assigned to Series II. Optional automatic, power steering, air conditioning and hydropneumatic suspension are not assumed. Photo metadata explicitly identifies a 1971 Series II."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lamborghini Espada S2 at Pebble Beach Concours 2023.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Espada_S2_at_Pebble_Beach_Concours_2023.jpg",
+          "notes": "Prova MO; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Lamborghini five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Carrozzeria Bertone",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Espada made a full four-seat V12 grand tourer central to Lamborghini’s identity, combining Bertone’s distinctive low roof and glass-tail design with serious long-distance sporting purpose.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lam_espada_s2_road.jpg",
+          "caption": "Lamborghini Espada Series II — five-speed manual — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Prova MO",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6ce34ee455182b7bc5702f5961def6b232d85bdc4eb176fd9c21f55caa93fc9f"
+        }
+      ]
+    },
+    {
+      "id": "LAM-URRACO-P250-ROAD",
+      "manufacturer": "Lamborghini",
+      "model_family": "Urraco",
+      "generation": "Original P250 production series",
+      "variant": "Urraco P250 — 2.5-litre road coupe",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1974 P250 production road reference, not the 1970 show prototype, US P111, P200 or DOHC P300. Manufacturer retrospective gives conflicting start/sale dates; 1974 is a production reference rather than a claimed debut date. Production totals, disputed chronology and broad first-ever suspension claims are withheld. Historical CV is retained without an assumed modern net-kW conversion.",
+      "summary": "The Urraco opened Lamborghini’s V8 lineage, using a compact transverse mid-engine layout and a Bertone wedge body to create a distinct 2+2 sports-car concept.",
+      "admission_reason": "The Urraco opened Lamborghini’s V8 lineage, using a compact transverse mid-engine layout and a Bertone wedge body to create a distinct 2+2 sports-car concept.",
+      "sources": [
+        {
+          "publisher": "Lamborghini",
+          "title": "Lamborghini Urraco P250 — 2.5-litre road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lamborghini.com/en-en/history/urraco",
+          "notes": "1974 P250 production road reference, not the 1970 show prototype, US P111, P200 or DOHC P300. Manufacturer retrospective gives conflicting start/sale dates; 1974 is a production reference rather than a claimed debut date. Production totals, disputed chronology and broad first-ever suspension claims are withheld. Historical CV is retained without an assumed modern net-kW conversion."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lamborghini Urraco P250 fl.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urraco_P250_fl.jpg",
+          "notes": "Herranderssvensson; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse, ahead of the rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per bank, toothed-belt drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.25",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson struts at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Carrozzeria Bertone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "220",
+          "unit": "CV; historical rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Urraco opened Lamborghini’s V8 lineage, using a compact transverse mid-engine layout and a Bertone wedge body to create a distinct 2+2 sports-car concept.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lam_urraco_p250_road.jpg",
+          "caption": "Lamborghini Urraco P250 — 2.5-litre road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Herranderssvensson",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "96633bd942f78ad3b74226411543b78604d282a9f4ca4fa0ec487e931e07eea9"
+        }
+      ]
+    },
+    {
+      "id": "MAS-3500GT-ROAD",
+      "manufacturer": "Maserati",
+      "model_family": "3500 GT",
+      "generation": "Original carburetted Touring coupe",
+      "variant": "3500 GT — carburetted production coupe",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1957 carburetted GT, not Lucas-injected 1961 GTI, five-speed update or Vignale Spyder. Front discs were optional only from 1959 and are not assumed. Ambiguously labelled dry/kerb weight is withheld. English hp is retained without guessing metric/mechanical or gross/net convention. Representative Touring coupe photo does not certify its installed fuel system.",
+      "summary": "The 3500 GT established Maserati’s series-production grand-touring business, translating its racing straight-six heritage into a Touring Superleggera road coupe.",
+      "admission_reason": "The 3500 GT established Maserati’s series-production grand-touring business, translating its racing straight-six heritage into a Touring Superleggera road coupe.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Maserati 3500 GT — carburetted production coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.maserati.com/gb/en/brand/maserati-classic-cars/gran-turismo/3500gt-3500gti",
+          "notes": "Original 1957 carburetted GT, not Lucas-injected 1961 GTI, five-speed update or Vignale Spyder. Front discs were optional only from 1959 and are not assumed. Ambiguously labelled dry/kerb weight is withheld. English hp is retained without guessing metric/mechanical or gross/net convention. Representative Touring coupe photo does not certify its installed fuel system."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Maserati 3500 GT coupé Classic-Gala 2025 DSC 1024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Maserati_3500_GT_coup%C3%A9_Classic-Gala_2025_DSC_1024.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six, double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3485",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Triple Weber carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "215",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular ladder-frame platform",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium body panels over a thin tubular steel body frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "220 at 5500 rpm",
+          "unit": "hp; historical convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 3500 GT established Maserati’s series-production grand-touring business, translating its racing straight-six heritage into a Touring Superleggera road coupe.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_3500gt_road.jpg",
+          "caption": "Maserati 3500 GT — carburetted production coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "756ceed0f40b3bff7037bcde0a8292f0eaa6ffb5091d015e8c6e97a17b2e95ea"
+        }
+      ]
+    },
+    {
+      "id": "MAS-GHIBLI-AM115-ROAD",
+      "manufacturer": "Maserati",
+      "model_family": "Ghibli",
+      "generation": "Original AM115 V8 coupe",
+      "variant": "Ghibli 4.7 — original road coupe",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 4.7-litre AM115 production coupe, delivered from March 1967 after the 1966 show debut; not the later 4.9 SS, Spyder, Biturbo-era Ghibli or modern saloon. Source’s first specification column only. Undefined dry/kerb mass omitted; historical CV retained without assuming modern net power.",
+      "summary": "The original Ghibli united Giugiaro’s defining low grand-tourer silhouette with dry-sump V8 engineering, becoming a landmark of Maserati’s sporting road-car design.",
+      "admission_reason": "The original Ghibli united Giugiaro’s defining low grand-tourer silhouette with dry-sump V8 engineering, becoming a landmark of Maserati’s sporting road-car design.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Maserati Ghibli 4.7 — original road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/ghibli",
+          "notes": "Original 4.7-litre AM115 production coupe, delivered from March 1967 after the 1966 show debut; not the later 4.9 SS, Spyder, Biturbo-era Ghibli or modern saloon. Source’s first specification column only. Undefined dry/kerb mass omitted; historical CV retained without assuming modern net power."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1967 Maserati Ghibli (7707682132).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1967_Maserati_Ghibli_(7707682132).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1967 Maserati Ghibli"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8, double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4719",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "265",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro at Ghia",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel body with aluminium bonnet",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular frame with load-bearing steel floor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "330 at 6000 rpm",
+          "unit": "CV; historical rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Ghibli united Giugiaro’s defining low grand-tourer silhouette with dry-sump V8 engineering, becoming a landmark of Maserati’s sporting road-car design.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_ghibli_am115_road.jpg",
+          "caption": "Maserati Ghibli 4.7 — original road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "66a6615301d3164ae38e91c2c726c5134cab8b14feac32a3e42e03beddda2bbb"
+        }
+      ]
+    },
+    {
+      "id": "MAS-BORA-47-ROAD",
+      "manufacturer": "Maserati",
+      "model_family": "Bora",
+      "generation": "Original AM117 4.7 coupe",
+      "variant": "Bora 4.7 — production road coupe",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "4.7-litre AM117 production road coupe, not 4.9 AM117/49, Merak or competition project. Source’s first specification column only. Hydraulic headlight, seat and pedal controls do not imply hydraulic suspension. Ambiguous dry/kerb mass and historical net-kW conversion are withheld.",
+      "summary": "The Bora was Maserati’s first mid-engined production road car, combining Giugiaro’s fastback design, V8 performance and Citroën high-pressure hydraulic controls.",
+      "admission_reason": "The Bora was Maserati’s first mid-engined production road car, combining Giugiaro’s fastback design, V8 performance and Citroën high-pressure hydraulic controls.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Maserati Bora 4.7 — production road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/bora",
+          "notes": "4.7-litre AM117 production road coupe, not 4.9 AM117/49, Merak or competition project. Source’s first specification column only. Hydraulic headlight, seat and pedal controls do not imply hydraulic suspension. Ambiguous dry/kerb mass and historical net-kW conversion are withheld."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Maserati Bora 4.7 Litres (52676938011).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Maserati_Bora_4.7_Litres_(52676938011).jpg",
+          "notes": "Alexandre Prevot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Maserati Bora 4.7 Litres"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8, double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4719",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "270",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Monocoque body/chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Actuation",
+          "value": "Citroën hydraulic system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "310 at 5200 rpm",
+          "unit": "CV; historical rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Bora was Maserati’s first mid-engined production road car, combining Giugiaro’s fastback design, V8 performance and Citroën high-pressure hydraulic controls.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_bora_47_road.jpg",
+          "caption": "Maserati Bora 4.7 — production road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Alexandre Prevot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "dfcbd0c18ceb00260a22107af1513e8a01e9ae0728be5c6f64f325c032e7ade8"
+        }
+      ]
+    },
+    {
+      "id": "MAS-KHAMSIN-ROAD",
+      "manufacturer": "Maserati",
+      "model_family": "Khamsin",
+      "generation": "Original AM120 production series",
+      "variant": "Khamsin — production V8 road coupe",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "AM120 production road coupe, not Ghibli, a concept or US-specific emissions specification. Manufacturer retrospective supplies general production values, not a separate US market certification. Production totals and mass are not needed for admission; historical CV is not converted to assumed net kW.",
+      "summary": "The Khamsin joined Gandini’s Bertone wedge design with Maserati’s front-V8 grand-touring tradition, independent rear suspension and Citroën-derived variable-assistance steering.",
+      "admission_reason": "The Khamsin joined Gandini’s Bertone wedge design with Maserati’s front-V8 grand-touring tradition, independent rear suspension and Citroën-derived variable-assistance steering.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Maserati Khamsin — production V8 road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/khamsin",
+          "notes": "AM120 production road coupe, not Ghibli, a concept or US-specific emissions specification. Manufacturer retrospective supplies general production values, not a separate US market certification. Production totals and mass are not needed for admission; historical CV is not converted to assumed net kW."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1976 Maserati Khamsin 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1976_Maserati_Khamsin_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8, double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4930",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "270",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Marcello Gandini at Bertone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Self-supporting monocoque with rear subframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent rear suspension with wishbones",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Citroën-derived variable power assistance",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "320 at 5500 rpm",
+          "unit": "CV; historical rating convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Khamsin joined Gandini’s Bertone wedge design with Maserati’s front-V8 grand-touring tradition, independent rear suspension and Citroën-derived variable-assistance steering.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_khamsin_road.jpg",
+          "caption": "Maserati Khamsin — production V8 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "c55de14e0224a3687531d2f9b764250e4dabad8d3dbfbd0a5307bd3f8fe10790"
+        }
+      ]
+    },
+    {
+      "id": "FER-330GTC-ROAD",
+      "manufacturer": "Ferrari",
+      "model_family": "330 GTC",
+      "generation": "Original 330 GTC road coupe",
+      "variant": "330 GTC — Pininfarina V12 road coupe",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1967 330 GTC museum road reference, not 330 GT 2+2, GTS or later 365 GTC. Museum horsepower convention is undefined and is not converted; its maximum-RPM statement is not treated as a power peak. No claim that this model replaced the 500 Superfast is imported.",
+      "summary": "The 330 GTC represents Ferrari and Pininfarina’s classic V12 grand-touring formula, combining a compact two-door coupe with a five-speed manual and a deliberately luxurious cabin.",
+      "admission_reason": "The 330 GTC represents Ferrari and Pininfarina’s classic V12 grand-touring formula, combining a compact two-door coupe with a five-speed manual and a deliberately luxurious cabin.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1967 Ferrari 330 GTC — collection exhibition reference",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/grand-touring-cars-through-the-decade/1967-ferrari-330-gtc",
+          "notes": "1967 330 GTC museum road reference, not 330 GT 2+2, GTS or later 365 GTC. Museum horsepower convention is undefined and is not converted; its maximum-RPM statement is not treated as a power peak. No claim that this model replaced the 500 Superfast is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ferrari 330 GTC, Grand Basel 2018 (Ank kumar, Infosys) 03.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_330_GTC,_Grand_Basel_2018_(Ank_kumar,_Infosys)_03.jpg",
+          "notes": "Ank Kumar; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Leather seats, teak-veneered dashboard and power windows",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "300",
+          "unit": "hp; historical convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 330 GTC represents Ferrari and Pininfarina’s classic V12 grand-touring formula, combining a compact two-door coupe with a five-speed manual and a deliberately luxurious cabin.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_330gtc_road.jpg",
+          "caption": "Ferrari 330 GTC — Pininfarina V12 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Ank Kumar",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "946245365fe9d9ca3755c4ef962b029f5a017ab9451a14b93f6b58855a441d08"
+        }
+      ]
+    }
+  ]
+}

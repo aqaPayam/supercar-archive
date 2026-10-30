@@ -1,0 +1,341 @@
+{
+  "batch": "icons-road-2026-10-30-94",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "HON-CIVIC-EF9-SIR-JP1991",
+      "manufacturer": "Honda",
+      "model_family": "Civic",
+      "generation": "Fourth-generation EF Civic production-road performance-hatchback family",
+      "variant": "SiR E-EF9 five-speed manual — Japan August 1991 archive reference",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Japan-market fourth-generation E-EF9 Civic SiR three-door, five-speed manual, using Honda’s archive explicitly dated August 1991. This is a dated selected specification, not a claim that the generation or SiR began in 1991: the generation was announced September 1987 and the VTEC SiR programme in September 1989. B16A, 1595 cc, 10.2 compression, 160 PS net at 7600 rpm and 15.5 kgm net at 7000 rpm. Original PS and kgm notation is retained without conversion to mechanical hp or Nm. The archive marks five-speed manual available and four-speed automatic unavailable for this SiR column; generic automatic boilerplate does not make this an automatic reference. Base SiR equipment is selected; viscous LSD was optional, not standard. No SiR II power steering/equipment, EG 170-PS engine, B16B Type R figures, competition tune or measured performance is copied.",
+      "summary": "The EF9 SiR brought Honda’s original high-revving DOHC VTEC concept to the Civic hatchback, pairing its 160-PS B16A with four-wheel double-wishbone suspension. It marks the Civic’s transition into the VTEC performance lineage before the later EG and Type R generations. Count this absent fourth-generation performance-road family once; SiR/SiR II grades, equipment packages, years and racing derivatives add no extra entries.",
+      "admission_reason": "The EF9 SiR brought Honda’s original high-revving DOHC VTEC concept to the Civic hatchback, pairing its 160-PS B16A with four-wheel double-wishbone suspension. It marks the Civic’s transition into the VTEC performance lineage before the later EG and Type R generations. Count this absent fourth-generation performance-road family once; SiR/SiR II grades, equipment packages, years and racing derivatives add no extra entries.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Civic SiR E-EF9 — Japan archive, August 1991 specification",
+          "source_type": "Manufacturer archived model-specific specification table",
+          "url": "https://www.honda.co.jp/auto-archive/civic/2-3door/1991/sir_sy.html",
+          "notes": "Japan-market fourth-generation E-EF9 Civic SiR three-door, five-speed manual, using Honda’s archive explicitly dated August 1991. This is a dated selected specification, not a claim that the generation or SiR began in 1991: the generation was announced September 1987 and the VTEC SiR programme in September 1989. B16A, 1595 cc, 10.2 compression, 160 PS net at 7600 rpm and 15.5 kgm net at 7000 rpm. Original PS and kgm notation is retained without conversion to mechanical hp or Nm. The archive marks five-speed manual available and four-speed automatic unavailable for this SiR column; generic automatic boilerplate does not make this an automatic reference. Base SiR equipment is selected; viscous LSD was optional, not standard. No SiR II power steering/equipment, EG 170-PS engine, B16B Type R figures, competition tune or measured performance is copied."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Civic / CR-X VTEC introduction — September 21, 1989",
+          "source_type": "Original manufacturer production announcement",
+          "url": "https://global.honda/jp/news/1989/4890921.html",
+          "notes": "Original Japan release read. VTEC SiR / SiR II hatchbacks went on sale September 22. SiR II offered viscous LSD together with ALB; base SiR could select LSD alone. Optional hardware is not called standard. Sedan/Shuttle four-wheel-drive material is outside this reference."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Civic World — fourth-generation historical context",
+          "source_type": "Manufacturer model-generation history",
+          "url": "https://www.honda.co.jp/CIVIC/civicworld/trivia/",
+          "notes": "Fourth-generation section places the generation in 1987 and the VTEC SiR introduction in September 1989. Later EG awards, Type R competition results and other generations are not attributed to EF9."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda CIVIC SiR (E-EF9) front.jpg",
+          "source_type": "Image source / licence evidence",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_CIVIC_SiR_(E-EF9)_front.jpg",
+          "notes": "Tokumeigakarinoaoshima; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; creator retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "B16A water-cooled transverse inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1595",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Belt-driven DOHC; two inlet and two exhaust valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones front and rear; torsion-bar stabilizers front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic discs front and rear; front ventilated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/60R14 85H, front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (net)",
+          "value": "160",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (net)",
+          "value": "15.5",
+          "unit": "kgm — factory notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "81.0 × 77.4",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential equipment boundary",
+          "value": "Viscous-coupling LSD optional on base SiR; not selected as standard equipment",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The EF9 SiR brought Honda’s original high-revving DOHC VTEC concept to the Civic hatchback, pairing its 160-PS B16A with four-wheel double-wishbone suspension. It marks the Civic’s transition into the VTEC performance lineage before the later EG and Type R generations. Count this absent fourth-generation performance-road family once; SiR/SiR II grades, equipment packages, years and racing derivatives add no extra entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_civic_ef9_sir_jp1991.jpg",
+          "caption": "EF9 Civic SiR three-door photographed by Tokumeigakarinoaoshima in Japan in August 2018. Representative facelift-era fourth-generation road body; visible trim and fog lamps illustrate this individual car. Exact year, optional LSD/ALB, equipment originality, engine calibration and mechanical condition are not authenticated by the photograph.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "f21b12c7586ef032ab2d654a91af7b6be9dba6c6cd799e952637372a95116825"
+        }
+      ]
+    },
+    {
+      "id": "HON-INTEGRA-DA6-XSI-JP1989-MT",
+      "manufacturer": "Honda",
+      "model_family": "Integra",
+      "generation": "Second-generation DA/DB Integra production-road sporting family",
+      "variant": "XSi three-door, five-speed manual — April 1989 Japan launch reference",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Japan April 1989 production launch, Integra XSi three-door coupe with five-speed manual. Original April 19 release announces three-door sales April 20, with the four-door following May 12; its net DOHC VTEC table gives 1595 cc, 160 PS at 7600 rpm and 15.5 kgm at 7000 rpm. The stated high-output condition is five-speed with premium unleaded fuel. Honda’s B16A retrospective explicitly labels its engine specification 1989 Integra XSi and supplies configuration, bore/stroke, compression and valvetrain. Native PS/kgm net values remain unconverted. Honda’s separately dated April 1993 XSi archive confirms the DA6 three-door identity but is not silently treated as an April 1989 production sheet. Its dimensions, weights, ratios and equipment are not imported. No four-door DA8 body, lower-spec ZC engine, automatic 150-PS calibration, later B16A evolution, US Acura B18 or DC2 Type R specification is copied.",
+      "summary": "The second-generation Integra launched Honda’s DOHC VTEC production-car era in April 1989. Its naturally aspirated 1.6-litre B16A used switchable valve timing and lift to combine high-rpm performance with everyday operation, a landmark that shaped later Honda sports engines. Count this absent Integra generation once across Honda/Acura identities, three-/four-door bodies and XSi/RSi grades; later years, transmissions and cosmetic treatments add no separate entries.",
+      "admission_reason": "The second-generation Integra launched Honda’s DOHC VTEC production-car era in April 1989. Its naturally aspirated 1.6-litre B16A used switchable valve timing and lift to combine high-rpm performance with everyday operation, a landmark that shaped later Honda sports engines. Count this absent Integra generation once across Honda/Acura identities, three-/four-door bodies and XSi/RSi grades; later years, transmissions and cosmetic treatments add no separate entries.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Integra DOHC VTEC production introduction — April 19, 1989",
+          "source_type": "Original manufacturer production-launch release",
+          "url": "https://global.honda/jp/news/1989/4890419.html",
+          "notes": "Japan April 1989 production launch, Integra XSi three-door coupe with five-speed manual. Original April 19 release announces three-door sales April 20, with the four-door following May 12; its net DOHC VTEC table gives 1595 cc, 160 PS at 7600 rpm and 15.5 kgm at 7000 rpm. The stated high-output condition is five-speed with premium unleaded fuel. Honda’s B16A retrospective explicitly labels its engine specification 1989 Integra XSi and supplies configuration, bore/stroke, compression and valvetrain. Native PS/kgm net values remain unconverted. Honda’s separately dated April 1993 XSi archive confirms the DA6 three-door identity but is not silently treated as an April 1989 production sheet. Its dimensions, weights, ratios and equipment are not imported. No four-door DA8 body, lower-spec ZC engine, automatic 150-PS calibration, later B16A evolution, US Acura B18 or DC2 Type R specification is copied."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Original VTEC engine B16A — explicitly selected 1989 Integra XSi engine table",
+          "source_type": "Manufacturer engine-development retrospective and dated engine table",
+          "url": "https://www.honda.co.jp/sportscar/vtec_history/B16A/",
+          "notes": "Actual manufacturer table identifies 1989 Integra XSi: B16A water-cooled transverse inline four, belt-driven DOHC with two inlet/two exhaust valves per cylinder, 81.0 × 77.4 mm and compression 10.2. Subsequent 1991 Civic 170-PS and 1997 B16B 185-PS discussion is not this engine specification."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Integra three-door XSi — separately dated April 1993 archive identity",
+          "source_type": "Manufacturer archive / identity cross-check",
+          "url": "https://www.honda.co.jp/auto-archive/integra/3door/1993/3dxsi_sy.html",
+          "notes": "Read for Honda’s DA6 three-door XSi identity only. This later archive is explicitly April 1993; its chassis dimensions, weights, gear ratios, tyres and equipment are not assigned to the April 1989 launch reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1989-1992 Honda Integra (DA9) LS hatchback (2010-05-04).jpg",
+          "source_type": "Image source / licence evidence",
+          "url": "https://commons.wikimedia.org/wiki/File:1989-1992_Honda_Integra_(DA9)_LS_hatchback_(2010-05-04).jpg",
+          "notes": "OSX; Public domain; Public domain by author OSX’s worldwide dedication with unrestricted-use fallback; actual Commons Licensing section read. Dedication evidence: https://commons.wikimedia.org/wiki/File:1989-1992_Honda_Integra_(DA9)_LS_hatchback_(2010-05-04).jpg#Licensing. No Creative Commons version is substituted.. Original credit: Own work. Original credit links: . Downloaded rendition copied unchanged; creator retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1595",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual; selected Japan high-output reference",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel double wishbone; rear described as multi-link by Honda",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (net)",
+          "value": "160",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque (net)",
+          "value": "15.5",
+          "unit": "kgm — factory notation",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "7000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "B16A water-cooled transverse inline four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Belt-driven DOHC; two inlet and two exhaust valves per cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "81.0 × 77.4",
+          "unit": "mm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.2:1",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Integra launched Honda’s DOHC VTEC production-car era in April 1989. Its naturally aspirated 1.6-litre B16A used switchable valve timing and lift to combine high-rpm performance with everyday operation, a landmark that shaped later Honda sports engines. Count this absent Integra generation once across Honda/Acura identities, three-/four-door bodies and XSi/RSi grades; later years, transmissions and cosmetic treatments add no separate entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_integra_da6_xsi_jp1989_mt.jpg",
+          "caption": "Second-generation Integra three-door road body photographed by OSX in Australia in May 2010. The source identifies an Australian DA9 LS, used only to illustrate the shared coupe body. This is not presented as a Japanese DA6 XSi, a VTEC engine photograph or proof of the selected 1989 five-speed specification; export engine, grade and equipment differ.",
+          "creator": "OSX",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "6adbe52e3904ff3ef14687b4a11ed03b5647c806e6a8be8a619fe728d1787751"
+        }
+      ]
+    }
+  ]
+}

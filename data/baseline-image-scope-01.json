@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-10-29",
+  "scope": "Five existing media captions/primary flags only; no car counts, technical specifications, source bindings, credits or assets changed.",
+  "manufacturer_context": "https://www.lamborghini.com/es-en/noticias/50-years-ago-the-first-countach-in-santagata-bolognese",
+  "records": [
+    {
+      "media_id": 61,
+      "car_id": "LAM-COU-LP400",
+      "source_id": 201,
+      "source_url": "https://commons.wikimedia.org/wiki/File:0_Lamborghini_Countach_LP400_1.jpg",
+      "location": "/assets/countach_lp400_exterior.jpg",
+      "sha256": "c45e8e5da49af19d55da00457dea403b84a9205e63e03bb4fc1cf0ad66a5ebac",
+      "previous_caption": "Lamborghini Countach LP400 front three-quarter",
+      "previous_is_primary": 1,
+      "caption": "Countach museum display car with wide wheel-arch extensions and front spoiler; not a reference for standard narrow-body LP400 bodywork.",
+      "is_primary": 0
+    },
+    {
+      "media_id": 62,
+      "car_id": "LAM-COU-LP400",
+      "source_id": 202,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LP_400_(15895134881).jpg",
+      "location": "/assets/countach_lp400_rear.jpg",
+      "sha256": "d4f47c0264ba5d579b9f017bfd706398fda5f47588991c28d7ac62a085104980",
+      "previous_caption": "Countach LP400 in Giallo, showing the narrow early body",
+      "previous_is_primary": 0,
+      "caption": "Countach LP400 in yellow, front three-quarter view showing the narrow early body.",
+      "is_primary": 1
+    },
+    {
+      "media_id": 89,
+      "car_id": "PAG-ZON-C12",
+      "source_id": 268,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_-_Flickr_-_exfordy_(1).jpg",
+      "location": "/assets/zonda_c12_rear.jpg",
+      "sha256": "fd41f9da5e9cab7b84386c44560f60b7a114cec3e159fd63a13c6aa798276de2",
+      "previous_caption": "Zonda C12 front three-quarter",
+      "previous_is_primary": 0,
+      "caption": "Zonda family front three-quarter illustration; the photograph source does not establish the original 6.0-litre C12 engine specification.",
+      "is_primary": 0
+    },
+    {
+      "media_id": 90,
+      "car_id": "PAG-ZON-C12",
+      "source_id": 269,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_-_Flickr_-_exfordy_(2).jpg",
+      "location": "/assets/zonda_c12_detail.jpg",
+      "sha256": "2df8b1d66d35fc981c8902ad906d8957a39431b823e4de52a3c5b62f56037e83",
+      "previous_caption": "Zonda C12 rear three-quarter and central quad exhaust",
+      "previous_is_primary": 0,
+      "caption": "Zonda family rear three-quarter illustration with central quad exhaust; exact engine variant is not established by the photograph source.",
+      "is_primary": 0
+    },
+    {
+      "media_id": 103,
+      "car_id": "POR-911GT1-97",
+      "source_id": 298,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Porsche,_Paris_Motor_Show_2018,_Paris_(1Y7A1857).jpg",
+      "location": "/assets/911_gt1_rear.jpg",
+      "sha256": "2d1dca1b8f82e5749c537fc34fb08ba18f15ab51ae6043037f15e418b0914745",
+      "previous_caption": "1997 GT1 roof intake and carbon windscreen surround",
+      "previous_is_primary": 0,
+      "caption": "Porsche 911 GT1 roof intake and windscreen detail at the 2018 Paris Motor Show; the source does not establish a 1997 specification.",
+      "is_primary": 0
+    }
+  ]
+}

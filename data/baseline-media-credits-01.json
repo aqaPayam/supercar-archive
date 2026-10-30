@@ -1,0 +1,51 @@
+{
+  "reviewed_on": "2026-10-29",
+  "purpose": "Resolve three existing Ferrari F50 image-credit placeholders without changing photographs or car records.",
+  "records": [
+    {
+      "car_id": "FER-F50-STD",
+      "media_id": 58,
+      "source_id": 191,
+      "location": "/assets/f50_rear.jpg",
+      "sha256": "a94f3b7e68b16a12b8b03367fce150d7f110cdaa256449f1d90a5ac38198a134",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ferrari_F50_Rear_(17115768058).jpg",
+      "previous_creator": "Wikimedia Commons contributor",
+      "previous_license": "See source page",
+      "previous_source_notes": "Rear image and licence record.",
+      "creator": "Axion23",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_notes": "Rear image and licence record. Creator: Axion23. Licence: CC BY 2.0. Licence URL: https://creativecommons.org/licenses/by/2.0. Existing image visually matched to its Commons source; stored bytes unchanged."
+    },
+    {
+      "car_id": "FER-F50-STD",
+      "media_id": 59,
+      "source_id": 192,
+      "location": "/assets/f50_engine.jpg",
+      "sha256": "252dfb5fe85809e9b0d411ccce716c3b8cda1870b4c17f0ea1217889ed390c2e",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ferrari_f50_engine_(3428493158).jpg",
+      "previous_creator": "Wikimedia Commons contributor",
+      "previous_license": "See source page",
+      "previous_source_notes": "Engine image and licence record.",
+      "creator": "Axion23",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_notes": "Engine image and licence record. Creator: Axion23. Licence: CC BY 2.0. Licence URL: https://creativecommons.org/licenses/by/2.0. Existing image visually matched to its Commons source; stored bytes unchanged."
+    },
+    {
+      "car_id": "FER-F50-STD",
+      "media_id": 57,
+      "source_id": 190,
+      "location": "/assets/f50_exterior.jpg",
+      "sha256": "67f4539b06360933c8a6fb1ba997720b3a899038be6e8724d6cdeb71c77d3f5b",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ferrari_F50_(1995)_(52962541522).jpg",
+      "previous_creator": "Wikimedia Commons contributor",
+      "previous_license": "See source page",
+      "previous_source_notes": "Exterior image and licence record.",
+      "creator": "Charles from Port Chester, New York",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_notes": "Exterior image and licence record. Creator: Charles from Port Chester, New York. Licence: CC BY 2.0. Licence URL: https://creativecommons.org/licenses/by/2.0. Existing image visually matched to its Commons source; stored bytes unchanged."
+    }
+  ]
+}

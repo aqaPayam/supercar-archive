@@ -1,0 +1,230 @@
+{
+  "batch": "icons-road-2026-10-30-129",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "BMW-1800TI-NEUEKLASSE-BASE1964",
+      "manufacturer": "BMW",
+      "model_family": "Neue Klasse / 1800 TI",
+      "generation": "Original Neue Klasse four-door production-road sporting-saloon family",
+      "variant": "1800 TI — 1964 standard road reference, base four-speed manual",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original Neue Klasse four-door sporting-road saloon family, represented by the 1964 BMW 1800 TI standard road model in FIA recognition form 1286 and BMW's 2011 history. Group the 1500/1600/1800/2000 four-door programme, TI, TI/SA/TISA, tilux, tii, years and related sporting versions once. Existing 02 Series 2002 turbo is the separate later compact two-door model series; component sharing does not create a second name for the same programme. Selected engine is 1773 cc, 110 PS DIN and 9.5:1 with Solex carburettors, not 130 PS/10.5:1 Weber TI/SA or later 1766-cc 1800. Base Getrag four-speed column is selected; optional five-speed, alternative ratios, overbore allowances, 105-L tank and limited-slip equipment are not standardised. No sump capacity, torque, mass, seating count, rear anti-roll-bar standard fitment or race-car performance imported where reference scope or accounts differ.",
+      "summary": "The Neue Klasse 1800 TI helped establish BMW's sporting-saloon identity, combining a practical four-door production body with a tuned twin-carburettor engine and a close-ratio gearbox. Its successful touring-car competition programme and lasting historic-racing relevance are documented alongside the road model. Count the original Neue Klasse saloon programme once; do not transfer competition tuning or later TI/SA equipment into the standard road reference.",
+      "admission_reason": "The Neue Klasse 1800 TI helped establish BMW's sporting-saloon identity, combining a practical four-door production body with a tuned twin-carburettor engine and a close-ratio gearbox. Its successful touring-car competition programme and lasting historic-racing relevance are documented alongside the road model. Count the original Neue Klasse saloon programme once; do not transfer competition tuning or later TI/SA equipment into the standard road reference.",
+      "sources": [
+        {
+          "publisher": "BMW / FIA Historic Database",
+          "title": "BMW 1800 TI — original 1964 FIA/CSI recognition form 1286, initial base sheets",
+          "source_type": "Original manufacturer production-recognition form preserved by FIA",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601083801/homologation_form_number_1286_group_t.pdf",
+          "notes": "Downloaded 13-page scanned PDF. First eight PDF pages, indices 0-7, individually rendered and inspected; these contain all initial printed sheets 1-8 in scan order 1,2,3,6,7,8,4,5. Later extension pages not reviewed or imported. Seventeen attributes map to unambiguous initial base fields. Engine sheet shows 110 PS DIN at 5800 rpm, 1773 cc and alternative 9.5/10.5 compression; BMW source 1 resolves the selected road compression and Solex carburettors. Base Getrag four-speed column is separate from optional five-speed and ratios. Larger bore is an allowance, not selected displacement. Optional tank/LSD/rear anti-roll bar are not assumed standard; sump, torque, weight and seating ambiguities are omitted."
+        },
+        {
+          "publisher": "BMW Group Corporate Communications",
+          "title": "The fresh face of BMW: 50 years of BMW New Class — 30 March 2011, printed pp. 14-17",
+          "source_type": "Original manufacturer historical press kit",
+          "url": "https://www.press.bmwgroup.com/usa/article/attachment/T0102981EN_US/151688",
+          "notes": "Web PDF text read in opening historical context and relevant New Class/1800 TI/TISA/competition sections, not all 22 pages. Two technical attributes map to the explicitly identified road-trim 1800 TI paragraph on printed p.14: 9.5:1 compression and two Solex twin-barrel carburettors. Production road car is distinguished from TI/SA, later 2000 and racing versions. 1964 Hahne competition results provide programme context, not standard road-car performance. Local HTTP download returned HTML and web screenshot calls exposed no viewable image; no local PDF or visual-page review is claimed. Sump and rear anti-roll-bar accounts differ from FIA base sheets and are not imported."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "BMW 1800 TI (1773) — recognition 1286, Group T index",
+          "source_type": "Governing-body original recognition index",
+          "url": "https://historicdb.fia.com/car/bmw-1800-ti-1773",
+          "notes": "Complete relevant index read. RWD attribute maps here; also identifies four cylinders and 1773 cc. Registry labels recognition 12 April 1964 while scanned cover handwriting appears 11 April; no exact-day claim imported. Later 1964/1965 extensions are separate and not selected. Historical downloadable forms are consultation copies, not documents certified for current-event entry."
+        },
+        {
+          "publisher": "Motor Sport Magazine",
+          "title": "BMW 1800Ti — November 2017 issue, web 21 May 2018, Samarth Kanal",
+          "source_type": "Original retrospective historical feature and visible builder interview",
+          "url": "https://www.motorsportmagazine.com/archive/article/november-2017/146/bmw-1800ti/",
+          "notes": "Complete publicly available historical feature and visible Daniel Lackey/CCK Historic interview excerpt read, ending at Continue reading; unavailable further material is not claimed as reviewed. Supports sporting-saloon and historic touring-car significance. Original road 110 PS is separated from 130 PS TI/SA and modern specialist engines above 200bhp. Interview race weight and tune, optional/LSD assertions and competition-car results supply no road specifications. No claim of an original contemporary road test."
+        },
+        {
+          "publisher": "Wikimedia Commons / Flickr",
+          "title": "File:BMW 1800 Ti (8459561058).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_1800_Ti_(8459561058).jpg",
+          "notes": "nakhon100; photograph dated 31 January 2013, 18:27, originally https://www.flickr.com/photos/8058098@N07/8459561058 . CC BY 2.0 Generic, https://creativecommons.org/licenses/by/2.0 . Commons file summary/licensing and API metadata read; FlickreviewR confirmed cc-by-2.0 on 9 January 2015. Downloaded 1280-pixel JPEG rendition individually inspected and copied unchanged. Displays a grey four-door 1800 TI with auxiliary lamps and windscreen sticker; representative body only, not authentication of 1964 specification, engine, gearbox, originality or standard equipment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder; single overhead camshaft; two valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1773",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "84",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "80",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder block material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder head material",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft drive",
+          "value": "Chain",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory DIN output",
+          "value": "110 PS at 5800 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected base gearbox",
+          "value": "Getrag four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch",
+          "value": "Hydraulically operated single plate",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "MacPherson struts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Independent trailing-arm suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction",
+          "value": "Self-supporting all-steel body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front",
+          "value": "268 mm discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear",
+          "value": "250 mm drums, internal diameter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Base fitment",
+          "value": "5.0 J x 14 steel disc wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Base fuel tank capacity",
+          "value": "53",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Selected road compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Fuel system",
+          "label": "Selected road carburettors",
+          "value": "Two Solex twin-barrel carburettors",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 2
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Neue Klasse 1800 TI helped establish BMW's sporting-saloon identity, combining a practical four-door production body with a tuned twin-carburettor engine and a close-ratio gearbox. Its successful touring-car competition programme and lasting historic-racing relevance are documented alongside the road model. Count the original Neue Klasse saloon programme once; do not transfer competition tuning or later TI/SA equipment into the standard road reference.",
+          "category": "Foundational BMW sporting-saloon heritage",
+          "confidence": "Original production-recognition sheets, manufacturer history and independent retrospective feature",
+          "source": 3
+        },
+        {
+          "title": "Touring-car success belongs to the competition programme",
+          "explanation": "BMW's history records Hubert Hahne winning 14 of 16 races and the German circuit title in 1964, along with a Nurburgring touring-car endurance win. These explain the 1800 TI programme's significance; competition tuning and results are not standard road-car specifications or achievements of each individual example.",
+          "category": "Motorsport programme heritage",
+          "confidence": "Original manufacturer historical account; road and competition scope separated",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_1800ti_neueklasse_1964.jpg",
+          "caption": "BMW 1800 TI photographed at a display by nakhon100 on 31 January 2013. Individually inspected front-side view shows the grey four-door Neue Klasse saloon, round headlamps, auxiliary lamps and windscreen sticker. Representative body photograph; not verification of 1964 specification, engine, gearbox, standard equipment or originality. CC BY 2.0, https://creativecommons.org/licenses/by/2.0 ; downloaded 1280-pixel rendition copied unchanged.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "1d6a6264c409710abfd0f5b0af8bf30f7293e9a04531bf88fe0a086bda666402"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "batch": "icons-road-2026-10-29-22",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "BMW-328-ROAD-1937",
+      "manufacturer": "BMW",
+      "model_family": "328",
+      "generation": "Original pre-war 1971-cc production roadster",
+      "variant": "328 — standard production roadster, 1937-on reference",
+      "model_year_from": 1937,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Open two-seat roadster",
+      "road_legal": 1,
+      "specification_market": "BMW Classic May 13, 2009 museum-to-road release, page 2 standard BMW 328 section. It is separate from the adjacent 136-bhp Berlin-Rome Touring racer. Road production begins spring 1937 in the separate factory anniversary account. Native historical bhp notation is retained without conversion. No race-body, 6000-rpm competition output, 200-km/h claim or modern 328i saloon specification.",
+      "summary": "The original 328 established BMW as a leading sports-car maker through lightweight design, balanced handling and a successful two-litre competition lineage. Its standard roadster brought that engineering approach to private road customers from 1937, while the specially bodied competition cars developed their own separate specifications.",
+      "admission_reason": "The original 328 established BMW as a leading sports-car maker through lightweight design, balanced handling and a successful two-litre competition lineage. Its standard roadster brought that engineering approach to private road customers from 1937, while the specially bodied competition cars developed their own separate specifications.",
+      "sources": [
+        {
+          "publisher": "BMW Group Classic",
+          "title": "From the museum to the road: BMW Classic at the 2009 Mille Miglia — standard BMW 328 data, page 2",
+          "source_type": "Manufacturer heritage release / standard road technical data",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0018595EN/39649",
+          "notes": "BMW Classic May 13, 2009 museum-to-road release, page 2 standard BMW 328 section. It is separate from the adjacent 136-bhp Berlin-Rome Touring racer. Road production begins spring 1937 in the separate factory anniversary account. Native historical bhp notation is retained without conversion. No race-body, 6000-rpm competition output, 200-km/h claim or modern 328i saloon specification."
+        },
+        {
+          "publisher": "BMW Group",
+          "title": "The BMW 328 turns 75 — May 12, 2011",
+          "source_type": "Manufacturer historical / engineering account",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0107839EN/157652",
+          "notes": "Page 1 explicitly separates the 1936 racing debut from spring 1937 series road production and describes lightweight design, chassis balance and road use. Racing success supports model heritage, not a claim that the standard road specification won every cited race."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1938 BMW 328, 2 litre 6cylinder 80hp pic3.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1938_BMW_328,_2_litre_6cylinder_80hp_pic3.JPG",
+          "notes": "Alf van Beem; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1971",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with central shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic drum brakes front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "155",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power as stated by source",
+          "value": "80",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 328 established BMW as a leading sports-car maker through lightweight design, balanced handling and a successful two-litre competition lineage. Its standard roadster brought that engineering approach to private road customers from 1937, while the specially bodied competition cars developed their own separate specifications.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_328_road_1937.jpg",
+          "caption": "BMW 328 with standard roadster body at the Louwman Museum, identified by the photographer as a 1938 car. Represents the original production body rather than a Touring racer. Chassis number, restoration, mechanical tune and exact 1937 build specification are not certified by this exterior image.",
+          "creator": "Alf van Beem",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "de278b395a73fd7b9ce366c5de25df93384250ef74dd1cc6070bc0e6637a4424"
+        }
+      ]
+    },
+    {
+      "id": "BMW-507-150PS-1957",
+      "manufacturer": "BMW",
+      "model_family": "507",
+      "generation": "Original Albrecht Graf Goertz V8 roadster series",
+      "variant": "507 — standard 150 PS roadster, 1957 reference",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat open roadster",
+      "road_legal": 1,
+      "specification_market": "BMW April 2005 anniversary release reproduced by Car Body Design on November 21, 2006; selected 507 technical table, not adjacent 140-PS 503. Standard road reference; first deliveries were December 1956 and 1957 equipment revisions do not create another identity. Special gearbox ratios, 165-hp upgrade, race windscreen, 220-km/h promotional maximum, disputed production totals and tank/brake evolution are excluded.",
+      "summary": "The 507 became a defining BMW design icon through Albrecht Graf Goertz’s low, sculpted roadster body and an aluminium V8 powertrain. Its influence on the marque’s later roadsters gives it an established place in sports-car design history beyond its rarity, price or celebrity owners.",
+      "admission_reason": "The 507 became a defining BMW design icon through Albrecht Graf Goertz’s low, sculpted roadster body and an aluminium V8 powertrain. Its influence on the marque’s later roadsters gives it an established place in sports-car design history beyond its rarity, price or celebrity owners.",
+      "sources": [
+        {
+          "publisher": "BMW Group / Car Body Design",
+          "title": "BMW 507 and 503 — April 2005 factory anniversary release, 507 technical table",
+          "source_type": "Manufacturer historical release reproduced by Car Body Design",
+          "url": "https://www.carbodydesign.com/archive/2006/11/21-bmw-507-and-503/",
+          "notes": "BMW April 2005 anniversary release reproduced by Car Body Design on November 21, 2006; selected 507 technical table, not adjacent 140-PS 503. Standard road reference; first deliveries were December 1956 and 1957 equipment revisions do not create another identity. Special gearbox ratios, 165-hp upgrade, race windscreen, 220-km/h promotional maximum, disputed production totals and tank/brake evolution are excluded."
+        },
+        {
+          "publisher": "BMW Group",
+          "title": "75 years of the BMW Roadster: the BMW 315/1 and its successors — May 28, 2009",
+          "source_type": "Manufacturer roadster historical account",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0022475EN/75-years-of-the-bmw-roadster-the-bmw-315-1-and-its-successors",
+          "notes": "507 design/engineering passages and later-roadster continuity only. Aluminium V8 description retained as heritage evidence; broad first-in-world language, grille-orientation error, modified hill-climb cars and advertised special-equipment maximum are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:507.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:507.JPG",
+          "notes": "Jagvar at English Wikipedia; Public domain. License: . Credit: Transferred from en.wikipedia to Commons."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8 eight-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3168",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves operated by a central camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Zenith 32 NDIX twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual, central shift, synchromesh on all forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Box-section frame with tubular crossmembers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "150",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 507 became a defining BMW design icon through Albrecht Graf Goertz’s low, sculpted roadster body and an aluminium V8 powertrain. Its influence on the marque’s later roadsters gives it an established place in sports-car design history beyond its rarity, price or celebrity owners.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_507_150ps_1957.jpg",
+          "caption": "1957 BMW 507 roadster photographed at the Greenwich Concours d’Elegance. Represents the original roadster body. First/second-series equipment, brake evolution, fuel-tank layout, restoration and current mechanical tune are not authenticated by this photo.",
+          "creator": "Jagvar at English Wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "cfa654ea9a1184a2637580a0a5174667a6bfa667024abd3ca678df35828f6514"
+        }
+      ]
+    },
+    {
+      "id": "BMW-Z1-ROAD-1989",
+      "manufacturer": "BMW",
+      "model_family": "Z1",
+      "generation": "Original BMW Technik composite-bodied front-mid-engine roadster",
+      "variant": "Z1 — original 1989 production roadster",
+      "model_year_from": 1989,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat open roadster",
+      "road_legal": 1,
+      "specification_market": "BMW June 6, 2012 engineering retrospective: production roadster first delivered early 1989, distinct from 1986 development study and 1987 show reveal. Engine class remains nominal 2.5 litres; ambiguous historical hp convention, unsourced exact cc, Alpina conversions, Art Car paint, prototypes and later Z3/Z4 specifications are omitted.",
+      "summary": "The Z1 turned BMW Technik research into an unusually innovative production sports car: vertically retracting doors, replaceable plastic outer panels, a bonded composite floor and the new multi-link Z-axle. Its front-mid-engine layout and manual transmission made the experimental construction part of a coherent driver-focused roadster, establishing the modern BMW Z-car line.",
+      "admission_reason": "The Z1 turned BMW Technik research into an unusually innovative production sports car: vertically retracting doors, replaceable plastic outer panels, a bonded composite floor and the new multi-link Z-axle. Its front-mid-engine layout and manual transmission made the experimental construction part of a coherent driver-focused roadster, establishing the modern BMW Z-car line.",
+      "sources": [
+        {
+          "publisher": "BMW Group",
+          "title": "Back to the future: 25 years of the BMW Z1 — June 6, 2012",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0127402EN/back-to-the-future-25-years-of-the-bmw-z1",
+          "notes": "BMW June 6, 2012 engineering retrospective: production roadster first delivered early 1989, distinct from 1986 development study and 1987 show reveal. Engine class remains nominal 2.5 litres; ambiguous historical hp convention, unsourced exact cc, Alpina conversions, Art Car paint, prototypes and later Z3/Z4 specifications are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW Z1 DSC07154.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_Z1_DSC07154.JPG",
+          "notes": "Benslick; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mid, behind the front axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Hot-dip-galvanised sheet-steel monocoque with bonded and locally bolted composite sandwich floor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Bolted plastic outer panels; fibre-composite bonnet, boot lid and roof-compartment cover",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "Electrically operated doors retract vertically into the side sills",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Single-joint spring-strut front; multi-link Z-axle rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Z1 turned BMW Technik research into an unusually innovative production sports car: vertically retracting doors, replaceable plastic outer panels, a bonded composite floor and the new multi-link Z-axle. Its front-mid-engine layout and manual transmission made the experimental construction part of a coherent driver-focused roadster, establishing the modern BMW Z-car line.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_z1_road_1989.jpg",
+          "caption": "BMW Z1 production roadster photographed from the side. Nonstandard-looking wheels are visible; the photo represents the body and does not certify original wheels, build year, installed engine or mechanical originality. The lowered roof is not a separate variant.",
+          "creator": "Benslick",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "cf86d636de1f1d1532bb4a2682c8d0961c71e0be93bae0839b6350596b230d67"
+        }
+      ]
+    },
+    {
+      "id": "MER-190SL-W121-1955",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "190 SL",
+      "generation": "W121 B II original 121.042 production roadster",
+      "variant": "190 SL Roadster — original 1955 standard road reference",
+      "model_year_from": 1955,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door soft-top roadster",
+      "road_legal": 1,
+      "specification_market": "Factory archive 121.042 roadster data, original May 1955 main-series reference. Exact swept volume 1897 cc is separate from 1882-cc tax classification. Original 8.5 compression and unboosted hydraulic brakes are separate from September 1959 compression, May 1956 booster, 1960 weight and August 1961 engine changes. Alternate gearbox/final-drive ratios, hardtop coupe, prototype and light-door sports accessory specification are excluded.",
+      "summary": "The 190 SL established the elegant open touring side of the Mercedes-Benz SL tradition alongside the competition-derived 300 SL. Its recognisable roadster design, new overhead-cam four-cylinder engine and independently suspended Ponton-based chassis made it a foundational sporting grand tourer with lasting historical significance.",
+      "admission_reason": "The 190 SL established the elegant open touring side of the Mercedes-Benz SL tradition alongside the competition-derived 300 SL. Its recognisable roadster design, new overhead-cam four-cylinder engine and independently suspended Ponton-based chassis made it a foundational sporting grand tourer with lasting historical significance.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Classic Public Archive",
+          "title": "190 SL Roadster W121 B II / 121.042, 1955–1963 — factory technical data",
+          "source_type": "Manufacturer model archive / technical data",
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-SL-Roadster--W-121-B-II-1955---1963.xhtml?oid=4657",
+          "notes": "Factory archive 121.042 roadster data, original May 1955 main-series reference. Exact swept volume 1897 cc is separate from 1882-cc tax classification. Original 8.5 compression and unboosted hydraulic brakes are separate from September 1959 compression, May 1956 booster, 1960 weight and August 1961 engine changes. Alternate gearbox/final-drive ratios, hardtop coupe, prototype and light-door sports accessory specification are excluded."
+        },
+        {
+          "publisher": "Mercedes-Benz USA / Mercedes-Benz Classic",
+          "title": "Sport, luxury, lifestyle: the Mercedes-Benz SL — 2021 historical account",
+          "source_type": "Manufacturer historical account",
+          "url": "https://media.mbusa.com/news/sport-luxury-lifestyle-the-mercedes-benz-sl",
+          "notes": "Dedicated W121 historical section supports the road-touring role and native 77-kW output. Optional transverse rear seat precludes a blanket two-seat claim. No W198 fuel injection, racing achievements, later SL hardware or US gross horsepower convention is inherited."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2007-07-15 Mercedes-Benz W 121 B II (190 SL) IMG 3073.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2007-07-15_Mercedes-Benz_W_121_B_II_(190_SL)_IMG_3073.jpg",
+          "notes": "Eckhard Henkel; CC BY-SA 3.0 de. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "M121 B II / 121.921 inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1897",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft, duplex roller-chain drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Solex 44 PHH compound carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with central floor shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; single-joint swing-axle rear; coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic four-wheel drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unit-body floor assembly",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "77",
+          "unit": "kW",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 190 SL established the elegant open touring side of the Mercedes-Benz SL tradition alongside the competition-derived 300 SL. Its recognisable roadster design, new overhead-cam four-cylinder engine and independently suspended Ponton-based chassis made it a foundational sporting grand tourer with lasting historical significance.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_190sl_w121_1955.jpg",
+          "caption": "Mercedes-Benz 190 SL soft-top roadster photographed in 2007. Represents the W121 production body; pictured trim, accessories, restoration and later detail changes do not certify the selected original 1955 mechanical reference or an exact chassis identity.",
+          "creator": "Eckhard Henkel",
+          "license": "CC BY-SA 3.0 de",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4c438cc160e8581efd64ae75fae9c4dd5aae83d7b4f8babbbf799f7552c0d20a"
+        }
+      ]
+    }
+  ]
+}

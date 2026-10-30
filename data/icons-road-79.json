@@ -1,0 +1,306 @@
+{
+  "batch": "icons-road-2026-10-30-79",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "PLY-DUSTER340-AUTO-TEST1970",
+      "manufacturer": "Plymouth",
+      "model_family": "Valiant / Duster",
+      "generation": "Original 1970–1976 Duster fastback production-road family",
+      "variant": "Duster 340 TorqueFlite, manual steering — March 1970 road-test reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback coupe",
+      "road_legal": 1,
+      "specification_market": "March 1970 Car Life test configuration. Automatic, manual steering and fitted front discs are kept distinct from standard/optional-equipment wording, which is inconsistent in the article. No stock-performance number, speculative 325-bhp estimate, tuning suggestion, revised rear anti-roll bar, weight or modern net/gross standard is imported. Other Duster engines, years, trim and related Demon/Dart Sport badge variants do not add counts.",
+      "summary": "The Duster 340 established Plymouth’s lightweight fastback compact-muscle formula, combining the 340 V8 with practical rear seating and a low-cost performance package. Its distinct Valiant-derived body and historical sporting role justify one original Duster family entry. The contemporary test praised its engine and transmission but reported severe understeer, heavy steering and highway hunting; significance is not a claim of excellent all-round handling.",
+      "admission_reason": "The Duster 340 established Plymouth’s lightweight fastback compact-muscle formula, combining the 340 V8 with practical rear seating and a low-cost performance package. Its distinct Valiant-derived body and historical sporting role justify one original Duster family entry. The contemporary test praised its engine and transmission but reported severe understeer, heavy steering and highway hunting; significance is not a claim of excellent all-round handling.",
+      "sources": [
+        {
+          "publisher": "Car Life; facsimile hosted by Over-Drive Magazine",
+          "title": "Duster 340 — Car Life, March 1970, pages 46–50",
+          "source_type": "Contemporary first-hand road test, scanned facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2025/02/1970-03-CL-1970-Plymouth-Duster-340-Test-1-5.pdf",
+          "notes": "March 1970 Car Life test configuration. Automatic, manual steering and fitted front discs are kept distinct from standard/optional-equipment wording, which is inconsistent in the article. No stock-performance number, speculative 325-bhp estimate, tuning suggestion, revised rear anti-roll bar, weight or modern net/gross standard is imported. Other Duster engines, years, trim and related Demon/Dart Sport badge variants do not add counts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Plymouth Valiant Duster 340 (26758674924).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Valiant_Duster_340_(26758674924).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1970 Plymouth Valiant Duster 340. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "340 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Hydraulic lifters, pushrods and overhead rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single Carter four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed TorqueFlite automatic, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitized construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front short/long arms with torsion bars and anti-roll bar; live rear axle with multi-leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted front discs and rear drums, as fitted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "340",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published rated power",
+          "value": "275",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Rated torque",
+          "value": "340",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Manual recirculating gear, as tested",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Test axle ratio",
+          "value": "3.23:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "108",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Duster 340 established Plymouth’s lightweight fastback compact-muscle formula, combining the 340 V8 with practical rear seating and a low-cost performance package. Its distinct Valiant-derived body and historical sporting role justify one original Duster family entry. The contemporary test praised its engine and transmission but reported severe understeer, heavy steering and highway hunting; significance is not a claim of excellent all-round handling.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ply_duster340_auto_test1970.jpg",
+          "caption": "1970 Plymouth Duster 340 photographed by Greg Gjerdingen at the North Star Chapter Studebaker Drivers Club show in Hugo, Minnesota. Representative original fastback body; the exterior and Original display plate do not certify its engine tune, steering, transmission or identity as the Car Life test car.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4b9b5cff75993108dd2bb5afe7e469c224ca5f20d524b3c1fe768b64bd05794b"
+        }
+      ]
+    },
+    {
+      "id": "DOD-CORONET-SUPERBEE383-US1969",
+      "manufacturer": "Dodge",
+      "model_family": "Coronet",
+      "generation": "Late-1960s Coronet production-road family, original Super Bee reference",
+      "variant": "Super Bee 383 Magnum four-speed — 1969 factory Scat Pack brochure",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door road coupe / hardtop family",
+      "road_legal": 1,
+      "specification_market": "1969 Dodge factory brochure, Coronet and Scat Pack spreads visually read. Selects the Super Bee 383 Magnum row, not the Dart 383 row, Coronet R/T 440, 426 Hemi or later A12 six-barrel package. Standard four-speed and drums remain distinct from optional automatic/discs. No axle ratio, Ramcharger option, performance measurement, production count or modern net/gross label is inferred. Other Coronet engines, bodies, colours and years do not add counts.",
+      "summary": "The Coronet Super Bee was Dodge’s dedicated no-frills Scat Pack muscle coupe, pairing the 383 Magnum with a standard four-speed, heavy-duty brakes and Rallye suspension. That purpose-built road-performance identity and established place in the muscle-car era justify one Coronet family entry. It is a distinct Coronet body/model programme from the Charger and Plymouth Road Runner, not another engine option or paint scheme for those records.",
+      "admission_reason": "The Coronet Super Bee was Dodge’s dedicated no-frills Scat Pack muscle coupe, pairing the 383 Magnum with a standard four-speed, heavy-duty brakes and Rallye suspension. That purpose-built road-performance identity and established place in the muscle-car era justify one Coronet family entry. It is a distinct Coronet body/model programme from the Charger and Plymouth Road Runner, not another engine option or paint scheme for those records.",
+      "sources": [
+        {
+          "publisher": "Dodge / Chrysler Motors Corporation; facsimile hosted by Over-Drive Magazine",
+          "title": "1969 Dodge combined catalogue — Coronet pages 6–7 and Scat Pack pages 12–13",
+          "source_type": "Original manufacturer road-car brochure, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2024/12/1969-Dodge-Combined-Brochure-1-20C.pdf",
+          "notes": "1969 Dodge factory brochure, Coronet and Scat Pack spreads visually read. Selects the Super Bee 383 Magnum row, not the Dart 383 row, Coronet R/T 440, 426 Hemi or later A12 six-barrel package. Standard four-speed and drums remain distinct from optional automatic/discs. No axle ratio, Ramcharger option, performance measurement, production count or modern net/gross label is inferred. Other Coronet engines, bodies, colours and years do not add counts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Dodge Coronet Super Bee 383 (38082982051).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Dodge_Coronet_Super_Bee_383_(38082982051).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1969 Dodge Coronet Super Bee 383. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "383 Magnum V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual, standard Super Bee equipment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Rallye suspension: heavy-duty front torsion bars, firm dampers, sway bar and extra-heavy-duty rear leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Heavy-duty 11-inch drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "383",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "335",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "425",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3400",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Coronet Super Bee was Dodge’s dedicated no-frills Scat Pack muscle coupe, pairing the 383 Magnum with a standard four-speed, heavy-duty brakes and Rallye suspension. That purpose-built road-performance identity and established place in the muscle-car era justify one Coronet family entry. It is a distinct Coronet body/model programme from the Charger and Plymouth Road Runner, not another engine option or paint scheme for those records.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_coronet_superbee383_us1969.jpg",
+          "caption": "1969 Dodge Coronet Super Bee photographed by Sicnag, file-identified as a 383 car. Representative original road hardtop with scoop-equipped hood and aftermarket-looking wheels; the photograph does not certify the brochure’s standard equipment, manual gearbox, engine tune or originality.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3a77554e4205cdf4fdd956908868773ddbd3eb8e25c3a32383beb2037f77f5df"
+        }
+      ]
+    }
+  ]
+}

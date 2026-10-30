@@ -1,0 +1,257 @@
+{
+  "batch": "icons-road-2026-10-30-74",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "MAS-INDY-AM116-4200-1969",
+      "manufacturer": "Maserati",
+      "model_family": "Indy",
+      "generation": "Original AM116 Indy production-road V8 GT family",
+      "variant": "4200 five-speed manual — original 1969 factory heritage reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat GT coupe",
+      "road_legal": 1,
+      "specification_market": "Original 4,136 cc AM116 road specification, with the standard five-speed manual identified by the factory’s 2019 retrospective. The 4.7/4.9 engines, optional automatic, later Citroen hydraulic brakes and years do not add counts. Conflicting later power/speed/production figures, power-peak rpm, weight and unverified performance are omitted. The name honours 8CTF Indianapolis victories; the Indy road coupe did not win those races.",
+      "summary": "The Indy extended Maserati’s sporting V8 GT tradition into a genuine four-seat Vignale coupe, combining twin-cam engine engineering with long-distance usability. A first-hand drive records the original 4.2-litre engine’s strong upper-rev response and fast touring character. It belongs as a distinct historic Maserati performance GT, not simply through its badge or the Indianapolis-inspired name.",
+      "admission_reason": "The Indy extended Maserati’s sporting V8 GT tradition into a genuine four-seat Vignale coupe, combining twin-cam engine engineering with long-distance usability. A first-hand drive records the original 4.2-litre engine’s strong upper-rev response and fast touring character. It belongs as a distinct historic Maserati performance GT, not simply through its badge or the Indianapolis-inspired name.",
+      "sources": [
+        {
+          "publisher": "Maserati",
+          "title": "Indy — Maserati classic Gran Turismo heritage and original AM116 specification",
+          "source_type": "Manufacturer heritage model record",
+          "url": "https://www.maserati.com/global/en/brand/maserati-classic-cars/gran-turismo/indy",
+          "notes": "Original 4,136 cc AM116 road specification, with the standard five-speed manual identified by the factory’s 2019 retrospective. The 4.7/4.9 engines, optional automatic, later Citroen hydraulic brakes and years do not add counts. Conflicting later power/speed/production figures, power-peak rpm, weight and unverified performance are omitted. The name honours 8CTF Indianapolis victories; the Indy road coupe did not win those races."
+        },
+        {
+          "publisher": "Maserati / Stellantis Media",
+          "title": "Maserati celebrates the 50th anniversary of the first Indy coupe delivery — 1 July 2019",
+          "source_type": "Manufacturer historical press release",
+          "url": "https://www.media.stellantis.com/em-en/maserati/press/maserati-celebrates-the-50th-anniversary-of-the-first-indy-coupe-delivery",
+          "notes": "Actual factory release read through public web text. Defines initial 4,136 cc engine, four Weber 42 DCNF carburettors and standard five-speed manual. Later-engine speed and power totals conflict with the heritage page and are not used."
+        },
+        {
+          "publisher": "Motor Klassik / Heinrich Lingner",
+          "title": "Maserati Indy: Fahrbericht und Kaufberatung — 12 July 2019",
+          "source_type": "First-hand retrospective road drive",
+          "url": "https://www.auto-motor-und-sport.de/oldtimer/maserati-indy-1969-1974-schwachstellen-fahrbericht/",
+          "notes": "Actual road-driving body read. The text describes a 4.2-litre drive while some supplied photo captions identify a 4700. It supplies qualitative family driving context only: inconsistent 231/260 PS and rpm figures, performance numbers and photo-engine inference are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Maserati Indy HCC23.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Maserati_Indy_HCC23.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4136",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel semi-monocoque with front subframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double-wishbone front; rigid rear axle with leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Vignale",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "260",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four Weber 42 DCNF carburettors",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, original standard specification",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Indy extended Maserati’s sporting V8 GT tradition into a genuine four-seat Vignale coupe, combining twin-cam engine engineering with long-distance usability. A first-hand drive records the original 4.2-litre engine’s strong upper-rev response and fast touring character. It belongs as a distinct historic Maserati performance GT, not simply through its badge or the Indianapolis-inspired name.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_indy_am116_4200_1969.jpg",
+          "caption": "Maserati Indy photographed by MrWalkr at Hampton Court Concours 2023, file-identified as a 1970 car. Representative original-family four-seat GT body; it does not certify the selected 1969 AM116 4.2-litre engine, gearbox or unchanged factory equipment.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "ad1ff1f0b51fd33152cbaef25a43ef565323d897804eb61b17ed2b82c08b63dd"
+        }
+      ]
+    },
+    {
+      "id": "TVR-WEDGE-350I-ORIGINAL1983",
+      "manufacturer": "TVR",
+      "model_family": "Tasmin / Wedges",
+      "generation": "Original Tasmin / wedge-shaped production-road sports-car family",
+      "variant": "350i V8 open car — original 1983 programme, club technical reference",
+      "model_year_from": 1983,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open two-door sports car",
+      "road_legal": 1,
+      "specification_market": "350i V8 road reference using the TVR Car Club technical table, within the original Tasmin/wedge programme. Club 190 bhp is retained without an invented SAE/DIN/net standard; a retrospective guide’s 197-bhp caption is not silently substituted. V6 Tasmin gearbox and suspension details, modified ECU settings, later wedge hardware and performance estimates are excluded. One family includes 280i/350i and related wedge variants, not extra counts for engine changes or the dropped Tasmin name.",
+      "summary": "The Tasmin wedge marked a major design and chassis departure for TVR. Installing the Rover V8 created the 350i and established the marque’s defining V8 sports-car direction under Peter Wheeler. Its light sports-car concept and lasting place in TVR history justify one wedge-family entry, grouping its engines, body revisions and renamed variants rather than treating them as extra cars.",
+      "admission_reason": "The Tasmin wedge marked a major design and chassis departure for TVR. Installing the Rover V8 created the 350i and established the marque’s defining V8 sports-car direction under Peter Wheeler. Its light sports-car concept and lasting place in TVR history justify one wedge-family entry, grouping its engines, body revisions and renamed variants rather than treating them as extra cars.",
+      "sources": [
+        {
+          "publisher": "TVR Car Club",
+          "title": "TVR Tasmin / Wedges — model history and 350i technical specification",
+          "source_type": "Primary marque club technical and model record",
+          "url": "https://www.tvr-car-club.co.uk/tvr-tasmin--wedges.html",
+          "notes": "350i V8 road reference using the TVR Car Club technical table, within the original Tasmin/wedge programme. Club 190 bhp is retained without an invented SAE/DIN/net standard; a retrospective guide’s 197-bhp caption is not silently substituted. V6 Tasmin gearbox and suspension details, modified ECU settings, later wedge hardware and performance estimates are excluded. One family includes 280i/350i and related wedge variants, not extra counts for engine changes or the dropped Tasmin name."
+        },
+        {
+          "publisher": "TVR",
+          "title": "Heritage — Peter Wheeler and Rover V8 wedge development",
+          "source_type": "Manufacturer heritage account",
+          "url": "https://www.tvr.co.uk/heritage",
+          "notes": "Factory account identifies the Rover V8 transformation from Tasmin to 350i and the subsequent wedge variants. Supports historical admission and identity; later Griffith/Chimaera engines are not this specification."
+        },
+        {
+          "publisher": "Classic & Sports Car; scan hosted by Craig McAteer",
+          "title": "TVR 350i buyer’s guide — November 1998, pages 178–179",
+          "source_type": "Retrospective model guide with first-hand used-car inspection",
+          "url": "https://craigmcateer.co.uk/wp-content/uploads/2020/03/Classic-and-SportsCar-NOVEMBER-1998-TVR-350i.pdf",
+          "notes": "Both scanned pages downloaded, rendered and visually read. Describes the wedge design/chassis transition and V8 frame changes. Contains a first-hand for-sale inspection of a modified 1989 car: ECU/tyre pressures and steering/acceleration comments do not establish original factory specification. Generic quoted contemporary praise is not a claim to have read the original 1983 tests."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1984 TVR 350i BS O24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1984_TVR_350i_BS_O24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Rover V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3528",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published maximum power",
+          "value": "190",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5280",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "220",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Tasmin wedge marked a major design and chassis departure for TVR. Installing the Rover V8 created the 350i and established the marque’s defining V8 sports-car direction under Peter Wheeler. Its light sports-car concept and lasting place in TVR history justify one wedge-family entry, grouping its engines, body revisions and renamed variants rather than treating them as extra cars.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_wedge_350i_original1983.jpg",
+          "caption": "TVR 350i photographed by MrWalkr at Bicester Scramble in October 2024, file-identified as a 1984 car. Representative open wedge-family body with non-original-looking wheels; the photograph does not certify factory wheel specification, engine tune or the exact 1983 reference car.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "87a518a877bce3fd9bbbc26b706ebd976aa1b0580d9bfb0688e821935d5a7a38"
+        }
+      ]
+    }
+  ]
+}

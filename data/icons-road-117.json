@@ -1,0 +1,258 @@
+{
+  "batch": "icons-road-2026-10-30-117",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "HYU-I20N-BC3-UK2021",
+      "manufacturer": "Hyundai",
+      "model_family": "i20 N",
+      "generation": "Original BC3-based i20 N production-road hot-hatch family",
+      "variant": "204-PS six-speed manual — 2021 UK factory technical reference",
+      "model_year_from": 2021,
+      "model_year_to": null,
+      "origin_country": "South Korea",
+      "category": "Performance icon",
+      "body_style": "Five-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original BC3-based i20 N five-door road hatchback, selected 2021 UK 204-PS six-speed manual from Hyundai Motor UK’s 16 June 2021 specification release. Count the original i20 N road family once across years and equipment. Separate from i30 N and Veloster N; not the Indian BI3 N Line, ordinary i20, Coupe WRC, Rally1 or Rally2 racer. UK table says R-MDPS while earlier factory text says column-mounted C-MDPS, so steering assistance location and ratio are not assigned. Acceleration is also withheld: UK table says 6.2 seconds 0–62 mph, earlier text 6.7 seconds 0–100 km/h. Turning-circle 5.27-m label is ambiguous and omitted. No single curb weight is selected from the range, and no WRC minimum-weight equivalence, price or competition result is imported.",
+      "summary": "The i20 N earned both Top Gear’s 2021 Performance Car of the Year and overall Car of the Year awards. The award publisher’s assessment establishes the small hot hatch’s exceptional road-and-track appeal beyond its modest size and price. This original six-speed-manual road family is represented once; WRC inspiration is not a claim that the road car shares rally-car hardware or results.",
+      "admission_reason": "The i20 N earned both Top Gear’s 2021 Performance Car of the Year and overall Car of the Year awards. The award publisher’s assessment establishes the small hot hatch’s exceptional road-and-track appeal beyond its modest size and price. This original six-speed-manual road family is represented once; WRC inspiration is not a claim that the road car shares rally-car hardware or results.",
+      "sources": [
+        {
+          "publisher": "Hyundai Motor UK",
+          "title": "Hyundai Announces All New i20 N Prices and Specifications — 16 June 2021",
+          "source_type": "Original manufacturer UK production-road specification release",
+          "url": "https://www.hyundai.news/newsroom/dam/eu/uk/20210617_i20_n_pricing_specs/hyundai-uk-i20-n-technical-data-0621.pdf",
+          "notes": "Three-page PDF, 162,677 bytes; all pages individually visually read, technical tables on indexes 0–1, disclaimer continues on index 2. Selected UK 204 PS / 150 kW six-speed manual. Normal and overboost torque with distinct operating ranges retained. Header confirms standard N Corner Carving Differential, Launch Control and rev matching. Steering R-MDPS conflicts with earlier introduction C-MDPS; assistance location unassigned. Acceleration, ambiguous turning circle, kerb-mass range, braking distance, prices and economy omitted."
+        },
+        {
+          "publisher": "Top Gear / BBC Studios",
+          "title": "Revealed: the winners of the 2021 TopGear.com awards — i20 N awards",
+          "source_type": "Award publisher’s original awards announcement",
+          "url": "https://www.topgear.com/car-news/revealed-winners-2021-topgearcom-awards",
+          "notes": "Both relevant award sections read: Performance Car of the Year and overall Car of the Year name Hyundai i20N. This supports performance significance, not a technical specification, universal superiority claim or transfer of every award to all ordinary i20 derivatives."
+        },
+        {
+          "publisher": "Hyundai Motor UK",
+          "title": "Hyundai Motor unveils the all-new Hyundai i20 N — original model introduction",
+          "source_type": "Original manufacturer model introduction",
+          "url": "https://www.hyundai.news/uk/press-kit-archive/i20-n-2021/hyundai-motor-unveils-the-all-new-hyundai-i20-n.html",
+          "notes": "Relevant model, powertrain, chassis and road-launch sections read. Identifies a separate i20-based N road model, front-wheel power transfer and mechanical limited-slip differential, but selected attributes come from June UK specification sheet. Earlier steering C-MDPS and 6.7-second acceleration differ from UK technical sheet; conflicting fields withheld. WRC inspiration is not homologated road-car race equipment or an achievement of this production car. No full racing specification imported."
+        },
+        {
+          "publisher": "Wikimedia Commons / Flickr",
+          "title": "File:Hyundai i20 1.6 T-GDI N (2021) (53327092370).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Hyundai_i20_1.6_T-GDI_N_(2021)_(53327092370).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit https://www.flickr.com/photos/charles79/53327092370/ ; creator https://www.flickr.com/people/43494963@N03 . Source rendition copied unchanged, including existing plate treatment."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1598",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore x stroke",
+          "value": "75.6 x 89",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, UK factory specification",
+          "value": "204 PS / 150 kW",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum-power range",
+          "value": "5500–6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Normal maximum torque",
+          "value": "275",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Normal torque range",
+          "value": "1750–4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Temporary overboost torque",
+          "value": "304",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Overboost torque range",
+          "value": "2000–4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selected gearbox",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Standard differential",
+          "value": "N Corner Carving Differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Standard performance aids",
+          "value": "Launch Control and rev-matching downshifts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Driving modes",
+          "value": "N Grin Control System; five modes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "MacPherson strut",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Coupled torsion-beam axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "System",
+          "value": "ABS; front and rear discs, diagonally split",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front rotor",
+          "value": "320 mm ventilated disc",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Rear rotor",
+          "value": "262 mm solid disc",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Front and rear wheels",
+          "value": "7.5J x 18 alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Front and rear tyres",
+          "value": "215/40 R18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall length",
+          "value": "4075",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width excluding mirrors",
+          "value": "1775",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2580",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Overall height",
+          "value": "1440",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Capacities",
+          "label": "Fuel tank",
+          "value": "40",
+          "unit": "L",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The i20 N earned both Top Gear’s 2021 Performance Car of the Year and overall Car of the Year awards. The award publisher’s assessment establishes the small hot hatch’s exceptional road-and-track appeal beyond its modest size and price. This original six-speed-manual road family is represented once; WRC inspiration is not a claim that the road car shares rally-car hardware or results.",
+          "category": "Independent performance-car recognition",
+          "confidence": "Original award publisher’s dual 2021 awards documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hyundai_i20n_original_uk2021.jpg",
+          "caption": "Original five-door i20 N photographed by Charles from Port Chester, New York, on 1 September 2023. Individually inspected high front-side view showing the N grille, red trim, wheels and roof spoiler. Representative road-body photograph; title year 2021 is not proof of this car’s build date, exact UK equipment, engine tune, differential internals or original condition. Existing plate treatment is retained; background cars are not this entry.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "0ea64daca062918315bb49db0fb6f716304a735f7de4dc31f5c9cfde167ead04"
+        }
+      ]
+    }
+  ]
+}

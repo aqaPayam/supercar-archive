@@ -1,0 +1,459 @@
+{
+  "batch": "icons-road-2026-10-29-64",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "PEU-208-GTI30TH-GERMANY2015",
+      "manufacturer": "Peugeot",
+      "model_family": "208 GTi",
+      "generation": "First-generation 208 production-road performance family",
+      "variant": "GTi 30th by Peugeot Sport — May 2015 German reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "German May 2015 GTi 30th reference: native 153 kW / 208 PS. No conversion to mechanical horsepower, ordinary GTi 200 PS specification, RCZ R engine output, later facelift equipment, production total or universal paint scheme is imported. One first-generation 208 performance family is counted.",
+      "summary": "Peugeot Sport made this 208 GTi a focused driver’s car through a Torsen differential, substantial front brakes and revised chassis geometry. First-hand circuit driving found materially better traction, braking and steering. This is the archive’s single first-generation 208 performance reference, selected for its mechanical development rather than anniversary paint or numbering.",
+      "admission_reason": "Peugeot Sport made this 208 GTi a focused driver’s car through a Torsen differential, substantial front brakes and revised chassis geometry. First-hand circuit driving found materially better traction, braking and steering. This is the archive’s single first-generation 208 performance reference, selected for its mechanical development rather than anniversary paint or numbering.",
+      "sources": [
+        {
+          "publisher": "Peugeot / Stellantis Media",
+          "title": "208 GTi 30th — German manufacturer announcement, 8 May 2015",
+          "source_type": "Period manufacturer announcement",
+          "url": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-208-gti-30th-jubilaumsmodell-zum-30-geburtstag-des-legendaren-205-gti",
+          "notes": "German May 2015 GTi 30th reference: native 153 kW / 208 PS. No conversion to mechanical horsepower, ordinary GTi 200 PS specification, RCZ R engine output, later facelift equipment, production total or universal paint scheme is imported. One first-generation 208 performance family is counted."
+        },
+        {
+          "publisher": "Top Gear / Tom Harrison",
+          "title": "Peugeot 208 GTi 30th first drive — 3 December 2014",
+          "source_type": "Contemporary first-hand circuit drive",
+          "url": "https://www.topgear.com/car-reviews/peugeot/208-hatchback-special-editions-2012/16-thp-gti-30th-3dr/first-drive",
+          "notes": "First-hand driving was limited to a very wet French circuit. Traction, brake feel and steering improved; the engine, exhaust and obscured instruments drew criticism. This does not establish road ride quality. UK bhp shorthand, price and planned allocations are not technical data for Germany."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Peugeot 208 GTi 30th by Peugeot Sport (1).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Peugeot_208_GTi_30th_by_Peugeot_Sport_(1).jpg",
+          "notes": "Cjp24; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "THP inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "153",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "300",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with specific ratios",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin-scroll turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection at 200 bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front Brembo fixed four-piston calipers; 323 mm diameter, 28 mm thick discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin Pilot Super Sport 205/40 ZR18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Ride-height change relative to regular GTi",
+          "value": "10 mm lower",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Track-width increase relative to regular GTi",
+          "value": "22 mm front; 16 mm rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Peugeot Sport made this 208 GTi a focused driver’s car through a Torsen differential, substantial front brakes and revised chassis geometry. First-hand circuit driving found materially better traction, braking and steering. This is the archive’s single first-generation 208 performance reference, selected for its mechanical development rather than anniversary paint or numbering.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_208_gti30th_germany2015.jpg",
+          "caption": "Peugeot 208 GTi 30th by Peugeot Sport photographed by Cjp24. The representative three-door road car wears the optional black/red two-tone finish. Its image does not certify a May 2015 German build, original engine tune, brake dimensions or unchanged mechanical condition.",
+          "creator": "Cjp24",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4153f55d68dd4138c3b2e84b4eed24154f928c36db502e5bfd762ab032603ad2"
+        }
+      ]
+    },
+    {
+      "id": "VW-SCIROCCO-II-GTX16V-1985",
+      "manufacturer": "Volkswagen",
+      "model_family": "Scirocco",
+      "generation": "Type 53B second-generation production-road sporting coupe family",
+      "variant": "GTX 16V 139 PS — 1985 European programme reference",
+      "model_year_from": 1985,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Use Volkswagen’s specifically labelled 1.8 GTX 16V table row: 102 kW / 139 PS, 165 Nm. The reference identifies the original 1985 European programme; the retrospective table is not a dated build sheet. Later catalytic-converter output, eight-valve GTX/GTI figures, trim names and other-market torque figures are excluded.",
+      "summary": "The second Scirocco’s GTX 16V brought the established Volkswagen sporting coupe into the four-valve era. Its 139 PS engine was accompanied by reinforced driveline and suspension parts and rear disc brakes, making it a substantive performance development of the Karmann-built coupe. One road reference represents this distinct Scirocco generation. Editorial driving assessment values its lively engine and entertaining, predictable chassis, while noting heavy steering and an ageing front end.",
+      "admission_reason": "The second Scirocco’s GTX 16V brought the established Volkswagen sporting coupe into the four-valve era. Its 139 PS engine was accompanied by reinforced driveline and suspension parts and rear disc brakes, making it a substantive performance development of the Karmann-built coupe. One road reference represents this distinct Scirocco generation. Editorial driving assessment values its lively engine and entertaining, predictable chassis, while noting heavy steering and an ageing front end.",
+      "sources": [
+        {
+          "publisher": "Volkswagen Classic / Volkswagen Newsroom",
+          "title": "Scirocco II engine versions — 1.8 GTX 16V row",
+          "source_type": "Manufacturer historical model specifications",
+          "url": "https://www.volkswagen-newsroom.com/en/engine-versions-scirocco-2-profile-19653",
+          "notes": "Use Volkswagen’s specifically labelled 1.8 GTX 16V table row: 102 kW / 139 PS, 165 Nm. The reference identifies the original 1985 European programme; the retrospective table is not a dated build sheet. Later catalytic-converter output, eight-valve GTX/GTI figures, trim names and other-market torque figures are excluded."
+        },
+        {
+          "publisher": "Volkswagen Classic / Volkswagen Newsroom",
+          "title": "Scirocco II (1981–1992) — 1985 four-valve development",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.volkswagen-newsroom.com/en/scirocco-2-19811992-19651",
+          "notes": "The Type 53B retains the Golf I platform and Karmann production. The 1985 section identifies the 139 PS four-valve development and reinforced driveshafts, wishbones and stabilisers with rear disc brakes. No first-ever Volkswagen 16-valve claim, Golf II platform inference or favourable-wind maximum speed is adopted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1988 Volkswagen Scirocco GTX-16V.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1988_Volkswagen_Scirocco_GTX-16V.jpg",
+          "notes": "TTTNIS; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        },
+        {
+          "publisher": "L’Automobile Sportive / Sébastien Dupuis",
+          "title": "Volkswagen Scirocco II GTX 16V — driving assessment and historical guide",
+          "source_type": "Editorial driving assessment / historical guide",
+          "url": "https://www.automobile-sportive.com/guide/volkswagen/scirocco2gtx16v.php",
+          "notes": "The on-road assessment praises the lively engine and entertaining, predictable handling but notes heavy steering and a dated front end. Technical values remain with Volkswagen’s labelled table: this guide has a different torque figure and a rear-drum table entry contradicting its own rear-disc narrative. No technical numbers or first-ever claims are taken from it."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1781",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "102",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6100",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "165",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Rear disc brakes",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Revised wishbones and stabilisers for the 16V performance level",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driveshafts",
+          "value": "Reinforced for the 16V performance level",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second Scirocco’s GTX 16V brought the established Volkswagen sporting coupe into the four-valve era. Its 139 PS engine was accompanied by reinforced driveline and suspension parts and rear disc brakes, making it a substantive performance development of the Karmann-built coupe. One road reference represents this distinct Scirocco generation. Editorial driving assessment values its lively engine and entertaining, predictable chassis, while noting heavy steering and an ageing front end.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 3
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_scirocco_ii_gtx16v_1985.jpg",
+          "caption": "1988 Volkswagen Scirocco GTX-16V photographed by TTTNIS. This representative later Type 53B road body is distinct from the 1985 European programme reference; its image does not certify the selected non-catalyst output, torque, market equipment or unchanged tune.",
+          "creator": "TTTNIS",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7ff8e8d281ed1b175d370d9dc71bb9089045e7d9386de235d58f4ac5cbc1e6ea"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FIESTA-ST150-B256-2005",
+      "manufacturer": "Ford",
+      "model_family": "Fiesta",
+      "generation": "Original naturally aspirated Fiesta ST road family, Fiesta 2002 programme",
+      "variant": "ST 2.0 Duratec 150 PS — January 2005 German reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "January 2005 German production-road ST reference, before the later body update. Native 110 kW / 150 PS is retained. Source is a period Ford-attributed technical release preserved by an independent archive; it is not hosted on Ford’s current website. Optional 17-inch wheels are distinct from standard 16-inch wheels. Later turbo ST, Mountune, XR4 rebadges and cosmetic stripes do not add another record.",
+      "summary": "The original Fiesta ST was the first production model developed by Ford’s new TeamRS, bringing the fast-Fiesta lineage into the ST era. Its larger naturally aspirated Duratec, revised chassis, short-shift manual and rear disc brakes gave it a clear engineering identity. Contemporary driving praised its precise, agile handling and usable comfort.",
+      "admission_reason": "The original Fiesta ST was the first production model developed by Ford’s new TeamRS, bringing the fast-Fiesta lineage into the ST era. Its larger naturally aspirated Duratec, revised chassis, short-shift manual and rear disc brakes gave it a clear engineering identity. Contemporary driving praised its precise, agile handling and usable comfort.",
+      "sources": [
+        {
+          "publisher": "Ford, preserved by fordfan.de",
+          "title": "Ford Fiesta ST technical data — 31 January 2005, preserved Ford release",
+          "source_type": "Period Ford-attributed technical release, independent archive",
+          "url": "https://www.fordfan.de/technische-daten/2005/01/31/technische-daten-ford-fiesta-st",
+          "notes": "January 2005 German production-road ST reference, before the later body update. Native 110 kW / 150 PS is retained. Source is a period Ford-attributed technical release preserved by an independent archive; it is not hosted on Ford’s current website. Optional 17-inch wheels are distinct from standard 16-inch wheels. Later turbo ST, Mountune, XR4 rebadges and cosmetic stripes do not add another record."
+        },
+        {
+          "publisher": "Ford, preserved by fordfan.de",
+          "title": "Ford Fiesta ST model information — 31 January 2005",
+          "source_type": "Period Ford-attributed model release, independent archive",
+          "url": "https://www.fordfan.de/modellinfos/2005/01/31/ford-fiesta-st",
+          "notes": "Page explicitly attributes the period text to Ford. First TeamRS production model; two-year chassis development and road-car changes are distinguished from the Focus WRC04 competition programme. German equipment reference; no universal ESP or option fitment is claimed for other countries."
+        },
+        {
+          "publisher": "AUTO BILD",
+          "title": "Fahrbericht Ford Fiesta ST — 7 January 2005",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.autobild.de/artikel/fahrbericht-ford-fiesta-st-48508.html",
+          "notes": "Actual first-hand report supports precise, light-footed handling, braking and retained comfort. Published 110 kW / 150 PS and five-speed data corroborate the preserved Ford release. Period class-leading opinion, optional stripes, prices and acceleration claims are not adopted as universal facts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2005 Ford Fiesta ST.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2005_Ford_Fiesta_ST.JPG",
+          "notes": "Chriscumbria at English Wikipedia; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Transferred from en.wikipedia to Commons.. Downloaded rendition copied unchanged; original image format retained."
+        },
+        {
+          "publisher": "Ford-Werke GmbH / Presseportal",
+          "title": "Rekord: Eine Million Ford Fiesta gebaut — 18 February 2005",
+          "source_type": "Period manufacturer release via press distributor",
+          "url": "https://www.presseportal.de/pm/6955/649498",
+          "notes": "Ford’s own distributed release identifies an ST leaving the Cologne production line in February 2005. Supports the German production origin; the million milestone covers the wider production family, not an ST production total."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Duratec inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1999",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts; 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "110",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "190",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/45 R16 standard; 205/40 R17 optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual with shortened shift travel",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "258 mm ventilated front discs; rear disc brakes",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Intake system",
+          "value": "Variable-length intake system",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Fiesta ST was the first production model developed by Ford’s new TeamRS, bringing the fast-Fiesta lineage into the ST era. Its larger naturally aspirated Duratec, revised chassis, short-shift manual and rear disc brakes gave it a clear engineering identity. Contemporary driving praised its precise, agile handling and usable comfort.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_fiesta_st150_b256_2005.jpg",
+          "caption": "2005 European Ford Fiesta ST photographed by Chriscumbria. This representative three-door road body does not certify German delivery, standard wheel fitment, original power or unchanged condition. Side graphics do not establish standard equipment.",
+          "creator": "Chriscumbria at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "e718c01b151de1e1d27e4a2de8850ced3fbd152a85d27815732e8e7dcbfadfa2"
+        }
+      ]
+    }
+  ]
+}

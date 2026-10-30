@@ -1,0 +1,487 @@
+{
+  "batch": "icons-road-2026-10-29-28",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "ALP-A310-V6-EARLY4MT",
+      "manufacturer": "Alpine",
+      "model_family": "A310",
+      "generation": "Original A310 V6 road coupe",
+      "variant": "V6 — early French four-speed road brochure reference",
+      "model_year_from": 1978,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat sports coupe",
+      "road_legal": 1,
+      "specification_market": "Original Alpine Renault French road catalogue hosted by the Alpine Renault forum as 1978: 23 scanned PDF pages, with body/engine narrative PDF4/9 and technical leaf PDF22 visually reviewed. The leaf explicitly selects four forward gears, 2664 cc and 150 DIN ch at 6000 rpm. Year 1978 follows host attribution, not an independently authenticated print date. Later five-speed, revised rear suspension, Pack GT and Group 4/5 engines are excluded. Native ch and mkg retained without conversion.",
+      "summary": "The A310 carried Alpine beyond the compact A110 into the sporting grand-tourer market. The V6 road coupe retained a lightweight polyester body and backbone chassis while giving the angular four-seat design the six-cylinder performance central to its identity. It represents an important stage in Alpine’s transition from rally-focused berlinettes to French performance GTs.",
+      "admission_reason": "The A310 carried Alpine beyond the compact A110 into the sporting grand-tourer market. The V6 road coupe retained a lightweight polyester body and backbone chassis while giving the angular four-seat design the six-cylinder performance central to its identity. It represents an important stage in Alpine’s transition from rally-focused berlinettes to French performance GTs.",
+      "sources": [
+        {
+          "publisher": "Alpine Renault / Alpine Renault forum hosted facsimile",
+          "title": "Alpine Renault A310 V6 — original French road catalogue and four-speed technical leaf",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://forum.alpinerenault.com/download/Catalogue_Alpine_A310V6_1978.pdf",
+          "notes": "Original Alpine Renault French road catalogue hosted by the Alpine Renault forum as 1978: 23 scanned PDF pages, with body/engine narrative PDF4/9 and technical leaf PDF22 visually reviewed. The leaf explicitly selects four forward gears, 2664 cc and 150 DIN ch at 6000 rpm. Year 1978 follows host attribution, not an independently authenticated print date. Later five-speed, revised rear suspension, Pack GT and Group 4/5 engines are excluded. Native ch and mkg retained without conversion."
+        },
+        {
+          "publisher": "Alpine",
+          "title": "Celebrating 60 years of Alpine — A310 sporting-GT development",
+          "source_type": "Manufacturer historical account",
+          "url": "https://media.alpinecars.com/celebrating-60-years-of-alpine/?lang=eng",
+          "notes": "Factory 2015 retrospective supports A310’s move into the sports-car and grand-tourer market. Used for history, not its narrative bhp notation or later mechanical data."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1980 Renault Alpine A310 V6 - 14404217287.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1980_Renault_Alpine_A310_V6_-_14404217287.jpg",
+          "notes": "SG2012; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/57664366@N08/14404217287/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V6; light-alloy block and cylinder heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2664",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One chain-driven overhead camshaft per cylinder bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "One single-choke 34 TBIA and one twin-choke 35 CEEI carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed all-synchronised forward gears; one reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Laminated polyester body bonded to backbone chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four independent wheels; deformable quadrilaterals front and rear; coil springs, telescopic dampers and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted dual hydraulic circuits; ventilated front discs and solid rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native DIN notation",
+          "value": "150",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native DIN notation at 3500 rpm",
+          "value": "20.8",
+          "unit": "mkg",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The A310 carried Alpine beyond the compact A110 into the sporting grand-tourer market. The V6 road coupe retained a lightweight polyester body and backbone chassis while giving the angular four-seat design the six-cylinder performance central to its identity. It represents an important stage in Alpine’s transition from rally-focused berlinettes to French performance GTs.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alp_a310_v6_early4mt.jpg",
+          "caption": "Alpine A310 V6 identified as a 1980 car at Capesthorne Hall in 2014. The narrow road body, four-headlamp nose and original-style three-stud wheels represent the early V6 design. Photo year, sunroof and exterior condition do not establish the selected brochure’s four-speed transmission, tune or mechanical originality. No wide-bodied Pack GT or competition conversion is substituted.",
+          "creator": "SG2012",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "329e35b5fa9c83a436a3d1013da9e5ff450e1eb5108b4c16b536aa16786fe9b8"
+        }
+      ]
+    },
+    {
+      "id": "ALP-A610-LAUNCH1991",
+      "manufacturer": "Alpine",
+      "model_family": "A610",
+      "generation": "GTA-derived A610 turbo road GT family",
+      "variant": "A610 Turbo — original 1991 French launch",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door rear-engined grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Renault Communication launch dossier dated 25 February 1991, embargoed to 19 March 1991. Gallery contains cover, press photographs and six text leaves: text pages 1–3 and Annexe 2/page 5 visually read. Launch table and narrative both specify 2975 cc; the 2015 factory retrospective’s 2963-cc/1990 wording is not substituted. Selected standard road A610, not Albertville, Magny-Cours, Le Mans competition or tuned car. No separate GTA record is added while same-lineage counting remains unresolved.",
+      "summary": "The A610 developed Alpine’s rear-engined GT concept into a substantially revised turbocharged road car. A reinforced backbone structure and bonded composite body accompanied revised suspension, strengthened transmission and ventilated brakes with ABS. Its three-litre V6 and pop-up-headlamp design make it a distinctive culmination of Alpine’s original performance-GT era.",
+      "admission_reason": "The A610 developed Alpine’s rear-engined GT concept into a substantially revised turbocharged road car. A reinforced backbone structure and bonded composite body accompanied revised suspension, strengthened transmission and ventilated brakes with ABS. Its three-litre V6 and pop-up-headlamp design make it a distinctive culmination of Alpine’s original performance-GT era.",
+      "sources": [
+        {
+          "publisher": "Renault / Alpine V6 Turbo hosted facsimile",
+          "title": "Renault A610 Turbo launch dossier — original scans linked from Alpine Renault forum index",
+          "source_type": "Period manufacturer press kit, linked archive facsimile",
+          "url": "https://forum.alpinerenault.com/viewtopic.php?t=19506",
+          "notes": "Original Renault Communication launch dossier dated 25 February 1991, embargoed to 19 March 1991. Gallery contains cover, press photographs and six text leaves: text pages 1–3 and Annexe 2/page 5 visually read. Launch table and narrative both specify 2975 cc; the 2015 factory retrospective’s 2963-cc/1990 wording is not substituted. Selected standard road A610, not Albertville, Magny-Cours, Le Mans competition or tuned car. No separate GTA record is added while same-lineage counting remains unresolved. Source URL is the HTTPS discovery/index thread linking the original scans at http://alpine.v6.turbo.free.fr/brochures/photos.php?marque=&galerie=dossierpresse-alpine-a610-mars1991 . The gallery uses HTTP; its original Renault pages were downloaded and visually read. Forum commentary supplies no technical figures."
+        },
+        {
+          "publisher": "Alpine",
+          "title": "Celebrating 60 years of Alpine — GTA/A610 lineage",
+          "source_type": "Manufacturer historical account",
+          "url": "https://media.alpinecars.com/celebrating-60-years-of-alpine/?lang=eng",
+          "notes": "Factory retrospective establishes GTA-to-A610 lineage and end of original production era. Launch dossier controls exact introduction and technical figures."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Renault Alpine A610 Turbo - Flickr - Alexandre Prévot.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Renault_Alpine_A610_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot.jpg",
+          "notes": "Alexandre Prévot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Renault Alpine A610 Turbo"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2975",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5750",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.6:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "One overhead camshaft per cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett T3 turbocharger; maximum boost 760 mbar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Strengthened five-speed manual; synchronised reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Reinforced backbone platform with pressed-sheet central floor/front structure and removable rear cradle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Bonded resin and glass-fibre composite panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones, anti-roll bars, coil springs and telescopic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four ventilated discs; Bosch ABS with five sensors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin MXX: 205/45 ZR16 front, 245/45 ZR16 rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native launch notation",
+          "value": "250",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native notation at 2900 rpm",
+          "value": "35.7",
+          "unit": "mkg",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The A610 developed Alpine’s rear-engined GT concept into a substantially revised turbocharged road car. A reinforced backbone structure and bonded composite body accompanied revised suspension, strengthened transmission and ventilated brakes with ABS. Its three-litre V6 and pop-up-headlamp design make it a distinctive culmination of Alpine’s original performance-GT era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alp_a610_launch1991.jpg",
+          "caption": "Alpine A610 Turbo road coupe photographed in France, showing the pop-up-headlamp nose and original-style body. Build year, installed engine tune and mechanical originality are not certified by this exterior. Not a GTA with exposed headlights or an A610 competition car.",
+          "creator": "Alexandre Prévot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "656edee0841361a6987dd3c393a3a0b6c856d67721565724c26dfcdb4398883d"
+        }
+      ]
+    },
+    {
+      "id": "PEU-306-GTI6-UK1999",
+      "manufacturer": "Peugeot",
+      "model_family": "306",
+      "generation": "Original 306 six-speed performance hatchback",
+      "variant": "GTI-6 — UK February 1999 technical brochure",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Peugeot Colours & Trims / Equipment & Options technical insert, M/CP1243 February 1999, hosted by 306 GTI-6 Owners Club; eight scanned pages, PDF3/4/8 visually read. Selected GTI-6 column, separate from XSi, automatic cabriolet and lighter Rallye. Native BHP/MKg labels retained without relabelling or calculated conversion. October 1998 range brochure M/CP1101 supplies period body/gearbox context only. No early five-speed S16/ACAV, BTCC, Maxi or Rallye competition specification.",
+      "summary": "The 306 GTI-6 is a defining Peugeot hot hatch, pairing a two-litre 16-valve engine with the unusually close-ratio six-speed manual developed by Peugeot Sport. Its responsive steering and compliant suspension established the balanced road-driving character that Peugeot continues to celebrate in its GTI heritage.",
+      "admission_reason": "The 306 GTI-6 is a defining Peugeot hot hatch, pairing a two-litre 16-valve engine with the unusually close-ratio six-speed manual developed by Peugeot Sport. Its responsive steering and compliant suspension established the balanced road-driving character that Peugeot continues to celebrate in its GTI heritage.",
+      "sources": [
+        {
+          "publisher": "Peugeot Motor Company / 306 GTI-6 Owners Club hosted facsimile",
+          "title": "Peugeot 306 — original UK technical insert M/CP1243, February 1999",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.306gti6.com/downloads/index.php?id=19",
+          "notes": "Original Peugeot Colours & Trims / Equipment & Options technical insert, M/CP1243 February 1999, hosted by 306 GTI-6 Owners Club; eight scanned pages, PDF3/4/8 visually read. Selected GTI-6 column, separate from XSi, automatic cabriolet and lighter Rallye. Native BHP/MKg labels retained without relabelling or calculated conversion. October 1998 range brochure M/CP1101 supplies period body/gearbox context only. No early five-speed S16/ACAV, BTCC, Maxi or Rallye competition specification."
+        },
+        {
+          "publisher": "Peugeot",
+          "title": "Peugeot GTi through the years: 10 icons that set automotive hearts racing",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.media.stellantis.com/uk-en/peugeot/press/peugeot-gti-through-the-years-10-icons-that-set-automotive-hearts-racing",
+          "notes": "Factory retrospective dated 28 January 2026 supports six-speed Peugeot Sport gearbox and steering/ride significance. Its 1993–2003 heading covers broad 306-era dates and is not used as exact GTI-6 production chronology. Period insert controls technical values."
+        },
+        {
+          "publisher": "Peugeot Motor Company / 306 GTI-6 Owners Club hosted facsimile",
+          "title": "Peugeot 306 — UK range brochure M/CP1101, October 1998",
+          "source_type": "Period manufacturer sales brochure",
+          "url": "https://www.306gti6.com/downloads/index.php?id=18",
+          "notes": "31-page original range brochure. Contact sheet plus GTI-6 PDF25–26 and publisher/footer PDF31 rendered and read. Supports six-speed road model/body context; technical insert remains the selected specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Peugeot 306 GTi-6 (16092346079).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Peugeot_306_GTi-6_(16092346079).jpg",
+          "notes": "FotoSleuth; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Peugeot 306 GTi-6"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol; 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic multipoint injection; unleaded petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson-type front struts and anti-roll bar; independent rear trailing arms with transverse torsion bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted ventilated front discs and rear discs; anti-lock braking",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, brochure BHP notation",
+          "value": "167",
+          "unit": "BHP",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure notation at 5500 rpm",
+          "value": "20.0",
+          "unit": "MKg",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Doors",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Power-assisted",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 306 GTI-6 is a defining Peugeot hot hatch, pairing a two-litre 16-valve engine with the unusually close-ratio six-speed manual developed by Peugeot Sport. Its responsive steering and compliant suspension established the balanced road-driving character that Peugeot continues to celebrate in its GTI heritage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_306_gti6_uk1999.jpg",
+          "caption": "Peugeot 306 GTi-6 photographed in red with the three-door road body and five-spoke wheels. Registration, current equipment, exhaust and exterior condition do not authenticate the selected February 1999 UK specification or installed gearbox/tune. No claim that this car is unmodified; no competition, Rallye or early five-speed S16 is used as the selected technical reference.",
+          "creator": "FotoSleuth",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "6beacc9d801fc90e3c1c053fa67df3963ae4c936e6691753ec391abcc3100fc0"
+        }
+      ]
+    }
+  ]
+}

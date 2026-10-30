@@ -1,0 +1,437 @@
+{
+  "batch": "icons-road-2026-10-28-01",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "BMW-M3-E30-ROAD",
+      "manufacturer": "BMW",
+      "model_family": "M3",
+      "generation": "E30 original road coupe",
+      "variant": "M3 — original non-catalyst road specification",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 200 hp road model in BMW retrospective; excludes 195 hp catalyst, Evolution and Sport Evolution specifications. Manufacturer hp notation retained without conversion; the article ambiguously describes 6750 rpm, so it is not treated as a verified rev limit.",
+      "summary": "The original M3 brought Group A touring-car homologation engineering to the road and established the M3 lineage.",
+      "admission_reason": "The original M3 brought Group A touring-car homologation engineering to the road and established the M3 lineage.",
+      "sources": [
+        {
+          "publisher": "BMW",
+          "title": "BMW M3 — original non-catalyst road specification — manufacturer history",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-m3-e30-portraet.html",
+          "notes": "Original 200 hp road model in BMW retrospective; excludes 195 hp catalyst, Evolution and Sport Evolution specifications. Manufacturer hp notation retained without conversion; the article ambiguously describes 6750 rpm, so it is not treated as a verified rev limit."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:BMW M3 E30, Pau 2015 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:BMW_M3_E30,_Pau_2015_2.jpg",
+          "notes": "Handelsgeselschaft; CC BY-SA 4.0; license: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Naturally aspirated inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output notation",
+          "value": "200",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Layout",
+          "value": "Manual, dog-leg first gear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "235",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.7",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original M3 brought Group A touring-car homologation engineering to the road and established the M3 lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_m3_e30_road.jpg",
+          "caption": "BMW M3 — original non-catalyst road specification; representative road-car exterior. Photographed year, market and equipment may differ; the photo does not verify engine specification.",
+          "creator": "Handelsgeselschaft",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2a9ce6e2f385d26d4ff2b8fb4ad344ca2e39387f79a787242c2feb219d506e33"
+        }
+      ]
+    },
+    {
+      "id": "AUD-QUATTRO-B2-1980",
+      "manufacturer": "Audi",
+      "model_family": "quattro",
+      "generation": "B2 original turbo road coupe",
+      "variant": "quattro — original 147 kW road specification",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1980 Geneva reference; excludes later 20-valve engines, short-wheelbase Sport quattro and competition versions.",
+      "summary": "The original quattro made permanent all-wheel drive central to Audi’s performance-car identity, linking a turbocharged five-cylinder road coupe to a landmark rally programme.",
+      "admission_reason": "The original quattro made permanent all-wheel drive central to Audi’s performance-car identity, linking a turbocharged five-cylinder road coupe to a landmark rally programme.",
+      "sources": [
+        {
+          "publisher": "Audi",
+          "title": "Audi quattro — original 147 kW road specification — manufacturer history",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.audi.com/en/photos/detail/audi-quattro-b2-model-year-1980-geneva-motor-show-37230",
+          "notes": "1980 Geneva reference; excludes later 20-valve engines, short-wheelbase Sport quattro and competition versions."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1984 Audi Quattro \"Los Angeles Olympics\" in Alpine White, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1984_Audi_Quattro_%22Los_Angeles_Olympics%22_in_Alpine_White,_front_right.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0; license: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        },
+        {
+          "publisher": "Audi",
+          "title": "The origins of Audi quattro",
+          "source_type": "Manufacturer history",
+          "url": "https://www.audiusa.com/en/inside-the-rings/audi-quattro/",
+          "notes": "Permanent all-wheel-drive significance."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged inline five",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge cooling",
+          "value": "Intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "147",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "285",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3500",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original quattro made permanent all-wheel drive central to Audi’s performance-car identity, linking a turbocharged five-cylinder road coupe to a landmark rally programme.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_quattro_b2_1980.jpg",
+          "caption": "Audi quattro — original 147 kW road specification; representative road-car exterior. Photographed year, market and equipment may differ; the photo does not verify engine specification.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "bbd023921ec918b0abac303058db84826a0b666a3a422ae3608244ad4d5ac958"
+        }
+      ]
+    },
+    {
+      "id": "LAN-037-STRADALE",
+      "manufacturer": "Lancia",
+      "model_family": "Rally 037",
+      "generation": "Original Group B road homologation coupe",
+      "variant": "Rally 037 Stradale",
+      "model_year_from": 1982,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1982 road version only. Race-car injection systems, later displacement increases and competition outputs are excluded. Manufacturer HP notation is retained without conversion; weight is withheld because the page does not define its measurement convention.",
+      "summary": "The 037 Stradale was built to homologate Lancia’s Group B programme, whose rear-wheel-drive competition car won the 1983 world constructors’ rally championship.",
+      "admission_reason": "The 037 Stradale was built to homologate Lancia’s Group B programme, whose rear-wheel-drive competition car won the 1983 world constructors’ rally championship.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia Rally 037 Stradale — manufacturer history",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/stories/lancia-rally-037",
+          "notes": "1982 road version only. Race-car injection systems, later displacement increases and competition outputs are excluded. Manufacturer HP notation is retained without conversion; weight is withheld because the page does not define its measurement convention."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lancia 037 Stradale - Caramulo (50625604346).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lancia_037_Stradale_-_Caramulo_(50625604346).jpg",
+          "notes": "Freggs; CC BY-SA 2.0; license: https://creativecommons.org/licenses/by-sa/2.0. Credit: Lancia 037 Stradale - Caramulo"
+        },
+        {
+          "publisher": "Lancia",
+          "title": "Lancia rally championship history",
+          "source_type": "Manufacturer history",
+          "url": "https://www.media.stellantis.com/de-de/lancia/press/100-jahre-lancia-die-erfolgreichste-marke-der-rallyesport-historie-vor-dem-start-der-rallye-monte-carlo-ruckblick-auf-74-siege-in-der-wm-fulvia-stratos-rally-037-und-delta-integrale-schrieben-sportgeschichte",
+          "notes": "1983 manufacturers championship: competition programme, not a race won by the road car."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Supercharged inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Longitudinal mid-rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output notation",
+          "value": "205",
+          "unit": "manufacturer hp",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Manufacturer speed claim",
+          "value": ">220",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Designer",
+          "value": "Pininfarina",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 037 Stradale was built to homologate Lancia’s Group B programme, whose rear-wheel-drive competition car won the 1983 world constructors’ rally championship.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_037_stradale.jpg",
+          "caption": "Lancia Rally 037 Stradale; representative road-car exterior. Photographed year, market and equipment may differ; the photo does not verify engine specification.",
+          "creator": "Freggs",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "8a512f9e250637c9e1fa6ef1097c897adea44f65ed2f3a1e9fb22bacde119ff9"
+        }
+      ]
+    },
+    {
+      "id": "PEU-205-T16-ROAD",
+      "manufacturer": "Peugeot",
+      "model_family": "205 Turbo 16",
+      "generation": "Original Group B road homologation series",
+      "variant": "Turbo 16 — standard road homologation version",
+      "model_year_from": 1984,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Standard road model, not the rally EVO2 or optional Peugeot Talbot Sport power kit. Displacement withheld: the 2018 article describes 1700 while a later release describes 1.8 litres. No exact cc figure is inferred. Reference year identifies the original homologation era.",
+      "summary": "The mid-engined, all-wheel-drive 205 Turbo 16 road car homologated the Group B programme that won world rally titles in 1985 and 1986.",
+      "admission_reason": "The mid-engined, all-wheel-drive 205 Turbo 16 road car homologated the Group B programme that won world rally titles in 1985 and 1986.",
+      "sources": [
+        {
+          "publisher": "Peugeot",
+          "title": "Peugeot Turbo 16 — standard road homologation version — manufacturer history",
+          "source_type": "Manufacturer archive",
+          "url": "https://www.media.stellantis.com/it-it/peugeot/press/peugeot-205-turbo-16-stradale-n-una-leggenda-nel-motorsport-mondiale",
+          "notes": "Standard road model, not the rally EVO2 or optional Peugeot Talbot Sport power kit. Displacement withheld: the 2018 article describes 1700 while a later release describes 1.8 litres. No exact cc figure is inferred. Reference year identifies the original homologation era."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Peugeot 205 Turbo 16 01.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_01.jpg",
+          "notes": "Arnaud 25; CC BY-SA 4.0; license: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer output notation",
+          "value": "200",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Production",
+          "label": "Manufacturer reported road-series count",
+          "value": "200",
+          "unit": "cars",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The mid-engined, all-wheel-drive 205 Turbo 16 road car homologated the Group B programme that won world rally titles in 1985 and 1986.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_205_t16_road.jpg",
+          "caption": "Peugeot Turbo 16 — standard road homologation version; representative road-car exterior. Photographed year, market and equipment may differ; the photo does not verify engine specification.",
+          "creator": "Arnaud 25",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "567de5d0d5fb3d4b64294e7417759816109b63447d3e504a11795024d6ac90bc"
+        }
+      ]
+    }
+  ]
+}

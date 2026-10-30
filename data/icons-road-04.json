@@ -1,0 +1,1498 @@
+{
+  "batch": "icons-road-2026-10-28-04",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 14,
+  "cars": [
+    {
+      "id": "JAG-ETYPE-S1-38-ROAD",
+      "manufacturer": "Jaguar",
+      "model_family": "E-type",
+      "generation": "Series 1 original 3.8-litre",
+      "variant": "3.8 open two-seater — original road car",
+      "model_year_from": 1961,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original 1961 3.8 road open two-seater, not a lightweight racer, 4.2, 2+2 or modern continuation. The trust’s general road-model description is used, not assumed as-built details of the restored press car 77 RW. Near-150-mph claims are not imported as a certified production maximum.",
+      "summary": "The E-type translated Jaguar’s aerodynamic racing lineage into a production grand-touring sports car and became an enduring symbol of 1960s performance and design.",
+      "admission_reason": "The E-type translated Jaguar’s aerodynamic racing lineage into a production grand-touring sports car and became an enduring symbol of 1960s performance and design.",
+      "sources": [
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1961 Jaguar E-type 77 RW — original production model context",
+          "source_type": "Heritage trust / museum collection",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1961-jaguar-e-type-series-1-3-8-litre-77-rw/",
+          "notes": "Original 1961 3.8 road open two-seater, not a lightweight racer, 4.2, 2+2 or modern continuation. The trust’s general road-model description is used, not assumed as-built details of the restored press car 77 RW. Near-150-mph claims are not imported as a certified production maximum."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jaguar E-Type Roadster Series 1 (1963).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Roadster_Series_1_(1963).jpg",
+          "notes": "SG2012; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/57664366@N08/29472611326/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Jaguar XK",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "265",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Structure",
+          "value": "Monocoque with front subframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Body designer",
+          "value": "Malcolm Sayer",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The E-type translated Jaguar’s aerodynamic racing lineage into a production grand-touring sports car and became an enduring symbol of 1960s performance and design.",
+          "category": "Historical significance",
+          "confidence": "Heritage collection documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_etype_s1_38_road.jpg",
+          "caption": "Jaguar 3.8 open two-seater — original road car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "SG2012",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "83cbd5037b113e0359434ec2f0778f96a333ff4a49df8b36da5a8e8f617af4e1"
+        }
+      ]
+    },
+    {
+      "id": "JAG-XK120-OTS-ROAD",
+      "manufacturer": "Jaguar",
+      "model_family": "XK120",
+      "generation": "Original XK120 steel-bodied roadster",
+      "variant": "Open two-seater — standard 3.4",
+      "model_year_from": 1953,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "1953 standard steel-bodied OTS reference, not early aluminium construction, SE/C-type-head tuning or a competition conversion. Reference year follows the trust’s late production example; representative photograph may show another year. Period power and approximate speed are not treated as modern certified net figures.",
+      "summary": "The XK120 introduced Jaguar’s twin-cam XK engine to a successful production sports car, establishing a performance identity that would shape the marque for decades.",
+      "admission_reason": "The XK120 introduced Jaguar’s twin-cam XK engine to a successful production sports car, establishing a performance identity that would shape the marque for decades.",
+      "sources": [
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1953 Jaguar XK120 Open Two Seater — OOF 748",
+          "source_type": "Heritage trust / museum collection",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1953-jaguar-xk120-open-two-seater-oof-748/",
+          "notes": "1953 standard steel-bodied OTS reference, not early aluminium construction, SE/C-type-head tuning or a competition conversion. Reference year follows the trust’s late production example; representative photograph may show another year. Period power and approximate speed are not treated as modern certified net figures."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1950 Jaguar XK120 Roadster.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1950_Jaguar_XK120_Roadster.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.4",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "160",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshafts",
+          "value": "Twin overhead",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Combustion chambers",
+          "value": "Hemispherical",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Front suspension",
+          "value": "Independent torsion bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Main body construction",
+          "value": "Steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Reported 0–60 mph",
+          "value": "10",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The XK120 introduced Jaguar’s twin-cam XK engine to a successful production sports car, establishing a performance identity that would shape the marque for decades.",
+          "category": "Historical significance",
+          "confidence": "Heritage collection documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xk120_ots_road.jpg",
+          "caption": "Jaguar Open two-seater — standard 3.4 — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0094f479a6be44d1f9d5c4138ae1e0071581fcbf98e43fc5e860bb3edd6e7a19"
+        }
+      ]
+    },
+    {
+      "id": "AST-DB5-STD-ROAD",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB5",
+      "generation": "Original Newport Pagnell DB5",
+      "variant": "Standard saloon — five-speed manual",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Standard road saloon/coupe, not Vantage, convertible, shooting brake, film gadget car or modern continuation. Manufacturer retrospective separates SU standard specification from the Weber-equipped Vantage. Undefined weight basis and period acceleration-test conditions are withheld.",
+      "summary": "The DB5 combined Aston Martin’s developed straight-six grand-tourer engineering with an exceptional cultural legacy through its association with James Bond.",
+      "admission_reason": "The DB5 combined Aston Martin’s developed straight-six grand-tourer engineering with an exceptional cultural legacy through its association with James Bond.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Aston Martin Standard saloon — five-speed manual — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.astonmartin.com/en/models/past-models/db5-db5-convertible",
+          "notes": "Standard road saloon/coupe, not Vantage, convertible, shooting brake, film gadget car or modern continuation. Manufacturer retrospective separates SU standard specification from the Weber-equipped Vantage. Undefined weight basis and period acceleration-test conditions are withheld."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "The Aston Martin DB5 at 60",
+          "source_type": "Manufacturer history",
+          "url": "https://media.astonmartin.com/the-aston-martin-db5-at-60-celebrating-six-decades-of-the-worlds-most-iconic-car/?lang=eng",
+          "notes": "September 1963 public debut and the model’s cultural significance; no film-gadget or continuation specifications assigned."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Aston Martin DB5 LC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Aston_Martin_DB5_LC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "DOHC straight six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "282",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Three SU carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling discs front and rear, twin servos",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter",
+          "value": "15",
+          "unit": "in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB5 combined Aston Martin’s developed straight-six grand-tourer engineering with an exceptional cultural legacy through its association with James Bond.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_db5_std_road.jpg",
+          "caption": "Aston Martin Standard saloon — five-speed manual — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4dc88e33a631f1469a03546000006e10ed9d20244da9b4628e55e66c4dc216cd"
+        }
+      ]
+    },
+    {
+      "id": "AST-DB4-STD-ROAD",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB4",
+      "generation": "Original Touring Superleggera DB4",
+      "variant": "Standard saloon — four-speed manual",
+      "model_year_from": 1958,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Standard DB4 road saloon/coupe, not GT, Zagato or convertible. General standard manual specification from the manufacturer retrospective; no production endpoint or series-specific cosmetic claim. The page’s automatic option and unqualified first-ever acceleration claim are not used.",
+      "summary": "The DB4 established a new Aston Martin grand-touring architecture, pairing Tadek Marek’s new straight-six with Touring’s aluminium Superleggera coachwork.",
+      "admission_reason": "The DB4 established a new Aston Martin grand-touring architecture, pairing Tadek Marek’s new straight-six with Touring’s aluminium Superleggera coachwork.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Aston Martin Standard saloon — four-speed manual — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.astonmartin.com/en/models/past-models/db4-db4-convertible",
+          "notes": "Standard DB4 road saloon/coupe, not GT, Zagato or convertible. General standard manual specification from the manufacturer retrospective; no production endpoint or series-specific cosmetic claim. The page’s automatic option and unqualified first-ever acceleration claim are not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1960 Aston Martin DB4 Coupe.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1960_Aston_Martin_DB4_Coupe.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "DOHC straight six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3670",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "240",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dunlop servo-assisted solid discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Outer panels",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction",
+          "value": "Touring Superleggera tubular body frame on platform chassis",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB4 established a new Aston Martin grand-touring architecture, pairing Tadek Marek’s new straight-six with Touring’s aluminium Superleggera coachwork.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_db4_std_road.jpg",
+          "caption": "Aston Martin Standard saloon — four-speed manual — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "656aea6f6a6e1b493b7434be84364dc89da996191f0673f04cfa2bc928e94c61"
+        }
+      ]
+    },
+    {
+      "id": "AST-V8-VANTAGE-CLASSIC",
+      "manufacturer": "Aston Martin",
+      "model_family": "V8 Vantage",
+      "generation": "Original Newport Pagnell carburetted V8 Vantage",
+      "variant": "V8 Vantage saloon — standard manual",
+      "model_year_from": 1977,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original carburetted Vantage saloon family; reference year is its 1977 announcement. Not X-Pack, Zagato, Volante or a cosmetic US-market conversion. Later wheels, broad retrospective weight/output figures and fastest-four-seater superlatives are withheld. Photo shows a 1978 Oscar India example of the same early Vantage generation.",
+      "summary": "The original V8 Vantage established Aston Martin’s muscular supercar-era flagship through extensive engine breathing changes and functional aerodynamic development.",
+      "admission_reason": "The original V8 Vantage established Aston Martin’s muscular supercar-era flagship through extensive engine breathing changes and functional aerodynamic development.",
+      "sources": [
+        {
+          "publisher": "Aston Martin",
+          "title": "Aston Martin V8 Vantage saloon — standard manual — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.astonmartin.com/en/models/past-models/v8-vantage",
+          "notes": "Original carburetted Vantage saloon family; reference year is its 1977 announcement. Not X-Pack, Zagato, Volante or a cosmetic US-market conversion. Later wheels, broad retrospective weight/output figures and fastest-four-seater superlatives are withheld. Photo shows a 1978 Oscar India example of the same early Vantage generation."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1978 Aston Martin V8 Vantage Oscar India BS O24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1978_Aston_Martin_V8_Vantage_Oscar_India_BS_O24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "DOHC V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5340",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Girling ventilated discs front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Inlet valves",
+          "value": "Enlarged relative to standard V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Larger carburettors and revised inlet manifolds",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front and rear spoilers",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original V8 Vantage established Aston Martin’s muscular supercar-era flagship through extensive engine breathing changes and functional aerodynamic development.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_v8_vantage_classic.jpg",
+          "caption": "Aston Martin V8 Vantage saloon — standard manual — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "463bfda40a3df2b45fa9bff9b83ad1d3f26b7d9cecc224ab059c58f038aee958"
+        }
+      ]
+    },
+    {
+      "id": "LOT-ELAN-S1-ROAD",
+      "manufacturer": "Lotus",
+      "model_family": "Elan",
+      "generation": "Original Type 26 Series 1",
+      "variant": "Series 1 — original roadster",
+      "model_year_from": 1962,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original Series 1 Type 26 roadster, not Sprint, +2, 26R racer or later front-wheel-drive Elan M100. Manufacturer S1 table spans two engine capacities; the range is kept explicit. Conflicting output descriptions and undefined weight conventions are withheld.",
+      "summary": "The original Elan made a steel backbone chassis, composite body and independent suspension into a defining lightweight sports-car formula.",
+      "admission_reason": "The original Elan made a steel backbone chassis, composite body and independent suspension into a defining lightweight sports-car formula.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Series 1 — original roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elan",
+          "notes": "Original Series 1 Type 26 roadster, not Sprint, +2, 26R racer or later front-wheel-drive Elan M100. Manufacturer S1 table spans two engine capacities; the range is kept explicit. Conflicting output descriptions and undefined weight conventions are withheld."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 Lotus Elan S1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_Lotus_Elan_S1.jpg",
+          "notes": "LotusElanS1; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Series 1 displacement range",
+          "value": "1499–1558",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Steel backbone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Material",
+          "value": "Glass-reinforced composite",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent at all four wheels",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Elan made a steel backbone chassis, composite body and independent suspension into a defining lightweight sports-car formula.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_elan_s1_road.jpg",
+          "caption": "Lotus Series 1 — original roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "LotusElanS1",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4c667033e7a2506c55a966dc2c71df24fceeec4c8638ac408d9ee1803273d3c3"
+        }
+      ]
+    },
+    {
+      "id": "LOT-EUROPA-SPECIAL-ROAD",
+      "manufacturer": "Lotus",
+      "model_family": "Europa",
+      "generation": "Original Type 74 twin-cam Europa",
+      "variant": "Special — Big Valve five-speed road coupe",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1972 Special road reference. One representative of the original Europa family, not an additional JPS paint-only record, Renault-engined S1/S2, Type 47 racer or modern Europa S. Earlier 105-bhp Twin-Cam table and S1 weight are not assigned to the Special.",
+      "summary": "The Europa brought Lotus’s lightweight backbone principles to a mid-engined production road car; the Special developed that layout with the Big Valve twin-cam and a five-speed transmission.",
+      "admission_reason": "The Europa brought Lotus’s lightweight backbone principles to a mid-engined production road car; the Special developed that layout with the Big Valve twin-cam and a five-speed transmission.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Special — Big Valve five-speed road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/europa",
+          "notes": "1972 Special road reference. One representative of the original Europa family, not an additional JPS paint-only record, Renault-engined S1/S2, Type 47 racer or modern Europa S. Earlier 105-bhp Twin-Cam table and S1 weight are not assigned to the Special."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1972 Lotus Europa Twin Cam Special.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1972_Lotus_Europa_Twin_Cam_Special.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted behind cabin",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Lotus-Ford Twin-cam",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Special development",
+          "value": "Big Valve cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "126",
+          "unit": "manufacturer horsepower",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Backbone chassis",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Europa brought Lotus’s lightweight backbone principles to a mid-engined production road car; the Special developed that layout with the Big Valve twin-cam and a five-speed transmission.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_europa_special_road.jpg",
+          "caption": "Lotus Special — Big Valve five-speed road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "52b342fe6211b1356de64b07fa4b3ca386207a1c788deff4ab222a5ea2fc5ed1"
+        }
+      ]
+    },
+    {
+      "id": "LOT-SEVEN-S1-ROAD",
+      "manufacturer": "Lotus",
+      "model_family": "Seven",
+      "generation": "Original Series 1 Type 7",
+      "variant": "Series 1 — Ford 100E road specification",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat open roadster",
+      "road_legal": 1,
+      "specification_market": "Original Series 1 road specification, not a later Caterham, Super Seven engine conversion, S2 or S4. Manufacturer S1 table and early-engine narrative used; optional twin-carb tuning is excluded. Low power does not diminish its foundational lightweight-sports-car significance.",
+      "summary": "The original Seven established an enduring minimal roadster formula whose lightweight, direct driving experience continued through Caterham and influenced generations of sports cars.",
+      "admission_reason": "The original Seven established an enduring minimal roadster formula whose lightweight, direct driving experience continued through Caterham and influenced generations of sports cars.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Series 1 — Ford 100E road specification — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/seven",
+          "notes": "Original Series 1 road specification, not a later Caterham, Super Seven engine conversion, S2 or S4. Manufacturer S1 table and early-engine narrative used; optional twin-carb tuning is excluded. Low power does not diminish its foundational lightweight-sports-car significance."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1959 Lotus Seven Series 1, front right.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1959_Lotus_Seven_Series_1,_front_right.jpg",
+          "notes": "Mariegriffiths at English Wikipedia; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Transferred from en.wikipedia to Commons."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1172",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Ford 100E",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Side valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "36",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panels",
+          "value": "Double-curvature aluminium",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Seven established an enduring minimal roadster formula whose lightweight, direct driving experience continued through Caterham and influenced generations of sports cars.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_seven_s1_road.jpg",
+          "caption": "Lotus Series 1 — Ford 100E road specification — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Mariegriffiths at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ae1a060af048ce4de8fea50f459e70e26143064c5886854cdc07051e5756ac61"
+        }
+      ]
+    },
+    {
+      "id": "LOT-ELISE-S1-STD",
+      "manufacturer": "Lotus",
+      "model_family": "Elise",
+      "generation": "First-generation Type 111",
+      "variant": "Series 1 — standard 118 bhp roadster",
+      "model_year_from": 1996,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original standard Series 1 roadster, not Sport 190, 111S, later Toyota-powered S2 or Cup 250. Launch narrative supplies the 118-bhp tune; broad 1996–2003 totals and 690–770 kg ranges are not treated as S1-only values. Representative photo is a 1998 S1.",
+      "summary": "The first Elise pioneered bonded extruded-aluminium chassis construction for low-volume sports cars, renewing the lightweight Lotus roadster concept for a new era.",
+      "admission_reason": "The first Elise pioneered bonded extruded-aluminium chassis construction for low-volume sports cars, renewing the lightweight Lotus roadster concept for a new era.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Series 1 — standard 118 bhp roadster — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elise",
+          "notes": "Original standard Series 1 roadster, not Sport 190, 111S, later Toyota-powered S2 or Cup 250. Launch narrative supplies the 118-bhp tune; broad 1996–2003 totals and 690–770 kg ranges are not treated as S1-only values. Representative photo is a 1998 S1. kW calculated from published mechanical bhp at 0.745699872 kW/bhp."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1998 Lotus Elise S1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1998_Lotus_Elise_S1.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1796",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse behind the driver",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "118",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bonded extruded aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Design team leader",
+          "value": "Julian Thomson",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "88.0",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Elise pioneered bonded extruded-aluminium chassis construction for low-volume sports cars, renewing the lightweight Lotus roadster concept for a new era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_elise_s1_std.jpg",
+          "caption": "Lotus Series 1 — standard 118 bhp roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "7faf46569d2cd4d2bb87a161c7eee9a91b53bf5bc1c529c03ed0da87548fbb6c"
+        }
+      ]
+    },
+    {
+      "id": "LOT-EXIGE-S1-STD",
+      "manufacturer": "Lotus",
+      "model_family": "Exige",
+      "generation": "First-generation Type 111 Exige",
+      "variant": "Series 1 — standard 177 bhp road coupe",
+      "model_year_from": 2000,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 177-bhp production road Exige, not the optional 190-bhp track pack, Sport Elise racer, later Toyota S2 or V6 generation. The retrospective’s single-centre-seat sentence describes racing context and is excluded from the road specification.",
+      "summary": "The original Exige translated the Sport Elise racing programme into a distinct road coupe, combining a high-revving four-cylinder engine with track-derived bodywork and aerodynamics.",
+      "admission_reason": "The original Exige translated the Sport Elise racing programme into a distinct road coupe, combining a high-revving four-cylinder engine with track-derived bodywork and aerodynamics.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Series 1 — standard 177 bhp road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/exige",
+          "notes": "Original 177-bhp production road Exige, not the optional 190-bhp track pack, Sport Elise racer, later Toyota S2 or V6 generation. The retrospective’s single-centre-seat sentence describes racing context and is excluded from the road specification. kW calculated from published mechanical bhp at 0.745699872 kW/bhp."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Exige S1 at home.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Exige_S1_at_home.jpg",
+          "notes": "Bryn Pinzgauer; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: originally posted to Flickr as Exige S1 at home"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1796",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Version",
+          "value": "VHPD",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "177",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Tailgate",
+          "value": "Polycarbonate",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front splitter and rear wing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "132.0",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Exige translated the Sport Elise racing programme into a distinct road coupe, combining a high-revving four-cylinder engine with track-derived bodywork and aerodynamics.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_exige_s1_std.jpg",
+          "caption": "Lotus Series 1 — standard 177 bhp road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Bryn Pinzgauer",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3a1b5f8aed7bfff039919cd7a242359ebf59fc37a34db1dbd44b242a2bd58d21"
+        }
+      ]
+    },
+    {
+      "id": "LOT-ESPRIT-S1-ROAD",
+      "manufacturer": "Lotus",
+      "model_family": "Esprit",
+      "generation": "Original Giugiaro Type 79 Series 1",
+      "variant": "Series 1 — naturally aspirated road coupe",
+      "model_year_from": 1976,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original naturally aspirated Giugiaro Series 1 road coupe, not a submarine prop, Turbo, Stevens X180 or the existing 1996 V8 record. Manufacturer S1 table and original-engine narrative used. Prototype dates, undefined weight basis and later turbo speed claims are excluded.",
+      "summary": "The original Esprit combined Giugiaro’s influential wedge design with a Lotus-built mid-engined powertrain, gaining an enduring place in sports-car design and popular culture.",
+      "admission_reason": "The original Esprit combined Giugiaro’s influential wedge design with a Lotus-built mid-engined powertrain, gaining an enduring place in sports-car design and popular culture.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Series 1 — naturally aspirated road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/esprit",
+          "notes": "Original naturally aspirated Giugiaro Series 1 road coupe, not a submarine prop, Turbo, Stevens X180 or the existing 1996 V8 record. Manufacturer S1 table and original-engine narrative used. Prototype dates, undefined weight basis and later turbo speed claims are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Early Lotus Esprit S1 white.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Early_Lotus_Esprit_S1_white.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Lotus 907",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1973",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves",
+          "value": "16",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Construction",
+          "value": "All aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "160",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "5",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro / Italdesign",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Esprit combined Giugiaro’s influential wedge design with a Lotus-built mid-engined powertrain, gaining an enduring place in sports-car design and popular culture.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_esprit_s1_road.jpg",
+          "caption": "Lotus Series 1 — naturally aspirated road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "1c273e7ecf3a3649213f34a5ae8dc80f1b87afd47d8f8d113688221b86594cfb"
+        }
+      ]
+    },
+    {
+      "id": "AUS-HEALEY-3000-MK3",
+      "manufacturer": "Austin-Healey",
+      "model_family": "3000",
+      "generation": "BJ8 Mark III Phase II",
+      "variant": "Mark III Phase II — standard convertible",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door convertible",
+      "road_legal": 1,
+      "specification_market": "Museum’s 1964 BJ8 Phase II road reference, not a works rally car, earlier tri-carb Mk II or 100-series car. Shipping weight is not represented as kerb weight. The representative photograph shows road-event equipment that is not claimed as standard factory specification.",
+      "summary": "The 3000 represents the developed Big Healey tradition: a six-cylinder British sports car whose road appeal and competition history made it a defining model of the marque.",
+      "admission_reason": "The 3000 represents the developed Big Healey tradition: a six-cylinder British sports car whose road appeal and competition history made it a defining model of the marque.",
+      "sources": [
+        {
+          "publisher": "Ural Ataman Classic Car Museum",
+          "title": "1964 Austin-Healey 3000 Mk III BJ8 Phase II",
+          "source_type": "Heritage trust / museum collection",
+          "url": "https://www.atamanmuseum.com/austin-healey/1964-austin-healey-3000-mk-iii/",
+          "notes": "Museum’s 1964 BJ8 Phase II road reference, not a works rally car, earlier tri-carb Mk II or 100-series car. Shipping weight is not represented as kerb weight. The representative photograph shows road-event equipment that is not claimed as standard factory specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:20120909 Austin-Healey 3000 Mk III Classic Moto Show Krakow 9810.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:20120909_Austin-Healey_3000_Mk_III_Classic_Moto_Show_Krakow_9810.jpg",
+          "notes": "Jakub Hałun; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "OHV inline six",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "BMC C-series",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "177.7",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "148",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU HD8 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual with overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted front discs and rear drums",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 3000 represents the developed Big Healey tradition: a six-cylinder British sports car whose road appeal and competition history made it a defining model of the marque.",
+          "category": "Historical significance",
+          "confidence": "Heritage collection documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aus_healey_3000_mk3.jpg",
+          "caption": "Austin-Healey Mark III Phase II — standard convertible — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Jakub Hałun",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "feb57592cfa7b5a855ebac066ba085415694ebab27133f3faa6aac598116103b"
+        }
+      ]
+    },
+    {
+      "id": "TRI-TR6-PI-1974",
+      "manufacturer": "Triumph",
+      "model_family": "TR6",
+      "generation": "Original Karmann-bodied TR6",
+      "variant": "UK petrol-injection roadster — 1974 reference",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "1974 UK injection reference, not early 150-bhp PI or carburetted US specification. Museum car was rebuilt with a British Motor Heritage shell in 1992; the record describes the period road model, not an untouched individual car. Conflicting paired mph/km/h rounding and optional equipment are withheld.",
+      "summary": "The TR6 preserved the traditional six-cylinder British roadster formula with UK petrol injection and distinctive Karmann styling, while outselling the earlier TR models.",
+      "admission_reason": "The TR6 preserved the traditional six-cylinder British roadster formula with UK petrol injection and distinctive Karmann styling, while outselling the earlier TR models.",
+      "sources": [
+        {
+          "publisher": "British Motor Museum / BMIHT",
+          "title": "Triumph TR6, 1974 — collection record",
+          "source_type": "Heritage trust / museum collection",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=76417800452",
+          "notes": "1974 UK injection reference, not early 150-bhp PI or carburetted US specification. Museum car was rebuilt with a British Motor Heritage shell in 1992; the record describes the period road model, not an untouched individual car. Conflicting paired mph/km/h rounding and optional equipment are withheld."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1974 Triumph TR6 (13984).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1974_Triumph_TR6_(13984).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "125",
+          "unit": "museum-reported bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Petrol injection — UK version",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Styling",
+          "value": "Karmann",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "3950",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Width",
+          "value": "1461",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The TR6 preserved the traditional six-cylinder British roadster formula with UK petrol injection and distinctive Karmann styling, while outselling the earlier TR models.",
+          "category": "Historical significance",
+          "confidence": "Heritage collection documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_tr6_pi_1974.jpg",
+          "caption": "Triumph UK petrol-injection roadster — 1974 reference — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2c9eb6ab735e49f5189ad513699464ac22e284b7fb2d581ff73211aa50e26753"
+        }
+      ]
+    },
+    {
+      "id": "LOT-ELITE-T14-ROAD",
+      "manufacturer": "Lotus",
+      "model_family": "Elite",
+      "generation": "Original Type 14 fibreglass monocoque",
+      "variant": "Type 14 — standard 75 bhp road coupe",
+      "model_year_from": 1960,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Type 14 base road coupe, with 1960 as a reference year rather than a production-start claim. Not the later Type 75 Elite, SE, Super 95 or a Le Mans competition specification. Shared base 75-bhp architecture is recorded without uncertain series-specific weight or output upgrades.",
+      "summary": "The Type 14 Elite pioneered a load-bearing fibreglass monocoque in a production sports car, making lightweight construction itself a central part of its performance significance.",
+      "admission_reason": "The Type 14 Elite pioneered a load-bearing fibreglass monocoque in a production sports car, making lightweight construction itself a central part of its performance significance.",
+      "sources": [
+        {
+          "publisher": "Lotus",
+          "title": "Lotus Type 14 — standard 75 bhp road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.lotuscars.com/en-AU/lotus-story/road-cars/elite-type-14",
+          "notes": "Original Type 14 base road coupe, with 1960 as a reference year rather than a production-start claim. Not the later Type 75 Elite, SE, Super 95 or a Le Mans competition specification. Shared base 75-bhp architecture is recorded without uncertain series-specific weight or output upgrades."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lotus-Elite-'60.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lotus-Elite-%2760.jpg",
+          "notes": "Ww2censor; Public domain. License: . Credit: en:Image:Lotus-Elite-'60.jpg"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Coventry Climax FWE",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1216",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "75",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gears",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Structure",
+          "value": "Fibreglass monocoque body/chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Type 14 Elite pioneered a load-bearing fibreglass monocoque in a production sports car, making lightweight construction itself a central part of its performance significance.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lot_elite_t14_road.jpg",
+          "caption": "Lotus Type 14 — standard 75 bhp road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Ww2censor",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d8cd1d02dcb7b0bbc89ed35860ce4d9b183e620ffb11862fba57449fd894a190"
+        }
+      ]
+    }
+  ]
+}

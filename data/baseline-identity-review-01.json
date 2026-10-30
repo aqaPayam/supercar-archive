@@ -1,0 +1,981 @@
+{
+  "reviewed_on": "2026-10-30",
+  "purpose": "Baseline identity inventory and bounded source-backed relationship review; preserve all profiles while separating programme membership from qualifying count.",
+  "catalogue_count": 897,
+  "reviewed_profile_count": 29,
+  "stored_road_flags": {
+    "road": 27,
+    "non_road": 2
+  },
+  "database_sha256_before": "a689784b80de1ffe25c353ceb240640b4f8c4de3364f3a28fd28dc406ffb8630",
+  "review_scope": "All 29 identity rows inventoried and mapped to direct named-derivative/predecessor evidence in 27 primary manufacturer publications (including original releases preserved by other hosts). Twenty-four HTML pages and three PDF releases support bounded identity relationships. Not a technical, model-year, photograph, licence, market-history or all-jurisdiction road-approval audit.",
+  "sources": [
+    {
+      "key": "ave-ultimae",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador LP 780-4 Ultimae",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-lp-780-4-ultimae",
+      "read_scope": "Overview and monocoque sections: manufacturer calls Ultimae a final version of the Aventador family. Not a new clean-sheet programme."
+    },
+    {
+      "key": "ave-s",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador S",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-s",
+      "read_scope": "Overview, steering and monocoque sections: S has rear-wheel steering and carbon-fibre monocoque; a material derivative within Aventador."
+    },
+    {
+      "key": "gal-560",
+      "publisher": "Automobili Lamborghini",
+      "title": "Gallardo LP 560-4 Coupé",
+      "url": "https://www.lamborghini.com/en-en/history/gallardo-lp-560-4-coupe",
+      "read_scope": "Design and drivability sections identify the named Gallardo coupe and four-wheel-drive concept. Current archive describes a revised nose; it does not verify every earlier model-year specification."
+    },
+    {
+      "key": "gal-perf",
+      "publisher": "Automobili Lamborghini",
+      "title": "Gallardo LP 570-4 Spyder Performante",
+      "url": "https://www.lamborghini.com/en-en/history/gallardo-lp-570-4-spyder-performante",
+      "read_scope": "Performance and design sections identify a lightweight V10 soft-top Gallardo derivative."
+    },
+    {
+      "key": "hur-evo",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán EVO",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-evo",
+      "read_scope": "Overview explicitly describes an evolution; LDVI and steering sections identify dynamics management and rear-wheel steering. These features are not transferred to every Huracán variant."
+    },
+    {
+      "key": "hur-sto",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán STO",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-sto",
+      "read_scope": "Opening and exterior/braking sections explicitly describe a road-legal motorsport-derived model with revised bodywork, Cofango and CCMR brakes. STO is not the original Super Trofeo race car."
+    },
+    {
+      "key": "hur-sterrato",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Sterrato",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-sterrato",
+      "read_scope": "Opening, exterior and suspension sections identify raised suspension and Rally calibration. Additional front lamps carry a market-dependent public-road homologation qualification."
+    },
+    {
+      "key": "race-heritage",
+      "publisher": "Automobili Lamborghini",
+      "title": "Motorsport models: Heritage",
+      "url": "https://www.lamborghini.com/en-en/motorsport/motorsport-models/heritage",
+      "read_scope": "2009 Gallardo and 2015 Huracán LP 620-2 sections identify separate competition versions. Later Gallardo LP 570-4, Huracán EVO and GT3 entries are distinct named race specifications; their data and production totals are not imported."
+    },
+    {
+      "key": "ave-original",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador Coupé pre-owned guide",
+      "url": "https://preowned.lamborghini.com/es_es/models/aventador-coupe",
+      "read_scope": "Spanish body identifies LP 700-4 launch in 2011 and first Aventador coupe. Header shows 1015 CV and speed unit kW: not accepted as LP 700-4 specifications."
+    },
+    {
+      "key": "ave-original-road",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador Roadster pre-owned guide",
+      "url": "https://preowned.lamborghini.com/en_us/models/aventador-roadster",
+      "read_scope": "Body identifies 2012 LP 700-4 Roadster as convertible counterpart to coupe with removable two-piece carbon roof."
+    },
+    {
+      "key": "ave-s-road",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador S Roadster",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-s-roadster",
+      "read_scope": "Overview and exterior identify the S removable-roof derivative; steering section identifies rear steering. These features are not applied to original LP 700-4."
+    },
+    {
+      "key": "ave-sv",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador Superveloce Coupé",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-superveloce",
+      "read_scope": "Overview and body identify the lightweight SV coupe and magnetorheological pushrod suspension. No lap time, production total or numerical performance imported."
+    },
+    {
+      "key": "ave-sv-road",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador Superveloce Roadster pre-owned guide",
+      "url": "https://preowned.lamborghini.com/en_gb/models/aventador-superveloce-roadster",
+      "read_scope": "Body names LP 750-4 and two-piece carbon hardtop. Header 770 HP conflicts with detailed 750 CV (552 kW) table. Page supports identity only; numbers not imported."
+    },
+    {
+      "key": "ave-svj",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador SVJ French archive",
+      "url": "https://www.lamborghini.com/fr-en/histoire/aventador-svj",
+      "read_scope": "French exterior, ALA and steering sections identify SVJ coupe with ALA 2.0 and rear steering. English archive timed out; this public French archive was actually read. No SVJ 63 identity added."
+    },
+    {
+      "key": "ave-svj-road",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador SVJ Roadster",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-svj-roadster",
+      "read_scope": "Overview and exterior identify Aventador family membership and removable carbon roof; ALA section identifies 2.0 system. Table and narrative acceleration differ; numerical values not imported."
+    },
+    {
+      "key": "ave-ultimae-road",
+      "publisher": "Automobili Lamborghini",
+      "title": "Aventador LP 780-4 Ultimae Roadster",
+      "url": "https://www.lamborghini.com/en-en/history/aventador-lp-780-4-ultimae-roadster",
+      "read_scope": "Overview explicitly places the final open-top Ultimae in Aventador family; exterior identifies removable hardtop. Allocation statement not treated as audited final production or survivor count."
+    },
+    {
+      "key": "hur-evo-rwd",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán EVO RWD",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-evo-rwd",
+      "read_scope": "Overview and drivetrain paragraph explicitly identify rear drive. Generic 4-WHEEL DRIVE heading conflicts with model-specific text; not used as AWD evidence. Optional dampers and LDS not generalized as standard."
+    },
+    {
+      "key": "hur-evo-spy",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán EVO Spyder",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-evo-spyder",
+      "read_scope": "Opening and exterior identify open EVO derivative; steering/drivetrain sections describe rear steering and four-wheel drive for this model."
+    },
+    {
+      "key": "hur-evo-rwd-spy",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán EVO RWD Spyder Spanish archive",
+      "url": "https://www.lamborghini.com/es-en/historia/huracan-evo-rwd-spyder",
+      "read_scope": "Spanish overview/exterior explicitly distinguish rear-drive open model from 4WD counterpart. Generic four-wheel-drive heading conflicts with the rear-drive body text; not used as AWD evidence."
+    },
+    {
+      "key": "hur-original",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Coupé pre-owned guide",
+      "url": "https://preowned.lamborghini.com/de_de/models/huracan-coupe",
+      "read_scope": "German body names original LP 610-4 coupe and carbon/aluminium chassis. Header 449 CV conflicts with detailed 610 PS (449 kW); header is not accepted as a power specification."
+    },
+    {
+      "key": "hur-original-spy",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Spyder",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-spyder",
+      "read_scope": "Overview and chassis identify V10 soft-top with carbon/aluminium chassis; drivetrain section describes electronically controlled all-wheel drive. Numeric power/reference year not independently established by this bounded page read."
+    },
+    {
+      "key": "hur-perf",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Performante",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-performante",
+      "read_scope": "Overview and ALA sections identify lightweight materials and active aerodynamics within Huracán. Dampers and dynamic steering are described as optional; no new factory time or total imported."
+    },
+    {
+      "key": "hur-perf-spy",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Performante Spyder",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-performante-spyder",
+      "read_scope": "Overview/exterior identify open Performante with Forged Composites and ALA. Drivetrain section identifies AWD. These features do not make it a Super Trofeo competition car."
+    },
+    {
+      "key": "hur-tecnica",
+      "publisher": "Automobili Lamborghini",
+      "title": "Huracán Tecnica",
+      "url": "https://www.lamborghini.com/en-en/history/huracan-tecnica",
+      "read_scope": "Opening describes a member of Huracán range; engine section relates it to STO, with dedicated brake cooling and rear-wheel steering sections. No new programme inferred from unique name or body styling."
+    },
+    {
+      "key": "gal-sl-release",
+      "publisher": "Automobili Lamborghini",
+      "title": "Gallardo LP 570-4 Superleggera: original manufacturer release, 1 March 2010",
+      "url": "https://www.gallardosuperleggera.com/pressreleasesuperleggera2010.pdf",
+      "read_scope": "Original manufacturer release preserved by GallardoSuperleggera.com. PDF page 1 text and rendered page actually read: names new LP 570-4 as Gallardo derivative and explicitly distinguishes its predecessor launched in 2007. This is identity/relationship evidence for both stored Superleggeras; exact 5.0 predecessor displacement, outputs, dates and totals not newly audited.",
+      "inspected_pdf_sha256": "18194faea340cd6c83b14799f50959ce947cad9f3162344c709b28e35c535ce2"
+    },
+    {
+      "key": "gal-spy-release",
+      "publisher": "Automobili Lamborghini",
+      "title": "Gallardo LP 560-4 Spyder: original manufacturer technical publication",
+      "url": "https://pictures.dealer.com/lamborghinilasvegas/8a3d4d8040463872006cffbb9450da2b.pdf",
+      "read_scope": "Manufacturer publication preserved at dealer.com. PDF page 1 text and rendered page actually read: names LP 560-4 Spyder as open version of LP 560-4, with AWD and 5.2-litre V10. Generation language does not by itself settle independent qualifying credit. Remaining pages not visually audited.",
+      "inspected_pdf_sha256": "30c787faa9d7c733fc677caf81bfe8103e6cc41425051e152551bd80893e16fb"
+    },
+    {
+      "key": "gal-balboni-release",
+      "publisher": "Automobili Lamborghini",
+      "title": "Gallardo LP 550-2 Valentino Balboni: manufacturer release, 30 June 2009",
+      "url": "https://preview.thenewsmarket.com/Previews/lamb/DocumentAssets/267421.pdf",
+      "read_scope": "Manufacturer release on press-distribution host: web PDF text read, pages 1 and 2. Names a Gallardo version with rear drive and revised springs, dampers, stabilisers, tyres and aero. Local download failed certificate verification; no local render or PDF byte hash claimed. No 250 allocation, power, time or production statistic imported."
+    }
+  ],
+  "programme_groups": [
+    {
+      "key": "AVE",
+      "family": "Aventador",
+      "road_profile_count": 10,
+      "competition_profile_count": 0,
+      "source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "admission_case": "Carbon-monocoque naturally aspirated V12 supercar programme, with meaningful chassis and final-series derivatives. Strong performance-icon candidate; individual variant counting remains open.",
+      "counting_status": "pending; no numerical qualifying credit assigned by this review"
+    },
+    {
+      "key": "GAL",
+      "family": "Gallardo",
+      "road_profile_count": 6,
+      "competition_profile_count": 1,
+      "source_keys": [
+        "gal-560",
+        "gal-perf",
+        "gal-sl-release",
+        "gal-spy-release",
+        "gal-balboni-release"
+      ],
+      "admission_case": "V10 supercar family with coupe, open, lightweight and rear-drive derivatives plus a separate one-make racing branch. Manufacturer release distinguishes original 2007 Superleggera predecessor from LP 570-4; Balboni involves dynamics and rear-drive changes, not merely a stripe. No independent variant credit assigned.",
+      "counting_status": "pending; no numerical qualifying credit assigned by this review"
+    },
+    {
+      "key": "HUR",
+      "family": "Huracán",
+      "road_profile_count": 11,
+      "competition_profile_count": 1,
+      "source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "admission_case": "V10 supercar programme with evolved dynamics management, a road-going motorsport derivative and a raised-suspension derivative. Engineering differences warrant preserving profiles without automatically multiplying qualifying count.",
+      "counting_status": "pending; no numerical qualifying credit assigned by this review"
+    }
+  ],
+  "records": [
+    {
+      "car_id": "LAM-AVE-LP700",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador",
+        "variant": "LP 700-4 Coupe",
+        "model_year_from": 2011,
+        "model_year_to": 2016,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-original"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-LP700-ROAD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador LP700-4 removable hardtop",
+        "variant": "LP 700-4 Roadster",
+        "model_year_from": 2012,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-original-road"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-S-COUPE",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador S fixed roof",
+        "variant": "S Coupé",
+        "model_year_from": 2016,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-s"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-S-ROADSTER",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador S removable hardtop",
+        "variant": "S Roadster",
+        "model_year_from": 2017,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-s-road"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-SV-COUPE",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador Superveloce series",
+        "variant": "LP750-4 Superveloce Coupé",
+        "model_year_from": 2015,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-sv"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-SV-ROAD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador Superveloce removable hardtop",
+        "variant": "LP 750-4 Superveloce Roadster",
+        "model_year_from": 2015,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-sv-road"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-SVJ-COUPE",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador SVJ fixed roof",
+        "variant": "SVJ Coupé",
+        "model_year_from": 2018,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-svj"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-SVJ-ROADSTER",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador SVJ removable hardtop",
+        "variant": "SVJ Roadster",
+        "model_year_from": 2019,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-svj-road"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-ULT-COUPE",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador Ultimae Coupe",
+        "variant": "LP 780-4 Ultimae Coupé",
+        "model_year_from": 2021,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-ultimae"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-AVE-ULT-ROAD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Aventador",
+        "generation": "Aventador Ultimae Roadster",
+        "variant": "LP 780-4 Ultimae Roadster",
+        "model_year_from": 2021,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "AVE",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "ave-ultimae-road"
+      ],
+      "family_context_source_keys": [
+        "ave-ultimae",
+        "ave-s"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-BALBONI",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "2009 Balboni rear-wheel-drive edition",
+        "variant": "LP 550-2 Valentino Balboni",
+        "model_year_from": 2009,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-balboni-release"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative or predecessor relationship checked in primary manufacturer release; technical fields not recertified",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-LP560",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Gallardo facelift generation",
+        "variant": "LP 560-4 Coupé",
+        "model_year_from": 2009,
+        "model_year_to": 2014,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-560"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-LP560-SPY",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Gallardo facelift open-top",
+        "variant": "LP 560-4 Spyder",
+        "model_year_from": 2008,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-spy-release"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative or predecessor relationship checked in primary manufacturer release; technical fields not recertified",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-LP570-SL",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Gallardo facelift generation",
+        "variant": "LP570-4 Superleggera",
+        "model_year_from": 2011,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-sl-release"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative or predecessor relationship checked in primary manufacturer release; technical fields not recertified",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-PERF-SPY",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Gallardo facelift lightweight open-top",
+        "variant": "LP 570-4 Spyder Performante",
+        "model_year_from": 2010,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-perf"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-SL50",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Original pre-LP 5.0 Superleggera",
+        "variant": "5.0 Superleggera — original series",
+        "model_year_from": 2007,
+        "model_year_to": 2008,
+        "road_legal": 1
+      },
+      "programme_key": "GAL",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "gal-sl-release"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative or predecessor relationship checked in primary manufacturer release; technical fields not recertified",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-GAL-ST-2009",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Gallardo",
+        "generation": "Gallardo Super Trofeo original race specification",
+        "variant": "Super Trofeo — original 2009 race car",
+        "model_year_from": 2009,
+        "model_year_to": null,
+        "road_legal": 0
+      },
+      "programme_key": "GAL",
+      "branch": "competition",
+      "direct_identity_source_keys": [
+        "race-heritage"
+      ],
+      "family_context_source_keys": [
+        "gal-560",
+        "gal-perf"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending racing-car scope"
+    },
+    {
+      "car_id": "LAM-HUR-EVO-AWD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán EVO all-wheel-drive coupe",
+        "variant": "EVO AWD Coupé",
+        "model_year_from": 2019,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-evo"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-EVO-RWD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán EVO rear-wheel-drive coupe",
+        "variant": "EVO RWD Coupé",
+        "model_year_from": 2020,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-evo-rwd"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-EVO-SPY-AWD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán EVO all-wheel-drive soft-top",
+        "variant": "EVO Spyder AWD",
+        "model_year_from": 2019,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-evo-spy"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-EVO-SPY-RWD",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán EVO rear-wheel-drive soft-top",
+        "variant": "EVO RWD Spyder",
+        "model_year_from": 2020,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-evo-rwd-spy"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-LP610",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán first generation",
+        "variant": "LP 610-4 Coupé",
+        "model_year_from": 2015,
+        "model_year_to": 2019,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-original"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-LP610-SPY",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán LP 610-4 soft-top",
+        "variant": "LP 610-4 Spyder",
+        "model_year_from": 2015,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-original-spy"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-PERF",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán first generation",
+        "variant": "LP 640-4 Performante Coupé",
+        "model_year_from": 2018,
+        "model_year_to": 2019,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-perf"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-PERF-SPY",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán Performante soft-top",
+        "variant": "Performante Spyder",
+        "model_year_from": 2018,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-perf-spy"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-ST-620",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán Super Trofeo original race specification",
+        "variant": "LP 620-2 Super Trofeo — original race car",
+        "model_year_from": 2015,
+        "model_year_to": null,
+        "road_legal": 0
+      },
+      "programme_key": "HUR",
+      "branch": "competition",
+      "direct_identity_source_keys": [
+        "race-heritage"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending racing-car scope"
+    },
+    {
+      "car_id": "LAM-HUR-STERRATO",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán raised off-road derivative",
+        "variant": "Sterrato",
+        "model_year_from": 2022,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-sterrato"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-STO",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán STO road series",
+        "variant": "STO Coupé",
+        "model_year_from": 2021,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-sto"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    },
+    {
+      "car_id": "LAM-HUR-TECNICA",
+      "stored_identity": {
+        "manufacturer": "Lamborghini",
+        "model_family": "Huracán",
+        "generation": "Huracán Tecnica road series",
+        "variant": "Tecnica Coupé",
+        "model_year_from": 2022,
+        "model_year_to": null,
+        "road_legal": 1
+      },
+      "programme_key": "HUR",
+      "branch": "road",
+      "direct_identity_source_keys": [
+        "hur-tecnica"
+      ],
+      "family_context_source_keys": [
+        "hur-evo",
+        "hur-sto",
+        "hur-sterrato"
+      ],
+      "evidence_status": "named derivative identity checked in current primary page",
+      "counting_status": "pending same-programme variant policy; not an independently established generation"
+    }
+  ],
+  "limitations": [
+    "Programme grouping is a curation inference from existing identities and the cited manufacturer relationships; three road groups are not a certified three-car qualifying total.",
+    "Separate counting of same-programme bodies and performance derivatives remains pending the owner boundary. No profile is deleted, merged, or automatically declared a duplicate.",
+    "Two competition records retain road_legal=0; whether dedicated racing cars qualify remains pending.",
+    "All other baseline families and unreviewed fields remain open.",
+    "Failed retrospective URLs and homepage redirects were not used as supporting evidence."
+  ],
+  "source_quality_alerts": [
+    {
+      "source_key": "ave-original",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    },
+    {
+      "source_key": "ave-sv-road",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    },
+    {
+      "source_key": "ave-svj-road",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    },
+    {
+      "source_key": "hur-evo-rwd",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    },
+    {
+      "source_key": "hur-evo-rwd-spy",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    },
+    {
+      "source_key": "hur-original",
+      "scope": "Identity relationship usable; inconsistent template headings/numbers are not specification authority."
+    }
+  ],
+  "review_history": [
+    {
+      "date": "2026-10-30",
+      "direct_identity_checks": 9,
+      "source_pages": 8,
+      "note": "Initial bounded ledger at commit 3ea784f."
+    },
+    {
+      "date": "2026-10-30",
+      "direct_identity_checks": 25,
+      "source_pages": 24,
+      "note": "Expanded Aventador and Huracán derivative coverage and flagged source-template conflicts; database unchanged."
+    },
+    {
+      "date": "2026-10-30",
+      "direct_identity_checks": 29,
+      "source_publications": 27,
+      "note": "Closed four remaining Gallardo relationship checks using three original manufacturer PDF releases. Only first pages of two PDFs visually inspected; Balboni uses web PDF text. Database unchanged."
+    }
+  ]
+}

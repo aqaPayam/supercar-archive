@@ -1,0 +1,216 @@
+{
+  "batch": "icons-road-2026-10-30-120",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MER-C63S-W205-UK2015",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "C-Class",
+      "generation": "W205-derived C63 production-road performance family",
+      "variant": "Mercedes-AMG C63 S saloon — June 2015 UK seven-speed MCT reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "2015 UK Mercedes-AMG C63 S saloon, original seven-speed AMG SPEEDSHIFT MCT automatic and standard equipment in the factory guide effective 1 June 2015. Count the W205/S205/C205/A205 performance-road family once across C63/C63 S, saloon/estate/coupe/cabriolet, editions and facelift. Not earlier W204 naturally aspirated C63, ordinary AMG Line trim, C43 4MATIC or later W206 hybrid. UK 375-kW output is retained without relabeling the brochure’s 510-hp convention as US SAE hp. The US road test’s dual-clutch specification-panel label is not adopted; factory MCT designation controls. No US optional ceramic brakes, later nine-speed MCT, test times, mass or prices imported.",
+      "summary": "The W205 C63 carried AMG’s muscular compact sports-saloon tradition into the biturbo-V8 era. The contemporary instrumented road test documents a major handling improvement alongside its strong V8 character, while acknowledging firm ride and imperfect transmission engagement. The C63 S saloon represents the generation once across bodies, outputs, editions and facelift changes.",
+      "admission_reason": "The W205 C63 carried AMG’s muscular compact sports-saloon tradition into the biturbo-V8 era. The contemporary instrumented road test documents a major handling improvement alongside its strong V8 character, while acknowledging firm ride and imperfect transmission engagement. The C63 S saloon represents the generation once across bodies, outputs, editions and facelift changes.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz UK / XR793 facsimile",
+          "title": "C-Class Saloon and Estate — UK range guide effective 1 June 2015",
+          "source_type": "Original manufacturer UK sales/specification guide, hosted scan",
+          "url": "https://xr793.org/wp-content/uploads/2022/12/2015-Mercedes-Benz-C-Class-Saloon-Estate-UK.pdf",
+          "notes": "88-page PDF, 8,590,684 bytes. PDF indexes 0 (cover/date), 48 (printed 49, S equipment), 49 (50, standard-equipment matrix), 52 (53, additional standard equipment), 69–73 (70–74, saloon technical tables, footnotes and general-body diagram) individually visually read. Index 75 estate table was inspected for navigation but is not selected saloon data. Other rendered pages are not claimed as audited. Braced values are C63 S; base 350 kW/650 Nm/18-inch data are not substituted. Factory seven-speed MCT label controls rather than US review’s dual-clutch panel. No optional B07 ceramics or forged/black wheel package inferred from photo. The general-body diagram is not treated as AMG-specific dimensions. Footnote 3 confirms the listed maximum speed is electronically limited."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "The New Black: 2015 Mercedes-AMG C63 S Tested — K.C. Colwell, 7 August 2015",
+          "source_type": "Original contemporary instrumented road test",
+          "url": "https://www.caranddriver.com/reviews/a15105058/2015-mercedes-amg-c63-s-sedan-tested-review/",
+          "notes": "Relevant full road-test body and specification panel read. Admission and limitations only: handling and V8 character alongside ride and transmission-engagement faults. Panel says dual-clutch, while factory guide identifies AMG SPEEDSHIFT MCT; panel label not copied. Tested US optional carbon-ceramic front brakes, driver-assistance equipment, power units and measured performance are not UK standard specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-AMG C63 S (W205) front.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_C63_S_(W205)_front.JPG",
+          "notes": "Tokumeigakarinoaoshima; CC0 1.0. Exact dedication URL: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Own work; creator https://commons.wikimedia.org/wiki/User:Tokumeigakarinoaoshima . Source rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8, 32 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3982",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel delivery",
+          "value": "Electronically controlled direct injection with biturbo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, selected UK C63 S",
+          "value": "375",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum-power range",
+          "value": "5500–6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, C63 S",
+          "value": "700",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum-torque range",
+          "value": "1750–4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Standard gearbox",
+          "value": "AMG SPEEDSHIFT MCT seven-speed automatic sports transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Controls",
+          "value": "Steering-wheel shift paddles and RACE START",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "C63 S differential",
+          "value": "AMG electronic rear-axle differential lock",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Standard system",
+          "value": "AMG RIDE CONTROL sports suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard C63 S wheels",
+          "value": "19-inch AMG five-twin-spoke alloys, titanium grey with high-sheen finish",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "C63 S front tyres",
+          "value": "245/35 R19",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "C63 S rear tyres",
+          "value": "265/35 R19",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "ABS",
+          "value": "Standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Standard system",
+          "value": "AMG sports exhaust with two twin tailpipes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "UK C63 S front seats",
+          "value": "AMG Performance seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Capacities",
+          "label": "Fuel tank",
+          "value": "66",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory claimed 0–62 mph, S saloon",
+          "value": "4.0",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Factory listed governed speed",
+          "value": "155",
+          "unit": "mph",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W205 C63 carried AMG’s muscular compact sports-saloon tradition into the biturbo-V8 era. The contemporary instrumented road test documents a major handling improvement alongside its strong V8 character, while acknowledging firm ride and imperfect transmission engagement. The C63 S saloon represents the generation once across bodies, outputs, editions and facelift changes.",
+          "category": "AMG sports-saloon and chassis significance",
+          "confidence": "Original contemporary instrumented road test documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mercedes_c63s_w205_uk2015.jpg",
+          "caption": "Pre-facelift W205 C63 S saloon photographed by Tokumeigakarinoaoshima. Individually inspected front-side showroom view shows the correct four-door body and original grille. Representative exterior, not authentication of 2015 UK standard wheels, seats, brakes, engine calibration, gearbox or original condition. Dark wheels and display equipment are not used to override the UK guide.",
+          "creator": "Tokumeigakarinoaoshima",
+          "license": "CC0 1.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "668cbefea8b343633a1df19d48059bf498b1236739dd3604bef617f19750aef1"
+        }
+      ]
+    }
+  ]
+}

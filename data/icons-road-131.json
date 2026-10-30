@@ -1,0 +1,153 @@
+{
+  "batch": "icons-road-2026-10-30-131",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "POR-904GTS-STREET-MUSEUM1964",
+      "manufacturer": "Porsche",
+      "model_family": "904 Carrera GTS",
+      "generation": "Original Type 904 Carrera GTS production-road homologation family",
+      "variant": "Four-cam street car — 1964 Audrain Begovich Collection reference",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door mid-engine GT coupe",
+      "road_legal": 1,
+      "specification_market": "Original Type 904 Carrera GTS production-road homologation family, selected 1964 four-cam street-car reference from Audrain Auto Museum's Begovich Collection. Porsche explicitly describes the original as designed for both road and racetrack; museum evidence documents genuine production road versions. Group all road outputs, equipment, years and individual chassis in one family. Dedicated works six/eight-cylinder versions and racing tunes are not selected or separately counted. Eight attributes use the museum's street-car account; RWD uses the FIA family index. Preserve its museum-listed 153 hp at 6900 rpm and 125 ft-lb at 5000 rpm without inventing a rating standard or converting units. This is not the 180 PS at 7200 rpm recognition-form tune, Revs #046's listed 180 HP at 7000 rpm, or the Porsche Museum eight-cylinder 240-hp car. Nominal 2.0 L only; no exact cc, engine-code suffix, compression, carburettor size, race mass, top speed or measured acceleration transferred from other configurations.",
+      "summary": "The 904 Carrera GTS combined mid-engine packaging and a GRP body bonded to a metal chassis in a limited-production road-and-race GT. Its enduring design and endurance-racing heritage give it an established place in Porsche history. Count the original production-road family once; the works engines, racing tunes and individual competition cars are not additional road entries.",
+      "admission_reason": "The 904 Carrera GTS combined mid-engine packaging and a GRP body bonded to a metal chassis in a limited-production road-and-race GT. Its enduring design and endurance-racing heritage give it an established place in Porsche history. Count the original production-road family once; the works engines, racing tunes and individual competition cars are not additional road entries.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1964 Porsche Carrera GTS (904) — Begovich Collection road-car account",
+          "source_type": "Original holding-museum collection and technical reference",
+          "url": "https://www.audrainautomuseum.org/1964-porsche-carrera-gts-904-1",
+          "notes": "Complete relevant collection description and specification panel read. Eight attributes map to this museum-held street-car reference: nominal 2.0 L/four-cam flat-four, listed 153 hp at 6900 rpm, 125 ft-lb at 5000 rpm, five-speed manual, mid-engine layout, bonded fibreglass body and coil springs. Power-rating standard is not specified; preserve hp label without recasting as PS/DIN/SAE. Panel and prose speed/weight/performance figures, production total, drag coefficient, gearing and broad originality superlatives are not imported. This holding-museum reference is kept separate from other chassis and racing specifications."
+        },
+        {
+          "publisher": "Dr. Ing. h.c. F. Porsche AG",
+          "title": "911 GTS press kit — The history, 904 Carrera GTS section, printed p.26",
+          "source_type": "Original manufacturer historical press-kit section",
+          "url": "https://newsroom.porsche.com/dam/jcr%3A51ff1da3-7997-4859-9bc8-b44c8994d149/PAG-911-GTS-EN.pdf",
+          "notes": "Downloaded 27-page PDF. Relevant history page index 25/printed p.26 individually rendered and read. Also read extracted overview paragraph at index 4; no whole 27-page visual audit. Explicitly describes F.A. Porsche's 904 as designed for road and racetrack, first Porsche GTS and first plastic-bodied Zuffenhausen sports car, unveiled 26 November 1963. Targa Florio win is programme context; no race performance, total-production figure, other GTS-model values or technical attribute imported."
+        },
+        {
+          "publisher": "Revs Institute",
+          "title": "1964 Porsche 904 Carrera GTS — collection car 904 046",
+          "source_type": "Original holding-museum history and engineering account",
+          "url": "https://revsinstitute.org/vehicle/1964-porsche-carrera-gts",
+          "notes": "Complete relevant collection history and panel read after legacy collection-page redirect. Documents GRP body bonded to sheet-metal chassis rails, Heinkel production, racing heritage and lasting design, alongside body-thickness/weight variation, difficult access, driver-error sensitivity and gearbox limitations. Supplies admission context only. Its 180 HP at 7000 rpm and 1435-lb panel belongs to another museum reference; no value is assigned to the Audrain street car. Actual race results of #046 do not imply every production car raced. No claim that a linked video was watched."
+        },
+        {
+          "publisher": "FIA Historic Database",
+          "title": "Porsche 904 GTS — Group GT recognition 159 index",
+          "source_type": "Governing-body original recognition index",
+          "url": "https://historicdb.fia.com/car/porsche-904-gts",
+          "notes": "Complete relevant index read; controls RWD attribute and confirms four-cylinder production GT identity. Original form PDF also downloaded and initial cover/engine sheets individually inspected; these list 180 PS DIN at 7200 rpm, which is not assigned to the selected museum street reference. Other rendered form pages were not inspected or used. Registry and cover exact-day labels differ; no exact recognition-day claim imported. Later extensions, race tuning and consultation-paper event-validity are not technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 Porsche 904 Carrera GTS at PB 2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_Porsche_904_Carrera_GTS_at_PB_2022.jpg",
+          "notes": "Prova MO, own work dated 20 August 2022 at 20:53:15; file explicitly identifies a street version at the 2022 Pebble Beach Concours. CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0 . Full file summary/licensing and API metadata read. Downloaded 1280-pixel JPEG rendition individually inspected and copied unchanged. Red coupe with enclosed lamps and steel-style wheels represents the production street body, not authentication of museum chassis identity, engine output, gearbox, originality or build year."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat four-cylinder, four camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "2.0",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-listed street-car output",
+          "value": "153 hp at 6900 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-listed street-car torque",
+          "value": "125 ft-lb at 5000 rpm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Engine position",
+          "value": "Mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Construction",
+          "value": "Fibreglass body bonded to chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Springing",
+          "value": "Coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 3
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 904 Carrera GTS combined mid-engine packaging and a GRP body bonded to a metal chassis in a limited-production road-and-race GT. Its enduring design and endurance-racing heritage give it an established place in Porsche history. Count the original production-road family once; the works engines, racing tunes and individual competition cars are not additional road entries.",
+          "category": "Landmark composite-bodied road-and-race GT heritage",
+          "confidence": "Manufacturer road-and-track account and independent holding-museum engineering/history evidence",
+          "source": 2
+        },
+        {
+          "title": "The first Porsche GTS",
+          "explanation": "Porsche's history identifies the 904 as the first GTS and its first plastic-bodied sports car, designed by Ferdinand Alexander Porsche for road and racetrack and unveiled on 26 November 1963. The 1964 Targa Florio victory belongs to the competition programme, not the operating record of every street example.",
+          "category": "Design and engineering milestone",
+          "confidence": "Original manufacturer press-kit history; road and competition scope separated",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_porsche_904gts_street1964.jpg",
+          "caption": "1964 Porsche 904 Carrera GTS street version at the 2022 Pebble Beach Concours, photographed by Prova MO on 20 August 2022. Individually inspected front-side view shows the red production coupe body, enclosed headlamps and steel-style wheels. Representative street-body photograph, not verification of museum chassis identity, output, gearbox, originality or exact build year. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 ; downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Prova MO",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 4,
+          "sha256": "2ccc58403c0810a7e53931d7129a3eb15cf85a253d8cf6d87cda5c5015c830d2"
+        }
+      ]
+    }
+  ]
+}

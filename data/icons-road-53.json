@@ -1,0 +1,382 @@
+{
+  "batch": "icons-road-2026-10-29-53",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "SIM-1000-RALLYE2-ROAD",
+      "manufacturer": "Simca",
+      "model_family": "1000 Rallye",
+      "generation": "Original Simca 1000 Rallye sporting-road family",
+      "variant": "Rallye 2 — original Chrysler France road brochure",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original Chrysler France brochure scans, including physical pages 3–4 and technical back page, were read. The leaflet is undated; 1972 is programme-introduction context from Caramulo, not a certified print date or pictured car year. Native CH DIN is retained. No Rallye 1, Rallye 3, later tune or competition conversion is imported. The museum’s 86-cv specification concerns a subsequently prepared racer and is excluded. One 1000 Rallye road family is counted.",
+      "summary": "The Rallye 2 turned the rear-engined Simca into a defining small-capacity club-motorsport car. Its factory road offering combines a twin-carburettor engine, strengthened suspension and four disc brakes, while the Caramulo collection documents its successful competition use.",
+      "admission_reason": "The Rallye 2 turned the rear-engined Simca into a defining small-capacity club-motorsport car. Its factory road offering combines a twin-carburettor engine, strengthened suspension and four disc brakes, while the Caramulo collection documents its successful competition use.",
+      "sources": [
+        {
+          "publisher": "Chrysler France / Simca",
+          "title": "Simca 1000 Rallye 2 — original Chrysler France road sales brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://storm.oldcarmanualproject.com/simca1000rallye2.htm",
+          "notes": "Original Chrysler France brochure scans, including physical pages 3–4 and technical back page, were read. The leaflet is undated; 1972 is programme-introduction context from Caramulo, not a certified print date or pictured car year. Native CH DIN is retained. No Rallye 1, Rallye 3, later tune or competition conversion is imported. The museum’s 86-cv specification concerns a subsequently prepared racer and is excluded. One 1000 Rallye road family is counted."
+        },
+        {
+          "publisher": "Museu do Caramulo",
+          "title": "Simca 1000 Rallye 2 — own collection and competition history",
+          "source_type": "Vehicle custodian’s first-hand collection history",
+          "url": "https://museudocaramulo.pt/en/colecoes/simca-1000-rallye-2/",
+          "notes": "Custodian documents the Rallye 2’s September 1972 introduction and its own car’s club-racing career. Its later racing preparation and conflicting speed/power entries are not the selected factory road specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Simca 1000 Rallye 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Simca_1000_Rallye_2.jpg",
+          "notes": "Joost J. Bakker from IJmuiden; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Simca 1000 Rallye 2 Uploaded by Oxyman. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1294",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four forward speeds, all synchromesh, Porsche licence",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Discs front and rear; dual braking circuit",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front with transverse leaf spring and anti-roll bar; independent rear with hydraulic dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory quoted output at 6000 rpm",
+          "value": "82",
+          "unit": "CH DIN",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Rallye 2 turned the rear-engined Simca into a defining small-capacity club-motorsport car. Its factory road offering combines a twin-carburettor engine, strengthened suspension and four disc brakes, while the Caramulo collection documents its successful competition use.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_sim_1000_rallye2_road.jpg",
+          "caption": "Simca 1000 Rallye 2 identified by its photographer, with later rectangular-headlamp front styling and non-brochure wheels. This representative family image is not the early round-headlamp brochure car and does not establish its year, engine tune, suspension originality or a specific competition history.",
+          "creator": "Joost J. Bakker from IJmuiden",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "26b11b8d673ab5f285a2778893b7193748f791e61c60a23461e72b585d4f3e41"
+        }
+      ]
+    },
+    {
+      "id": "DAI-COPEN-L880K-JP2002",
+      "manufacturer": "Daihatsu",
+      "model_family": "Copen",
+      "generation": "First-generation L880K sporting-road family",
+      "variant": "Active Top — June 2002 Japan five-speed manual launch reference",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Compact two-seat folding-hardtop roadster",
+      "road_legal": 1,
+      "specification_market": "Daihatsu’s 19 June 2002 Japanese launch release. Select the five-speed Active Top road car. The four-cylinder/16-valve engine establishes four valves per cylinder. Displacement is not specified in this release and is not guessed. The later detachable roof, optional Sports Pack, Ultimate trim, 1.3-litre export engine and second-generation D-Frame are excluded. The first-kei powered-roof statement is dated June 2002; no current production claim is made.",
+      "summary": "The original Copen is a landmark kei roadster, pairing a dedicated turbocharged sporting chassis with the class’s first powered folding hardtop as of June 2002. Its lasting following and role as Daihatsu’s sporting flagship establish significance beyond anniversary-edition rarity.",
+      "admission_reason": "The original Copen is a landmark kei roadster, pairing a dedicated turbocharged sporting chassis with the class’s first powered folding hardtop as of June 2002. Its lasting following and role as Daihatsu’s sporting flagship establish significance beyond anniversary-edition rarity.",
+      "sources": [
+        {
+          "publisher": "Daihatsu Motor Co., Ltd.",
+          "title": "Copen — original Japanese launch release, 19 June 2002",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.daihatsu.com/jp/news/2002/20020619-01.html",
+          "notes": "Daihatsu’s 19 June 2002 Japanese launch release. Select the five-speed Active Top road car. The four-cylinder/16-valve engine establishes four valves per cylinder. Displacement is not specified in this release and is not guessed. The later detachable roof, optional Sports Pack, Ultimate trim, 1.3-litre export engine and second-generation D-Frame are excluded. The first-kei powered-roof statement is dated June 2002; no current production claim is made."
+        },
+        {
+          "publisher": "Daihatsu Motor Co., Ltd.",
+          "title": "Copen — 20-year history of the original kei sports roadster",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.daihatsu.com/jp/news/2022/20220619-1.html",
+          "notes": "Manufacturer describes the original car’s continuing following, powered-roof identity and sporting flagship role. Later-generation structure, trim and anniversary equipment are not transferred to the original launch specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Daihatsu Copen 003.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Daihatsu_Copen_003.JPG",
+          "notes": "Tennen-Gas; CC BY-SA 3.0. License: http://creativecommons.org/licenses/by-sa/3.0/. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "JB-DET inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "47",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "110",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Hydraulically actuated electrically powered folding Active Top hardtop",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Copen-specific factory suspension tuning",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Copen is a landmark kei roadster, pairing a dedicated turbocharged sporting chassis with the class’s first powered folding hardtop as of June 2002. Its lasting following and role as Daihatsu’s sporting flagship establish significance beyond anniversary-edition rarity.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dai_copen_l880k_jp2002.jpg",
+          "caption": "First-generation Daihatsu Copen 660 Ultimate Edition II, photographed in Japan by Tennen-Gas with its roof closed. This later representative L880K illustrates the original roadster family; its wheels, trim and Ultimate equipment are not presented as standard June 2002 Active Top fitment, and the photograph does not establish the selected transmission.",
+          "creator": "Tennen-Gas",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ded7534cbba45370b844723d6a5138077cc4891adff9eb0c9a64260a7f9a50cb"
+        }
+      ]
+    },
+    {
+      "id": "DEL-135M-CHAPRON-MUSEUM1939",
+      "manufacturer": "Delahaye",
+      "model_family": "135",
+      "generation": "Original 135 sporting touring-road family",
+      "variant": "135 M — 1939 Museo Nicolis Chapron cabriolet reference",
+      "model_year_from": 1939,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Chapron road cabriolet",
+      "road_legal": 1,
+      "specification_market": "Custodian’s own 1939 135 M road cabriolet. Quoted power and speed remain catalogue claims. Its displacement field is blank and dimension units are implausible; those fields are omitted. The Cotal is described by its mechanism, without calling it a modern automatic. No racing 135 S/CS tune, MS engine, celebrity history or untouched condition is inferred. One 135 family is counted.",
+      "summary": "The 135 established Delahaye’s international sporting reputation through related touring and racing versions. The selected fast-road Chapron cabriolet represents the family’s road-going grand-touring identity, including its distinctive electromagnetic transmission and convertible coachwork.",
+      "admission_reason": "The 135 established Delahaye’s international sporting reputation through related touring and racing versions. The selected fast-road Chapron cabriolet represents the family’s road-going grand-touring identity, including its distinctive electromagnetic transmission and convertible coachwork.",
+      "sources": [
+        {
+          "publisher": "Museo Nicolis",
+          "title": "Delahaye 135 M, Henri Chapron, 1939 — collection catalogue",
+          "source_type": "Vehicle custodian’s first-hand collection catalogue",
+          "url": "https://www.museonicolis.com/en/delahaye-135-m/",
+          "notes": "Custodian’s own 1939 135 M road cabriolet. Quoted power and speed remain catalogue claims. Its displacement field is blank and dimension units are implausible; those fields are omitted. The Cotal is described by its mechanism, without calling it a modern automatic. No racing 135 S/CS tune, MS engine, celebrity history or untouched condition is inferred. One 135 family is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Delahaye 135 M cabriolet Mylord (53500796584).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Delahaye_135_M_cabriolet_Mylord_(53500796584).jpg",
+          "notes": "Alexandre Prevot from Nancy, France; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: Delahaye 135 M cabriolet Mylord. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Cotal electromagnetic gearbox; four forward and four reverse ratios",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Chapron convertible hood with partially closed milord position",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "155",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Custodian quoted output",
+          "value": "115",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Henri Chapron",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 135 established Delahaye’s international sporting reputation through related touring and racing versions. The selected fast-road Chapron cabriolet represents the family’s road-going grand-touring identity, including its distinctive electromagnetic transmission and convertible coachwork.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_del_135m_chapron_museum1939.jpg",
+          "caption": "Delahaye 135 M Chapron Mylord cabriolet identified as a restored 1938 car, chassis 48721. Its partly raised hood illustrates the road coachwork type. This representative family car is not Museo Nicolis’s 1939 reference; the image does not certify the museum car’s power, speed, gearbox or present condition.",
+          "creator": "Alexandre Prevot from Nancy, France",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0763623d03e5e90d5de4d2946cf9a9f3e478184dabc37fc4c94f97e148e35ce0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "batch": "icons-road-2026-10-30-109",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "DES-ADVENTURER-ORIGINAL-345-US1957",
+      "manufacturer": "DeSoto",
+      "model_family": "Adventurer / Fireflite performance programme",
+      "generation": "Original 1956–1960 Adventurer production-road performance family",
+      "variant": "Adventurer S-26 345 dual-carb hardtop — 1957 USA revised AMA, TorqueFlite",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door pillarless hardtop",
+      "road_legal": 1,
+      "specification_market": "1957 USA S-26 Adventurer two-door hardtop, nominal 345 Hemi with dual carburettors and standard TorqueFlite, using revised December 1956 factory AMA sheets. Count the original 1956–1960 Adventurer performance-road programme once across years, engines and bodies, with associated Fireflite identities reviewed together. Not a 1954 Ghia concept or a later wedge/fuel-injected engine. Preserve native advertised bhp and factory test convention; do not claim an unqualified world-first, modern net conversion, measured acceleration, racing camshaft, curb mass or hardtop dimensions from default sedan tables.",
+      "summary": "The Adventurer is a significant early American performance programme: its 1957 factory-standard dual-carb Hemi advertised 345 brake horsepower from a nominal 345 cubic inches. This engineering benchmark and the programme’s continuing recognition in specialist museum collections justify its place beyond rarity, luxury trim or price.",
+      "admission_reason": "The Adventurer is a significant early American performance programme: its 1957 factory-standard dual-carb Hemi advertised 345 brake horsepower from a nominal 345 cubic inches. This engineering benchmark and the programme’s continuing recognition in specialist museum collections justify its place beyond rarity, luxury trim or price.",
+      "sources": [
+        {
+          "publisher": "DeSoto Division, Chrysler Corporation / Over-Drive facsimile",
+          "title": "1957 DeSoto AMA Consolidated Specification Questionnaire — revised 15 December 1956",
+          "source_type": "Original manufacturer AMA specification sheets, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2023/06/1957-DeSotoAMA-Specs-1-24.pdf",
+          "notes": "25-page scanned file, 5,224,404 bytes despite filename 1-24. Full indexes 0, 1, 5, 12, 14 and 18 visually read; S-26 Adventurer column and footnotes distinguished from ordinary S-26 Fireflite and S-27 Firesweep. Sheets 1–2 establish standard engine and ratings under their stated SAE Engine Test Code accessories convention. Sheet 6 identifies two Carter four-barrels, 13 TorqueFlite, 15 wheels and brakes. Sheet 19 states Adventurer body data refer to a special club coupe, two-door hardtop. No measured displacement or unqualified priority claim inferred."
+        },
+        {
+          "publisher": "Newport Car Museum",
+          "title": "Car of the Month, October 2022 — 1957 DeSoto Adventurer Convertible",
+          "source_type": "Museum collection profile, historical admission context",
+          "url": "https://newportcarmuseum.org/3803-2/",
+          "notes": "Independent collection recognition for the Adventurer programme and its high-output dual-carb Hemi. The exhibit is a convertible, not the selected hardtop. Its PowerFlight transmission, full-race-cam description, unqualified first-production-car claim, acceleration, mass, price and production totals are not imported specifications; the factory TorqueFlite and engine sheets control."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1957 De Soto Adventurer 2-door Sportsman, front right, 08-27-2023.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1957_De_Soto_Adventurer_2-door_Sportsman,_front_right,_08-27-2023.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. Exact licence: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Creator: https://commons.wikimedia.org/wiki/User:MercurySable99 . Downloaded rendition copied unchanged, including existing background treatment; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree overhead-valve V8; double rocker shafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "345",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised brake horsepower",
+          "value": "345",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory advertised",
+          "value": "355",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal bore × stroke",
+          "value": "3.80 × 3.80",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Carter four-barrel downdraft carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Carburettor models",
+          "value": "Front WCFB-2365S; rear WCFB-2636S",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Exhaust system",
+          "value": "Dual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Recommended fuel",
+          "value": "Premium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Standard transmission",
+          "value": "TorqueFlite three-speed torque-converter automatic; pushbutton selection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward gear ratios",
+          "value": "2.45 / 1.45 / 1.00",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle",
+          "value": "Semi-floating hypoid; optional ratios not assigned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory rims",
+          "value": "14 × 6K",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard Adventurer tyres",
+          "value": "8.50 × 14 four-ply Rayon tubeless white sidewalls",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Service brakes",
+          "value": "Hydraulic internal-expanding drums; 12-inch front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Assistance",
+          "value": "Vacuum booster, standard Adventurer equipment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Effective lining area",
+          "value": "251",
+          "unit": "sq in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Adventurer is a significant early American performance programme: its 1957 factory-standard dual-carb Hemi advertised 345 brake horsepower from a nominal 345 cubic inches. This engineering benchmark and the programme’s continuing recognition in specialist museum collections justify its place beyond rarity, luxury trim or price.",
+          "category": "Historical significance",
+          "confidence": "Factory engineering benchmark and independent museum recognition documented",
+          "source": 0
+        },
+        {
+          "title": "Museum recognition",
+          "explanation": "Newport Car Museum featured its 1957 Adventurer convertible as Car of the Month in October 2022. This supports the wider performance programme’s historical recognition; that exhibit’s body and listed equipment are not specifications of this hardtop reference.",
+          "category": "Historical significance",
+          "confidence": "Museum documents its own collection exhibit",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_des_adventurer_original_1957.jpg",
+          "caption": "1957 Adventurer two-door Sportsman photographed by MercurySable99 at the Memories Cruise, New Castle, Pennsylvania, 27 August 2023; source describes Adventurer Gold over Surf White. Representative hardtop body, quad-headlamp and gold-trim photograph. It does not authenticate engine internals, dual-carb equipment, transmission, braking specification or restoration originality. Existing background treatment is retained.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f7fb43661da00ddbc69312e5d44d23c26478828f6f2b4ca9d196006d993b9482"
+        }
+      ]
+    }
+  ]
+}

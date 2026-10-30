@@ -1,0 +1,1257 @@
+{
+  "batch": "icons-road-2026-10-29-18",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 10,
+  "cars": [
+    {
+      "id": "LEX-ISF-UK2008",
+      "manufacturer": "Lexus",
+      "model_family": "IS F",
+      "generation": "Original USE20 V8 F performance saloon",
+      "variant": "IS F — April 2008 UK launch specification",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original April 2008 UK launch pack, explicitly distinguished by Lexus from subsequent model changes. Technical table PDF page 17 and equipment pages checked. UK 417-bhp/505-Nm reference; US 416-hp figures, later mechanical limited-slip differential and later suspension revisions are not combined. Ambiguous adaptive-suspension wording in the appendix is not imported.",
+      "summary": "The IS F established Lexus’s F performance-car identity, combining a specially developed naturally aspirated V8 with an eight-speed Sport Direct Shift transmission, bespoke brakes and extensive circuit development. It is the foundational road model of the F lineage rather than an ordinary IS trim package.",
+      "admission_reason": "The IS F established Lexus’s F performance-car identity, combining a specially developed naturally aspirated V8 with an eight-speed Sport Direct Shift transmission, bespoke brakes and extensive circuit development. It is the foundational road model of the F lineage rather than an ordinary IS trim package.",
+      "sources": [
+        {
+          "publisher": "Lexus UK",
+          "title": "Lexus IS F — original April 2008 UK launch pack",
+          "source_type": "Period manufacturer launch press kit",
+          "url": "https://media.lexus.co.uk/wp-content/uploads/sites/3/pdf/Lexus-IS-F-launch-pack-2008.pdf",
+          "notes": "Original April 2008 UK launch pack, explicitly distinguished by Lexus from subsequent model changes. Technical table PDF page 17 and equipment pages checked. UK 417-bhp/505-Nm reference; US 416-hp figures, later mechanical limited-slip differential and later suspension revisions are not combined. Ambiguous adaptive-suspension wording in the appendix is not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2008LexusISF.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2008LexusISF.jpg",
+          "notes": "Autodesigner at en.wikipedia; Public domain. License: . Credit: I created this work entirely by myself."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8, 2UR-GSE",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4969",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "505",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC with Dual VVT-i; electrically operated intake VVT-iE",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "D-4S / EFI",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed Sport Direct Shift automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo ventilated/drilled discs; six-piston front and two-piston rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "UK launch power notation",
+          "value": "417",
+          "unit": "bhp; 423 DIN hp in same factory table",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The IS F established Lexus’s F performance-car identity, combining a specially developed naturally aspirated V8 with an eight-speed Sport Direct Shift transmission, bespoke brakes and extensive circuit development. It is the foundational road model of the F lineage rather than an ordinary IS trim package.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lex_isf_uk2008.jpg",
+          "caption": "Lexus IS F — Early IS F display photographed in November 2007 and identified as the 2008 model; it does not certify the selected UK equipment.",
+          "creator": "Autodesigner at en.wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2b46edc93b456b97c1298f8cbc1b25b8a536d17d1b0d22858aca7ad0ace3c9f5"
+        }
+      ]
+    },
+    {
+      "id": "LEX-LC500-US2018",
+      "manufacturer": "Lexus",
+      "model_family": "LC",
+      "generation": "Original URZ100 V8 LC production coupe",
+      "variant": "LC 500 — original 2018 US coupe reference",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "2018 mainland-US factory brochure, printed April 2017, LC 500 column and standard-equipment panel on PDF page 24. The 354-hp hybrid LC 500h and later convertible/updates are excluded. Carbon roof, rear steering, active spoiler and limited-slip differential are package-dependent and not claimed as standard. Photo is a UK Sport+ coupe exterior, without certifying US equipment.",
+      "summary": "The LC 500 is a Lexus design and engineering landmark, translating the LF-LC concept into a production performance grand tourer on the new GA-L architecture. Its naturally aspirated V8 and ten-speed automatic mark a distinct flagship coupe direction, supported by major production-design awards.",
+      "admission_reason": "The LC 500 is a Lexus design and engineering landmark, translating the LF-LC concept into a production performance grand tourer on the new GA-L architecture. Its naturally aspirated V8 and ten-speed automatic mark a distinct flagship coupe direction, supported by major production-design awards.",
+      "sources": [
+        {
+          "publisher": "Lexus USA",
+          "title": "2018 Lexus LC / LC Hybrid — US brochure, LC 500 column and standard equipment",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.lexus.com/content/dam/lexus/documents/brochures/models/2018/MY18-Lexus-LC-and%20LC-Hybrid-Brochure.pdf",
+          "notes": "2018 mainland-US factory brochure, printed April 2017, LC 500 column and standard-equipment panel on PDF page 24. The 354-hp hybrid LC 500h and later convertible/updates are excluded. Carbon roof, rear steering, active spoiler and limited-slip differential are package-dependent and not claimed as standard. Photo is a UK Sport+ coupe exterior, without certifying US equipment."
+        },
+        {
+          "publisher": "Lexus USA",
+          "title": "All-New Lexus LC Performance Coupe Opens New Chapter in Brand History",
+          "source_type": "Manufacturer launch release",
+          "url": "https://pressroom.lexus.com/all-new-lexus-lc-500-coupe/",
+          "notes": "Original launch account supports GA-L architecture, LF-LC concept-to-production development and EyesOn Design recognition. Hybrid specifications and later model changes are not selected."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2017 Lexus LC500 Sport + Auto.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2017_Lexus_LC500_Sport_%2B_Auto.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Ten-speed Direct-Shift automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Adaptive Variable Suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Glass roof with sunshade, standard reference",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "471",
+          "unit": "hp; US manufacturer rating",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The LC 500 is a Lexus design and engineering landmark, translating the LF-LC concept into a production performance grand tourer on the new GA-L architecture. Its naturally aspirated V8 and ten-speed automatic mark a distinct flagship coupe direction, supported by major production-design awards.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lex_lc500_us2018.jpg",
+          "caption": "Lexus LC — 2017 UK LC 500 Sport+ coupe; visible package equipment does not define the original 2018 US standard reference.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ea850a2632bff38ee7ac6cd024adfb674e3e5b1554ae9dd2c09d21c2b5c4d991"
+        }
+      ]
+    },
+    {
+      "id": "CAD-CTSV-I-LS6-2004",
+      "manufacturer": "Cadillac",
+      "model_family": "CTS-V",
+      "generation": "Original first-generation LS6 V8 CTS-V saloon",
+      "variant": "CTS-V — original 2004 US LS6 six-speed manual",
+      "model_year_from": 2004,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Cadillac dealer-order guide published April 9, 2004, standard-equipment pages 2–3, preserved by Cadillac V-Net and read through its public PDF text. The native production 400-hp figure is used; the guide’s erroneous metric torque conversion is omitted. Preliminary 2003 torque estimates and later 6.0-litre LS2 engines are excluded. The retrieved 2004 full-line brochure covers ordinary CTS and is not technical evidence for this V record.",
+      "summary": "The original CTS-V inaugurated Cadillac’s production V-Series and its modern performance-saloon identity. A Corvette-derived LS6 V8, standard six-speed manual, Brembo brakes and dedicated chassis tuning made it a substantive new performance programme rather than a styling package.",
+      "admission_reason": "The original CTS-V inaugurated Cadillac’s production V-Series and its modern performance-saloon identity. A Corvette-derived LS6 V8, standard six-speed manual, Brembo brakes and dedicated chassis tuning made it a substantive new performance programme rather than a styling package.",
+      "sources": [
+        {
+          "publisher": "Cadillac / General Motors",
+          "title": "2004 Cadillac CTS-V — standard-equipment dealer guide, April 9, 2004",
+          "source_type": "Period manufacturer dealer-order guide, enthusiast-hosted facsimile",
+          "url": "https://www.cadillacvnet.com/tech-center/cts-v/2004/2004_cts-v_rpo.pdf",
+          "notes": "Cadillac dealer-order guide published April 9, 2004, standard-equipment pages 2–3, preserved by Cadillac V-Net and read through its public PDF text. The native production 400-hp figure is used; the guide’s erroneous metric torque conversion is omitted. Preliminary 2003 torque estimates and later 6.0-litre LS2 engines are excluded. The retrieved 2004 full-line brochure covers ordinary CTS and is not technical evidence for this V record."
+        },
+        {
+          "publisher": "Cadillac",
+          "title": "Cadillac launches celebration of 20 years of V-Series performance",
+          "source_type": "Manufacturer historical account",
+          "url": "https://news.cadillac.com/newsroom.detail.html/Pages/news/us/en/2023/mar/0315-cadillac.html",
+          "notes": "Manufacturer identifies 2004 CTS-V as the inaugural production V-Series and distinguishes subsequent generations. CTS-V.R racing specifications are not road-car data."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Cadillac CTS-V -- 10-06-2009.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Cadillac_CTS-V_--_10-06-2009.jpg",
+          "notes": "IFCAR; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LS6 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Tremec six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "FE4 performance-tuned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel Brembo discs with four-piston calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Goodyear Eagle EMT run-flat, P245/45 WR18",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "400",
+          "unit": "hp; period US dealer-guide notation",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original CTS-V inaugurated Cadillac’s production V-Series and its modern performance-saloon identity. A Corvette-derived LS6 V8, standard six-speed manual, Brembo brakes and dedicated chassis tuning made it a substantive new performance programme rather than a styling package.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_ctsv_i_ls6_2004.jpg",
+          "caption": "Cadillac CTS-V — 2004–2005 first-generation CTS-V photographed in Maryland in 2009; original LS6 installation and optional equipment are not authenticated.",
+          "creator": "IFCAR",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f8fa581b52b4191ba1f8f8d097b0b7d4f9c4b62c878724edc1bf8381cabb8f43"
+        }
+      ]
+    },
+    {
+      "id": "CAD-CTSV-II-WAGON-2011",
+      "manufacturer": "Cadillac",
+      "model_family": "CTS-V",
+      "generation": "Second-generation supercharged V8 CTS-V estate",
+      "variant": "CTS-V Wagon — original 2011 US six-speed manual",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Five-door estate",
+      "road_legal": 1,
+      "specification_market": "Original 2011 US CTS brochure, wagon-specific PDF page 7, available December 2010. Only explicitly wagon-labelled powertrain/chassis content is imported. Adjacent sedan lap time, sedan acceleration, optional automatic and optional Recaro seats are not generalised to the selected manual wagon.",
+      "summary": "The CTS-V Wagon is an exceptional American performance estate, carrying the second-generation supercharged V8, manual transmission and Magnetic Ride Control into a practical cargo body. It represents the missing second CTS-V generation without counting its saloon and coupe again.",
+      "admission_reason": "The CTS-V Wagon is an exceptional American performance estate, carrying the second-generation supercharged V8, manual transmission and Magnetic Ride Control into a practical cargo body. It represents the missing second CTS-V generation without counting its saloon and coupe again.",
+      "sources": [
+        {
+          "publisher": "Cadillac / General Motors",
+          "title": "2011 Cadillac CTS — CTS-V Wagon-specific brochure panel, PDF page 7",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Cadillac/CTS/Cadillac_US%20CTS_2011.pdf",
+          "notes": "Original 2011 US CTS brochure, wagon-specific PDF page 7, available December 2010. Only explicitly wagon-labelled powertrain/chassis content is imported. Adjacent sedan lap time, sedan acceleration, optional automatic and optional Recaro seats are not generalised to the selected manual wagon."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2011 Cadillac CTS-V wagon -- 2011 DC.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2011_Cadillac_CTS-V_wagon_--_2011_DC.jpg",
+          "notes": "IFCAR; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Driver-selectable dual-mode Magnetic Ride Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Michelin Pilot Sport PS2 on 19-inch wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "556",
+          "unit": "hp; US manufacturer rating",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Half-shaft design",
+          "value": "Asymmetrical half-shafts to reduce traction loss",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The CTS-V Wagon is an exceptional American performance estate, carrying the second-generation supercharged V8, manual transmission and Magnetic Ride Control into a practical cargo body. It represents the missing second CTS-V generation without counting its saloon and coupe again.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_ctsv_ii_wagon_2011.jpg",
+          "caption": "Cadillac CTS-V — 2011 CTS-V Wagon show display; photograph does not certify manual transmission or optional interior equipment.",
+          "creator": "IFCAR",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "16097f4c26f2d8a6192214126bd6f1cccb867e25b0303f5077414a99116296c7"
+        }
+      ]
+    },
+    {
+      "id": "CAD-CT5V-BLACKWING-MAN-2022",
+      "manufacturer": "Cadillac",
+      "model_family": "CT5-V",
+      "generation": "Original CT5-V Blackwing supercharged V8 saloon",
+      "variant": "Blackwing — original 2022 US six-speed manual",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Cadillac February 2021 launch release reproduced by Ultimatecarpage, explicitly describing MY2022. Only the company-release body is used, not its editorial specification table. CT4-V Blackwing V6 data, ordinary CT5-V, optional ten-speed automatic, carbon-ceramic brakes and carbon aero package are excluded. An interactive brochure’s erroneous six-speed-automatic wording is not adopted.",
+      "summary": "The CT5-V Blackwing is a landmark modern American super-saloon, retaining a standard manual transmission alongside a hand-built supercharged V8, electronic rear differential and fourth-generation Magnetic Ride Control. Its drivetrain and chassis development make it distinct from the ordinary V6 CT5-V.",
+      "admission_reason": "The CT5-V Blackwing is a landmark modern American super-saloon, retaining a standard manual transmission alongside a hand-built supercharged V8, electronic rear differential and fourth-generation Magnetic Ride Control. Its drivetrain and chassis development make it distinct from the ordinary V6 CT5-V.",
+      "sources": [
+        {
+          "publisher": "Cadillac / General Motors",
+          "title": "2022 Cadillac V-Series Blackwing — original February 2021 company launch release",
+          "source_type": "Manufacturer launch release reproduced by Ultimatecarpage",
+          "url": "https://www.ultimatecarpage.com/car/7933/Cadillac-CT5-V-Blackwing.html",
+          "notes": "Cadillac February 2021 launch release reproduced by Ultimatecarpage, explicitly describing MY2022. Only the company-release body is used, not its editorial specification table. CT4-V Blackwing V6 data, ordinary CT5-V, optional ten-speed automatic, carbon-ceramic brakes and carbon aero package are excluded. An interactive brochure’s erroneous six-speed-automatic wording is not adopted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2022 Cadillac CT5-V Blackwing in Dark Emerald Frost, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2022_Cadillac_CT5-V_Blackwing_in_Dark_Emerald_Frost,_front_left.jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "498",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "893",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Standard six-speed Tremec manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Enhanced electronic limited-slip rear differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Fourth-generation Magnetic Ride Control with revised springs, bars and bushings",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Construction",
+          "value": "Forged aluminium, staggered widths",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The CT5-V Blackwing is a landmark modern American super-saloon, retaining a standard manual transmission alongside a hand-built supercharged V8, electronic rear differential and fourth-generation Magnetic Ride Control. Its drivetrain and chassis development make it distinct from the ordinary V6 CT5-V.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_ct5v_blackwing_man_2022.jpg",
+          "caption": "Cadillac CT5-V — 2022 CT5-V Blackwing in Dark Emerald Frost; gearbox and optional carbon/brake packages are not authenticated from the exterior.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0d04625848c746096829f932f0fc9944b29711f43c7192a36f4fd295aaec46b9"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CAMARO-ZL1-G5-2012",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "Fifth-generation original LSA-powered ZL1 coupe",
+      "variant": "ZL1 — original 2012 US six-speed manual",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Dedicated 2012 US ZL1 brochure, technical PDF pages 6 and 12 visually read. Original 580-hp manual coupe; automatic acceleration, top speed and axle ratio remain separate. Later fifth-generation facelift/convertible and sixth-generation LT4 values are excluded. No unqualified mass is imported.",
+      "summary": "The fifth-generation ZL1 revived a significant Camaro performance name with a complete road-and-track engineering package. Its supercharged LSA engine, magnetic damping, extensive auxiliary cooling and upgraded brakes established a modern high-performance Camaro beyond an engine-only conversion.",
+      "admission_reason": "The fifth-generation ZL1 revived a significant Camaro performance name with a complete road-and-track engineering package. Its supercharged LSA engine, magnetic damping, extensive auxiliary cooling and upgraded brakes established a modern high-performance Camaro beyond an engine-only conversion.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "2012 Chevrolet Camaro ZL1 — dedicated factory brochure, PDF pages 6 and 12",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Chevrolet/Camaro/Chevrolet_US%20CamaroZL1_2012.pdf",
+          "notes": "Dedicated 2012 US ZL1 brochure, technical PDF pages 6 and 12 visually read. Original 580-hp manual coupe; automatic acceleration, top speed and axle ratio remain separate. Later fifth-generation facelift/convertible and sixth-generation LT4 values are excluded. No unqualified mass is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2012 Chevrolet Camaro ZL1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2012_Chevrolet_Camaro_ZL1.jpg",
+          "notes": "Sarah Larson from Ann Arbor, MI, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2012 Chevrolet Camaro ZL1"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LSA V8, aluminium block and heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Eaton supercharger with intercooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with short-throw shifter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.1:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo six-piston front and four-piston rear; two-piece front rotors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Goodyear Eagle F1 Supercar Gen 2; 285/35 ZR20 front, 305/35 ZR20 rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Factory differential, engine-oil and transmission-oil cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "580",
+          "unit": "hp; US manufacturer rating",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "556",
+          "unit": "lb-ft at 4200 rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fifth-generation ZL1 revived a significant Camaro performance name with a complete road-and-track engineering package. Its supercharged LSA engine, magnetic damping, extensive auxiliary cooling and upgraded brakes established a modern high-performance Camaro beyond an engine-only conversion.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_zl1_g5_2012.jpg",
+          "caption": "Chevrolet Camaro — 2012 ZL1 at the Detroit auto show; installed transmission and optional equipment are not certified.",
+          "creator": "Sarah Larson from Ann Arbor, MI, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "33ef89a5250680501c1f75bedad42699863e41908e08affb72f5b2668de96b62"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CAMARO-ZL1-1LE-G6-2018",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "Sixth-generation LT4 ZL1 1LE production road coupe",
+      "variant": "ZL1 1LE — original 2018 US manual road specification",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2018 US Camaro brochure, dedicated 1LE panels and standard/optional table, PDF pages 17–18 and 27–28 visually reviewed. ZL1 1LE has DSSV rather than the standard ZL1’s Magnetic Ride Control. The 2018 package requires the manual; later automatic 1LE availability, ordinary SS/V6 1LE data and automatic-only cylinder deactivation are excluded.",
+      "summary": "The sixth-generation ZL1 1LE is a major Camaro road-and-track development, combining supercharged LT4 power with Multimatic spool-valve dampers, adjustable chassis geometry, dedicated aerodynamics and competition-oriented tyres. It represents the missing sixth Camaro generation rather than another tune of the fifth-generation ZL1.",
+      "admission_reason": "The sixth-generation ZL1 1LE is a major Camaro road-and-track development, combining supercharged LT4 power with Multimatic spool-valve dampers, adjustable chassis geometry, dedicated aerodynamics and competition-oriented tyres. It represents the missing sixth Camaro generation rather than another tune of the fifth-generation ZL1.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "2018 Chevrolet Camaro — original ZL1 1LE panels and equipment conditions",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://cdn.dealereprocess.org/cdn/brochures/chevrolet/2018-camaro.pdf",
+          "notes": "Original 2018 US Camaro brochure, dedicated 1LE panels and standard/optional table, PDF pages 17–18 and 27–28 visually reviewed. ZL1 1LE has DSSV rather than the standard ZL1’s Magnetic Ride Control. The 2018 package requires the manual; later automatic 1LE availability, ordinary SS/V6 1LE data and automatic-only cylinder deactivation are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Chevrolet Camaro ZL1 1LE SCD 24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Chevrolet_Camaro_ZL1_1LE_SCD_24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LT4 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual with Active Rev Match",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Multimatic DSSV dampers; adjustable front ride height and camber, three-way adjustable rear stabiliser bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo six-piston front and four-piston rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Goodyear Eagle F1 SuperCar 3R",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "ZL1 1LE dedicated carbon-fibre rear wing, front splitter and dive planes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "650",
+          "unit": "hp; US manufacturer rating",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "650",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The sixth-generation ZL1 1LE is a major Camaro road-and-track development, combining supercharged LT4 power with Multimatic spool-valve dampers, adjustable chassis geometry, dedicated aerodynamics and competition-oriented tyres. It represents the missing sixth Camaro generation rather than another tune of the fifth-generation ZL1.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_zl1_1le_g6_2018.jpg",
+          "caption": "Chevrolet Camaro — 2018 ZL1 1LE at a 2024 meet; later modifications, engine tune and original equipment are not authenticated.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "96f9632bca1d3f57f2f8af3f752ab3b6d4c6bcd6c1c6f287ec02be4b2188acee"
+        }
+      ]
+    },
+    {
+      "id": "DOD-CHALLENGER-HELLCAT-2015",
+      "manufacturer": "Dodge",
+      "model_family": "Challenger",
+      "generation": "Modern third-generation original SRT Hellcat coupe",
+      "variant": "SRT Hellcat — original 2015 US eight-speed reference",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Chrysler Group LLC July 1, 2014 announcement distributed by PR Newswire for MY2015, third-quarter-2014 deliveries. Selected original eight-speed Hellcat reference. No Scat Pack/R/T manual, later Widebody/Redeye, Demon or Demon 170 specifications are combined. Historical marketing superlatives are not asserted as current records. Assembly at Brampton, Ontario is distinct from manufacturer origin.",
+      "summary": "The original Challenger Hellcat is a defining modern muscle-car milestone, introducing Dodge and SRT’s first factory-supercharged HEMI production engine. Its 707-horsepower road-car package and dual-key power control established the Hellcat identity that reshaped the modern American horsepower era.",
+      "admission_reason": "The original Challenger Hellcat is a defining modern muscle-car milestone, introducing Dodge and SRT’s first factory-supercharged HEMI production engine. Its 707-horsepower road-car package and dual-key power control established the Hellcat identity that reshaped the modern American horsepower era.",
+      "sources": [
+        {
+          "publisher": "Chrysler Group LLC",
+          "title": "Dodge Challenger SRT Hellcat — original 707-hp MY2015 production announcement",
+          "source_type": "Manufacturer launch release distributed via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/dodge-challenger-srt-hellcat-is-the-most-powerful-muscle-car-ever----707-hp-265427501.html",
+          "notes": "Chrysler Group LLC July 1, 2014 announcement distributed by PR Newswire for MY2015, third-quarter-2014 deliveries. Selected original eight-speed Hellcat reference. No Scat Pack/R/T manual, later Widebody/Redeye, Demon or Demon 170 specifications are combined. Historical marketing superlatives are not asserted as current records. Assembly at Brampton, Ontario is distinct from manufacturer origin."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dodge Challenger SRT Hellcat 2015-20180909-RM-171851.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171851.jpg",
+          "notes": "Ermell; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "HEMI V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Factory supercharged",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "TorqueFlite eight-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "707",
+          "unit": "hp; US manufacturer rating",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "650",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Power access",
+          "value": "Red key unlocks full rated output; black key limits output to 500 hp",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Challenger Hellcat is a defining modern muscle-car milestone, introducing Dodge and SRT’s first factory-supercharged HEMI production engine. Its 707-horsepower road-car package and dual-key power control established the Hellcat identity that reshaped the modern American horsepower era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_challenger_hellcat_2015.jpg",
+          "caption": "Dodge Challenger — 2015 narrow-body Challenger Hellcat at a German meet; original US market, transmission and engine tune are not authenticated.",
+          "creator": "Ermell",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3c3bf6e144ad36a536ae6f2e3abe4fdeed57c469ebb5eb797dfa8873c6976559"
+        }
+      ]
+    },
+    {
+      "id": "HOL-MONARO-V2-CV8-2001",
+      "manufacturer": "Holden",
+      "model_family": "Monaro",
+      "generation": "Third-generation original V2 CV8 road coupe",
+      "variant": "CV8 — November 2001 Australian six-speed manual",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 28-page Holden brochure, November 2001 AD10965, publicly preserved by Holden Retirees Club. CV8 engine and manual columns on PDF pages 26–27 visually read: 225 kW, 460 Nm at 4400 rpm. CV6, optional four-speed automatic, later 235/245/260-kW revisions and VZ hood changes are excluded. Pontiac GTO/Vauxhall/Chevrolet rebadges are not extra records.",
+      "summary": "The Monaro’s 2001 return revived a defining Australian performance-coupe name with a modern V8 and six-speed manual. Its launch was linked to the original lineage by the National Motor Museum’s contemporary Monaro Mania exhibition, reflecting the model’s place in Australia’s motoring culture.",
+      "admission_reason": "The Monaro’s 2001 return revived a defining Australian performance-coupe name with a modern V8 and six-speed manual. Its launch was linked to the original lineage by the National Motor Museum’s contemporary Monaro Mania exhibition, reflecting the model’s place in Australia’s motoring culture.",
+      "sources": [
+        {
+          "publisher": "Holden Ltd",
+          "title": "Holden Monaro CV6 / CV8 — original November 2001 brochure, pages 26–27",
+          "source_type": "Period manufacturer brochure, Holden Retirees Club-hosted public archive",
+          "url": "https://drive.google.com/file/d/1XtgVGwUJ79CvWNYj_PI5Lo1GTXONifY8/view",
+          "notes": "Original 28-page Holden brochure, November 2001 AD10965, publicly preserved by Holden Retirees Club. CV8 engine and manual columns on PDF pages 26–27 visually read: 225 kW, 460 Nm at 4400 rpm. CV6, optional four-speed automatic, later 235/245/260-kW revisions and VZ hood changes are excluded. Pontiac GTO/Vauxhall/Chevrolet rebadges are not extra records."
+        },
+        {
+          "publisher": "History Trust of South Australia",
+          "title": "National Motor Museum — Monaro Mania exhibition, annual report printed page 69",
+          "source_type": "Museum annual report / exhibition record",
+          "url": "https://www.history.sa.gov.au/wp-content/uploads/2017/05/annual-report-02.pdf",
+          "notes": "Museum’s own contemporary exhibition record links Monaro Mania, November 2001–April 2003, to the new CV6/CV8 launch and original model lineage. It is used for historical significance, not technical specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2001-2002 Holden Monaro (V2) CV8 coupe (5279039795).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2001-2002_Holden_Monaro_(V2)_CV8_coupe_(5279039795).jpg",
+          "notes": "sv1ambo; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Holden V2 Monaro CV8"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Generation III V8, aluminium block and heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5665",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "225",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "460",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves with cross-flow cylinder heads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "FE2 sports suspension; Control-Link independent rear suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel discs, ventilated front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.1:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Monaro’s 2001 return revived a defining Australian performance-coupe name with a modern V8 and six-speed manual. Its launch was linked to the original lineage by the National Motor Museum’s contemporary Monaro Mania exhibition, reflecting the model’s place in Australia’s motoring culture.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hol_monaro_v2_cv8_2001.jpg",
+          "caption": "Holden Monaro — 2001–2002 V2 Monaro CV8 in Australia; six-speed installation and original engine tune are not authenticated.",
+          "creator": "sv1ambo",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "80349ecff7c01e07bb5098ddfed187586d60d9bc77f969b8aab5dfb5f1280ad9"
+        }
+      ]
+    },
+    {
+      "id": "RUF-CTR-ORIGINAL-1987",
+      "manufacturer": "RUF",
+      "model_family": "CTR",
+      "generation": "Original Carrera-shell CTR Yellowbird production series",
+      "variant": "CTR Yellowbird — original 1987 family reference",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "RUF manufacturer history identifies original 1987 CTR, 469 PS and the measured 339.8-km/h Ehra-Lessien result; adjacent modern 710-hp/3.6-litre/7-speed carbon-car data are excluded. Supporting mechanical description follows a 2013 first-hand Car and Driver report on the original Yellowbird, reproduced by RUF UK, not a new-car factory spec sheet. Unqualified masses, speculative dyno outputs, torque conversions and later six-speed cars are omitted.",
+      "summary": "The original CTR Yellowbird established RUF’s international supercar reputation through the 1987 Ehra-Lessien high-speed comparison. It is the classic twin-turbo Carrera-shell production car that inspired the later carbon-monocoque CTR Anniversary, with a distinct chassis and engineering generation.",
+      "admission_reason": "The original CTR Yellowbird established RUF’s international supercar reputation through the 1987 Ehra-Lessien high-speed comparison. It is the classic twin-turbo Carrera-shell production car that inspired the later carbon-monocoque CTR Anniversary, with a distinct chassis and engineering generation.",
+      "sources": [
+        {
+          "publisher": "RUF Automobile",
+          "title": "RUF CTR Anniversary page — separate original-1987 Yellowbird historical section",
+          "source_type": "Manufacturer historical account within current model page",
+          "url": "https://www.ruf-automobile.de/en/modelle/serie/",
+          "notes": "RUF manufacturer history identifies original 1987 CTR, 469 PS and the measured 339.8-km/h Ehra-Lessien result; adjacent modern 710-hp/3.6-litre/7-speed carbon-car data are excluded. Supporting mechanical description follows a 2013 first-hand Car and Driver report on the original Yellowbird, reproduced by RUF UK, not a new-car factory spec sheet. Unqualified masses, speculative dyno outputs, torque conversions and later six-speed cars are omitted."
+        },
+        {
+          "publisher": "Car and Driver / RUF Automobile UK",
+          "title": "Original CTR Yellowbird — November 2013 first-hand road report reproduced by RUF UK",
+          "source_type": "Original vehicle road-test reporting, reproduced by manufacturer’s UK representative",
+          "url": "https://www.rufautomobile.co.uk/yellowbird",
+          "notes": "The page explicitly identifies the reproduced Car and Driver report and the actual original Yellowbird driven. Used for engine arrangement/capacity, twin turbos, Carrera-shell basis, five-speed manual and body/aero description. The report’s English horsepower shorthand, weight claim and speculative higher output are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:RUF CTR Yellowbird rear.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:RUF_CTR_Yellowbird_rear.jpg",
+          "notes": "TTTNIS; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Flat-six",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.4",
+          "unit": "litres",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Based on Carrera 3.2 body shell",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Rear-quarter NACA intake ducts and enlarged rear spoiler",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Original manufacturer power notation",
+          "value": "469",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "1987 Ehra-Lessien measured speed",
+          "value": "339.8",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original CTR Yellowbird established RUF’s international supercar reputation through the 1987 Ehra-Lessien high-speed comparison. It is the classic twin-turbo Carrera-shell production car that inspired the later carbon-monocoque CTR Anniversary, with a distinct chassis and engineering generation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ruf_ctr_original_1987.jpg",
+          "caption": "RUF CTR — Classic Carrera-shell CTR with an event number; this illustrates the original road-car body, not racing specifications or authentication of a particular factory VIN. It is not the modern carbon-monocoque CTR Anniversary.",
+          "creator": "TTTNIS",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "cf50ca13a23026c82f49a6be5576e79d73d56671b5ec37c83ed543d54fdd899c"
+        }
+      ]
+    }
+  ]
+}

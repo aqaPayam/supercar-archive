@@ -1,0 +1,507 @@
+{
+  "batch": "icons-road-2026-10-29-11",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "PEU-106-RALLYE-S1-1993",
+      "manufacturer": "Peugeot",
+      "model_family": "106",
+      "generation": "Original Series 1 1.3 Rallye",
+      "variant": "Rallye 1.3 — original TU2J2 road hatch",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Series 1 1.3 road Rallye, production introduced November 1993; Peugeot Italia’s restored-car technical retrospective. The later 1.6 and competition 1382-cc engines are excluded. Native 98 CV is retained. Apparent rear-track and fully-laden-mass errors in the retrospective are omitted. Photo is identified as a 1994 1.3 of the same body series; engine originality is not certified.",
+      "summary": "The 106 Rallye is a defining lightweight Peugeot sporting hatch: its stripped equipment and high-revving 1.3-litre road engine connect accessible driver involvement with the 106 family’s substantial grassroots rally and circuit heritage.",
+      "admission_reason": "The 106 Rallye is a defining lightweight Peugeot sporting hatch: its stripped equipment and high-revving 1.3-litre road engine connect accessible driver involvement with the 106 family’s substantial grassroots rally and circuit heritage.",
+      "sources": [
+        {
+          "publisher": "Peugeot Italia / Stellantis",
+          "title": "Ben ritrovata, 106 Rallye! — original 1.3 road specification and sporting heritage",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.media.stellantis.com/it-it/peugeot/press/ben-ritrovata-106-rallye",
+          "notes": "Original Series 1 1.3 road Rallye, production introduced November 1993; Peugeot Italia’s restored-car technical retrospective. The later 1.6 and competition 1382-cc engines are excluded. Native 98 CV is retained. Apparent rear-track and fully-laden-mass errors in the retrospective are omitted. Photo is identified as a 1994 1.3 of the same body series; engine originality is not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1994 Peugeot 106 Rallye 1.3 (9065266065).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1994_Peugeot_106_Rallye_1.3_(9065266065).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1994 Peugeot 106 Rallye 1.3"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "TU2J2 inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1294",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, transverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Magnetti Marelli multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.2:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "98",
+          "unit": "CV",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 106 Rallye is a defining lightweight Peugeot sporting hatch: its stripped equipment and high-revving 1.3-litre road engine connect accessible driver involvement with the 106 family’s substantial grassroots rally and circuit heritage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_106_rallye_s1_1993.jpg",
+          "caption": "Peugeot 106 — 1994 1.3 Series 1 exterior; represents the original November 1993 road model. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "381edc20b0641fadc2f75e8ba84b2e69932076fb83893a23c95df3d150c690b3"
+        }
+      ]
+    },
+    {
+      "id": "PEU-RCZ-R-2014",
+      "manufacturer": "Peugeot",
+      "model_family": "RCZ",
+      "generation": "Original production RCZ R",
+      "variant": "R — 2014 European production coupe",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "German-market production RCZ R launched early 2014, per the December 2013 Peugeot release. The earlier 260-PS R Concept is excluded. Source explicitly gives 199 kW / 270 PS and 330 Nm from 1900 to 5500 rpm. Exact capacity and gearbox are withheld in this selected transcription. Photo shows the production RCZ R at Geneva 2014, not the Paris 2012 concept.",
+      "summary": "The RCZ R represents Peugeot Sport’s engineering-led road coupe: its highly developed small turbo engine, Torsen differential, dedicated suspension and four-piston brakes made a complete performance flagship rather than a styling edition.",
+      "admission_reason": "The RCZ R represents Peugeot Sport’s engineering-led road coupe: its highly developed small turbo engine, Torsen differential, dedicated suspension and four-piston brakes made a complete performance flagship rather than a styling edition.",
+      "sources": [
+        {
+          "publisher": "Peugeot Deutschland / Stellantis",
+          "title": "RCZ R — production launch, powertrain and Peugeot Sport chassis",
+          "source_type": "Period manufacturer launch release",
+          "url": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-rcz-r-top-sportler-fur-strasse-und-rennstrecke",
+          "notes": "German-market production RCZ R launched early 2014, per the December 2013 Peugeot release. The earlier 260-PS R Concept is excluded. Source explicitly gives 199 kW / 270 PS and 330 Nm from 1900 to 5500 rpm. Exact capacity and gearbox are withheld in this selected transcription. Photo shows the production RCZ R at Geneva 2014, not the Paris 2012 concept."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2014-03-04 Geneva Motor Show 0991.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2014-03-04_Geneva_Motor_Show_0991.JPG",
+          "notes": "Norbert Aepli, Switzerland ( User:Noebu ); CC BY 3.0. License: https://creativecommons.org/licenses/by/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "199",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "330",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin-scroll turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Fixed rear spoiler and rear diffuser",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-piston fixed calipers; 380-mm discs described in manufacturer release",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The RCZ R represents Peugeot Sport’s engineering-led road coupe: its highly developed small turbo engine, Torsen differential, dedicated suspension and four-piston brakes made a complete performance flagship rather than a styling edition.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_peu_rcz_r_2014.jpg",
+          "caption": "Peugeot RCZ — Production RCZ R shown at Geneva 2014. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Norbert Aepli, Switzerland ( User:Noebu )",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6e334745acaf55ece20cd77f4fbdae8ec2dd4bc8cc74c9f5da9d7e6a918f3229"
+        }
+      ]
+    },
+    {
+      "id": "CIT-SM-27-1970",
+      "manufacturer": "Citroën",
+      "model_family": "SM",
+      "generation": "Original 2.7-litre SM road series",
+      "variant": "SM — original 2670-cc European coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original European 1970 2670-cc, 170-DIN-PS road reference from Citroën’s own historical technical account. Later injection and 3.0-litre specifications are excluded. No 1971 rally tune or race performance is used. Undefined mass and gearbox remain unfilled. Photo represents a European enclosed-headlamp SM; its build year and installed engine are not authenticated.",
+      "summary": "The SM is a landmark French grand tourer combining Maserati six-cylinder power with hydropneumatic suspension, high-pressure disc brakes and advanced assisted steering, extending Citroën’s distinctive chassis engineering into a fast front-drive coupe.",
+      "admission_reason": "The SM is a landmark French grand tourer combining Maserati six-cylinder power with hydropneumatic suspension, high-pressure disc brakes and advanced assisted steering, extending Citroën’s distinctive chassis engineering into a fast front-drive coupe.",
+      "sources": [
+        {
+          "publisher": "Citroën Deutschland / Stellantis",
+          "title": "Citroën SM — 1970 original engine and advanced chassis retrospective",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://www.media.stellantis.com/de-de/citroen/press/citroen-sm-vor-40-jahren-endete-die-produktion-der-stil-ikone",
+          "notes": "Original European 1970 2670-cc, 170-DIN-PS road reference from Citroën’s own historical technical account. Later injection and 3.0-litre specifications are excluded. No 1971 rally tune or race performance is used. Undefined mass and gearbox remain unfilled. Photo represents a European enclosed-headlamp SM; its build year and installed engine are not authenticated."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Citroën SM (2015-09-12 3740 b).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_SM_(2015-09-12_3740_b).JPG",
+          "notes": "Lothar Spurzem; CC BY-SA 2.0 de. License: https://creativecommons.org/licenses/by-sa/2.0/de/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Maserati six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2670",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Hydropneumatic, constant ride height",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four high-pressure disc brakes; independent front/rear circuits with load-sensitive regulation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Robert Opron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "170",
+          "unit": "DIN PS",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "System",
+          "value": "Power-assisted steering developed for the SM",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SM is a landmark French grand tourer combining Maserati six-cylinder power with hydropneumatic suspension, high-pressure disc brakes and advanced assisted steering, extending Citroën’s distinctive chassis engineering into a fast front-drive coupe.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cit_sm_27_1970.jpg",
+          "caption": "Citroën SM — European enclosed-headlamp body; photographed example’s build year and engine unverified. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "6cc22feb28686176918fbb29c7275f3dc1fcd0de448ed991b3fcf39892b29724"
+        }
+      ]
+    },
+    {
+      "id": "ALP-A110-MODERN-2017",
+      "manufacturer": "Alpine",
+      "model_family": "A110",
+      "generation": "Modern aluminium mid-engine A110",
+      "variant": "Première Edition — original 2017 European launch reference",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2017 continental-European Première Edition launch specification, March 7 press kit pages 2–4 and 8–9. Manufacturer directly states 185 kW / 252 PS and 320 Nm. The prose’s 1080-kg figure and technical table’s 1103-kg DIN figure differ; no mass is imported. Later 300-PS, R, GT4 and electric models are excluded. Photo identifies a 2018 UK Première Edition of the same generation, not authentication of a 2017 continental build.",
+      "summary": "The modern A110 revived Alpine as a road-sports-car maker through an aluminium mid-engine coupe, pairing compact dimensions and double-wishbone suspension with a deliberate emphasis on agility and low mass.",
+      "admission_reason": "The modern A110 revived Alpine as a road-sports-car maker through an aluminium mid-engine coupe, pairing compact dimensions and double-wishbone suspension with a deliberate emphasis on agility and low mass.",
+      "sources": [
+        {
+          "publisher": "Alpine / Groupe Renault",
+          "title": "Alpine is back — March 7, 2017 original press kit, Première Edition",
+          "source_type": "Period manufacturer press kit, owners-club-hosted facsimile",
+          "url": "https://www.renaultownersclub.com/wp-content/uploads/vehicles/Alpine%20A110%20-%202017%20Launch.pdf",
+          "notes": "Original 2017 continental-European Première Edition launch specification, March 7 press kit pages 2–4 and 8–9. Manufacturer directly states 185 kW / 252 PS and 320 Nm. The prose’s 1080-kg figure and technical table’s 1103-kg DIN figure differ; no mass is imported. Later 300-PS, R, GT4 and electric models are excluded. Photo identifies a 2018 UK Première Edition of the same generation, not authentication of a 2017 continental build."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Alpine A110 Premiere Edition Auto (31415).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Alpine_A110_Premiere_Edition_Auto_(31415).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder 16-valve petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.8",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "185",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "320",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine, ahead of rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Getrag seven-speed wet-clutch DCT",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Aluminium platform and body; bonded, riveted and welded",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbone front and rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The modern A110 revived Alpine as a road-sports-car maker through an aluminium mid-engine coupe, pairing compact dimensions and double-wishbone suspension with a deliberate emphasis on agility and low mass.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alp_a110_modern_2017.jpg",
+          "caption": "Alpine A110 — 2018 UK Première Edition exterior; represents the same generation as the 2017 continental-European launch reference. Photograph does not certify engine originality or optional equipment.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "976b14816798e204fa1b6c833f1e3733e435826c011b023402e1b1dfd8ceca61"
+        }
+      ]
+    }
+  ]
+}

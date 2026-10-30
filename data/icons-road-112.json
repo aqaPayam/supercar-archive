@@ -1,0 +1,202 @@
+{
+  "batch": "icons-road-2026-10-30-112",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "PON-FIREBIRD-G1-TRANSAM-US1969",
+      "manufacturer": "Pontiac",
+      "model_family": "Firebird / Trans Am",
+      "generation": "First-generation 1967–1969 Firebird production-road performance family",
+      "variant": "Trans Am hardtop 335-hp 400 Ram Air — 1969 USA production launch, three-speed manual",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop coupe",
+      "road_legal": 1,
+      "specification_market": "1969 USA Firebird Trans Am hardtop, standard 335-hp 400 Ram Air V8 and heavy-duty three-speed manual, using the production launch advertisement with the matching AMA Firebird 400 H.O. engine row. Count the original 1967–1969 Firebird performance-road family once across years, engines, bodies and packages. Retain period factory Ram Air/400 H.O. nomenclature rather than treating later Ram Air III shorthand as a separate identity. Not a 303 racing engine, Ram Air IV prototype, GTO-rated engine or second-generation car. Advertised native power only; no modern net conversion, prototype test times, mass or production count inferred.",
+      "summary": "The first Trans Am established a defining Pontiac performance identity within the original Firebird family, combining Ram Air V8 power with a purposeful handling package and distinctive functional bodywork. First-hand interviews with Pontiac development participants document its creation and lasting recognition, distinguishing the production road car from experimental racing programmes.",
+      "admission_reason": "The first Trans Am established a defining Pontiac performance identity within the original Firebird family, combining Ram Air V8 power with a purposeful handling package and distinctive functional bodywork. First-hand interviews with Pontiac development participants document its creation and lasting recognition, distinguishing the production road car from experimental racing programmes.",
+      "sources": [
+        {
+          "publisher": "Pontiac Motor Division, General Motors / Over-Drive facsimile",
+          "title": "1969 Firebird Trans Am launch advertisement — Announcing Pontiac’s new pony express",
+          "source_type": "Original manufacturer production-road launch advertisement, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2024/05/1969-Pontiac-Firebird-Print-Ads-1-6.pdf",
+          "notes": "Six-page file, 14,018,307 bytes. Full PDF index 4 visually read: actual Trans Am launch advertisement, with standard 335-hp 400 Ram Air, heavy-duty three-speed, 3.55 axle, fiberglass-belted tyres, heavy-duty springs/shocks, one-inch bar, power front discs and variable-ratio power steering. Index 5 also viewed but shows ordinary GTO/Firebird imagery and supplies no selected fields. Other pages rendered, not individually viewed. No unlisted front spoiler or specific tyre size imported."
+        },
+        {
+          "publisher": "Pontiac Motor Division, General Motors / Over-Drive facsimile",
+          "title": "1969 Pontiac Firebird AMA Specifications — issued 11 September 1968",
+          "source_type": "Original manufacturer AMA specification sheets, hosted scan",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2024/05/1969-PONTIAC-Firebird-1-33.pdf",
+          "notes": "33-page file, 12,759,384 bytes. Full indexes 0, 2 and 3 visually read; other rendered pages not individually audited. Cover identifies hardtop body 22337. Power-team table on printed page 3 distinguishes 330-hp Firebird 400, selected 335-hp 400 H.O. and 345-hp Ram Air IV. Detailed engine values map only to the matching 335-hp row; the later launch advertisement controls Trans Am package equipment and axle ratio. No base-model chassis assumptions or GTO engine ratings."
+        },
+        {
+          "publisher": "High Performance Pontiac / HOT ROD archive",
+          "title": "How the Pontiac Trans Am Was Born, Part 3 — November 2013",
+          "source_type": "First-hand interviews with Pontiac development participants, publisher archive",
+          "url": "https://www.hotrod.com/news/how-the-pontiac-trans-am-was-born-part-3",
+          "notes": "Admission context from interviews with Herb Adams and Jim Wangers, including their differing perspectives on development and lasting identity. Prototype tests, racing-engine work, retrospective sales-bulletin list, royalty anecdotes, price and production totals are not imported production specifications. Primary factory scans control technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Pontiac Firebird Trans Am Polar White Frt Qtr.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Pontiac_Firebird_Trans_Am_Polar_White_Frt_Qtr.jpg",
+          "notes": "Matt Morgan from Alameda; CC BY-SA 2.0. Exact licence: https://creativecommons.org/licenses/by-sa/2.0. Original credit: 1969_Pontiac_Firebird_Trans_Am_Polar_White_Frt_Qtr. Original credit links: https://www.flickr.com/photos/mashleymorgan/3867053424/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ram Air V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "400",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory advertised",
+          "value": "335",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, matching 400 H.O. factory row",
+          "value": "430",
+          "unit": "lb-ft",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3400",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.75:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel carburettor",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Ram Air intake",
+          "value": "Functional twin hood scoops",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Standard transmission",
+          "value": "Heavy-duty three-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Factory launch axle ratio",
+          "value": "3.55:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Factory launch tyre construction",
+          "value": "Fiberglass-belted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Handling equipment",
+          "value": "Heavy-duty springs and shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front stabilizer diameter",
+          "value": "1",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Assistance",
+          "value": "Variable-ratio power steering",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front brakes",
+          "value": "Power-assisted discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Rear aero equipment",
+          "value": "Rear-deck airfoil",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Engine-bay ventilation",
+          "value": "Engine-air exhaust louvres",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Trans Am established a defining Pontiac performance identity within the original Firebird family, combining Ram Air V8 power with a purposeful handling package and distinctive functional bodywork. First-hand interviews with Pontiac development participants document its creation and lasting recognition, distinguishing the production road car from experimental racing programmes.",
+          "category": "Historical significance",
+          "confidence": "First-hand development-participant interviews documented",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pon_firebird_g1_transam_1969.jpg",
+          "caption": "1969 Firebird Trans Am hardtop photographed by Matt Morgan; white-and-blue body, twin scoops, fender louvres and rear spoiler shown. Representative exterior photograph only: modern BFGoodrich Radial T/A tyres are visible and do not represent the factory fiberglass-belted fitment. The image does not authenticate engine tune, gearbox, brakes, factory package identity or restoration originality; the title’s Polar White wording is not adopted as a factory paint-code claim.",
+          "creator": "Matt Morgan",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "831e979a8dca6286061f986bcad31cd3ea8d3135f2ad1e7ff52dcdb424a7b14b"
+        }
+      ]
+    }
+  ]
+}

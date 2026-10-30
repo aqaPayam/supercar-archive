@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-136",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "MER-RACEABOUT-35C-REVS1912",
+      "manufacturer": "Mercer",
+      "model_family": "Raceabout",
+      "generation": "Original T-head Type 35 production-road sporting family",
+      "variant": "Model 35-C — 1912 Revs Institute reference",
+      "model_year_from": 1912,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Open two-seat road speedster",
+      "road_legal": 1,
+      "specification_market": "Original T-head Mercer Type 35 Raceabout production-road family; selected 1912 Model 35-C museum reference at Revs Institute, serial 764. All eight attributes map to the collection entry. Preserve its 300 cubic inches and 58 hp at 1700 rpm without inventing an SAE/DIN standard or exact converted displacement. Wheelbase converts 108 inches exactly to 2743.2 mm. Body/control descriptions belong to the museum reference, not authentication of every chassis. Group T-head years, 35-R/35-C/35-J naming and equipment once; later L-head models, dedicated racers, the mixed 1911/1913 Simeone car, replica bodies on Ford chassis and unrelated touring models are not additionally admitted. No gearbox count, bore/stroke, fuel-system type, torque, weight basis, speed, acceleration, production totals or universal originality claim imported.",
+      "summary": "The Mercer Raceabout is a defining early American production sports car: Finley Robertson Porter's minimalist T-head road design combined purposeful engineering with important early competition heritage. Its lasting identity and rivalry with the Stutz Bearcat establish significance beyond age or rarity. Count the original T-head Raceabout road family once across years and equipment; a racing result does not establish stock-road tuning.",
+      "admission_reason": "The Mercer Raceabout is a defining early American production sports car: Finley Robertson Porter's minimalist T-head road design combined purposeful engineering with important early competition heritage. Its lasting identity and rivalry with the Stutz Bearcat establish significance beyond age or rarity. Count the original T-head Raceabout road family once across years and equipment; a racing result does not establish stock-road tuning.",
+      "sources": [
+        {
+          "publisher": "Revs Institute",
+          "title": "1912 Mercer Model 35-C Raceabout — serial 764",
+          "source_type": "Original museum collection record for the reference car",
+          "url": "https://revsinstitute.org/vehicle/1912-mercer-raceabout",
+          "notes": "Complete relevant current collection entry, technical header and history read; older museum.revsinstitute.org collection URL redirects here. All eight attributes map here: inline-four T-head, 300 cubic inches, 58 hp at 1700 rpm, 108-inch wheelbase, two bucket seats, rear tank, driver monocle screen and described inside/outside controls. No horsepower test standard inferred. Exact wheelbase conversion uses 25.4 mm per inch. Header weight 2610 lb has no resolved basis and is omitted. Racing heritage and later special competition versions do not establish road engine tuning. Later L-head redesign chronology, totals, speeds and values not imported. Museum page photographs by Peter Harholdt are not reused."
+        },
+        {
+          "publisher": "Heritage Museums & Gardens",
+          "title": "1912 Mercer Raceabout — original collection account",
+          "source_type": "Original museum collection account and sporting history",
+          "url": "https://heritagemuseumsandgardens.org/hmg/1912-mercer-raceabout/",
+          "notes": "Complete relevant collection body read, including original American sports-car significance, road-use guarantee account, rivalry with Stutz and technical panel. Supports bounded road/sporting context; supplies no selected technical attributes. Its rounded five-litre label is not substituted for Revs 300 cubic inches. Barney Oldfield ownership is only believed and is not asserted as fact. Historical road-speed guarantee is an attributed museum account, not newly measured performance. No prices, ownership certification, universal first/superlative or later touring/racing details imported."
+        },
+        {
+          "publisher": "Wikimedia Commons; Deborah Del Coro / Tomás Del Coro, TDelCoro",
+          "title": "File:1912 Mercer Model 35-C Raceabout (54400082621).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1912_Mercer_Model_35-C_Raceabout_(54400082621).jpg",
+          "notes": "Description expressly credits Photo: Deborah Del Coro; Commons/Flickr author field identifies Tomás Del Coro / TDelCoro. Both credits are retained without inventing co-photography or substituting the Commons transfer user. Original Flickr https://www.flickr.com/photos/tomasdelcoro/54400082621/ ; capture 20 March 2025 at Revs Institute, Naples. Summary, licence, file history, Flickr review and API metadata read; FlickreviewR 2 confirmed CC BY-SA 4.0 on 22 October 2025. Licence https://creativecommons.org/licenses/by-sa/4.0/ . Downloaded 1280 x 964 JPEG rendition individually viewed and copied unchanged. Silver/grey two-seat T-head-era Raceabout road body with fenders, side lamps and monocle windscreen matches selected museum family/body. No authentication of engine, exact year, original equipment or chassis serial from photograph alone."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four cylinders in line, T-head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum displacement",
+          "value": "300",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum reference output",
+          "value": "58 hp at 1700 rpm; test standard not stated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum reference wheelbase",
+          "value": "2743.2",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "Two bucket seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Windscreen",
+          "value": "Monocle screen for driver",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Tank location",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Controls",
+          "label": "Museum reference arrangement",
+          "value": "Clutch and brake pedals and steering wheel inside cockpit; shift lever, brake lever and accelerator pedal outside",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mercer Raceabout is a defining early American production sports car: Finley Robertson Porter's minimalist T-head road design combined purposeful engineering with important early competition heritage. Its lasting identity and rivalry with the Stutz Bearcat establish significance beyond age or rarity. Count the original T-head Raceabout road family once across years and equipment; a racing result does not establish stock-road tuning.",
+          "category": "Landmark American production sports-car engineering",
+          "confidence": "Original museum collection history and bounded T-head road reference",
+          "source": 0
+        },
+        {
+          "title": "A road sports car with a lasting sporting rivalry",
+          "explanation": "Heritage Museums describes the Raceabout as an early American sports car offered for road use as well as competition, and records its rivalry with the Stutz Bearcat. That historical context supports admission without treating individual race results, ownership beliefs or a historical speed guarantee as measured performance of this museum reference.",
+          "category": "Road-use identity and cultural sporting history",
+          "confidence": "Original Heritage Museums collection account; beliefs and performance claims kept qualified",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_raceabout_35c_museum1912.jpg",
+          "caption": "Mercer Model 35-C Raceabout at Revs Institute, Naples, photographed 20 March 2025. Representative two-seat T-head-era road body; engine, original equipment, year and chassis serial are not authenticated by the photo alone. Description credits Deborah Del Coro as photographer; Flickr/Commons author is Tomás Del Coro / TDelCoro. CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/); downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Deborah Del Coro (photo credit); Tomás Del Coro / TDelCoro (Flickr author)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d495b16bf1e503eae65ebb72774ec39bf1155d2dbf352ace8c5b9e73a674576f"
+        }
+      ]
+    }
+  ]
+}

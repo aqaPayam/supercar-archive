@@ -1,0 +1,348 @@
+{
+  "batch": "icons-road-2026-10-30-92",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "CHE-CAMARO-Z28-G2-US1970",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "Second-generation Camaro production-road performance-coupe family",
+      "variant": "Z/28 350 four-speed manual, 3.73 axle — February 1970 US factory reference",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 US second-generation Camaro Z/28, selected four-speed manual with factory 3.73 axle. Actual Chevrolet February 1970 Power Trains pages 2–6 and AMA 4B supply the reference: 350 cu in nominal, 11.0:1, cast-iron 90-degree OHV V8, four-barrel, 360 gross brake hp at 6000 rpm and 380 gross lb-ft at 4000 rpm. These are advertised gross ratings, not SAE net or wheel output. No inferred cc/kW/Nm conversion, specific Muncie ratio set, optional 4.10 axle, later detuned engine, race preparation or period-test performance figure is selected. The C/D test car was automatic and its published power-peak rpm and torque figures differ; those do not replace the factory reference.",
+      "summary": "The second-generation Z/28 developed the Camaro’s performance identity with a high-compression 350-cubic-inch V8 and revised steering and road behaviour. Contemporary first-hand testing assessed it as a distinctive road GT while also recording its handling compromises. Count this absent Camaro generation once; engines, RS/SS appearance or performance packages and later years do not add entries.",
+      "admission_reason": "The second-generation Z/28 developed the Camaro’s performance identity with a high-compression 350-cubic-inch V8 and revised steering and road behaviour. Contemporary first-hand testing assessed it as a distinctive road GT while also recording its handling compromises. Count this absent Camaro generation once; engines, RS/SS appearance or performance packages and later years do not add entries.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors Heritage Archive",
+          "title": "1970 Camaro — Chevrolet February 1970 Power Trains and AMA specifications",
+          "source_type": "Original manufacturer product information and AMA sheets",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1970-Chevrolet-Camaro.pdf",
+          "notes": "1970 US second-generation Camaro Z/28, selected four-speed manual with factory 3.73 axle. Actual Chevrolet February 1970 Power Trains pages 2–6 and AMA 4B supply the reference: 350 cu in nominal, 11.0:1, cast-iron 90-degree OHV V8, four-barrel, 360 gross brake hp at 6000 rpm and 380 gross lb-ft at 4000 rpm. These are advertised gross ratings, not SAE net or wheel output. No inferred cc/kW/Nm conversion, specific Muncie ratio set, optional 4.10 axle, later detuned engine, race preparation or period-test performance figure is selected. The C/D test car was automatic and its published power-peak rpm and torque figures differ; those do not replace the factory reference."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "Tested: 1970 Chevrolet Camaro Z/28 — May 1970 issue, republished",
+          "source_type": "Contemporary first-hand road test, republished",
+          "url": "https://www.caranddriver.com/reviews/a15141878/1970-chevrolet-camaro-z-28-road-test-review/",
+          "notes": "Actual period test read. Supports the admission assessment and common front-engine/rear-drive layout. The tested automatic/4.10 car, its engine figures, measurements and performance do not supply the selected manual reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Chevrolet Camaro Z28.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Camaro_Z28.jpg",
+          "notes": "Sicnag; CC BY 2.0; https://creativecommons.org/licenses/by/2.0. Original credit: 1970 Chevrolet Camaro Z28. Original credit links: https://www.flickr.com/photos/42220226@N07/7564286172/. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; individual available ratio set unspecified",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Positraction required with the selected 3.73 axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "F60 × 15B — original factory-chart notation",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "350",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "360",
+          "unit": "hp (gross)",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "380",
+          "unit": "lb-ft (gross)",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block and head material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke, nominal",
+          "value": "4.00 × 3.48",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Final-drive ratio",
+          "value": "3.73:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Z/28 developed the Camaro’s performance identity with a high-compression 350-cubic-inch V8 and revised steering and road behaviour. Contemporary first-hand testing assessed it as a distinctive road GT while also recording its handling compromises. Count this absent Camaro generation once; engines, RS/SS appearance or performance packages and later years do not add entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_z28_g2_us1970.jpg",
+          "caption": "Early second-generation Camaro labelled 1970 Z28 by Sicnag. Representative road coupe with RS-style split-bumper nose and modern replacement tyres. Exact Z/28 engine originality, carburettor, four-speed gearbox, 3.73 axle and factory equipment are not authenticated by the photograph; the RS appearance treatment is not asserted as standard.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d104a9627b4ba8b3eb8efe0ddeedd6ed4a8bcd451e9c61fc097c7bdeea1e1a22"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CAMARO-Z28-G4-US1998-MT",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "Fourth-generation Camaro production-road performance-coupe family",
+      "variant": "LS1 Z28 coupe, optional MM6 six-speed manual — 1998 US factory reference",
+      "model_year_from": 1998,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1998 US-market fourth-generation Z28 coupe, optional MM6 six-speed manual, power-team D in the actual factory MVMA table. M30 automatic is standard in this table; the chosen manual is not mislabelled standard. Factory F-car LS1 data: 5665 cc, 10.1:1, 228 kW (305 bhp) at 5200 rpm and 454 Nm (335 lb-ft) at 4000 rpm, SAE J1349 net. Stated metric figures are retained without recalculation. Not the Corvette Y-car 345-hp/350-lb-ft calibration, base L36 V6, SS/1LE package, later-year output or 1970 gross rating. Model year 1998 is not the start of the fourth generation. Factory page 1 identifies Canadian assembly; origin denotes the US Chevrolet programme, not assembly location.",
+      "summary": "The fourth-generation Camaro carried the affordable V8 pony-car line into its LS-engine era. The selected LS1 Z28 combines the Corvette-derived aluminium-block V8 with a six-speed manual, marking a substantial mechanical evolution within an established American performance family. Count this generation once; LT1/LS1 years, SS packages, transmissions, open-top bodies and anniversaries do not add separate entries.",
+      "admission_reason": "The fourth-generation Camaro carried the affordable V8 pony-car line into its LS-engine era. The selected LS1 Z28 combines the Corvette-derived aluminium-block V8 with a six-speed manual, marking a substantial mechanical evolution within an established American performance family. Count this generation once; LT1/LS1 years, SS packages, transmissions, open-top bodies and anniversaries do not add separate entries.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors Heritage Archive",
+          "title": "1998 Camaro — original LS1 engineering release, product and MVMA specifications",
+          "source_type": "Original manufacturer engineering and model specification sheets",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1998-Chevrolet-Camaro.pdf",
+          "notes": "1998 US-market fourth-generation Z28 coupe, optional MM6 six-speed manual, power-team D in the actual factory MVMA table. M30 automatic is standard in this table; the chosen manual is not mislabelled standard. Factory F-car LS1 data: 5665 cc, 10.1:1, 228 kW (305 bhp) at 5200 rpm and 454 Nm (335 lb-ft) at 4000 rpm, SAE J1349 net. Stated metric figures are retained without recalculation. Not the Corvette Y-car 345-hp/350-lb-ft calibration, base L36 V6, SS/1LE package, later-year output or 1970 gross rating. Model year 1998 is not the start of the fourth generation. Factory page 1 identifies Canadian assembly; origin denotes the US Chevrolet programme, not assembly location."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "What to Buy: 1993–2002 Chevrolet Camaro — generation history",
+          "source_type": "Independent performance-car generation retrospective",
+          "url": "https://www.caranddriver.com/features/a37233141/what-to-buy-1993-2002-chevrolet-camaro/",
+          "notes": "Actual generation retrospective read for the LT1-to-LS transition and performance-cultural context only. Prices, modification advice, earlier 1993 test data and later SS output are not technical fields for the selected 1998 reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1998ChevroletCamaroZ28.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1998ChevroletCamaroZ28.jpg",
+          "notes": "Rich Niewiroski Jr.; CC BY 2.5; https://creativecommons.org/licenses/by/2.5. Original credit: http://www.projectrich.com/gallery. Original credit links: http://www.projectrich.com/gallery. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LS1 90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5665",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "454",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch sequential port fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Borg-Warner six-speed manual, MM6 — selected optional transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.1:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Chain-driven camshaft in the cylinder-block V; overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (SAE J1349 net)",
+          "value": "228",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block and head material",
+          "value": "Cast aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke",
+          "value": "99.0 × 92.0",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fourth-generation Camaro carried the affordable V8 pony-car line into its LS-engine era. The selected LS1 Z28 combines the Corvette-derived aluminium-block V8 with a six-speed manual, marking a substantial mechanical evolution within an established American performance family. Count this generation once; LT1/LS1 years, SS packages, transmissions, open-top bodies and anniversaries do not add separate entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_z28_g4_us1998_mt.jpg",
+          "caption": "1998 Camaro Z28 at the 2003 Super Chevy Show in Pomona, photographed by Rich Niewiroski Jr. Representative road coupe with hood and rear hatch open at a show. The image does not certify the optional MM6 gearbox, original engine calibration, ancillary equipment or unmodified condition. Photographer and original gallery credit are retained.",
+          "creator": "Rich Niewiroski Jr.",
+          "license": "CC BY 2.5",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "3784b23e7947c777e77128fda3357c0f19ad78d3a409846239cc8a0aaad893c5"
+        }
+      ]
+    }
+  ]
+}

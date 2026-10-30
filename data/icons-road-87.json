@@ -1,0 +1,299 @@
+{
+  "batch": "icons-road-2026-10-30-87",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "REN-SAFRANE-BITURBO-ROAD-HISTORY",
+      "manufacturer": "Renault",
+      "model_family": "Safrane",
+      "generation": "Original Safrane production-road performance-hatchback family",
+      "variant": "Biturbo — 1993 factory-history road reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Five-door sporting road hatchback saloon",
+      "road_legal": 1,
+      "specification_market": "Safrane Biturbo production-road reference in Renault’s 2019 history chapter headed 1993. Exact model-year/start-of-customer-deliveries is left unspecified: the museum also describes a 1992 show presentation, which is not a production-start date. Hartge/Irmscher, PRV V6, twin KKK K04 turbos, permanent four-wheel drive and controlled suspension are the selected road programme. The PDF’s printed 193 kW (268 ch DIN) is internally inconsistent; only its original 268 ch DIN rating is retained, with no kW value/conversion inferred. No show-car, safety-car or ordinary V6 Quadra specification is substituted. The museum-display photo does not authenticate a chassis or certify its display-card measurements.",
+      "summary": "The Safrane Biturbo is an exceptional engineering collaboration within Renault’s performance-road history: Hartge developed the twin-turbo PRV V6 while Irmscher worked on the chassis, paired with permanent four-wheel drive and controlled suspension. Its significance lies in this integrated high-performance flagship programme, not simply luxury or rarity. One original Safrane sporting family is counted; RXE/Baccara trim, model years, ordinary Safranes and the Long Cours show-car derivative do not add separate entries.",
+      "admission_reason": "The Safrane Biturbo is an exceptional engineering collaboration within Renault’s performance-road history: Hartge developed the twin-turbo PRV V6 while Irmscher worked on the chassis, paired with permanent four-wheel drive and controlled suspension. Its significance lies in this integrated high-performance flagship programme, not simply luxury or rarity. One original Safrane sporting family is counted; RXE/Baccara trim, model years, ordinary Safranes and the Long Cours show-car derivative do not add separate entries.",
+      "sources": [
+        {
+          "publisher": "Renault; manufacturer-authored press-kit facsimile hosted by AM Today",
+          "title": "Renault : une saga turbo depuis 40 ans — July 15, 2019, Safrane chapter page 18",
+          "source_type": "Manufacturer historical press kit, hosted facsimile",
+          "url": "https://www.am-today.com/www.am-today.com/w/pdf/21230358-renault-une-saga-turbo-depuis-40-ans-1.pdf",
+          "notes": "Safrane Biturbo production-road reference in Renault’s 2019 history chapter headed 1993. Exact model-year/start-of-customer-deliveries is left unspecified: the museum also describes a 1992 show presentation, which is not a production-start date. Hartge/Irmscher, PRV V6, twin KKK K04 turbos, permanent four-wheel drive and controlled suspension are the selected road programme. The PDF’s printed 193 kW (268 ch DIN) is internally inconsistent; only its original 268 ch DIN rating is retained, with no kW value/conversion inferred. No show-car, safety-car or ordinary V6 Quadra specification is substituted. The museum-display photo does not authenticate a chassis or certify its display-card measurements."
+        },
+        {
+          "publisher": "Renault — The Originals Museum",
+          "title": "Safrane Biturbo — manufacturer museum profile",
+          "source_type": "Manufacturer museum history",
+          "url": "https://theoriginals.renault.com/en/safrane-biturbo",
+          "notes": "Actual full indexed manufacturer profile text read; direct museum URLs returned 503. Supports the Hartge/Irmscher collaboration, 2963 cc PRV V6, four-wheel-drive hatchback architecture and selected road-model identity. The page’s 1993 reference and 1992 show presentation are not proof of first customer deliveries. Exact production counts, safety-car use, dimensions and Long Cours prototype specifications are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Manoir de l'Automobile - 254 - Renault Safrane 1994.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Manoir_de_l%27Automobile_-_254_-_Renault_Safrane_1994.jpg",
+          "notes": "Koreller; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Original credit: Own work. Downloaded rendition copied unchanged. Representative road body with the caption’s chassis/equipment qualifications."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "PRV V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "365",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two KKK K04 turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Electronically controlled suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (DIN)",
+          "value": "268",
+          "unit": "ch DIN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "2500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Boost control",
+          "value": "Electronic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2963",
+          "unit": "cc",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Safrane Biturbo is an exceptional engineering collaboration within Renault’s performance-road history: Hartge developed the twin-turbo PRV V6 while Irmscher worked on the chassis, paired with permanent four-wheel drive and controlled suspension. Its significance lies in this integrated high-performance flagship programme, not simply luxury or rarity. One original Safrane sporting family is counted; RXE/Baccara trim, model years, ordinary Safranes and the Long Cours show-car derivative do not add separate entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_safrane_biturbo_road_history.jpg",
+          "caption": "Renault Safrane V6 Biturbo photographed by Koreller at the Manoir de l’Automobile, with a display card identifying 1994. Representative road-model body; the display card’s speed and displacement rounding are not technical evidence here. This image does not certify chassis identity, original engine tune, suspension condition or exact RXE/Baccara equipment.",
+          "creator": "Koreller",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "d69e3ebb3919d343b634b946672b4106ab17f30f63674cf707b4dea83c89faf9"
+        }
+      ]
+    },
+    {
+      "id": "REN-21-TURBO-FWD-HISTORY1987",
+      "manufacturer": "Renault",
+      "model_family": "21",
+      "generation": "Original Renault 21 production-road sporting-saloon family",
+      "variant": "2L Turbo 175 ch DIN front-drive — original 1987 factory-history reference",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting road saloon",
+      "road_legal": 1,
+      "specification_market": "Original 1987 Renault 21 2L Turbo front-drive sporting-road reference, 175 ch DIN rather than the separate 162-ch catalysed tune. Directly stated 129 kW / 175 ch DIN, 1995 cc, 270 Nm and Garrett T3/electronic control in Renault’s actual 2019 chapter. Front-drive layout is distinguished from Quadra and Superproduction race cars. The 430-ch racing derivative and ice-record cars do not supply road specifications. No exact chassis/model-year identity, engine-code suffix, gearbox, weight or road acceleration is inferred. The road-bodied photo illustrates an early Turbo ABS saloon without authenticating its drivetrain or engine tune.",
+      "summary": "The Renault 21 2L Turbo is an established French sporting saloon of the late-1980s turbo era. Its road engine combined coordinated electronic ignition, injection and boost control with standard ABS, while the much more powerful Ragnotti racing derivative established the family’s touring-car heritage. One original 21 sporting family is counted, not ordinary saloons, Medallion badges, Quadra drivetrains, catalysed tunes, model years or racing evolutions as extra cars.",
+      "admission_reason": "The Renault 21 2L Turbo is an established French sporting saloon of the late-1980s turbo era. Its road engine combined coordinated electronic ignition, injection and boost control with standard ABS, while the much more powerful Ragnotti racing derivative established the family’s touring-car heritage. One original 21 sporting family is counted, not ordinary saloons, Medallion badges, Quadra drivetrains, catalysed tunes, model years or racing evolutions as extra cars.",
+      "sources": [
+        {
+          "publisher": "Renault; manufacturer-authored press-kit facsimile hosted by AM Today",
+          "title": "Renault : une saga turbo depuis 40 ans — July 15, 2019, R21 chapter page 17",
+          "source_type": "Manufacturer historical press kit, hosted facsimile",
+          "url": "https://www.am-today.com/www.am-today.com/w/pdf/21230358-renault-une-saga-turbo-depuis-40-ans-1.pdf",
+          "notes": "Original 1987 Renault 21 2L Turbo front-drive sporting-road reference, 175 ch DIN rather than the separate 162-ch catalysed tune. Directly stated 129 kW / 175 ch DIN, 1995 cc, 270 Nm and Garrett T3/electronic control in Renault’s actual 2019 chapter. Front-drive layout is distinguished from Quadra and Superproduction race cars. The 430-ch racing derivative and ice-record cars do not supply road specifications. No exact chassis/model-year identity, engine-code suffix, gearbox, weight or road acceleration is inferred. The road-bodied photo illustrates an early Turbo ABS saloon without authenticating its drivetrain or engine tune."
+        },
+        {
+          "publisher": "Renault — The Originals Museum",
+          "title": "R21 2L Turbo — French manufacturer museum profile",
+          "source_type": "Manufacturer museum history",
+          "url": "https://theoriginals.renault.com/r21-2l-turbo",
+          "notes": "Actual full indexed French profile read; direct open returned 503. Distinguishes front-drive road architecture from the Quadra and 4x4 Superproduction competition references; describes the inline-four engine and sporting/competition heritage. Header 1993 and a production-period summary are not used to re-date the original 1987 programme. Ice-record speeds, race output and exact production totals are not imported into the selected road car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1988 Renault 21 Turbo (4322170883).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1988_Renault_21_Turbo_(4322170883).jpg",
+          "notes": "Spanish Coches; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Original credit: 1988 Renault 21 Turbo. Downloaded rendition copied unchanged. Representative road body with the caption’s chassis/equipment qualifications."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "129",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "270",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Water-cooled Garrett T3 turbocharger, electronically controlled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power (DIN)",
+          "value": "175",
+          "unit": "ch DIN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Material",
+          "value": "Light-alloy engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Management",
+          "value": "Coordinated electronic ignition, fuel injection and boost control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge cooling",
+          "value": "Two air-to-air intercoolers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Anti-lock system",
+          "value": "ABS as standard in the selected road history",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged inline four-cylinder",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Renault 21 2L Turbo is an established French sporting saloon of the late-1980s turbo era. Its road engine combined coordinated electronic ignition, injection and boost control with standard ABS, while the much more powerful Ragnotti racing derivative established the family’s touring-car heritage. One original 21 sporting family is counted, not ordinary saloons, Medallion badges, Quadra drivetrains, catalysed tunes, model years or racing evolutions as extra cars.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_21_turbo_fwd_history1987.jpg",
+          "caption": "Renault 21 2L Turbo ABS photographed by Spanish Coches; the original description identifies 1988 Santander plates. Representative early sporting-road saloon body, not authentication of a 1987 chassis, exact engine tune or drivetrain. Badges and bodywork do not establish Quadra, racing or ice-record specifications.",
+          "creator": "Spanish Coches",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "41c046e36393172858c6ed0b70617f44a069a5af29d316a47bfcbd578bb383d4"
+        }
+      ]
+    }
+  ]
+}

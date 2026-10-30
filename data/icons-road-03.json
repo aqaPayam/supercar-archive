@@ -1,0 +1,798 @@
+{
+  "batch": "icons-road-2026-10-28-03",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 7,
+  "cars": [
+    {
+      "id": "SHE-GT350-1965-ROAD",
+      "manufacturer": "Shelby",
+      "model_family": "GT350",
+      "generation": "Original Mustang-based GT350",
+      "variant": "GT350 — 1965 road fastback",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1965 road fastback, not GT350R, a Hertz rental or a modern continuation. Museum figures retained as period advertised notation without a modern-net kW conversion. Later automatic/colour availability in the museum narrative is excluded.",
+      "summary": "The original GT350 established the Shelby Mustang performance line by transforming Ford’s fastback into a road car built around production sports-car racing requirements.",
+      "admission_reason": "The original GT350 established the Shelby Mustang performance line by transforming Ford’s fastback into a road car built around production sports-car racing requirements.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1965 Shelby GT350",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/1965-shelby-gt350-qr",
+          "notes": "Original 1965 road fastback, not GT350R, a Hertz rental or a modern continuation. Museum figures retained as period advertised notation without a modern-net kW conversion. Later automatic/colour availability in the museum narrative is excluded."
+        },
+        {
+          "publisher": "Ford",
+          "title": "50 Years of Ford Mustang Milestones",
+          "source_type": "Manufacturer history",
+          "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/2013/12/05/Mustang_Milestones.pdf",
+          "notes": "1965 entry corroborates 289 cu in and 306-horsepower GT350 introduction."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ford Mustang Shelby G.T. 350 (1965) (53993929942).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_G.T._350_(1965)_(53993929942).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Ford Mustang Shelby G.T. 350 (1965)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "289",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "306",
+          "unit": "museum-reported hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet material",
+          "value": "Fibreglass",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Layout",
+          "value": "Side-exit",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original GT350 established the Shelby Mustang performance line by transforming Ford’s fastback into a road car built around production sports-car racing requirements.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_she_gt350_1965_road.jpg",
+          "caption": "Shelby GT350 — 1965 road fastback — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "22fcad5cb449e22c5f3482f10db219bab59aa6a339769b4f2f7c9988953e7a38"
+        }
+      ]
+    },
+    {
+      "id": "BUI-GNX-1987-ROAD",
+      "manufacturer": "Buick",
+      "model_family": "Regal",
+      "generation": "G-body Grand National Experimental",
+      "variant": "GNX",
+      "model_year_from": 1987,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1987 production GNX. The manufacturer’s retrospective is used for named hardware, not its unqualified fastest-car claims or development-car tuning. Quoted T-top recollections are not treated as GNX factory equipment.",
+      "summary": "The GNX made turbocharged Buick performance an enduring American icon, combining the Grand National platform with dedicated ASC and McLaren development rather than relying on a conventional muscle-car V8.",
+      "admission_reason": "The GNX made turbocharged Buick performance an enduring American icon, combining the Grand National platform with dedicated ASC and McLaren development rather than relying on a conventional muscle-car V8.",
+      "sources": [
+        {
+          "publisher": "General Motors",
+          "title": "The story of the Buick GNX",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://news.gm.com/home.detail.html/Pages/topic/us/en/2025/feb/0217-buick.html",
+          "notes": "1987 production GNX. The manufacturer’s retrospective is used for named hardware, not its unqualified fastest-car claims or development-car tuning. Quoted T-top recollections are not treated as GNX factory equipment."
+        },
+        {
+          "publisher": "Buick",
+          "title": "Buick’s V-6 heritage spans decades — 1997 press kit",
+          "source_type": "Manufacturer press release reprint",
+          "url": "https://www.theautochannel.com/vehicles/new/1997info/presskits/buick/v6_herit.html",
+          "notes": "1987 chronology explicitly identifies the GNX’s specially engineered turbo 3.8-litre V6."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Sloan Museum at Courtland Center December 2018 30 (1987 Buick GNX).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Sloan_Museum_at_Courtland_Center_December_2018_30_(1987_Buick_GNX).jpg",
+          "notes": "Michael Barera; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Turbocharger",
+          "value": "Garrett AiResearch T-3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Model",
+          "value": "Turbo Hydramatic 200-4R",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Mufflers",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Diameter",
+          "value": "16",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Material",
+          "value": "Aluminium alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engineering",
+          "label": "Development partners",
+          "value": "ASC and McLaren Engines",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged V6",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.8",
+          "unit": "litres",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GNX made turbocharged Buick performance an enduring American icon, combining the Grand National platform with dedicated ASC and McLaren development rather than relying on a conventional muscle-car V8.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bui_gnx_1987_road.jpg",
+          "caption": "Buick GNX — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Michael Barera",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9c553a3849d80ce8551ceb33819074879c67c10a3fdc96d3890c3503d1bb99fb"
+        }
+      ]
+    },
+    {
+      "id": "AMC-AMX-390-1970",
+      "manufacturer": "AMC",
+      "model_family": "AMX",
+      "generation": "Original two-seat AMX",
+      "variant": "390 four-barrel — 1970 road car",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 two-seat AMX 390 road reference; not the later Javelin AMX or mid-engined AMX/3. Museum engine-capacity and output typos are excluded. FIA 1970 evolution pages corroborate capacity/compression; optional race components are excluded.",
+      "summary": "The original two-seat AMX combined a shortened Javelin platform with American V8 muscle, creating a distinctive steel-bodied sports-car alternative to the Corvette.",
+      "admission_reason": "The original two-seat AMX combined a shortened Javelin platform with American V8 muscle, creating a distinctive steel-bodied sports-car alternative to the Corvette.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1970 AMX 390 4-BBL",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1970-amx-390-4-bbl",
+          "notes": "1970 two-seat AMX 390 road reference; not the later Javelin AMX or mid-engined AMX/3. Museum engine-capacity and output typos are excluded. FIA 1970 evolution pages corroborate capacity/compression; optional race components are excluded."
+        },
+        {
+          "publisher": "AMC / ACCUS FIA",
+          "title": "AMX recognition form 603 — 1970 evolution",
+          "source_type": "Manufacturer homologation document",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601036701/homologation_form_number_603_group_3.pdf",
+          "notes": "PDF page 17 identifies 1970 AMX 390 at 6390.9 cc; page 24 gives 10.0 compression. Pages 29–31 optional competition hardware excluded. No maximum torque is imported because the period sources disagree."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 AMC AMX 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_AMC_AMX_1.jpg",
+          "notes": "Crwpitman; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Structure",
+          "value": "Steel-bodied",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "6390.9",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original two-seat AMX combined a shortened Javelin platform with American V8 muscle, creating a distinctive steel-bodied sports-car alternative to the Corvette.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amc_amx_390_1970.jpg",
+          "caption": "AMC 390 four-barrel — 1970 road car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Crwpitman",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a674ae10df6d5dfe848237923a3d19607aa4636f8e30c46dbeaac99e59786ba3"
+        }
+      ]
+    },
+    {
+      "id": "PON-TRANSAM-SD455-1974",
+      "manufacturer": "Pontiac",
+      "model_family": "Firebird",
+      "generation": "Second-generation Trans Am Super Duty",
+      "variant": "Trans Am SD-455 — automatic",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1974 production road SD-455 with automatic, not a 1973 test car or ordinary Firebird 400. Museum torque-peak statements conflict and performance-test conditions are unspecified, so those figures are withheld.",
+      "summary": "The SD-455 Trans Am sustained serious American performance through the early emissions era, using a purpose-developed heavy-duty V8 when many contemporary muscle-car programmes were retreating.",
+      "admission_reason": "The SD-455 Trans Am sustained serious American performance through the early emissions era, using a purpose-developed heavy-duty V8 when many contemporary muscle-car programmes were retreating.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1974 Pontiac Firebird Trans Am Super Duty",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1974-pontiac-firebird-trans-am-super-duty",
+          "notes": "1974 production road SD-455 with automatic, not a 1973 test car or ordinary Firebird 400. Museum torque-peak statements conflict and performance-test conditions are unspecified, so those figures are withheld."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Pontiac Trans Am Super Duty 455 1974 (54127784466).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Pontiac_Trans_Am_Super_Duty_455_1974_(54127784466).jpg",
+          "notes": "Tony Hisgett from Birmingham, UK; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Pontiac Trans Am Super Duty 455 1974"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valvetrain",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "455",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Rochester four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Pistons",
+          "value": "Forged aluminium flat-top",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Turbo Hydramatic automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Hood scoop",
+          "value": "Non-functional production scoop",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SD-455 Trans Am sustained serious American performance through the early emissions era, using a purpose-developed heavy-duty V8 when many contemporary muscle-car programmes were retreating.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pon_transam_sd455_1974.jpg",
+          "caption": "Pontiac Trans Am SD-455 — automatic — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Tony Hisgett from Birmingham, UK",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a41a5ea6a9ce26f1662b72c48d0f99330e93c16d61e99d7c15272493f9c8dfc9"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CHEVELLE-LS6-1970",
+      "manufacturer": "Chevrolet",
+      "model_family": "Chevelle",
+      "generation": "Second-generation SS 454",
+      "variant": "SS 454 LS6 — sport coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 US LS6 sport coupe with four-speed; excludes LS5, experimental LS7, El Camino and replacement-engine restomods. GM kit PDF pages 130–131 (AMA pages 3–4, 15 October 1969). Advertised period power is not presented as modern net output or converted to the unqualified power filter.",
+      "summary": "The LS6 Chevelle represents the high-compression big-block peak of Chevrolet’s classic muscle cars, combining the 454 engine with a factory-rated 450 horsepower in an intermediate sport coupe.",
+      "admission_reason": "The LS6 Chevelle represents the high-compression big-block peak of Chevrolet’s classic muscle cars, combining the 454 engine with a factory-rated 450 horsepower in an intermediate sport coupe.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "1970 Chevrolet Chevelle — factory information kit",
+          "source_type": "Period manufacturer specifications",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1970-Chevrolet-Chevelle.pdf",
+          "notes": "1970 US LS6 sport coupe with four-speed; excludes LS5, experimental LS7, El Camino and replacement-engine restomods. GM kit PDF pages 130–131 (AMA pages 3–4, 15 October 1969). Advertised period power is not presented as modern net output or converted to the unqualified power filter."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Chevelle SS 454 (20452211479).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Chevelle_SS_454_(20452211479).jpg",
+          "notes": "Mustang Joe; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: 1970 Chevelle SS 454"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "454",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "450",
+          "unit": "bhp (gross-era rating)",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised torque",
+          "value": "500",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Heavy-duty four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block and heads",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The LS6 Chevelle represents the high-compression big-block peak of Chevrolet’s classic muscle cars, combining the 454 engine with a factory-rated 450 horsepower in an intermediate sport coupe.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_chevelle_ls6_1970.jpg",
+          "caption": "Chevrolet SS 454 LS6 — sport coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Mustang Joe",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "11e3a02b518b8a9680fdfed8bdbc04dcc8f2d9df6c0c7a1f8373430c63f18af5"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CAMARO-Z28-1969",
+      "manufacturer": "Chevrolet",
+      "model_family": "Camaro",
+      "generation": "First-generation Z/28",
+      "variant": "Z/28 — 302 road sport coupe",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1969 US road Z/28, one representative of the first generation, not a race-prepared Trans-Am car. GM kit PDF pages 92–93 (AMA pages 3–4, 1 November 1968). Period advertised power retained without net-power conversion; optional cross-ram and four-wheel disc brakes are not assumed.",
+      "summary": "The first-generation Z/28 made a small-displacement, high-compression V8 and four-speed transmission central to Camaro performance, establishing one of the defining American pony-car identities.",
+      "admission_reason": "The first-generation Z/28 made a small-displacement, high-compression V8 and four-speed transmission central to Camaro performance, establishing one of the defining American pony-car identities.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "1969 Chevrolet Camaro — factory information kit",
+          "source_type": "Period manufacturer specifications",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1969-Chevrolet-Camaro.pdf",
+          "notes": "1969 US road Z/28, one representative of the first generation, not a race-prepared Trans-Am car. GM kit PDF pages 92–93 (AMA pages 3–4, 1 November 1968). Period advertised power retained without net-power conversion; optional cross-ram and four-wheel disc brakes are not assumed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Chevrolet Camaro X77 Z28.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_X77_Z28.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "302",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "290",
+          "unit": "bhp (gross-era rating)",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block and heads",
+          "value": "Cast alloy iron",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first-generation Z/28 made a small-displacement, high-compression V8 and four-speed transmission central to Camaro performance, establishing one of the defining American pony-car identities.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_camaro_z28_1969.jpg",
+          "caption": "Chevrolet Z/28 — 302 road sport coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ca9c04f88855815c9d8cbd89b269392910ed3144d31868a8276b4a3e5b4d4999"
+        }
+      ]
+    },
+    {
+      "id": "OLD-442-W30-1970",
+      "manufacturer": "Oldsmobile",
+      "model_family": "4-4-2",
+      "generation": "Second-generation W-30",
+      "variant": "W-30 — 1970 road coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 US W-30 coupe with manual; excludes W-31 Cutlass, Hurst/Olds and ordinary 4-4-2. Factory brochure in GM kit PDF pages 2–3 and 10. Period advertised power retained without net-power conversion; optional rear spoiler and aluminium axle carrier are not assumed.",
+      "summary": "The W-30 embodied Oldsmobile’s developed cold-air muscle-car package, pairing the 455 V8 with an aluminium intake, functional fibreglass hood and dedicated chassis hardware.",
+      "admission_reason": "The W-30 embodied Oldsmobile’s developed cold-air muscle-car package, pairing the 455 V8 with an aluminium intake, functional fibreglass hood and dedicated chassis hardware.",
+      "sources": [
+        {
+          "publisher": "Oldsmobile / General Motors",
+          "title": "1970 Dr. Oldsmobile’s 4-4-2 and W-Machines — factory brochure",
+          "source_type": "Period manufacturer brochure",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/oldsmobile/1970_Oldsmobile_442_Info_Kit.pdf",
+          "notes": "1970 US W-30 coupe with manual; excludes W-31 Cutlass, Hurst/Olds and ordinary 4-4-2. Factory brochure in GM kit PDF pages 2–3 and 10. Period advertised power retained without net-power conversion; optional rear spoiler and aluminium axle carrier are not assumed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Oldsmobile 442 W30 (48601496307).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Oldsmobile_442_W30_(48601496307).jpg",
+          "notes": "Mustang Joe; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: 1970 Oldsmobile 442 W30"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Rocket V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "455",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.50:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "370",
+          "unit": "bhp (gross-era rating)",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Intake manifold",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Performance-calibrated Quadrajet four-barrel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Fibreglass with functional cold-air scoops",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio four-speed manual with Hurst shifter",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W-30 embodied Oldsmobile’s developed cold-air muscle-car package, pairing the 455 V8 with an aluminium intake, functional fibreglass hood and dedicated chassis hardware.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_old_442_w30_1970.jpg",
+          "caption": "Oldsmobile W-30 — 1970 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Mustang Joe",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "dc230c0a19d40176046fba59f1fa550082b48058ad47ad35c26fec3289114509"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batch": "icons-road-2026-10-30-147",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "PEG-Z102-TOURING-AUDRAIN1952",
+      "manufacturer": "Pegaso / ENASA",
+      "model_family": "Z-102",
+      "generation": "Original Z-102 production-road sporting-GT family",
+      "variant": "Series II Touring coupe — museum-listed 1952 chassis 0149 reference",
+      "model_year_from": 1952,
+      "model_year_to": null,
+      "origin_country": "Spain",
+      "category": "Performance icon",
+      "body_style": "Closed two-door Touring sporting GT coupe",
+      "road_legal": 1,
+      "specification_market": "Audrain collection-listed 1952 Series II Touring coupe, chassis 0149, used as a restored museum reference for the original Z-102 production-road family. Eleven construction and equipment attributes follow the museum account; they do not authenticate all historical components or factory dates. Nominal 2.5-litre engine designation retained, without exact cc conversion, power/torque standards, gearing or independent timed performance. No transfer of supercharged record-car speeds, competition equipment, Cupula show-car details, later Z-103 specifications or new Ricart-branded revival claims. Group original Z-102 road engines, bodies and individual chassis once. Photo is a different Touring coupe, categorized as 1955 chassis 153.0162, illustrating road family/body only, not the reference car or engine.",
+      "summary": "The Pegaso Z-102 represents an ambitious Spanish sporting-GT engineering programme: a quad-cam V8 with dry-sump lubrication, a rear-mounted five-speed transmission and lightweight Touring coachwork. This combination gives the road family a distinctive place in early post-war performance-car history. Count the original Z-102 road family once, without multiplying coachbuilders, engines or chassis.",
+      "admission_reason": "The Pegaso Z-102 represents an ambitious Spanish sporting-GT engineering programme: a quad-cam V8 with dry-sump lubrication, a rear-mounted five-speed transmission and lightweight Touring coachwork. This combination gives the road family a distinctive place in early post-war performance-car history. Count the original Z-102 road family once, without multiplying coachbuilders, engines or chassis.",
+      "sources": [
+        {
+          "publisher": "Audrain Automobile Museum",
+          "title": "1952 Pegaso Z102 series II Touring coupe",
+          "source_type": "Museum collection engineering and historical account",
+          "url": "https://www.audrainautomuseum.org/1952-pegaso-z102-series-ii-touring-coupe",
+          "notes": "Complete relevant collection text and specifications read. Eleven attributes use this restored reference; no independent originality authentication. Museum identifies chassis 0149 and reports extensive restoration. Retain nominal displacement and explicit construction descriptions. Omit exact production totals, fastest-car claim, output/torque and their unspecified standards, top speed, cost ratios and unrelated chassis 0115. No racing results become road specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons; Fidel León Darder",
+          "title": "File:Pegaso Z102 Touring.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Pegaso_Z102_Touring.JPG",
+          "notes": "Own work by Fidel León Darder; file summary, upload history, licensing and API metadata read. EXIF-labelled 2 September 2008; uploaded 7 September 2008. Select CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; deed read, GFDL alternative not combined. Actual 1280 x 960 JPEG individually viewed and copied unchanged. Different red Touring closed coupe, categorized as 1955 chassis 153.0162; not proof of Audrain chassis 0149, year, engine or originality."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Aluminium V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "2.5",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve actuation",
+          "value": "Four overhead camshafts, two per bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Carburetors",
+          "value": "Four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Lubrication",
+          "value": "Dry sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox",
+          "value": "Five-speed transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Gearbox position described",
+          "value": "At rear, behind differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Coachbuilding",
+          "value": "Touring Superleggera; aluminium panels on steel tubular framework",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front layout",
+          "value": "Double wishbones with shock absorbers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front springing",
+          "value": "Torsion bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear axle",
+          "value": "De Dion",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Pegaso Z-102 represents an ambitious Spanish sporting-GT engineering programme: a quad-cam V8 with dry-sump lubrication, a rear-mounted five-speed transmission and lightweight Touring coachwork. This combination gives the road family a distinctive place in early post-war performance-car history. Count the original Z-102 road family once, without multiplying coachbuilders, engines or chassis.",
+          "category": "Post-war sporting-GT engineering",
+          "confidence": "Museum engineering account; editorial admission based on documented layout, without exclusive first or fastest-car claim",
+          "source": 0
+        },
+        {
+          "title": "One family, many coachbuilt forms",
+          "explanation": "Audrain describes Touring Superleggera coachwork and notes variation among Z-102 cars. This admission groups the original road family once; coachbuilder, engine and individual chassis differences do not generate further entries.",
+          "category": "Road-family counting scope",
+          "confidence": "Museum collection account; conservative archive grouping, not mechanical equivalence of every chassis",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pegaso_z102_touring_coupe.jpg",
+          "caption": "Representative Pegaso Z-102 Touring closed coupe; supplied title Pegaso Z102 Touring.JPG. Fidel León Darder, own work, Wikimedia Commons; EXIF-labelled 2 September 2008, uploaded 7 September 2008. CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged. Commons categorizes this as 1955 chassis 153.0162; it is not authenticated as Audrain 1952 reference chassis 0149, its engine or original condition. No endorsement implied.",
+          "creator": "Fidel León Darder",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9efeda6f1407cbf76f8fd07bc31b302d3c672afeb9940623a72bc735bc097ef9"
+        }
+      ]
+    }
+  ]
+}

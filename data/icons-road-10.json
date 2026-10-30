@@ -1,0 +1,1007 @@
+{
+  "batch": "icons-road-2026-10-29-10",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 8,
+  "cars": [
+    {
+      "id": "FOR-FOCUS-RS-MK1-2002",
+      "manufacturer": "Ford",
+      "model_family": "Focus",
+      "generation": "First-generation European Focus RS",
+      "variant": "RS — original 2002 production road hatch",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "European original 2002 production Focus RS. Ford’s 2018 RS history confirms the 2.0-litre Duratec turbo, 215 PS, front drive and standard LSD. Exact capacity, gearbox, brake calipers and peak rpm are withheld here. A March 2001 introductory brochure gives preliminary 200-plus power and early hardware; those details are not treated as final production specifications. No Focus WRC drivetrain, ST170 or modified-car output is imported.",
+      "summary": "The first Focus RS revived Ford’s RS performance lineage in a focused front-drive road hatch, using turbocharged power and a standard limited-slip differential to connect modern compact-car dynamics with the marque’s rally identity.",
+      "admission_reason": "The first Focus RS revived Ford’s RS performance lineage in a focused front-drive road hatch, using turbocharged power and a standard limited-slip differential to connect modern compact-car dynamics with the marque’s rally identity.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company",
+          "title": "50 years of Ford RS — first-generation Focus RS, 2002",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+          "notes": "European original 2002 production Focus RS. Ford’s 2018 RS history confirms the 2.0-litre Duratec turbo, 215 PS, front drive and standard LSD. Exact capacity, gearbox, brake calipers and peak rpm are withheld here. A March 2001 introductory brochure gives preliminary 200-plus power and early hardware; those details are not treated as final production specifications. No Focus WRC drivetrain, ST170 or modified-car output is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2002 Ford Focus RS (44438).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2002_Ford_Focus_RS_(44438).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential, standard",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine family",
+          "value": "Duratec",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "215",
+          "unit": "PS; manufacturer historical reference",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Focus RS revived Ford’s RS performance lineage in a focused front-drive road hatch, using turbocharged power and a standard limited-slip differential to connect modern compact-car dynamics with the marque’s rally identity.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_focus_rs_mk1_2002.jpg",
+          "caption": "Ford RS — original 2002 production road hatch — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "0495ae8e41f107e733dc092ee464f41ba0e48cf697cb0cf76396a91c8407c9dd"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FOCUS-RS-MK2-2009",
+      "manufacturer": "Ford",
+      "model_family": "Focus",
+      "generation": "Second-generation European Focus RS",
+      "variant": "RS — original 305 PS production hatch",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "European 2009 standard 305-PS Focus RS, not the later 350-PS RS500, Focus ST or rally car. Ford’s history explicitly gives 224 kW, 440 Nm, 5.9 seconds to 100 km/h, 263 km/h, the driven front axle, Quaife and RevoKnuckle. RS500 output, fuel-system modifications and performance are excluded. Gearbox ratios, exact displacement and undefined weight are not inferred.",
+      "summary": "The second Focus RS made its high-output turbocharged five-cylinder usable through a driven front axle, combining a Quaife differential with dedicated RevoKnuckle geometry in a distinctive performance-hatchback engineering package.",
+      "admission_reason": "The second Focus RS made its high-output turbocharged five-cylinder usable through a driven front axle, combining a Quaife differential with dedicated RevoKnuckle geometry in a distinctive performance-hatchback engineering package.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company",
+          "title": "50 years of Ford RS — second-generation Focus RS, 2009",
+          "source_type": "Manufacturer historical technical account",
+          "url": "https://media.ford.com/content/fordmedia/feu/de/de/news/2018/roadshow/50-jahre-ford-rs-modelle--eine-geschichte-voller-innovationen-un.html",
+          "notes": "European 2009 standard 305-PS Focus RS, not the later 350-PS RS500, Focus ST or rally car. Ford’s history explicitly gives 224 kW, 440 Nm, 5.9 seconds to 100 km/h, 263 km/h, the driven front axle, Quaife and RevoKnuckle. RS500 output, fuel-system modifications and performance are excluded. Gearbox ratios, exact displacement and undefined weight are not inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Ford Focus RS 6.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Ford_Focus_RS_6.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Duratec RS five-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "224",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "440",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Quaife limited-slip front differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dedicated RevoKnuckle front suspension geometry",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "263",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "5.9",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second Focus RS made its high-output turbocharged five-cylinder usable through a driven front axle, combining a Quaife differential with dedicated RevoKnuckle geometry in a distinctive performance-hatchback engineering package.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_focus_rs_mk2_2009.jpg",
+          "caption": "Ford RS — original 305 PS production hatch — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5d8a950569481c8c3683822c36568f623ecc16a817d49668229d55f89251aeff"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FOCUS-RS-MK3-2017",
+      "manufacturer": "Ford",
+      "model_family": "Focus",
+      "generation": "Third-generation original AWD Focus RS",
+      "variant": "RS — 2017 US six-speed road hatch",
+      "model_year_from": 2017,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "US 2017 standard Focus RS, as specified in the original Ford brochure PDF pages 11 and 17. US 350 hp / 350 lb-ft ratings require 93-octane fuel; they are not relabelled as European 350 PS / 440 Nm. The brochure’s 0–62 mph and 165 mph remain in native units. RS2, winter wheels, optional Cup tyres and the later front-LSD special editions are not assumed. Photograph identifies a 2016 European-market car of this same body generation, not an authenticated US 2017 build.",
+      "summary": "The third Focus RS brought a torque-vectoring all-wheel-drive system to Ford’s global RS road hatch, combining turbocharged four-cylinder power with a manual transmission and a substantially different chassis philosophy from its front-drive predecessors.",
+      "admission_reason": "The third Focus RS brought a torque-vectoring all-wheel-drive system to Ford’s global RS road hatch, combining turbocharged four-cylinder power with a manual transmission and a substantially different chassis philosophy from its front-drive predecessors.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company",
+          "title": "2017 Ford Focus — original US brochure, RS powertrain and equipment",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Ford/Focus/Ford_US%20Focus_2017.pdf",
+          "notes": "US 2017 standard Focus RS, as specified in the original Ford brochure PDF pages 11 and 17. US 350 hp / 350 lb-ft ratings require 93-octane fuel; they are not relabelled as European 350 PS / 440 Nm. The brochure’s 0–62 mph and 165 mph remain in native units. RS2, winter wheels, optional Cup tyres and the later front-LSD special editions are not assumed. Photograph identifies a 2016 European-market car of this same body generation, not an authenticated US 2017 build."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016 Ford Focus RS 11.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_RS_11.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "EcoBoost inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All wheels; Ford Performance AWD with Dynamic Torque Vectoring",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "350",
+          "unit": "hp; achieved with 93-octane premium fuel",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "350 at 3200 rpm",
+          "unit": "lb-ft; achieved with 93-octane premium fuel",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–62 mph",
+          "value": "4.7",
+          "unit": "s; Ford testing",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "165",
+          "unit": "mph; Ford testing",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third Focus RS brought a torque-vectoring all-wheel-drive system to Ford’s global RS road hatch, combining turbocharged four-cylinder power with a manual transmission and a substantially different chassis philosophy from its front-drive predecessors.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_focus_rs_mk3_2017.jpg",
+          "caption": "Ford RS — 2017 US six-speed road hatch — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "1b8c44e16cd7049279521fa0aa4dc0784f527241f2c470f21fc26aaa5e6a5e87"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FIESTA-ST-B299-2014",
+      "manufacturer": "Ford",
+      "model_family": "Fiesta",
+      "generation": "B299 1.6 EcoBoost ST generation, UK Mk7",
+      "variant": "ST — original 2014 US five-door",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "US 2014 five-door Fiesta ST, not a European three-door 182-PS rating, later 1.5 three-cylinder ST, ST200, or base Fiesta PowerShift. Original brochure PDF pages 3 and 11 provide the six-speed, US power/torque and 93-octane condition, plus overboost duration. Optional Recaro seats are not standard. The award supports this model generation’s significance; it does not certify that the award jury tested this US-market reference. Exhibition photo represents a five-door ST without authenticating market or options.",
+      "summary": "This Fiesta ST generation earned Top Gear’s 2013 Car of the Year award and enduring recognition as an outstanding small driver’s hatchback, giving its compact turbocharged road-car formula a firmly established place among performance icons.",
+      "admission_reason": "This Fiesta ST generation earned Top Gear’s 2013 Car of the Year award and enduring recognition as an outstanding small driver’s hatchback, giving its compact turbocharged road-car formula a firmly established place among performance icons.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company",
+          "title": "2014 Ford Fiesta — original US brochure, ST and engine/gearbox columns",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Ford/Fiesta/Ford_US%20Fiesta_2014.pdf",
+          "notes": "US 2014 five-door Fiesta ST, not a European three-door 182-PS rating, later 1.5 three-cylinder ST, ST200, or base Fiesta PowerShift. Original brochure PDF pages 3 and 11 provide the six-speed, US power/torque and 93-octane condition, plus overboost duration. Optional Recaro seats are not standard. The award supports this model generation’s significance; it does not certify that the award jury tested this US-market reference. Exhibition photo represents a five-door ST without authenticating market or options."
+        },
+        {
+          "publisher": "Top Gear / BBC",
+          "title": "Every Top Gear Car of the Year winner — 2013 Fiesta ST",
+          "source_type": "Award organiser historical record",
+          "url": "https://www.topgear.com/car-news/retro/gallery-every-single-top-gear-car-year-winner-last-30-years",
+          "notes": "The award organiser’s own historical review identifies the 2013 Fiesta ST winner and its lasting driving reputation; technical specifications come from Ford."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:'14 Ford Fiesta ST (MIAS '14).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:%2714_Ford_Fiesta_ST_(MIAS_%2714).JPG",
+          "notes": "Bull-Doser; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "EcoBoost inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with overboost",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent MacPherson-strut front; twist-beam rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "197",
+          "unit": "hp; achieved with 93-octane premium fuel",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "202 at 4200 rpm",
+          "unit": "lb-ft; achieved with 93-octane premium fuel",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Overboost duration",
+          "value": "Up to 17 seconds at a time",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "This Fiesta ST generation earned Top Gear’s 2013 Car of the Year award and enduring recognition as an outstanding small driver’s hatchback, giving its compact turbocharged road-car formula a firmly established place among performance icons.",
+          "category": "Historical significance",
+          "confidence": "Award organiser documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_fiesta_st_b299_2014.jpg",
+          "caption": "Ford ST — original 2014 US five-door — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Bull-Doser",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "9a2116c5bb0887b3a39df2282f45c0968162a9160c3ceedf035f9610df866718"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FIESTA-ST-B479-2018",
+      "manufacturer": "Ford",
+      "model_family": "Fiesta",
+      "generation": "B479 original three-cylinder ST generation, UK Mk8",
+      "variant": "ST 1.5 EcoBoost — 2018 European five-door",
+      "model_year_from": 2018,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door hatchback",
+      "road_legal": 1,
+      "specification_market": "Original European 2018 1.5-litre three-cylinder ST five-door. Ford’s May 7, 2018 press release is read via the clearly attributed Auto International reproduction and cross-checked with the original Ford release’s indexed opening. This is a manufacturer release, not the host’s road test. Optional Quaife LSD and Launch Control are not assumed. Later 320-Nm facelift, ST200 1.6, active crossover and ST-Line data are excluded. Exact capacity, gearbox and numerical performance are withheld from this selected transcription-based record.",
+      "summary": "The 2018 Fiesta ST won Top Gear’s Car of the Year award and sustained a lasting reputation as a leading small driver’s hatchback, showing that its performance significance extended well beyond its compact-car origins.",
+      "admission_reason": "The 2018 Fiesta ST won Top Gear’s Car of the Year award and sustained a lasting reputation as a leading small driver’s hatchback, showing that its performance significance extended well beyond its compact-car origins.",
+      "sources": [
+        {
+          "publisher": "Ford Motor Company, reproduced by Auto International",
+          "title": "All-new Fiesta ST — original May 7, 2018 Ford press release",
+          "source_type": "Manufacturer press release, attributed hosted reproduction",
+          "url": "https://www.autointernational.com.my/Ford%20Fiesta%20ST_%20All%20New-%20takes%20hot%20hatch%20performance%20%20%20-%202%20Jun%2018.html",
+          "notes": "Original European 2018 1.5-litre three-cylinder ST five-door. Ford’s May 7, 2018 press release is read via the clearly attributed Auto International reproduction and cross-checked with the original Ford release’s indexed opening. This is a manufacturer release, not the host’s road test. Optional Quaife LSD and Launch Control are not assumed. Later 320-Nm facelift, ST200 1.6, active crossover and ST-Line data are excluded. Exact capacity, gearbox and numerical performance are withheld from this selected transcription-based record."
+        },
+        {
+          "publisher": "Top Gear / BBC",
+          "title": "Every Top Gear Car of the Year winner — 2018 Fiesta ST",
+          "source_type": "Award organiser historical record",
+          "url": "https://www.topgear.com/car-news/retro/gallery-every-single-top-gear-car-year-winner-last-30-years",
+          "notes": "Award organiser’s own account of the 2018 Fiesta ST winner and its lasting significance; no technical figures are taken from the award commentary."
+        },
+        {
+          "publisher": "Ford Motor Company",
+          "title": "Original Fiesta ST launch release — May 7, 2018",
+          "source_type": "Original manufacturer release, indexed reference",
+          "url": "https://media.ford.com/content/dam/fordmedia/Europe/documents/productReleases/Fiesta/2018FordFiesta_ST_Drive_EU.pdf",
+          "notes": "Opening and core launch specification corroborate the attributed reproduction. Direct PDF retrieval was unavailable; no claim is made that this PDF was visually inspected."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2018 Ford Fiesta ST Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_Ford_Fiesta_ST_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Three-cylinder EcoBoost",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "290",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Combined port and direct fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin-independent Variable Cam Timing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Twist-beam rear suspension with directional force-vectoring springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "200",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder management",
+          "value": "Cylinder deactivation under light load",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 2018 Fiesta ST won Top Gear’s Car of the Year award and sustained a lasting reputation as a leading small driver’s hatchback, showing that its performance significance extended well beyond its compact-car origins.",
+          "category": "Historical significance",
+          "confidence": "Award organiser documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_fiesta_st_b479_2018.jpg",
+          "caption": "Ford ST 1.5 EcoBoost — 2018 European five-door — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "ff170de4297cc1c3b847d7c13505f47c2860029e7b24529b9037c316cc92dea9"
+        }
+      ]
+    },
+    {
+      "id": "FOR-CORTINA-LOTUS-MK1-1963",
+      "manufacturer": "Ford",
+      "model_family": "Cortina",
+      "generation": "Original Lotus Cortina Mk I, Type 28",
+      "variant": "Lotus Cortina — original 105 bhp road saloon",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original Type 28 Mk I road saloon, not the SE upgrade, later Mk II, Team Lotus race car or Cosworth FVA competition engine. Lotus’s standard-car statistical column gives 1558 cc, 105 bhp and four speeds; narrative describes original light-alloy panels and housings. Its separate SE 110-bhp and roughly 150-bhp racing references are excluded. Undefined weight is omitted. Representative early road-car photo has accessory wheels; its caption’s erroneous 1588-cc engine claim is not technical evidence.",
+      "summary": "The original Lotus Cortina turned a modest Ford saloon into a lightweight twin-cam performance icon, creating the road-going foundation of a celebrated international saloon-racing and rallying collaboration.",
+      "admission_reason": "The original Lotus Cortina turned a modest Ford saloon into a lightweight twin-cam performance icon, creating the road-going foundation of a celebrated international saloon-racing and rallying collaboration.",
+      "sources": [
+        {
+          "publisher": "Lotus Cars",
+          "title": "Lotus Cortina — Type 28 standard road car and collaboration history",
+          "source_type": "Manufacturer partner heritage and technical record",
+          "url": "https://www.lotuscars.com/en-GB/lotus-story/road-cars/cortina",
+          "notes": "Original Type 28 Mk I road saloon, not the SE upgrade, later Mk II, Team Lotus race car or Cosworth FVA competition engine. Lotus’s standard-car statistical column gives 1558 cc, 105 bhp and four speeds; narrative describes original light-alloy panels and housings. Its separate SE 110-bhp and roughly 150-bhp racing references are excluded. Undefined weight is omitted. Representative early road-car photo has accessory wheels; its caption’s erroneous 1588-cc engine claim is not technical evidence."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Lotus Cortina Mk1a (15809713837).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Lotus_Cortina_Mk1a_(15809713837).jpg",
+          "notes": "Sicnag; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1963 Lotus Cortina Mk1a"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Lotus Twin-Cam four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1558",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Lotus twin-cam cylinder head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Light-alloy skins for doors, bonnet and boot lid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Historical manufacturer power notation",
+          "value": "105",
+          "unit": "bhp; original standard road reference",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Clutch housing material",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential housing material",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Lotus Cortina turned a modest Ford saloon into a lightweight twin-cam performance icon, creating the road-going foundation of a celebrated international saloon-racing and rallying collaboration.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_cortina_lotus_mk1_1963.jpg",
+          "caption": "Ford Lotus Cortina — original 105 bhp road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d07b4bd31ef3b17c540b1d8aa9fa9fda536f3671aec1c7d7230afdccced2925c"
+        }
+      ]
+    },
+    {
+      "id": "VAU-CARLTON-LOTUS-1990",
+      "manufacturer": "Vauxhall",
+      "model_family": "Carlton",
+      "generation": "Original Type 104 Lotus Carlton / Omega",
+      "variant": "Lotus Carlton — original UK road saloon",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original UK Vauxhall Lotus Carlton, the same Type 104 programme called Lotus Omega outside the UK. Only one record covers those aliases. Vauxhall’s own collection/history release supplies 3615 cc, twin Garrett T25 units, intercoolers and chassis. Lotus separately supports the six-speed manual. Do not import base Carlton GSi, Opel-branded duplicate, modified high-output examples or undefined mass. The Lotus page’s claim of fastest production car overall is rejected; the significance is exceptional saloon performance.",
+      "summary": "The Lotus Carlton put exceptional supercar-level performance into a four-door executive saloon through a deeply re-engineered twin-turbo six-cylinder powertrain and Lotus-developed chassis, establishing an enduring performance-saloon landmark.",
+      "admission_reason": "The Lotus Carlton put exceptional supercar-level performance into a four-door executive saloon through a deeply re-engineered twin-turbo six-cylinder powertrain and Lotus-developed chassis, establishing an enduring performance-saloon landmark.",
+      "sources": [
+        {
+          "publisher": "Vauxhall / Stellantis",
+          "title": "Vauxhall Lotus Carlton — April 10, 2020 heritage technical record",
+          "source_type": "Manufacturer heritage technical record",
+          "url": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-lotus-carlton",
+          "notes": "Original UK Vauxhall Lotus Carlton, the same Type 104 programme called Lotus Omega outside the UK. Only one record covers those aliases. Vauxhall’s own collection/history release supplies 3615 cc, twin Garrett T25 units, intercoolers and chassis. Lotus separately supports the six-speed manual. Do not import base Carlton GSi, Opel-branded duplicate, modified high-output examples or undefined mass. The Lotus page’s claim of fastest production car overall is rejected; the significance is exceptional saloon performance."
+        },
+        {
+          "publisher": "Lotus Cars",
+          "title": "Lotus Omega / Carlton — Type 104",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.lotuscars.com/en-GB/lotus-story/road-cars/omega",
+          "notes": "Manufacturer engineering partner identifies the six-speed manual road car. Its inaccurate fastest-production-car claim and undefined mass are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1993 Vauxhall Lotus Carlton (32216).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1993_Vauxhall_Lotus_Carlton_(32216).jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3615",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two Garrett T25 turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson-strut front; multi-link rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Charge cooling",
+          "value": "Twin water-cooled intercoolers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "377",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "419",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Lotus Carlton put exceptional supercar-level performance into a four-door executive saloon through a deeply re-engineered twin-turbo six-cylinder powertrain and Lotus-developed chassis, establishing an enduring performance-saloon landmark.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_carlton_lotus_1990.jpg",
+          "caption": "Vauxhall Lotus Carlton — original UK road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f047c2f20f9c9801c7f6f97e6889a880bc292f24cb956cb6b6c7ab36a67e96de"
+        }
+      ]
+    },
+    {
+      "id": "TAL-SUNBEAM-LOTUS-1979",
+      "manufacturer": "Talbot",
+      "model_family": "Sunbeam",
+      "generation": "Original Series 1 Lotus road hatchback",
+      "variant": "Sunbeam Lotus — October 1979 UK road reference",
+      "model_year_from": 1979,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door hatchback",
+      "road_legal": 1,
+      "specification_market": "UK October 1979 Series 1 road Sunbeam Lotus, original brochure C9579/1/20. Technical table on PDF page 6 supplies 2172 cc and road equipment. Four valves per cylinder is derived from four cylinders and sixteen valves. The current Lotus history table incorrectly says 1588 cc; that field is rejected. Its narrative’s 2.2-litre identity and the 1981 manufacturers’ championship support the history only. Race output near 250 bhp, later Series 2 details and special Essex colours are excluded. Native DIN bhp is not relabelled as metric PS or converted to modern net kW.",
+      "summary": "The Sunbeam Lotus combined a compact road hatchback with a specially developed Lotus twin-cam engine and became the production basis of Talbot’s world-championship rally programme, giving it significance beyond an ordinary sporting trim.",
+      "admission_reason": "The Sunbeam Lotus combined a compact road hatchback with a specially developed Lotus twin-cam engine and became the production basis of Talbot’s world-championship rally programme, giving it significance beyond an ordinary sporting trim.",
+      "sources": [
+        {
+          "publisher": "Chrysler United Kingdom / Talbot",
+          "title": "Talbot Sunbeam Lotus — original UK October 1979 brochure C9579/1/20",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://storm.oldcarmanualproject.com/talbot/sunbeam/Talbot%20Sunbeam%20Lotus.pdf",
+          "notes": "UK October 1979 Series 1 road Sunbeam Lotus, original brochure C9579/1/20. Technical table on PDF page 6 supplies 2172 cc and road equipment. Four valves per cylinder is derived from four cylinders and sixteen valves. The current Lotus history table incorrectly says 1588 cc; that field is rejected. Its narrative’s 2.2-litre identity and the 1981 manufacturers’ championship support the history only. Race output near 250 bhp, later Series 2 details and special Essex colours are excluded. Native DIN bhp is not relabelled as metric PS or converted to modern net kW."
+        },
+        {
+          "publisher": "Lotus Cars",
+          "title": "Lotus Sunbeam — road collaboration and World Rally Championship history",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.lotuscars.com/en-MY/lotus-story/road-cars/sunbeam",
+          "notes": "Manufacturer partner describes the 2.2-litre collaboration and 1981 manufacturers’ title. Its statistical table’s incorrect 1588-cc value is explicitly rejected; race-car specifications are not used for the road record."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1979 Talbot Sunbeam Lotus.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1979_Talbot_Sunbeam_Lotus.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Lotus four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2172",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.44:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two Dellorto twin-choke carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual; synchronised forward gears",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitary body and chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front struts with coils; four-link coil-spring rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted 241-mm front discs and 203-mm rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "185/70 HR13",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period manufacturer power notation",
+          "value": "150",
+          "unit": "bhp; brochure DIN notation retained",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2413",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Sunbeam Lotus combined a compact road hatchback with a specially developed Lotus twin-cam engine and became the production basis of Talbot’s world-championship rally programme, giving it significance beyond an ordinary sporting trim.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tal_sunbeam_lotus_1979.jpg",
+          "caption": "Talbot Sunbeam Lotus — October 1979 UK road reference — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "bfd3224be936566c3de37a2ca35629b0bf869a56af6dc20f5ddecd8ff86a93ea"
+        }
+      ]
+    }
+  ]
+}

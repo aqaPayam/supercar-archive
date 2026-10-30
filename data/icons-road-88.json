@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-88",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "DB-HBR5-COACH851-GT11-REG1960",
+      "manufacturer": "Deutsch Bonnet",
+      "model_family": "HBR5",
+      "generation": "Original DB HBR5 production-road coach family",
+      "variant": "851 cc Coach — March 23, 1960 regularisation of GT recognition 11",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door production-road GT coach",
+      "road_legal": 1,
+      "specification_market": "Base 851 cc HBR5 Coach in the original manufacturer GT-11 regularisation form drawn up March 23, 1960, referring to recognition on February 19, 1959. The portal metadata instead reports February 20; these identify documents rather than this photographed car’s model year. Exact model-year fields remain unspecified. Base engine/layout/body and four-speed only: no later 954/848 cc option, enlarged bore, individual alternative gear/final-drive set, race brake option, competition weight or ambiguous power figure is imported. The Lane 1955 collection car’s 900 cc / 65 hp and the modified BoneEvil land-speed car are separate references, not this road specification.",
+      "summary": "The HBR5 carried Deutsch-Bonnet’s small-engine racing know-how into a series-built grand tourer. Its streamlined glass-fibre/polyester body over a lightweight steel backbone, combined with an air-cooled opposed twin and front-wheel drive, makes it a distinctive early lightweight GT. One original HBR5 coach family is counted. DB marque racing achievements explain the engineering context, not the tune or competition history of a particular road car; later engine options, Super Rallye names, body variations and years do not add separate entries.",
+      "admission_reason": "The HBR5 carried Deutsch-Bonnet’s small-engine racing know-how into a series-built grand tourer. Its streamlined glass-fibre/polyester body over a lightweight steel backbone, combined with an air-cooled opposed twin and front-wheel drive, makes it a distinctive early lightweight GT. One original HBR5 coach family is counted. DB marque racing achievements explain the engineering context, not the tune or competition history of a particular road car; later engine options, Super Rallye names, body variations and years do not add separate entries.",
+      "sources": [
+        {
+          "publisher": "Deutsch Bonnet / FIA; original manufacturer recognition in FIA Historic Database",
+          "title": "DB HBR5 Coach — GT-11 original manufacturer regularisation, March 23, 1960",
+          "source_type": "Original manufacturer GT production-recognition form",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1601084401/homologation_form_number_11_group_gt_0.pdf",
+          "notes": "Base 851 cc HBR5 Coach in the original manufacturer GT-11 regularisation form drawn up March 23, 1960, referring to recognition on February 19, 1959. The portal metadata instead reports February 20; these identify documents rather than this photographed car’s model year. Exact model-year fields remain unspecified. Base engine/layout/body and four-speed only: no later 954/848 cc option, enlarged bore, individual alternative gear/final-drive set, race brake option, competition weight or ambiguous power figure is imported. The Lane 1955 collection car’s 900 cc / 65 hp and the modified BoneEvil land-speed car are separate references, not this road specification."
+        },
+        {
+          "publisher": "Lane Motor Museum",
+          "title": "Deutsch-Bonnet HBR5 — 1955 collection GT and construction history",
+          "source_type": "Museum collection model history",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/deutsch-bonnet-hbr5-1955/",
+          "notes": "Actual full collection profile read. Identifies the HBR5 as DB’s Grand Touring production model and describes its streamlined glass-fibre/polyester body over a lightweight steel backbone, small-engine competition context and front-engine/front-drive layout. Its specific 900 cc / 65 hp collection car, maximum speed, weight, exact production total and absolute second-ever-series-fibreglass claim are not imported. The GT-11 base remains the selected mechanical reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:DB-HBR5-Coach-1956.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:DB-HBR5-Coach-1956.JPG",
+          "notes": "Luc106; Public domain. The creator’s public-domain dedication is recorded on this source page: the original description expressly releases all rights in the public domain. Original credit: Own work. Downloaded rendition copied unchanged. No Creative Commons licence is substituted for this dedication."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-stroke opposed two-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "851",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Forced-air cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Inverted twin-barrel Zenith carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; no individual optional gearset selected",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Polyester with glass fabric and resin",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Lightweight steel backbone frame with glass-fibre/polyester body",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The HBR5 carried Deutsch-Bonnet’s small-engine racing know-how into a series-built grand tourer. Its streamlined glass-fibre/polyester body over a lightweight steel backbone, combined with an air-cooled opposed twin and front-wheel drive, makes it a distinctive early lightweight GT. One original HBR5 coach family is counted. DB marque racing achievements explain the engineering context, not the tune or competition history of a particular road car; later engine options, Super Rallye names, body variations and years do not add separate entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_db_hbr5_coach851_gt11_reg1960.jpg",
+          "caption": "DB HBR5 Coach photographed by Luc106 at the Musée automobile de Reims-Champagne in 2015; the original description labels it 1956. Representative road-bodied coach with normal road cabin and bumpers. Its exact chassis, 851 cc engine tune, body sub-type, mirror/trim originality and equipment equivalence to the 1960 regularisation form are not authenticated by the photograph.",
+          "creator": "Luc106",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "8aac83620dc73c6e7afbb12ba819dedce175869e0781e705196ac70d92b1a8ae"
+        }
+      ]
+    }
+  ]
+}

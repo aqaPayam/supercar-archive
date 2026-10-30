@@ -1,0 +1,375 @@
+{
+  "batch": "icons-road-2026-10-29-23",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 3,
+  "cars": [
+    {
+      "id": "BMW-850CSI-E31-1993",
+      "manufacturer": "BMW",
+      "model_family": "8 Series",
+      "generation": "E31 original Motorsport-developed 850 CSi road coupe",
+      "variant": "850 CSi — 1993 European six-speed road reference",
+      "model_year_from": 1993,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "BMW M November 28, 2023 dedicated 850 CSi engineering account and technical table. Selected European 1993-model-year road reference; 250 km/h is electronically limited. Native 280 kW is retained without converting conflicting hp shorthand. Article’s erroneous general E31 first-delivery date, US-specific output/hardware, adjacent 850i/850Ci engines or automatic gearboxes, optional rear wing and unbuilt M8 prototype are excluded.",
+      "summary": "The 850 CSi represents BMW Motorsport’s distinctive V12 grand-touring flagship of the E31 era. Its substantially reworked S70 engine, six-speed manual transmission and developed chassis made it an engineering-led sporting coupe, with the European active rear-axle system adding a significant step in BMW’s handling technology.",
+      "admission_reason": "The 850 CSi represents BMW Motorsport’s distinctive V12 grand-touring flagship of the E31 era. Its substantially reworked S70 engine, six-speed manual transmission and developed chassis made it an engineering-led sporting coupe, with the European active rear-axle system adding a significant step in BMW’s handling technology.",
+      "sources": [
+        {
+          "publisher": "BMW M GmbH",
+          "title": "The BMW 850 CSi E31 — dedicated engineering account and technical data, November 28, 2023",
+          "source_type": "Manufacturer historical engineering account / technical data",
+          "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-850-csi-e31.html",
+          "notes": "BMW M November 28, 2023 dedicated 850 CSi engineering account and technical table. Selected European 1993-model-year road reference; 250 km/h is electronically limited. Native 280 kW is retained without converting conflicting hp shorthand. Article’s erroneous general E31 first-delivery date, US-specific output/hardware, adjacent 850i/850Ci engines or automatic gearboxes, optional rear wing and unbuilt M8 prototype are excluded."
+        },
+        {
+          "publisher": "BMW Group",
+          "title": "Timelessly alluring: 25 years of the BMW 8 Series — June 3, 2014",
+          "source_type": "Manufacturer heritage release / model history",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0182402EN/268590",
+          "notes": "Page 3 explicitly identifies the 1993-model-year 5.6-litre CSi, 280 kW, 550 Nm and European active rear-axle kinematics. Rendered/read. Later Ci automatic/5.4-litre paragraphs are separate models. No claim that the North American photograph has the European rear-steering or cooling package."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1995 BMW 850 CSi.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1995_BMW_850_CSi.JPG",
+          "notes": "Jagvar; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "S70 V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5576",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "280",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "550",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5300",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 850 CSi represents BMW Motorsport’s distinctive V12 grand-touring flagship of the E31 era. Its substantially reworked S70 engine, six-speed manual transmission and developed chassis made it an engineering-led sporting coupe, with the European active rear-axle system adding a significant step in BMW’s handling technology.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_850csi_e31_1993.jpg",
+          "caption": "BMW 850 CSi photographed at the 2008 Greenwich Concours d’Elegance and identified by the photographer as a 1995 car. North American exterior represents the CSi body; its regional hardware, rear-steering/cooling package, build identity and current tune do not certify the selected European 1993 reference.",
+          "creator": "Jagvar",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4771944981855af47347307ef37c2a8420d417aeb803fb348842322e1c4936b4"
+        }
+      ]
+    },
+    {
+      "id": "VW-CORRADO-G60-DE1988",
+      "manufacturer": "Volkswagen",
+      "model_family": "Corrado",
+      "generation": "Original Type 53i G-Lader sports coupe",
+      "variant": "G60 — original 1988 German road specification",
+      "model_year_from": 1988,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door 2+2 sports coupe",
+      "road_legal": 1,
+      "specification_market": "Volkswagen Classic Type 53i history: original autumn 1988 German G60 road car, 1781-cc eight-valve four, front drive, 2+2 body and German 120-km/h spoiler threshold. Later 16V, 2.0-litre, VR6, 1991 body/fuel-tank changes, optional automatic and 1992 interior are excluded. North American exterior photograph does not certify German spoiler logic or equipment. No unsourced transmission, torque, production count or market-specific acceleration is invented.",
+      "summary": "The Corrado G60 established a distinctive Volkswagen sports-coupe identity through its compact Karmann-built body, G-Lader supercharged engine and automatically extending rear spoiler. Its engineering and packaging went beyond a Golf trim or Scirocco rebadge, making the original G60 a landmark in Volkswagen’s sporting road-car history.",
+      "admission_reason": "The Corrado G60 established a distinctive Volkswagen sports-coupe identity through its compact Karmann-built body, G-Lader supercharged engine and automatically extending rear spoiler. Its engineering and packaging went beyond a Golf trim or Scirocco rebadge, making the original G60 a landmark in Volkswagen’s sporting road-car history.",
+      "sources": [
+        {
+          "publisher": "Volkswagen Classic",
+          "title": "Corrado 1988–1995 — Volkswagen Classic Type 53i model history",
+          "source_type": "Manufacturer historical model / engineering account",
+          "url": "https://www.volkswagen-newsroom.com/en/corrado-19881995-19683",
+          "notes": "Volkswagen Classic Type 53i history: original autumn 1988 German G60 road car, 1781-cc eight-valve four, front drive, 2+2 body and German 120-km/h spoiler threshold. Later 16V, 2.0-litre, VR6, 1991 body/fuel-tank changes, optional automatic and 1992 interior are excluded. North American exterior photograph does not certify German spoiler logic or equipment. No unsourced transmission, torque, production count or market-specific acceleration is invented."
+        },
+        {
+          "publisher": "Volkswagen Newsroom",
+          "title": "Corrado — original G60 engine and active spoiler",
+          "source_type": "Manufacturer historical model account",
+          "url": "https://www.volkswagen-newsroom.com/en/corrado-3616",
+          "notes": "Original G60 paragraph supplies native 118 kW / 160 PS and scroll supercharger. Later VR6 power conventions and production totals are not used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Corrado G60 (Auto classique St-Constant '13).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Corrado_G60_(Auto_classique_St-Constant_%2713).JPG",
+          "notes": "Bull-Doser; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1781",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "G-Lader scroll-type mechanical supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Automatic rear spoiler; German deployment threshold above 120 km/h",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve count",
+          "value": "8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "118",
+          "unit": "kW",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Corrado G60 established a distinctive Volkswagen sports-coupe identity through its compact Karmann-built body, G-Lader supercharged engine and automatically extending rear spoiler. Its engineering and packaging went beyond a Golf trim or Scirocco rebadge, making the original G60 a landmark in Volkswagen’s sporting road-car history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_corrado_g60_de1988.jpg",
+          "caption": "Volkswagen Corrado G60 photographed at Auto classique Saint-Constant, Quebec, in 2013. Represents the original G60 body. North American lamps, bumper/equipment, windscreen graphic and installed engine do not authenticate German 1988 equipment, spoiler deployment logic or mechanical originality.",
+          "creator": "Bull-Doser",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "f58d7b7b2f795283394aa95e4fa4492d31e936b106ae37161a9508dcc9af5440"
+        }
+      ]
+    },
+    {
+      "id": "OPE-MANTA400-ROAD-1981",
+      "manufacturer": "Opel",
+      "model_family": "Manta",
+      "generation": "Manta B 400 original 2.4-litre road homologation coupe",
+      "variant": "400 — standard 106 kW road reference, 1981-on",
+      "model_year_from": 1981,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Adam Opel AG Öffentlichkeitsarbeit, Pkw-Modellprogramm 1899–1995, June 1995, dedicated Manta 400 page 141; club-hosted facsimile, publisher page 2 checked. Original 1981–1984 road series, not rally Phase II/III. Its 106-kW/210-Nm L-Jetronic road tune and steel body are separate from Weber-fed competition output, Kevlar panels, wheel-arch kits and lowered race weight. Production and homologation-date disputes are not imported.",
+      "summary": "The Manta 400 is a significant rear-drive rally homologation road coupe and the successor to Opel’s Ascona 400. Its specialised injected 2.4-litre engine, five-speed transmission and dedicated chassis formed the road foundation for a successful competition lineage, while remaining distinct from the far more powerful rally-prepared cars.",
+      "admission_reason": "The Manta 400 is a significant rear-drive rally homologation road coupe and the successor to Opel’s Ascona 400. Its specialised injected 2.4-litre engine, five-speed transmission and dedicated chassis formed the road foundation for a successful competition lineage, while remaining distinct from the far more powerful rally-prepared cars.",
+      "sources": [
+        {
+          "publisher": "Adam Opel AG / Öffentlichkeitsarbeit",
+          "title": "Pkw-Modellprogramm 1899–1995 — Manta 400 technical data, page 141",
+          "source_type": "Manufacturer historical technical book, club-hosted facsimile",
+          "url": "https://historisk-opelklub.dk/wp-content/uploads/2012/06/Opel-Data_1899-1995.pdf",
+          "notes": "Adam Opel AG Öffentlichkeitsarbeit, Pkw-Modellprogramm 1899–1995, June 1995, dedicated Manta 400 page 141; club-hosted facsimile, publisher page 2 checked. Original 1981–1984 road series, not rally Phase II/III. Its 106-kW/210-Nm L-Jetronic road tune and steel body are separate from Weber-fed competition output, Kevlar panels, wheel-arch kits and lowered race weight. Production and homologation-date disputes are not imported."
+        },
+        {
+          "publisher": "Opel / Stellantis",
+          "title": "Crowd-Pleasers in Their Second Generation: 50 Years of Opel Ascona B and Manta B — July 30, 2025",
+          "source_type": "Manufacturer historical / motorsport account",
+          "url": "https://www.media.stellantis.com/em-en/opel/press/crowd-pleasers-in-their-second-generation-50-years-of-opel-ascona-b-and-manta-b",
+          "notes": "Factory history read through the web reader; local direct request returned 403. Explicitly separates the 106-kW road engine from approximately 206-kW Phase III competition tune and describes the 1981 presentation/succession and 1983 national rally successes. Race results establish lineage, not stock road-car tune."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1981 Opel Manta 400 2.4 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1981_Opel_Manta_400_2.4_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2410",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "106",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "210",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch L-Jetronic electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual with central shift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Self-supporting all-steel unit body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double-wishbone front; live rear axle with longitudinal and transverse locating links; coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs; solid rear discs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Manta 400 is a significant rear-drive rally homologation road coupe and the successor to Opel’s Ascona 400. Its specialised injected 2.4-litre engine, five-speed transmission and dedicated chassis formed the road foundation for a successful competition lineage, while remaining distinct from the far more powerful rally-prepared cars.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_manta400_road_1981.jpg",
+          "caption": "Opel Manta 400 road-bodied coupe, identified by the photographer as a 1981 2.4, photographed at Vaux ALL 2023 in Gaydon. Represents the road body rather than a liveried rally racer. Chassis identity, later fascia/trim, wheel originality, restoration and installed tune are not authenticated by the exterior image.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1002d856ae8df8e87d01f7f0d4436f37bab57967800c2a9809f7415c32978379"
+        }
+      ]
+    }
+  ]
+}

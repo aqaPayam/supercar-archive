@@ -1,0 +1,306 @@
+{
+  "batch": "icons-road-2026-10-30-70",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "NAS-HEALEY-CONVERTIBLE-1953",
+      "manufacturer": "Nash-Healey",
+      "model_family": "Nash-Healey",
+      "generation": "Original 1951–1954 Nash-Healey production-road sports-car family",
+      "variant": "Pinin Farina convertible — June 1953 US-market brochure reference",
+      "model_year_from": 1953,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-seat convertible sports car",
+      "road_legal": 1,
+      "specification_market": "June 1953 US-market Nash brochure, specification spread visually read. Selects the Pinin Farina convertible, not the longer-wheelbase LeMans hardtop. Native cubic inches, bhp and lb-ft stay unconverted; no modern net/gross standard is inferred. United States identifies the Nash marque/market programme, not an all-US manufacturing claim: chassis work was British and coachwork/assembly Italian. Early Panelcraft bodies, later body changes and racing lightweights do not add counts or transfer specifications.",
+      "summary": "The Nash-Healey was a distinctive early postwar international sports-car venture. Nash supplied the drivetrain, Healey built the rolling chassis and Pinin Farina completed the Italian coachwork. This combined American power with British sports-car engineering and Italian design in a dedicated production road car. The programme’s real endurance-racing heritage reinforces its significance beyond rarity or price.",
+      "admission_reason": "The Nash-Healey was a distinctive early postwar international sports-car venture. Nash supplied the drivetrain, Healey built the rolling chassis and Pinin Farina completed the Italian coachwork. This combined American power with British sports-car engineering and Italian design in a dedicated production road car. The programme’s real endurance-racing heritage reinforces its significance beyond rarity or price.",
+      "sources": [
+        {
+          "publisher": "Nash Motors / Nash-Kelvinator; facsimile hosted by XR793",
+          "title": "1953 Nash-Healey: America’s Outstanding Sports Car — June 1953 factory brochure, specification spread",
+          "source_type": "Original manufacturer brochure, independently hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2019/02/1953-Nash-Healey.pdf",
+          "notes": "June 1953 US-market Nash brochure, specification spread visually read. Selects the Pinin Farina convertible, not the longer-wheelbase LeMans hardtop. Native cubic inches, bhp and lb-ft stay unconverted; no modern net/gross standard is inferred. United States identifies the Nash marque/market programme, not an all-US manufacturing claim: chassis work was British and coachwork/assembly Italian. Early Panelcraft bodies, later body changes and racing lightweights do not add counts or transfer specifications."
+        },
+        {
+          "publisher": "Savoy Automobile Museum",
+          "title": "1953 Nash-Healey Le Mans — collection 2023.0008.0001",
+          "source_type": "Primary museum collection account",
+          "url": "https://savoymuseum.org/portfolio-items/1953-nash-healey-le-mans-sport-2-door-roadster/",
+          "notes": "Collection account documents the Nash/Healey partnership and Pininfarina’s 1952 restyling, British rolling chassis and Italian body/final assembly. Museum speed, weight and production totals are not imported; the original brochure defines the selected technical reference."
+        },
+        {
+          "publisher": "Motor Sport / Continental Correspondent",
+          "title": "Mercedes-Benz wins Les Vingt Quatre Heures du Mans — original July 1952 race report, digitised 7 July 2014",
+          "source_type": "Contemporary eyewitness race report",
+          "url": "https://www.motorsportmagazine.com/archive/article/july-1952/9/mercedes-benz-win-les-vingt-quatre-heures-du-mans/",
+          "notes": "Contemporary report explicitly records Johnson and Wisdom’s Nash-Healey finishing third. This is a dedicated competition car, not the 1953 Pinin Farina roadster’s engine, body or performance specification. No all-American first-place claim or class result is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1953 Nash-Healey convertible roadster in red burgundy at Hershey 2019 AACA 1of7.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1953_Nash-Healey_convertible_roadster_in_red_burgundy_at_Hershey_2019_AACA_1of7.jpg",
+          "notes": "Christopher Ziemnowicz (CZmarlin); CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LeMans Dual Jetfire six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Dual side-draught carburettors with automatic chokes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "8:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed manual with automatic overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front trailing links, coil springs and stabilizer bar; rear coils and torque-tube drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel 10-inch hydraulic internal-expanding drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published displacement",
+          "value": "252.6",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Published brake horsepower",
+          "value": "140",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "230",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "2000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase, convertible",
+          "value": "102",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle ratio",
+          "value": "4.1:1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Nash-Healey was a distinctive early postwar international sports-car venture. Nash supplied the drivetrain, Healey built the rolling chassis and Pinin Farina completed the Italian coachwork. This combined American power with British sports-car engineering and Italian design in a dedicated production road car. The programme’s real endurance-racing heritage reinforces its significance beyond rarity or price.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        },
+        {
+          "title": "Programme endurance heritage",
+          "explanation": "Motor Sport’s contemporary 1952 Le Mans report records Leslie Johnson and Tommy Wisdom finishing third in a Nash-Healey. This supports the programme’s sporting significance; their competition car is distinct from the selected 1953 production convertible.",
+          "category": "Motorsport heritage",
+          "confidence": "Contemporary report",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_nas_healey_convertible_1953.jpg",
+          "caption": "1953 Nash-Healey Pinin Farina convertible photographed by Christopher Ziemnowicz (CZmarlin) at the 2019 AACA meet in Pennsylvania. Representative roadster body; the image does not certify the June 1953 brochure car, factory originality or unchanged engine specification.",
+          "creator": "Christopher Ziemnowicz (CZmarlin)",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "6b3553a7c318d1aa43b51155f0d0647e58aec41e8161b16149ec1b01fded7ad8"
+        }
+      ]
+    },
+    {
+      "id": "FRA-NASH-TTREPLICA-MEADOWS1934",
+      "manufacturer": "Frazer Nash",
+      "model_family": "TT Replica",
+      "generation": "Original prewar chain-driven TT Replica factory production-road sports-car family",
+      "variant": "Meadows four-cylinder — 1934 BMK 102, September 2022 road-feature architecture reference",
+      "model_year_from": 1934,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open two-seat sports car",
+      "road_legal": 1,
+      "specification_market": "1934 BMK 102 as documented in the 30 September 2022 first-hand road feature. Architecture and original-model identity are distinguished from the newly built restoration engine. Its 111 bhp at 6050 rpm, 9.65:1 compression, modified trim and earlier AC six-cylinder swap are not 1934 factory specifications. The original TT Replica model is not a modern kit or reproduction. Meadows/Blackburne/Gough tunes, body changes and racing derivatives do not add separate counts.",
+      "summary": "The original TT Replica embodies Frazer Nash’s distinctive chain-drive sports-car tradition, with an outside gear lever and an unusually direct connection between driver and chassis. First-hand road driving of BMK 102 describes quick changes and throttle-directed cornering, alongside cold-brake pull and initial understeer. This established sporting identity and unconventional mechanical layout justify one original family entry; Replica is the historic model name.",
+      "admission_reason": "The original TT Replica embodies Frazer Nash’s distinctive chain-drive sports-car tradition, with an outside gear lever and an unusually direct connection between driver and chassis. First-hand road driving of BMK 102 describes quick changes and throttle-directed cornering, alongside cold-brake pull and initial understeer. This established sporting identity and unconventional mechanical layout justify one original family entry; Replica is the historic model name.",
+      "sources": [
+        {
+          "publisher": "Classic & Sports Car / Mick Walsh",
+          "title": "Frazer Nash TT Replica: Bravery in the field — 30 September 2022",
+          "source_type": "First-hand road feature and restoration account",
+          "url": "https://www.classicandsportscar.com/features/frazer-nash-tt-replica-bravery-field",
+          "notes": "1934 BMK 102 as documented in the 30 September 2022 first-hand road feature. Architecture and original-model identity are distinguished from the newly built restoration engine. Its 111 bhp at 6050 rpm, 9.65:1 compression, modified trim and earlier AC six-cylinder swap are not 1934 factory specifications. The original TT Replica model is not a modern kit or reproduction. Meadows/Blackburne/Gough tunes, body changes and racing derivatives do not add separate counts."
+        },
+        {
+          "publisher": "Frazer Nash Archives",
+          "title": "Frazer Nash Chain Driven — TT Replica / Tourist Trophy Replica section",
+          "source_type": "Primary marque archive model record",
+          "url": "https://frazernasharchives.co.uk/index.php?idPage=34",
+          "notes": "Marque archive identifies the original open two-seater and Meadows overhead-valve 1496 cc option, alongside distinct Blackburne/Gough alternatives. Only the selected Meadows architecture and aluminium body are used. The apparent 14966 cc typo in another engine entry, uncertain production totals and other models are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1934 Frazer Nash TT Replica (54170111163).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1934_Frazer_Nash_TT_Replica_(54170111163).jpg",
+          "notes": "Rutger van der Maar; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1934 Frazer Nash TT Replica. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Meadows 4ED four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1496",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Solid front axle with inverted quarter-elliptic springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Door design",
+          "value": "One passenger-side door on BMK 102",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Body framework",
+          "value": "Timber body frame",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Selection",
+          "value": "External gear lever",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "Overhead valves, Meadows reference",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Final drive",
+          "value": "Chain drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original TT Replica embodies Frazer Nash’s distinctive chain-drive sports-car tradition, with an outside gear lever and an unusually direct connection between driver and chassis. First-hand road driving of BMK 102 describes quick changes and throttle-directed cornering, alongside cold-brake pull and initial understeer. This established sporting identity and unconventional mechanical layout justify one original family entry; Replica is the historic model name.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fra_nash_ttreplica_meadows1934.jpg",
+          "caption": "1934 Frazer Nash TT Replica photographed by Rutger van der Maar at InterClassics Brussels 2024. Representative original-model road sports body; it is distinct from the selected ivory/brown BMK 102 and does not certify its engine, chassis identity, originality or present tune.",
+          "creator": "Rutger van der Maar",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "94559416897433f50759b6bd1ad71ccbbfecdb4f83c020731bb243f633b3fce1"
+        }
+      ]
+    }
+  ]
+}

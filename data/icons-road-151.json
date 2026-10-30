@@ -1,0 +1,160 @@
+{
+  "batch": "icons-road-2026-10-30-151",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "PAN-ESPERANTE-GTLM-DRIVE2005",
+      "manufacturer": "Panoz",
+      "model_family": "Esperante",
+      "generation": "Original Esperante production-road sports-GT family",
+      "variant": "GTLM convertible — AutoWeek 2005-model road-drive reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-seat road GT convertible",
+      "road_legal": 1,
+      "specification_market": "Original supercharged GTLM road convertible described by Mark Vaughn in AutoWeek article labelled 2005 model and published 22 January 2006. Eleven attributes retain that firsthand report, including nominal 4.6-litre SVT V8, Eaton supercharger, reported output/torque peaks, limited-slip differential, steering and GTLM rear module. No exact cc, output standard, boost, valvetrain, gearbox count, dimensions, brake geometry or timed speed inferred. Steering ratio is report-scoped, not independently measured here; published curb weight is not imported. Later manufacturer 6.2-litre Esperante Classic specification is not transferred. Related GTLM race car Le Mans class win provides programme history only, not road-car achievement or race engine/chassis specification. Group original road Esperante/GT/GTLM bodies, engines and later related road development conservatively once; no GTS, GTLM racer, GTR-1, LMP, prototype or extra upgrade/body count. Existing AIV Roadster is a different earlier model despite sharing steering hardware. Generic soft-top Esperante photo matches family/body only and is not authenticated as GTLM, drive car, engine or original equipment.",
+      "summary": "The Esperante GTLM road car combines supercharged Ford SVT V8 power with a developed rear suspension and chassis module, documented in a period firsthand drive with Dan Panoz. It represents the independent American performance-GT programme rather than rarity alone. Count the related Esperante road family once; its racing relatives and additional body or engine versions do not create further entries.",
+      "admission_reason": "The Esperante GTLM road car combines supercharged Ford SVT V8 power with a developed rear suspension and chassis module, documented in a period firsthand drive with Dan Panoz. It represents the independent American performance-GT programme rather than rarity alone. Count the related Esperante road family once; its racing relatives and additional body or engine versions do not create further entries.",
+      "sources": [
+        {
+          "publisher": "Autoweek; Mark Vaughn",
+          "title": "2005 Panoz Esperante GTLM: Esperante Extremus — published 22 January 2006",
+          "source_type": "Original firsthand road drive with company principal",
+          "url": "https://www.autoweek.com/news/a2062141/2005-panoz-esperante-gtlm-esperante-extremus-new-gtlm-addresses-all-your-panoz/",
+          "notes": "Complete relevant article read, including top-up/top-down context. All eleven attributes follow the selected GTLM convertible drive account. 2005 model label is distinct from 2006 publication. No independent horsepower standard, dyno verification, mass measurement, gearbox count or acceleration test inferred. Steering ratio is reported from Dan Panoz. Base/GT/GTLM relationship supports conservative grouping; shared AIV steering hardware does not make the earlier Roadster an alias. Exact production totals, prices, speculative styling criticism and generic earlier prototype results omitted."
+        },
+        {
+          "publisher": "Panoz",
+          "title": "The Mighty Panoz Esperante LMP-1 Roadster S on Display at the 2016 24 Hours of Le Mans — GTLM section",
+          "source_type": "Manufacturer historical release",
+          "url": "https://panoz.com/panoz/06-09-16/",
+          "notes": "Relevant complete release read, distinguishing AIV Roadster, GTR-1, LMP-1 and GTLM. Used for explicit relationship between GTLM road sports car and GTLM racer. Race 5.0-litre naturally aspirated engine and approximately 500 hp are not road specifications. Manufacturer class-win account corroborated with organiser results; no LMP/GTR-1 achievements or claims transferred. No prototype or race-car admission."
+        },
+        {
+          "publisher": "Automobile Club de l’Ouest / 24 Hours of Le Mans",
+          "title": "Panoz constructor results — Team LNT 2006 LM GT2 entry",
+          "source_type": "Race organiser historical results",
+          "url": "https://www.24h-lemans.com/en/track-record/constructors/panoz",
+          "notes": "Relevant 2006 Team LNT No.81 result inspected in organiser constructor table/card: LM GT2 first in category, fifteenth overall. Used only for related competition-car programme history, corroborating Panoz release. Road convertible did not win the race; no race engine, weight, aero or homologation-production claim imported. Other years/prototypes not part of admission."
+        },
+        {
+          "publisher": "Wikimedia Commons; BillWeiss",
+          "title": "File:Panoz Esperante front quarter.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Panoz_Esperante_front_quarter.jpg",
+          "notes": "Own work by BillWeiss, dated 24 May 2006, uploaded 5 July 2006. Summary, upload history, licensing and API metadata read. Select migrated CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; deed terms read. Alternative GFDL and earlier CC licences not combined. Actual 1280 x 957 JPEG individually viewed and copied unchanged. Silver soft-top Esperante family/body illustration only: not authenticated as GTLM, the road-drive car, engine, exact year, chassis or original equipment. Two red GTLM coupe photos were viewed but not imported because their closed body differs from the selected convertible."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration in drive account",
+          "value": "Ford SVT V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal displacement",
+          "value": "4.6",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Forced induction",
+          "value": "Eaton supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Output reported",
+          "value": "420",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Reported output peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque reported",
+          "value": "420",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Reported torque peak",
+          "value": "3500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "System as reported",
+          "value": "Power-assisted rack and pinion",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Ratio reported from Dan Panoz",
+          "value": "15:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Rear module as reported",
+          "value": "GTLM-specific rear suspension and chassis module",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Esperante GTLM road car combines supercharged Ford SVT V8 power with a developed rear suspension and chassis module, documented in a period firsthand drive with Dan Panoz. It represents the independent American performance-GT programme rather than rarity alone. Count the related Esperante road family once; its racing relatives and additional body or engine versions do not create further entries.",
+          "category": "Independent American performance-GT engineering",
+          "confidence": "Original firsthand road drive; no rarity-only, new timed-performance or racing-win claim for road car",
+          "source": 0
+        },
+        {
+          "title": "Racing heritage belongs to the related racer",
+          "explanation": "The organiser records Team LNT’s No.81 Panoz first in LM GT2 at Le Mans in 2006. This supports the related GTLM racing programme’s history; it is not an achievement or technical specification of this road convertible.",
+          "category": "Bounded road-and-racing programme heritage",
+          "confidence": "Organiser result, with manufacturer road/race relationship corroboration; road and race identities remain distinct",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pan_esperante_convertible.jpg",
+          "caption": "Representative soft-top Panoz Esperante family illustration; supplied title Panoz Esperante front quarter.jpg. BillWeiss, own work, 24 May 2006; Wikimedia Commons. CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged. Generic convertible is not authenticated as GTLM, the 2005-model drive car, engine, exact build date, chassis or original equipment. No endorsement implied.",
+          "creator": "BillWeiss",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "c53fe201d8791297e6a366580632d92bc3df5af3fd3ecd113d45810d781aaa73"
+        }
+      ]
+    }
+  ]
+}

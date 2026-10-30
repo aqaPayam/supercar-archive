@@ -1,0 +1,334 @@
+{
+  "batch": "icons-road-2026-10-30-93",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "MIT-ECLIPSE-G1-GSX-US1990-MT",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Eclipse",
+      "generation": "First-generation Eclipse / Talon / Laser shared Diamond-Star production-road coupe family",
+      "variant": "GSX turbo AWD, five-speed manual — 1990 US factory reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1990 US-market first-generation Eclipse GSX, five-speed manual. Original Mitsubishi four-page GSX AWD brochure, hosted by ImportArchive: all four public low-resolution scans actually inspected. Factory advertised 195 hp at 6000 rpm and 203 lb-ft at 3000 rpm, 1997 cc, DOHC four valves per cylinder, multi-point injection and air-to-air intercooled turbo. Native hp/lb-ft retained without asserting an unstated SAE rating convention or metric conversion. Full-time AWD uses a viscous-coupled centre differential; 50:50 is the stated normal-running split, not an immutable split. Japan GSR-4 naming/calibration, later engines, automatic figures, tuned output and acceleration claims are not imported. The rear torque-control suspension link is not evidence of active rear torque vectoring or a rear limited-slip differential. Japanese Mitsubishi programme, assembled by Diamond-Star Motors in Normal, Illinois. High-resolution 1990 scans remain donation-gated and were not accessed.",
+      "summary": "The original Eclipse turbo/AWD performance programme combined an intercooled twin-cam four with full-time four-wheel traction in a compact sports coupe. Its viscous-coupled centre differential and independent rear suspension distinguish the selected GSX from ordinary front-drive trim. Count the first-generation Diamond-Star road family once, including Eclipse, Eagle Talon and Plymouth Laser aliases; badges, transmissions and model years add no extra entries.",
+      "admission_reason": "The original Eclipse turbo/AWD performance programme combined an intercooled twin-cam four with full-time four-wheel traction in a compact sports coupe. Its viscous-coupled centre differential and independent rear suspension distinguish the selected GSX from ordinary front-drive trim. Count the first-generation Diamond-Star road family once, including Eclipse, Eagle Talon and Plymouth Laser aliases; badges, transmissions and model years add no extra entries.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors / ImportArchive facsimile",
+          "title": "1990 Eclipse GSX AWD — original four-page Mitsubishi US brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://importarchive.com/brochure/mitsubishieclipse1990_02",
+          "notes": "1990 US-market first-generation Eclipse GSX, five-speed manual. Original Mitsubishi four-page GSX AWD brochure, hosted by ImportArchive: all four public low-resolution scans actually inspected. Factory advertised 195 hp at 6000 rpm and 203 lb-ft at 3000 rpm, 1997 cc, DOHC four valves per cylinder, multi-point injection and air-to-air intercooled turbo. Native hp/lb-ft retained without asserting an unstated SAE rating convention or metric conversion. Full-time AWD uses a viscous-coupled centre differential; 50:50 is the stated normal-running split, not an immutable split. Japan GSR-4 naming/calibration, later engines, automatic figures, tuned output and acceleration claims are not imported. The rear torque-control suspension link is not evidence of active rear torque vectoring or a rear limited-slip differential. Japanese Mitsubishi programme, assembled by Diamond-Star Motors in Normal, Illinois. High-resolution 1990 scans remain donation-gated and were not accessed."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "1989 10Best Cars — original editorial award",
+          "source_type": "Contemporary editorial award",
+          "url": "https://www.caranddriver.com/features/a15144678/1989-10best-cars/",
+          "notes": "Original award list read: Eclipse Turbo / Plymouth Laser Turbo won. This is family-level recognition, not an instrumented test of the selected 1990 AWD GSX. No test measurements imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:'90-'91 Mitsubishi Eclipse AWD.JPG",
+          "source_type": "Image source / author public-domain dedication",
+          "url": "https://commons.wikimedia.org/wiki/File:%2790-%2791_Mitsubishi_Eclipse_AWD.JPG",
+          "notes": "Bull-Doser; Public domain by author dedication (PD-self). Original credit: Own work. Permission: All Rights Released.. Actual Commons Licensing section inspected: worldwide public-domain release, with unrestricted-use fallback where necessary. Licence evidence URL: https://commons.wikimedia.org/wiki/File:%2790-%2791_Mitsubishi_Eclipse_AWD.JPG#Licensing. No Creative Commons licence is substituted. Downloaded JPEG rendition copied unchanged; creator retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder, DOHC, four valves per cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1997",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Multi-point fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger with air-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four wheels; full-time AWD",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Centre differential with viscous coupling; normal-running front/rear split 50:50",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson struts; independent rear multi-link",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted four-wheel discs; front ventilated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "195",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "203",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Eclipse turbo/AWD performance programme combined an intercooled twin-cam four with full-time four-wheel traction in a compact sports coupe. Its viscous-coupled centre differential and independent rear suspension distinguish the selected GSX from ordinary front-drive trim. Count the first-generation Diamond-Star road family once, including Eclipse, Eagle Talon and Plymouth Laser aliases; badges, transmissions and model years add no extra entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        },
+        {
+          "title": "Contemporary recognition",
+          "explanation": "The Eclipse Turbo / Plymouth Laser Turbo family appeared on Car and Driver’s 1989 10Best list. The award is not claimed as a test of this 1990 GSX.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_eclipse_g1_gsx_us1990_mt.jpg",
+          "caption": "Early first-generation Eclipse AWD photographed by Bull-Doser in Williston, Vermont, in 2007; the source labels it 1990–1991. The visible early body, pop-up-headlamp covers and AWD marking represent this road family. Exact model year, engine originality, five-speed gearbox, differential condition and factory calibration are not authenticated by the photograph.",
+          "creator": "Bull-Doser",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "0cc61bbe615b8b41b394215e4dfc62d2e04a1b6c68162d03d29d8c05840a232d"
+        }
+      ]
+    },
+    {
+      "id": "MIT-ECLIPSE-G2-GSX-US1995-MT",
+      "manufacturer": "Mitsubishi",
+      "model_family": "Eclipse",
+      "generation": "Second-generation Eclipse / Talon shared Diamond-Star production-road coupe family",
+      "variant": "GSX turbo AWD, five-speed manual — 1995 US factory reference",
+      "model_year_from": 1995,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1995 US-market second-generation Eclipse GSX, standard five-speed manual. Original Mitsubishi MMSA-ADV-5618 brochure, copyright 1994: actual high-resolution pages 14–15 inspected. Turbo/intercooled 2.0-litre DOHC 16-valve four, multi-point injection, 210 hp at 6000 rpm and 214 lb-ft at 3000 rpm. These are native advertised US figures; no unstated SAE convention, Japanese PS value or inferred metric torque/displacement conversion is supplied. Automatic is optional and has a different 205-hp / 220-lb-ft rating, not selected. AWD with centre and rear limited-slip differentials is standard on GSX; ABS is optional. GSX manual tyres are 215/55VR16, not the automatic size. The 2877-lb curb weight shown is GS-T manual, not GSX, and is omitted. No NA GS/RS Chrysler engine figures or Talon test measurements are copied. 1995 is the chosen US model year, not the Japanese launch date; Japanese-market second-generation specifications differ. The family photograph depicts a later facelift, not an exact 1995 body.",
+      "summary": "The second Eclipse generation substantially renewed the Diamond-Star performance coupe with four-wheel independent multi-link suspension and a 210-hp intercooled turbo manual reference. The GSX paired that chassis with AWD and centre/rear limited-slip differentials, sustaining the programme’s distinctive high-performance role. Count this generation once across Eclipse and Eagle Talon; badges, GS/GS-T/GSX grades, facelifts, gearboxes and Spyder bodies do not supply additional entries.",
+      "admission_reason": "The second Eclipse generation substantially renewed the Diamond-Star performance coupe with four-wheel independent multi-link suspension and a 210-hp intercooled turbo manual reference. The GSX paired that chassis with AWD and centre/rear limited-slip differentials, sustaining the programme’s distinctive high-performance role. Count this generation once across Eclipse and Eagle Talon; badges, GS/GS-T/GSX grades, facelifts, gearboxes and Spyder bodies do not supply additional entries.",
+      "sources": [
+        {
+          "publisher": "Mitsubishi Motors / ImportArchive facsimile",
+          "title": "1995 Eclipse US brochure MMSA-ADV-5618 — GSX equipment and specification tables",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://importarchive.com/brochure/mitsubishieclipse1995_01",
+          "notes": "1995 US-market second-generation Eclipse GSX, standard five-speed manual. Original Mitsubishi MMSA-ADV-5618 brochure, copyright 1994: actual high-resolution pages 14–15 inspected. Turbo/intercooled 2.0-litre DOHC 16-valve four, multi-point injection, 210 hp at 6000 rpm and 214 lb-ft at 3000 rpm. These are native advertised US figures; no unstated SAE convention, Japanese PS value or inferred metric torque/displacement conversion is supplied. Automatic is optional and has a different 205-hp / 220-lb-ft rating, not selected. AWD with centre and rear limited-slip differentials is standard on GSX; ABS is optional. GSX manual tyres are 215/55VR16, not the automatic size. The 2877-lb curb weight shown is GS-T manual, not GSX, and is omitted. No NA GS/RS Chrysler engine figures or Talon test measurements are copied. 1995 is the chosen US model year, not the Japanese launch date; Japanese-market second-generation specifications differ. The family photograph depicts a later facelift, not an exact 1995 body."
+        },
+        {
+          "publisher": "Car and Driver",
+          "title": "1995 Mitsubishi Eclipse GS Gives Up the X-Factor — October 1994 issue, republished",
+          "source_type": "Contemporary first-hand road test, republished",
+          "url": "https://www.caranddriver.com/reviews/a69264488/1995-mitsubishi-eclipse-gs-archive-test/",
+          "notes": "Contemporary GS road test read for its explicit preference for the turbo/AWD GSX. The measured GS was a different naturally aspirated, front-drive model; none of its measurements supplies GSX fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2nd-Mitsubishi-Eclipse.jpg",
+          "source_type": "Image source / author public-domain dedication",
+          "url": "https://commons.wikimedia.org/wiki/File:2nd-Mitsubishi-Eclipse.jpg",
+          "notes": "IFCAR; Public domain by author dedication (PD-self). Original credit: Own work. Permission: All Rights Released. Actual Commons Licensing section inspected: worldwide public-domain release, with unrestricted-use fallback where necessary. Licence evidence URL: https://commons.wikimedia.org/wiki/File:2nd-Mitsubishi-Eclipse.jpg#Licensing. No Creative Commons licence is substituted. Downloaded JPEG rendition copied unchanged; creator retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder, DOHC, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronically controlled multi-point fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharged and intercooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual with overdrive; standard selected transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All four wheels; GSX",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Centre and rear limited-slip differentials; standard GSX equipment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Four-wheel independent multi-link; front/rear stabilizer bars and sport-tuned dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted four-wheel discs; GSX two-piston front calipers; ABS optional",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "215/55VR16 — GSX manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "210",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "214",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second Eclipse generation substantially renewed the Diamond-Star performance coupe with four-wheel independent multi-link suspension and a 210-hp intercooled turbo manual reference. The GSX paired that chassis with AWD and centre/rear limited-slip differentials, sustaining the programme’s distinctive high-performance role. Count this generation once across Eclipse and Eagle Talon; badges, GS/GS-T/GSX grades, facelifts, gearboxes and Spyder bodies do not supply additional entries.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        },
+        {
+          "title": "Contemporary performance assessment",
+          "explanation": "Car and Driver’s October 1994 GS review explicitly preferred the turbocharged, AWD GSX for performance. Its tested GS measurements are not assigned to this record.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mit_eclipse_g2_gsx_us1995_mt.jpg",
+          "caption": "Second-generation Eclipse road coupe photographed by IFCAR in the USA in 2007. Representative later-facelift body with later nose and tall rear wing, rather than the selected 1995 launch body. The image does not establish GSX grade, AWD hardware, engine calibration, manual gearbox, equipment originality or unmodified condition.",
+          "creator": "IFCAR",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "ecc8cbed36bc62a457b87e3b54f3d334262d91c752da2e66758308968a4bbfbc"
+        }
+      ]
+    }
+  ]
+}

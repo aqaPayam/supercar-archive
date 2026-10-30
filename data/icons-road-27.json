@@ -1,0 +1,612 @@
+{
+  "batch": "icons-road-2026-10-29-27",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "FER-456GT-US1997",
+      "manufacturer": "Ferrari",
+      "model_family": "456",
+      "generation": "Original F116 456 GT road coupe family",
+      "variant": "456 GT — 1997 US six-speed manual",
+      "model_year_from": 1997,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Ferrari 456 GTA / 456 GT Owner’s Manual, US Version Model Year 1997, 224 scanned PDF pages. Title page 2, A10/PDF15, B5/PDF27 and manual gearbox D12/PDF76 individually reviewed. Selected GT manual, not four-speed GTA automatic, later 456M or coachbuilt Venice estate. Native 436 SAE-net hp / 325 kW at 6250 rpm and 540 Nm at 4500 rpm apply to this US reference, not European 442-CV/550-Nm figures. Ferrari70 retrospective supplies history only; its rounded displacement and 442-hp/6200-rpm wording are not substituted for the manual table.",
+      "summary": "The 456 GT restored a front-engined V12 2+2 to Ferrari’s range after a three-year absence, pairing a new twelve-cylinder engine with a rear transaxle. Its Pininfarina design reinterpreted Daytona themes with a modern four-seat body, making it a defining renewal of Ferrari’s traditional high-performance grand tourer.",
+      "admission_reason": "The 456 GT restored a front-engined V12 2+2 to Ferrari’s range after a three-year absence, pairing a new twelve-cylinder engine with a rear transaxle. Its Pininfarina design reinterpreted Daytona themes with a modern four-seat body, making it a defining renewal of Ferrari’s traditional high-performance grand tourer.",
+      "sources": [
+        {
+          "publisher": "Ferrari / IACPFA hosted facsimile",
+          "title": "456 GTA / 456 GT — original Ferrari US Model Year 1997 owner’s manual",
+          "source_type": "Period manufacturer owner’s manual",
+          "url": "https://iacpfa.org/wp-content/uploads/2021/12/456-GT-1997-US-Version.pdf",
+          "notes": "Original Ferrari 456 GTA / 456 GT Owner’s Manual, US Version Model Year 1997, 224 scanned PDF pages. Title page 2, A10/PDF15, B5/PDF27 and manual gearbox D12/PDF76 individually reviewed. Selected GT manual, not four-speed GTA automatic, later 456M or coachbuilt Venice estate. Native 436 SAE-net hp / 325 kW at 6250 rpm and 540 Nm at 4500 rpm apply to this US reference, not European 442-CV/550-Nm figures. Ferrari70 retrospective supplies history only; its rounded displacement and 442-hp/6200-rpm wording are not substituted for the manual table."
+        },
+        {
+          "publisher": "Ferrari",
+          "title": "Ferrari70: 1987–1996 — the 1992 launch of the 456 GT",
+          "source_type": "Manufacturer anniversary history, hosted facsimile",
+          "url": "https://www.motorshow.me/uploadImages/GalleryDocs/Doc6832.pdf",
+          "notes": "Ferrari-branded 70th-anniversary historical PDF, ten pages; page 6 rendered and visually read. Establishes 1992 launch, return of V12 2+2, new engine/transaxle and Pininfarina Daytona-inspired design. Narrative performance notation is not the selected US technical table."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Festival automobile international 2011 - Vente aux enchères - Ferrari 456 GT - 1994.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Festival_automobile_international_2011_-_Vente_aux_ench%C3%A8res_-_Ferrari_456_GT_-_1994.jpg",
+          "notes": "Thesupermat; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "F116 C 65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5474",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "325",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "540",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual; synchronised forward gears and reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Lamellar self-locking differential integrated with gearbox and final drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, US SAE net",
+          "value": "436",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 456 GT restored a front-engined V12 2+2 to Ferrari’s range after a three-year absence, pairing a new twelve-cylinder engine with a rear transaxle. Its Pininfarina design reinterpreted Daytona themes with a modern four-seat body, making it a defining renewal of Ferrari’s traditional high-performance grand tourer.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_456gt_us1997.jpg",
+          "caption": "Ferrari 456 GT identified as a 1994 car at the 2011 Festival Automobile International sale in Paris. Original bonnet ducts and bumper distinguish this body from the later 456M. European lamps, year, trim and exterior condition do not certify the selected 1997 US SAE-net rating, emissions hardware or installed manual transmission. Not a coachbuilt Venice estate.",
+          "creator": "Thesupermat",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2445bd70236df4457d89351278f2f28ab87d309c9edfcc2b49edb3e5f08e963c"
+        }
+      ]
+    },
+    {
+      "id": "FER-612-ORIGINAL-MT2004",
+      "manufacturer": "Ferrari",
+      "model_family": "612 Scaglietti",
+      "generation": "Original F137 aluminium V12 four-seat road coupe",
+      "variant": "612 Scaglietti — 2004 launch six-speed manual",
+      "model_year_from": 2004,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original 2004 launch text and technical table reproduced by NetCarShow. Selected six-speed manual, separate from electrohydraulic F1A, 2006 equipment updates, HGTS/HGTC, Sessanta and later One-to-One. Table uses 540 CV at 7250 rpm; nearby English prose says bhp, so the explicit CV table notation is retained without relabelling or conversion. Torque 588 Nm at 5250 rpm. No unqualified first-in-the-world, rigidity percentage, performance/mass or ceramic-brake claim. Adjacent related-car summaries are excluded.",
+      "summary": "The 612 Scaglietti brought an aluminium spaceframe and aluminium body to Ferrari’s V12 grand-tourer line, combining four-seat accommodation with a front-mid engine and rear transaxle. Its structural and chassis development, including active damping and integrated stability control, makes it a significant engineering step in the marque’s performance-GT history.",
+      "admission_reason": "The 612 Scaglietti brought an aluminium spaceframe and aluminium body to Ferrari’s V12 grand-tourer line, combining four-seat accommodation with a front-mid engine and rear transaxle. Its structural and chassis development, including active damping and integrated stability control, makes it a significant engineering step in the marque’s performance-GT history.",
+      "sources": [
+        {
+          "publisher": "Ferrari / NetCarShow reproduction",
+          "title": "Ferrari 612 Scaglietti — original 2004 launch engineering text and technical table",
+          "source_type": "Period manufacturer launch material, reproduced",
+          "url": "https://www.netcarshow.com/ferrari/2004-612_scaglietti/",
+          "notes": "Original 2004 launch text and technical table reproduced by NetCarShow. Selected six-speed manual, separate from electrohydraulic F1A, 2006 equipment updates, HGTS/HGTC, Sessanta and later One-to-One. Table uses 540 CV at 7250 rpm; nearby English prose says bhp, so the explicit CV table notation is retained without relabelling or conversion. Torque 588 Nm at 5250 rpm. No unqualified first-in-the-world, rigidity percentage, performance/mass or ceramic-brake claim. Adjacent related-car summaries are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ferrari 612 Scaglietti london.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_612_Scaglietti_london.JPG",
+          "notes": "Primek; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5748",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "588",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7250",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "11.2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed mechanical manual with rear gearbox/differential transaxle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mid, behind front axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "All-aluminium spaceframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bodywork",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Active damping",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, launch technical-table notation",
+          "value": "540",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Stability and traction control",
+          "value": "CST",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 612 Scaglietti brought an aluminium spaceframe and aluminium body to Ferrari’s V12 grand-tourer line, combining four-seat accommodation with a front-mid engine and rear transaxle. Its structural and chassis development, including active damping and integrated stability control, makes it a significant engineering step in the marque’s performance-GT history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_612_original_mt2004.jpg",
+          "caption": "Ferrari 612 Scaglietti road coupe photographed in London. Represents the original four-seat body. Visible multi-spoke wheels, current equipment and an unauthenticated build year do not establish launch manual versus F1A gearbox, HGTS/HGTC packages, ceramic brakes or One-to-One mechanical specification.",
+          "creator": "Primek",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9f28b7b0ab859dd4454393fb8bf05cab140cedc0d9b2cb56d5b16243bb674eef"
+        }
+      ]
+    },
+    {
+      "id": "AST-DB9-LAUNCH2004-AT",
+      "manufacturer": "Aston Martin",
+      "model_family": "DB9",
+      "generation": "Original Gaydon VH V12 road coupe",
+      "variant": "DB9 coupe — 2004 launch ZF six-speed automatic",
+      "model_year_from": 2004,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original coupe launch release and final technical table, announcing Frankfurt September 9, 2003, reproduced as the 2004 DB9. Selected ZF automatic; manual/Graziano ratios, clutch and acceleration are not mixed in. Native 335 kW / 450 bhp at 6000 rpm, 570 Nm at 5000 rpm, 10.3:1 compression and steel brakes belong to this launch reference. Later manuals/brochures use other peak-speed/compression notation; those are not reconciled by mixing dates. Current retrospective 510-bhp/ceramic/adaptive figures are excluded, as are Volante, Sports Pack, 470-bhp revisions, facelift and GT.",
+      "summary": "The DB9 inaugurated Aston Martin’s Gaydon production era and the VH aluminium architecture that shaped the marque’s subsequent road cars. Its bonded and riveted aluminium structure, front-mid V12 and rear transaxle made the 2+2 a substantial engineering and design renewal of the traditional DB grand tourer.",
+      "admission_reason": "The DB9 inaugurated Aston Martin’s Gaydon production era and the VH aluminium architecture that shaped the marque’s subsequent road cars. Its bonded and riveted aluminium structure, front-mid V12 and rear transaxle made the 2+2 a substantial engineering and design renewal of the traditional DB grand tourer.",
+      "sources": [
+        {
+          "publisher": "Aston Martin / NetCarShow reproduction",
+          "title": "Aston Martin DB9 — original Frankfurt launch engineering release and 2004 technical table",
+          "source_type": "Period manufacturer launch release, reproduced",
+          "url": "https://www.netcarshow.com/aston_martin/2004-db9/",
+          "notes": "Original coupe launch release and final technical table, announcing Frankfurt September 9, 2003, reproduced as the 2004 DB9. Selected ZF automatic; manual/Graziano ratios, clutch and acceleration are not mixed in. Native 335 kW / 450 bhp at 6000 rpm, 570 Nm at 5000 rpm, 10.3:1 compression and steel brakes belong to this launch reference. Later manuals/brochures use other peak-speed/compression notation; those are not reconciled by mixing dates. Current retrospective 510-bhp/ceramic/adaptive figures are excluded, as are Volante, Sports Pack, 470-bhp revisions, facelift and GT."
+        },
+        {
+          "publisher": "Aston Martin",
+          "title": "DB9 — official historic-model account of Gaydon and VH development",
+          "source_type": "Manufacturer historical account",
+          "url": "https://media.astonmartin.com/db9/?lang=eng",
+          "notes": "Factory historical account confirms first Gaydon-built car and first VH platform production model. Used for significance and construction context, not later output, braking or suspension specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2004 Aston Martin DB9 (15311050868).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2004_Aston_Martin_DB9_(15311050868).jpg",
+          "notes": "free photos & art; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2004 Aston Martin DB9"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "All-alloy V12, 48 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5935",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "335",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "570",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.3",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Quad overhead camshafts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mid engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Rear transaxle ZF six-speed automatic with shift-by-wire and Touchtronic paddles",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bonded and riveted extruded/die-cast/stamped aluminium VH structure",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium bonnet, roof and rear wings; composite front wings and boot lid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent aluminium double wishbones front and rear; monotube dampers and anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "355-mm ventilated/grooved steel front discs; 330-mm ventilated rear discs; four-piston monobloc calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The DB9 inaugurated Aston Martin’s Gaydon production era and the VH aluminium architecture that shaped the marque’s subsequent road cars. Its bonded and riveted aluminium structure, front-mid V12 and rear transaxle made the 2+2 a substantial engineering and design renewal of the traditional DB grand tourer.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ast_db9_launch2004_at.jpg",
+          "caption": "2004 Aston Martin DB9 coupe photographed in the Netherlands, showing the original rear body and lamps. The exterior does not authenticate the selected launch ZF automatic, exact engine tune, trim or mechanical originality. Later Volante, facelift, GT and DBS bodies are not substituted.",
+          "creator": "free photos & art",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "42afcb316eb3dc6f2e579f784a3aa2ec18d142155c99b7fab7d5ef05f44a4e1f"
+        }
+      ]
+    },
+    {
+      "id": "JAG-XJS-V12-PREHE-MT",
+      "manufacturer": "Jaguar",
+      "model_family": "XJ-S",
+      "generation": "Original pre-HE V12 closed grand touring road family",
+      "variant": "V12 manual — English road brochure 3294/B reference",
+      "model_year_from": 1975,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door four-seat flying-buttress grand touring coupe",
+      "road_legal": 1,
+      "specification_market": "Original Jaguar Cars English road brochure, printed publication 3294/B; technical leaf PDF6 and publisher/footer PDF8 visually read. Host filename says 1975, but its GM400 automatic column shows a later pre-HE revision; 1975 here is family introduction, not an authenticated brochure edition date. Selected four-speed manual is explicit in the technical leaf; GM400 automatic data are not manual data. Native 285 DIN HP at 5800 rpm and 294 lb-ft at 3500 rpm retained without conversion or relabelling as the heritage text’s bhp. No HE, AJ6, 6.0, facelift, convertible, XJR-S or race specification. No exact brochure year or 1975 Borg-Warner automatic claim.",
+      "summary": "The XJ-S established Jaguar’s international grand-touring direction with a distinctive flying-buttress coupe, V12 power and chassis development from the XJ saloon. The design retained the influence of Malcolm Sayer and William Lyons while combining performance, refinement and four-seat road use, making it an important transition in Jaguar’s sporting lineage.",
+      "admission_reason": "The XJ-S established Jaguar’s international grand-touring direction with a distinctive flying-buttress coupe, V12 power and chassis development from the XJ saloon. The design retained the influence of Malcolm Sayer and William Lyons while combining performance, refinement and four-seat road use, making it an important transition in Jaguar’s sporting lineage.",
+      "sources": [
+        {
+          "publisher": "Jaguar Cars / Jaguar Club Russia hosted facsimile",
+          "title": "Jaguar XJS — original English road brochure 3294/B and technical leaf",
+          "source_type": "Period manufacturer road sales brochure",
+          "url": "https://jaguarclubrussia.com/images/katalog/1970/JaguarXJS/docJaguarXJS/1975-jaguar-xjs.PDF",
+          "notes": "Original Jaguar Cars English road brochure, printed publication 3294/B; technical leaf PDF6 and publisher/footer PDF8 visually read. Host filename says 1975, but its GM400 automatic column shows a later pre-HE revision; 1975 here is family introduction, not an authenticated brochure edition date. Selected four-speed manual is explicit in the technical leaf; GM400 automatic data are not manual data. Native 285 DIN HP at 5800 rpm and 294 lb-ft at 3500 rpm retained without conversion or relabelling as the heritage text’s bhp. No HE, AJ6, 6.0, facelift, convertible, XJR-S or race specification. No exact brochure year or 1975 Borg-Warner automatic claim."
+        },
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1975 Jaguar XJ-S V12 Coupe OOM 555R — London Motor Show car",
+          "source_type": "Manufacturer heritage collection account",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1975-jaguar-xj-s-v12-coupe-oom-555r/",
+          "notes": "Trust account of the preserved 1975 show car and model introduction. Supports GT-class development, shortened XJ basis and Sayer/Lyons design lineage. The show car’s paint, registration history, bhp wording and unqualified speed are not the selected manual brochure specification."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Jaguar XJS registered January 1978 5343cc.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Jaguar_XJS_registered_January_1978_5343cc.JPG",
+          "notes": "Charles01; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "60-degree V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5343",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per bank, operating bucket tappets",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Lucas electronic manifold injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed all-synchromesh manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "All-steel monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel discs; 284-mm ventilated front / 263-mm rear; four-piston front and two-piston rear calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Pressurised water cooling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, period brochure notation",
+          "value": "285",
+          "unit": "DIN HP",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, period brochure notation",
+          "value": "294",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The XJ-S established Jaguar’s international grand-touring direction with a distinctive flying-buttress coupe, V12 power and chassis development from the XJ saloon. The design retained the influence of Malcolm Sayer and William Lyons while combining performance, refinement and four-seat road use, making it an important transition in Jaguar’s sporting lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_xjs_v12_prehe_mt.jpg",
+          "caption": "Jaguar XJ-S registered January 1978, photographed at Weston Park with the early pre-HE coupe body, oval lamps and original-style wheels. This exterior does not authenticate the selected four-speed manual, exact 3294/B brochure revision or current engine tune. It is distinct from the XJ saloon coupe that an earlier candidate filename misidentified.",
+          "creator": "Charles01",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2d270a3a2c09ed7f66d823e2b0ecb6266292c8a552ebd9bceace290e637dc734"
+        }
+      ]
+    }
+  ]
+}

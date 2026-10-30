@@ -1,0 +1,132 @@
+{
+  "batch": "icons-road-2026-10-30-148",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "AMI-CGSS-NICOLIS1928",
+      "manufacturer": "Amilcar",
+      "model_family": "CGS / CGSS",
+      "generation": "Original interwar CGS/CGSS production-road sporting family",
+      "variant": "CGSS Sport body — Museo Nicolis 1928 reference",
+      "model_year_from": 1928,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Open Sport body; museum-listed Duval coachwork",
+      "road_legal": 1,
+      "specification_market": "Museo Nicolis collection-listed 1928 CGSS, used as a documented road-sporting reference for the original CGS/CGSS family. Eight attributes follow the Italian museum record, corroborated against its English translation. Retain 37 CV from the Italian table/text; do not silently relabel as brake horsepower because English narrative says hp. No power standard/rpm, torque, aspiration, exact gearbox/differential fitment, weight, wheelbase, or timed speed inferred. Later four-speed/differential statement is not attached to this particular car. Louwman historical exhibition supplies context only, not a 350-kg tax-class eligibility or race-result claim for the CGSS. Photo represents another labelled 1927 CGSS open body; not proof of the Nicolis 1928 car, Duval coachbuilder, engine or original equipment. Related CGS/CGSS road versions count once; no dedicated C6/racing car, replica or extra body/version admission.",
+      "summary": "The Amilcar CGS/CGSS belongs to the interwar lightweight sporting-road tradition. Its lowered CGSS chassis, uprated small engine and enlarged drum brakes supported a model popular with gentleman drivers entering competitions, as documented by Museo Nicolis. Count the related CGS/CGSS road family once, without adding coachbuilders or individual chassis.",
+      "admission_reason": "The Amilcar CGS/CGSS belongs to the interwar lightweight sporting-road tradition. Its lowered CGSS chassis, uprated small engine and enlarged drum brakes supported a model popular with gentleman drivers entering competitions, as documented by Museo Nicolis. Count the related CGS/CGSS road family once, without adding coachbuilders or individual chassis.",
+      "sources": [
+        {
+          "publisher": "Museo Nicolis",
+          "title": "Amilcar, 1928, CGSS — Italian collection record",
+          "source_type": "Museum collection technical and historical account",
+          "url": "https://www.museonicolis.com/amilcar-cg-ss-1928-francia/",
+          "notes": "Complete relevant Italian and English collection text/table read; translation at https://www.museonicolis.com/en/amilcar-cg-ss-1928-france/ . Eight attributes retain museum scope; Italian 37 CV retained rather than translated hp or inferred bhp/DIN. Later differential/four-speed fitment not proved for selected car. Nominal museum year, coachbuilder and equipment are reported, not independently authenticated originality. Claimed top speed and exact production total omitted. One museum-owned front photograph was viewed for body comparison only, not imported."
+        },
+        {
+          "publisher": "Louwman Museum",
+          "title": "Cyclecars and Grand Sports 1914–1930 — historical exhibition",
+          "source_type": "Museum exhibition context",
+          "url": "https://www.louwmanmuseum.nl/en/cyclecars",
+          "notes": "Relevant full exhibition text and named Amilcar entries read. Past exhibition dated 7 July–3 September 2023 lists CGSs 1927 and CGS road-bodied forms in the sporting evolution. Used for cultural/Grand Sport context only. General 350-kg/1100-cc tax background, other marques and dedicated race-car achievements do not become CGSS specifications or legal status claims."
+        },
+        {
+          "publisher": "Wikimedia Commons; Duch.seb",
+          "title": "File:Amilcar CGSS (1927).JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Amilcar_CGSS_(1927).JPG",
+          "notes": "Own work by Duch.seb, dated 3 May 2015 and uploaded 15 May 2015. Summary, history, licensing and API metadata read. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; applicable deed read. Actual 1280 x 857 JPEG individually viewed and copied unchanged. Blue open CGSS, supplied 1927 label, representative road-family/body only. Not authenticated as Museo Nicolis 1928 reference, a Duval body, original engine/gearbox, chassis or period race history; display lettering does not establish competition identity."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Number of cylinders",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1074",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "60",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "95",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum-listed output",
+          "value": "37",
+          "unit": "CV",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "CGSS layout feature",
+          "value": "Lowered chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "CGSS brake feature",
+          "value": "Enlarged drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Museum-listed coachbuilder",
+          "value": "Duval",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Amilcar CGS/CGSS belongs to the interwar lightweight sporting-road tradition. Its lowered CGSS chassis, uprated small engine and enlarged drum brakes supported a model popular with gentleman drivers entering competitions, as documented by Museo Nicolis. Count the related CGS/CGSS road family once, without adding coachbuilders or individual chassis.",
+          "category": "Interwar lightweight sporting-road heritage",
+          "confidence": "Museum technical/history account with independent museum exhibition context; no exact race-win or exclusive first claim",
+          "source": 0
+        },
+        {
+          "title": "CGSS is an evolution, not another count",
+          "explanation": "Museo Nicolis describes CGSS as the sporting development of CGS, with a lower chassis and engine/brake improvements. The archive groups both related road stages once rather than multiplying the name, body or individual car.",
+          "category": "Road-family identity",
+          "confidence": "Museum history; conservative grouping does not assert identical specification for every CGS or CGSS",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amilcar_cgss_open.jpg",
+          "caption": "Representative open Amilcar CGSS, supplied title Amilcar CGSS (1927).JPG. Duch.seb, own work, photographed 3 May 2015; Wikimedia Commons. CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ ; downloaded 1280-pixel JPEG rendition copied unchanged. The 1927 file label does not authenticate the Museo Nicolis 1928 reference, Duval coachwork, engine, gearbox, chassis, original equipment or period race history. No endorsement implied.",
+          "creator": "Duch.seb",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "1770af59f422744ebc95892993fd7d71cbc04914271441289719f1f60fbbdaec"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batch": "icons-road-2026-10-30-134",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "VAU-3098-OE-VELOX-MUSEUM1926",
+      "manufacturer": "Vauxhall",
+      "model_family": "30-98",
+      "generation": "Original 30-98 E/OE production-road sporting family",
+      "variant": "OE-Type Velox Tourer — 1926 British Motor Museum reference",
+      "model_year_from": 1926,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open sporting road tourer",
+      "road_legal": 1,
+      "specification_market": "Original Vauxhall 30-98 E/OE production-road sporting family, selected 1926 OE-Type Velox Tourer at the British Motor Museum, accession L2021-109, as the technical reference. All nine attributes come from that museum record: four cylinders, 4224 cc, 112 bhp, petrol, overhead valves, Sports Tourer and stated display-vehicle dimensions. Do not generalise body dimensions to chassis-only cars or other coachwork. Group E/OE engines, years, Velox/Wensum/other bodies and chassis once; competition specials, Prince Henry C-Type and OD 23/60 are not selected or added. No claim of authentication of an individual chassis. Manufacturer's 112 bhp and museum 112 bhp are not mixed with Hagerty's 115 bhp at 3400 rpm. No output rpm, torque, mass, braking system revision, claimed/measured acceleration, maximum speed, production or survivor total imported as technical fields. Manufacturer/museum historical 100 mph requires pared-down bodywork and high axle ratio; not this standard tourer.",
+      "summary": "The Vauxhall 30-98 is a defining early British production sports-car programme, linking Edwardian sporting engineering with the vintage high-performance road tourer. The museum and manufacturer histories identify its exceptional contemporary performance and the specially configured 100-mph offering, rather than rarity alone. Count the E/OE road family once; the selected 1926 Velox tourer does not inherit the lightweight high-axle-ratio car's speed.",
+      "admission_reason": "The Vauxhall 30-98 is a defining early British production sports-car programme, linking Edwardian sporting engineering with the vintage high-performance road tourer. The museum and manufacturer histories identify its exceptional contemporary performance and the specially configured 100-mph offering, rather than rarity alone. Count the E/OE road family once; the selected 1926 Velox tourer does not inherit the lightweight high-axle-ratio car's speed.",
+      "sources": [
+        {
+          "publisher": "British Motor Museum / British Motor Industry Heritage Trust",
+          "title": "Vauxhall OE-Type 30-98 Velox Tourer, 1926 — accession L2021-109",
+          "source_type": "Original museum collection record for the reference car",
+          "url": "https://www.britishmotormuseum.co.uk/online-collections/details-page?row_id=91714258694",
+          "notes": "Complete relevant collection entry read, including accession, engine, fuel, body, dimensions and historical text. All nine attributes map to this 1926 museum road-tourer reference; dimensions describe the collection vehicle, not every coachbuilt 30-98. Four-cylinder 4224-cc overhead-valve engine and 112 bhp preserved. Opening historical sentence calls introduction 1923 while the same text discusses pre-WWI production and a 1922 engine change; do not use it to establish family launch year. Claimed 100 mph applies only to pared-down high-ratio form. No annual production chronology, total/survivor count, price, maximum speed, hydraulic-brake generalisation or individual originality certification imported."
+        },
+        {
+          "publisher": "Vauxhall / Stellantis Media",
+          "title": "Vauxhall 30-98 — Decade-a-Day, 1 April 2020",
+          "source_type": "Original manufacturer heritage account",
+          "url": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-30-98",
+          "notes": "Complete relevant release read. Qualifies 100-mph factory warranty by high axle ratio and pared-down coachwork; standard tourer is distinct. Identifies OE268 as heritage road/events car and discusses centre throttle, heavy flywheel and weak brakes. Supports bounded sporting significance, not independent measured testing. It gives around 112 bhp versus 115 bhp in later first-person feature; selected museum 112-bhp figure is retained without borrowed rpm. No numeric acceleration, fuel consumption, top speed, production/survivor total, price or assertion that Velox/Wensum were independent coachbuilder companies imported."
+        },
+        {
+          "publisher": "Hagerty UK; Simon Hucknall",
+          "title": "Driving Britain's first ton-up car: Vauxhall's Car of grace that sets the pace — 28 April 2022",
+          "source_type": "Original first-person drive of the manufacturer heritage car with programme history",
+          "url": "https://www.hagerty.co.uk/articles/classic-car-reviews/driving-britains-first-ton-up-car-vauxhalls-car-of-grace-that-sets-the-pace/",
+          "notes": "Complete relevant article, firsthand drive and OE-type fast-facts table read. Actual driven reference is 1926 OE268 with standard Velox touring body and upright screen; first-person observations distinguish it from historic lightweight two-seat 100-mph car. Author Simon Hucknall is also named Vauxhall PR/heritage contact on source 1, so this is not represented as independent manufacturer corroboration. No table technical fields imported: 115-bhp/3400-rpm, torque, mass and 17-second acceleration differ from or exceed selected museum/manufacturer scope. Numerical output, measured Brooklands record, acceleration, speeds, values, chassis originality and totals not transferred to the selected technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons; Calreyn88",
+          "title": "File:1926 Vauxhall OE Type 30-98 Velox Tourer.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1926_Vauxhall_OE_Type_30-98_Velox_Tourer.jpg",
+          "notes": "Own-work author credit Calreyn88 in page summary and API metadata, capture 10 July 2022 at British Motor Museum. Full relevant summary/licence/file history and API metadata read; file history currently displays uploader CarspotterCal, while declared author remains Calreyn88. CC BY-SA 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/ . Downloaded 1280 x 963 JPEG rendition individually viewed and copied unchanged. Yellow Velox touring body, upright screen and museum label match intended family/body. No exact engine, gearing, year, original equipment, chassis identity or authenticity is authenticated by the image."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinder count",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4224",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum reference output",
+          "value": "112",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Fuel system",
+          "label": "Fuel",
+          "value": "Petrol",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve arrangement",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Museum reference body",
+          "value": "Sport Tourer (Velox)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum reference length",
+          "value": "4240",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum reference width",
+          "value": "1780",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Dimensions",
+          "label": "Museum reference height",
+          "value": "1610",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Vauxhall 30-98 is a defining early British production sports-car programme, linking Edwardian sporting engineering with the vintage high-performance road tourer. The museum and manufacturer histories identify its exceptional contemporary performance and the specially configured 100-mph offering, rather than rarity alone. Count the E/OE road family once; the selected 1926 Velox tourer does not inherit the lightweight high-axle-ratio car's speed.",
+          "category": "Landmark British sporting-road heritage",
+          "confidence": "Original museum collection history and qualified manufacturer account",
+          "source": 0
+        },
+        {
+          "title": "The hundred-mile-an-hour claim had conditions",
+          "explanation": "Vauxhall describes the historic 100-mph offering as requiring a high axle ratio and pared-down coachwork. That explains the sporting significance of the programme, but it is not the standard Velox touring body specification or a new measured-performance claim.",
+          "category": "Historical performance claim scope",
+          "confidence": "Original manufacturer heritage release with explicit configuration limits",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_3098_oe_velox_museum1926.jpg",
+          "caption": "Vauxhall OE-Type 30-98 Velox Tourer at the British Motor Museum, photographed 10 July 2022. Representative yellow touring body with upright windscreen; not authentication of engine, gearing, chassis, exact year or original equipment. Author credit Calreyn88, Wikimedia Commons, CC BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/); downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "60c3264365c31aac0c80300eb419064191864b9542d0b291ee1f63d8330c5af4"
+        }
+      ]
+    }
+  ]
+}

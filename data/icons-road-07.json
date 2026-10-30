@@ -1,0 +1,1062 @@
+{
+  "batch": "icons-road-2026-10-28-07",
+  "reviewed_on": "2026-10-28",
+  "expected_count": 9,
+  "cars": [
+    {
+      "id": "LAN-AURELIA-B20-S1-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Aurelia B20",
+      "generation": "Original first-series B20 GT",
+      "variant": "B20 GT — first-series 2.0-litre road coupe",
+      "model_year_from": 1951,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1951 first-series road B20, not later 2.5-litre series, Nardi-tuned car or Mille Miglia racer. The manufacturer rounds displacement to 2000 cc; the entry therefore uses the 2.0-litre class rather than inventing an exact capacity. Historical hp retained without net conversion. Photo identifies an early first-series car; repaint and coachbuilder are not certified.",
+      "summary": "The Aurelia B20 helped establish the compact 2+2 grand-tourer formula, bringing Lancia’s pioneering production-V6 lineage into a coupe with an enduring international sporting history.",
+      "admission_reason": "The Aurelia B20 helped establish the compact 2+2 grand-tourer formula, bringing Lancia’s pioneering production-V6 lineage into a coupe with an enduring international sporting history.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage / Lancia",
+          "title": "Padua 2022 — Lancia Aurelia B20 GT (1951)",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/be-nl/heritage-hub-italy/press/de-afdeling-stellantis-heritage-schittert-op-het-salon-auto-e-moto-d-epoca-in-padua",
+          "notes": "Original 1951 first-series road B20, not later 2.5-litre series, Nardi-tuned car or Mille Miglia racer. The manufacturer rounds displacement to 2000 cc; the entry therefore uses the 2.0-litre class rather than inventing an exact capacity. Historical hp retained without net conversion. Photo identifies an early first-series car; repaint and coachbuilder are not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1951 Lancia Aurelia GT 1a Serie, front left (Greenwich).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1951_Lancia_Aurelia_GT_1a_Serie,_front_left_(Greenwich).jpg",
+          "notes": "Mr.choppers; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "162",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2 occasional rear seats",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "75",
+          "unit": "hp; historical convention unspecified",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Aurelia B20 helped establish the compact 2+2 grand-tourer formula, bringing Lancia’s pioneering production-V6 lineage into a coupe with an enduring international sporting history.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_aurelia_b20_s1_road.jpg",
+          "caption": "Lancia B20 GT — first-series 2.0-litre road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "80dd83246b9e9d61864712c15d2070019502c13bd803caaaa7cfc2c248d2e65a"
+        }
+      ]
+    },
+    {
+      "id": "LAN-THEMA-832-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Thema",
+      "generation": "Original Type 834 8.32 saloon",
+      "variant": "8.32 — original Ferrari-V8 road saloon",
+      "model_year_from": 1986,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Four-door saloon",
+      "road_legal": 1,
+      "specification_market": "Original 8.32 saloon; not an ordinary Thema, rosso-corsa cosmetic Limited Edition, bespoke estate or later Chrysler-based car. General family engineering only. No output, maximum speed or torque is assigned across catalyst/market changes; no electronic suspension or powered rear-seat option is assumed.",
+      "summary": "The Thema 8.32 put a Ferrari-developed 32-valve V8 into a discreet luxury saloon, creating a distinctive performance flagship with a retractable rear spoiler.",
+      "admission_reason": "The Thema 8.32 put a Ferrari-developed 32-valve V8 into a discreet luxury saloon, creating a distinctive performance flagship with a retractable rear spoiler.",
+      "sources": [
+        {
+          "publisher": "Lancia",
+          "title": "Lancia 8.32 — original Ferrari-V8 road saloon — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.media.stellantis.com/it-it/heritage-hub-italy/press/una-giornata-a-thema-all-heritage-hub",
+          "notes": "Original 8.32 saloon; not an ordinary Thema, rosso-corsa cosmetic Limited Edition, bespoke estate or later Chrysler-based car. General family engineering only. No output, maximum speed or torque is assigned across catalyst/market changes; no electronic suspension or powered rear-seat option is assumed."
+        },
+        {
+          "publisher": "Lancia / Stellantis",
+          "title": "Retro Classics 2024 — Ferrari-developed V8 and modified crankshaft",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.media.stellantis.com/de-de/lancia/press/retro-classics-stuttgart-sonderschau-zu-runden-geburtstagen-von-lancia-thema-und-lancia-kappa",
+          "notes": "Only core 8.32 engine engineering; exhibition Limited Edition colour and special equipment are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lancia Thema 8.32 Ferrari.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lancia_Thema_8.32_Ferrari.jpg",
+          "notes": "Hotlorp at English Wikipedia; Public domain. License: . Credit: http://en.wikipedia.org/wiki/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ferrari-developed V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Retractable rear spoiler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Equipment approach",
+          "value": "Wood veneer and leather",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Crankshaft",
+          "value": "Modified for saloon refinement and reduced vibration",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Thema 8.32 put a Ferrari-developed 32-valve V8 into a discreet luxury saloon, creating a distinctive performance flagship with a retractable rear spoiler.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_thema_832_road.jpg",
+          "caption": "Lancia 8.32 — original Ferrari-V8 road saloon — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Hotlorp at English Wikipedia",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "21f300156837bc77d5acb61b897993ecfba79593718590d212c42a70d664af54"
+        }
+      ]
+    },
+    {
+      "id": "FIA-DINO-2400-COUPE",
+      "manufacturer": "Fiat",
+      "model_family": "Dino",
+      "generation": "Type 135 BC 2400 coupe",
+      "variant": "Dino Coupé 2400 — January 1972 factory reference",
+      "model_year_from": 1972,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "January 1972 German factory customer-service sheet, PDF page 1 explicitly headed Dino Coupé 2400. Its 180 DIN PS converts to 132.39 kW. Page 2 is headed Spider and is excluded. Coupe-specific 6800-rpm and 204-km/h values follow this period sheet, not museum engine figures at 6600 rpm. Original 2.0-litre Formula 2 homologation history is not attributed to a new 2.4-litre homologation.",
+      "summary": "The Fiat Dino coupe brought Ferrari’s Dino V6 collaboration into a Bertone grand tourer; the original engine programme supplied the production volume needed for Formula 2 homologation.",
+      "admission_reason": "The Fiat Dino coupe brought Ferrari’s Dino V6 collaboration into a Bertone grand tourer; the original engine programme supplied the production volume needed for Formula 2 homologation.",
+      "sources": [
+        {
+          "publisher": "Fiat Kundendienst",
+          "title": "Technische Tabellen — Fiat Dino Coupé 2400, January 1972, sheet 1",
+          "source_type": "Period factory service specifications, hosted facsimile",
+          "url": "https://www.dinoparts.com/media/pdf/downloads/FIAT-Dino_2400_Techn_tabelle.pdf",
+          "notes": "January 1972 German factory customer-service sheet, PDF page 1 explicitly headed Dino Coupé 2400. Its 180 DIN PS converts to 132.39 kW. Page 2 is headed Spider and is excluded. Coupe-specific 6800-rpm and 204-km/h values follow this period sheet, not museum engine figures at 6600 rpm. Original 2.0-litre Formula 2 homologation history is not attributed to a new 2.4-litre homologation."
+        },
+        {
+          "publisher": "Fiat / FCA Heritage",
+          "title": "Rétromobile 2018 — Fiat Dino 2400 coupé Bertone",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.media.stellantis.com/uploads/fr/FR/2018/FCA/Communiques/180126_FCA_CP1_RETROMOBILE.pdf",
+          "notes": "Dino section: Ferrari collaboration, original Formula 2 production-volume purpose and Bertone coupe design; not the adjacent Abarth 2400."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1969 Fiat Dino 2400.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1969_Fiat_Dino_2400.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "65-degree V6, type 135 C.000",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2418",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "132.39",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "204",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Weber 40 DCNF 6 or 40 DCNF 22/23 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Bertone",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Fiat Dino coupe brought Ferrari’s Dino V6 collaboration into a Bertone grand tourer; the original engine programme supplied the production volume needed for Formula 2 homologation.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_dino_2400_coupe.jpg",
+          "caption": "Fiat Dino Coupé 2400 — January 1972 factory reference — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7fa23757f8f71f98502874694ce18f4586436ae0b0d466bafcfc45073c5039a9"
+        }
+      ]
+    },
+    {
+      "id": "FIA-124-ABARTH-ROAD",
+      "manufacturer": "Fiat",
+      "model_family": "124 Abarth",
+      "generation": "Type 124 CSA road homologation series",
+      "variant": "124 Abarth Rally — 1756-cc road homologation car",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door hardtop sports car",
+      "road_legal": 1,
+      "specification_market": "1973 124 CSA production road reference. FIA Group 3 form 3059 identifies production beginning September 1972; base-form pages 1, 4–7 supply these standard specifications. 128 DIN CV converts to 94.14 kW. No optional competition extensions or later Group 4 1995-cc injection/16-valve figures are imported. Greater-than-190-km/h is not rounded into an exact maximum. Conflicting production totals are omitted.",
+      "summary": "The 124 Abarth Rally was the lightweight road homologation foundation of Fiat’s developed rally programme, whose competition derivatives won the European title in 1975.",
+      "admission_reason": "The 124 Abarth Rally was the lightweight road homologation foundation of Fiat’s developed rally programme, whose competition derivatives won the European title in 1975.",
+      "sources": [
+        {
+          "publisher": "Fiat",
+          "title": "Fiat 124 Abarth Rally — 1756-cc road homologation car — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/stories/fiat-124-abarth-rally",
+          "notes": "1973 124 CSA production road reference. FIA Group 3 form 3059 identifies production beginning September 1972; base-form pages 1, 4–7 supply these standard specifications. 128 DIN CV converts to 94.14 kW. No optional competition extensions or later Group 4 1995-cc injection/16-valve figures are imported. Greater-than-190-km/h is not rounded into an exact maximum. Conflicting production totals are omitted."
+        },
+        {
+          "publisher": "Fiat / ACI / FIA",
+          "title": "Fiat Abarth 124 Rally — base Group 3 recognition form 3059",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1600921201/homologation_form_number_3059_group_3.pdf",
+          "notes": "Base production form only, PDF pages 1 and 4–7; optional/evolution sheets excluded. Header identifies 124 CSA, engine 132 AC.4, 1756 cc; page 7 explicitly states DIN power."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Fiat 124 Abarth Rally Stradale 1X7A8035.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Fiat_124_Abarth_Rally_Stradale_1X7A8035.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1756",
+          "unit": "cc",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.8:1",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Two overhead camshafts, toothed-belt drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-barrel Weber 44 IDF 20/21 carburettors",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "94.14",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6200",
+          "unit": "rpm",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front and rear suspension",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes at all four wheels",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water cooling",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 124 Abarth Rally was the lightweight road homologation foundation of Fiat’s developed rally programme, whose competition derivatives won the European title in 1975.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_124_abarth_road.jpg",
+          "caption": "Fiat 124 Abarth Rally — 1756-cc road homologation car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2e3ef065426f041f8b928e0ef23d222f757366f3e81bda9e8b3557275ec99741"
+        }
+      ]
+    },
+    {
+      "id": "ALF-SPIDER-DUETTO-1600",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "Spider",
+      "generation": "Original round-tail 1600 Spider",
+      "variant": "1600 Spider Duetto — original 1570-cc roadster",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original 1966 1600 round-tail roadster, not 1750 Spider Veloce, later 2000 or a modern model. Manufacturer museum explicitly gives a live rear axle; it is not described as independent. The museum’s unspecified mass convention and unitless top-speed field are withheld.",
+      "summary": "The original Pininfarina round-tail Spider became an enduring Italian sports-car and cultural icon, with its appearance in The Graduate taking the Duetto identity to an international audience.",
+      "admission_reason": "The original Pininfarina round-tail Spider became an enduring Italian sports-car and cultural icon, with its appearance in The Graduate taking the Duetto identity to an international audience.",
+      "sources": [
+        {
+          "publisher": "Museo Storico Alfa Romeo",
+          "title": "1600 Spider Duetto — manufacturer museum specifications",
+          "source_type": "Manufacturer museum collection record",
+          "url": "https://www.museoalfaromeo.com/it-it/collezione/Pages/1600SpiderDuetto.aspx",
+          "notes": "Original 1966 1600 round-tail roadster, not 1750 Spider Veloce, later 2000 or a modern model. Manufacturer museum explicitly gives a live rear axle; it is not described as independent. The museum’s unspecified mass convention and unitless top-speed field are withheld."
+        },
+        {
+          "publisher": "Alfa Romeo / Stellantis",
+          "title": "Roads of Emotion at Rétromobile 2026 — original 1600 Spider",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.media.stellantis.com/em-en/alfa-romeo/press/alfa-romeo-s-roads-of-emotion-at-retromobile-2026",
+          "notes": "1600 Spider section only: 1966 model, Pininfarina design, Duetto name and The Graduate cultural association."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Arese Museo Storico Alfa Romeo 1966 1600 Spider Duetto 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Arese_Museo_Storico_Alfa_Romeo_1966_1600_Spider_Duetto_1.jpg",
+          "notes": "Zairon; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four, light-alloy block and head",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1570",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts with double-chain drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Wet sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted discs at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front; live rear axle with coil springs",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Pininfarina round-tail Spider became an enduring Italian sports-car and cultural icon, with its appearance in The Graduate taking the Duetto identity to an international audience.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_spider_duetto_1600.jpg",
+          "caption": "Alfa Romeo 1600 Spider Duetto — original 1570-cc roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Zairon",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "0a85936fdf5ae1feb8cc30db22cf9f68695e70d4c9214d3cae468213869728be"
+        }
+      ]
+    },
+    {
+      "id": "DET-PANTERA-ORIGINAL-ROAD",
+      "manufacturer": "De Tomaso",
+      "model_family": "Pantera",
+      "generation": "Original narrow-body Cleveland-V8 series",
+      "variant": "Pantera — original five-speed road coupe",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 1971 road coupe, not GTS/GT5/GT5-S, Group 4 racer or modified-engine example. Current manufacturer page has an erroneous date heading and fibreglass body claim; neither is imported. Capacity, power, dimensions, tyres and performance that may mix versions are withheld. The steel-monocoque account in the narrative and core road architecture are used.",
+      "summary": "The Pantera made the combination of Italian mid-engined chassis design and Ford V8 power a lasting supercar identity, with distribution through Ford’s Lincoln-Mercury network.",
+      "admission_reason": "The Pantera made the combination of Italian mid-engined chassis design and Ford V8 power a lasting supercar identity, with distribution through Ford’s Lincoln-Mercury network.",
+      "sources": [
+        {
+          "publisher": "De Tomaso",
+          "title": "De Tomaso Pantera — original five-speed road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.detomaso-automobili.com/legacy-models/pantera",
+          "notes": "Original 1971 road coupe, not GTS/GT5/GT5-S, Group 4 racer or modified-engine example. Current manufacturer page has an erroneous date heading and fibreglass body claim; neither is imported. Capacity, power, dimensions, tyres and performance that may mix versions are withheld. The steel-monocoque account in the narrative and core road architecture are used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1971 De Tomaso Pantera 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1971_De_Tomaso_Pantera_1.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford Cleveland V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel full monocoque",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent with unequal-length A-arms and coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Tom Tjaarda at Ghia",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Pantera made the combination of Italian mid-engined chassis design and Ford V8 power a lasting supercar identity, with distribution through Ford’s Lincoln-Mercury network.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_det_pantera_original_road.jpg",
+          "caption": "De Tomaso Pantera — original five-speed road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "65e6dd9db78d6e3a4d1746f538a95c9aafa4038a24786d5578da32dfcb5c8c7b"
+        }
+      ]
+    },
+    {
+      "id": "DET-MANGUSTA-ROAD",
+      "manufacturer": "De Tomaso",
+      "model_family": "Mangusta",
+      "generation": "Original Giugiaro/Ghia production series",
+      "variant": "Mangusta — production V8 road coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 reference within the original production family, not P70 prototype, later Qvale Mangusta or Pantera. Exact 289/302 engine, output and market-specific headlamps are not certified. Manufacturer narrative says five-speed while its table says six-speed; transmission is therefore withheld. Erroneous fibreglass-body entry and undefined weight are excluded.",
+      "summary": "The Mangusta established De Tomaso’s Giugiaro-designed mid-engined V8 road-car identity, using a backbone chassis and distinctive centrally hinged twin engine covers.",
+      "admission_reason": "The Mangusta established De Tomaso’s Giugiaro-designed mid-engined V8 road-car identity, using a backbone chassis and distinctive centrally hinged twin engine covers.",
+      "sources": [
+        {
+          "publisher": "De Tomaso",
+          "title": "De Tomaso Mangusta — production V8 road coupe — manufacturer reference",
+          "source_type": "Manufacturer archive / retrospective",
+          "url": "https://www.detomaso-automobili.com/legacy-models/mangusta",
+          "notes": "1970 reference within the original production family, not P70 prototype, later Qvale Mangusta or Pantera. Exact 289/302 engine, output and market-specific headlamps are not certified. Manufacturer narrative says five-speed while its table says six-speed; transmission is therefore withheld. Erroneous fibreglass-body entry and undefined weight are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 De Tomaso Mangusta 1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_De_Tomaso_Mangusta_1.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Ford V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-mounted, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Fully independent",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted discs at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel backbone chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Giorgetto Giugiaro at Ghia",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Engine access",
+          "value": "Two centrally hinged gullwing rear covers",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mangusta established De Tomaso’s Giugiaro-designed mid-engined V8 road-car identity, using a backbone chassis and distinctive centrally hinged twin engine covers.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_det_mangusta_road.jpg",
+          "caption": "De Tomaso Mangusta — production V8 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ce1a48f5fdd6cbe84e875a821ea70aae5bdae492266bd6b70f93b11b0a2c0500"
+        }
+      ]
+    },
+    {
+      "id": "BIZ-5300GT-STRADA-ROAD",
+      "manufacturer": "Bizzarrini",
+      "model_family": "5300 GT",
+      "generation": "Original 5300 GT Strada",
+      "variant": "5300 GT Strada — road coupe",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1968 museum Strada road reference, not Corsa racer, Iso Grifo A3/C, fibreglass America or modern Revival. The museum’s 327-cu-in and rounded 5.4-litre descriptions are not converted to a false exact cc value. Undefined historical horsepower and performance conditions are withheld. Rear De Dion is not called independent.",
+      "summary": "The 5300 GT Strada carried Bizzarrini’s competition-led weight-distribution approach into a road grand tourer, setting a Chevrolet V8 far back in an Italian-built chassis.",
+      "admission_reason": "The 5300 GT Strada carried Bizzarrini’s competition-led weight-distribution approach into a road grand tourer, setting a Chevrolet V8 far back in an Italian-built chassis.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1968 Bizzarrini 5300 GT Strada — exhibition record",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1968-bizzarrini-5300-gt-strada",
+          "notes": "1968 museum Strada road reference, not Corsa racer, Iso Grifo A3/C, fibreglass America or modern Revival. The museum’s 327-cu-in and rounded 5.4-litre descriptions are not converted to a false exact cc value. Undefined historical horsepower and performance conditions are withheld. Rear De Dion is not called independent."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Bizzarrini 5300 GT Strada IAA 2019 JM 0960.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Bizzarrini_5300_GT_Strada_IAA_2019_JM_0960.jpg",
+          "notes": "Johannes Maximilian; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Chevrolet small-block V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front-mid-mounted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "BorgWarner T-10 four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Welded sheet-steel tub",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones; rear De Dion axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "327",
+          "unit": "cu in",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 5300 GT Strada carried Bizzarrini’s competition-led weight-distribution approach into a road grand tourer, setting a Chevrolet V8 far back in an Italian-built chassis.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_biz_5300gt_strada_road.jpg",
+          "caption": "Bizzarrini 5300 GT Strada — road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Johannes Maximilian",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "e80b2d7908f7f1834fd81503f516b9f11e2f61da5d6088b9053f012cf1451977"
+        }
+      ]
+    },
+    {
+      "id": "ISO-GRIFO-GL-ROAD",
+      "manufacturer": "Iso",
+      "model_family": "Grifo",
+      "generation": "Original first-series Grifo GL",
+      "variant": "Grifo Coupé GL — Corvette 327 road coupe",
+      "model_year_from": 1966,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1966 first-series GL road reference using the brochure’s 350-rated Corvette 327 specification, not optional 300-rated tune, 7 Litri, later Ford-powered car, Series II or A3/C racer. Original undated Iso brochure, PDF page 1 only; page 2 is a different Iso Rivolta GT. Multilingual power conventions and metric/imperial performance columns disagree, so no assumed net-kW conversion or universal top speed is imported. Photo identifies a 1966 GL 350.",
+      "summary": "The Grifo combined Bertone’s low two-seat grand-touring body with GM Corvette 327 power, becoming a defining expression of the Italian-American performance-GT formula.",
+      "admission_reason": "The Grifo combined Bertone’s low two-seat grand-touring body with GM Corvette 327 power, becoming a defining expression of the Italian-American performance-GT formula.",
+      "sources": [
+        {
+          "publisher": "Iso S.p.A. Autoveicoli",
+          "title": "Iso Grifo Coupé GL / Iso Rivolta GT — original multilingual brochure, Grifo side",
+          "source_type": "Period manufacturer brochure, club-hosted facsimile",
+          "url": "https://www.isoclub-deutschland.de/wp-content/uploads/2017/02/Werbeprospekt-Iso-Grifo.pdf",
+          "notes": "1966 first-series GL road reference using the brochure’s 350-rated Corvette 327 specification, not optional 300-rated tune, 7 Litri, later Ford-powered car, Series II or A3/C racer. Original undated Iso brochure, PDF page 1 only; page 2 is a different Iso Rivolta GT. Multilingual power conventions and metric/imperial performance columns disagree, so no assumed net-kW conversion or universal top speed is imported. Photo identifies a 1966 GL 350."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1966 Iso Grifo GL 350 LC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1966_Iso_Grifo_GL_350_LC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "GM Corvette 327",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Carrozzeria Bertone",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "4.43",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "350",
+          "unit": "HP / CV / PS; period multilingual brochure",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2.50",
+          "unit": "m",
+          "source": 0
+        },
+        {
+          "section": "Fuel",
+          "label": "Tank capacity",
+          "value": "100",
+          "unit": "litres",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Grifo combined Bertone’s low two-seat grand-touring body with GM Corvette 327 power, becoming a defining expression of the Italian-American performance-GT formula.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_iso_grifo_gl_road.jpg",
+          "caption": "Iso Grifo Coupé GL — Corvette 327 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f3d572b959242cbcb8dc4a7ae048e1526b613bb0dc43be76d88d3b1d23a93004"
+        }
+      ]
+    }
+  ]
+}

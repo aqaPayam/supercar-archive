@@ -1,0 +1,743 @@
+{
+  "batch": "icons-road-2026-10-29-33",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 6,
+  "cars": [
+    {
+      "id": "TRI-GT6-MKI-IT1967",
+      "manufacturer": "Triumph",
+      "model_family": "GT6",
+      "generation": "Original six-cylinder fastback sports coupe family",
+      "variant": "Mk I — Italian brochure 374/867/IT, four-speed",
+      "model_year_from": 1967,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Standard-Triumph Italian brochure 374/867/IT, Printed in England, hosted as 1967. All nine pages rendered; specification PDF2 and development PDF3 read individually. Mk I four-speed selected. Native 95 CV al freno at 5000 rpm retained without inventing DIN/SAE equivalence. Front discs read as 246 mm, not 216 mm. Mk II Rotoflex and later Mk III suspension/output are excluded; performance interval wording differs between brochure sections, so no acceleration is imported.",
+      "summary": "The GT6 turned the Spitfire GT idea into a compact six-cylinder fastback, using the Triumph 2000 engine to recover performance lost to the closed body’s extra weight. Its distinctive bonnet bulge and direct rivalry with the MGB GT make it a defining British small GT of the 1960s.",
+      "admission_reason": "The GT6 turned the Spitfire GT idea into a compact six-cylinder fastback, using the Triumph 2000 engine to recover performance lost to the closed body’s extra weight. Its distinctive bonnet bulge and direct rivalry with the MGB GT make it a defining British small GT of the 1960s.",
+      "sources": [
+        {
+          "publisher": "Standard-Triumph / Triumph in Italy hosted facsimile",
+          "title": "Triumph GT6 — Italian sales brochure 374/867/IT",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.triumphinitaly.it/download.asp?yn0=r0&vzt=10&6E=24rp&xE=L&6F=pn6rt14vn&xF=q1p7zr06v&6G=qyqq1p7zr061&xG=t6JzxE_EMJK.2qs&6H=2ntv0n&xH=puvn8r",
+          "notes": "Original Standard-Triumph Italian brochure 374/867/IT, Printed in England, hosted as 1967. All nine pages rendered; specification PDF2 and development PDF3 read individually. Mk I four-speed selected. Native 95 CV al freno at 5000 rpm retained without inventing DIN/SAE equivalence. Front discs read as 246 mm, not 216 mm. Mk II Rotoflex and later Mk III suspension/output are excluded; performance interval wording differs between brochure sections, so no acceleration is imported."
+        },
+        {
+          "publisher": "Triumph Sports Six Club",
+          "title": "GT6 Mark I/II — development overview",
+          "source_type": "Marque model-register history",
+          "url": "https://www.tssc.org.uk/tssc/cars_final.asp?model_ID=19",
+          "notes": "Model-register account supports Spitfire GT development, Triumph 2000 six-cylinder engine and MGB GT rivalry. Broad combined Mk I/II performance, dimensions and production span do not override the selected period Mk I table."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Triumph GT6 Mk1 in Morges 2012 - 6.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Triumph_GT6_Mk1_in_Morges_2012_-_6.JPG",
+          "notes": "Akela NDE ( talk ); CC BY-SA 2.0 fr. License: https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Six-cylinder engine with pushrod-operated valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1998",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin side-draught Stromberg carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; all forward gears synchronised; selected without optional overdrive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front wishbones and coils; rear swing axles with transverse leaf spring and radius arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Hydraulic front discs, 246 mm; rear drums, 203 mm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native brochure notation at 5000 rpm",
+          "value": "95",
+          "unit": "CV al freno",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GT6 turned the Spitfire GT idea into a compact six-cylinder fastback, using the Triumph 2000 engine to recover performance lost to the closed body’s extra weight. Its distinctive bonnet bulge and direct rivalry with the MGB GT make it a defining British small GT of the 1960s.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tri_gt6_mki_it1967.jpg",
+          "caption": "Triumph GT6 Mk I photographed at Morges in 2012, with the early fastback body and low chrome bumper. Current wire wheels and extra lamps represent this survivor, not proof of the selected Italian-market tune, gearbox or mechanical originality.",
+          "creator": "Akela NDE ( talk )",
+          "license": "CC BY-SA 2.0 fr",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7eac59f7031cdd69a2b07d43b1f06a8c99ff92bc2eeb4844fdca555f02e6f386"
+        }
+      ]
+    },
+    {
+      "id": "SAA-SONETT-V4-US1968",
+      "manufacturer": "Saab",
+      "model_family": "Sonett",
+      "generation": "Original Sonett II body family, selected V4 production coupe",
+      "variant": "Sonett V4 — original 1968 USA brochure",
+      "model_year_from": 1968,
+      "model_year_to": null,
+      "origin_country": "Sweden",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original SAAB 1968 Sonett V4 USA brochure, ten-page scan. Contact sheet and PDF8/10 individually read, including USA distributor footer. Both native SAE and DIN ratings are preserved with their distinct engine speeds, not converted. Selected 1498-cc V4, not the two-stroke II, later Sonett III or 1.7-litre engine. Brochure safety superlatives and differing prose/table acceleration are not treated as independent historical proof.",
+      "summary": "The Sonett V4 gave Saab a distinctly unconventional sports car, combining front-wheel drive, a freewheel transmission and a fibreglass body over a steel chassis. Its compact V4-powered aerodynamic coupe body and standard roll bars express an individual approach to the small sports-car formula.",
+      "admission_reason": "The Sonett V4 gave Saab a distinctly unconventional sports car, combining front-wheel drive, a freewheel transmission and a fibreglass body over a steel chassis. Its compact V4-powered aerodynamic coupe body and standard roll bars express an individual approach to the small sports-car formula.",
+      "sources": [
+        {
+          "publisher": "SAAB Aktiebolag / Auto-Brochures hosted facsimile",
+          "title": "SAAB ’68 Sonett V4 — original USA sales brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Saab/Sonett/Saab_US%20Sonett_1968.pdf",
+          "notes": "Original SAAB 1968 Sonett V4 USA brochure, ten-page scan. Contact sheet and PDF8/10 individually read, including USA distributor footer. Both native SAE and DIN ratings are preserved with their distinct engine speeds, not converted. Selected 1498-cc V4, not the two-stroke II, later Sonett III or 1.7-litre engine. Brochure safety superlatives and differing prose/table acceleration are not treated as independent historical proof."
+        },
+        {
+          "publisher": "Club Sonett Sweden",
+          "title": "Sonett V4 — new engine and several improvements",
+          "source_type": "Marque model-club historical account",
+          "url": "https://www.sonettclub.se/wp_en/saab-sonett-v4-new-engine-and-several-improvements/",
+          "notes": "Model club documents the V4 change and the road sports-car purpose, especially Saab’s American image. Earlier two-stroke competition advantages do not become V4 victories. Club approximations are history only; selected USA brochure controls technical fields."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Saab Sonett V4 1968 Ulva.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Saab_Sonett_V4_1968_Ulva.jpg",
+          "notes": "Staffan Andersson; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-stroke V4 petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1498",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; all forward gears synchronised; freewheel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front caliper discs and rear 8-inch drums; diagonal dual-circuit hydraulics",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front transverse wishbones; rigid U-shaped tubular rear axle; coils and hydraulic dampers front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Fibreglass body over Swedish steel chassis",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native SAE notation at 5000 rpm",
+          "value": "73",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native DIN notation at 4700 rpm",
+          "value": "65",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Sonett V4 gave Saab a distinctly unconventional sports car, combining front-wheel drive, a freewheel transmission and a fibreglass body over a steel chassis. Its compact V4-powered aerodynamic coupe body and standard roll bars express an individual approach to the small sports-car formula.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_saa_sonett_v4_us1968.jpg",
+          "caption": "Saab Sonett V4 identified as 1968 at Ulva Kvarn, Uppsala. The original Sonett II body and raised V4 bonnet are visible. Current wheels, equipment and registration do not authenticate the selected USA specification or internal tune; this is not a Sonett III.",
+          "creator": "Staffan Andersson",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4a4d434eb7a7e01d441d6264fce78515541a1e713139e259aa97cf2272c865e7"
+        }
+      ]
+    },
+    {
+      "id": "MAT-DJET5-1108",
+      "manufacturer": "Matra",
+      "model_family": "Djet",
+      "generation": "René Bonnet / Matra original mid-engine Djet road family",
+      "variant": "Djet 5 — Lane Motor Museum 1108-cc road reference",
+      "model_year_from": 1965,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Lane Motor Museum’s own Djet 5 collection page supplies this 1108-cc OHV, water-cooled, mid-engine, rear-drive four-speed reference. Its current heading identifies 1965; this is not a VIN/date authentication of the photographed survivor. Broad production dates and counts are omitted. No unprinted power, 5S tune, Gordini Jet 6 or racing specification is imported. The universal “world’s first” claim is conservatively expressed as an early production pioneer.",
+      "summary": "The Djet was an early production mid-engine sports-car pioneer, originating with René Bonnet before Matra took over its manufacture. The Djet 5 continued this compact Renault-powered berlinetta and helped establish Matra Sports as a road-car maker. Its importance lies in its pioneering layout rather than outright engine power.",
+      "admission_reason": "The Djet was an early production mid-engine sports-car pioneer, originating with René Bonnet before Matra took over its manufacture. The Djet 5 continued this compact Renault-powered berlinetta and helped establish Matra Sports as a road-car maker. Its importance lies in its pioneering layout rather than outright engine power.",
+      "sources": [
+        {
+          "publisher": "Lane Motor Museum",
+          "title": "Matra Djet 5 — museum collection and road specifications",
+          "source_type": "Custodian museum collection account",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/matra-djet-5-1965/",
+          "notes": "Lane Motor Museum’s own Djet 5 collection page supplies this 1108-cc OHV, water-cooled, mid-engine, rear-drive four-speed reference. Its current heading identifies 1965; this is not a VIN/date authentication of the photographed survivor. Broad production dates and counts are omitted. No unprinted power, 5S tune, Gordini Jet 6 or racing specification is imported. The universal “world’s first” claim is conservatively expressed as an early production pioneer."
+        },
+        {
+          "publisher": "Matra Enthusiasts Club UK",
+          "title": "Matra FAQs — Djet identity, construction and engine families",
+          "source_type": "Marque owners’ technical reference",
+          "url": "https://matraclub.org.uk/faq4.html",
+          "notes": "Owners’ technical reference distinguishes MB8 10 Djet 5, MB8 20 5S and MB8 30 Jet 6, and describes steel backbone/framework with GRP bodywork. Used for construction only; conflicting broad production totals and survivor identification by appearance are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1965 Rene Bonnet Matra Djet 5 Lane Motor Museum.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1965_Rene_Bonnet_Matra_Djet_5_Lane_Motor_Museum.jpg",
+          "notes": "TaurusEmerald; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Renault OHV inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1108",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cooling",
+          "value": "Water-cooled",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed, museum specification",
+          "value": "100",
+          "unit": "mph",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Tubular steel backbone and outer framework with GRP bodywork",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Djet was an early production mid-engine sports-car pioneer, originating with René Bonnet before Matra took over its manufacture. The Djet 5 continued this compact Renault-powered berlinetta and helped establish Matra Sports as a road-car maker. Its importance lies in its pioneering layout rather than outright engine power.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mat_djet5_1108.jpg",
+          "caption": "Djet 5 identified as 1965 in Lane Motor Museum, photographed with its compact berlinetta body and rear engine-cover outline. The picture illustrates the museum road-car family; year, chassis identity and installed engine tune are not independently authenticated from exterior appearance.",
+          "creator": "TaurusEmerald",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "575dd101e2c5630bed6b8f71af19c7cfe3e4b598a08f2d790b72a0e6bb0bcd1c"
+        }
+      ]
+    },
+    {
+      "id": "LAN-MONTECARLO-S2-ROAD",
+      "manufacturer": "Lancia",
+      "model_family": "Montecarlo",
+      "generation": "Original Beta Montecarlo / Montecarlo mid-engine road family",
+      "variant": "Montecarlo second series — 1980 European Spider",
+      "model_year_from": 1980,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door two-seat Targa sports car",
+      "road_legal": 1,
+      "specification_market": "Factory Heritage French account covers first-series Beta Montecarlo and second-series Montecarlo. Selected 1980 European Targa/Spider, with revised grille, glazed rear buttresses and electronic ignition. Original 2-litre/twin-cam/five-speed architecture is retained; no exact displacement, rating-standard conversion or torque is invented. US Scorpion’s smaller engine, SE 030 prototype and Group 5/037 competition specifications are excluded. Source production-count arithmetic is inconsistent and is not imported.",
+      "summary": "The Montecarlo combined Pininfarina’s purpose-designed two-seat body with a transverse mid-mounted Lampredi twin-cam engine. Its architecture and styling formed a foundation for Lancia’s Group 5 Montecarlo and Rally 037 competition projects, giving the road coupe an enduring place in Lancia’s sporting history.",
+      "admission_reason": "The Montecarlo combined Pininfarina’s purpose-designed two-seat body with a transverse mid-mounted Lampredi twin-cam engine. Its architecture and styling formed a foundation for Lancia’s Group 5 Montecarlo and Rally 037 competition projects, giving the road coupe an enduring place in Lancia’s sporting history.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage",
+          "title": "Lancia Beta Montecarlo — sporting origins and road-series development",
+          "source_type": "Manufacturer historical and technical account",
+          "url": "https://www.stellantisheritage.com/fr-fr/heritage/histoires/lancia-beta-montecarlo",
+          "notes": "Factory Heritage French account covers first-series Beta Montecarlo and second-series Montecarlo. Selected 1980 European Targa/Spider, with revised grille, glazed rear buttresses and electronic ignition. Original 2-litre/twin-cam/five-speed architecture is retained; no exact displacement, rating-standard conversion or torque is invented. US Scorpion’s smaller engine, SE 030 prototype and Group 5/037 competition specifications are excluded. Source production-count arithmetic is inconsistent and is not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Lancia Montecarlo 1981.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Lancia_Montecarlo_1981.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Twin overhead camshafts; Lampredi engine family",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse, behind the passenger compartment",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed gearbox integrated with differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Unitary body designed, manufactured and assembled by Pininfarina",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Electronic ignition, second series",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pininfarina",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Montecarlo combined Pininfarina’s purpose-designed two-seat body with a transverse mid-mounted Lampredi twin-cam engine. Its architecture and styling formed a foundation for Lancia’s Group 5 Montecarlo and Rally 037 competition projects, giving the road coupe an enduring place in Lancia’s sporting history.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lan_montecarlo_s2_road.jpg",
+          "caption": "Lancia Montecarlo identified as 1981, with second-series grille, glazed rear buttresses and Targa roof panel. It illustrates the selected second-series European Spider road family. Current finish, wheels and registration do not certify an exact 1980 build, installed engine tune or mechanical originality; the adjacent Martini-liveried rally car is not this entry.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "b5a5bac729497f9b73c4e2c3130d3884b6d5b25484837b260a3fe82ce27941d5"
+        }
+      ]
+    },
+    {
+      "id": "VAU-FIRENZA-HP-ROAD",
+      "manufacturer": "Vauxhall",
+      "model_family": "Firenza",
+      "generation": "HC-derived Firenza HP Droopsnoot performance coupe",
+      "variant": "HP Droopsnoot — manufacturer heritage road reference",
+      "model_year_from": 1973,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Vauxhall’s 8 April 2020 heritage chapter identifies HP creation in 1973, five-speed first, 2279-cc slant-four and native 120-mph/7.6-second 0–60-mph claims. The claimed extra 21 bhp is not turned into an invented absolute output. Dealer Team Vauxhall context supports significance; Baby Bertha’s racing equipment/results are not assigned to the HP road car. Ordinary flat-nose Firenza/Magnum FIA paperwork is not used as an HP technical source.",
+      "summary": "The Firenza HP Droopsnoot paired distinctive aerodynamic front bodywork with a specially developed slant-four engine and Vauxhall’s first five-speed gearbox. It became a road-going flagship for the marque’s 1970s performance ambitions and Dealer Team Vauxhall era, earning its place beyond the ordinary Firenza and Magnum range.",
+      "admission_reason": "The Firenza HP Droopsnoot paired distinctive aerodynamic front bodywork with a specially developed slant-four engine and Vauxhall’s first five-speed gearbox. It became a road-going flagship for the marque’s 1970s performance ambitions and Dealer Team Vauxhall era, earning its place beyond the ordinary Firenza and Magnum range.",
+      "sources": [
+        {
+          "publisher": "Vauxhall",
+          "title": "Vauxhall Firenza HP Droopsnoot — Decade-a-Day heritage chapter, 8 April 2020",
+          "source_type": "Manufacturer heritage account and technical table",
+          "url": "https://www.media.stellantis.com/uk-en/vauxhall/press/vauxhall-firenza-hp-droopsnoot",
+          "notes": "Vauxhall’s 8 April 2020 heritage chapter identifies HP creation in 1973, five-speed first, 2279-cc slant-four and native 120-mph/7.6-second 0–60-mph claims. The claimed extra 21 bhp is not turned into an invented absolute output. Dealer Team Vauxhall context supports significance; Baby Bertha’s racing equipment/results are not assigned to the HP road car. Ordinary flat-nose Firenza/Magnum FIA paperwork is not used as an HP technical source."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Vauxhall firenza 2300 droopsnoot.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Vauxhall_firenza_2300_droopsnoot.jpg",
+          "notes": "Paul brown from england; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: vauxhall firenza  2300 droopsnoot Uploaded by oxyman"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder slant-four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2279",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Droopsnoot aerodynamic front bodywork",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Configuration",
+          "value": "Two-door coupe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed, manufacturer heritage claim",
+          "value": "120",
+          "unit": "mph",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–60 mph, manufacturer heritage claim",
+          "value": "7.6",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Firenza HP Droopsnoot paired distinctive aerodynamic front bodywork with a specially developed slant-four engine and Vauxhall’s first five-speed gearbox. It became a road-going flagship for the marque’s 1970s performance ambitions and Dealer Team Vauxhall era, earning its place beyond the ordinary Firenza and Magnum range.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vau_firenza_hp_road.jpg",
+          "caption": "Vauxhall Firenza 2300 Droopsnoot at Gaydon, viewed from the side with the bonnet raised. Represents the HP road-coupe body, not a flat-nose Magnum or Baby Bertha race car. Present wheels, engine bay and trim do not certify original gearbox, tune or build year. The photographer’s production-total wording is not used as historical evidence.",
+          "creator": "Paul brown from england",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f3dc1a4e20ea4466f4b2144ce1efc735dbf6f68d4087741947303f4a01474829"
+        }
+      ]
+    },
+    {
+      "id": "OPE-KADETT-C-GTE-19",
+      "manufacturer": "Opel",
+      "model_family": "Kadett",
+      "generation": "Kadett C GT/E rear-drive sporting coupe family",
+      "variant": "GT/E 1.9 — February 1976 base four-speed road reference",
+      "model_year_from": 1976,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original Adam Opel/ONS FIA 5624 Group 1 base, valid 1 February 1976 as handwritten on PDF1, not the web index’s 2 February date. First eighteen of 53 pages rendered; cover, base engine PDF4 and gearbox PDF5 read individually. Selected 1897-cc base with Opel four-speed; Group 2 ZF five-speed/ratios, later 1979-cc engine, extensions and race tune are excluded. Manufacturer retrospective supplies Bosch injection and native 77 kW/105 PS without relabelling 225-PS competition engines as road output.",
+      "summary": "The Kadett C GT/E revived Opel’s Rallye-Kadett tradition with Bosch fuel injection and a distinctive yellow-and-black road coupe. Its development into the works rally cars driven by Walter Röhrl and Rauno Aaltonen makes this rear-drive GT/E an important European sporting icon, rather than an admission of the ordinary Kadett range.",
+      "admission_reason": "The Kadett C GT/E revived Opel’s Rallye-Kadett tradition with Bosch fuel injection and a distinctive yellow-and-black road coupe. Its development into the works rally cars driven by Walter Röhrl and Rauno Aaltonen makes this rear-drive GT/E an important European sporting icon, rather than an admission of the ordinary Kadett range.",
+      "sources": [
+        {
+          "publisher": "Adam Opel / ONS / FIA Historic Database",
+          "title": "Opel Kadett C GT/E — original 5624 Group 1 base application",
+          "source_type": "Period manufacturer production recognition application",
+          "url": "https://historicdb.fia.com/sites/default/files/car_attachment/1600884601/homologation_form_number_5624_group_1.pdf",
+          "notes": "Original Adam Opel/ONS FIA 5624 Group 1 base, valid 1 February 1976 as handwritten on PDF1, not the web index’s 2 February date. First eighteen of 53 pages rendered; cover, base engine PDF4 and gearbox PDF5 read individually. Selected 1897-cc base with Opel four-speed; Group 2 ZF five-speed/ratios, later 1979-cc engine, extensions and race tune are excluded. Manufacturer retrospective supplies Bosch injection and native 77 kW/105 PS without relabelling 225-PS competition engines as road output."
+        },
+        {
+          "publisher": "Opel",
+          "title": "50 Jahre Opel Kadett C — Rallye-Kadett GT/E road and competition history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://www.media.stellantis.com/de-de/opel/press/50-jahre-opel-kadett-c-der-erfolgstyp-fuer-sport-und-alltag",
+          "notes": "Factory 14 September 2023 account distinguishes the 1975 1.9-litre Bosch L-Jetronic road GT/E from later works rally cars. Supplies road fuel system and power. No overall rally victory or 225-PS competition rating is assigned to this road car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Opel Kadett GT-E (5435134986).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Opel_Kadett_GT-E_(5435134986).jpg",
+          "notes": "nakhon100; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Opel Kadett GT/E"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1897",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single chain-driven camshaft in cylinder head; tappets and rocker arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Opel four-speed manual; base Group 1 selection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Steel unitary construction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front suspension; rigid rear axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder-head material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch L-Jetronic injection",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native manufacturer notation",
+          "value": "77",
+          "unit": "kW",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native manufacturer notation",
+          "value": "105",
+          "unit": "PS",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Kadett C GT/E revived Opel’s Rallye-Kadett tradition with Bosch fuel injection and a distinctive yellow-and-black road coupe. Its development into the works rally cars driven by Walter Röhrl and Rauno Aaltonen makes this rear-drive GT/E an important European sporting icon, rather than an admission of the ordinary Kadett range.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ope_kadett_c_gte_19.jpg",
+          "caption": "Yellow-and-black Opel Kadett C GT/E displayed at a classic-car show, with bonnet and boot open. Represents the early GT/E road-coupe family. Current wheels, visible equipment and restoration do not certify a particular 1976 chassis, 1897-cc engine or base four-speed; no competition tune is inferred.",
+          "creator": "nakhon100",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "deb31feee830bfa625065215dde14840116024f0b0935064bfccacd9af59998b"
+        }
+      ]
+    }
+  ]
+}

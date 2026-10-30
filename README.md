@@ -50,3 +50,43 @@ for the car list, duplicate audit, evidence limitations and repeatable import ch
 The next 50 additions cover road supercars, open-top derivatives and explicitly
 labeled factory track cars. See [the batch review](docs/supercars50.md) for the
 variant list, manufacturer sources, photo attributions and validation commands.
+
+## Curated archive and publication
+
+New additions follow the [performance-icon admission policy](docs/curation1000.md).
+Each car needs a sourced explanation of its significance, alongside its technical
+evidence and licensed photograph. One hundred and fifty-two reviewed road-icon batches add 554 cars
+to the 395-record baseline, bringing the working catalogue to 949 records.
+The latest [Wiesmann GT MF5 batch](docs/icons-road-152.md)
+adds one absent German flagship sports-GT road family, following the
+[Panoz Esperante GTLM batch](docs/icons-road-151.md). Individual reviews and
+evidence boundaries
+are recorded in [the documentation](docs), with repeatable manifests in `data`.
+The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
+adds no record while the related-model counting boundary remains pending.
+The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)
+corrects four existing image credits and source links while preserving the photos.
+The [research-queue reconciliation](docs/research-queue-reconciliation-01.md)
+links four historical holds to their later reviewed imports without adding cars.
+At the owner's request on 30 October 2026, further additions are paused and
+the current publication target is the saved 949-record catalogue. Reaching
+1,000 cars is no longer required. Existing records still need the final
+eligibility audit; the inventory count is not a certified total of unique icons.
+The [baseline audit checkpoint](docs/baseline-audit-checkpoint.md) records the
+remaining scope and identity review without changing existing records.
+The [Lamborghini identity ledger](docs/baseline-identity-review-01.md) maps 29
+existing profiles to their programme and road/racing relationships, with
+explicit evidence and counting limits.
+The [first baseline credit repair](docs/baseline-media-credits-01.md) resolves
+three F50 attribution placeholders while preserving the photographs and car data.
+A [second credit repair](docs/baseline-media-credits-02.md) resolves 27 more
+placeholders across ten profiles. A [photograph scope repair](docs/baseline-image-scope-01.md)
+qualifies five captions/lead-image flags while preserving all photographs and car data.
+
+The [F40 photo-source review](docs/baseline-f40-media-review-01.md) verifies
+all four existing photographs, preserves correct credits and image bytes, and
+clarifies caption scope and exact licence links without adding a car.
+
+Import fingerprints normalize LF/CRLF line endings for Windows/Linux portability.
+Existing LF and CRLF import markers remain accepted without rewriting the database.
+Other manifest edits still require review and are rejected on repeat import.

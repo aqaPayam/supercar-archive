@@ -1,0 +1,813 @@
+{
+  "batch": "icons-road-2026-10-29-58",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 6,
+  "cars": [
+    {
+      "id": "CAD-ATSV-MAN-US2016",
+      "manufacturer": "Cadillac",
+      "model_family": "ATS-V",
+      "generation": "Original ATS-V production-road compact-performance family",
+      "variant": "Sedan — 2016 US six-speed manual factory reference",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "GM bulletin PI1515, July 2015, 2016 ATS-V New Model Features, pages 1–3. Select the US manual sedan; coupe and automatic do not create additional counts. Final factory rating is 464 hp / 346 kW, not the preliminary 455 hp or the order guide’s inconsistent 343.3-kW conversion. No acceleration or production total is inferred. RPO LF4 is an engine code, not the later CT4-V Blackwing model name.",
+      "summary": "The ATS-V introduced twin-turbocharging to Cadillac’s V-Series in a compact, track-capable road programme. Its manual transmission with rev matching, standard electronic limited-slip differential and carbon-fibre vented hood establish a substantive American sporting-saloon landmark beyond an ordinary ATS trim.",
+      "admission_reason": "The ATS-V introduced twin-turbocharging to Cadillac’s V-Series in a compact, track-capable road programme. Its manual transmission with rev matching, standard electronic limited-slip differential and carbon-fibre vented hood establish a substantive American sporting-saloon landmark beyond an ordinary ATS trim.",
+      "sources": [
+        {
+          "publisher": "General Motors / NHTSA-hosted original bulletin",
+          "title": "2016 Cadillac ATS-V New Model Features — GM PI1515, July 2015, pages 1–3",
+          "source_type": "Manufacturer new-model technical bulletin",
+          "url": "https://static.nhtsa.gov/odi/tsbs/2015/MC-10138142-9999.pdf",
+          "notes": "GM bulletin PI1515, July 2015, 2016 ATS-V New Model Features, pages 1–3. Select the US manual sedan; coupe and automatic do not create additional counts. Final factory rating is 464 hp / 346 kW, not the preliminary 455 hp or the order guide’s inconsistent 343.3-kW conversion. No acceleration or production total is inferred. RPO LF4 is an engine code, not the later CT4-V Blackwing model name."
+        },
+        {
+          "publisher": "Car and Driver / John Pearley Huffman",
+          "title": "Tested: 2016 Cadillac ATS-V Sedan Manual — 8 June 2016",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a15101429/2016-cadillac-ats-v-sedan-manual-test-review/",
+          "notes": "First-hand manual-sedan testing supports the handling and shift-quality case, while criticising engine sound. Test-car options and measured acceleration are not transferred to the factory reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016 Cadillac ATS-V (25743067616).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_Cadillac_ATS-V_(25743067616).jpg",
+          "notes": "Greg Gjerdingen from Willmar, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2016 Cadillac ATS-V. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC with variable valve timing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Spark-ignition direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "346",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "603",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Tremec TR6060 six-speed manual (MG9)",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Standard electronic limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Carbon-fibre hood with air-extracting vent",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Shift features",
+          "value": "Active Rev Match, no-lift shifting and launch control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Engine code",
+          "value": "LF4",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The ATS-V introduced twin-turbocharging to Cadillac’s V-Series in a compact, track-capable road programme. Its manual transmission with rev matching, standard electronic limited-slip differential and carbon-fibre vented hood establish a substantive American sporting-saloon landmark beyond an ordinary ATS trim.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_atsv_man_us2016.jpg",
+          "caption": "2016 Cadillac ATS-V sedan at the Twin Cities Auto Show, photographed by Greg Gjerdingen. Hood and doors are open on this representative four-door car; the display does not certify the selected manual gearbox, tune, standard options or unchanged mechanical condition.",
+          "creator": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "88a13ceaffb4967e1320b40971f11eb1f216ce0dad6d9abab8607a8b20ed5c52"
+        }
+      ]
+    },
+    {
+      "id": "CAD-CT4V-BLACKWING-MAN2022",
+      "manufacturer": "Cadillac",
+      "model_family": "CT4-V",
+      "generation": "Original CT4-V Blackwing production-road compact-performance family",
+      "variant": "Blackwing — 2022 US standard six-speed manual",
+      "model_year_from": 2022,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original 2022 Cadillac factory factsheet. Select standard manual, not optional ten-speed automatic. Native US hp and lb-ft remain unconverted. Optional aero and Performance Data Recorder are not universal. No automatic acceleration, GM-estimated lateral figure or inferred engine internals are imported. This V6 is not the CT5-V Blackwing supercharged V8 or CT6-V 4.2-litre engine.",
+      "summary": "The CT4-V Blackwing combines a retained six-speed manual with a twin-turbo V6 and highly developed adaptive chassis. Its 2022 Car and Driver 10Best recognition, based on driving feedback and handling, supports its place among exceptional performance saloons rather than routine luxury-car variants.",
+      "admission_reason": "The CT4-V Blackwing combines a retained six-speed manual with a twin-turbo V6 and highly developed adaptive chassis. Its 2022 Car and Driver 10Best recognition, based on driving feedback and handling, supports its place among exceptional performance saloons rather than routine luxury-car variants.",
+      "sources": [
+        {
+          "publisher": "Cadillac / General Motors",
+          "title": "2022 CT4-V Blackwing — original US factory factsheet",
+          "source_type": "Manufacturer model-year factsheet",
+          "url": "https://media.cadillac.com/content/dam/Media/images/US/Vehicles/Cadillac/CT4-V_Blackwing/2022/2022%20Cadillac%20CT4-V%20Blackwing.pdf",
+          "notes": "Original 2022 Cadillac factory factsheet. Select standard manual, not optional ten-speed automatic. Native US hp and lb-ft remain unconverted. Optional aero and Performance Data Recorder are not universal. No automatic acceleration, GM-estimated lateral figure or inferred engine internals are imported. This V6 is not the CT5-V Blackwing supercharged V8 or CT6-V 4.2-litre engine."
+        },
+        {
+          "publisher": "Car and Driver / Tony Quiroga",
+          "title": "2022 Cadillac CT4-V Blackwing: Car and Driver 10Best — 17 November 2021",
+          "source_type": "Contemporary first-hand award evaluation",
+          "url": "https://www.caranddriver.com/features/a38260546/10best-2022-cadillac-ct4-v-blackwing/",
+          "notes": "First-hand award evaluation supports chassis feedback and handling, while acknowledging interior shortcomings. Inconsistent quarter-mile text and test-car figures are omitted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:22 Cadillac CT4-V Blackwing.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:22_Cadillac_CT4-V_Blackwing.jpg",
+          "notes": "HJUdall; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V6",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Standard six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Standard Magnetic Ride Control 4.0",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Electronic limited-slip rear differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo high-performance brake system",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory rated power",
+          "value": "472",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory rated torque",
+          "value": "445",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The CT4-V Blackwing combines a retained six-speed manual with a twin-turbo V6 and highly developed adaptive chassis. Its 2022 Car and Driver 10Best recognition, based on driving feedback and handling, supports its place among exceptional performance saloons rather than routine luxury-car variants.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_ct4v_blackwing_man2022.jpg",
+          "caption": "2022 Cadillac CT4-V Blackwing photographed by HJUdall at Earnhardt Cadillac in Scottsdale, Arizona. This representative early Blackwing saloon does not establish manual rather than automatic transmission, optional aero or present mechanical originality.",
+          "creator": "HJUdall",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "41ce2ea4f7310e6e8e25f5c30b7c4fcc6b6a95951657950ed06ba6a1a47973e6"
+        }
+      ]
+    },
+    {
+      "id": "REN-MEGANE-IV-TROPHYR-CH2019",
+      "manufacturer": "Renault",
+      "model_family": "Megane",
+      "generation": "Fourth-generation Megane Renault Sport production-road hatchback family",
+      "variant": "R.S. Trophy-R 300 — September 2019 Swiss factory reference",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Five-door two-seat sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Renault Suisse Italian-language brochure printed September 2019: pages 11, 15 and 20. Read the Trophy-R 300 table, not page 23’s ordinary R.S./Trophy descriptions. Optional carbon wheels and 390-mm carbon-ceramic package are not standard; 4CONTROL is not transferred. The hood material translation is ambiguous and omitted. Weight reduction and lap times are not universal configuration claims. One fourth-generation family is counted.",
+      "summary": "The fourth-generation Megane Trophy-R carries Renault Sport’s focused hot-hatch tradition into a five-door, two-seat road car. Its rear-seat deletion, lighter rear axle, manual gearbox and Torsen differential make this a substantive lightweight performance programme, distinct from the archived second- and third-generation cars.",
+      "admission_reason": "The fourth-generation Megane Trophy-R carries Renault Sport’s focused hot-hatch tradition into a five-door, two-seat road car. Its rear-seat deletion, lighter rear axle, manual gearbox and Torsen differential make this a substantive lightweight performance programme, distinct from the archived second- and third-generation cars.",
+      "sources": [
+        {
+          "publisher": "Renault Suisse SA",
+          "title": "New Renault Megane R.S. Trophy-R — September 2019 Swiss brochure, pages 11, 15 and 20",
+          "source_type": "Contemporary manufacturer brochure",
+          "url": "https://cdn.group.renault.com/ren/ch/renault-new-cars/brochures/Renault_Megane_RS_Trophy-R_BR_i.pdf.asset.pdf/1569940484584.pdf",
+          "notes": "Renault Suisse Italian-language brochure printed September 2019: pages 11, 15 and 20. Read the Trophy-R 300 table, not page 23’s ordinary R.S./Trophy descriptions. Optional carbon wheels and 390-mm carbon-ceramic package are not standard; 4CONTROL is not transferred. The hood material translation is ambiguous and omitted. Weight reduction and lap times are not universal configuration claims. One fourth-generation family is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2019 Renault Megane RS Trophy-R FOS19.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2019_Renault_Megane_RS_Trophy-R_FOS19.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged inline four-cylinder, 16 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1798",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "221",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "400",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Rear axle",
+          "value": "Lightweight H-type rear axle",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The fourth-generation Megane Trophy-R carries Renault Sport’s focused hot-hatch tradition into a five-door, two-seat road car. Its rear-seat deletion, lighter rear axle, manual gearbox and Torsen differential make this a substantive lightweight performance programme, distinct from the archived second- and third-generation cars.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ren_megane_iv_trophyr_ch2019.jpg",
+          "caption": "2019 Renault Megane R.S. Trophy-R at the Goodwood Festival of Speed, photographed by MrWalkr. This representative five-door display car illustrates the fourth-generation body; its wheels, brakes and trim do not establish the standard September 2019 Swiss configuration or a production VIN.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ec480c7dfe467e321429094cde01b0c828d0484f57f48ce428c620a31d926b45"
+        }
+      ]
+    },
+    {
+      "id": "CAD-CTSV-III-US2016",
+      "manufacturer": "Cadillac",
+      "model_family": "CTS-V",
+      "generation": "Third-generation CTS-V production-road performance-saloon family",
+      "variant": "Original 640-hp sedan — 2016 US factory reference",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original 2016 US factsheet explicitly identifies the third generation. Native SAE hp and lb-ft are retained. The 200-mph figure is a manufacturer claim, not an independent measured test. Carbon vent, splitter, spoiler and diffuser are available equipment, distinct from the standard carbon hood. No manual gearbox, optional aero, early CTS-V engine or automatic acceleration is mixed in.",
+      "summary": "The third CTS-V combined a supercharged V8 with substantial chassis development and a factory-claimed 200-mph maximum speed. Its magnetic damping, carbon-fibre hood and eight-speed transmission represent a significant new generation of Cadillac’s established performance-saloon flagship, beyond the archived earlier CTS-V cars.",
+      "admission_reason": "The third CTS-V combined a supercharged V8 with substantial chassis development and a factory-claimed 200-mph maximum speed. Its magnetic damping, carbon-fibre hood and eight-speed transmission represent a significant new generation of Cadillac’s established performance-saloon flagship, beyond the archived earlier CTS-V cars.",
+      "sources": [
+        {
+          "publisher": "Cadillac / General Motors",
+          "title": "2016 Cadillac CTS-V — original US factory factsheet",
+          "source_type": "Manufacturer model-year factsheet",
+          "url": "https://media.gm.com/content/dam/Media/microsites/product/cts-v/2016_FF_Cadillac%20CTS-V.pdf",
+          "notes": "Original 2016 US factsheet explicitly identifies the third generation. Native SAE hp and lb-ft are retained. The 200-mph figure is a manufacturer claim, not an independent measured test. Carbon vent, splitter, spoiler and diffuser are available equipment, distinct from the standard carbon hood. No manual gearbox, optional aero, early CTS-V engine or automatic acceleration is mixed in."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2019 Cadillac CTS-V Base, front left.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2019_Cadillac_CTS-V_Base,_front_left.jpg",
+          "notes": "HJUdall; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Hydra-Matic 8L90 paddle-shift eight-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Third-generation Magnetic Ride Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "SAE-certified power at 6400 rpm",
+          "value": "640",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory torque at 3600 rpm",
+          "value": "630",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Standard carbon-fibre hood",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder management",
+          "value": "Cylinder deactivation",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The third CTS-V combined a supercharged V8 with substantial chassis development and a factory-claimed 200-mph maximum speed. Its magnetic damping, carbon-fibre hood and eight-speed transmission represent a significant new generation of Cadillac’s established performance-saloon flagship, beyond the archived earlier CTS-V cars.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cad_ctsv_iii_us2016.jpg",
+          "caption": "2019 Cadillac CTS-V photographed by HJUdall at Earnhardt Chandler Cadillac in Arizona. This later third-generation representative is not a claimed 2016-built car. Visible wheels and carbon-style equipment do not certify the selected launch options, tune or unchanged mechanics.",
+          "creator": "HJUdall",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "706b7e907d4315e0467dcb9de710fb843578694d92c70ec04ec5b1032b4c4c9a"
+        }
+      ]
+    },
+    {
+      "id": "MIN-JCWGP-R56-REF2012",
+      "manufacturer": "MINI",
+      "model_family": "Hatch",
+      "generation": "Second modern MINI R56 production-road hatchback generation",
+      "variant": "John Cooper Works GP — 2012 global factory announcement reference",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door two-seat sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Global factory press kit dated 9 November 2012 describes 2012 presentation/production; 2012 denotes this reference, not an inferred US 2013 model year. Standard torque is 260 Nm; 280 Nm is temporary overboost. EDLC is brake-based control, not a mechanical limited-slip differential. Optional alternative tyres and track lap claims are omitted. Existing first modern R53 Cooper S remains one record; no separate R53 GP is added.",
+      "summary": "The R56 John Cooper Works GP turns the second modern MINI generation into a focused two-seat road hatch with adjustable coilovers and substantial racing-derived brakes. Its dedicated chassis and aerodynamic development make it an exceptional hot-hatch reference, beyond a cosmetic package of the archived R53 Cooper S.",
+      "admission_reason": "The R56 John Cooper Works GP turns the second modern MINI generation into a focused two-seat road hatch with adjustable coilovers and substantial racing-derived brakes. Its dedicated chassis and aerodynamic development make it an exceptional hot-hatch reference, beyond a cosmetic package of the archived R53 Cooper S.",
+      "sources": [
+        {
+          "publisher": "MINI / BMW Group",
+          "title": "MINI John Cooper Works GP — 2012 global factory press kit",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0131227EN/the-mini-john-cooper-works-gp",
+          "notes": "Global factory press kit dated 9 November 2012 describes 2012 presentation/production; 2012 denotes this reference, not an inferred US 2013 model year. Standard torque is 260 Nm; 280 Nm is temporary overboost. EDLC is brake-based control, not a mechanical limited-slip differential. Optional alternative tyres and track lap claims are omitted. Existing first modern R53 Cooper S remains one record; no separate R53 GP is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2013 Mini JCW GP 2.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2013_Mini_JCW_GP_2.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.6",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin-scroll turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "160",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "260",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Individually adjustable coilover suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Temporary overboost torque from 2000 rpm",
+          "value": "280",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Front brakes",
+          "value": "Six-piston fixed-caliper ventilated discs, 330 x 25 mm",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The R56 John Cooper Works GP turns the second modern MINI generation into a focused two-seat road hatch with adjustable coilovers and substantial racing-derived brakes. Its dedicated chassis and aerodynamic development make it an exceptional hot-hatch reference, beyond a cosmetic package of the archived R53 Cooper S.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_min_jcwgp_r56_ref2012.jpg",
+          "caption": "2013 MINI John Cooper Works GP 2 photographed by Calreyn88. This representative R56 road hatch is not a certified 2012-built car or US model-year specification; its photograph does not establish suspension settings, overboost state or present mechanical originality. A roof-number detail was rejected as the lead image.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4626f872ee34c1f22622eb08ccd913624aedc59a687d30408c7b02fbe211ab12"
+        }
+      ]
+    },
+    {
+      "id": "MIN-JCWGP-F56-EU2020",
+      "manufacturer": "MINI",
+      "model_family": "Hatch",
+      "generation": "Third modern MINI F56 production-road hatchback generation",
+      "variant": "John Cooper Works GP — March 2020 European introduction",
+      "model_year_from": 2020,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Three-door two-seat sporting hatchback",
+      "road_legal": 1,
+      "specification_market": "Original German 20 November 2019 release specifies March 2020 deliveries. Select its European tune and automatic, not a manual, GP concept, later GP Pack or additional body. No production total, test-development lap claim or prior-generation historical engine description is imported. The 2012 and 2020 GP references represent absent R56/F56 generations; they do not add two grades to one generation.",
+      "summary": "The F56 John Cooper Works GP takes the third modern MINI generation to a markedly more powerful two-seat road specification. Its mechanical front differential lock, dedicated chassis and extensive engine/cooling development make it an exceptional performance hatch, with substantive engineering beyond cosmetic GP styling.",
+      "admission_reason": "The F56 John Cooper Works GP takes the third modern MINI generation to a markedly more powerful two-seat road specification. Its mechanical front differential lock, dedicated chassis and extensive engine/cooling development make it an exceptional performance hatch, with substantive engineering beyond cosmetic GP styling.",
+      "sources": [
+        {
+          "publisher": "MINI / BMW Group",
+          "title": "New MINI John Cooper Works GP — original German press kit, 20 November 2019",
+          "source_type": "Contemporary manufacturer launch release / specifications",
+          "url": "https://www.press.bmwgroup.com/deutschland/article/detail/T0302703DE/der-neue-mini-john-cooper-works-gp",
+          "notes": "Original German 20 November 2019 release specifies March 2020 deliveries. Select its European tune and automatic, not a manual, GP concept, later GP Pack or additional body. No production total, test-development lap claim or prior-generation historical engine description is imported. The 2012 and 2020 GP references represent absent R56/F56 generations; they do not add two grades to one generation."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mini Hatch (F56) John Cooper Works GP 1X7A5769.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mini_Hatch_(F56)_John_Cooper_Works_GP_1X7A5769.jpg",
+          "notes": "Alexander Migl; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "225",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "450",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Eight-speed Steptronic Sport automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Integrated mechanical differential lock for the front wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau",
+          "value": "1750–4500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power plateau",
+          "value": "5000–6250",
+          "unit": "rpm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The F56 John Cooper Works GP takes the third modern MINI generation to a markedly more powerful two-seat road specification. Its mechanical front differential lock, dedicated chassis and extensive engine/cooling development make it an exceptional performance hatch, with substantive engineering beyond cosmetic GP styling.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_min_jcwgp_f56_eu2020.jpg",
+          "caption": "MINI Hatch F56 John Cooper Works GP photographed in Boblingen by Alexander Migl. This representative third-generation road hatch illustrates the GP body; visible wheel choices and trim do not certify factory launch equipment, the selected European tune or unchanged mechanical condition.",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2fe86dacced225299b7ae31f941e811576241370b2500b363c1cf006a03bc8e3"
+        }
+      ]
+    }
+  ]
+}

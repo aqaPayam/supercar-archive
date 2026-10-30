@@ -1,0 +1,243 @@
+{
+  "batch": "icons-road-2026-10-30-69",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "LAG-LG45-RAPIDE-1937-BYG7",
+      "manufacturer": "Lagonda",
+      "model_family": "LG45 Rapide",
+      "generation": "Original LG45 Meadows-six production-road sporting tourer family",
+      "variant": "Rapide — 1937 BYG 7 / chassis 12235/R, December 2020 driving reference",
+      "model_year_from": 1937,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open sporting tourer",
+      "road_legal": 1,
+      "specification_market": "First-hand feature on road-registered BYG 7, chassis 12235/R, originally published in Octane 210, December 2020. Technical fields are the feature’s selected 1937 road reference, including its stated 4453 cc. Its questionable 885 kg figure, unverified acceleration/maximum-speed claims and claimed output are omitted. Owner-specific hand-control adaptations are not standard equipment; competition LG45s, modern Rapide conversions, V12s and other body styles do not add counts.",
+      "summary": "The LG45 Rapide expressed Lagonda’s prewar sporting ambition through Frank Feeley’s distinctive open coachwork and a developed Meadows six-cylinder engine. First-hand driving finds strong low-speed response and relaxed touring pace, while noting heavy steering and disturbance from poor road cambers. Its coherent sports-tourer design and engineering give it a clear identity beyond scarcity or price.",
+      "admission_reason": "The LG45 Rapide expressed Lagonda’s prewar sporting ambition through Frank Feeley’s distinctive open coachwork and a developed Meadows six-cylinder engine. First-hand driving finds strong low-speed response and relaxed touring pace, while noting heavy steering and disturbance from poor road cambers. Its coherent sports-tourer design and engineering give it a clear identity beyond scarcity or price.",
+      "sources": [
+        {
+          "publisher": "Octane Magazine",
+          "title": "Lagonda LG45 Rapide: Undiluted class — original December 2020 road feature",
+          "source_type": "First-hand road feature and technical factfile",
+          "url": "https://www.octane-magazine.com/articles/features/lagonda-lg45-rapide-undiluted-class/",
+          "notes": "First-hand feature on road-registered BYG 7, chassis 12235/R, originally published in Octane 210, December 2020. Technical fields are the feature’s selected 1937 road reference, including its stated 4453 cc. Its questionable 885 kg figure, unverified acceleration/maximum-speed claims and claimed output are omitted. Owner-specific hand-control adaptations are not standard equipment; competition LG45s, modern Rapide conversions, V12s and other body styles do not add counts."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1937 Lagonda LG45 Rapide.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1937_Lagonda_LG45_Rapide.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Meadows inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "4453",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Pushrod-operated overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two SU HV5 carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed Lagonda G10 manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front beam axle and live rear axle; semi-elliptic springs and lever-arm dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Rod-operated drum brakes; no servo",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Steering",
+          "label": "Type",
+          "value": "Worm and peg",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Coachwork designer",
+          "value": "Frank Feeley",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The LG45 Rapide expressed Lagonda’s prewar sporting ambition through Frank Feeley’s distinctive open coachwork and a developed Meadows six-cylinder engine. First-hand driving finds strong low-speed response and relaxed touring pace, while noting heavy steering and disturbance from poor road cambers. Its coherent sports-tourer design and engineering give it a clear identity beyond scarcity or price.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_lag_lg45_rapide_1937_byg7.jpg",
+          "caption": "1937 Lagonda LG45 Rapide photographed by MrWalkr at London Concours 2022. This green representative tourer is distinct from ivory BYG 7; it does not certify chassis 12235/R, original mechanical condition, control adaptations or unchanged engine tune.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d2ebd56cbc11317b12cbdd0d85432ae9b4211bc9067d44b7ba050ea27d3a560d"
+        }
+      ]
+    },
+    {
+      "id": "INV-S-TYPE-LOWCHASSIS-1931",
+      "manufacturer": "Invicta",
+      "model_family": "4½-Litre S-Type",
+      "generation": "Original low-chassis S-Type production-road sports-tourer family",
+      "variant": "S-Type — early 1931 road programme, S91 historical catalogue reference",
+      "model_year_from": 1931,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open sports tourer",
+      "road_legal": 1,
+      "specification_market": "Early production S-Type road-tourer architecture described in the original 2022 inspected-car catalogue for road-registered 1931 S91, Sentinel. These are the catalogue’s standard-programme fields, not certification that every surviving example retains original parts. No modern continuation S314B, tuned 158 bhp competition engine, precise disputed displacement, maximum-speed slogan, unverified production total or universal rear-axle ratio is imported.",
+      "summary": "The S-Type gave Invicta a distinctive prewar sports-car identity by placing the rear axle above the chassis rails, lowering the body around a flexible Meadows six. Its emphasis on high-speed touring and effortless response was supported by developed braking and dual ignition. The low-chassis engineering and established sporting history justify one original road-family entry, without counting later continuations or racing conversions.",
+      "admission_reason": "The S-Type gave Invicta a distinctive prewar sports-car identity by placing the rear axle above the chassis rails, lowering the body around a flexible Meadows six. Its emphasis on high-speed touring and effortless response was supported by developed braking and dual ignition. The low-chassis engineering and established sporting history justify one original road-family entry, without counting later continuations or racing conversions.",
+      "sources": [
+        {
+          "publisher": "Bonhams",
+          "title": "1931 Invicta S-Type Low Chassis Sports Sentinel, S91 — Paris 3 February 2022 catalogue",
+          "source_type": "Primary inspected-vehicle catalogue and programme history",
+          "url": "https://carsd.bonhams.com/auction/27526/lot/294/one-of-the-finest-sports-cars-of-the-vintage-era1931-invicta-412-litre-s-type-low-chassis-sports-sentinel-chassis-no-s91/",
+          "notes": "Early production S-Type road-tourer architecture described in the original 2022 inspected-car catalogue for road-registered 1931 S91, Sentinel. These are the catalogue’s standard-programme fields, not certification that every surviving example retains original parts. No modern continuation S314B, tuned 158 bhp competition engine, precise disputed displacement, maximum-speed slogan, unverified production total or universal rear-axle ratio is imported."
+        },
+        {
+          "publisher": "The Invicta Car Club",
+          "title": "S Type — public model history",
+          "source_type": "Marque archive’s public model history",
+          "url": "https://theinvictacarclub.org/the-cars-the-s-type/",
+          "notes": "Public marque history corroborates the original underslung chassis, October 1930 show introduction and 9 ft 10 in wheelbase. Different body styles and axle ratios are not separate counts. No member-only archive material, quoted performance superlative or estimated production total is used."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Invicta S Type Low Chassis by Carbodies 1931.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Invicta_S_Type_Low_Chassis_by_Carbodies_1931.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Henry Meadows six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin 40 mm SU carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Twin-plug battery/coil and Scintilla magneto",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Underslung rear chassis; rear axle above frame rails",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "14-inch alloy-finned drum brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "9 ft 10 in",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The S-Type gave Invicta a distinctive prewar sports-car identity by placing the rear axle above the chassis rails, lowering the body around a flexible Meadows six. Its emphasis on high-speed touring and effortless response was supported by developed braking and dual ignition. The low-chassis engineering and established sporting history justify one original road-family entry, without counting later continuations or racing conversions.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_inv_s_type_lowchassis_1931.jpg",
+          "caption": "1931 Invicta S-Type Low Chassis with Carbodies body photographed by Calreyn88. Representative road sports tourer; the photograph does not certify Sentinel S91 identity, factory originality or unchanged mechanical specification.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "eca32203ced0d036fb8c25d4be79fda68f5260cb46564c60e334855618798a72"
+        }
+      ]
+    }
+  ]
+}

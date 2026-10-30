@@ -1,0 +1,329 @@
+{
+  "reviewed_on": "2026-10-30",
+  "car_id": "POR-CGT-980",
+  "purpose": "Repair four mismatched baseline image-source links and credits while preserving all photographs, car records and counts.",
+  "media_updates": [
+    {
+      "media_id": 14,
+      "before": {
+        "id": 14,
+        "car_id": "POR-CGT-980",
+        "media_type": "Exterior image",
+        "location": "/assets/carrera_gt_exterior.jpg",
+        "caption": "Front three-quarter view of a GT Silver Porsche Carrera GT",
+        "creator": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 1,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 30,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 14,
+        "car_id": "POR-CGT-980",
+        "media_type": "Exterior image",
+        "location": "/assets/carrera_gt_exterior.jpg",
+        "caption": "Carrera GT front view at Gallery Aaldering, photographed by Charles. Representative road car; the image does not certify paint code, engine tune or original equipment.",
+        "creator": "Charles from Port Chester, New York",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977558).jpg",
+        "is_primary": 1,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 309,
+        "scope_level": "Generation"
+      },
+      "sha256": "8e5873a8d86ee2a2781e99d85f46ae8c3021920c7520f91d03e20fb6ddd46aa2",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977558).jpg",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "match": "Byte-identical current 960px Commons rendition",
+      "credit": "Porsche Carrera GT (2005)"
+    },
+    {
+      "media_id": 15,
+      "before": {
+        "id": 15,
+        "car_id": "POR-CGT-980",
+        "media_type": "Rear image",
+        "location": "/assets/carrera_gt_rear.jpg",
+        "caption": "Rear three-quarter view showing the mesh engine cover and diffuser",
+        "creator": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 31,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 15,
+        "car_id": "POR-CGT-980",
+        "media_type": "Rear image",
+        "location": "/assets/carrera_gt_rear.jpg",
+        "caption": "Carrera GT front/side view at Gallery Aaldering, photographed by Charles. The historical asset filename says rear, but this photograph shows the front and side; no build or equipment certification is implied.",
+        "creator": "Charles from Port Chester, New York",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977573).jpg",
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 310,
+        "scope_level": "Generation"
+      },
+      "sha256": "064f445b0e7b18119b21ba319c08dda396eecdf261f0844be7d8128846c7bd93",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977573).jpg",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "match": "Byte-identical current 960px Commons rendition",
+      "credit": "Porsche Carrera GT (2005)"
+    },
+    {
+      "media_id": 16,
+      "before": {
+        "id": 16,
+        "car_id": "POR-CGT-980",
+        "media_type": "Interior image",
+        "location": "/assets/carrera_gt_interior.jpg",
+        "caption": "Carrera GT cockpit with the high-mounted wooden gear knob",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 32,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 16,
+        "car_id": "POR-CGT-980",
+        "media_type": "Interior image",
+        "location": "/assets/carrera_gt_interior.jpg",
+        "caption": "Carrera GT cockpit with its high-mounted wooden gear knob, photographed by The359. Representative interior; condition and original equipment are not certified.",
+        "creator": "The359",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior.JPG",
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 312,
+        "scope_level": "Generation"
+      },
+      "sha256": "9fac24b3e2ced216c773483cc4abb7a7a9f36cea67e7c3a8866cb8108768ea15",
+      "evidence": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior.JPG",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "match": "Byte-identical current 960px Commons rendition",
+      "credit": "Own work"
+    },
+    {
+      "media_id": 17,
+      "before": {
+        "id": 17,
+        "car_id": "POR-CGT-980",
+        "media_type": "Engine image",
+        "location": "/assets/carrera_gt_engine.jpg",
+        "caption": "The 5.7-litre naturally aspirated V10 engine bay",
+        "creator": "Ian McWilliams / Supermac1961",
+        "license": "CC BY 2.0",
+        "source_url": null,
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 33,
+        "scope_level": "Generation"
+      },
+      "after": {
+        "id": 17,
+        "car_id": "POR-CGT-980",
+        "media_type": "Engine image",
+        "location": "/assets/carrera_gt_engine.jpg",
+        "caption": "Carrera GT rear engine-cover view, photographed by BrokenSphere. The closed mesh cover does not provide an unobstructed view of the V10 or certify its tune.",
+        "creator": "BrokenSphere",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2004_silver_Porsche_Carrera_GT_engine.JPG",
+        "is_primary": 0,
+        "created_at": "2026-08-29 11:54:18",
+        "source_id": 311,
+        "scope_level": "Generation"
+      },
+      "sha256": "796be247ea83a3d1d9c85b48e2f94964b6f87fd09cac895154476b123f5bde6d",
+      "evidence": "https://commons.wikimedia.org/wiki/File:2004_silver_Porsche_Carrera_GT_engine.JPG",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "match": "Identical decoded RGB pixels at 960x720; JPEG metadata differs",
+      "credit": "Own work"
+    }
+  ],
+  "source_updates": [
+    {
+      "before": {
+        "id": 30,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT in GT Silver (3)",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_in_GT_Silver_(3).jpg",
+        "notes": "Local derivative resized to 1800 px; attribution retained.",
+        "created_at": "2026-08-29 11:54:18"
+      },
+      "after": {
+        "id": 30,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT in GT Silver (3)",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_in_GT_Silver_(3).jpg",
+        "notes": "Historical image reference retained. It does not match the current local photograph formerly linked to this source. See docs/baseline-carrera-gt-media-repair-01.md for the verified replacement attribution.",
+        "created_at": "2026-08-29 11:54:18"
+      }
+    },
+    {
+      "before": {
+        "id": 31,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT in GT Silver (4)",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_in_GT_Silver_(4).jpg",
+        "notes": "Local derivative resized to 1800 px; attribution retained.",
+        "created_at": "2026-08-29 11:54:18"
+      },
+      "after": {
+        "id": 31,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT in GT Silver (4)",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_in_GT_Silver_(4).jpg",
+        "notes": "Historical image reference retained. It does not match the current local photograph formerly linked to this source. See docs/baseline-carrera-gt-media-repair-01.md for the verified replacement attribution.",
+        "created_at": "2026-08-29 11:54:18"
+      }
+    },
+    {
+      "before": {
+        "id": 32,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT Interior 1",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior_1.jpg",
+        "notes": "Local derivative resized to 1800 px; attribution retained.",
+        "created_at": "2026-08-29 11:54:18"
+      },
+      "after": {
+        "id": 32,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT Interior 1",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior_1.jpg",
+        "notes": "Historical image reference retained. It does not match the current local photograph formerly linked to this source. See docs/baseline-carrera-gt-media-repair-01.md for the verified replacement attribution.",
+        "created_at": "2026-08-29 11:54:18"
+      }
+    },
+    {
+      "before": {
+        "id": 33,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT engine - Flickr - Supermac1961",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_engine_-_Flickr_-_Supermac1961.jpg",
+        "notes": "Local derivative resized to 1800 px; attribution retained.",
+        "created_at": "2026-08-29 11:54:18"
+      },
+      "after": {
+        "id": 33,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT engine - Flickr - Supermac1961",
+        "source_type": "Image source",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_engine_-_Flickr_-_Supermac1961.jpg",
+        "notes": "Historical image reference retained. It does not match the current local photograph formerly linked to this source. See docs/baseline-carrera-gt-media-repair-01.md for the verified replacement attribution.",
+        "created_at": "2026-08-29 11:54:18"
+      }
+    },
+    {
+      "before": {
+        "id": 309,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT (2005) (55082977558).jpg",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977558).jpg",
+        "notes": "Exterior image and licence record.",
+        "created_at": "2026-08-30 04:05:54"
+      },
+      "after": {
+        "id": 309,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT (2005) (55082977558).jpg",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977558).jpg",
+        "notes": "Charles from Port Chester, New York; CC0. Licence: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Porsche Carrera GT (2005). Correct source for the preserved local photograph; source identity verified visually and against the downloaded rendition. See docs/baseline-carrera-gt-media-repair-01.md.",
+        "created_at": "2026-08-30 04:05:54"
+      }
+    },
+    {
+      "before": {
+        "id": 310,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT (2005) (55082977573).jpg",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977573).jpg",
+        "notes": "Side image and licence record.",
+        "created_at": "2026-08-30 04:05:54"
+      },
+      "after": {
+        "id": 310,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT (2005) (55082977573).jpg",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(2005)_(55082977573).jpg",
+        "notes": "Charles from Port Chester, New York; CC0. Licence: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Porsche Carrera GT (2005). Correct source for the preserved local photograph; source identity verified visually and against the downloaded rendition. See docs/baseline-carrera-gt-media-repair-01.md.",
+        "created_at": "2026-08-30 04:05:54"
+      }
+    },
+    {
+      "before": {
+        "id": 311,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "2004 silver Porsche Carrera GT engine.JPG",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:2004_silver_Porsche_Carrera_GT_engine.JPG",
+        "notes": "Engine image and licence record.",
+        "created_at": "2026-08-30 04:05:54"
+      },
+      "after": {
+        "id": 311,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "2004 silver Porsche Carrera GT engine.JPG",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:2004_silver_Porsche_Carrera_GT_engine.JPG",
+        "notes": "BrokenSphere; CC BY-SA 3.0. Licence: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Correct source for the preserved local photograph; source identity verified visually and against the downloaded rendition. See docs/baseline-carrera-gt-media-repair-01.md.",
+        "created_at": "2026-08-30 04:05:54"
+      }
+    },
+    {
+      "before": {
+        "id": 312,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT Interior.JPG",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior.JPG",
+        "notes": "Interior by The359, CC BY-SA 3.0.",
+        "created_at": "2026-08-30 04:05:54"
+      },
+      "after": {
+        "id": 312,
+        "car_id": "POR-CGT-980",
+        "publisher": "Wikimedia Commons",
+        "title": "Porsche Carrera GT Interior.JPG",
+        "source_type": "Reusable media",
+        "url": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_Interior.JPG",
+        "notes": "The359; CC BY-SA 3.0. Licence: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work. Correct source for the preserved local photograph; source identity verified visually and against the downloaded rendition. See docs/baseline-carrera-gt-media-repair-01.md.",
+        "created_at": "2026-08-30 04:05:54"
+      }
+    }
+  ]
+}

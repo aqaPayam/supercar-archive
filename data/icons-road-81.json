@@ -1,0 +1,369 @@
+{
+  "batch": "icons-road-2026-10-30-81",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 2,
+  "cars": [
+    {
+      "id": "MAT-BAGHEERA-1294-FR1974",
+      "manufacturer": "Matra",
+      "model_family": "Bagheera",
+      "generation": "Original Matra-Simca / Talbot-Matra Bagheera production-road family",
+      "variant": "1294 cc four-speed — Chrysler France specifications dated September 1, 1974",
+      "model_year_from": 1974,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door three-seat sports coupe",
+      "road_legal": 1,
+      "specification_market": "French road-car brochure specification dated September 1, 1974 in its printed footer. Uses the 1294 cc technical panel: 84 ch DIN, not the narrative panel’s conflicting 83 cv wording. Native torque units are retained. Standard/optional trim and alloy-wheel statements are not generalized. No road performance, weight, production total, corrosion-protection guarantee, U8 prototype or competition-engine data is imported. All original Bagheera phases, engine choices and later Simca/Talbot badge versions belong to this one family.",
+      "summary": "The Bagheera made Matra’s transverse mid-engine sports-car layout work with three seats across a single front row. Its glass-fibre-reinforced polyester panels, self-supporting steel structure, independent suspension and four assisted disc brakes give that unusual packaging a substantive sporting basis. It represents a distinctive French sports-car design programme, not merely a rare trim. One original Bagheera family is counted; later engines, facelifts, Courreges trim and Talbot badging add no extra entries.",
+      "admission_reason": "The Bagheera made Matra’s transverse mid-engine sports-car layout work with three seats across a single front row. Its glass-fibre-reinforced polyester panels, self-supporting steel structure, independent suspension and four assisted disc brakes give that unusual packaging a substantive sporting basis. It represents a distinctive French sports-car design programme, not merely a rare trim. One original Bagheera family is counted; later engines, facelifts, Courreges trim and Talbot badging add no extra entries.",
+      "sources": [
+        {
+          "publisher": "Matra-Simca / Chrysler France; facsimile hosted by Brochure Catalogue Voiture Neuve / Inspirauto",
+          "title": "Matra Simca Bagheera — Invitation brochure, technical specification dated September 1, 1974",
+          "source_type": "Original manufacturer road-car brochure, hosted facsimile",
+          "url": "https://www.brochure-catalogue-voiture-neuve.fr/brochures/matra/bagheera/matra-bagheera-1973/1-FRA-09-1974-MATRA-SIMCA-BAGHEERA/",
+          "notes": "French road-car brochure specification dated September 1, 1974 in its printed footer. Uses the 1294 cc technical panel: 84 ch DIN, not the narrative panel’s conflicting 83 cv wording. Native torque units are retained. Standard/optional trim and alloy-wheel statements are not generalized. No road performance, weight, production total, corrosion-protection guarantee, U8 prototype or competition-engine data is imported. All original Bagheera phases, engine choices and later Simca/Talbot badge versions belong to this one family."
+        },
+        {
+          "publisher": "Matra",
+          "title": "La marque — Bagheera and Murena production-car history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://matra.com/marque",
+          "notes": "Actual Bagheera and Murena historical sections read. Supports the transverse mid-engine three-abreast Bagheera concept, Matra/Simca collaboration and distinct Murena successor. Numerical production totals, retrospective speed claims and absolute first-in-world claims are not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1974 MATRA SIMCA BAGHEERA, pic 2.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1974_MATRA_SIMCA_BAGHEERA,_pic_2.JPG",
+          "notes": "Alf van Beem; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1294",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two twin-barrel Weber carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.8:1, stated tolerance +/-0.2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual; all forward ratios synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse, ahead of the rear axle; inclined 15 degrees rearward",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Self-supporting pressed-steel structure with glass-fibre-reinforced polyester body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent: front longitudinal torsion bars and double transverse wishbones; rear transverse torsion bars and trailing triangular arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted front and rear discs, separate front/rear hydraulic circuits",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "Three abreast",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, DIN",
+          "value": "84",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, brochure units",
+          "value": "10.8",
+          "unit": "mkg",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "4400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2370",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Bagheera made Matra’s transverse mid-engine sports-car layout work with three seats across a single front row. Its glass-fibre-reinforced polyester panels, self-supporting steel structure, independent suspension and four assisted disc brakes give that unusual packaging a substantive sporting basis. It represents a distinctive French sports-car design programme, not merely a rare trim. One original Bagheera family is counted; later engines, facelifts, Courreges trim and Talbot badging add no extra entries.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mat_bagheera_1294_fr1974.jpg",
+          "caption": "File-identified 1974 Matra-Simca Bagheera photographed by Alf van Beem at the 2014 Nationaal Oldtimer Festival, Zandvoort. Representative early road body; the exterior does not certify the 1294 cc engine, brochure equipment, original wheels or a specific factory trim.",
+          "creator": "Alf van Beem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "21d1ab7f1c3ff140494e6f0497d9289ef38c660c93417a6dc608c2d8f35d1f9f"
+        }
+      ]
+    },
+    {
+      "id": "MAT-MURENA-22-FR1981",
+      "manufacturer": "Matra",
+      "model_family": "Murena",
+      "generation": "Original Talbot-Matra Murena production-road sports-coupe family",
+      "variant": "2.2 five-speed — French model-year 1981 brochure, edition July 15, 1980",
+      "model_year_from": 1981,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Two-door three-seat sports coupe",
+      "road_legal": 1,
+      "specification_market": "French model-year 1981 Talbot-Matra road brochure, printed edition July 15, 1980, reference 1 E 011. Selects the ordinary 2.2 column, not 1.6, kit 142 or S. The table distinguishes ISO kW from DIN ch; only native DIN power and torque are retained without silently converting the unlike standards. Some consumption entries are still marked undergoing homologation; no performance, consumption, production count, universal world-first claim or current warranty entitlement is imported. Other original Murena engines, years, tuning kits and trim add no counts.",
+      "summary": "The Murena developed Matra’s three-abreast mid-engine sports-coupe idea into a distinct successor with a five-speed transmission and a hot-dip galvanised structure. Its combination of unconventional passenger packaging, independent suspension, disc brakes and an innovative corrosion-protection process gives it lasting engineering significance within French sports-car history. One original Murena family is admitted; the 1.6, tuned 2.2, kit 142 and S versions do not create extra counts.",
+      "admission_reason": "The Murena developed Matra’s three-abreast mid-engine sports-coupe idea into a distinct successor with a five-speed transmission and a hot-dip galvanised structure. Its combination of unconventional passenger packaging, independent suspension, disc brakes and an innovative corrosion-protection process gives it lasting engineering significance within French sports-car history. One original Murena family is admitted; the 1.6, tuned 2.2, kit 142 and S versions do not create extra counts.",
+      "sources": [
+        {
+          "publisher": "Talbot-Matra / Talbot Simca; original brochure hosted by Fichier-PDF",
+          "title": "Talbot Matra Murena — model-year 1981 French brochure, edition July 15, 1980, reference 1 E 011",
+          "source_type": "Original manufacturer road-car brochure, hosted facsimile",
+          "url": "https://www.fichier-pdf.fr/2014/01/30/talbot-murena-1981-1-e-011-15-07-80/talbot-murena-1981-1-e-011-15-07-80.pdf",
+          "notes": "French model-year 1981 Talbot-Matra road brochure, printed edition July 15, 1980, reference 1 E 011. Selects the ordinary 2.2 column, not 1.6, kit 142 or S. The table distinguishes ISO kW from DIN ch; only native DIN power and torque are retained without silently converting the unlike standards. Some consumption entries are still marked undergoing homologation; no performance, consumption, production count, universal world-first claim or current warranty entitlement is imported. Other original Murena engines, years, tuning kits and trim add no counts."
+        },
+        {
+          "publisher": "Matra",
+          "title": "La marque — Murena production-car history",
+          "source_type": "Manufacturer historical account",
+          "url": "https://matra.com/marque",
+          "notes": "Actual manufacturer history read: distinct 1980 Bagheera successor, three front seats, new manufacturing facilities and hot-dip galvanising. Used for admission context, not absolute first-in-world, speed, power or production-total claims."
+        },
+        {
+          "publisher": "Lane Motor Museum",
+          "title": "Matra Murena — 1983, collection vehicle and engineering history",
+          "source_type": "Museum collection / engineering history",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/matra-murena-1983/",
+          "notes": "Actual collection page read. Corroborates the distinct successor, three-abreast mid-engine body, five-speed and galvanising process. Its museum-car numerical specifications, production figure and speed are not substituted for the selected French 1981 brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1983 Talbot-Matra Murena 2.2 (8949159966).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1983_Talbot-Matra_Murena_2.2_(8949159966).jpg",
+          "notes": "Niels de Wit from Lunteren, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1983 Talbot-Matra Murena 2.2. Downloaded rendition copied unchanged."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "2.2-litre petrol engine, brochure reference",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2155",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual, forward ratios synchromesh",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "Three front seats; centre backrest folds to form an armrest",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Hot-dip galvanised metal structure",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent: front longitudinal torsion bars and double wishbones; rear oblique-axis trailing arms with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Servo-assisted front and rear discs with floating calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single twin-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.45:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Electronic ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, DIN",
+          "value": "118",
+          "unit": "ch",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, DIN brochure units",
+          "value": "18.5",
+          "unit": "m.daN",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak",
+          "value": "3000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2435",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Murena developed Matra’s three-abreast mid-engine sports-coupe idea into a distinct successor with a five-speed transmission and a hot-dip galvanised structure. Its combination of unconventional passenger packaging, independent suspension, disc brakes and an innovative corrosion-protection process gives it lasting engineering significance within French sports-car history. One original Murena family is admitted; the 1.6, tuned 2.2, kit 142 and S versions do not create extra counts.",
+          "category": "Historical significance",
+          "confidence": "Source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mat_murena_22_fr1981.jpg",
+          "caption": "File-identified 1983 Talbot-Matra Murena 2.2 photographed by Niels de Wit. Representative original road-coupe body from a later reference year; the exterior does not certify the selected French 1981 engine tune, equipment, gearbox internals or originality.",
+          "creator": "Niels de Wit from Lunteren, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "f3a26844e778789398546da36dae15976346b8e880cc3903ec66fbbef5d2735a"
+        }
+      ]
+    }
+  ]
+}

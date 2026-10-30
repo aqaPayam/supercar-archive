@@ -1,0 +1,1645 @@
+{
+  "batch": "icons-road-2026-10-29-08",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 14,
+  "cars": [
+    {
+      "id": "FOR-MUSTANG-BOSS302-S197",
+      "manufacturer": "Ford",
+      "model_family": "Mustang",
+      "generation": "S197 Boss 302 production series",
+      "variant": "Boss 302 — standard 2012 road coupe",
+      "model_year_from": 2012,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 2012 standard Boss 302, Equipment Group 500A, not Laguna Seca, Boss 302R racer or Shelby GT500. Final brochure page 18 supersedes the early 440-hp estimate. Optional Torsen/Recaro equipment is not assumed. The Laguna Seca customer-installed splitter is track-only and is not described as standard road-legal hardware. Generic V6/GT dimensions are excluded.",
+      "summary": "The revived Boss 302 developed the Mustang into a focused naturally aspirated road-and-circuit car, with a dedicated high-revving V8, adjustable dampers and uprated brakes.",
+      "admission_reason": "The revived Boss 302 developed the Mustang into a focused naturally aspirated road-and-circuit car, with a dedicated high-revving V8, adjustable dampers and uprated brakes.",
+      "sources": [
+        {
+          "publisher": "Ford",
+          "title": "2012 Ford Mustang — final US sales brochure, Boss 302 equipment",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Ford/Mustang/Ford_US%20Mustang_2012.pdf",
+          "notes": "US 2012 standard Boss 302, Equipment Group 500A, not Laguna Seca, Boss 302R racer or Shelby GT500. Final brochure page 18 supersedes the early 440-hp estimate. Optional Torsen/Recaro equipment is not assumed. The Laguna Seca customer-installed splitter is track-only and is not described as standard road-legal hardware. Generic V6/GT dimensions are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2012 Ford Mustang Boss 302 coupe -- 11-10-2011.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2012_Ford_Mustang_Boss_302_coupe_--_11-10-2011.jpg",
+          "notes": "IFCAR; Public domain. License: . Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "5.0-litre high-output Ti-VCT V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip rear differential, 3.73:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Five-setting adjustable shocks and struts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo four-piston front calipers; 14-inch vented front rotors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7400",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "444",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer torque notation",
+          "value": "380 at 4500 rpm",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Layout",
+          "value": "Two side and two rear outlets",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The revived Boss 302 developed the Mustang into a focused naturally aspirated road-and-circuit car, with a dedicated high-revving V8, adjustable dampers and uprated brakes.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_mustang_boss302_s197.jpg",
+          "caption": "Ford Boss 302 — standard 2012 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "IFCAR",
+          "license": "Public domain",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4018af81937249c985acfd92772d1c712c2040d31e0876c26f4892c6857a4bba"
+        }
+      ]
+    },
+    {
+      "id": "FOR-MUSTANG-GT350R-S550",
+      "manufacturer": "Ford",
+      "model_family": "Mustang",
+      "generation": "S550 original GT350R road series",
+      "variant": "Shelby GT350R — 2016 production road fastback",
+      "model_year_from": 2016,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 2016 GT350R, not the four-seat GT350, Shelby American aftermarket conversion or a racing Mustang. Original Ford technical sheet pages 1–2; R-specific wheels and two seats only from the R column. The former Ford media URL now redirects; this facsimile preserves the original factory document. Photo identifies a 2016–2020 GT350R, not an independently authenticated reference-year build.",
+      "summary": "The GT350R paired Ford’s high-revving flat-plane-crank V8 with carbon-fibre wheels and a focused two-seat chassis, creating a distinctive road-going Mustang performance landmark.",
+      "admission_reason": "The GT350R paired Ford’s high-revving flat-plane-crank V8 with carbon-fibre wheels and a focused two-seat chassis, creating a distinctive road-going Mustang performance landmark.",
+      "sources": [
+        {
+          "publisher": "Ford",
+          "title": "2016 Ford Shelby GT350 / GT350R — original technical specifications",
+          "source_type": "Manufacturer technical sheet, hosted facsimile",
+          "url": "https://billswebspace.com/gt350-gt350r-tech-specs.pdf",
+          "notes": "US 2016 GT350R, not the four-seat GT350, Shelby American aftermarket conversion or a racing Mustang. Original Ford technical sheet pages 1–2; R-specific wheels and two seats only from the R column. The former Ford media URL now redirects; this facsimile preserves the original factory document. Photo identifies a 2016–2020 GT350R, not an independently authenticated reference-year build."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016–2020 Ford Shelby GT350R, Golden Super Cruise 2026-09-05.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016%E2%80%932020_Ford_Shelby_GT350R,_Golden_Super_Cruise_2026-09-05.jpg",
+          "notes": "Xnatedawgx; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree flat-plane-crank V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5163",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "12.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC with twin independent variable camshaft timing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Port fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Tremec TR-3160 six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Torsen limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "7500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "526",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Material",
+          "value": "Carbon fibre",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GT350R paired Ford’s high-revving flat-plane-crank V8 with carbon-fibre wheels and a focused two-seat chassis, creating a distinctive road-going Mustang performance landmark.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_mustang_gt350r_s550.jpg",
+          "caption": "Ford Shelby GT350R — 2016 production road fastback — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Xnatedawgx",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "3382eafadc1b5d50d24e62df73a7dba2eaf72080dc85ecc9243be8b0228ff7ff"
+        }
+      ]
+    },
+    {
+      "id": "DOD-VIPER-GEN1-RT10",
+      "manufacturer": "Dodge",
+      "model_family": "Viper",
+      "generation": "Original first-generation RT/10",
+      "variant": "RT/10 — 1992 production roadster",
+      "model_year_from": 1992,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "Original 1992 first-generation production RT/10 roadster. The museum documents its original, low-mileage 1992 example and minimal equipment. Its collection page incorrectly calls the body a coupe; that field is rejected. A purported 1992 brochure with 400-cu-in engine, five-speed gearbox and torsion bars describes pre-production hardware and is excluded. No later GTS or ACR data is transferred.",
+      "summary": "The original Viper established Dodge’s uncompromising V10 roadster identity, combining a large V10 engine and manual transmission with deliberately minimal comfort equipment.",
+      "admission_reason": "The original Viper established Dodge’s uncompromising V10 roadster identity, combining a large V10 engine and manual transmission with deliberately minimal comfort equipment.",
+      "sources": [
+        {
+          "publisher": "American Muscle Car Museum",
+          "title": "1992 Dodge Viper RT/10 — original-car video description",
+          "source_type": "Museum-owned vehicle record",
+          "url": "https://www.americanmusclecarmuseum.com/muscle-car-videos/1992-dodge-viper-rt-10.html",
+          "notes": "Original 1992 first-generation production RT/10 roadster. The museum documents its original, low-mileage 1992 example and minimal equipment. Its collection page incorrectly calls the body a coupe; that field is rejected. A purported 1992 brochure with 400-cu-in engine, five-speed gearbox and torsion bars describes pre-production hardware and is excluded. No later GTS or ACR data is transferred."
+        },
+        {
+          "publisher": "American Muscle Car Museum",
+          "title": "1992 Dodge Viper RT/10 — documented original collection car",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.americanmusclecarmuseum.com/dodge-vehicles/398-1992-dodge-viper-rt-10.html",
+          "notes": "Engine capacity and original advertised power only; erroneous coupe label is not imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1992 Dodge Viper Petersen Automotive Museum.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1992_Dodge_Viper_Petersen_Automotive_Museum.jpg",
+          "notes": "TaurusEmerald; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V10",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Climate",
+          "label": "Air conditioning",
+          "value": "Not fitted in this original 1992 specification",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Safety",
+          "label": "Airbags",
+          "value": "Not fitted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Power windows",
+          "value": "Not fitted",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "8.0",
+          "unit": "litres",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Museum power notation",
+          "value": "400",
+          "unit": "hp",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Viper established Dodge’s uncompromising V10 roadster identity, combining a large V10 engine and manual transmission with deliberately minimal comfort equipment.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_viper_gen1_rt10.jpg",
+          "caption": "Dodge RT/10 — 1992 production roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "TaurusEmerald",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a4a8c9a21719c336f7916f2bcea3041426f91c4614d66eeabaaa04dbf215d1ad"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CORVETTE-C1-FUELIE",
+      "manufacturer": "Chevrolet",
+      "model_family": "Corvette",
+      "generation": "First-generation 1957 fuel-injection specification",
+      "variant": "C1 Fuel Injection — 283 bhp competition-cam roadster",
+      "model_year_from": 1957,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door roadster",
+      "road_legal": 1,
+      "specification_market": "1957 production fuel-injected roadster with the optional competition camshaft, not the 250-bhp injection tune, 270-bhp dual-carburettor engine or SS racer. Factory AMA sheets 2/2A/4, PDF pages 28/27/25, specify the combination and test accessories. Advertised gross-era output is retained without modern net-kW conversion; transmission and racing Airbox equipment are not assumed.",
+      "summary": "The 1957 fuel-injected Corvette helped establish the model’s serious performance identity, matching its advertised 283 horsepower to 283 cubic inches through injection and a developed camshaft.",
+      "admission_reason": "The 1957 fuel-injected Corvette helped establish the model’s serious performance identity, matching its advertised 283 horsepower to 283 cubic inches through injection and a developed camshaft.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "1957 Corvette — factory AMA specifications, fuel injection with optional camshaft",
+          "source_type": "Period manufacturer specifications",
+          "url": "https://www.gm.com/content/dam/company/no_search/heritage-archive-docs/vehicle-information-kits/chevrolet/1957-Chevrolet-Corvette.pdf",
+          "notes": "1957 production fuel-injected roadster with the optional competition camshaft, not the 250-bhp injection tune, 270-bhp dual-carburettor engine or SS racer. Factory AMA sheets 2/2A/4, PDF pages 28/27/25, specify the combination and test accessories. Advertised gross-era output is retained without modern net-kW conversion; transmission and racing Airbox equipment are not assumed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1957 Chevrolet Corvette C1 Fuel Injection LC24.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Corvette_C1_Fuel_Injection_LC24.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "283",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "283",
+          "unit": "bhp; SAE gross-era test convention",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Tappets",
+          "value": "Mechanical with optional competition camshaft",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 1957 fuel-injected Corvette helped establish the model’s serious performance identity, matching its advertised 283 horsepower to 283 cubic inches through injection and a developed camshaft.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_corvette_c1_fuelie.jpg",
+          "caption": "Chevrolet C1 Fuel Injection — 283 bhp competition-cam roadster — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a4a8abe6b09e80ee1a3a3c2cd039a9057e00d8e4acba81c5be725212e01d3fed"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CORVETTE-C2-SPLITWINDOW",
+      "manufacturer": "Chevrolet",
+      "model_family": "Corvette",
+      "generation": "Second-generation original split-window coupe",
+      "variant": "C2 Sting Ray — 1963 fuel-injected road coupe",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1963 fuel-injected C2 road coupe, not the Grand Sport racer, a Z06-specific equipment certification or later C2 big-block. GM collection’s 5000-rpm power-peak field is withheld pending period confirmation. Undefined mass is omitted. Representative photo may show later wheels/exhaust accessories; these do not certify original 1963 equipment.",
+      "summary": "The first Sting Ray introduced Corvette’s production coupe and independent rear suspension, with the 1963 split rear window becoming one of the model’s defining design signatures.",
+      "admission_reason": "The first Sting Ray introduced Corvette’s production coupe and independent rear suspension, with the 1963 split rear window becoming one of the model’s defining design signatures.",
+      "sources": [
+        {
+          "publisher": "General Motors Heritage",
+          "title": "1963 Chevrolet Corvette Sting Ray Coupe — collection history",
+          "source_type": "Manufacturer heritage collection record",
+          "url": "https://www.gm.com/heritage/collection/chevrolet/1963-chevrolet-corvette",
+          "notes": "1963 fuel-injected C2 road coupe, not the Grand Sport racer, a Z06-specific equipment certification or later C2 big-block. GM collection’s 5000-rpm power-peak field is withheld pending period confirmation. Undefined mass is omitted. Representative photo may show later wheels/exhaust accessories; these do not certify original 1963 equipment."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1963 Chevrolet Corvette Sting Ray Sport Coupe, front left, 06-24-2024.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe,_front_left,_06-24-2024.jpg",
+          "notes": "MercurySable99; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent rear suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "327",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Rear glazing",
+          "value": "Split rear window",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "98.0",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "360",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first Sting Ray introduced Corvette’s production coupe and independent rear suspension, with the 1963 split rear window becoming one of the model’s defining design signatures.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_corvette_c2_splitwindow.jpg",
+          "caption": "Chevrolet C2 Sting Ray — 1963 fuel-injected road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MercurySable99",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "05e4e20f2a6dc11f37b5f7d6fe50a6cc60d9bae74c0fde502274e926007e8b13"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CORVETTE-C3-LT1",
+      "manufacturer": "Chevrolet",
+      "model_family": "Corvette",
+      "generation": "Third-generation original LT-1 series",
+      "variant": "C3 Stingray LT-1 — 1971 four-speed road coupe",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 1971 LT-1 road coupe, not L88, LT-1 racer, standard 270-hp 350 or 454 LS5/LS6. Original January 1971 Chevrolet brochure scans, printed pages 5, 7, 11–12 (site images 4, 6, 10–11). LT-1 table offers only four-speed manual and no air conditioning. A museum listing’s automatic claim is rejected. Gross-era 330 hp is not converted to net kW; no conflicting retrospective net rating is imported.",
+      "summary": "The original LT-1 made a performance camshaft and mechanical valve lifters central to small-block C3 performance, combining focused engine development with the Stingray’s distinctive styling and independent chassis.",
+      "admission_reason": "The original LT-1 made a performance camshaft and mechanical valve lifters central to small-block C3 performance, combining focused engine development with the Stingray’s distinctive styling and independent chassis.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "1971 Corvette — original January 1971 factory brochure scans",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://vette-vues.com/1971-chevrolet-corvette-stingray-brochure/",
+          "notes": "US 1971 LT-1 road coupe, not L88, LT-1 racer, standard 270-hp 350 or 454 LS5/LS6. Original January 1971 Chevrolet brochure scans, printed pages 5, 7, 11–12 (site images 4, 6, 10–11). LT-1 table offers only four-speed manual and no air conditioning. A museum listing’s automatic claim is rejected. Gross-era 330 hp is not converted to net kW; no conflicting retrospective net rating is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Chevrolet Corvette LT1 Stingray Coupé (C3, 1971) (54560177285).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_LT1_Stingray_Coup%C3%A9_(C3,_1971)_(54560177285).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Chevrolet Corvette LT1 Stingray Coupé (C3, 1971)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LT-1 Turbo-Fire V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Close-ratio four-speed manual, 2.20:1 first",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Positraction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Fully independent; transverse rear leaf spring",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Two removable coupe roof panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "350",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "330",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Tappets",
+          "value": "Mechanical valve lifters",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Climate",
+          "label": "Air conditioning",
+          "value": "Unavailable with LT-1",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original LT-1 made a performance camshaft and mechanical valve lifters central to small-block C3 performance, combining focused engine development with the Stingray’s distinctive styling and independent chassis.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_corvette_c3_lt1.jpg",
+          "caption": "Chevrolet C3 Stingray LT-1 — 1971 four-speed road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "adc785815df501cc9f6c94451064d2bad1e16612b978b8894de939e0bb97b059"
+        }
+      ]
+    },
+    {
+      "id": "CHE-CORVETTE-C5-Z06",
+      "manufacturer": "Chevrolet",
+      "model_family": "Corvette",
+      "generation": "Fifth-generation original LS6 Z06",
+      "variant": "C5 Z06 — original 2001 road coupe",
+      "model_year_from": 2001,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 2001 LS6 Z06 fixed-roof road coupe, not later 405-hp update, standard LS1 hatchback or aftermarket conversion. Factory brochure PDF pages 5 and 17 (printed 8–9 and 32–33). Z06 column only; optional coupe/convertible damping, removable roof and magnesium wheels are not assumed. Representative photograph does not certify stock wheels or engine tune.",
+      "summary": "The C5 Z06 revived the Z06 name around a developed LS6 V8, dedicated FE4 suspension and lightweight titanium exhaust hardware, establishing the modern Z06 road-car lineage.",
+      "admission_reason": "The C5 Z06 revived the Z06 name around a developed LS6 V8, dedicated FE4 suspension and lightweight titanium exhaust hardware, establishing the modern Z06 road-car lineage.",
+      "sources": [
+        {
+          "publisher": "Chevrolet",
+          "title": "2001 Corvette — US factory sales brochure, LS6 and Z06 equipment",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Chevrolet/Corvette/Chevrolet_US%20Corvette_2001.pdf",
+          "notes": "US 2001 LS6 Z06 fixed-roof road coupe, not later 405-hp update, standard LS1 hatchback or aftermarket conversion. Factory brochure PDF pages 5 and 17 (printed 8–9 and 32–33). Z06 column only; optional coupe/convertible damping, removable roof and magnesium wheels are not assumed. Representative photograph does not certify stock wheels or engine tune."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2001 Chevrolet Corvette Z06 in Milenium Yellow, Front Right, 07-23-2022.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2001_Chevrolet_Corvette_Z06_in_Milenium_Yellow,_Front_Right,_07-23-2022.jpg",
+          "notes": "Elise240SX; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "LS6 V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.7",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "FE4; fully independent with transverse springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "6000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer power notation",
+          "value": "385",
+          "unit": "hp",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Material",
+          "value": "Titanium mufflers and tailpipes",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The C5 Z06 revived the Z06 name around a developed LS6 V8, dedicated FE4 suspension and lightweight titanium exhaust hardware, establishing the modern Z06 road-car lineage.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_corvette_c5_z06.jpg",
+          "caption": "Chevrolet C5 Z06 — original 2001 road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Elise240SX",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2f2298a90af9742bd8f6c61bf8c9bba2028e764581bdea8b22da05dbfa09afaf"
+        }
+      ]
+    },
+    {
+      "id": "PON-GTO-1964-ROAD",
+      "manufacturer": "Pontiac",
+      "model_family": "GTO",
+      "generation": "Original Tempest LeMans GTO option series",
+      "variant": "GTO — 1964 389 four-barrel road coupe",
+      "model_year_from": 1964,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 1964 GTO-option road coupe with standard 325-bhp four-barrel and three-speed manual, not optional Tri-Power, close-ratio four-speed, automatic or later Judge. Factory brochure reprinted 4/17/64, PDF pages 3–4. Shipping weight is not treated as curb weight; advertised period power is not converted to modern net kW.",
+      "summary": "The original Tempest LeMans GTO helped establish the American muscle-car formula by putting a large performance V8, dual exhaust and a developed chassis into an intermediate road car.",
+      "admission_reason": "The original Tempest LeMans GTO helped establish the American muscle-car formula by putting a large performance V8, dual exhaust and a developed chassis into an intermediate road car.",
+      "sources": [
+        {
+          "publisher": "Pontiac / General Motors",
+          "title": "1964 Pontiac GTO — original factory brochure, reprinted 17 April 1964",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2022/12/1964-Pontiac-GTO-V2-Brochure-1-8C.pdf",
+          "notes": "US 1964 GTO-option road coupe with standard 325-bhp four-barrel and three-speed manual, not optional Tri-Power, close-ratio four-speed, automatic or later Judge. Factory brochure reprinted 4/17/64, PDF pages 3–4. Shipping weight is not treated as curb weight; advertised period power is not converted to modern net kW."
+        },
+        {
+          "publisher": "General Motors Heritage",
+          "title": "1964 Pontiac Tempest LeMans GTO — historical significance",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://www.gm.com/heritage/collection/pontiac/1964-pontiac-gto",
+          "notes": "GTO performance-saloon formula and original 389/325 identity; its broader historical claim is expressed conservatively here."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1964 Pontiac GTO (1143525157).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1964_Pontiac_GTO_(1143525157).jpg",
+          "notes": "Joe Ross from Lansing, Michigan; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: 1964 Pontiac GTO"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.75:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Standard three-speed manual with Hurst floor shifter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent ball-joint front; four-link rear with coil springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "389",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "325",
+          "unit": "bhp; gross-era rating",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Layout",
+          "value": "Dual exhaust",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Tempest LeMans GTO helped establish the American muscle-car formula by putting a large performance V8, dual exhaust and a developed chassis into an intermediate road car.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_pon_gto_1964_road.jpg",
+          "caption": "Pontiac GTO — 1964 389 four-barrel road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Joe Ross from Lansing, Michigan",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "c2db8edc93e20da7363bb9c66efb116f4e884434da8b65eed1828d7e62e31afd"
+        }
+      ]
+    },
+    {
+      "id": "BUI-GSX-STAGE1-1970",
+      "manufacturer": "Buick",
+      "model_family": "GSX",
+      "generation": "Original GSX Stage 1 production series",
+      "variant": "GSX Stage 1 — 1970 four-speed road coupe",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 1970 GSX with Stage 1 and standard four-speed, not base 350-hp GSX or lower-compression 1971 tune. Original Buick brochure specification page, PDF page 3, Stage 1 column only. No speculative hidden horsepower, generic GSX performance times or cosmetic colour variant is imported. Photo identifies a restored 1970 Stage 1; original engine and transmission are not certified.",
+      "summary": "The GSX Stage 1 expressed Buick’s peak classic muscle-car engineering through a developed 455 V8, uprated camshaft, limited-slip axle and dedicated chassis package.",
+      "admission_reason": "The GSX Stage 1 expressed Buick’s peak classic muscle-car engineering through a developed 455 V8, uprated camshaft, limited-slip axle and dedicated chassis package.",
+      "sources": [
+        {
+          "publisher": "Buick / General Motors",
+          "title": "1970 GSX by Buick — factory brochure, Stage 1 specification column",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://over-drive-magazine.com/wp-content/uploads/2022/11/1970-Buick-GSX-Brochure-1-4C.pdf",
+          "notes": "US 1970 GSX with Stage 1 and standard four-speed, not base 350-hp GSX or lower-compression 1971 tune. Original Buick brochure specification page, PDF page 3, Stage 1 column only. No speculative hidden horsepower, generic GSX performance times or cosmetic colour variant is imported. Photo identifies a restored 1970 Stage 1; original engine and transmission are not certified."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Buick Skylark GSX 455 Stage 1 (1970) (52960912610).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Buick_Skylark_GSX_455_Stage_1_(1970)_(52960912610).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Buick Skylark GSX 455 Stage 1 (1970)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Rochester Quadrajet four-barrel",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Positive Traction limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power-assisted vented front discs and rear drums",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "4600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "455",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "360",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The GSX Stage 1 expressed Buick’s peak classic muscle-car engineering through a developed 455 V8, uprated camshaft, limited-slip axle and dedicated chassis package.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bui_gsx_stage1_1970.jpg",
+          "caption": "Buick GSX Stage 1 — 1970 four-speed road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "31c55edc804b36f81f9a137e7f001f69ee760420f592d7067150a2da8c9431dc"
+        }
+      ]
+    },
+    {
+      "id": "DOD-CHARGER-DAYTONA-ROAD",
+      "manufacturer": "Dodge",
+      "model_family": "Charger",
+      "generation": "Second-generation Daytona road homologation series",
+      "variant": "Charger Daytona — 1969 440 four-speed road car",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1969 production Daytona 440 road reference, not ordinary Charger R/T, Charger 500, modern Daytona or a NASCAR racer. The documented museum example carries A34 Super Track Pak; its gearing and brakes are explicit configuration choices. NASCAR speed/season-win claims do not become road performance figures. Photo engine output and uniqueness claims are not used as technical evidence.",
+      "summary": "The Charger Daytona made radical nose-and-wing aerodynamics central to Dodge’s stock-car homologation programme, creating one of the most recognizable American performance road cars.",
+      "admission_reason": "The Charger Daytona made radical nose-and-wing aerodynamics central to Dodge’s stock-car homologation programme, creating one of the most recognizable American performance road cars.",
+      "sources": [
+        {
+          "publisher": "American Muscle Car Museum",
+          "title": "1969 Dodge Charger Daytona — documented road-car collection record",
+          "source_type": "Museum-owned vehicle record",
+          "url": "https://www.americanmusclecarmuseum.com/dodge-vehicles/77-1969-dodge-charger-daytona.html",
+          "notes": "1969 production Daytona 440 road reference, not ordinary Charger R/T, Charger 500, modern Daytona or a NASCAR racer. The documented museum example carries A34 Super Track Pak; its gearing and brakes are explicit configuration choices. NASCAR speed/season-win claims do not become road performance figures. Photo engine output and uniqueness claims are not used as technical evidence."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dodge Charger Daytona (1969) (52961202324).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Daytona_(1969)_(52961202324).jpg",
+          "notes": "Charles from Port Chester, New York; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Dodge Charger Daytona (1969)"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Magnum V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Heavy-duty four-speed manual with Hurst shifter",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Sure-Grip Dana 60 with 4.10:1 ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Lengthened nosecone and tall rear wing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "440",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum advertised power",
+          "value": "375",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Charger Daytona made radical nose-and-wing aerodynamics central to Dodge’s stock-car homologation programme, creating one of the most recognizable American performance road cars.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_charger_daytona_road.jpg",
+          "caption": "Dodge Charger Daytona — 1969 440 four-speed road car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "70ad0874268d88d46f768489f48290085fe81f02bea981ec652037052cb3346c"
+        }
+      ]
+    },
+    {
+      "id": "DOD-CHALLENGER-HEMI-1970",
+      "manufacturer": "Dodge",
+      "model_family": "Challenger",
+      "generation": "Original E-body R/T series",
+      "variant": "R/T — 1970 Street Hemi four-speed hardtop",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 1970 R/T hardtop with optional E74 Street Hemi and D21 four-speed, not 383 standard R/T, 440 Six Pack, T/A or racing Hemi. Original dealer-book scans, images 14 and 16, printed pages 122–123 and 160–161. Optional power discs, Shaker hood and axle packages are not assumed. Period power retained without net conversion.",
+      "summary": "The original Hemi Challenger R/T combined Dodge’s new E-body pony car with the dual-four-barrel Street Hemi, representing the high-performance peak of the classic muscle-car era.",
+      "admission_reason": "The original Hemi Challenger R/T combined Dodge’s new E-body pony car with the dual-four-barrel Street Hemi, representing the high-performance peak of the classic muscle-car era.",
+      "sources": [
+        {
+          "publisher": "Dodge / Chrysler Corporation",
+          "title": "1970 Challenger — original dealer specifications and R/T equipment scans",
+          "source_type": "Period manufacturer dealer literature, hosted facsimile",
+          "url": "https://www.stockmopar.com/brochures/1970-dodge-challenger-dealer-brochure.html",
+          "notes": "US 1970 R/T hardtop with optional E74 Street Hemi and D21 four-speed, not 383 standard R/T, 440 Six Pack, T/A or racing Hemi. Original dealer-book scans, images 14 and 16, printed pages 122–123 and 160–161. Optional power discs, Shaker hood and axle packages are not assumed. Period power retained without net conversion."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Dodge Challenger RT Hemi (4551560930).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_RT_Hemi_(4551560930).jpg",
+          "notes": "dave_7 from Lethbridge, Canada; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Dodge Challenger RT Hemi"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Street Hemi V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Two four-barrel carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Optional four-speed manual with Hurst linkage",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Heavy-duty torsion bars, springs, sway bar and dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "426",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "425",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Block material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Hemi Challenger R/T combined Dodge’s new E-body pony car with the dual-four-barrel Street Hemi, representing the high-performance peak of the classic muscle-car era.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_dod_challenger_hemi_1970.jpg",
+          "caption": "Dodge R/T — 1970 Street Hemi four-speed hardtop — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "dave_7 from Lethbridge, Canada",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "06f12b95772305108f6afbdeb2b6f2fad64ba7037b848f777a9d94b0bb82d3d6"
+        }
+      ]
+    },
+    {
+      "id": "PLY-SUPERBIRD-440-ROAD",
+      "manufacturer": "Plymouth",
+      "model_family": "Road Runner Superbird",
+      "generation": "Original 1970 aero homologation series",
+      "variant": "Superbird — 440 four-barrel automatic road car",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 road Superbird with 375-hp four-barrel 440 and Torqueflite, not six-barrel 440, 426 Hemi or NASCAR competition car. Museum’s road specifications and engine-option explanation only; its questionable dates and claims about NASCAR speeds/domination are excluded. Photo does not certify the installed engine or gearing.",
+      "summary": "The Superbird carried Plymouth’s NASCAR aerodynamic homologation programme onto the road, adding a long nose and high rear wing to the Road Runner rather than relying only on engine size.",
+      "admission_reason": "The Superbird carried Plymouth’s NASCAR aerodynamic homologation programme onto the road, adding a long nose and high rear wing to the Road Runner rather than relying only on engine size.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1970 Plymouth Superbird — road-car exhibition record",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/american-muscle/1970-plymouth-superbird",
+          "notes": "1970 road Superbird with 375-hp four-barrel 440 and Torqueflite, not six-barrel 440, 426 Hemi or NASCAR competition car. Museum’s road specifications and engine-option explanation only; its questionable dates and claims about NASCAR speeds/domination are excluded. Photo does not certify the installed engine or gearing."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Plymouth Superbird LC23.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Superbird_LC23.jpg",
+          "notes": "MrWalkr; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Front, longitudinal",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Single four-barrel carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Three-speed Torqueflite automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Extended nose and high rear wing",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "440",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum advertised power",
+          "value": "375",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Superbird carried Plymouth’s NASCAR aerodynamic homologation programme onto the road, adding a long nose and high rear wing to the Road Runner rather than relying only on engine size.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ply_superbird_440_road.jpg",
+          "caption": "Plymouth Superbird — 440 four-barrel automatic road car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "940ee062d901b3ad1a1845ddef1600ae13fac1c6870a151b8338122d7df45a51"
+        }
+      ]
+    },
+    {
+      "id": "PLY-AAR-CUDA-1970-ROAD",
+      "manufacturer": "Plymouth",
+      "model_family": "Barracuda",
+      "generation": "Third-generation E-body AAR road series",
+      "variant": "AAR Cuda — 340 six-barrel four-speed road car",
+      "model_year_from": 1970,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "1970 production AAR road coupe, not a 305-cu-in Trans-Am race car, Hemi Cuda or later Barracuda. The museum’s road-engine and body equipment descriptions are used; its incorrect comparison Hemi output, racing generalisations and unqualified road speed are not imported. No claim is made that Gurney’s team assembled each road car.",
+      "summary": "The AAR Cuda connected Plymouth’s road car to Dan Gurney’s All American Racers Trans-Am programme, emphasizing small-block performance, handling and a functional lightweight bonnet.",
+      "admission_reason": "The AAR Cuda connected Plymouth’s road car to Dan Gurney’s All American Racers Trans-Am programme, emphasizing small-block performance, handling and a functional lightweight bonnet.",
+      "sources": [
+        {
+          "publisher": "Audrain Auto Museum",
+          "title": "1970 Plymouth AAR Cuda — road-car exhibition reference",
+          "source_type": "Museum collection record",
+          "url": "https://www.audrainautomuseum.org/more-than-just-american-muscle/1970-plymouth-aar-cuda",
+          "notes": "1970 production AAR road coupe, not a 305-cu-in Trans-Am race car, Hemi Cuda or later Barracuda. The museum’s road-engine and body equipment descriptions are used; its incorrect comparison Hemi output, racing generalisations and unqualified road speed are not imported. No claim is made that Gurney’s team assembled each road car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1970 Plymouth Barracuda 'Cuda AAR 340 (16821034880).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Barracuda_%27Cuda_AAR_340_(16821034880).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1970 Plymouth Barracuda 'Cuda AAR 340"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "OHV V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Three twin-barrel Holley carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Front and rear spoilers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "340",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Bonnet",
+          "value": "Fibreglass with functional scoop",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The AAR Cuda connected Plymouth’s road car to Dan Gurney’s All American Racers Trans-Am programme, emphasizing small-block performance, handling and a functional lightweight bonnet.",
+          "category": "Historical significance",
+          "confidence": "Museum documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ply_aar_cuda_1970_road.jpg",
+          "caption": "Plymouth AAR Cuda — 340 six-barrel four-speed road car — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "03ef0c5ec73c39dbe8e08ae41bd673b1a7d9446320bcffd7ce46e60636cd7d04"
+        }
+      ]
+    },
+    {
+      "id": "AMC-JAVELIN-AMX-401-1971",
+      "manufacturer": "AMC",
+      "model_family": "Javelin",
+      "generation": "Second-generation Javelin AMX",
+      "variant": "AMX 401 Go package — 1971 four-speed road coupe",
+      "model_year_from": 1971,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "US 1971 Javelin AMX with 401 Go package and four-speed, not the earlier two-seat AMX, standard 360 two-barrel, 1970 Donohue edition or Trans-Am race car. Original AMC brochure pages shown as 3 and 5 on the host. Go-package inclusions and 401 engine column only; racing success is historical context, not the source of road specifications.",
+      "summary": "The second-generation Javelin AMX gave AMC a distinctive 401-powered performance road coupe in the year its Javelin competition programme won the Trans-Am manufacturers’ title with Penske and Donohue.",
+      "admission_reason": "The second-generation Javelin AMX gave AMC a distinctive 401-powered performance road coupe in the year its Javelin competition programme won the Trans-Am manufacturers’ title with Penske and Donohue.",
+      "sources": [
+        {
+          "publisher": "American Motors Corporation",
+          "title": "1971 AMC brochure — Javelin AMX and original specification/option pages",
+          "source_type": "Period manufacturer brochure, club-hosted facsimile",
+          "url": "https://australianjavelins.com/media/71_amc_brochure.htm",
+          "notes": "US 1971 Javelin AMX with 401 Go package and four-speed, not the earlier two-seat AMX, standard 360 two-barrel, 1970 Donohue edition or Trans-Am race car. Original AMC brochure pages shown as 3 and 5 on the host. Go-package inclusions and 401 engine column only; racing success is historical context, not the source of road specifications."
+        },
+        {
+          "publisher": "Trans Am Race Company / series archive",
+          "title": "Trans Am Hall of Fame: Roger Penske",
+          "source_type": "Manufacturer history / specifications",
+          "url": "https://gotransam.com/news/Trans-Am-Hall-of-Fame-Roger-Penske/73534",
+          "notes": "Primary series history: AMC took the 1971 title, with seven Donohue victories. Competition figures are not copied into the road car."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1971 AMC Javelin AMX - Automobile Driving Museum - El Segundo, CA - DSC01418.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1971_AMC_Javelin_AMX_-_Automobile_Driving_Museum_-_El_Segundo,_CA_-_DSC01418.jpg",
+          "notes": "Daderot; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.5:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Four-barrel carburettor with cowl-air induction",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Optional four-speed floor-shift manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Twin-Grip limited-slip",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Power front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5000",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "401",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Period advertised power",
+          "value": "330",
+          "unit": "hp; gross-era rating",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "Layout",
+          "value": "Dual exhaust",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The second-generation Javelin AMX gave AMC a distinctive 401-powered performance road coupe in the year its Javelin competition programme won the Trans-Am manufacturers’ title with Penske and Donohue.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_amc_javelin_amx_401_1971.jpg",
+          "caption": "AMC AMX 401 Go package — 1971 four-speed road coupe — representative exterior photograph. Factory identity, installed engine and optional equipment are not certified by the photograph.",
+          "creator": "Daderot",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "331c6ef46a9337add61321f961bcde6aa38ad5658f1a6a66076c580b40ac7313"
+        }
+      ]
+    }
+  ]
+}

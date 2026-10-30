@@ -1,0 +1,472 @@
+{
+  "batch": "icons-road-2026-10-29-40",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "CIZ-V16T-PRODUCTION1991",
+      "manufacturer": "Cizeta",
+      "model_family": "V16T",
+      "generation": "Original V16T delivered production-road supercar family",
+      "variant": "Original production coupe — period factory-visit reference",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Ian Kuah’s first-hand factory visit and Claudio Zampolli interview distinguishes delivered production cars from the 1988 mock-up. Hosted reprint, not a factory specification sheet. Conflicting visit dates, power/torque units, production totals and crankshaft details are omitted. Later management changes are not assigned to every car; European or US certification is not asserted.",
+      "summary": "The Cizeta V16T combines a bespoke transverse sixteen-cylinder engine with a tubular structure and aluminium body. Its distinctive Italian supercar engineering and Gandini-era wedge identity warrant inclusion beyond its rarity.",
+      "admission_reason": "The Cizeta V16T combines a bespoke transverse sixteen-cylinder engine with a tubular structure and aluminium body. Its distinctive Italian supercar engineering and Gandini-era wedge identity warrant inclusion beyond its rarity.",
+      "sources": [
+        {
+          "publisher": "Ian Kuah / Cizeta USA hosted article",
+          "title": "Cizeta V16T — Ian Kuah factory visit and Claudio Zampolli interview",
+          "source_type": "First-hand factory visit and creator interview, hosted reprint",
+          "url": "https://cizetaautomobile.com/supercar/",
+          "notes": "Ian Kuah’s first-hand factory visit and Claudio Zampolli interview distinguishes delivered production cars from the 1988 mock-up. Hosted reprint, not a factory specification sheet. Conflicting visit dates, power/torque units, production totals and crankshaft details are omitted. Later management changes are not assigned to every car; European or US certification is not asserted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Cizeta-Moroder V16T - Concorso Italiano 2003 - fvr.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Cizeta-Moroder_V16T_-_Concorso_Italiano_2003_-_fvr.jpg",
+          "notes": "Craig Howell from San Carlos, CA, USA; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: DSC09539"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Sixteen-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5995",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Transverse mid-engine, inclined forwards",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Longitudinal ZF gearbox",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Welded elliptical chrome-molybdenum steel tubular spaceframe",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Aluminium body panels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo ventilated and slotted discs with four-piston calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "245/40 ZR17 front; 335/35 ZR17 rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Cizeta V16T combines a bespoke transverse sixteen-cylinder engine with a tubular structure and aluminium body. Its distinctive Italian supercar engineering and Gandini-era wedge identity warrant inclusion beyond its rarity.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ciz_v16t_production1991.jpg",
+          "caption": "Cizeta V16T at the 2003 Concorso Italiano in Seaside, California, showing the red road-coupe body. The photographer uses the Cizeta-Moroder name; the image illustrates the family and does not establish build date, certification, original engine management or present mechanical condition.",
+          "creator": "Craig Howell from San Carlos, CA, USA",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f5e6434d6a33f484efcc104c53cd10c8c259526df95127f3aadeb1391c8bc701"
+        }
+      ]
+    },
+    {
+      "id": "ASC-KZ1-ROAD2005",
+      "manufacturer": "Ascari",
+      "model_family": "KZ1",
+      "generation": "Original KZ1 production-road supercar family",
+      "variant": "Road coupe — April 2005 first-hand driving reference",
+      "model_year_from": 2005,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Manek Dubash drove Klaas Zwart’s road car around Banbury for this 1 April 2005 report. The proposed fifty-car run is not a verified build total. Claimed performance, unspecified-basis mass, exact cc and output standard are omitted. KZ1-R, A10 and race specifications are excluded.",
+      "summary": "The KZ1 represents Ascari’s bespoke British road-supercar programme, joining a carbon-fibre chassis and body with a mid-mounted BMW V8. Its purpose-built structure and road-driving development distinguish it from a rebodied ordinary production car.",
+      "admission_reason": "The KZ1 represents Ascari’s bespoke British road-supercar programme, joining a carbon-fibre chassis and body with a mid-mounted BMW V8. Its purpose-built structure and road-driving development distinguish it from a rebodied ordinary production car.",
+      "sources": [
+        {
+          "publisher": "PistonHeads / Manek Dubash",
+          "title": "PH Exclusive: Ascari KZ1 driven — Manek Dubash, 1 April 2005",
+          "source_type": "First-hand contemporary road test",
+          "url": "https://www.pistonheads.com/news/general-pistonheads/ph-exclusive-ascari-kz1-driven/10163",
+          "notes": "Manek Dubash drove Klaas Zwart’s road car around Banbury for this 1 April 2005 report. The proposed fifty-car run is not a verified build total. Claimed performance, unspecified-basis mass, exact cc and output standard are omitted. KZ1-R, A10 and race specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ascari KZ1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ascari_KZ1.jpg",
+          "notes": "Darren; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: P9012874"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "BMW-derived V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "5.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Position",
+          "value": "Mid-engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Carbon-fibre tub",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Carbon-fibre body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Brembo six-piston front and four-piston rear calipers; ABS",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "235/35 R19 front; 305/30 R19 rear",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The KZ1 represents Ascari’s bespoke British road-supercar programme, joining a carbon-fibre chassis and body with a mid-mounted BMW V8. Its purpose-built structure and road-driving development distinguish it from a rebodied ordinary production car.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_asc_kz1_road2005.jpg",
+          "caption": "Ascari KZ1 displayed with its model identification, showing the road-coupe shape and side intake. The display image does not certify the April 2005 test car, original production date, current engine tune or unchanged road specification.",
+          "creator": "Darren",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "9671f42caf891be4ced0161063257edc0f1d5f6190cb04b759631281cefc2c46"
+        }
+      ]
+    },
+    {
+      "id": "BMW-I8-I12-ORIGINAL2014",
+      "manufacturer": "BMW",
+      "model_family": "i8",
+      "generation": "Original I12 i8 plug-in-hybrid production-road coupe family",
+      "variant": "Original 2014 coupe — US production-introduction reference",
+      "model_year_from": 2014,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door 2+2 coupe",
+      "road_legal": 1,
+      "specification_market": "September 2013 factory introduction explicitly identifies the 2014 road coupe. Early August prototype figures, revised range/battery estimates, mass, optional laser lights and later 2018 coupe/Roadster updates are excluded. The separate July 2014 factory report confirms customer deliveries.",
+      "summary": "The i8 made a dedicated carbon-passenger-cell, plug-in-hybrid sports-car architecture a production reality. Its split-axle electric and combustion drivetrain and distinctive coupe design establish a landmark BMW performance family.",
+      "admission_reason": "The i8 made a dedicated carbon-passenger-cell, plug-in-hybrid sports-car architecture a production reality. Its split-axle electric and combustion drivetrain and distinctive coupe design establish a landmark BMW performance family.",
+      "sources": [
+        {
+          "publisher": "BMW Group USA",
+          "title": "The BMW i8 — 2014 production coupe introduction, 10 September 2013",
+          "source_type": "Manufacturer original road-model introduction",
+          "url": "https://www.press.bmwgroup.com/usa/article/detail/T0145577EN_US/the-bmw-i8-%E2%80%93-ushering-in-a-new-era-of-sustainable-performance-priced-from-135-700-in-the-us?language=en_US",
+          "notes": "September 2013 factory introduction explicitly identifies the 2014 road coupe. Early August prototype figures, revised range/battery estimates, mass, optional laser lights and later 2018 coupe/Roadster updates are excluded. The separate July 2014 factory report confirms customer deliveries."
+        },
+        {
+          "publisher": "BMW Group",
+          "title": "BMW i8: Internet Auto Award and customer-delivery confirmation, 1 July 2014",
+          "source_type": "Manufacturer contemporary production and delivery report",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0185024EN/bmw-winner-of-12th-internet-award-from-autoscout24-accolade-for-the-bmw-i8-and-editorial-award-for-the-bmw-laserlight?language=en",
+          "notes": "Confirms customer handovers on 5 June 2014 and the original hybrid sports coupe in production. Laserlight is optional."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:MotorExpo 2014 MMB 15 BMW i8.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:MotorExpo_2014_MMB_15_BMW_i8.jpg",
+          "notes": "mattbuck ( category ); CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work by mattbuck ."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged three-cylinder petrol engine with front-axle hybrid synchronous electric motor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "1.5",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed automatic to rear axle; two-stage automatic for front electric drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All-wheel drive through front electric and rear combustion drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "CFRP passenger cell on aluminium Drive module",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; five-link rear; Dynamic Damper Control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2+2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Hybrid system",
+          "label": "Combined system output",
+          "value": "266",
+          "unit": "kW",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The i8 made a dedicated carbon-passenger-cell, plug-in-hybrid sports-car architecture a production reality. Its split-axle electric and combustion drivetrain and distinctive coupe design establish a landmark BMW performance family.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        },
+        {
+          "title": "Production delivery confirmed",
+          "explanation": "BMW records i8 customer handovers at BMW Welt on 5 June 2014.",
+          "category": "Production history",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bmw_i8_i12_original2014.jpg",
+          "caption": "BMW i8 at the 2014 London Motor Expo at Canary Wharf, showing the original production-coupe front and upward-opening doors. This British display does not establish the selected US specification, optional lighting, battery condition or present mechanical state.",
+          "creator": "mattbuck ( category )",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "337ebfe2aa1a8574316ec615361ceb5ae3b6b620253e98360bc49e9689cfeecb"
+        }
+      ]
+    },
+    {
+      "id": "POR-TAYCAN-TURBOS-2019INTRO",
+      "manufacturer": "Porsche",
+      "model_family": "Taycan",
+      "generation": "Original pre-facelift Taycan production-road electric sports-saloon family",
+      "variant": "Turbo S — 4 September 2019 North American introduction",
+      "model_year_from": 2019,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door electric sports saloon",
+      "road_legal": 1,
+      "specification_market": "Original five-page PCNA release No.73/19, visually read throughout. Selected Turbo S, not Turbo. 560 kW is overboost with Launch Control, not continuous output; 93.4 kWh is overall capacity. EPA range was pending. Later facelift, Turbo GT, Cross Turismo, optional PDCC and unqualified record claims are excluded.",
+      "summary": "The original Taycan marked Porsche’s entry into production electric sports cars. Its 800-volt architecture, dual-motor drive and two-speed rear transmission make the Turbo S a landmark performance-engineering reference for the family.",
+      "admission_reason": "The original Taycan marked Porsche’s entry into production electric sports cars. Its 800-volt architecture, dual-motor drive and two-speed rear transmission make the Turbo S a landmark performance-engineering reference for the family.",
+      "sources": [
+        {
+          "publisher": "Porsche Cars North America",
+          "title": "World premiere of the Porsche Taycan — PCNA release 73/19, 4 September 2019",
+          "source_type": "Manufacturer original production-road introduction",
+          "url": "https://newsroom.porsche.com/dam/jcr%3Aec127407-96c5-4dae-99b1-2dc4703742bb/73%20-%20World%20premiere%20of%20the%20Porsche%20Taycan.pdf",
+          "notes": "Original five-page PCNA release No.73/19, visually read throughout. Selected Turbo S, not Turbo. 560 kW is overboost with Launch Control, not continuous output; 93.4 kWh is overall capacity. EPA range was pending. Later facelift, Turbo GT, Cross Turismo, optional PDCC and unqualified record claims are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Porsche Taycan Turbo S (48769974448).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_Turbo_S_(48769974448).jpg",
+          "notes": "Rutger van der Maar from Leiden, The Netherlands; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Porsche Taycan Turbo S"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Electric drive",
+          "label": "Motor configuration",
+          "value": "Two permanently excited synchronous motors, one per axle",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "All-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Rear axle",
+          "value": "Two-speed transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Battery",
+          "label": "System voltage",
+          "value": "800",
+          "unit": "V",
+          "source": 0
+        },
+        {
+          "section": "Battery",
+          "label": "Overall capacity",
+          "value": "93.4",
+          "unit": "kWh",
+          "source": 0
+        },
+        {
+          "section": "Electric drive",
+          "label": "Overboost output with Launch Control",
+          "value": "560",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Charging",
+          "label": "Maximum DC charging power, ideal conditions",
+          "value": "270",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Three-chamber adaptive air suspension with PASM electronic damping",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Taycan marked Porsche’s entry into production electric sports cars. Its 800-volt architecture, dual-motor drive and two-speed rear transmission make the Turbo S a landmark performance-engineering reference for the family.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_por_taycan_turbos_2019intro.jpg",
+          "caption": "Porsche Taycan Turbo S at the 2019 Frankfurt motor show, showing the original pre-facelift sports-saloon body. Display identification supports the illustrated variant; the photograph does not prove North American specification, current battery capacity, optional equipment or Launch Control output.",
+          "creator": "Rutger van der Maar from Leiden, The Netherlands",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "da145b52d7d05a5bc3fb88135eedf64ae778ab08e43ce7b25a609311f54e408d"
+        }
+      ]
+    }
+  ]
+}

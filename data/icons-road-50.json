@@ -1,0 +1,625 @@
+{
+  "batch": "icons-road-2026-10-29-50",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 5,
+  "cars": [
+    {
+      "id": "TVR-T350C-ROAD2002",
+      "manufacturer": "TVR",
+      "model_family": "T350",
+      "generation": "Original T350 production-road sporting coupe family",
+      "variant": "T350C — original 2002–2006 factory heritage reference",
+      "model_year_from": 2002,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door closed sporting coupe",
+      "road_legal": 1,
+      "specification_market": "Factory T350 heritage technical table and model text read. The manufacturer’s home-page model index dates this family to 2002–2006; 2002 is programme context, not the photographed car’s build year. Select the closed T350C, without adding a T350T roof derivative. Conflicting acceleration labels and power-unit equivalences, optional larger brakes, LS7 conversions and other TVR models’ hardware are excluded.",
+      "summary": "The T350 is a defining compact Speed Six TVR, combining dry-sump straight-six engineering with a light, aerodynamically focused road coupe. Its distinct model programme adds a recognised British specialist performance icon beyond the existing Tuscan, Cerbera and Sagaris.",
+      "admission_reason": "The T350 is a defining compact Speed Six TVR, combining dry-sump straight-six engineering with a light, aerodynamically focused road coupe. Its distinct model programme adds a recognised British specialist performance icon beyond the existing Tuscan, Cerbera and Sagaris.",
+      "sources": [
+        {
+          "publisher": "TVR",
+          "title": "TVR T350 — manufacturer heritage model and technical catalogue",
+          "source_type": "Manufacturer historical model and technical catalogue",
+          "url": "https://www.tvr.co.uk/models/tvr/t350",
+          "notes": "Factory T350 heritage technical table and model text read. The manufacturer’s home-page model index dates this family to 2002–2006; 2002 is programme context, not the photographed car’s build year. Select the closed T350C, without adding a T350T roof derivative. Conflicting acceleration labels and power-unit equivalences, optional larger brakes, LS7 conversions and other TVR models’ hardware are excluded."
+        },
+        {
+          "publisher": "TVR",
+          "title": "Manufacturer historic-model index — T350 (2002–2006)",
+          "source_type": "Manufacturer historical model index",
+          "url": "https://www.tvr.co.uk/home",
+          "notes": "Historic-model index explicitly dates the T350 family. It is programme context rather than proof of every pictured car’s build date."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2003 TVR T350C.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2003_TVR_T350C.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3605",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Dry-sump lubrication",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Standard 304 mm front / 282 mm rear ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2361",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Length",
+          "value": "3974",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Height",
+          "value": "1195",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The T350 is a defining compact Speed Six TVR, combining dry-sump straight-six engineering with a light, aerodynamically focused road coupe. Its distinct model programme adds a recognised British specialist performance icon beyond the existing Tuscan, Cerbera and Sagaris.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_tvr_t350c_road2002.jpg",
+          "caption": "Closed-roof TVR T350C identified by its photographer as a 2003 car. This representative road-model image does not certify an unmodified engine, exact brake option or the source table’s disputed performance figures; it is not the searched LS7 conversion or T350T roof derivative.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "670cbf09312cdd1b19f0579ee713d505a83b0cc65875236ed8c9f43704fdf724"
+        }
+      ]
+    },
+    {
+      "id": "MAS-A6G54-ALLEMANO-ROAD1954",
+      "manufacturer": "Maserati",
+      "model_family": "A6",
+      "generation": "A6G/54 twin-cam two-litre production-road GT family",
+      "variant": "A6G/54 Allemano coupe — original 1954–1957 road programme",
+      "model_year_from": 1954,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Allemano two-door grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Manufacturer-issued Maserati Coupé: The History, Jürgen Lewandowski, publication M18/02 (2002), physical PDF page 133 Allemano column and road-adaptation narrative on page 27 read. 1954 dates the A6G/54 programme introduced with a Frua body; it is not a claimed build date for every Allemano car or the separate photographed 1956 example. Narrative/table power-peak disagreement is excluded. No A6GCS racing tune, racing dry sump, body-dependent speed/weight, optional carburettor fitment or extra Zagato/Frua record is added.",
+      "summary": "The A6G/54 marks a formative Maserati road-GT milestone, adapting twin-cam competition-derived six-cylinder engineering for everyday grand touring. The Allemano coupe represents this foundational road family, with sporting significance beyond bespoke coachwork or low production alone.",
+      "admission_reason": "The A6G/54 marks a formative Maserati road-GT milestone, adapting twin-cam competition-derived six-cylinder engineering for everyday grand touring. The Allemano coupe represents this foundational road family, with sporting significance beyond bespoke coachwork or low production alone.",
+      "sources": [
+        {
+          "publisher": "Maserati S.p.A. / Jürgen Lewandowski",
+          "title": "Maserati Coupé: The History — A6G/54 road programme and Allemano technical column, 2002",
+          "source_type": "Manufacturer-issued historical engineering book, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2022/01/2002-Maserati-Coupe-History.pdf",
+          "notes": "Manufacturer-issued Maserati Coupé: The History, Jürgen Lewandowski, publication M18/02 (2002), physical PDF page 133 Allemano column and road-adaptation narrative on page 27 read. 1954 dates the A6G/54 programme introduced with a Frua body; it is not a claimed build date for every Allemano car or the separate photographed 1956 example. Narrative/table power-peak disagreement is excluded. No A6GCS racing tune, racing dry sump, body-dependent speed/weight, optional carburettor fitment or extra Zagato/Frua record is added."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1956 Maserati A6G 2000 Allemano Coupe - fvl1.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1956_Maserati_A6G_2000_Allemano_Coupe_-_fvl1.jpg",
+          "notes": "Rex Gray; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: originally posted to Flickr as 1956 Maserati A6G 2000 Allemano Coupe - fvl1. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1985",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Double camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "76.5",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "72",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2550",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Coachwork",
+          "label": "Coachbuilder",
+          "value": "Allemano",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The A6G/54 marks a formative Maserati road-GT milestone, adapting twin-cam competition-derived six-cylinder engineering for everyday grand touring. The Allemano coupe represents this foundational road family, with sporting significance beyond bespoke coachwork or low production alone.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_a6g54_allemano_road1954.jpg",
+          "caption": "Maserati A6G/54 Allemano coupe identified as a 1956 car, at the 2008 Desert Classic Concours. It illustrates the road-GT coachwork, not a Zagato racer, and does not establish the 1954 programme’s first build date or the pictured car’s current engine tune.",
+          "creator": "Rex Gray",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "ce78f1902ab0a87e06348cee887ee71642f0008e1c352961253e317802501c1c"
+        }
+      ]
+    },
+    {
+      "id": "MAS-MISTRAL3700-ROAD1969",
+      "manufacturer": "Maserati",
+      "model_family": "Mistral",
+      "generation": "Original Mistral production-road six-cylinder GT family",
+      "variant": "3700 coupe — 1969 road-family reference",
+      "model_year_from": 1969,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door fastback grand-touring coupe",
+      "road_legal": 1,
+      "specification_market": "Read the Mistral column on physical PDF page 134 and the separate 3700 development passage on page 43. Use 3694.4 cc and the 3700’s own bore/stroke; no Sebring column, 4000 output, body-spanning acceleration or unqualified weight is transferred. Maserati’s separate Classiche announcement establishes a road 3700 built in March 1969, supporting the reference year without claiming the photographed car is that certified example. No Spyder or extra engine-capacity record is counted.",
+      "summary": "The Mistral closed the classic Maserati straight-six GT lineage with Lucas injection, twin ignition and Pietro Frua’s distinctive fastback design. It adds an influential long-distance sporting coupe family, separate from the existing 3500 GT and later V8 Ghibli.",
+      "admission_reason": "The Mistral closed the classic Maserati straight-six GT lineage with Lucas injection, twin ignition and Pietro Frua’s distinctive fastback design. It adds an influential long-distance sporting coupe family, separate from the existing 3500 GT and later V8 Ghibli.",
+      "sources": [
+        {
+          "publisher": "Maserati S.p.A. / Jürgen Lewandowski",
+          "title": "Maserati Coupé: The History — Mistral 3700 development and technical column, 2002",
+          "source_type": "Manufacturer-issued historical engineering book, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2022/01/2002-Maserati-Coupe-History.pdf",
+          "notes": "Read the Mistral column on physical PDF page 134 and the separate 3700 development passage on page 43. Use 3694.4 cc and the 3700’s own bore/stroke; no Sebring column, 4000 output, body-spanning acceleration or unqualified weight is transferred. Maserati’s separate Classiche announcement establishes a road 3700 built in March 1969, supporting the reference year without claiming the photographed car is that certified example. No Spyder or extra engine-capacity record is counted."
+        },
+        {
+          "publisher": "Maserati",
+          "title": "Neues Maserati Classiche Programm läuft an — 14 December 2021",
+          "source_type": "Manufacturer first-hand vehicle certification account",
+          "url": "https://www.maserati.com/de/de/news/maserati-certification-of-authenticity-the-new-maserati-classiche-programme-begins",
+          "notes": "Manufacturer explicitly identifies a road Mistral 3700 produced in March 1969 as its first Classiche-certified road vehicle. This supports year/road-family context, not the identity or restoration condition of the separate representative photograph."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1967 Maserati Mistral Coupe - silver - fvr (4637057473) cropped.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1967_Maserati_Mistral_Coupe_-_silver_-_fvr_(4637057473)_cropped.jpg",
+          "notes": "Rex Gray Altered by Cloverleaf II; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1967 Maserati Mistral Coupe - silver - fvr. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "3694.4",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Lucas fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Ignition",
+          "value": "Twin ignition",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pietro Frua",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore",
+          "value": "86",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Stroke",
+          "value": "106",
+          "unit": "mm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Wheelbase",
+          "value": "2400",
+          "unit": "mm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mistral closed the classic Maserati straight-six GT lineage with Lucas injection, twin ignition and Pietro Frua’s distinctive fastback design. It adds an influential long-distance sporting coupe family, separate from the existing 3500 GT and later V8 Ghibli.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mas_mistral3700_road1969.jpg",
+          "caption": "Maserati Mistral coupe identified as a 1967 car, photographed at the 2008 Desert Classic Concours; the existing Commons crop is retained unchanged. This family illustration is not identified as the manufacturer’s separately certified March 1969 Mistral 3700 and does not prove an exact engine capacity or untouched condition.",
+          "creator": "Rex Gray Altered by Cloverleaf II",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2129b2db4ea0cfc0513b8072b23bed3537f4e19ab8d954b6f21398a2a05adb95"
+        }
+      ]
+    },
+    {
+      "id": "ARI-NOMAD1-K24-ROAD2015",
+      "manufacturer": "Ariel",
+      "model_family": "Nomad",
+      "generation": "Original Honda K24 Nomad production-road/on-off-road sports-car family",
+      "variant": "Nomad 1 K24 manual — UK Road Pack configuration, 2015 family introduction",
+      "model_year_from": 2015,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat open road and off-road sports car",
+      "road_legal": 1,
+      "specification_market": "Manufacturer Nomad 1 technical catalogue, Road Pack/IVA/registration options and separate dated history read. Select the standard 235-bhp K24 manual family configured with UK Road Pack and individual vehicle approval, not a blanket assertion that every Nomad is road-registered. The history establishes the 2015 family introduction; the catalogue is an undated original-family specification. Optional supercharger, short final drive, wheel/brake upgrades, Nomad R and later Ford-powered Nomad 2 are excluded. Ambiguous mph/km/h acceleration labels are omitted.",
+      "summary": "The original Nomad translated Ariel’s lightweight exposed-frame sports-car engineering into a distinctive high-performance road and off-road machine. Its long-travel wishbones, integrated safety structure and Honda power give it a landmark identity beyond ordinary SUVs or competition-only buggies.",
+      "admission_reason": "The original Nomad translated Ariel’s lightweight exposed-frame sports-car engineering into a distinctive high-performance road and off-road machine. Its long-travel wishbones, integrated safety structure and Honda power give it a landmark identity beyond ordinary SUVs or competition-only buggies.",
+      "sources": [
+        {
+          "publisher": "Ariel Motor Company",
+          "title": "Nomad 1 — original K24 technical catalogue and road-approval configuration",
+          "source_type": "Manufacturer technical and road-configuration catalogue",
+          "url": "https://www.arielmotor.co.uk/ariel-vehicles/nomad/",
+          "notes": "Manufacturer Nomad 1 technical catalogue, Road Pack/IVA/registration options and separate dated history read. Select the standard 235-bhp K24 manual family configured with UK Road Pack and individual vehicle approval, not a blanket assertion that every Nomad is road-registered. The history establishes the 2015 family introduction; the catalogue is an undated original-family specification. Optional supercharger, short final drive, wheel/brake upgrades, Nomad R and later Ford-powered Nomad 2 are excluded. Ambiguous mph/km/h acceleration labels are omitted."
+        },
+        {
+          "publisher": "Ariel Motor Company",
+          "title": "Our History — 2015 Ariel Nomad introduction",
+          "source_type": "Manufacturer historical model account",
+          "url": "https://www.arielmotor.co.uk/our-history/",
+          "notes": "Factory dates original Nomad launch to 2015 with Honda K24 2.4 litres, 235 bhp and 300 Nm. Later optional supercharger and Nomad R sections are not the selected standard road reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2016 Ariel Nomad.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2016_Ariel_Nomad.jpg",
+          "notes": "Calreyn88; CC BY 4.0. License: https://creativecommons.org/licenses/by/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Honda K24 four-cylinder i-VTEC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2354",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Chain-driven DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed close-ratio manual plus reverse",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "300",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Construction",
+          "value": "Bronze-welded steel tube with aluminium bulkheads",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Unequal-length double wishbones front and rear; outboard Bilstein dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "240 mm ventilated discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer standard K24 output",
+          "value": "235",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Nomad translated Ariel’s lightweight exposed-frame sports-car engineering into a distinctive high-performance road and off-road machine. Its long-travel wishbones, integrated safety structure and Honda power give it a landmark identity beyond ordinary SUVs or competition-only buggies.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ari_nomad1_k24_road2015.jpg",
+          "caption": "Orange first-generation Ariel Nomad identified as a 2016 car. Its visible lights, wheels and protective equipment illustrate a configurable original-family car; the photograph does not establish naturally aspirated tune, standard options or completed individual road approval.",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "2bcf8113864ea537f2721f64e35a23ffad6c481627a9197b026a1db6c76480ab"
+        }
+      ]
+    },
+    {
+      "id": "CAT-SEVEN-S3-R500-DURATEC2008",
+      "manufacturer": "Caterham",
+      "model_family": "Seven",
+      "generation": "Traditional Series 3 Caterham Seven production-road chassis family",
+      "variant": "Superlight R500 Duratec — original 2008 standard six-speed manual",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-seat open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Actual Caterham launch-release body reproduced by Serious Wheels read separately from the host’s editorial specifications table. Select standard six-speed manual; the sequential transmission, launch control and track upgrade hardware are optional. The separate June 2008 first-hand evo road drive supports road use and significance but its tested optional gearbox/pre-production launch system is not standard fitment. Existing CSR is a different re-engineered chassis generation; no extra R300/R400, older K-series R500 or special edition is counted. Unclear mass basis, acceleration aids and host-table figures are omitted.",
+      "summary": "The Duratec Superlight R500 is a defining traditional Caterham Seven performance icon, using extreme lightweight engineering to deliver a celebrated road-driving experience. It represents the narrow Series 3 road family, distinct from the re-engineered independent-suspension CSR already archived.",
+      "admission_reason": "The Duratec Superlight R500 is a defining traditional Caterham Seven performance icon, using extreme lightweight engineering to deliver a celebrated road-driving experience. It represents the narrow Series 3 road family, distinct from the re-engineered independent-suspension CSR already archived.",
+      "sources": [
+        {
+          "publisher": "Caterham Cars",
+          "title": "The New Caterham R500 — Harder, Better, Faster, Stronger, 2008 launch release",
+          "source_type": "Manufacturer press release, reproduced in full by Serious Wheels",
+          "url": "https://seriouswheels.com/2008-caterham-seven-superlight-r500.htm",
+          "notes": "Actual Caterham launch-release body reproduced by Serious Wheels read separately from the host’s editorial specifications table. Select standard six-speed manual; the sequential transmission, launch control and track upgrade hardware are optional. The separate June 2008 first-hand evo road drive supports road use and significance but its tested optional gearbox/pre-production launch system is not standard fitment. Existing CSR is a different re-engineered chassis generation; no extra R300/R400, older K-series R500 or special edition is counted. Unclear mass basis, acceleration aids and host-table figures are omitted."
+        },
+        {
+          "publisher": "evo / Jethro Bovingdon",
+          "title": "Caterham Superlight R500 — first-hand Scottish road drive, 3 June 2008",
+          "source_type": "Contemporary first-hand road assessment",
+          "url": "https://www.evo.co.uk/caterham/7/6607/caterham-superlight-r500",
+          "notes": "Actual road drive distinguishes the narrow traditional Seven from the more sophisticated CSR. The tested sequential gearbox and pre-production launch control are optional; they do not establish equipment for the selected standard-manual launch reference."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Caterham Superlight R500 - Flickr - exfordy.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Caterham_Superlight_R500_-_Flickr_-_exfordy.jpg",
+          "notes": "Brian Snelson from Hockley, Essex, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Caterham Superlight R500. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "All-alloy Ford Duratec four-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Naturally aspirated",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Standard six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front four-piston calipers with ventilated discs; lightweight twin-piston rear calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Avon CR500",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Intake",
+          "label": "Throttle arrangement",
+          "value": "Roller-barrel throttle bodies",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted output",
+          "value": "263",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Manufacturer quoted torque",
+          "value": "177",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Platform identity",
+          "value": "Series 3 chassis",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Duratec Superlight R500 is a defining traditional Caterham Seven performance icon, using extreme lightweight engineering to deliver a celebrated road-driving experience. It represents the narrow Series 3 road family, distinct from the re-engineered independent-suspension CSR already archived.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_cat_seven_s3_r500_duratec2008.jpg",
+          "caption": "Factory-loaned Caterham Superlight R500 at the Lotus Seven Club’s Stoneleigh display in May 2008. This original Duratec-family illustration does not establish which gearbox or launch-control options the displayed car carries; the technical reference selects the standard six-speed manual.",
+          "creator": "Brian Snelson from Hockley, Essex, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "6afac61bce0469deb3c4eb5a509b10763ec0c498898aa91b1a5c2f179dabaf60"
+        }
+      ]
+    }
+  ]
+}

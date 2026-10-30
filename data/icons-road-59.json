@@ -1,0 +1,535 @@
+{
+  "batch": "icons-road-2026-10-29-59",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "MER-230SL-W113-1963",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "SL",
+      "generation": "W113 Pagoda production-road sports-car generation",
+      "variant": "Original 230 SL — 1963 road reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-seat sports roadster",
+      "road_legal": 1,
+      "specification_market": "Mercedes-Benz factory 60-year retrospective identifies March 1963 Geneva presentation. Select the original two-seat 230 SL. Later 250/280 engines, rear disc brakes and California rear bench are not transferred. The removable hardtop and four-speed automatic were optional. No gearbox-specific acceleration or universal first-safety-body claim is imported. One W113 generation is counted.",
+      "summary": "The W113 Pagoda is a lasting Mercedes sports-car design icon that combined its distinctive removable roof with a reinforced passenger cell and crumple zones. The original 230 SL represents this substantive safety and touring-sports-car landmark, rather than adding later engines or roof options as separate cars.",
+      "admission_reason": "The W113 Pagoda is a lasting Mercedes sports-car design icon that combined its distinctive removable roof with a reinforced passenger cell and crumple zones. The original 230 SL represents this substantive safety and touring-sports-car landmark, rather than adding later engines or roof options as separate cars.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz France",
+          "title": "Premiere of the Mercedes-Benz 230 SL Pagoda — factory 60-year retrospective",
+          "source_type": "Manufacturer historical press release",
+          "url": "https://media.mercedes-benz.fr/premiere-de-la-mercedes-benz-230-sl-pagode/",
+          "notes": "Mercedes-Benz factory 60-year retrospective identifies March 1963 Geneva presentation. Select the original two-seat 230 SL. Later 250/280 engines, rear disc brakes and California rear bench are not transferred. The removable hardtop and four-speed automatic were optional. No gearbox-specific acceleration or universal first-safety-body claim is imported. One W113 generation is counted."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz W113 230 SL 0417RM0292.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W113_230_SL_0417RM0292.jpg",
+          "notes": "Ermell; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder M127",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2306",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "110",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "2",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Roof",
+          "value": "Optional removable hardtop with concave roof surface",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Safety structure",
+          "value": "Stable passenger cell with front and rear crumple zones",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Floor structure",
+          "value": "Shortened and reinforced W111-derived floorpan",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The W113 Pagoda is a lasting Mercedes sports-car design icon that combined its distinctive removable roof with a reinforced passenger cell and crumple zones. The original 230 SL represents this substantive safety and touring-sports-car landmark, rather than adding later engines or roof options as separate cars.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_230sl_w113_1963.jpg",
+          "caption": "Mercedes-Benz W113 230 SL photographed by Ermell with its removable Pagoda hardtop fitted. This representative road car illustrates the W113 roof/body concept; it does not establish a 1963 build date, the selected original engine tune, gearbox or unchanged mechanical condition.",
+          "creator": "Ermell",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "cdfac6afdc73893795f0791dd117a777ac5c175fc92b53355c1ed68ac8012284"
+        }
+      ]
+    },
+    {
+      "id": "MER-CLS55-AMG-C219-US2006",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "CLS",
+      "generation": "First-generation C219 production-road four-door coupe family",
+      "variant": "CLS 55 AMG — 2006 US factory reference",
+      "model_year_from": 2006,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Four-door performance coupe",
+      "road_legal": 1,
+      "specification_market": "Original Mercedes-Benz USA 2006 CLS-Class brochure, PDF page 3 specification matrix and page 14 performance description. Read the CLS 55 AMG column, not CLS 500 302-hp/7-speed data. Native net US hp/lb-ft stay unconverted; 2006 denotes the US model-year reference, with delayed availability noted, not global introduction. No universal first-four-door-coupe claim, optional packages, speedometer maximum or measured acceleration is inferred.",
+      "summary": "The first CLS generation is a landmark in Mercedes’ four-door coupe design. Its handbuilt supercharged V8 AMG combines that distinctive body concept with substantial performance engineering, making the CLS 55 an important supercharged-AMG sporting-saloon reference rather than an ordinary CLS equipment grade.",
+      "admission_reason": "The first CLS generation is a landmark in Mercedes’ four-door coupe design. Its handbuilt supercharged V8 AMG combines that distinctive body concept with substantial performance engineering, making the CLS 55 an important supercharged-AMG sporting-saloon reference rather than an ordinary CLS equipment grade.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz USA / XR793-hosted original brochure",
+          "title": "2006 Mercedes-Benz CLS-Class — original US brochure, specification and AMG performance sections",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2019/01/2006-Mercedes-Benz-CLS-Class.pdf",
+          "notes": "Original Mercedes-Benz USA 2006 CLS-Class brochure, PDF page 3 specification matrix and page 14 performance description. Read the CLS 55 AMG column, not CLS 500 302-hp/7-speed data. Native net US hp/lb-ft stay unconverted; 2006 denotes the US model-year reference, with delayed availability noted, not global introduction. No universal first-four-door-coupe claim, optional packages, speedometer maximum or measured acceleration is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2006 Mercedes CLS 55 AMG Auto.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2006_Mercedes_CLS_55_AMG_Auto.jpg",
+          "notes": "Calreyn88; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "90-degree V8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5439",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "SOHC, 24 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Helical high-pressure supercharger with liquid-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "9.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "AMG-enhanced five-speed automatic with SpeedShift",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Rear-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net power at 6100 rpm",
+          "value": "469",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory net torque at 2650–4500 rpm",
+          "value": "516",
+          "unit": "lb-ft",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first CLS generation is a landmark in Mercedes’ four-door coupe design. Its handbuilt supercharged V8 AMG combines that distinctive body concept with substantial performance engineering, making the CLS 55 an important supercharged-AMG sporting-saloon reference rather than an ordinary CLS equipment grade.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_cls55_amg_c219_us2006.jpg",
+          "caption": "2006 Mercedes CLS 55 AMG photographed by Calreyn88. This representative C219 road car is not certified as the selected US market reference. Visible black wheels and red calipers are not a claim of standard US brochure equipment, original tune or unchanged mechanical condition.",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "d6e38a3b351c501b2fbc6ecb582c420e0063758b5fc0ec736076dcc4193c8491"
+        }
+      ]
+    },
+    {
+      "id": "CHE-COBALT-SS-TURBO-US2009",
+      "manufacturer": "Chevrolet",
+      "model_family": "Cobalt",
+      "generation": "Original Cobalt production-road sport-compact family",
+      "variant": "SS Turbocharged sedan — 2009 US five-speed manual",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door sporting saloon",
+      "road_legal": 1,
+      "specification_market": "Original 2009 US Chevrolet brochure printed July 2008, PDF pages 2 and 4 / printed 2–3 and 6–7. SS Turbocharged coupe and new sedan share the specified engine/chassis treatment. Select the sedan, not 2.2-litre LS/LT, Sport Appearance Package, earlier supercharged/2.4-litre SS or a second body count. The limited-slip differential and Performance Display are available equipment and omitted. No factory acceleration claim is imported.",
+      "summary": "Contemporary testing singled out the turbo Cobalt SS for unusually accomplished chassis control and front-drive Lightning Lap performance. Its dedicated suspension and Brembo brakes make it a significant American sport-compact reference, represented once by the four-door turbo model.",
+      "admission_reason": "Contemporary testing singled out the turbo Cobalt SS for unusually accomplished chassis control and front-drive Lightning Lap performance. Its dedicated suspension and Brembo brakes make it a significant American sport-compact reference, represented once by the four-door turbo model.",
+      "sources": [
+        {
+          "publisher": "Chevrolet / General Motors",
+          "title": "2009 Chevrolet Cobalt — original US brochure, SS Turbocharged sections",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.auto-brochures.com/makes/Chevrolet/Cobalt/Chevrolet_US%20Cobalt_2009.pdf",
+          "notes": "Original 2009 US Chevrolet brochure printed July 2008, PDF pages 2 and 4 / printed 2–3 and 6–7. SS Turbocharged coupe and new sedan share the specified engine/chassis treatment. Select the sedan, not 2.2-litre LS/LT, Sport Appearance Package, earlier supercharged/2.4-litre SS or a second body count. The limited-slip differential and Performance Display are available equipment and omitted. No factory acceleration claim is imported."
+        },
+        {
+          "publisher": "Car and Driver / Jared Gall",
+          "title": "2009 Chevrolet Cobalt SS Sedan — November 2008 driving report",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://www.caranddriver.com/reviews/a15144400/2009-chevrolet-cobalt-ss-sedan-short-take-road-test/",
+          "notes": "Magazine driving supports chassis/track significance; sedan measurements and interior criticism remain in context. No global record claim."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Chevrolet Cobalt SS Sedan Rear Quarter.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Chevrolet_Cobalt_SS_Sedan_Rear_Quarter.JPG",
+          "notes": "Adam Barrera ( highmileage ); CC BY 3.0. License: https://creativecommons.org/licenses/by/3.0. Credit: Own work. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Four-cylinder ECOTEC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "SS Performance Handling suspension",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Four-wheel disc ABS; Brembo four-piston front calipers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Factory power",
+          "value": "260",
+          "unit": "US hp",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Direct petrol injection",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Front-wheel drive",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "260",
+          "unit": "lb-ft",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Contemporary testing singled out the turbo Cobalt SS for unusually accomplished chassis control and front-drive Lightning Lap performance. Its dedicated suspension and Brembo brakes make it a significant American sport-compact reference, represented once by the four-door turbo model.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_che_cobalt_ss_turbo_us2009.jpg",
+          "caption": "2009 Chevrolet Cobalt SS sedan photographed in Atascocita, Texas, by Adam Barrera (highmileage). This representative four-door body matches the selected sedan rather than a coupe; the photograph does not certify its turbo hardware, optional limited-slip differential or unchanged mechanical originality.",
+          "creator": "Adam Barrera ( highmileage )",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "0d1b7a69b4e2c8a502a95c3167e42e2d54fc432f5b8636e1afbe6d6d28dc0103"
+        }
+      ]
+    },
+    {
+      "id": "FOR-FALCON-FG-FPVF6-MAN2009",
+      "manufacturer": "Ford",
+      "model_family": "Falcon",
+      "generation": "FG production-road Falcon performance-saloon generation",
+      "variant": "FPV F6 310 — January 2009 Australian six-speed manual",
+      "model_year_from": 2009,
+      "model_year_to": null,
+      "origin_country": "Australia",
+      "category": "Performance icon",
+      "body_style": "Four-door performance saloon",
+      "road_legal": 1,
+      "specification_market": "Original Ford Performance Vehicles F6-series brochure printed January 2009, pages 2 and 5. Read the F6 sedan column, not ute, F6X SUV, later F6 E or FG Mk II. Native DIN kW/Nm are retained; the 565-Nm qualification uses 98 RON premium unleaded. ZF automatic is a no-cost option; premium six-piston brakes are optional and not imported as standard. One absent FG Falcon generation is counted.",
+      "summary": "The FG FPV F6 exemplifies Australia’s distinctive high-output turbo six-cylinder performance-saloon tradition. Its broad torque delivery, manual gearbox and dedicated chassis/brakes earned enthusiastic contemporary driving assessments, giving this locally engineered Falcon generation a substantive sporting identity beyond a cosmetic edition.",
+      "admission_reason": "The FG FPV F6 exemplifies Australia’s distinctive high-output turbo six-cylinder performance-saloon tradition. Its broad torque delivery, manual gearbox and dedicated chassis/brakes earned enthusiastic contemporary driving assessments, giving this locally engineered Falcon generation a substantive sporting identity beyond a cosmetic edition.",
+      "sources": [
+        {
+          "publisher": "Ford Performance Vehicles Pty Ltd",
+          "title": "New FPV F6 Series — original Australian brochure, January 2009",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://xr793.com/wp-content/uploads/2023/04/2009-Ford-FPV-F6-AUS.pdf",
+          "notes": "Original Ford Performance Vehicles F6-series brochure printed January 2009, pages 2 and 5. Read the F6 sedan column, not ute, F6X SUV, later F6 E or FG Mk II. Native DIN kW/Nm are retained; the 565-Nm qualification uses 98 RON premium unleaded. ZF automatic is a no-cost option; premium six-piston brakes are optional and not imported as standard. One absent FG Falcon generation is counted."
+        },
+        {
+          "publisher": "Autotalk / Darren Cottingham",
+          "title": "FPV F6 2008 Review — New Zealand launch driving, 16 June 2008",
+          "source_type": "Contemporary first-hand road test",
+          "url": "https://autotalk.co.nz/fpv-f6-review/",
+          "notes": "First-hand launch driving supports torque response and turn-in while noting mirror visibility and exposed intercooler concerns. Manufacturer wheel-power comparisons and unqualified acceleration are not adopted. New Zealand pricing is not Australian market value."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2008-2011 FPV F6 (FG) sedan (20352682803).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2008-2011_FPV_F6_(FG)_sedan_(20352682803).jpg",
+          "notes": "Jeremy from Sydney, Australia; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Ford FPV FG F6. Downloaded rendition copied unchanged; original image format retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "4.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "DOHC, 24 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Garrett GT3540 turbocharger with aluminium air-to-air intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Sequential multipoint electronic fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "310",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "565",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak",
+          "value": "5500",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "TR6060 six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Differential",
+          "value": "Limited-slip differential",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent double-wishbone front; Performance Control Blade independent rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque plateau, derived using 98 RON premium unleaded",
+          "value": "1950–5200",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Standard brake package",
+          "value": "355 x 32 mm front discs / four-piston Brembo; 328 x 26 mm rear discs / single-piston caliper",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The FG FPV F6 exemplifies Australia’s distinctive high-output turbo six-cylinder performance-saloon tradition. Its broad torque delivery, manual gearbox and dedicated chassis/brakes earned enthusiastic contemporary driving assessments, giving this locally engineered Falcon generation a substantive sporting identity beyond a cosmetic edition.",
+          "category": "Historical significance",
+          "confidence": "Primary-source documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_for_falcon_fg_fpvf6_man2009.jpg",
+          "caption": "FPV F6 FG sedan identified by photographer Jeremy as a 2008–2011 car. This representative early-generation four-door saloon is not proof of January 2009 build date or the selected manual gearbox. Its wheels, towbar and trim do not establish universal factory equipment or mechanical originality.",
+          "creator": "Jeremy from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "94a55a825d783558eed847dd655cce7257f50068f3d8c8add9373d9245a6867d"
+        }
+      ]
+    }
+  ]
+}

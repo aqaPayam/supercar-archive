@@ -1,0 +1,1118 @@
+{
+  "batch": "icons-road-2026-10-29-36",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 9,
+  "cars": [
+    {
+      "id": "ABA-595-ORIGINAL1963",
+      "manufacturer": "Abarth",
+      "model_family": "595",
+      "generation": "Original Fiat 500 D-based Abarth 595 road family",
+      "variant": "595 — original 1963 programme, factory historical reference",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door compact performance saloon",
+      "road_legal": 1,
+      "specification_market": "Manufacturer’s 60th-anniversary account, 29 September 2023, identifies the 1963 original 595. Does not specify 595 SS/695 tune. Native horsepower is not assigned an unprinted rating standard. Malformed maximum-speed unit is omitted. Original Abarth provenance cannot be established from badges on a surviving Fiat 500.",
+      "summary": "The original 595 established Abarth’s small-car performance identity through increased capacity, revised engine internals and a distinctive sports exhaust. The Fiat 500-based sporting car became a lasting emblem of the marque.",
+      "admission_reason": "The original 595 established Abarth’s small-car performance identity through increased capacity, revised engine internals and a distinctive sports exhaust. The Fiat 500-based sporting car became a lasting emblem of the marque.",
+      "sources": [
+        {
+          "publisher": "Stellantis Heritage / Abarth",
+          "title": "Six decades of pure adrenalin: the story of the Abarth 595 — original 1963 engineering",
+          "source_type": "Manufacturer historical engineering account",
+          "url": "https://www.stellantisheritage.com/en-uk/heritage/news/the-story-of-the-abarth-595",
+          "notes": "Manufacturer’s 60th-anniversary account, 29 September 2023, identifies the 1963 original 595. Does not specify 595 SS/695 tune. Native horsepower is not assigned an unprinted rating standard. Malformed maximum-speed unit is omitted. Original Abarth provenance cannot be established from badges on a surviving Fiat 500."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:FIAT ABARTH 595 (1964).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:FIAT_ABARTH_595_(1964).jpg",
+          "notes": "KKPCW（Kyu3）; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "593.7",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Vertical Solex carburettor",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Oil system",
+          "value": "Oversized aluminium oil sump",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder construction",
+          "value": "Special cast-iron cylinders cast as one body",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Piston design",
+          "value": "Raised crowns for higher compression",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft",
+          "value": "Uprated performance camshaft",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Exhaust",
+          "label": "System",
+          "value": "Record Monza twin-outlet sports silencer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native retrospective claim at 5000 rpm",
+          "value": "27",
+          "unit": "hp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original 595 established Abarth’s small-car performance identity through increased capacity, revised engine internals and a distinctive sports exhaust. The Fiat 500-based sporting car became a lasting emblem of the marque.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aba_595_original1963.jpg",
+          "caption": "Fiat Abarth 595 photographed in Nagoya, described by the photographer as believed to be 1964. The early small saloon body illustrates the original road family. Present wheels, decals, engine tune and original Abarth-versus-conversion provenance are not authenticated; this image does not certify SS or 695 specifications.",
+          "creator": "KKPCW（Kyu3）",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "2a62d9c9eb153d460be8bc17130a324614e12ffaa9779b580946d59fdad477fa"
+        }
+      ]
+    },
+    {
+      "id": "ABA-500-EU2008-135",
+      "manufacturer": "Abarth",
+      "model_family": "500",
+      "generation": "Original modern Type 312 Abarth 500 performance hatchback generation",
+      "variant": "500 — 2008 European 99-kW original road reference",
+      "model_year_from": 2008,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Three-door compact performance hatchback",
+      "road_legal": 1,
+      "specification_market": "UK February 2008 launch brief supplies hardware; July German on-sale release separately confirms 99 kW/135 PS. The UK brief’s bhp label and variable-geometry turbo claim are not adopted. No power-peak rpm is inferred across conflicting launch texts. Optional 17-inch wheels, esseesse, later 595/695 and electric versions are excluded.",
+      "summary": "The modern Abarth 500 revived the marque’s tiny performance-car formula with a turbocharged engine and a coordinated brake and chassis package. It made the Scorpion’s sporting identity part of the reborn 500 generation.",
+      "admission_reason": "The modern Abarth 500 revived the marque’s tiny performance-car formula with a turbocharged engine and a coordinated brake and chassis package. It made the Scorpion’s sporting identity part of the reborn 500 generation.",
+      "sources": [
+        {
+          "publisher": "Abarth / Fiat Group Automobiles UK",
+          "title": "New 500 Abarth debuts at Geneva — original hardware brief, 18 February 2008",
+          "source_type": "Manufacturer original launch specification brief",
+          "url": "https://www.media.stellantis.com/uk-en/abarth/press/new-500-abarth-debuts-at-geneva",
+          "notes": "UK February 2008 launch brief supplies hardware; July German on-sale release separately confirms 99 kW/135 PS. The UK brief’s bhp label and variable-geometry turbo claim are not adopted. No power-peak rpm is inferred across conflicting launch texts. Optional 17-inch wheels, esseesse, later 595/695 and electric versions are excluded."
+        },
+        {
+          "publisher": "Abarth / Fiat Group Automobiles Germany",
+          "title": "Neuer 500 Abarth: Deutschlandstart am 19. Juli — 11 July 2008",
+          "source_type": "Manufacturer production-market introduction",
+          "url": "https://www.media.stellantis.com/de-de/abarth/press/neuer-500-abarth-deutschlandstart-am-19-juli-offizielle-premiere-des-kult-modells-mit-live-act-in-munchen",
+          "notes": "Confirms the production European 500 Abarth’s July German sale and native 99-kW/135-PS output. No additional output standard or power-peak rpm is inferred."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2009 Abarth 500 1.4 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2009_Abarth_500_1.4_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged petrol inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1368",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed gearbox with dual-cable external control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Front MacPherson layout and rear torsion beam; anti-roll bars",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs, 284 × 22 mm; solid rear discs, 240 × 11 mm",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "Standard 195/45 R16 on 6.5 × 16-inch alloy wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque in Sport mode at 3000 rpm",
+          "value": "206",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native German on-sale claim",
+          "value": "99",
+          "unit": "kW",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The modern Abarth 500 revived the marque’s tiny performance-car formula with a turbocharged engine and a coordinated brake and chassis package. It made the Scorpion’s sporting identity part of the reborn 500 generation.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aba_500_eu2008_135.jpg",
+          "caption": "Abarth 500 identified as 2009 in Warwick, showing the original modern hatchback body. The displayed wheel/trim choices do not certify the selected standard 16-inch specification or absence of later tuning. Later facelift 595/695 and competition cars are not this reference.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "05bb5f2dfc4389689e1e94165d2919b385c2558be2f3ed71300f256dc791738d"
+        }
+      ]
+    },
+    {
+      "id": "MAZ-EUNOS-COSMO-20B1990",
+      "manufacturer": "Mazda",
+      "model_family": "Eunos Cosmo",
+      "generation": "Fourth-generation JC Cosmo three-rotor road coupe family",
+      "variant": "20B-REW — original road family, factory retrospective reference",
+      "model_year_from": 1990,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Mazda Rotary Engine Press Information 2017, 23 PDF spreads rendered; printed 15–16/PDF9 and 31–32/PDF17 enlarged and read. Selected three-rotor 20B family, not 13B or racing 13G/26B. The 20B table prints contradictory 654 cc × 2: displacement is omitted. No CCS navigation, trim or kerb weight is made universal across the family.",
+      "summary": "Mazda’s production three-rotor flagship combined sequential turbocharging with a luxurious road coupe. The Eunos Cosmo represents a distinctive engineering branch of the rotary sports-car story, separate from the earlier two-rotor Cosmo Sport.",
+      "admission_reason": "Mazda’s production three-rotor flagship combined sequential turbocharging with a luxurious road coupe. The Eunos Cosmo represents a distinctive engineering branch of the rotary sports-car story, separate from the earlier two-rotor Cosmo Sport.",
+      "sources": [
+        {
+          "publisher": "Mazda Motor Corporation / Mazda Canada press archive",
+          "title": "Rotary Engine Press Information 2017 — 20B-REW development and Eunos Cosmo road reference",
+          "source_type": "Manufacturer rotary-engine technical and historical press booklet",
+          "url": "https://filecache.mediaroom.com/mr5mr_mazdaca/210703/download/Mazda_Rotary%20Press_Information%202017.pdf",
+          "notes": "Mazda Rotary Engine Press Information 2017, 23 PDF spreads rendered; printed 15–16/PDF9 and 31–32/PDF17 enlarged and read. Selected three-rotor 20B family, not 13B or racing 13G/26B. The 20B table prints contradictory 654 cc × 2: displacement is omitted. No CCS navigation, trim or kerb weight is made universal across the family."
+        },
+        {
+          "publisher": "Mazda Motor Corporation",
+          "title": "History of Mazda, 1990–1999 — April 1990 Eunos Cosmo introduction",
+          "source_type": "Manufacturer historical production chronology",
+          "url": "https://www.mazda.com/en/about/history/1990-1999/",
+          "notes": "April 1990 model entry identifies the three-rotor/sequential-turbo coupe and its double-wishbone front, multilink rear suspension with twin dampers. No absolute navigation-first claim is imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Eunos Cosmo in the Mazda Museum.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Eunos_Cosmo_in_the_Mazda_Museum.jpg",
+          "notes": "NAParish; CC BY-SA 2.0. License: https://creativecommons.org/licenses/by-sa/2.0. Credit: https://www.flickr.com/photos/naparish/33597055320/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "20B-REW three-rotor rotary engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Sequential twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Electronically controlled injection with air-mixture injectors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, native factory-booklet claim at 6500 rpm",
+          "value": "280",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, JIS net at 3000 rpm",
+          "value": "41.0",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; multilink rear with twin dampers",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "Mazda’s production three-rotor flagship combined sequential turbocharging with a luxurious road coupe. The Eunos Cosmo represents a distinctive engineering branch of the rotary sports-car story, separate from the earlier two-rotor Cosmo Sport.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_maz_eunos_cosmo_20b1990.jpg",
+          "caption": "Eunos Cosmo displayed at the Mazda Museum, showing the original JC luxury-coupe body. The exterior does not independently establish three-rotor versus two-rotor engine, CCS navigation, exact trim or unchanged mechanical condition. The adjacent white RX-7 is a separate car.",
+          "creator": "NAParish",
+          "license": "CC BY-SA 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "7bf8860731f589a7752db75722003759cbadb8315e3a88e542e2b1fbda46ad30"
+        }
+      ]
+    },
+    {
+      "id": "HON-CIVIC-EG6-SIRII-JP1991",
+      "manufacturer": "Honda",
+      "model_family": "Civic",
+      "generation": "Fifth-generation EG original Japan DOHC VTEC performance hatchback",
+      "variant": "SiR II — September 1991 Japan five-speed manual",
+      "model_year_from": 1991,
+      "model_year_to": null,
+      "origin_country": "Japan",
+      "category": "Performance icon",
+      "body_style": "Three-door compact performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original Honda September 1991 three-door table. SiR/SiR-II manual columns distinguish 170 PS from 155-PS automatic; four-door EG9 Ferio and 1.5-litre VTi are excluded. Optional ABS/TCS/LSD, air conditioning, power steering and sunroof are not declared universal. Variable option-dependent weights are omitted.",
+      "summary": "The EG Civic SiR II carries Honda’s high-revving VTEC hot-hatch identity into a distinct Civic generation. Its naturally aspirated B16A and double-wishbone suspension combine accessible compact-car packaging with purposeful sports engineering.",
+      "admission_reason": "The EG Civic SiR II carries Honda’s high-revving VTEC hot-hatch identity into a distinct Civic generation. Its naturally aspirated B16A and double-wishbone suspension combine accessible compact-car packaging with purposeful sports engineering.",
+      "sources": [
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Civic 1991.9 — original Japan three-door specification table, EG6 manual columns",
+          "source_type": "Manufacturer original launch factbook table",
+          "url": "https://www.honda.co.jp/factbook/auto/CIVIC/19910910/cv91-028.html",
+          "notes": "Original Honda September 1991 three-door table. SiR/SiR-II manual columns distinguish 170 PS from 155-PS automatic; four-door EG9 Ferio and 1.5-litre VTi are excluded. Optional ABS/TCS/LSD, air conditioning, power steering and sunroof are not declared universal. Variable option-dependent weights are omitted."
+        },
+        {
+          "publisher": "Honda Motor Co.",
+          "title": "Civic 1991.9 — 1.6L DOHC VTEC engine development",
+          "source_type": "Manufacturer original launch engineering account",
+          "url": "https://www.honda.co.jp/factbook/auto/CIVIC/19910910/cv91-013.html",
+          "notes": "Identifies EG6 SiR/SiR-II, the five-speed manual and naturally aspirated 170-net-PS engine. Intake/exhaust timing and lift change between low and high speed; later engine swaps and exported VTi specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Honda civic eg6 sirii 1 f.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Honda_civic_eg6_sirii_1_f.jpg",
+          "notes": "Toyotacoronaexsaloon; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "B16A water-cooled transverse inline four",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1595",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.4:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Honda PGM-FI electronically controlled fuel injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Five-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double wishbones front and rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front discs and rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "195/55R15 83V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, net at 7800 rpm",
+          "value": "170",
+          "unit": "PS",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, net at 7300 rpm",
+          "value": "16.0",
+          "unit": "kg-m",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valve operation",
+          "value": "DOHC VTEC variable intake/exhaust valve timing and lift",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The EG Civic SiR II carries Honda’s high-revving VTEC hot-hatch identity into a distinct Civic generation. Its naturally aspirated B16A and double-wishbone suspension combine accessible compact-car packaging with purposeful sports engineering.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_hon_civic_eg6_sirii_jp1991.jpg",
+          "caption": "Civic identified as EG6 SiR/SiR II, with the fifth-generation three-door body. Present wheels, trim and condition do not certify the original B16A, five-speed gearbox, emissions-market specification or optional ABS/LSD equipment.",
+          "creator": "Toyotacoronaexsaloon",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "80f42941d14b3f13baaa4feefb1cc9a9956c582e5ea92d8175a0502f10fb17b2"
+        }
+      ]
+    },
+    {
+      "id": "ALF-147-GTA-UK2003-MT",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "147",
+      "generation": "Original type937 147 GTA road-performance hatchback family",
+      "variant": "GTA — March 2003 UK six-speed manual",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original 24 March 2003 UK introduction. Text says 3179 cc while table says 3197 cc: exact displacement omitted. Global factory dossier separately supplies 184 kW, avoiding the ambiguous UK bhp label. Erroneous four-piston-all-round wording, later front brakes, Q2 conversions, Selespeed and race-car specifications are excluded.",
+      "summary": "The 147 GTA put Alfa’s large naturally aspirated V6 into its compact hatchback, backed by reinforced transmission and dedicated chassis development. It is a distinctive road expression of the revived GTA performance name.",
+      "admission_reason": "The 147 GTA put Alfa’s large naturally aspirated V6 into its compact hatchback, backed by reinforced transmission and dedicated chassis development. It is a distinctive road expression of the revived GTA performance name.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo / Fiat Auto UK",
+          "title": "Alfa Romeo 147 GTA in UK — original six-speed road introduction, 24 March 2003",
+          "source_type": "Manufacturer original market introduction and technical dossier",
+          "url": "https://www.media.stellantis.com/uk-en/alfa-romeo/press/alfa-romeo-147-gta-in-uk",
+          "notes": "Original 24 March 2003 UK introduction. Text says 3179 cc while table says 3197 cc: exact displacement omitted. Global factory dossier separately supplies 184 kW, avoiding the ambiguous UK bhp label. Erroneous four-piston-all-round wording, later front brakes, Q2 conversions, Selespeed and race-car specifications are excluded."
+        },
+        {
+          "publisher": "Alfa Romeo",
+          "title": "Alfa 147 GTA — original international road introduction",
+          "source_type": "Manufacturer original international model dossier",
+          "url": "https://www.media.stellantis.com/em-en/alfa-romeo/press/alfa-147-gta-4",
+          "notes": "Original 3.2 V6 24V manual road model is rated at 184 kW. Only that native power figure is mapped here; the translated horsepower parenthesis and competition comparisons are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2003 Alfa Romeo 147 GTA.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2003_Alfa_Romeo_147_GTA.jpg",
+          "notes": "Calreyn88; CC0. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "All-alloy 60-degree V6 with quadruple overhead camshafts and 24 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3.2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Bosch Motronic ME 7.3.1 electronic multipoint injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Reinforced six-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Dedicated high-double-wishbone front and MacPherson-strut rear layouts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Original 305-mm ventilated front discs and 276-mm rear discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/45 R17",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, native UK release claim at 4800 rpm",
+          "value": "221",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "184",
+          "unit": "kW",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 147 GTA put Alfa’s large naturally aspirated V6 into its compact hatchback, backed by reinforced transmission and dedicated chassis development. It is a distinctive road expression of the revived GTA performance name.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_147_gta_uk2003_mt.jpg",
+          "caption": "Alfa Romeo 147 GTA identified as 2003, showing the widened performance hatchback body and characteristic wheels. The photograph cannot certify gearbox, original 305-mm brakes, later Q2 differential conversions or present engine tune.",
+          "creator": "Calreyn88",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "a6b9a80126eae9ab5a3b990dec571c6d325ece15c42f4a16f185d7f433559708"
+        }
+      ]
+    },
+    {
+      "id": "ALF-GTV-916-V6-1999",
+      "manufacturer": "Alfa Romeo",
+      "model_family": "GTV",
+      "generation": "Type 916 modern GTV coupe road family",
+      "variant": "3.0 V6 24V — March 1999 six-speed and aerodynamic-kit reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 8 March 1999 Geneva release distinguishes the six-speed/aero-kit GTV from the 12-valve Spider. Native 162 kW retained without relabelling the English 220-bhp parenthesis. No exact cc, torque, gearbox ratios or engine-peak rpm is invented. Earlier five-speed, Spider and later 3.2 specifications are excluded.",
+      "summary": "The modern GTV carried Alfa’s V6 performance into a distinctive new coupe generation. Its selected three-litre version paired the 24-valve engine with a six-speed transmission and a standard aerodynamic package.",
+      "admission_reason": "The modern GTV carried Alfa’s V6 performance into a distinctive new coupe generation. Its selected three-litre version paired the 24-valve engine with a six-speed transmission and a standard aerodynamic package.",
+      "sources": [
+        {
+          "publisher": "Alfa Romeo",
+          "title": "69th Geneva Motor Show: Alfa Spider and GTV — selected GTV 3.0 V6 24V, 8 March 1999",
+          "source_type": "Manufacturer original production-model show dossier",
+          "url": "https://www.media.stellantis.com/em-en/alfa-romeo/press/69th-geneva-motor-show-alfa-spider-and-gtv",
+          "notes": "Original 8 March 1999 Geneva release distinguishes the six-speed/aero-kit GTV from the 12-valve Spider. Native 162 kW retained without relabelling the English 220-bhp parenthesis. No exact cc, torque, gearbox ratios or engine-peak rpm is invented. Earlier five-speed, Spider and later 3.2 specifications are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1998 Alfa Romeo GTV V6 Lusso 24V 3.0 Front.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1998_Alfa_Romeo_GTV_V6_Lusso_24V_3.0_Front.jpg",
+          "notes": "Vauxford; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "3.0-litre V6 with 24 valves",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "3",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "162",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed gearbox; sixth is not an overdrive ratio",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Factory aerodynamic kit standard on the selected 3.0 V6 24V",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "250",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "6.7",
+          "unit": "s",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The modern GTV carried Alfa’s V6 performance into a distinctive new coupe generation. Its selected three-litre version paired the 24-valve engine with a six-speed transmission and a standard aerodynamic package.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_alf_gtv_916_v6_1999.jpg",
+          "caption": "Alfa Romeo GTV 3.0 V6 24V Lusso identified as 1998, showing the earlier Type 916 body before the later enlarged-grille facelift. Represents the selected road family; the image does not authenticate the March 1999 aerodynamic kit, six-speed gearbox or current mechanical specification.",
+          "creator": "Vauxford",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "4a245c64ceabaa73beb4af639ebe0d8160c8f8a3e861ea6eca628a2a061d885f"
+        }
+      ]
+    },
+    {
+      "id": "FIA-COUPE-20VT-PLUS1999",
+      "manufacturer": "Fiat",
+      "model_family": "Coupé",
+      "generation": "Original Type 175 Fiat sports-coupe road family",
+      "variant": "2.0 20V Turbo Plus — September 1999 factory reference",
+      "model_year_from": 1999,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Original 6 September 1999 Fiat Frankfurt dossier, Coupé section. Selects Turbo Plus, not aspirated/earlier five-speed cars. Body-coloured spoiler and bumper, short-ratio six-speed, Recaros and Sparco brace are explicitly distinguished. No Barchetta gearbox/differential passage, exact cc, torque or later modifications are borrowed.",
+      "summary": "The Coupé gave Fiat a distinctive performance flagship, combining bold styling with turbocharged road performance. The selected Turbo Plus adds a six-speed transmission and coordinated body, seat and chassis-bracing equipment.",
+      "admission_reason": "The Coupé gave Fiat a distinctive performance flagship, combining bold styling with turbocharged road performance. The selected Turbo Plus adds a six-speed transmission and coordinated body, seat and chassis-bracing equipment.",
+      "sources": [
+        {
+          "publisher": "Fiat Auto",
+          "title": "Fiat at the 58th Frankfurt International Motor Show — Coupé 20V Turbo Plus, 6 September 1999",
+          "source_type": "Manufacturer original production-model show dossier",
+          "url": "https://www.media.stellantis.com/em-en/fiat/press/fiat-at-the-58th-frankfurt-international-motor-show",
+          "notes": "Original 6 September 1999 Fiat Frankfurt dossier, Coupé section. Selects Turbo Plus, not aspirated/earlier five-speed cars. Body-coloured spoiler and bumper, short-ratio six-speed, Recaros and Sparco brace are explicitly distinguished. No Barchetta gearbox/differential passage, exact cc, torque or later modifications are borrowed."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:2000 Fiat Coupe 20V Turbo Plus (15907235015).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:2000_Fiat_Coupe_20V_Turbo_Plus_(15907235015).jpg",
+          "notes": "Kieran White from Manchester, England; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 2000 Fiat Coupe 20V Turbo Plus"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged 2.0-litre 20-valve petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "2",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "162",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Six-speed gearbox with short ratios",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Aerodynamic equipment",
+          "value": "Standard front spoiler and sideskirts",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated front disc brakes",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "225/45 tyres on 16-inch wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Body bracing",
+          "value": "Standard Sparco bracing bar",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Interior",
+          "label": "Front seats",
+          "value": "Standard black-leather Recaro seats with red stitching",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Coupé gave Fiat a distinctive performance flagship, combining bold styling with turbocharged road performance. The selected Turbo Plus adds a six-speed transmission and coordinated body, seat and chassis-bracing equipment.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fia_coupe_20vt_plus1999.jpg",
+          "caption": "Fiat Coupé 20V Turbo Plus identified as 2000 in the NEC car park, showing the original closed body and distinctive round rear lamps. Represents the selected 1999 Plus family. The exterior does not certify six-speed internals, Recaro seats, Sparco brace or factory tyre sizes.",
+          "creator": "Kieran White from Manchester, England",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "f33f33269b625055c0d422c0dcefb807939f3ac31711a48c86f8b2c647596d17"
+        }
+      ]
+    },
+    {
+      "id": "VW-GOLF-GTI-MK2-16V-SWE",
+      "manufacturer": "Volkswagen",
+      "model_family": "Golf GTI",
+      "generation": "Second-generation Type 19 Mk2 GTI sixteen-valve road family",
+      "variant": "GTI 16V — Swedish 102-kW DIN three-door brochure reference",
+      "model_year_from": null,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Three-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Original V.A.G Sverige six-page brochure, hosted by Volkswagen Club Sweden and catalogued as 1986. All pages rendered; camshaft/technical PDF3–4 enlarged and read. Issue date unprinted: year unset. Precise table 208 km/h takes precedence over approximate cover 210. Catalyst 95-kW, US-market, G60 and later-generation specifications are excluded.",
+      "summary": "The Mk2 GTI advanced the original hot-hatch formula with a sixteen-valve engine, uprated suspension and all-round disc brakes. It represents a defining stage in the development of the GTI.",
+      "admission_reason": "The Mk2 GTI advanced the original hot-hatch formula with a sixteen-valve engine, uprated suspension and all-round disc brakes. It represents a defining stage in the development of the GTI.",
+      "sources": [
+        {
+          "publisher": "V.A.G Sverige / Volkswagen Club Sweden hosted facsimile",
+          "title": "Golf GTI 16V — original V.A.G Sverige 139-hk/102-kW DIN brochure",
+          "source_type": "Period manufacturer brochure, hosted facsimile",
+          "url": "https://www.gtiklubben.nu/ovrigt/broschyrer/Golf_86_gti_16v.PDF",
+          "notes": "Original V.A.G Sverige six-page brochure, hosted by Volkswagen Club Sweden and catalogued as 1986. All pages rendered; camshaft/technical PDF3–4 enlarged and read. Issue date unprinted: year unset. Precise table 208 km/h takes precedence over approximate cover 210. Catalyst 95-kW, US-market, G60 and later-generation specifications are excluded."
+        },
+        {
+          "publisher": "Volkswagen",
+          "title": "GTI history — four legendary decades",
+          "source_type": "Manufacturer historical model chronology",
+          "url": "https://www.volkswagen-newsroom.com/en/up-gti-polo-gti-golf-gti-performance-2396/gti-history-four-legendary-decades-2439",
+          "notes": "Manufacturer chronology identifies the Mk2 GTI and its 1986 sixteen-valve development. Chronology does not authenticate an unprinted issue date on the selected Swedish brochure."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Volkswagen Golf II GTI 16V IMG 9644.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_II_GTI_16V_IMG_9644.jpg",
+          "notes": "Alexander-93; CC BY-SA 4.0. License: https://creativecommons.org/licenses/by-sa/4.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "1781",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Belt-driven double overhead camshafts linked by a chain; hydraulic valve lifters",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "10.0:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Disc brakes on all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Tyres",
+          "value": "185/60 VR14",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Uprated springs, dampers and anti-roll bars; 10-mm lower ride height than contemporary eight-valve GTI",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "208",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "0–100 km/h",
+          "value": "8.5",
+          "unit": "s",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power, DIN at 6100 rpm",
+          "value": "102",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque, DIN at 4600 rpm",
+          "value": "168",
+          "unit": "Nm",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Mk2 GTI advanced the original hot-hatch formula with a sixteen-valve engine, uprated suspension and all-round disc brakes. It represents a defining stage in the development of the GTI.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_vw_golf_gti_mk2_16v_swe.jpg",
+          "caption": "Volkswagen Golf II GTI 16V in Böblingen, showing the Mk2 three-door body. Badges and wheel appearance cannot authenticate the Swedish non-catalyst 102-kW engine, original ride height, exact year or absence of later modifications.",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "4569d208194e330e4e6b702bb44232acf54b8b026fa62c27b166313bb6897a32"
+        }
+      ]
+    },
+    {
+      "id": "AUD-RS3-8P-EU2011",
+      "manufacturer": "Audi",
+      "model_family": "RS 3",
+      "generation": "First-generation Type 8P RS 3 Sportback road series",
+      "variant": "2.5 TFSI quattro S tronic — 2011 European introduction",
+      "model_year_from": 2011,
+      "model_year_to": null,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Five-door performance hatchback",
+      "road_legal": 1,
+      "specification_market": "Manufacturer launch release hosted in full, explicitly labelled Company press release, 22 November 2010. Narrative supplies these fields, not the host’s separately compiled data table. Selects original 2011 European five-door road car. Native kW avoids ambiguous translated horsepower. No brochure mass, optional tyre package, later 8V/8Y or racing-car figures are imported.",
+      "summary": "The first RS 3 brought Audi’s five-cylinder RS formula to the compact hatchback class. Its turbo engine, dual-clutch transmission and all-wheel drive established a distinct RS model line.",
+      "admission_reason": "The first RS 3 brought Audi’s five-cylinder RS formula to the compact hatchback class. Its turbo engine, dual-clutch transmission and all-wheel drive established a distinct RS model line.",
+      "sources": [
+        {
+          "publisher": "Audi / Ultimatecarpage hosted manufacturer release",
+          "title": "Audi RS 3 Sportback — manufacturer introduction, 22 November 2010, hosted reprint",
+          "source_type": "Manufacturer original launch press release, hosted full-text reprint",
+          "url": "https://www.ultimatecarpage.com/car/4654/Audi-RS-3-Sportback.html",
+          "notes": "Manufacturer launch release hosted in full, explicitly labelled Company press release, 22 November 2010. Narrative supplies these fields, not the host’s separately compiled data table. Selects original 2011 European five-door road car. Native kW avoids ambiguous translated horsepower. No brochure mass, optional tyre package, later 8V/8Y or racing-car figures are imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Audi RS3 Sportback 2.5 TFSI quattro S tronic Misanorot.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Audi_RS3_Sportback_2.5_TFSI_quattro_S_tronic_Misanorot.JPG",
+          "notes": "Thomas doerfer; CC BY 3.0. License: https://creativecommons.org/licenses/by/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Turbocharged inline five-cylinder petrol engine",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2480",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "250",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "FSI petrol direct injection",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Turbocharger and intercooler",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Seven-speed S tronic dual-clutch transmission",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Permanent quattro all-wheel drive; electronically controlled multiplate coupling",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "MacPherson-strut front and four-link rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs: 370-mm front, 310-mm rear",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque from 1600 to 5300 rpm",
+          "value": "450",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Front wings",
+          "value": "Carbon-fibre-reinforced plastic",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The first RS 3 brought Audi’s five-cylinder RS formula to the compact hatchback class. Its turbo engine, dual-clutch transmission and all-wheel drive established a distinct RS model line.",
+          "category": "Historical significance",
+          "confidence": "Archive documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_aud_rs3_8p_eu2011.jpg",
+          "caption": "Audi RS 3 Sportback displayed with the original 8P five-door body and red/black wheel treatment. Represents the first RS 3 road generation. Display options do not prove every item of standard launch equipment or current engine tune.",
+          "creator": "Thomas doerfer",
+          "license": "CC BY 3.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "043af5c804c9847d51d8ddb57c156e5f612d398a4c653a94996fbb31b883e386"
+        }
+      ]
+    }
+  ]
+}

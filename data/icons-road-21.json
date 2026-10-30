@@ -1,0 +1,472 @@
+{
+  "batch": "icons-road-2026-10-29-21",
+  "reviewed_on": "2026-10-29",
+  "expected_count": 4,
+  "cars": [
+    {
+      "id": "JAG-SS100-25-1938",
+      "manufacturer": "Jaguar",
+      "model_family": "SS100",
+      "generation": "Original SS Jaguar 100 overhead-valve sports roadster",
+      "variant": "SS Jaguar 100 2½ Litre — 1938 heritage road reference",
+      "model_year_from": 1938,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Open sports roadster",
+      "road_legal": 1,
+      "specification_market": "Jaguar Daimler Heritage Trust collection account: selected 1938 2½ Litre road reference ERB 290, chassis 49033, built January 20, 1938. The 2½ Litre designation is nominal, not a claim of exactly 2500 cc. Source background specifications describe the original 102-bhp version, not a measurement of this restored car. Earlier SS90 side-valve 70-bhp and later 3½ Litre 125-bhp/acceleration figures are excluded.",
+      "summary": "The SS100 helped establish the Jaguar name through an overhead-valve six-cylinder sports car combining Harry Weslake cylinder-head development, twin SU carburettors and striking open bodywork. The Jaguar Daimler Heritage Trust preserves ERB 290 as a running example of this early performance identity, making the original 2½ Litre roadster a foundational Jaguar sports-car icon.",
+      "admission_reason": "The SS100 helped establish the Jaguar name through an overhead-valve six-cylinder sports car combining Harry Weslake cylinder-head development, twin SU carburettors and striking open bodywork. The Jaguar Daimler Heritage Trust preserves ERB 290 as a running example of this early performance identity, making the original 2½ Litre roadster a foundational Jaguar sports-car icon.",
+      "sources": [
+        {
+          "publisher": "Jaguar Daimler Heritage Trust",
+          "title": "1938 SS Jaguar 100 2½ Litre — ERB 290 / chassis 49033 collection history",
+          "source_type": "Manufacturer heritage collection / owned vehicle history",
+          "url": "https://www.jaguarheritage.com/vehicle-collection/1938-ss-jaguar-100-2%C2%BD-litre/",
+          "notes": "Jaguar Daimler Heritage Trust collection account: selected 1938 2½ Litre road reference ERB 290, chassis 49033, built January 20, 1938. The 2½ Litre designation is nominal, not a claim of exactly 2500 cc. Source background specifications describe the original 102-bhp version, not a measurement of this restored car. Earlier SS90 side-valve 70-bhp and later 3½ Litre 125-bhp/acceleration figures are excluded."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1938 SS Jaguar 100 (41937528041).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1938_SS_Jaguar_100_(41937528041).jpg",
+          "notes": "Tony Hisgett from Birmingham, UK; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: 1938 SS Jaguar 100"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline six-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Overhead-valve cylinder head developed by Harry Weslake",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Twin SU carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "151",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Nominal model designation",
+          "value": "2½ Litre",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "102",
+          "unit": "bhp",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The SS100 helped establish the Jaguar name through an overhead-valve six-cylinder sports car combining Harry Weslake cylinder-head development, twin SU carburettors and striking open bodywork. The Jaguar Daimler Heritage Trust preserves ERB 290 as a running example of this early performance identity, making the original 2½ Litre roadster a foundational Jaguar sports-car icon.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_jag_ss100_25_1938.jpg",
+          "caption": "1938 SS Jaguar 100 ERB 290 photographed in the heritage collection. Registration matches the Jaguar Daimler Heritage Trust reference. The red paint reflects its documented later restoration; this exterior photo does not establish original colour or current mechanical specification.",
+          "creator": "Tony Hisgett from Birmingham, UK",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "5bf6bb3d731f0f1ec09b601ec89aab6ae0040356b3a790ecb3e45f64e8570801"
+        }
+      ]
+    },
+    {
+      "id": "BEN-CONTINENTALGT-W12-2003",
+      "manufacturer": "Bentley",
+      "model_family": "Continental GT",
+      "generation": "Original first-generation twin-turbo W12 four-seat coupe",
+      "variant": "Continental GT — original 2003 W12 road launch specification",
+      "model_year_from": 2003,
+      "model_year_to": null,
+      "origin_country": "United Kingdom",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Bentley September 9, 2003 Frankfurt production launch release, reproduced by Automotive Intelligence on September 17. Native 560 PS is retained without recomputing conflicting rounded kW/bhp conventions. Original road coupe only: no early pre-production over-500-bhp estimate, Speed, Supersports, GTC, V8, GT3 racer or later generation equipment.",
+      "summary": "The original Continental GT redefined Bentley as a modern high-performance grand-tourer manufacturer. Its compact twin-turbo W12, four-wheel drive, six-speed transmission and pillarless four-seat body combined substantial performance with everyday touring use, while the model became the catalyst for the marque’s twenty-first-century revival.",
+      "admission_reason": "The original Continental GT redefined Bentley as a modern high-performance grand-tourer manufacturer. Its compact twin-turbo W12, four-wheel drive, six-speed transmission and pillarless four-seat body combined substantial performance with everyday touring use, while the model became the catalyst for the marque’s twenty-first-century revival.",
+      "sources": [
+        {
+          "publisher": "Bentley Motors / Automotive Intelligence",
+          "title": "The Bentley Continental GT — September 9, 2003 Frankfurt launch release",
+          "source_type": "Period manufacturer launch release reproduced by Automotive Intelligence",
+          "url": "https://www.autointell.net/News-2003/September-2003/September-2003-3/September-17-03-p9.htm",
+          "notes": "Bentley September 9, 2003 Frankfurt production launch release, reproduced by Automotive Intelligence on September 17. Native 560 PS is retained without recomputing conflicting rounded kW/bhp conventions. Original road coupe only: no early pre-production over-500-bhp estimate, Speed, Supersports, GTC, V8, GT3 racer or later generation equipment."
+        },
+        {
+          "publisher": "Bentley Motors",
+          "title": "One-of-one GT Speed celebrates 20 years of Continental success — August 21, 2023",
+          "source_type": "Manufacturer anniversary release / historical account",
+          "url": "https://www.bentleymedia.com/attachment/1213126b-1546-4908-b91c-3b4f303cc20e",
+          "notes": "Factory retrospective identifies the original 2003 production car VIN20001 and the original model’s role in Bentley’s revival. Historical passages only; 2023 GT Speed specifications, WLTP footer and an unrelated historical date typo are excluded. Original power uses the 2003 release rather than the retrospective’s rounded shorthand."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Bentley Continental GT Mulliner 000 since 2003 2006 sideright 2010-02-21 A.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Mulliner_000_since_2003_2006_sideright_2010-02-21_A.jpg",
+          "notes": "Detectandpreserve; CC BY-SA 3.0. License: https://creativecommons.org/licenses/by-sa/3.0. Credit: Own work"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "W12 twelve-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement class",
+          "value": "6.0",
+          "unit": "litres",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum torque",
+          "value": "650",
+          "unit": "Nm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Twin turbochargers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "ZF six-speed automatic with lock-up torque converter and manual paddle control",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Driven wheels",
+          "value": "Four-wheel drive",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Double-wishbone front; multi-link rear; air springs with electronically adjustable dampers",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Ventilated discs at all four wheels; 400-mm front discs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Seats",
+          "value": "4",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power",
+          "value": "560",
+          "unit": "PS",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The original Continental GT redefined Bentley as a modern high-performance grand-tourer manufacturer. Its compact twin-turbo W12, four-wheel drive, six-speed transmission and pillarless four-seat body combined substantial performance with everyday touring use, while the model became the catalyst for the marque’s twenty-first-century revival.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_ben_continentalgt_w12_2003.jpg",
+          "caption": "First-generation Bentley Continental GT photographed in 2010, identified by the photographer as a 2006 Mulliner model. Represents the original coupe body family; its wheels, trim and model year do not certify the selected 2003 launch specification, installed output or originality.",
+          "creator": "Detectandpreserve",
+          "license": "CC BY-SA 3.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fb92ecaffb373730d7759bf34e9947b09b337e8a5ff354d697338958ec04e5d1"
+        }
+      ]
+    },
+    {
+      "id": "MER-500K-SPECIALROADSTER-W29",
+      "manufacturer": "Mercedes-Benz",
+      "model_family": "500 K",
+      "generation": "W29 original 5-litre supercharged road series",
+      "variant": "500 K Special Roadster — original 1934–1936 road specification",
+      "model_year_from": 1934,
+      "model_year_to": 1936,
+      "origin_country": "Germany",
+      "category": "Performance icon",
+      "body_style": "Two-door open Special Roadster",
+      "road_legal": 1,
+      "specification_market": "Original W29 500 K Special Roadster road family, introduced October 1934, produced through 1936; this record does not assign a chassis number or authenticate a particular surviving body. March 22, 2016 factory Techno Classica release page 6 specifically supplies the Special Roadster engine, displacement, two output conditions and maximum speed. Adjacent Cabriolet B details, 540 K displacement, racing tunes and conflicting production counts are excluded.",
+      "summary": "The 500 K Special Roadster is a landmark of Mercedes-Benz performance engineering and Sindelfingen coachbuilding. Friedrich Geiger’s sweeping body was paired with a driver-engaged Roots-supercharged engine and advanced independent-wheel suspension, creating one of the defining sporting grand tourers of the 1930s.",
+      "admission_reason": "The 500 K Special Roadster is a landmark of Mercedes-Benz performance engineering and Sindelfingen coachbuilding. Friedrich Geiger’s sweeping body was paired with a driver-engaged Roots-supercharged engine and advanced independent-wheel suspension, creating one of the defining sporting grand tourers of the 1930s.",
+      "sources": [
+        {
+          "publisher": "Mercedes-Benz Museum GmbH / Daimler",
+          "title": "Techno Classica 2016 — 500 K Special Roadster W29 technical data, page 6",
+          "source_type": "Manufacturer press release, Mercedes-Benz club-hosted facsimile",
+          "url": "https://automobiel.mercedes-benz-clubs.com/wp-content/uploads/sites/5/2016/01/20160322-Techno_Classica_2016_eng.pdf",
+          "notes": "Original W29 500 K Special Roadster road family, introduced October 1934, produced through 1936; this record does not assign a chassis number or authenticate a particular surviving body. March 22, 2016 factory Techno Classica release page 6 specifically supplies the Special Roadster engine, displacement, two output conditions and maximum speed. Adjacent Cabriolet B details, 540 K displacement, racing tunes and conflicting production counts are excluded."
+        },
+        {
+          "publisher": "Mercedes-Benz Museum / Mercedes-Benz Heritage",
+          "title": "Sculpture in bright red: The Mercedes-Benz 500 K Special Roadster — March 12, 2024",
+          "source_type": "Manufacturer museum historical / engineering account",
+          "url": "https://mb-france.mercedes-benz-clubs.com/wp-content/uploads/sites/21/2024/03/20240390ans_500K_txt.pdf",
+          "notes": "Museum Close-up No. 2/2024, pages 1–2: October 1934 body introduction, Friedrich Geiger design, M29 engine, full-throttle pressure-point engagement of two-bladed Roots blower, front trapezoidal links and rear swing axle. Rumble bench means no strict two-seat claim. Museum warns of later body conversions; the representative photograph is not factory authentication of an original Sindelfingen body."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Mercedes-Benz Typ 500 K Spezial Roadster (51556748136).jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Typ_500_K_Spezial_Roadster_(51556748136).jpg",
+          "notes": "Thomas Vogt from Paderborn, Deutschland; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: Mercedes-Benz Typ 500 K Spezial Roadster"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Inline eight-cylinder",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "5018",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Performance",
+          "label": "Maximum speed",
+          "value": "160",
+          "unit": "km/h",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power with supercharger engaged",
+          "value": "118",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Maximum power without supercharger",
+          "value": "74",
+          "unit": "kW",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Two-bladed Roots supercharger; full-throttle pressure-point engagement",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Trapezoidal-link front axle; rear swing axle",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Friedrich Geiger",
+          "unit": "",
+          "source": 1
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 500 K Special Roadster is a landmark of Mercedes-Benz performance engineering and Sindelfingen coachbuilding. Friedrich Geiger’s sweeping body was paired with a driver-engaged Roots-supercharged engine and advanced independent-wheel suspension, creating one of the defining sporting grand tourers of the 1930s.",
+          "category": "Historical significance",
+          "confidence": "Manufacturer documented",
+          "source": 1
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_mer_500k_specialroadster_w29.jpg",
+          "caption": "Mercedes-Benz 500 K Special Roadster body photographed at an exhibition. Represents the W29 body type; chassis identity, year, mechanical tune and original Sindelfingen body authenticity are not certified by this photograph. It is not identified as the factory museum reference vehicle.",
+          "creator": "Thomas Vogt from Paderborn, Deutschland",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 2,
+          "sha256": "fb81d9b25019c66318e9e2cbe982fa5c48edc07e845ebdb6e518dcebbd0362a7"
+        }
+      ]
+    },
+    {
+      "id": "FER-250GT-LUSSO-1963",
+      "manufacturer": "Ferrari",
+      "model_family": "250 GT Lusso",
+      "generation": "Original Pininfarina-designed Scaglietti-built road berlinetta",
+      "variant": "250 GT Berlinetta Lusso — 1963 road specification",
+      "model_year_from": 1963,
+      "model_year_to": null,
+      "origin_country": "Italy",
+      "category": "Performance icon",
+      "body_style": "Two-door coupe",
+      "road_legal": 1,
+      "specification_market": "Gooding Christie’s Rétromobile Paris lot 17: 1963 chassis 4837 GT, engine 4837. Auction/consignor report states Ferrari Classiche certification and restoration in 2017 with original chassis, engine and gearbox. This is an auction-documented road reference, not independent factory certification or proof of pictured-car identity. English BHP/French ch output notation, questionable copied acceleration, top speed and conflicting production totals are omitted. No SWB/GTO race specification is inherited.",
+      "summary": "The 250 GT Lusso is a defining Enzo-era Ferrari road grand tourer, combining Pininfarina’s sculpted berlinetta design with Scaglietti construction and the Colombo-family V12 tradition. Its refined road-car identity and enduring design significance distinguish it from the archive’s competition-derived 250 GTO, rather than adding another year or cosmetic version of that car.",
+      "admission_reason": "The 250 GT Lusso is a defining Enzo-era Ferrari road grand tourer, combining Pininfarina’s sculpted berlinetta design with Scaglietti construction and the Colombo-family V12 tradition. Its refined road-car identity and enduring design significance distinguish it from the archive’s competition-derived 250 GTO, rather than adding another year or cosmetic version of that car.",
+      "sources": [
+        {
+          "publisher": "Gooding Christie’s",
+          "title": "1963 Ferrari 250 GT Lusso — chassis 4837 GT / engine 4837, Rétromobile Paris lot 17",
+          "source_type": "Auction house vehicle catalogue / consignor documentation report",
+          "url": "https://www.christies.com/en/lot/lot-6570441",
+          "notes": "Gooding Christie’s Rétromobile Paris lot 17: 1963 chassis 4837 GT, engine 4837. Auction/consignor report states Ferrari Classiche certification and restoration in 2017 with original chassis, engine and gearbox. This is an auction-documented road reference, not independent factory certification or proof of pictured-car identity. English BHP/French ch output notation, questionable copied acceleration, top speed and conflicting production totals are omitted. No SWB/GTO race specification is inherited."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:Ferrari 250 GT Lusso Berlinetta.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_Lusso_Berlinetta.jpg",
+          "notes": "exfordy; CC BY 2.0. License: https://creativecommons.org/licenses/by/2.0. Credit: https://www.flickr.com/photos/exfordy/2310028357/"
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Tipo 168U V12",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement",
+          "value": "2953",
+          "unit": "cc",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Camshaft layout",
+          "value": "Single overhead camshaft per cylinder bank",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "Three Weber 36 DCS carburettors",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Type",
+          "value": "Four-speed manual",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Brakes",
+          "label": "Type",
+          "value": "Dunlop disc brakes at all four wheels",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Chassis",
+          "label": "Suspension",
+          "value": "Independent front with coil springs; live rear axle with semi-elliptical leaf springs",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Body",
+          "label": "Panel material",
+          "value": "Steel body with aluminium doors, bonnet and boot lid",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Design",
+          "label": "Designer",
+          "value": "Pininfarina; coachwork by Scaglietti",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The 250 GT Lusso is a defining Enzo-era Ferrari road grand tourer, combining Pininfarina’s sculpted berlinetta design with Scaglietti construction and the Colombo-family V12 tradition. Its refined road-car identity and enduring design significance distinguish it from the archive’s competition-derived 250 GTO, rather than adding another year or cosmetic version of that car.",
+          "category": "Historical significance",
+          "confidence": "Auction documented",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_fer_250gt_lusso_1963.jpg",
+          "caption": "Ferrari 250 GT Lusso road berlinetta photographed at a motoring event. Represents the original Lusso body. It is not identified as auction reference chassis 4837 GT; registration, paint, restoration and current mechanical originality are not authenticated by this image.",
+          "creator": "exfordy",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 1,
+          "sha256": "a018bb46169c5697779d924a0fec98fffeda55243779d49a4229bbb32d3db96e"
+        }
+      ]
+    }
+  ]
+}
