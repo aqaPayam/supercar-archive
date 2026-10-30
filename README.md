@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and nine reviewed road-icon batches add 511 cars
-to the 395-record baseline, bringing the working catalogue to 906 records.
-The latest [DeSoto Adventurer batch](docs/icons-road-109.md)
-adds one absent performance-road programme, following the
-[original Dodge D-500 batch](docs/icons-road-108.md). Individual reviews and
+evidence and licensed photograph. One hundred and ten reviewed road-icon batches add 512 cars
+to the 395-record baseline, bringing the working catalogue to 907 records.
+The latest [original Rocket 88 batch](docs/icons-road-110.md)
+adds one absent performance-road family, following the
+[DeSoto Adventurer batch](docs/icons-road-109.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

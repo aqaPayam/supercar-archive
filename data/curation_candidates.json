@@ -5678,7 +5678,18 @@
       "duplicate_review": "Complete 905-record identity inventory checked for DeSoto, De Soto, Adventurer, Fireflite, Firedome and Firesweep aliases; no target is present. Count the original 1956–1960 Adventurer production-road performance programme once across years, bodies, engines and associated Fireflite identities; Ghia concepts and later engine substitutions excluded.",
       "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
       "status": "Imported and validated in data/icons-road-109.json"
+    },
+    {
+      "manufacturer": "Oldsmobile",
+      "model": "88 / Rocket 88",
+      "generation": "Original 1949–1953 Rocket 88 production-road performance family",
+      "proposed_record": "OLD-ROCKET88-ORIGINAL-1949-SEDAN",
+      "reason": "The Rocket 88 is a foundational American performance icon, placing Oldsmobile’s modern high-compression overhead-valve V8 in its lighter 88 body. The Henry Ford documents the programme’s early stock-car racing impact and its cultural connection to the song Rocket 88, establishing significance beyond ordinary period styling or rarity.",
+      "evidence": "https://www.thehenryford.org/collections/explore/artifact/216837",
+      "duplicate_review": "Complete 906-record identity inventory checked for Rocket, Eighty-Eight, Eighty Eight, Super 88, Super88 and Oldsmobile identities; no target is present. All manufacturer names beginning Old and plain 88 families reviewed; only the second-generation 4-4-2 is present. Count the original 1949–1953 Rocket 88 road family once across years, roofs, trim and Super 88 alternatives; racing specifications excluded.",
+      "remaining": "None for this selected production-road reference; additional variants remain subject to the counting boundary.",
+      "status": "Imported and validated in data/icons-road-110.json"
     }
   ],
-  "catalogue_count_after_batches": 906
+  "catalogue_count_after_batches": 907
 }

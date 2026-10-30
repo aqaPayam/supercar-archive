@@ -1,0 +1,209 @@
+{
+  "batch": "icons-road-2026-10-30-110",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "OLD-ROCKET88-ORIGINAL-1949-SEDAN",
+      "manufacturer": "Oldsmobile",
+      "model_family": "88 / Rocket 88",
+      "generation": "Original 1949–1953 Rocket 88 production-road performance family",
+      "variant": "88 five-passenger four-door sedan — 1949 USA AMA, Hydra-Matic",
+      "model_year_from": 1949,
+      "model_year_to": null,
+      "origin_country": "United States",
+      "category": "Performance icon",
+      "body_style": "Four-door sedan",
+      "road_legal": 1,
+      "specification_market": "1949 USA Oldsmobile 88 five-passenger four-door sedan with factory-standard Hydra-Matic, original AMA reference dated 14 September 1948. Count the original 1949–1953 Rocket 88 performance-road family once across years, roofs, trim and Super 88 alternatives. Bare-engine and standard-accessory power/torque are separate historical test ratings, not modern net values. Racing history explains admission; race tuning is not road specification. No modern net/kW conversion, speed, acceleration, weight or later-model output inferred. Representative photograph does not authenticate USA market equipment.",
+      "summary": "The Rocket 88 is a foundational American performance icon, placing Oldsmobile’s modern high-compression overhead-valve V8 in its lighter 88 body. The Henry Ford documents the programme’s early stock-car racing impact and its cultural connection to the song Rocket 88, establishing significance beyond ordinary period styling or rarity.",
+      "admission_reason": "The Rocket 88 is a foundational American performance icon, placing Oldsmobile’s modern high-compression overhead-valve V8 in its lighter 88 body. The Henry Ford documents the programme’s early stock-car racing impact and its cultural connection to the song Rocket 88, establishing significance beyond ordinary period styling or rarity.",
+      "sources": [
+        {
+          "publisher": "Oldsmobile Division, General Motors / Automotive History Preservation Society facsimile",
+          "title": "1949 Oldsmobile 88 AMA Consolidated Specification Questionnaire — 14 September 1948",
+          "source_type": "Original manufacturer AMA specification sheets, hosted scan",
+          "url": "https://autohistorypreservationsociety.org/wp-content/uploads/1949-OLDSMOBILE-AMA-Specs-88-Pg-1-10.pdf",
+          "notes": "Ten scanned pages, 2,272,559 bytes. Full PDF indexes 0, 2, 3, 4, 6, 7 and 8 visually read. Sheet 1 explicitly separates bare-engine 135 bhp/263 lb-ft from standard-accessory 129 bhp/255 lb-ft at their stated peaks. Sheet 4 identifies Hydra-Matic standard on all 88 models; 5 gives coil springs front and rear. Sheet 9 identifies the five-passenger four-door body. Preserve documented 303.73-cu-in displacement and native fractional bore/stroke; no modern power conversion. Shipping mass, later manual availability, later carburettors and racing setup are not inferred."
+        },
+        {
+          "publisher": "The Henry Ford",
+          "title": "Oldsmobile Rocket V-8-cylinder Engine, 1949 — artifact 76.31.1",
+          "source_type": "Museum documents its original engine artifact and engineering history",
+          "url": "https://www.thehenryford.org/collections/explore/artifact/216837",
+          "notes": "Admission and engine architecture context: early modern high-compression OHV V8, placed in the lighter 88, with major early stock-car racing impact. Race output and trophy totals are not road specifications. Confusing bore/stroke labels in the artifact dimension metadata are not used; original factory sheets control dimensions."
+        },
+        {
+          "publisher": "The Henry Ford",
+          "title": "1950 Oldsmobile 88 advertisement, Make a Date with a Rocket 8 — artifact 92.267.7",
+          "source_type": "Museum documents its original advertisement and cultural context",
+          "url": "https://www.thehenryford.org/collections/explore/artifact/367321",
+          "notes": "Cultural admission context only: the museum connects the 1949 introduction and performance following with the 1951 song Rocket 88. Its physical advertisement is dated July 1950, not the selected 1949 technical reference. No lyrics, unqualified first-muscle-car claim or 1950 body specifications imported."
+        },
+        {
+          "publisher": "Wikimedia Commons",
+          "title": "File:1949 Oldsmobile 88 4-door sedan.jpg",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1949_Oldsmobile_88_4-door_sedan.jpg",
+          "notes": "Sicnag; CC BY 2.0. Exact licence: https://creativecommons.org/licenses/by/2.0. Original credit: 1949 Oldsmobile Dynamic 88 Sedan Uploaded by OSX. Original credit links: https://www.flickr.com/photos/42220226@N07/6746153859/, //commons.wikimedia.org/wiki/User:OSX. Downloaded rendition copied unchanged; attribution retained."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Configuration",
+          "value": "Overhead-valve Rocket V8",
+          "unit": "",
+          "source": 1
+        },
+        {
+          "section": "Engine",
+          "label": "Displacement, factory sheet",
+          "value": "303.73",
+          "unit": "cu in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Bore × stroke, native fractions",
+          "value": "3 3/4 × 3 7/16",
+          "unit": "in",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Compression ratio",
+          "value": "7.25:1",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, factory bare-engine rating",
+          "value": "135",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power peak, both factory ratings",
+          "value": "3600",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Power, with factory standard accessories",
+          "value": "129",
+          "unit": "bhp",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, factory bare-engine rating",
+          "value": "263",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque peak, both factory ratings",
+          "value": "1800",
+          "unit": "rpm",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Torque, with factory standard accessories",
+          "value": "255",
+          "unit": "lb-ft",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Cylinder head material",
+          "value": "Cast iron",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Fuel system",
+          "value": "One downdraft dual carburettor; automatic choke",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Standard transmission",
+          "value": "Hydra-Matic four-speed automatic",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Transmission",
+          "label": "Forward ratios, factory sheet",
+          "value": "3.8195 / 2.6341 / 1.45 / 1.00",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Drivetrain",
+          "label": "Rear axle",
+          "value": "Semi-floating hypoid; no optional ratio assigned",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Front",
+          "value": "Independent; coil springs and front stabilizer",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Suspension",
+          "label": "Rear",
+          "value": "Conventional axle; coil springs and stabilizing arms",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Standard rim specification",
+          "value": "15-inch diameter, 5.50F width; 5.50K optional",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Rocket 88 is a foundational American performance icon, placing Oldsmobile’s modern high-compression overhead-valve V8 in its lighter 88 body. The Henry Ford documents the programme’s early stock-car racing impact and its cultural connection to the song Rocket 88, establishing significance beyond ordinary period styling or rarity.",
+          "category": "Historical significance",
+          "confidence": "Museum engine and advertisement collection histories documented",
+          "source": 1
+        },
+        {
+          "title": "Cultural significance",
+          "explanation": "The Henry Ford connects the Rocket 88’s performance following with the 1951 song Rocket 88. Its collection preserves a 1950 advertisement; that later artifact supplies cultural context rather than the selected car’s factory specifications.",
+          "category": "Historical significance",
+          "confidence": "Museum documents its own advertisement collection",
+          "source": 2
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_old_rocket88_original_1949.jpg",
+          "caption": "1949 Oldsmobile 88 four-door sedan photographed by Sicnag in Australia, January 2012. Representative matching sedan body photograph with split windscreen and period grille. It does not authenticate engine internals, USA-market equipment, transmission, exact trim or restoration originality; photo metadata supplies no imported technical specifications.",
+          "creator": "Sicnag",
+          "license": "CC BY 2.0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "8a03f6f6dc48b36f17017a35f3aad7b205fad44e44cd1543a3f38c5206cb02a5"
+        }
+      ]
+    }
+  ]
+}
