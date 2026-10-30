@@ -5205,7 +5205,29 @@
       "duplicate_review": "Absent model/generation checked against the complete 861-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-80.json"
+    },
+    {
+      "manufacturer": "Matra",
+      "model": "Bagheera",
+      "generation": "Original Matra-Simca / Talbot-Matra Bagheera production-road family",
+      "proposed_record": "MAT-BAGHEERA-1294-FR1974",
+      "reason": "The Bagheera made Matra’s transverse mid-engine sports-car layout work with three seats across a single front row. Its glass-fibre-reinforced polyester panels, self-supporting steel structure, independent suspension and four assisted disc brakes give that unusual packaging a substantive sporting basis. It represents a distinctive French sports-car design programme, not merely a rare trim. One original Bagheera family is counted; later engines, facelifts, Courreges trim and Talbot badging add no extra entries.",
+      "evidence": "https://matra.com/marque",
+      "duplicate_review": "Absent model/generation checked against the complete 863-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-81.json"
+    },
+    {
+      "manufacturer": "Matra",
+      "model": "Murena",
+      "generation": "Original Talbot-Matra Murena production-road sports-coupe family",
+      "proposed_record": "MAT-MURENA-22-FR1981",
+      "reason": "The Murena developed Matra’s three-abreast mid-engine sports-coupe idea into a distinct successor with a five-speed transmission and a hot-dip galvanised structure. Its combination of unconventional passenger packaging, independent suspension, disc brakes and an innovative corrosion-protection process gives it lasting engineering significance within French sports-car history. One original Murena family is admitted; the 1.6, tuned 2.2, kit 142 and S versions do not create extra counts.",
+      "evidence": "https://matra.com/marque",
+      "duplicate_review": "Absent model/generation checked against the complete 863-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-81.json"
     }
   ],
-  "catalogue_count_after_batches": 863
+  "catalogue_count_after_batches": 865
 }
