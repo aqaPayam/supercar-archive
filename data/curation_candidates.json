@@ -6002,7 +6002,18 @@
       "duplicate_review": "Complete 933-record inventory checked for Alfa Romeo 6C/1500/1750, SS/Super Sport, GS/Gran Sport, James Young and related early Jano identities. No early 6C road family is present. Count the early 1500/1750 sporting-road programme once across engines, years, subtype names and coachwork. Fixed-head competition references, additional racer/chassis/body records and later 6C programmes are not admitted.",
       "remaining": "None for this selected museum road-car reference; additional versions remain subject to the existing counting boundary.",
       "status": "Imported and validated in data/icons-road-137.json"
+    },
+    {
+      "manufacturer": "Bugatti",
+      "model": "Type 43",
+      "generation": "Original Type 43/43A production-road touring-sports family",
+      "proposed_record": "BUG-T43-GRANDSPORT-MUSEUM1929",
+      "reason": "The Bugatti Type 43 is a landmark early high-performance road tourer, combining a Grand Prix-derived supercharged engine with touring accommodation. The Bugatti Trust identifies it among the earliest very fast sports cars sold to the public, and its engineering and enduring sporting reputation justify admission beyond age or rarity. Count the original Type 43/43A road family once; other body styles, years and individual racing chassis do not add records.",
+      "evidence": "https://www.bugatti-trust.co.uk/sound-recording-of-4-bugatti-engines/",
+      "duplicate_review": "Complete 934-record inventory checked for Bugatti Type 43/43A, T43 and Grand Sport touring aliases. No Type 43 road family is present. Existing Type 55 is a separately named later programme, expressly compared with Type 43 in factory history. Group Type 43/43A road bodies, engines, years and chassis once; Type 35 racers, mixed Type 43/44 restorations and replicas are not additionally counted.",
+      "remaining": "None for this selected museum road-touring reference; additional versions remain subject to the existing counting boundary.",
+      "status": "Imported and validated in data/icons-road-138.json"
     }
   ],
-  "catalogue_count_after_batches": 934
+  "catalogue_count_after_batches": 935
 }

@@ -1,0 +1,125 @@
+{
+  "batch": "icons-road-2026-10-30-138",
+  "reviewed_on": "2026-10-30",
+  "expected_count": 1,
+  "cars": [
+    {
+      "id": "BUG-T43-GRANDSPORT-MUSEUM1929",
+      "manufacturer": "Bugatti",
+      "model_family": "Type 43",
+      "generation": "Original Type 43/43A production-road touring-sports family",
+      "variant": "Type 43 touring car — 1929 Louwman Museum reference",
+      "model_year_from": 1929,
+      "model_year_to": null,
+      "origin_country": "France",
+      "category": "Performance icon",
+      "body_style": "Open sporting road tourer",
+      "road_legal": 1,
+      "specification_market": "Original Bugatti Type 43/43A production-road touring-sports family; selected 1929 Louwman Museum Type 43 touring-car reference. All six technical attributes map to the museum entry: eight cylinders, quoted 2.3 L, supercharger, three valves per cylinder, eight-spoke alloy wheels and steering-linked headlamps. Headlamp detail describes this collection car, not universal original equipment. No precise displacement, cylinder layout, horsepower, rpm, torque, gearbox specification, seats, weight, dimensions, measured acceleration or speed imported. Bugatti Trust curatorial text establishes public-sale sports-car identity; its different restored chassis 43208 supplies no selected technical fields. Group Type 43/43A engines, road bodies, years and chassis once. Dedicated Type 35/35B racers, the separately named Type 55 programme, modified Type 43/44 combinations and replicas are not additionally admitted. No race wins, swapped axles, racing fuel tank, unqualified first-100-mph priority, production totals or originality certification transferred.",
+      "summary": "The Bugatti Type 43 is a landmark early high-performance road tourer, combining a Grand Prix-derived supercharged engine with touring accommodation. The Bugatti Trust identifies it among the earliest very fast sports cars sold to the public, and its engineering and enduring sporting reputation justify admission beyond age or rarity. Count the original Type 43/43A road family once; other body styles, years and individual racing chassis do not add records.",
+      "admission_reason": "The Bugatti Type 43 is a landmark early high-performance road tourer, combining a Grand Prix-derived supercharged engine with touring accommodation. The Bugatti Trust identifies it among the earliest very fast sports cars sold to the public, and its engineering and enduring sporting reputation justify admission beyond age or rarity. Count the original Type 43/43A road family once; other body styles, years and individual racing chassis do not add records.",
+      "sources": [
+        {
+          "publisher": "Louwman Museum",
+          "title": "Bugatti Type 43 — 1929 collection touring-car reference",
+          "source_type": "Original museum collection account for the reference car",
+          "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/bugatti-type-43",
+          "notes": "Complete relevant current collection entry read directly. All six attributes map to its eight-cylinder 2.3-litre supercharged engine, three valves per cylinder with two intake/one exhaust, eight-spoke alloy wheels and steering-linked headlights. Preserve approximate litre label; do not infer inline layout, exact capacity, output or gearing from Type 35 literature. Headlights are an individual collection-car feature, not a universal factory assertion. Touring body and production-car description are distinguished from the following Type 35 racing-history paragraph. Old search metadata labelled bodywork racecar, but direct current entry does not expose that field; public-road-family identity is checked separately against Bugatti Trust. No first-160-km/h claim, acceleration in top, Type 35 race totals or chassis originality certification imported."
+        },
+        {
+          "publisher": "The Bugatti Trust",
+          "title": "Sound recording of 4 Bugatti Engines — curatorial account accompanying 1977 CAR GRAPHIC Sonographic Series on the Road, Type 43 section",
+          "source_type": "Original archive custodian account and historical model identification",
+          "url": "https://www.bugatti-trust.co.uk/sound-recording-of-4-bugatti-engines/",
+          "notes": "Complete relevant web text read, including Type 43 section; audio was not played and original Japanese book pages were not inspected. Trust identifies Type 43 as a sports car sold to the public with touring accommodation and a Type 35B-derived engine. Its example is restored 1927 chassis 43208, not the Louwman reference. No approximately 120-bhp value, seat count, production total, former-owner history or current whereabouts is transferred as selected technical data. Early high-speed road-car significance is retained without asserting an exclusive world-first or measured speed."
+        },
+        {
+          "publisher": "Motor Sport; Gordon Cruickshank",
+          "title": "Phoenix from the flames — February 2015 original feature",
+          "source_type": "Original historical investigation and owner-history feature",
+          "url": "https://www.motorsportmagazine.com/archive/article/february-2015/104/phoenix-flames/",
+          "notes": "Complete relevant feature read via direct page text after web-cache failure. Original investigation distinguishes Type 43 Grand Sport touring-road programme from Grand Prix cars and examines Campbell chassis 43171, its racing fire, later road registration, altered body/components and restoration. It is not the Louwman car or a fresh standard-road performance test. No race number, personal speeds, first-registration date, Type 44 axle, nonstandard bag fuel tank, restored matching-numbers claim, quoted period acceleration or production total transferred. A later Bugatti factory Type 55 history was separately checked for named-model distinction, not used to give Type 43 the later car specifications."
+        },
+        {
+          "publisher": "Wikimedia Commons; AlfvanBeem",
+          "title": "File:1929 Bugatti Type 43 p1.JPG",
+          "source_type": "Image source",
+          "url": "https://commons.wikimedia.org/wiki/File:1929_Bugatti_Type_43_p1.JPG",
+          "notes": "Own-work photographer AlfvanBeem, taken 6 March 2011 at Louwman Museum. Current summary, original upload history, CC0 dedication and API metadata read. CC0 1.0 Universal, http://creativecommons.org/publicdomain/zero/1.0/deed.en . Downloaded 1280 x 960 JPEG rendition individually viewed and copied unchanged. Blue long touring body, upright screen, wings and eight-spoke wheels match selected museum family/body. Category identifies chassis 43-268 but photo alone does not authenticate serial, engine, exact build year or equipment originality. No Type 35 racer, modern replica or Campbell restored chassis is represented as this car."
+        }
+      ],
+      "attributes": [
+        {
+          "section": "Engine",
+          "label": "Cylinder count",
+          "value": "8",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Museum quoted displacement",
+          "value": "2.3",
+          "unit": "L",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Induction",
+          "value": "Supercharger",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Engine",
+          "label": "Valves per cylinder",
+          "value": "3: two intake and one exhaust",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Wheels",
+          "label": "Museum reference wheels",
+          "value": "Eight-spoke alloy",
+          "unit": "",
+          "source": 0
+        },
+        {
+          "section": "Lighting",
+          "label": "Museum reference headlamps",
+          "value": "Swivel with the steering",
+          "unit": "",
+          "source": 0
+        }
+      ],
+      "facts": [
+        {
+          "title": "Why this car belongs",
+          "explanation": "The Bugatti Type 43 is a landmark early high-performance road tourer, combining a Grand Prix-derived supercharged engine with touring accommodation. The Bugatti Trust identifies it among the earliest very fast sports cars sold to the public, and its engineering and enduring sporting reputation justify admission beyond age or rarity. Count the original Type 43/43A road family once; other body styles, years and individual racing chassis do not add records.",
+          "category": "Landmark early high-performance road-touring engineering",
+          "confidence": "Original museum and archive-custodian accounts; public road-family identity checked",
+          "source": 1
+        },
+        {
+          "title": "Steering-linked lights on the museum touring car",
+          "explanation": "Louwman Museum describes this Type 43 with eight-spoke alloy wheels and headlights that turn with the steering. Those features are recorded as collection-reference details, rather than proof that every Type 43 retained identical factory equipment.",
+          "category": "Collection-reference engineering detail",
+          "confidence": "Original museum collection description; individual-car scope retained",
+          "source": 0
+        }
+      ],
+      "media": [
+        {
+          "media_type": "Exterior image",
+          "location": "/assets/icon_bug_t43_louwman1929.jpg",
+          "caption": "Bugatti Type 43 touring car at Louwman Museum, photographed 6 March 2011. Blue touring body and eight-spoke alloy wheels illustrate the selected family; exact engine, build year, chassis serial and equipment originality are not authenticated by the image alone. AlfvanBeem, Wikimedia Commons, CC0 1.0 Universal Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/deed.en); downloaded 1280-pixel JPEG rendition copied unchanged.",
+          "creator": "AlfvanBeem",
+          "license": "CC0",
+          "is_primary": 1,
+          "source": 3,
+          "sha256": "4a637bc5165e40030ab90d9ed389719d68f34e35489c1ddedce41bdfdadc182f"
+        }
+      ]
+    }
+  ]
+}

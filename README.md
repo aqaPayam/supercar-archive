@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. One hundred and thirty-seven reviewed road-icon batches add 539 cars
-to the 395-record baseline, bringing the working catalogue to 934 records.
-The latest [Alfa Romeo 6C batch](docs/icons-road-137.md)
+evidence and licensed photograph. One hundred and thirty-eight reviewed road-icon batches add 540 cars
+to the 395-record baseline, bringing the working catalogue to 935 records.
+The latest [Bugatti Type 43 batch](docs/icons-road-138.md)
 adds one absent sporting-road family, following the
-[Mercer Raceabout batch](docs/icons-road-136.md). Individual reviews and
+[Alfa Romeo 6C batch](docs/icons-road-137.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The researched [Celica GT-TS counting hold](docs/celica-ta64-counting-hold.md)
