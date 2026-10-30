@@ -55,11 +55,11 @@ variant list, manufacturer sources, photo attributions and validation commands.
 
 New additions follow the [performance-icon admission policy](docs/curation1000.md).
 Each car needs a sourced explanation of its significance, alongside its technical
-evidence and licensed photograph. Eighty-eight reviewed road-icon batches add 479 cars
-to the 395-record baseline, bringing the working catalogue to 874 records.
-The latest [DB HBR5 Coach batch](docs/icons-road-88.md)
-adds one absent original production-road sports family, following the
-[Safrane Biturbo and R21 Turbo batch](docs/icons-road-87.md). Individual reviews and
+evidence and licensed photograph. Eighty-nine reviewed road-icon batches add 480 cars
+to the 395-record baseline, bringing the working catalogue to 875 records.
+The latest [GR86 second-generation 86/BRZ batch](docs/icons-road-89.md)
+adds one absent production-road sports programme, following the
+[DB HBR5 Coach batch](docs/icons-road-88.md). Individual reviews and
 evidence boundaries
 are recorded in [the documentation](docs), with repeatable manifests in `data`.
 The [Carrera GT media-source repair](docs/baseline-carrera-gt-media-repair-01.md)

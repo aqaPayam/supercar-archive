@@ -5326,7 +5326,18 @@
       "duplicate_review": "Absent model/generation checked against the complete 873-car inventory; cross-batch replay passed.",
       "remaining": "None for this selected road reference; extra variants await the counting decision.",
       "status": "Imported and validated in data/icons-road-88.json"
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "GR86",
+      "generation": "Second-generation 86 / BRZ production-road sports-coupe programme",
+      "proposed_record": "TOY-GR86-RZ-JP2021-6MT",
+      "reason": "The GR86 advances the lightweight, front-engine/rear-drive 86 sports-coupe concept with a larger 2.4-litre boxer, a newly developed body and increased rigidity while retaining a six-speed manual and driver-focused chassis. It represents the second-generation Toyota/Subaru 86/BRZ road programme, distinct from the original 2.0-litre GT86 already preserved. Count this shared generation once; Subaru badges, grades, transmissions, anniversaries and model years do not add separate entries.",
+      "evidence": "https://global.toyota/en/newsroom/toyota/36247827.html",
+      "duplicate_review": "Absent model/generation checked against the complete 874-car inventory; cross-batch replay passed.",
+      "remaining": "None for this selected road reference; extra variants await the counting decision.",
+      "status": "Imported and validated in data/icons-road-89.json"
     }
   ],
-  "catalogue_count_after_batches": 874
+  "catalogue_count_after_batches": 875
 }
